@@ -1,0 +1,32 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a fully grown person or animal",
+        "examples": [
+            {
+                "code": "adult_example_young-adults-are-difficult-to-understand",
+                "text": "Young adults are difficult to understand."
+            },
+            {
+                "code": "adult_example_there-was-a-group-for-single-adults",
+                "text": "There was a group for single adults."
+            },
+            {
+                "code": "adult_example_responsible-adults-do-not-drink-and-drive",
+                "text": "Responsible adults do not drink and drive."
+            },
+            {
+                "code": "adult_example_our-colleges-have-programs-for-adult-education",
+                "text": "Our colleges have programs for adult education."
+            },
+            {
+                "code": "adult_example_the-adult-population-is-growing-rapidly",
+                "text": "The adult population is growing rapidly."
+            },
+            {
+                "code": "adult_example_adult-men-should-be-more-responsible",
+                "text": "Adult men should be more responsible."
+            }
+        ]
+    }
+]

@@ -1,0 +1,48 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a large amount of money or property",
+        "examples": [
+            {
+                "code": "wealth_example_they-have-great-wealth",
+                "text": "They have great wealth."
+            },
+            {
+                "code": "wealth_example_they-have-a-growing-wealth-in-real-estate-property",
+                "text": "They have a growing wealth in real estate property."
+            },
+            {
+                "code": "wealth_example_this-country-has-opportunities-for-economic-wealth",
+                "text": "This country has opportunities for economic wealth."
+            },
+            {
+                "code": "wealth_example_they-have-great-wealth",
+                "text": "They have great wealth."
+            },
+            {
+                "code": "wealth_example_he-acquired-his-wealth-from-stocks",
+                "text": "He acquired his wealth from stocks."
+            },
+            {
+                "code": "wealth_example_he-lost-his-wealth-because-of-gambling",
+                "text": "He lost his wealth because of gambling."
+            },
+            {
+                "code": "wealth_example_how-can-we-generate-wealth",
+                "text": "How can we generate wealth?"
+            },
+            {
+                "code": "wealth_example_he-always-displays-his-wealth",
+                "text": "He always displays his wealth."
+            },
+            {
+                "code": "wealth_example_he-shares-his-wealth-with-the-local-community",
+                "text": "He shares his wealth with the local community."
+            },
+            {
+                "code": "wealth_example_he-is-a-man-of-great-wealth",
+                "text": "He is a man of great wealth."
+            }
+        ]
+    }
+]

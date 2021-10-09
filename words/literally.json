@@ -1,0 +1,36 @@
+[
+    {
+        "type": "(adv)",
+        "mean": "using exact words; exactly; true",
+        "examples": [
+            {
+                "code": "literally_example_it-is-literally-impossible-to-get-my-daughter-to-clean-her-room",
+                "text": "It is literally impossible to get my daughter to clean her room."
+            },
+            {
+                "code": "literally_example_her-crazy-stories-are-literally-true",
+                "text": "Her crazy stories are literally true."
+            },
+            {
+                "code": "literally_example_his-actions-were-literally-insane",
+                "text": "His actions were literally insane."
+            },
+            {
+                "code": "literally_example_the-hurricane-literally-destroyed-our-house",
+                "text": "The hurricane literally destroyed our house."
+            },
+            {
+                "code": "literally_example_he-literally-starved-to-death",
+                "text": "He literally starved to death."
+            },
+            {
+                "code": "literally_example_it-literally-disappeared-right-before-our-eyes",
+                "text": "It literally disappeared right before our eyes."
+            },
+            {
+                "code": "literally_example_the-car-literally-exploded",
+                "text": "The car literally exploded."
+            }
+        ]
+    }
+]

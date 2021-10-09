@@ -1,0 +1,80 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "well-known to many people",
+        "examples": [
+            {
+                "code": "famous_example_she-wants-to-become-famous",
+                "text": "She wants to become famous."
+            },
+            {
+                "code": "famous_example_she-is-a-famous-singer",
+                "text": "She is a famous singer."
+            },
+            {
+                "code": "famous_example_the-movie-made-the-town-famous",
+                "text": "The movie made the town famous."
+            },
+            {
+                "code": "famous_example_he-has-become-extremely-famous",
+                "text": "He has become extremely famous."
+            },
+            {
+                "code": "famous_example_they-want-to-be-equally-famous",
+                "text": "They want to be equally famous."
+            },
+            {
+                "code": "famous_example_she-is-an-internationally-famous-singer",
+                "text": "She is an internationally famous singer."
+            },
+            {
+                "code": "famous_example_this-restaurant-is-locally-famous",
+                "text": "This restaurant is locally famous."
+            },
+            {
+                "code": "famous_example_the-town-is-rightly-famous-for-its-beer",
+                "text": "The town is rightly famous for its beer."
+            },
+            {
+                "code": "famous_example_the-town-is-famous-for-its-restaurants",
+                "text": "The town is famous for its restaurants."
+            },
+            {
+                "code": "famous_example_she-is-famous-as-a-singer-and-an-actress",
+                "text": "She is famous as a singer and an actress."
+            },
+            {
+                "code": "famous_example_she-was-excited-to-meet-the-famous-actress",
+                "text": "She was excited to meet the famous actress."
+            },
+            {
+                "code": "famous_example_he-is-a-famous-architect",
+                "text": "He is a famous architect."
+            },
+            {
+                "code": "famous_example_we-saw-a-famous-painting-in-the-museum",
+                "text": "We saw a famous painting in the museum."
+            },
+            {
+                "code": "famous_example_she-read-some-famous-books-for-her-project",
+                "text": "She read some famous books for her project."
+            },
+            {
+                "code": "famous_example_he-visited-a-famous-landmark-on-his-trip",
+                "text": "He visited a famous landmark on his trip."
+            },
+            {
+                "code": "famous_example_a-famous-scholar-is-visiting-our-school-this-week",
+                "text": "A famous scholar is visiting our school this week."
+            },
+            {
+                "code": "famous_example_there-are-many-famous-people-in-town-this-week",
+                "text": "There are many famous people in town this week."
+            },
+            {
+                "code": "famous_example_she-recognized-the-famous-song",
+                "text": "She recognized the famous song."
+            }
+        ]
+    }
+]

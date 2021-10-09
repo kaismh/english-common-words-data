@@ -1,0 +1,70 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a person with special knowledge and skills in a specific job or activity",
+        "examples": [
+            {
+                "code": "expert_example_we-consulted-a-leading-expert-in-the-field",
+                "text": "We consulted a leading expert in the field."
+            },
+            {
+                "code": "expert_example_an-international-expert-on-economics-will-be-speaking-tonight",
+                "text": "An international expert on economics will be speaking tonight."
+            },
+            {
+                "code": "expert_example_we-asked-a-local-expert-to-investigate-the-matter",
+                "text": "We asked a local expert to investigate the matter."
+            },
+            {
+                "code": "expert_example_a-financial-expert-will-review-our-results",
+                "text": "A financial expert will review our results."
+            },
+            {
+                "code": "expert_example_they-will-ask-an-expert-before-making-a-decision",
+                "text": "They will ask an expert before making a decision."
+            },
+            {
+                "code": "expert_example_we-need-to-hire-an-expert-to-help-with-this-project",
+                "text": "We need to hire an expert to help with this project."
+            },
+            {
+                "code": "expert_example_health-experts-advise-getting-regular-exercise",
+                "text": "Health experts advise getting regular exercise."
+            },
+            {
+                "code": "expert_example_international-financial-experts-agree-that-the-crisis-isn-t-over",
+                "text": "International financial experts agree that the crisis isn't over."
+            },
+            {
+                "code": "expert_example_she-s-an-expert-at-finding-ways-to-avoid-work",
+                "text": "She's an expert at finding ways to avoid work."
+            },
+            {
+                "code": "expert_example_we-consulted-an-expert-in-european-history",
+                "text": "We consulted an expert in European history."
+            }
+        ]
+    },
+    {
+        "type": "(adj)",
+        "mean": "have great knowledge and skill",
+        "examples": [
+            {
+                "code": "expert_example_we-received-some-expert-advice-from-a-lawyer",
+                "text": "We received some expert advice from a lawyer."
+            },
+            {
+                "code": "expert_example_an-expert-witness-took-the-stand-in-the-trial",
+                "text": "An expert witness took the stand in the trial."
+            },
+            {
+                "code": "expert_example_he-has-expert-knowledge-on-the-subject",
+                "text": "He has expert knowledge on the subject."
+            },
+            {
+                "code": "expert_example_the-teacher-s-expert-guidance-helped-the-students-complete-the-project",
+                "text": "The teacher's expert guidance helped the students complete the project."
+            }
+        ]
+    }
+]

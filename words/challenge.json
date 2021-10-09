@@ -1,0 +1,106 @@
+[
+    {
+        "type": "(n)",
+        "mean": "something difficult; an invitation to fight or compete",
+        "examples": [
+            {
+                "code": "challenge_example_it-was-a-big-challenge-for-us",
+                "text": "It was a big challenge for us."
+            },
+            {
+                "code": "challenge_example_he-will-face-difficult-challenges",
+                "text": "He will face difficult challenges."
+            },
+            {
+                "code": "challenge_example_this-will-be-the-key-challenge",
+                "text": "This will be the key challenge."
+            },
+            {
+                "code": "challenge_example_we-are-facing-fresh-challenges",
+                "text": "We are facing fresh challenges."
+            },
+            {
+                "code": "challenge_example_she-is-anticipating-exciting-challenges",
+                "text": "She is anticipating exciting challenges."
+            },
+            {
+                "code": "challenge_example_what-are-the-economic-challenges",
+                "text": "What are the economic challenges?"
+            },
+            {
+                "code": "challenge_example_he-posed-an-effective-challenge",
+                "text": "He posed an effective challenge."
+            },
+            {
+                "code": "challenge_example_the-lawyer-offered-a-legal-challenge",
+                "text": "The lawyer offered a legal challenge."
+            },
+            {
+                "code": "challenge_example_will-he-accept-the-challenge",
+                "text": "Will he accept the challenge?"
+            },
+            {
+                "code": "challenge_example_we-will-address-the-new-challenge",
+                "text": "We will address the new challenge."
+            },
+            {
+                "code": "challenge_example_budget-cuts-will-create-new-challenges",
+                "text": "Budget cuts will create new challenges."
+            },
+            {
+                "code": "challenge_example_she-relishes-a-challenge",
+                "text": "She relishes a challenge."
+            },
+            {
+                "code": "challenge_example_how-will-we-overcome-the-challenges",
+                "text": "How will we overcome the challenges?"
+            },
+            {
+                "code": "challenge_example_he-received-a-challenge-from-his-rival",
+                "text": "He received a challenge from his rival."
+            },
+            {
+                "code": "challenge_example_she-offered-a-challenge-to-her-students",
+                "text": "She offered a challenge to her students."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to question whether something is true or not; to ask someone to fight or compete",
+        "examples": [
+            {
+                "code": "challenge_example_his-leadership-was-directly-challenged",
+                "text": "His leadership was directly challenged."
+            },
+            {
+                "code": "challenge_example_she-successfully-challenged-the-government",
+                "text": "She successfully challenged the government."
+            },
+            {
+                "code": "challenge_example_the-economy-is-constantly-challenging-us",
+                "text": "The economy is constantly challenging us."
+            },
+            {
+                "code": "challenge_example_are-you-seriously-challenging-me",
+                "text": "Are you seriously challenging me?"
+            },
+            {
+                "code": "challenge_example_do-you-seek-to-challenge-the-law",
+                "text": "Do you seek to challenge the law?"
+            },
+            {
+                "code": "challenge_example_he-challenged-the-law-for-fairness",
+                "text": "He challenged the law for fairness."
+            },
+            {
+                "code": "challenge_example_are-you-going-to-challenge-me-on-this",
+                "text": "Are you going to challenge me on this?"
+            },
+            {
+                "code": "challenge_example_he-challenged-her-to-a-cooking-competition",
+                "text": "He challenged her to a cooking competition."
+            }
+        ]
+    }
+]

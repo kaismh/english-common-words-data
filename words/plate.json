@@ -1,0 +1,44 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a wide flat dish for food; a flat metal object with writing on it",
+        "examples": [
+            {
+                "code": "plate_example_you-can-get-dessert-after-you-finish-your-plate",
+                "text": "You can get dessert after you finish your plate."
+            },
+            {
+                "code": "plate_example_may-i-take-your-plate",
+                "text": "May I take your plate?"
+            },
+            {
+                "code": "plate_example_we-use-glass-plates",
+                "text": "We use glass plates."
+            },
+            {
+                "code": "plate_example_i-bought-a-set-of-dinner-plates",
+                "text": "I bought a set of dinner plates."
+            },
+            {
+                "code": "plate_example_there-were-dirty-plates-on-the-table",
+                "text": "There were dirty plates on the table."
+            },
+            {
+                "code": "plate_example_the-door-has-a-name-plate",
+                "text": "The door has a name plate."
+            },
+            {
+                "code": "plate_example_i-renewed-my-license-plate",
+                "text": "I renewed my license plate."
+            },
+            {
+                "code": "plate_example_there-was-nothing-left-on-her-plate",
+                "text": "There was nothing left on her plate."
+            },
+            {
+                "code": "plate_example_i-ate-a-plate-of-cheese-and-crackers",
+                "text": "I ate a plate of cheese and crackers."
+            }
+        ]
+    }
+]

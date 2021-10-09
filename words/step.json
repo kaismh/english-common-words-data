@@ -1,0 +1,130 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the motion used in walking; one of the things to do in order to achieve something; one of the flat platforms on a staircase or ladder",
+        "examples": [
+            {
+                "code": "step_example_my-son-took-small-steps-toward-me",
+                "text": "My son took small steps toward me."
+            },
+            {
+                "code": "step_example_he-took-careful-steps-on-the-frozen-lake",
+                "text": "He took careful steps on the frozen lake."
+            },
+            {
+                "code": "step_example_i-could-feel-his-heavy-steps-behind-me",
+                "text": "I could feel his heavy steps behind me."
+            },
+            {
+                "code": "step_example_she-took-a-huge-step-toward-independence",
+                "text": "She took a huge step toward independence."
+            },
+            {
+                "code": "step_example_they-took-an-important-step-to-correct-the-situation",
+                "text": "They took an important step to correct the situation."
+            },
+            {
+                "code": "step_example_what-s-the-next-step",
+                "text": "What's the next step?"
+            },
+            {
+                "code": "step_example_we-need-to-take-necessary-steps-to-solve-the-issue",
+                "text": "We need to take necessary steps to solve the issue."
+            },
+            {
+                "code": "step_example_she-took-the-front-steps-to-the-house",
+                "text": "She took the front steps to the house."
+            },
+            {
+                "code": "step_example_he-s-waiting-on-the-bottom-step",
+                "text": "He's waiting on the bottom step."
+            },
+            {
+                "code": "step_example_i-heard-his-heavy-steps-on-the-stairs",
+                "text": "I heard his heavy steps on the stairs."
+            },
+            {
+                "code": "step_example_she-took-one-step-forward",
+                "text": "She took one step forward."
+            },
+            {
+                "code": "step_example_he-retraced-his-steps-to-find-the-lost-keys",
+                "text": "He retraced his steps to find the lost keys."
+            },
+            {
+                "code": "step_example_make-sure-you-follow-all-the-steps",
+                "text": "Make sure you follow all the steps."
+            },
+            {
+                "code": "step_example_watch-your-step",
+                "text": "Watch your step!"
+            },
+            {
+                "code": "step_example_he-ran-up-the-steps-of-the-apartment-building",
+                "text": "He ran up the steps of the apartment building."
+            },
+            {
+                "code": "step_example_my-dog-was-waiting-on-our-front-steps",
+                "text": "My dog was waiting on our front steps."
+            },
+            {
+                "code": "step_example_he-climbed-the-steps-of-the-ladder",
+                "text": "He climbed the steps of the ladder."
+            },
+            {
+                "code": "step_example_she-took-a-slow-step-toward-him",
+                "text": "She took a slow step toward him."
+            },
+            {
+                "code": "step_example_he-stood-a-few-steps-away-from-me",
+                "text": "He stood a few steps away from me."
+            },
+            {
+                "code": "step_example_having-a-business-plan-is-the-first-step-in-starting-a-company",
+                "text": "Having a business plan is the first step in starting a company."
+            },
+            {
+                "code": "step_example_my-dog-waited-on-the-top-step",
+                "text": "My dog waited on the top step."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to move your foot forward in a walking position",
+        "examples": [
+            {
+                "code": "step_example_he-quickly-stepped-out-of-the-room",
+                "text": "He quickly stepped out of the room."
+            },
+            {
+                "code": "step_example_she-slowly-stepped-into-the-hot-bath",
+                "text": "She slowly stepped into the hot bath."
+            },
+            {
+                "code": "step_example_she-carefully-stepped-over-the-broken-glass",
+                "text": "She carefully stepped over the broken glass."
+            },
+            {
+                "code": "step_example_he-boldly-stepped-onto-the-stage",
+                "text": "He boldly stepped onto the stage."
+            },
+            {
+                "code": "step_example_please-step-back",
+                "text": "Please step back."
+            },
+            {
+                "code": "step_example_she-stepped-across-the-room",
+                "text": "She stepped across the room."
+            },
+            {
+                "code": "step_example_he-stepped-right-in-front-of-me",
+                "text": "He stepped right in front of me."
+            },
+            {
+                "code": "step_example_the-children-stepped-onto-the-stage",
+                "text": "The children stepped onto the stage."
+            }
+        ]
+    }
+]

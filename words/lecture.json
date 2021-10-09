@@ -1,0 +1,68 @@
+[
+    {
+        "type": "(n)",
+        "mean": "an educational talk given to an audience or a class; a serious talk given to someone who did something wrong",
+        "examples": [
+            {
+                "code": "lecture_example_the-professor-gave-a-fascinating-lecture-today",
+                "text": "The professor gave a fascinating lecture today."
+            },
+            {
+                "code": "lecture_example_we-listened-to-the-guest-lecture",
+                "text": "We listened to the guest lecture."
+            },
+            {
+                "code": "lecture_example_her-parents-gave-her-a-long-lecture-about-smoking",
+                "text": "Her parents gave her a long lecture about smoking."
+            },
+            {
+                "code": "lecture_example_he-delivered-an-excellent-lecture-today",
+                "text": "He delivered an excellent lecture today."
+            },
+            {
+                "code": "lecture_example_i-wanted-to-attend-the-lecture",
+                "text": "I wanted to attend the lecture."
+            },
+            {
+                "code": "lecture_example_she-spent-five-hours-preparing-her-lecture",
+                "text": "She spent five hours preparing her lecture."
+            },
+            {
+                "code": "lecture_example_he-has-a-lecture-in-the-morning",
+                "text": "He has a lecture in the morning."
+            },
+            {
+                "code": "lecture_example_he-got-a-lecture-from-his-parents-for-skipping-school",
+                "text": "He got a lecture from his parents for skipping school."
+            },
+            {
+                "code": "lecture_example_i-will-meet-you-at-the-lecture-hall",
+                "text": "I will meet you at the lecture hall."
+            },
+            {
+                "code": "lecture_example_she-wanted-to-borrow-my-lecture-notes",
+                "text": "She wanted to borrow my lecture notes."
+            },
+            {
+                "code": "lecture_example_i-saw-him-at-the-lecture",
+                "text": "I saw him at the lecture."
+            },
+            {
+                "code": "lecture_example_she-walked-out-during-his-lecture",
+                "text": "She walked out during his lecture."
+            },
+            {
+                "code": "lecture_example_i-listened-to-the-lecture-by-dr-smith",
+                "text": "I listened to the lecture by Dr. Smith."
+            },
+            {
+                "code": "lecture_example_he-enjoyed-the-lecture-about-evolution",
+                "text": "He enjoyed the lecture about evolution."
+            },
+            {
+                "code": "lecture_example_she-received-a-stern-lecture-from-her-parents",
+                "text": "She received a stern lecture from her parents."
+            }
+        ]
+    }
+]

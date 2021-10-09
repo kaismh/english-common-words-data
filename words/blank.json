@@ -1,0 +1,50 @@
+[
+    {
+        "type": "(n)",
+        "mean": "an empty space on a document or paper; gun cartridge that contains no bullets",
+        "examples": [
+            {
+                "code": "blank_example_fill-in-the-blanks-on-the-test",
+                "text": "Fill in the blanks on the test."
+            },
+            {
+                "code": "blank_example_the-gun-in-the-movie-only-fired-blanks",
+                "text": "The gun in the movie only fired blanks."
+            }
+        ]
+    },
+    {
+        "type": "(adj)",
+        "mean": "having nothing written on it; having no emotion or understanding",
+        "examples": [
+            {
+                "code": "blank_example_this-paper-is-blank",
+                "text": "This paper is blank."
+            },
+            {
+                "code": "blank_example_suddenly-my-computer-screen-went-blank",
+                "text": "Suddenly my computer screen went blank."
+            },
+            {
+                "code": "blank_example_if-you-don-t-know-the-answer-leave-the-question-blank",
+                "text": "If you don't know the answer, leave the question blank."
+            },
+            {
+                "code": "blank_example_my-mind-goes-blank-under-pressure",
+                "text": "My mind goes blank under pressure."
+            },
+            {
+                "code": "blank_example_her-facial-expression-was-totally-blank",
+                "text": "Her facial expression was totally blank."
+            },
+            {
+                "code": "blank_example_he-had-a-blank-expression-on-his-face",
+                "text": "He had a blank expression on his face."
+            },
+            {
+                "code": "blank_example_i-need-a-blank-cd",
+                "text": "I need a blank CD."
+            }
+        ]
+    }
+]

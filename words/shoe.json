@@ -1,0 +1,52 @@
+[
+    {
+        "type": "(n)",
+        "mean": "an outer covering for your foot",
+        "examples": [
+            {
+                "code": "shoe_example_he-was-wearing-heavy-shoes",
+                "text": "He was wearing heavy shoes."
+            },
+            {
+                "code": "shoe_example_i-found-a-pair-of-dress-shoes-at-the-store",
+                "text": "I found a pair of dress shoes at the store."
+            },
+            {
+                "code": "shoe_example_be-sure-to-bring-your-gym-shoes",
+                "text": "Be sure to bring your gym shoes."
+            },
+            {
+                "code": "shoe_example_put-on-your-shoes-before-you-go-outside",
+                "text": "Put on your shoes before you go outside."
+            },
+            {
+                "code": "shoe_example_please-take-off-your-shoes-before-entering-the-house",
+                "text": "Please take off your shoes before entering the house."
+            },
+            {
+                "code": "shoe_example_he-needs-help-tying-his-shoes",
+                "text": "He needs help tying his shoes."
+            },
+            {
+                "code": "shoe_example_i-need-to-break-in-these-shoes",
+                "text": "I need to break in these shoes."
+            },
+            {
+                "code": "shoe_example_what-s-your-shoe-size",
+                "text": "What's your shoe size?"
+            },
+            {
+                "code": "shoe_example_we-need-to-buy-some-shoe-polish",
+                "text": "We need to buy some shoe polish."
+            },
+            {
+                "code": "shoe_example_i-like-to-save-shoe-boxes",
+                "text": "I like to save shoe boxes."
+            },
+            {
+                "code": "shoe_example_do-you-use-a-shoe-rack",
+                "text": "Do you use a shoe rack?"
+            }
+        ]
+    }
+]

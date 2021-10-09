@@ -1,0 +1,44 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to rely on someone or something; to determine the outcome of something based on the situation",
+        "examples": [
+            {
+                "code": "depend_example_we-greatly-depend-on-donations",
+                "text": "We greatly depend on donations."
+            },
+            {
+                "code": "depend_example_the-plant-entirely-depends-on-sunlight",
+                "text": "The plant entirely depends on sunlight."
+            },
+            {
+                "code": "depend_example_our-vacation-strictly-depends-on-this-year-s-bonus",
+                "text": "Our vacation strictly depends on this year's bonus."
+            },
+            {
+                "code": "depend_example_they-still-depend-on-their-parents-for-financial-help",
+                "text": "They still depend on their parents for financial help."
+            },
+            {
+                "code": "depend_example_we-are-depending-on-that-money",
+                "text": "We are depending on that money."
+            },
+            {
+                "code": "depend_example_please-don-t-depend-on-me",
+                "text": "Please don't depend on me."
+            },
+            {
+                "code": "depend_example_it-will-all-depend-on-her-decision",
+                "text": "It will all depend on her decision."
+            },
+            {
+                "code": "depend_example_the-next-step-depends-on-your-move",
+                "text": "The next step depends on your move."
+            },
+            {
+                "code": "depend_example_the-score-will-depend-on-how-prepared-they-are",
+                "text": "The score will depend on how prepared they are."
+            }
+        ]
+    }
+]

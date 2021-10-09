@@ -1,0 +1,52 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "happening ahead of time",
+        "examples": [
+            {
+                "code": "early_example_she-was-early-for-class-so-she-waited-outside",
+                "text": "She was early for class so she waited outside."
+            },
+            {
+                "code": "early_example_it-seems-early-for-snow",
+                "text": "It seems early for snow."
+            },
+            {
+                "code": "early_example_she-arrived-extremely-early-for-her-appointment-and-the-door-was-still-locked",
+                "text": "She arrived extremely early for her appointment and the door was still locked."
+            },
+            {
+                "code": "early_example_she-was-a-little-early-and-the-doctor-wasn-t-ready",
+                "text": "She was a little early and the doctor wasn't ready."
+            },
+            {
+                "code": "early_example_the-baby-learned-to-talk-at-an-unusually-early-age",
+                "text": "The baby learned to talk at an unusually early age."
+            },
+            {
+                "code": "early_example_my-neighborhood-is-noisy-in-the-early-morning",
+                "text": "My neighborhood is noisy in the early morning."
+            },
+            {
+                "code": "early_example_we-will-meet-again-in-the-early-winter",
+                "text": "We will meet again in the early winter."
+            },
+            {
+                "code": "early_example_i-m-very-hungry-now-because-i-had-an-early-lunch",
+                "text": "I'm very hungry now because I had an early lunch."
+            },
+            {
+                "code": "early_example_the-early-detection-saved-a-lot-of-money",
+                "text": "The early detection saved a lot of money."
+            },
+            {
+                "code": "early_example_it-s-too-early-for-dinner",
+                "text": "It's too early for dinner."
+            },
+            {
+                "code": "early_example_he-wakes-up-early-in-the-morning",
+                "text": "He wakes up early in the morning."
+            }
+        ]
+    }
+]

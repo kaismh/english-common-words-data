@@ -1,0 +1,72 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a connection; a friendship; a romantic partnership",
+        "examples": [
+            {
+                "code": "relationship_example_we-had-a-strong-relationship",
+                "text": "We had a strong relationship."
+            },
+            {
+                "code": "relationship_example_this-has-ruined-our-relationship",
+                "text": "This has ruined our relationship."
+            },
+            {
+                "code": "relationship_example_we-ended-our-relationship",
+                "text": "We ended our relationship."
+            },
+            {
+                "code": "relationship_example_our-relationship-has-evolved-over-the-years",
+                "text": "Our relationship has evolved over the years."
+            },
+            {
+                "code": "relationship_example_let-s-analyze-the-relationship-between-diet-and-diseases",
+                "text": "Let's analyze the relationship between diet and diseases."
+            },
+            {
+                "code": "relationship_example_they-discovered-a-relationship-between-diet-and-diseases",
+                "text": "They discovered a relationship between diet and diseases."
+            },
+            {
+                "code": "relationship_example_i-understand-the-relationship-between-diet-and-exercise",
+                "text": "I understand the relationship between diet and exercise."
+            },
+            {
+                "code": "relationship_example_how-would-you-describe-their-relationship",
+                "text": "How would you describe their relationship?"
+            },
+            {
+                "code": "relationship_example_i-am-having-relationship-problems",
+                "text": "I am having relationship problems."
+            },
+            {
+                "code": "relationship_example_we-have-a-business-relationship",
+                "text": "We have a business relationship."
+            },
+            {
+                "code": "relationship_example_there-is-a-clear-relationship-between-pollution-and-climate-change",
+                "text": "There is a clear relationship between pollution and climate change."
+            },
+            {
+                "code": "relationship_example_he-survived-an-abusive-relationship",
+                "text": "He survived an abusive relationship."
+            },
+            {
+                "code": "relationship_example_my-parents-have-a-loving-relationship",
+                "text": "My parents have a loving relationship."
+            },
+            {
+                "code": "relationship_example_they-are-in-a-committed-relationship",
+                "text": "They are in a committed relationship."
+            },
+            {
+                "code": "relationship_example_what-is-the-relationship-between-them",
+                "text": "What is the relationship between them?"
+            },
+            {
+                "code": "relationship_example_i-have-no-relationship-with-them",
+                "text": "I have no relationship with them."
+            }
+        ]
+    }
+]

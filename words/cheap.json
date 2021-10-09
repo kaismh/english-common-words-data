@@ -1,0 +1,52 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "low priced; low quality",
+        "examples": [
+            {
+                "code": "cheap_example_these-pants-are-cheap",
+                "text": "These pants are cheap."
+            },
+            {
+                "code": "cheap_example_i-bought-the-furniture-cheap-at-the-garage-sale",
+                "text": "I bought the furniture cheap at the garage sale."
+            },
+            {
+                "code": "cheap_example_houses-don-t-come-cheap-in-this-neighborhood",
+                "text": "Houses don't come cheap in this neighborhood."
+            },
+            {
+                "code": "cheap_example_your-jacket-looks-cheap",
+                "text": "Your jacket looks cheap."
+            },
+            {
+                "code": "cheap_example_our-apartment-is-extremely-cheap",
+                "text": "Our apartment is extremely cheap."
+            },
+            {
+                "code": "cheap_example_the-designer-handbag-was-amazingly-cheap-at-the-outlet-store",
+                "text": "The designer handbag was amazingly cheap at the outlet store."
+            },
+            {
+                "code": "cheap_example_this-is-comparatively-cheap-from-what-i-paid",
+                "text": "This is comparatively cheap from what I paid."
+            },
+            {
+                "code": "cheap_example_where-can-i-find-a-cheap-flight",
+                "text": "Where can I find a cheap flight?"
+            },
+            {
+                "code": "cheap_example_don-t-buy-cheap-beer",
+                "text": "Don't buy cheap beer."
+            },
+            {
+                "code": "cheap_example_i-m-looking-for-cheap-clothes",
+                "text": "I'm looking for cheap clothes."
+            },
+            {
+                "code": "cheap_example_the-store-sells-cheap-imports",
+                "text": "The store sells cheap imports."
+            }
+        ]
+    }
+]

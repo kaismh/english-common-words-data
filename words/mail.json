@@ -1,0 +1,102 @@
+[
+    {
+        "type": "(n)",
+        "mean": "letters or items delivered by the postal office",
+        "examples": [
+            {
+                "code": "mail_example_i-answered-all-of-my-mail-today",
+                "text": "I answered all of my mail today."
+            },
+            {
+                "code": "mail_example_did-you-get-the-mail-yet",
+                "text": "Did you get the mail yet?"
+            },
+            {
+                "code": "mail_example_i-opened-his-mail-by-accident",
+                "text": "I opened his mail by accident."
+            },
+            {
+                "code": "mail_example_the-mail-has-been-collected-already",
+                "text": "The mail has been collected already."
+            },
+            {
+                "code": "mail_example_the-mail-man-is-coming-soon",
+                "text": "The mail man is coming soon."
+            },
+            {
+                "code": "mail_example_you-can-leave-the-key-in-the-mailbox",
+                "text": "You can leave the key in the mailbox."
+            },
+            {
+                "code": "mail_example_the-mail-room-is-full",
+                "text": "The mail room is full."
+            },
+            {
+                "code": "mail_example_we-re-waiting-for-the-mail-delivery",
+                "text": "We're waiting for the mail delivery."
+            },
+            {
+                "code": "mail_example_it-s-available-by-mail-order-only",
+                "text": "It's available by mail order only."
+            },
+            {
+                "code": "mail_example_we-sent-your-money-by-registered-mail",
+                "text": "We sent your money by registered mail."
+            },
+            {
+                "code": "mail_example_my-job-is-to-sort-the-incoming-mail",
+                "text": "My job is to sort the incoming mail."
+            },
+            {
+                "code": "mail_example_i-use-electronic-mail",
+                "text": "I use electronic mail."
+            },
+            {
+                "code": "mail_example_he-left-me-a-few-voicemails",
+                "text": "He left me a few voicemails."
+            },
+            {
+                "code": "mail_example_i-get-a-lot-of-hate-mail",
+                "text": "I get a lot of hate mail."
+            },
+            {
+                "code": "mail_example_i-have-a-pile-of-unopened-mail",
+                "text": "I have a pile of unopened mail."
+            },
+            {
+                "code": "mail_example_please-send-it-by-mail",
+                "text": "Please send it by mail."
+            },
+            {
+                "code": "mail_example_i-received-her-check-in-the-mail",
+                "text": "I received her check in the mail."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to send letters or items using the postal office",
+        "examples": [
+            {
+                "code": "mail_example_i-mailed-her-a-postcard-from-china",
+                "text": "I mailed her a postcard from China."
+            },
+            {
+                "code": "mail_example_did-you-mail-your-ballot-yet",
+                "text": "Did you mail your ballot yet?"
+            },
+            {
+                "code": "mail_example_we-will-be-mailing-it-out-today",
+                "text": "We will be mailing it out today."
+            },
+            {
+                "code": "mail_example_please-mail-it-directly-to-me",
+                "text": "Please mail it directly to me."
+            },
+            {
+                "code": "mail_example_i-mailed-the-check-to-her-yesterday",
+                "text": "I mailed the check to her yesterday."
+            }
+        ]
+    }
+]

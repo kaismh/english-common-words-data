@@ -1,0 +1,72 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the place of an event; a view; a part of a movie or play",
+        "examples": [
+            {
+                "code": "scene_example_there-were-footprints-found-near-the-crime-scene",
+                "text": "There were footprints found near the crime scene."
+            },
+            {
+                "code": "scene_example_the-garden-was-a-beautiful-scene",
+                "text": "The garden was a beautiful scene."
+            },
+            {
+                "code": "scene_example_the-car-accident-was-a-horrible-scene",
+                "text": "The car accident was a horrible scene."
+            },
+            {
+                "code": "scene_example_he-is-in-the-opening-scene-of-the-movie",
+                "text": "He is in the opening scene of the movie."
+            },
+            {
+                "code": "scene_example_there-is-a-romantic-scene-in-the-movie",
+                "text": "There is a romantic scene in the movie."
+            },
+            {
+                "code": "scene_example_the-fireman-was-on-the-scene-within-minutes",
+                "text": "The fireman was on the scene within minutes."
+            },
+            {
+                "code": "scene_example_an-ambulance-soon-arrived-at-the-scene-of-the-crash",
+                "text": "An ambulance soon arrived at the scene of the crash."
+            },
+            {
+                "code": "scene_example_a-robber-was-seen-fleeing-the-scene",
+                "text": "A robber was seen fleeing the scene."
+            },
+            {
+                "code": "scene_example_they-witnessed-the-horrible-scene-of-the-car-crash",
+                "text": "They witnessed the horrible scene of the car crash."
+            },
+            {
+                "code": "scene_example_can-you-imagine-the-scene",
+                "text": "Can you imagine the scene?"
+            },
+            {
+                "code": "scene_example_i-remember-that-scene-like-it-was-yesterday",
+                "text": "I remember that scene like it was yesterday."
+            },
+            {
+                "code": "scene_example_they-practiced-the-action-scene-several-times",
+                "text": "They practiced the action scene several times."
+            },
+            {
+                "code": "scene_example_the-man-died-at-the-scene",
+                "text": "The man died at the scene."
+            },
+            {
+                "code": "scene_example_photographers-were-on-the-scene-in-seconds",
+                "text": "Photographers were on the scene in seconds."
+            },
+            {
+                "code": "scene_example_we-visited-the-scene-of-the-crime",
+                "text": "We visited the scene of the crime."
+            },
+            {
+                "code": "scene_example_she-only-appeared-in-the-last-scene",
+                "text": "She only appeared in the last scene."
+            }
+        ]
+    }
+]

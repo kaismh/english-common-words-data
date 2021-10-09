@@ -1,0 +1,138 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a business organization or company",
+        "examples": [
+            {
+                "code": "firm_example_she-works-for-a-large-firm",
+                "text": "She works for a large firm."
+            },
+            {
+                "code": "firm_example_he-left-a-prestigious-firm-to-start-his-own-company",
+                "text": "He left a prestigious firm to start his own company."
+            },
+            {
+                "code": "firm_example_they-all-work-for-the-family-firm",
+                "text": "They all work for the family firm."
+            },
+            {
+                "code": "firm_example_he-works-with-international-firms",
+                "text": "He works with international firms."
+            },
+            {
+                "code": "firm_example_he-runs-an-accounting-firm",
+                "text": "He runs an accounting firm."
+            },
+            {
+                "code": "firm_example_they-are-starting-a-law-firm-this-year",
+                "text": "They are starting a law firm this year."
+            },
+            {
+                "code": "firm_example_he-founded-the-firm-ten-years-ago",
+                "text": "He founded the firm ten years ago."
+            },
+            {
+                "code": "firm_example_she-manages-a-local-accounting-firm",
+                "text": "She manages a local accounting firm."
+            },
+            {
+                "code": "firm_example_her-engineering-firm-was-bought-by-a-major-corporation",
+                "text": "Her engineering firm was bought by a major corporation."
+            },
+            {
+                "code": "firm_example_they-made-the-decision-to-close-the-firm",
+                "text": "They made the decision to close the firm."
+            },
+            {
+                "code": "firm_example_she-joined-the-firm-last-week",
+                "text": "She joined the firm last week."
+            },
+            {
+                "code": "firm_example_the-firm-employs-many-people",
+                "text": "The firm employs many people."
+            },
+            {
+                "code": "firm_example_the-firm-is-expanding-rapidly",
+                "text": "The firm is expanding rapidly."
+            },
+            {
+                "code": "firm_example_his-firm-specializes-in-environmental-work",
+                "text": "His firm specializes in environmental work."
+            },
+            {
+                "code": "firm_example_the-firm-is-based-in-los-angeles",
+                "text": "The firm is based in Los Angeles."
+            }
+        ]
+    },
+    {
+        "type": "(adj)",
+        "mean": "solid or strong; not likely to change; strict",
+        "examples": [
+            {
+                "code": "firm_example_this-bed-is-pretty-firm",
+                "text": "This bed is pretty firm."
+            },
+            {
+                "code": "firm_example_put-the-butter-in-the-fridge-so-it-will-stay-firm",
+                "text": "Put the butter in the fridge so it will stay firm."
+            },
+            {
+                "code": "firm_example_exercise-will-make-your-muscles-firm",
+                "text": "Exercise will make your muscles firm."
+            },
+            {
+                "code": "firm_example_she-held-firm-on-her-position",
+                "text": "She held firm on her position."
+            },
+            {
+                "code": "firm_example_his-answer-sounds-pretty-firm",
+                "text": "His answer sounds pretty firm."
+            },
+            {
+                "code": "firm_example_my-new-pillows-are-quite-firm",
+                "text": "My new pillows are quite firm."
+            },
+            {
+                "code": "firm_example_he-is-quite-firm-with-his-students",
+                "text": "He is quite firm with his students."
+            },
+            {
+                "code": "firm_example_she-stands-firm-on-her-principles",
+                "text": "She stands firm on her principles."
+            },
+            {
+                "code": "firm_example_that-is-a-firm-decision",
+                "text": "That is a firm decision."
+            },
+            {
+                "code": "firm_example_he-took-a-firm-stance-on-the-issue",
+                "text": "He took a firm stance on the issue."
+            },
+            {
+                "code": "firm_example_she-is-a-firm-believer-in-creativity-in-the-classroom",
+                "text": "She is a firm believer in creativity in the classroom."
+            },
+            {
+                "code": "firm_example_we-don-t-have-any-firm-evidence",
+                "text": "We don't have any firm evidence."
+            },
+            {
+                "code": "firm_example_he-maintained-a-firm-grasp-on-the-railing",
+                "text": "He maintained a firm grasp on the railing."
+            },
+            {
+                "code": "firm_example_he-uses-a-firm-voice-with-his-dog",
+                "text": "He uses a firm voice with his dog."
+            },
+            {
+                "code": "firm_example_he-provided-firm-guidance-to-the-students",
+                "text": "He provided firm guidance to the students."
+            },
+            {
+                "code": "firm_example_i-can-t-make-a-firm-prediction-yet",
+                "text": "I can't make a firm prediction yet."
+            }
+        ]
+    }
+]

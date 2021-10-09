@@ -1,0 +1,86 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "not far above the ground; small in amount",
+        "examples": [
+            {
+                "code": "low_example_the-ceiling-looks-very-low",
+                "text": "The ceiling looks very low."
+            },
+            {
+                "code": "low_example_our-office-supplies-are-running-low",
+                "text": "Our office supplies are running low."
+            },
+            {
+                "code": "low_example_her-blood-pressure-remained-low",
+                "text": "Her blood pressure remained low."
+            },
+            {
+                "code": "low_example_the-politician-promised-to-keep-taxes-low",
+                "text": "The politician promised to keep taxes low."
+            },
+            {
+                "code": "low_example_the-rainfall-was-extremely-low-for-spring",
+                "text": "The rainfall was extremely low for spring."
+            },
+            {
+                "code": "low_example_his-blood-pressure-is-dangerously-low",
+                "text": "His blood pressure is dangerously low."
+            },
+            {
+                "code": "low_example_this-salad-is-low-in-calories",
+                "text": "This salad is low in calories."
+            },
+            {
+                "code": "low_example_future-classes-were-cancelled-due-to-low-attendance",
+                "text": "Future classes were cancelled due to low attendance."
+            },
+            {
+                "code": "low_example_she-has-low-blood-pressure",
+                "text": "She has low blood pressure."
+            },
+            {
+                "code": "low_example_they-submitted-a-low-offer",
+                "text": "They submitted a low offer."
+            },
+            {
+                "code": "low_example_they-reported-low-profits-this-quarter",
+                "text": "They reported low profits this quarter."
+            },
+            {
+                "code": "low_example_we-are-concerned-about-low-visibility",
+                "text": "We are concerned about low visibility."
+            },
+            {
+                "code": "low_example_this-car-has-low-maintenance",
+                "text": "This car has low maintenance."
+            },
+            {
+                "code": "low_example_we-want-low-taxes",
+                "text": "We want low taxes."
+            },
+            {
+                "code": "low_example_how-does-she-live-on-such-a-low-income",
+                "text": "How does she live on such a low income?"
+            }
+        ]
+    },
+    {
+        "type": "(n)",
+        "mean": "a low point or level; a difficult time",
+        "examples": [
+            {
+                "code": "low_example_profits-have-reached-a-new-low",
+                "text": "Profits have reached a new low."
+            },
+            {
+                "code": "low_example_the-company-s-production-fell-to-a-record-low",
+                "text": "The company's production fell to a record low."
+            },
+            {
+                "code": "low_example_gasoline-prices-are-at-an-all-time-low",
+                "text": "Gasoline prices are at an all-time low."
+            }
+        ]
+    }
+]

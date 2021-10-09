@@ -1,0 +1,70 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "tasting like sugar; pleasant smelling; nice",
+        "examples": [
+            {
+                "code": "sweet_example_the-dessert-is-very-sweet",
+                "text": "The dessert is very sweet."
+            },
+            {
+                "code": "sweet_example_the-cake-is-a-little-sweet-for-me",
+                "text": "The cake is a little sweet for me."
+            },
+            {
+                "code": "sweet_example_are-the-cookies-sweet-enough-for-you",
+                "text": "Are the cookies sweet enough for you?"
+            },
+            {
+                "code": "sweet_example_her-mom-is-really-sweet-to-everyone",
+                "text": "Her mom is really sweet to everyone."
+            },
+            {
+                "code": "sweet_example_the-cheesecake-tasted-too-sweet",
+                "text": "The cheesecake tasted too sweet."
+            },
+            {
+                "code": "sweet_example_the-flowers-smell-like-sweet-candy",
+                "text": "The flowers smell like sweet candy."
+            },
+            {
+                "code": "sweet_example_she-makes-very-sweet-desserts",
+                "text": "She makes very sweet desserts."
+            },
+            {
+                "code": "sweet_example_his-girlfriend-is-very-sweet",
+                "text": "His girlfriend is very sweet."
+            },
+            {
+                "code": "sweet_example_i-find-her-to-be-too-sweet",
+                "text": "I find her to be too sweet."
+            },
+            {
+                "code": "sweet_example_his-mom-is-always-so-sweet-to-us",
+                "text": "His mom is always so sweet to us."
+            },
+            {
+                "code": "sweet_example_the-pie-was-too-sweet-for-us",
+                "text": "The pie was too sweet for us."
+            }
+        ]
+    },
+    {
+        "type": "(n)",
+        "mean": "candy or something that tastes like sugar",
+        "examples": [
+            {
+                "code": "sweet_example_she-always-has-a-bag-of-sugary-sweets",
+                "text": "She always has a bag of sugary sweets."
+            },
+            {
+                "code": "sweet_example_he-bought-his-girlfriend-a-box-of-chocolate-sweets",
+                "text": "He bought his girlfriend a box of chocolate sweets."
+            },
+            {
+                "code": "sweet_example_she-likes-eating-sweets",
+                "text": "She likes eating sweets."
+            }
+        ]
+    }
+]

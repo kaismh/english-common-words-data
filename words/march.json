@@ -1,0 +1,106 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to walk in a military way; to walk quickly with firm steps; to walk in protest",
+        "examples": [
+            {
+                "code": "march_example_the-protestors-marched-forward",
+                "text": "The protestors marched forward."
+            },
+            {
+                "code": "march_example_he-marched-ahead-of-us",
+                "text": "He marched ahead of us."
+            },
+            {
+                "code": "march_example_the-army-marched-toward-the-sea",
+                "text": "The army marched toward the sea."
+            },
+            {
+                "code": "march_example_the-group-marched-over-to-us",
+                "text": "The group marched over to us."
+            },
+            {
+                "code": "march_example_they-proudly-marched-in-support-of-their-friend",
+                "text": "They proudly marched in support of their friend."
+            },
+            {
+                "code": "march_example_she-quickly-marched-out-of-the-meeting",
+                "text": "She quickly marched out of the meeting."
+            },
+            {
+                "code": "march_example_the-army-marched-through-the-streets",
+                "text": "The army marched through the streets."
+            },
+            {
+                "code": "march_example_the-army-marched-through-the-city",
+                "text": "The army marched through the city."
+            },
+            {
+                "code": "march_example_the-soldiers-marched-against-the-enemy",
+                "text": "The soldiers marched against the enemy."
+            },
+            {
+                "code": "march_example_protestors-marched-on-the-capital",
+                "text": "Protestors marched on the capital."
+            },
+            {
+                "code": "march_example_we-marched-for-civil-rights",
+                "text": "We marched for civil rights."
+            }
+        ]
+    },
+    {
+        "type": "(n)",
+        "mean": "a large group of people walking in protest or support of something; month between February and April",
+        "examples": [
+            {
+                "code": "march_example_they-held-a-peaceful-march-through-the-city",
+                "text": "They held a peaceful march through the city."
+            },
+            {
+                "code": "march_example_we-joined-in-the-march-downtown",
+                "text": "We joined in the march downtown."
+            },
+            {
+                "code": "march_example_police-were-called-in-to-break-up-the-violent-march-in-the-streets",
+                "text": "Police were called in to break up the violent march in the streets."
+            },
+            {
+                "code": "march_example_it-is-already-march",
+                "text": "It is already March."
+            },
+            {
+                "code": "march_example_she-led-a-victory-march-through-the-streets",
+                "text": "She led a victory march through the streets."
+            },
+            {
+                "code": "march_example_we-went-on-a-long-march-to-the-nation-s-capital",
+                "text": "We went on a long march to the nation's capital."
+            },
+            {
+                "code": "march_example_the-soldiers-have-been-on-the-march-for-weeks",
+                "text": "The soldiers have been on the march for weeks."
+            },
+            {
+                "code": "march_example_there-were-thousands-of-people-at-the-march",
+                "text": "There were thousands of people at the march."
+            },
+            {
+                "code": "march_example_there-was-a-march-against-the-government",
+                "text": "There was a march against the government."
+            },
+            {
+                "code": "march_example_they-are-planning-a-march-for-civil-rights",
+                "text": "They are planning a march for civil rights."
+            },
+            {
+                "code": "march_example_they-are-planning-a-protest-march-of-over-a-thousand-people",
+                "text": "They are planning a protest march of over a thousand people."
+            },
+            {
+                "code": "march_example_it-s-the-first-day-of-march",
+                "text": "It's the first day of March."
+            }
+        ]
+    }
+]

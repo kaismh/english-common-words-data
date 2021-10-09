@@ -1,0 +1,28 @@
+[
+    {
+        "type": "(adv)",
+        "mean": "before now; before expected",
+        "examples": [
+            {
+                "code": "already_example_we-should-go-home-because-it-is-already-dark",
+                "text": "We should go home because it is already dark."
+            },
+            {
+                "code": "already_example_my-homework-is-already-done",
+                "text": "My homework is already done."
+            },
+            {
+                "code": "already_example_the-doctor-found-out-the-patient-was-already-dead",
+                "text": "The doctor found out the patient was already dead."
+            },
+            {
+                "code": "already_example_people-have-already-arrived-at-the-theater",
+                "text": "People have already arrived at the theater."
+            },
+            {
+                "code": "already_example_the-meeting-has-already-begun",
+                "text": "The meeting has already begun."
+            }
+        ]
+    }
+]

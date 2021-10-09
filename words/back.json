@@ -1,0 +1,160 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the rear part of something; the rear part of the body; the opposite side of the front",
+        "examples": [
+            {
+                "code": "back_example_the-football-player-has-a-broad-back",
+                "text": "The football player has a broad back."
+            },
+            {
+                "code": "back_example_my-back-is-aching",
+                "text": "My back is aching."
+            },
+            {
+                "code": "back_example_i-have-a-tattoo-on-my-upper-back",
+                "text": "I have a tattoo on my upper back."
+            },
+            {
+                "code": "back_example_her-back-is-not-straight",
+                "text": "Her back is not straight."
+            },
+            {
+                "code": "back_example_he-has-a-crooked-back",
+                "text": "He has a crooked back."
+            },
+            {
+                "code": "back_example_he-hunches-his-back-when-he-stands",
+                "text": "He hunches his back when he stands."
+            },
+            {
+                "code": "back_example_you-should-straighten-your-back-when-you-walk",
+                "text": "You should straighten your back when you walk."
+            },
+            {
+                "code": "back_example_she-hurt-her-back-at-work",
+                "text": "She hurt her back at work."
+            },
+            {
+                "code": "back_example_will-you-massage-my-back",
+                "text": "Will you massage my back?"
+            },
+            {
+                "code": "back_example_lean-your-back-against-the-wall",
+                "text": "Lean your back against the wall."
+            },
+            {
+                "code": "back_example_he-pat-his-baby-s-back-to-put-her-to-sleep",
+                "text": "He pat his baby's back to put her to sleep."
+            },
+            {
+                "code": "back_example_the-exit-is-located-at-the-back",
+                "text": "The exit is located at the back."
+            },
+            {
+                "code": "back_example_he-has-back-pain",
+                "text": "He has back pain."
+            },
+            {
+                "code": "back_example_i-m-at-home-with-a-back-injury",
+                "text": "I'm at home with a back injury."
+            },
+            {
+                "code": "back_example_i-have-sore-back-muscles",
+                "text": "I have sore back muscles."
+            },
+            {
+                "code": "back_example_she-entered-through-the-back-entrance",
+                "text": "She entered through the back entrance."
+            },
+            {
+                "code": "back_example_the-seats-are-in-the-back",
+                "text": "The seats are in the back."
+            },
+            {
+                "code": "back_example_i-dropped-my-keys-down-the-back-of-the-couch",
+                "text": "I dropped my keys down the back of the couch."
+            },
+            {
+                "code": "back_example_i-ve-got-pain-in-my-back",
+                "text": "I've got pain in my back."
+            },
+            {
+                "code": "back_example_she-was-lying-on-her-back",
+                "text": "She was lying on her back."
+            },
+            {
+                "code": "back_example_he-hid-the-gift-behind-his-back",
+                "text": "He hid the gift behind his back."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to return or go in reverse; to support",
+        "examples": [
+            {
+                "code": "back_example_he-quickly-backed-away",
+                "text": "He quickly backed away."
+            },
+            {
+                "code": "back_example_you-need-to-back-off",
+                "text": "You need to back off."
+            },
+            {
+                "code": "back_example_can-you-back-me-up",
+                "text": "Can you back me up?"
+            },
+            {
+                "code": "back_example_i-m-strongly-backing-this-candidate",
+                "text": "I'm strongly backing this candidate."
+            },
+            {
+                "code": "back_example_the-employees-unanimously-backed-the-new-policy",
+                "text": "The employees unanimously backed the new policy."
+            },
+            {
+                "code": "back_example_my-business-needs-to-be-financially-backed",
+                "text": "My business needs to be financially backed."
+            },
+            {
+                "code": "back_example_she-backed-into-a-tree",
+                "text": "She backed into a tree."
+            },
+            {
+                "code": "back_example_he-backed-out-of-the-narrow-parking-space",
+                "text": "He backed out of the narrow parking space."
+            },
+            {
+                "code": "back_example_they-slowly-backed-away-from-the-barking-dog",
+                "text": "They slowly backed away from the barking dog."
+            }
+        ]
+    },
+    {
+        "type": "(adj)",
+        "mean": "located behind or away from the front",
+        "examples": [
+            {
+                "code": "back_example_he-came-through-the-back-alley",
+                "text": "He came through the back alley."
+            },
+            {
+                "code": "back_example_he-damaged-his-back-bumper",
+                "text": "He damaged his back bumper."
+            },
+            {
+                "code": "back_example_she-uses-the-back-bedroom",
+                "text": "She uses the back bedroom."
+            },
+            {
+                "code": "back_example_they-are-remodeling-the-back-deck",
+                "text": "They are remodeling the back deck."
+            },
+            {
+                "code": "back_example_she-is-sitting-in-the-back-row",
+                "text": "She is sitting in the back row."
+            }
+        ]
+    }
+]

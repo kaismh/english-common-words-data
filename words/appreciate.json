@@ -1,0 +1,32 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to understand; to be thankful; to go up in value",
+        "examples": [
+            {
+                "code": "appreciate_example_we-totally-appreciate-your-concerns",
+                "text": "We totally appreciate your concerns."
+            },
+            {
+                "code": "appreciate_example_she-particularly-appreciates-classical-music",
+                "text": "She particularly appreciates classical music."
+            },
+            {
+                "code": "appreciate_example_we-greatly-appreciate-your-help",
+                "text": "We greatly appreciate your help."
+            },
+            {
+                "code": "appreciate_example_we-failed-to-appreciate-the-difficulties-of-that-job",
+                "text": "We failed to appreciate the difficulties of that job."
+            },
+            {
+                "code": "appreciate_example_the-house-appreciated-in-value",
+                "text": "The house appreciated in value."
+            },
+            {
+                "code": "appreciate_example_i-appreciate-your-concern",
+                "text": "I appreciate your concern."
+            }
+        ]
+    }
+]

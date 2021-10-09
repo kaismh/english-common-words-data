@@ -1,0 +1,48 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "having good luck or fortune",
+        "examples": [
+            {
+                "code": "lucky_example_this-is-my-lucky-day",
+                "text": "This is my lucky day."
+            },
+            {
+                "code": "lucky_example_he-feels-lucky-to-be-alive",
+                "text": "He feels lucky to be alive."
+            },
+            {
+                "code": "lucky_example_consider-yourself-lucky-that-you-weren-t-on-that-boat",
+                "text": "Consider yourself lucky that you weren't on that boat."
+            },
+            {
+                "code": "lucky_example_she-got-lucky-and-won-the-jackpot",
+                "text": "She got lucky and won the jackpot."
+            },
+            {
+                "code": "lucky_example_she-is-very-lucky-to-be-alive-after-the-crash",
+                "text": "She is very lucky to be alive after the crash."
+            },
+            {
+                "code": "lucky_example_we-are-just-plain-lucky-to-have-the-opportunity-to-attend-the-event",
+                "text": "We are just plain lucky to have the opportunity to attend the event."
+            },
+            {
+                "code": "lucky_example_it-was-lucky-for-you-that-you-didn-t-get-caught",
+                "text": "It was lucky for you that you didn't get caught."
+            },
+            {
+                "code": "lucky_example_we-got-lucky-with-good-weather-on-our-wedding-day",
+                "text": "We got lucky with good weather on our wedding day."
+            },
+            {
+                "code": "lucky_example_what-a-lucky-break",
+                "text": "What a lucky break!"
+            },
+            {
+                "code": "lucky_example_who-is-the-lucky-winner-of-the-new-car",
+                "text": "Who is the lucky winner of the new car?"
+            }
+        ]
+    }
+]

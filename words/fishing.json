@@ -1,0 +1,64 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the sports or activity of catching fish",
+        "examples": [
+            {
+                "code": "fishing_example_the-area-is-known-for-good-fishing",
+                "text": "The area is known for good fishing."
+            },
+            {
+                "code": "fishing_example_he-went-salmon-fishing-last-weekend",
+                "text": "He went salmon fishing last weekend."
+            },
+            {
+                "code": "fishing_example_he-has-a-recreational-fishing-license",
+                "text": "He has a recreational fishing license."
+            },
+            {
+                "code": "fishing_example_they-were-fined-for-illegal-fishing",
+                "text": "They were fined for illegal fishing."
+            },
+            {
+                "code": "fishing_example_he-goes-fishing-all-the-time",
+                "text": "He goes fishing all the time."
+            },
+            {
+                "code": "fishing_example_i-need-some-new-fishing-gear",
+                "text": "I need some new fishing gear."
+            },
+            {
+                "code": "fishing_example_he-bought-a-new-fishing-boat",
+                "text": "He bought a new fishing boat."
+            },
+            {
+                "code": "fishing_example_he-works-in-a-fishing-port",
+                "text": "He works in a fishing port."
+            },
+            {
+                "code": "fishing_example_we-re-trying-to-find-a-good-fishing-spot",
+                "text": "We're trying to find a good fishing spot."
+            },
+            {
+                "code": "fishing_example_he-met-his-fishing-quota",
+                "text": "He met his fishing quota."
+            },
+            {
+                "code": "fishing_example_there-is-a-fishing-ban-near-the-dam",
+                "text": "There is a fishing ban near the dam."
+            },
+            {
+                "code": "fishing_example_he-needs-to-renew-his-fishing-license",
+                "text": "He needs to renew his fishing license."
+            },
+            {
+                "code": "fishing_example_he-is-gone-on-a-fishing-trip",
+                "text": "He is gone on a fishing trip."
+            },
+            {
+                "code": "fishing_example_he-teaches-fly-fishing-techniques",
+                "text": "He teaches fly fishing techniques."
+            }
+        ]
+    }
+]

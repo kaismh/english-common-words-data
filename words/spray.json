@@ -1,0 +1,74 @@
+[
+    {
+        "type": "(n)",
+        "mean": "tiny drops of liquid that flies through the air",
+        "examples": [
+            {
+                "code": "spray_example_we-felt-a-light-spray-of-water-on-our-faces",
+                "text": "We felt a light spray of water on our faces."
+            },
+            {
+                "code": "spray_example_we-bought-some-bug-spray-for-camping",
+                "text": "We bought some bug spray for camping."
+            },
+            {
+                "code": "spray_example_she-needed-to-go-to-the-drug-store-to-buy-hair-spray",
+                "text": "She needed to go to the drug store to buy hair spray."
+            },
+            {
+                "code": "spray_example_she-carries-around-pepper-spray-in-her-purse-just-in-case-she-is-attacked",
+                "text": "She carries around pepper spray in her purse just in case she is attacked."
+            },
+            {
+                "code": "spray_example_the-fountain-sent-up-a-spray-of-water-in-the-air",
+                "text": "The fountain sent up a spray of water in the air."
+            },
+            {
+                "code": "spray_example_a-spray-of-salt-water-flew-up-when-waves-crashed-onto-the-rocks",
+                "text": "A spray of salt water flew up when waves crashed onto the rocks."
+            },
+            {
+                "code": "spray_example_he-applied-mosquito-spray-on-his-face",
+                "text": "He applied mosquito spray on his face."
+            },
+            {
+                "code": "spray_example_she-was-covered-with-a-spray-of-water",
+                "text": "She was covered with a spray of water."
+            },
+            {
+                "code": "spray_example_she-needs-a-spray-bottle-for-the-paint",
+                "text": "She needs a spray bottle for the paint."
+            },
+            {
+                "code": "spray_example_he-is-using-spray-paint-on-the-walls",
+                "text": "He is using spray paint on the walls."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to cover with tiny drops of liquid",
+        "examples": [
+            {
+                "code": "spray_example_my-son-sprayed-water-all-over-the-bathroom-floor",
+                "text": "My son sprayed water all over the bathroom floor."
+            },
+            {
+                "code": "spray_example_the-vandals-sprayed-graffiti-all-over-the-walls",
+                "text": "The vandals sprayed graffiti all over the walls."
+            },
+            {
+                "code": "spray_example_she-sprays-perfume-on-her-neck-and-wrists",
+                "text": "She sprays perfume on her neck and wrists."
+            },
+            {
+                "code": "spray_example_she-quickly-sprayed-water-on-the-fire",
+                "text": "She quickly sprayed water on the fire."
+            },
+            {
+                "code": "spray_example_the-farmer-regularly-sprays-pesticides-on-his-crop",
+                "text": "The farmer regularly sprays pesticides on his crop."
+            }
+        ]
+    }
+]

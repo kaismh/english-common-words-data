@@ -1,0 +1,36 @@
+[
+    {
+        "type": "(adv)",
+        "mean": "very",
+        "examples": [
+            {
+                "code": "terribly_example_that-was-terribly-kind-of-you",
+                "text": "That was terribly kind of you."
+            },
+            {
+                "code": "terribly_example_i-am-terribly-confused-about-my-future",
+                "text": "I am terribly confused about my future."
+            },
+            {
+                "code": "terribly_example_i-am-terribly-upset-with-you",
+                "text": "I am terribly upset with you."
+            },
+            {
+                "code": "terribly_example_the-accident-was-terribly-awful",
+                "text": "The accident was terribly awful."
+            },
+            {
+                "code": "terribly_example_she-is-terribly-unhappy",
+                "text": "She is terribly unhappy."
+            },
+            {
+                "code": "terribly_example_he-feels-terribly-upset-about-what-happened",
+                "text": "He feels terribly upset about what happened."
+            },
+            {
+                "code": "terribly_example_they-were-terribly-affected-by-his-death",
+                "text": "They were terribly affected by his death."
+            }
+        ]
+    }
+]

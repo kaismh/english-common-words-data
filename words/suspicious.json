@@ -1,0 +1,88 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "feeling that someone has done something wrong without having any proof; not being able to trust someone",
+        "examples": [
+            {
+                "code": "suspicious_example_she-was-very-suspicious-of-her-boyfriend",
+                "text": "She was very suspicious of her boyfriend."
+            },
+            {
+                "code": "suspicious_example_he-has-become-highly-suspicious-of-his-wife",
+                "text": "He has become highly suspicious of his wife."
+            },
+            {
+                "code": "suspicious_example_he-was-acting-a-little-suspicious-when-we-mentioned-the-stolen-money",
+                "text": "He was acting a little suspicious when we mentioned the stolen money."
+            },
+            {
+                "code": "suspicious_example_she-became-immediately-suspicious-of-the-situation",
+                "text": "She became immediately suspicious of the situation."
+            },
+            {
+                "code": "suspicious_example_he-is-naturally-suspicious-about-everything",
+                "text": "He is naturally suspicious about everything."
+            },
+            {
+                "code": "suspicious_example_he-seems-suspicious-around-her",
+                "text": "He seems suspicious around her."
+            },
+            {
+                "code": "suspicious_example_the-whole-thing-feels-suspicious-to-me",
+                "text": "The whole thing feels suspicious to me."
+            },
+            {
+                "code": "suspicious_example_she-is-acting-very-suspicious-around-her-family",
+                "text": "She is acting very suspicious around her family."
+            },
+            {
+                "code": "suspicious_example_he-is-becoming-more-and-more-suspicious-of-his-wife",
+                "text": "He is becoming more and more suspicious of his wife."
+            },
+            {
+                "code": "suspicious_example_she-remained-suspicious-of-her-friend-s-actions",
+                "text": "She remained suspicious of her friend's actions."
+            },
+            {
+                "code": "suspicious_example_his-behavior-made-me-suspicious",
+                "text": "His behavior made me suspicious."
+            },
+            {
+                "code": "suspicious_example_i-find-it-highly-suspicious-that-he-didn-t-see-anyone-in-the-house",
+                "text": "I find it highly suspicious that he didn't see anyone in the house."
+            },
+            {
+                "code": "suspicious_example_the-police-are-treating-the-death-as-suspicious",
+                "text": "The police are treating the death as suspicious."
+            },
+            {
+                "code": "suspicious_example_they-were-suspicious-of-his-behavior",
+                "text": "They were suspicious of his behavior."
+            },
+            {
+                "code": "suspicious_example_they-were-suspicious-about-what-really-happened",
+                "text": "They were suspicious about what really happened."
+            },
+            {
+                "code": "suspicious_example_her-death-was-ruled-as-suspicious",
+                "text": "Her death was ruled as suspicious."
+            },
+            {
+                "code": "suspicious_example_the-neighbors-were-asked-to-report-any-suspicious-activity",
+                "text": "The neighbors were asked to report any suspicious activity."
+            },
+            {
+                "code": "suspicious_example_a-suspicious-package-was-discovered-at-the-airport",
+                "text": "A suspicious package was discovered at the airport."
+            },
+            {
+                "code": "suspicious_example_her-suspicious-behavior-made-everyone-uncomfortable",
+                "text": "Her suspicious behavior made everyone uncomfortable."
+            },
+            {
+                "code": "suspicious_example_a-suspicious-vehicle-was-reported-driving-around-the-neighborhood",
+                "text": "A suspicious vehicle was reported driving around the neighborhood."
+            }
+        ]
+    }
+]

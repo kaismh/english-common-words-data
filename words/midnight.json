@@ -1,0 +1,28 @@
+[
+    {
+        "type": "(n)",
+        "mean": "12 o'clock in the evening; the middle of the night",
+        "examples": [
+            {
+                "code": "midnight_example_the-clock-struck-midnight",
+                "text": "The clock struck midnight."
+            },
+            {
+                "code": "midnight_example_it-is-approaching-midnight-and-we-re-still-awake",
+                "text": "It is approaching midnight and we're still awake."
+            },
+            {
+                "code": "midnight_example_midnight-has-come-and-we-re-still-awake",
+                "text": "Midnight has come and we're still awake."
+            },
+            {
+                "code": "midnight_example_i-always-have-a-midnight-snack",
+                "text": "I always have a midnight snack."
+            },
+            {
+                "code": "midnight_example_i-need-to-be-home-by-midnight",
+                "text": "I need to be home by midnight."
+            }
+        ]
+    }
+]

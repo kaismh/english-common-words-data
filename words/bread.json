@@ -1,0 +1,56 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a baked food made from flour, water, and yeast",
+        "examples": [
+            {
+                "code": "bread_example_i-love-fresh-bread",
+                "text": "I love fresh bread."
+            },
+            {
+                "code": "bread_example_this-bread-is-hard",
+                "text": "This bread is hard."
+            },
+            {
+                "code": "bread_example_he-s-making-banana-bread",
+                "text": "He's making banana bread."
+            },
+            {
+                "code": "bread_example_my-mom-bakes-bread",
+                "text": "My mom bakes bread."
+            },
+            {
+                "code": "bread_example_cut-the-bread-before-serving",
+                "text": "Cut the bread before serving."
+            },
+            {
+                "code": "bread_example_i-ll-buy-a-loaf-of-bread",
+                "text": "I'll buy a loaf of bread."
+            },
+            {
+                "code": "bread_example_he-broke-off-a-chunk-of-bread",
+                "text": "He broke off a chunk of bread."
+            },
+            {
+                "code": "bread_example_may-i-have-a-slice-of-bread",
+                "text": "May I have a slice of bread?"
+            },
+            {
+                "code": "bread_example_i-need-to-clean-up-these-bread-crumbs",
+                "text": "I need to clean up these bread crumbs."
+            },
+            {
+                "code": "bread_example_he-s-mixing-the-bread-dough",
+                "text": "He's mixing the bread dough."
+            },
+            {
+                "code": "bread_example_it-s-in-a-bread-basket",
+                "text": "It's in a bread basket."
+            },
+            {
+                "code": "bread_example_what-do-you-put-on-your-bread",
+                "text": "What do you put on your bread?"
+            }
+        ]
+    }
+]

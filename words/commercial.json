@@ -1,0 +1,56 @@
+[
+    {
+        "type": "(n)",
+        "mean": "an advertisement on the television or radio",
+        "examples": [
+            {
+                "code": "commercial_example_did-you-see-the-television-commercial-last-night",
+                "text": "Did you see the television commercial last night?"
+            },
+            {
+                "code": "commercial_example_i-really-like-the-beer-commercial-during-the-super-bowl",
+                "text": "I really like the beer commercial during the Super Bowl!"
+            },
+            {
+                "code": "commercial_example_there-are-many-campaign-commercials-during-election-year",
+                "text": "There are many campaign commercials during election year."
+            },
+            {
+                "code": "commercial_example_we-need-to-regulate-controversial-commercials",
+                "text": "We need to regulate controversial commercials."
+            },
+            {
+                "code": "commercial_example_he-made-a-commercial-with-dancing-hot-dogs",
+                "text": "He made a commercial with dancing hot dogs."
+            },
+            {
+                "code": "commercial_example_i-wish-we-could-skip-the-commercials",
+                "text": "I wish we could skip the commercials."
+            },
+            {
+                "code": "commercial_example_have-you-seen-the-latest-commercial",
+                "text": "Have you seen the latest commercial."
+            },
+            {
+                "code": "commercial_example_the-new-nike-commercial-airs-on-tuesday",
+                "text": "The new Nike commercial airs on Tuesday."
+            },
+            {
+                "code": "commercial_example_many-car-commercials-feature-women-in-bikinis",
+                "text": "Many car commercials feature women in bikinis."
+            },
+            {
+                "code": "commercial_example_there-are-too-many-commercial-breaks",
+                "text": "There are too many commercial breaks."
+            },
+            {
+                "code": "commercial_example_my-cousin-was-in-a-commercial-for-soap",
+                "text": "My cousin was in a commercial for soap."
+            },
+            {
+                "code": "commercial_example_have-you-seen-the-latest-commercial-for-hybrid-cars",
+                "text": "Have you seen the latest commercial for hybrid cars?"
+            }
+        ]
+    }
+]

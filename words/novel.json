@@ -1,0 +1,74 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a long story made up of fictional characters",
+        "examples": [
+            {
+                "code": "novel_example_the-novel-is-set-in-france",
+                "text": "The novel is set in France."
+            },
+            {
+                "code": "novel_example_i-published-a-novel",
+                "text": "I published a novel."
+            },
+            {
+                "code": "novel_example_she-bought-another-novel",
+                "text": "She bought another novel."
+            },
+            {
+                "code": "novel_example_have-you-read-his-latest-novel",
+                "text": "Have you read his latest novel?"
+            },
+            {
+                "code": "novel_example_this-is-his-latest-novel",
+                "text": "This is his latest novel."
+            },
+            {
+                "code": "novel_example_he-wrote-famous-novels",
+                "text": "He wrote famous novels."
+            },
+            {
+                "code": "novel_example_she-has-an-unfinished-novel",
+                "text": "She has an unfinished novel."
+            },
+            {
+                "code": "novel_example_i-am-reading-a-spy-novel",
+                "text": "I am reading a spy novel."
+            },
+            {
+                "code": "novel_example_do-you-like-to-read-classic-novels",
+                "text": "Do you like to read classic novels?"
+            },
+            {
+                "code": "novel_example_i-usually-buy-paperback-novels",
+                "text": "I usually buy paperback novels."
+            },
+            {
+                "code": "novel_example_his-novel-is-about-an-alien-world",
+                "text": "His novel is about an alien world."
+            }
+        ]
+    },
+    {
+        "type": "(adj)",
+        "mean": "new and original",
+        "examples": [
+            {
+                "code": "novel_example_what-an-extremely-novel-idea",
+                "text": "What an extremely novel idea."
+            },
+            {
+                "code": "novel_example_that-is-a-totally-novel-concept",
+                "text": "That is a totally novel concept."
+            },
+            {
+                "code": "novel_example_the-idea-is-very-novel",
+                "text": "The idea is very novel."
+            },
+            {
+                "code": "novel_example_this-is-a-novel-idea",
+                "text": "This is a novel idea."
+            }
+        ]
+    }
+]

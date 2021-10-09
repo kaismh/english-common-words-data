@@ -1,0 +1,72 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the drawer of a cash register where money is held",
+        "examples": [
+            {
+                "code": "till_example_all-cash-registers-have-electronic-tills-now",
+                "text": "All cash registers have electronic tills now."
+            },
+            {
+                "code": "till_example_the-store-owner-was-sad-to-see-the-empty-till",
+                "text": "The store owner was sad to see the empty till."
+            },
+            {
+                "code": "till_example_the-clerk-opened-the-till",
+                "text": "The clerk opened the till."
+            },
+            {
+                "code": "till_example_he-counted-the-money-in-the-till",
+                "text": "He counted the money in the till."
+            },
+            {
+                "code": "till_example_she-refilled-the-till-with-more-cash",
+                "text": "She refilled the till with more cash."
+            },
+            {
+                "code": "till_example_she-took-money-from-the-till",
+                "text": "She took money from the till."
+            },
+            {
+                "code": "till_example_there-is-no-money-in-the-till",
+                "text": "There is no money in the till."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to prepare land for growing fruits and vegetables",
+        "examples": [
+            {
+                "code": "till_example_the-farmer-carefully-tilled-the-soil",
+                "text": "The farmer carefully tilled the soil."
+            }
+        ]
+    },
+    {
+        "type": "(prep)",
+        "mean": "prep until; short for until",
+        "examples": [
+            {
+                "code": "till_example_i-will-here-till-8-o-clock",
+                "text": "I will here till 8 o'clock."
+            },
+            {
+                "code": "till_example_the-project-will-not-be-completed-till-next-week",
+                "text": "The project will not be completed till next week."
+            },
+            {
+                "code": "till_example_we-waited-till-10-o-clock",
+                "text": "We waited till 10 o'clock."
+            },
+            {
+                "code": "till_example_it-won-t-come-till-tomorrow-morning",
+                "text": "It won't come till tomorrow morning."
+            },
+            {
+                "code": "till_example_can-you-stay-till-everyone-leaves",
+                "text": "Can you stay till everyone leaves?"
+            }
+        ]
+    }
+]

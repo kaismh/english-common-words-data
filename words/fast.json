@@ -1,0 +1,126 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "not slow; quick",
+        "examples": [
+            {
+                "code": "fast_example_his-heartbeat-is-very-fast",
+                "text": "His heartbeat is very fast."
+            },
+            {
+                "code": "fast_example_that-car-is-extremely-fast",
+                "text": "That car is extremely fast."
+            },
+            {
+                "code": "fast_example_the-computer-runs-slightly-faster-than-before",
+                "text": "The computer runs slightly faster than before."
+            },
+            {
+                "code": "fast_example_he-works-reasonably-fast",
+                "text": "He works reasonably fast."
+            },
+            {
+                "code": "fast_example_that-car-has-incredibly-fast-acceleration",
+                "text": "That car has incredibly fast acceleration."
+            },
+            {
+                "code": "fast_example_he-has-a-very-fast-computer",
+                "text": "He has a very fast computer."
+            },
+            {
+                "code": "fast_example_they-provided-really-fast-service",
+                "text": "They provided really fast service."
+            },
+            {
+                "code": "fast_example_the-express-train-is-quite-fast",
+                "text": "The express train is quite fast."
+            },
+            {
+                "code": "fast_example_she-ran-a-very-fast-lap",
+                "text": "She ran a very fast lap."
+            },
+            {
+                "code": "fast_example_he-is-a-fast-reader",
+                "text": "He is a fast reader."
+            },
+            {
+                "code": "fast_example_this-song-has-a-very-fast-rhythm",
+                "text": "This song has a very fast rhythm."
+            },
+            {
+                "code": "fast_example_we-are-going-to-get-some-fast-food",
+                "text": "We are going to get some fast food."
+            },
+            {
+                "code": "fast_example_she-has-fast-reflexes",
+                "text": "She has fast reflexes."
+            },
+            {
+                "code": "fast_example_he-made-a-fast-recovery",
+                "text": "He made a fast recovery."
+            },
+            {
+                "code": "fast_example_she-s-making-fast-progress-on-the-project",
+                "text": "She's making fast progress on the project."
+            },
+            {
+                "code": "fast_example_this-medicine-should-give-you-fast-relief",
+                "text": "This medicine should give you fast relief."
+            }
+        ]
+    },
+    {
+        "type": "(adv)",
+        "mean": "quickly",
+        "examples": [
+            {
+                "code": "fast_example_she-was-fast-asleep-when-i-got-there",
+                "text": "She was fast asleep when I got there."
+            },
+            {
+                "code": "fast_example_we-are-fast-approaching-the-end-of-the-trip",
+                "text": "We are fast approaching the end of the trip."
+            },
+            {
+                "code": "fast_example_her-heart-beat-fast",
+                "text": "Her heart beat fast."
+            },
+            {
+                "code": "fast_example_their-support-faded-fast",
+                "text": "Their support faded fast."
+            },
+            {
+                "code": "fast_example_her-popularity-grew-fast",
+                "text": "Her popularity grew fast."
+            },
+            {
+                "code": "fast_example_he-rode-fast-toward-home",
+                "text": "He rode fast toward home."
+            },
+            {
+                "code": "fast_example_the-stock-price-changed-fast",
+                "text": "The stock price changed fast."
+            },
+            {
+                "code": "fast_example_i-had-to-think-fast-in-that-situation",
+                "text": "I had to think fast in that situation."
+            },
+            {
+                "code": "fast_example_the-boat-began-to-sink-fast",
+                "text": "The boat began to sink fast."
+            },
+            {
+                "code": "fast_example_the-water-began-to-flow-fast",
+                "text": "The water began to flow fast."
+            },
+            {
+                "code": "fast_example_the-eagle-flew-fast-after-its-prey",
+                "text": "The eagle flew fast after its prey."
+            },
+            {
+                "code": "fast_example_we-need-to-update-her-fast",
+                "text": "We need to update her fast."
+            }
+        ]
+    }
+]

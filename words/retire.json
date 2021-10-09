@@ -1,0 +1,36 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to stop working at a job because you have reached a certain age",
+        "examples": [
+            {
+                "code": "retire_example_he-plans-to-retire-soon",
+                "text": "He plans to retire soon."
+            },
+            {
+                "code": "retire_example_she-retired-recently",
+                "text": "She retired recently."
+            },
+            {
+                "code": "retire_example_i-hope-to-retire-comfortably",
+                "text": "I hope to retire comfortably."
+            },
+            {
+                "code": "retire_example_he-has-officially-retired-from-baseball",
+                "text": "He has officially retired from baseball."
+            },
+            {
+                "code": "retire_example_he-retired-at-age-67",
+                "text": "He retired at age 67."
+            },
+            {
+                "code": "retire_example_i-ve-just-retired-from-my-job",
+                "text": "I've just retired from my job."
+            },
+            {
+                "code": "retire_example_she-retired-as-the-vice-president-of-the-company",
+                "text": "She retired as the vice president of the company."
+            }
+        ]
+    }
+]

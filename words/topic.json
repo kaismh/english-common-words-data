@@ -1,0 +1,56 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a subject that a person talks or writes about",
+        "examples": [
+            {
+                "code": "topic_example_what-is-the-main-topic-of-the-story",
+                "text": "What is the main topic of the story?"
+            },
+            {
+                "code": "topic_example_that-is-a-difficult-topic-to-discuss",
+                "text": "That is a difficult topic to discuss."
+            },
+            {
+                "code": "topic_example_certain-topics-are-off-limits",
+                "text": "Certain topics are off-limits."
+            },
+            {
+                "code": "topic_example_what-is-the-chosen-topic-for-discussion",
+                "text": "What is the chosen topic for discussion?"
+            },
+            {
+                "code": "topic_example_we-will-discuss-the-topic-of-the-book-in-class",
+                "text": "We will discuss the topic of the book in class."
+            },
+            {
+                "code": "topic_example_let-s-look-at-the-main-topic",
+                "text": "Let's look at the main topic."
+            },
+            {
+                "code": "topic_example_choose-your-topic-for-the-class-project",
+                "text": "Choose your topic for the class project."
+            },
+            {
+                "code": "topic_example_let-s-change-the-topic",
+                "text": "Let's change the topic."
+            },
+            {
+                "code": "topic_example_we-went-over-the-topic-in-class",
+                "text": "We went over the topic in class."
+            },
+            {
+                "code": "topic_example_try-to-stay-on-the-topic",
+                "text": "Try to stay on the topic."
+            },
+            {
+                "code": "topic_example_what-is-the-main-topic-for-discussion",
+                "text": "What is the main topic for discussion?"
+            },
+            {
+                "code": "topic_example_we-will-be-discussing-several-topic-areas-in-class",
+                "text": "We will be discussing several topic areas in class."
+            }
+        ]
+    }
+]

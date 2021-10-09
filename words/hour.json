@@ -1,0 +1,108 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a period of sixty minutes; time used for a specific purpose; the time when something is open; a period of time",
+        "examples": [
+            {
+                "code": "hour_example_i-spent-a-solid-hour-working-on-the-project",
+                "text": "I spent a solid hour working on the project."
+            },
+            {
+                "code": "hour_example_i-will-do-it-during-my-lunch-hour",
+                "text": "I will do it during my lunch hour."
+            },
+            {
+                "code": "hour_example_try-to-leave-before-rush-hour-traffic",
+                "text": "Try to leave before rush hour traffic."
+            },
+            {
+                "code": "hour_example_all-drinks-are-half-off-during-happy-hour",
+                "text": "All drinks are half-off during happy hour."
+            },
+            {
+                "code": "hour_example_what-are-the-office-hours-here",
+                "text": "What are the office hours here?"
+            },
+            {
+                "code": "hour_example_he-works-flexible-hours",
+                "text": "He works flexible hours."
+            },
+            {
+                "code": "hour_example_that-was-our-darkest-hour",
+                "text": "That was our darkest hour."
+            },
+            {
+                "code": "hour_example_i-hate-to-call-you-at-this-early-hour",
+                "text": "I hate to call you at this early hour."
+            },
+            {
+                "code": "hour_example_they-stayed-out-until-the-wee-hours-of-the-morning",
+                "text": "They stayed out until the wee hours of the morning."
+            },
+            {
+                "code": "hour_example_she-s-been-spending-every-waking-hour-doing-homework",
+                "text": "She's been spending every waking hour doing homework."
+            },
+            {
+                "code": "hour_example_it-takes-an-hour-to-get-there",
+                "text": "It takes an hour to get there."
+            },
+            {
+                "code": "hour_example_we-spent-two-hours-in-traffic",
+                "text": "We spent two hours in traffic."
+            },
+            {
+                "code": "hour_example_we-will-lose-an-hour-during-daylight-savings-time",
+                "text": "We will lose an hour during daylight savings time."
+            },
+            {
+                "code": "hour_example_the-movie-lasted-3-hours",
+                "text": "The movie lasted 3 hours."
+            },
+            {
+                "code": "hour_example_three-hours-went-by-while-waiting-at-the-hospital",
+                "text": "Three hours went by while waiting at the hospital."
+            },
+            {
+                "code": "hour_example_he-works-unusual-hours",
+                "text": "He works unusual hours."
+            },
+            {
+                "code": "hour_example_she-gets-paid-by-the-hour",
+                "text": "She gets paid by the hour."
+            },
+            {
+                "code": "hour_example_i-ve-been-working-for-hours",
+                "text": "I've been working for hours."
+            },
+            {
+                "code": "hour_example_i-should-be-there-in-two-hours",
+                "text": "I should be there in two hours."
+            },
+            {
+                "code": "hour_example_they-ve-been-gone-over-two-hours",
+                "text": "They've been gone over two hours."
+            },
+            {
+                "code": "hour_example_the-speed-limit-is-seventy-miles-per-hour",
+                "text": "The speed limit is seventy miles per hour."
+            },
+            {
+                "code": "hour_example_there-aren-t-many-hours-of-daylight-in-the-winter",
+                "text": "There aren't many hours of daylight in the winter."
+            },
+            {
+                "code": "hour_example_it-starts-on-the-hour",
+                "text": "It starts on the hour."
+            },
+            {
+                "code": "hour_example_it-is-15-minutes-to-the-hour",
+                "text": "It is 15 minutes to the hour."
+            },
+            {
+                "code": "hour_example_they-are-having-a-special-event-after-hours",
+                "text": "They are having a special event after hours."
+            }
+        ]
+    }
+]

@@ -1,0 +1,48 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a part of the tree that grows out from the trunk; a part of an organization",
+        "examples": [
+            {
+                "code": "branch_example_there-s-a-monkey-on-the-top-branch",
+                "text": "There's a monkey on the top branch."
+            },
+            {
+                "code": "branch_example_the-tree-has-flowering-branches",
+                "text": "The tree has flowering branches."
+            },
+            {
+                "code": "branch_example_be-careful-of-that-broken-branch",
+                "text": "Be careful of that broken branch."
+            },
+            {
+                "code": "branch_example_she-works-for-the-company-s-regional-branch",
+                "text": "She works for the company's regional branch."
+            },
+            {
+                "code": "branch_example_he-wants-to-work-for-the-government-s-executive-branch",
+                "text": "He wants to work for the government's executive branch."
+            },
+            {
+                "code": "branch_example_the-landscapers-cut-down-many-dead-branches",
+                "text": "The landscapers cut down many dead branches."
+            },
+            {
+                "code": "branch_example_the-bank-is-establishing-more-local-branches",
+                "text": "The bank is establishing more local branches."
+            },
+            {
+                "code": "branch_example_they-closed-down-the-local-branch-because-of-bad-business",
+                "text": "They closed down the local branch because of bad business."
+            },
+            {
+                "code": "branch_example_she-is-the-branch-manager",
+                "text": "She is the branch manager."
+            },
+            {
+                "code": "branch_example_he-works-at-the-local-branch-office",
+                "text": "He works at the local branch office."
+            }
+        ]
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the start of something",
+        "examples": [
+            {
+                "code": "beginning_example_we-re-hoping-for-a-new-beginning-in-this-city",
+                "text": "We're hoping for a new beginning in this city."
+            },
+            {
+                "code": "beginning_example_the-sun-signaled-a-promising-beginning-to-the-day",
+                "text": "The sun signaled a promising beginning to the day."
+            },
+            {
+                "code": "beginning_example_we-didn-t-see-the-beginning-of-the-speech",
+                "text": "We didn't see the beginning of the speech."
+            },
+            {
+                "code": "beginning_example_their-engagement-marked-a-new-beginning-of-their-lives",
+                "text": "Their engagement marked a new beginning of their lives."
+            },
+            {
+                "code": "beginning_example_her-divorce-symbolized-a-new-beginning-in-her-life",
+                "text": "Her divorce symbolized a new beginning in her life."
+            },
+            {
+                "code": "beginning_example_can-we-trace-the-very-beginning-of-the-english-language",
+                "text": "Can we trace the very beginning of the English language?"
+            },
+            {
+                "code": "beginning_example_can-you-tell-me-the-story-from-the-beginning",
+                "text": "Can you tell me the story from the beginning?"
+            },
+            {
+                "code": "beginning_example_i-ll-start-a-new-job-at-the-beginning-of-the-month",
+                "text": "I'll start a new job at the beginning of the month."
+            },
+            {
+                "code": "beginning_example_in-the-beginning-god-created-the-heavens-and-the-earth",
+                "text": "In the beginning, God created the heavens and the earth."
+            }
+        ]
+    }
+]

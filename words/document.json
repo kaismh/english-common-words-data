@@ -1,0 +1,86 @@
+[
+    {
+        "type": "(n)",
+        "mean": "an official piece of writing on paper or on a computer file",
+        "examples": [
+            {
+                "code": "document_example_she-has-an-important-document",
+                "text": "She has an important document."
+            },
+            {
+                "code": "document_example_she-wrote-a-lengthy-document",
+                "text": "She wrote a lengthy document."
+            },
+            {
+                "code": "document_example_the-boss-read-the-complete-document",
+                "text": "The boss read the complete document."
+            },
+            {
+                "code": "document_example_please-send-me-the-revised-document",
+                "text": "Please send me the revised document."
+            },
+            {
+                "code": "document_example_take-a-look-at-the-attached-document",
+                "text": "Take a look at the attached document."
+            },
+            {
+                "code": "document_example_we-need-a-signed-document",
+                "text": "We need a signed document."
+            },
+            {
+                "code": "document_example_the-document-is-fake",
+                "text": "The document is fake."
+            },
+            {
+                "code": "document_example_the-assistant-will-prepare-the-official-document",
+                "text": "The assistant will prepare the official document."
+            },
+            {
+                "code": "document_example_please-send-the-document-as-soon-as-possible",
+                "text": "Please send the document as soon as possible."
+            },
+            {
+                "code": "document_example_they-need-to-read-the-new-document",
+                "text": "They need to read the new document."
+            },
+            {
+                "code": "document_example_we-received-the-original-documents",
+                "text": "We received the original documents."
+            },
+            {
+                "code": "document_example_the-revised-document-is-attached-for-your-review",
+                "text": "The revised document is attached for your review."
+            },
+            {
+                "code": "document_example_the-confidential-document-was-destroyed",
+                "text": "The confidential document was destroyed."
+            },
+            {
+                "code": "document_example_the-document-describes-the-company-s-policies",
+                "text": "The document describes the company's policies."
+            },
+            {
+                "code": "document_example_i-need-to-save-the-document",
+                "text": "I need to save the document."
+            },
+            {
+                "code": "document_example_i-found-many-spelling-errors-in-the-document",
+                "text": "I found many spelling errors in the document."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to make a record of something",
+        "examples": [
+            {
+                "code": "document_example_the-photograph-clearly-documents-his-involvement",
+                "text": "The photograph clearly documents his involvement."
+            },
+            {
+                "code": "document_example_scientists-are-constantly-documenting-the-changes-of-the-planet",
+                "text": "Scientists are constantly documenting the changes of the planet."
+            }
+        ]
+    }
+]

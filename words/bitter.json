@@ -1,0 +1,40 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "angry; having a sharp unpleasant taste; very cold",
+        "examples": [
+            {
+                "code": "bitter_example_this-wind-is-extremely-bitter",
+                "text": "This wind is extremely bitter."
+            },
+            {
+                "code": "bitter_example_she-grows-increasingly-bitter-every-day",
+                "text": "She grows increasingly bitter every day."
+            },
+            {
+                "code": "bitter_example_grapefruits-can-be-slightly-bitter",
+                "text": "Grapefruits can be slightly bitter."
+            },
+            {
+                "code": "bitter_example_she-seems-bitter-that-she-didn-t-get-the-job",
+                "text": "She seems bitter that she didn't get the job."
+            },
+            {
+                "code": "bitter_example_he-became-bitter-as-he-got-older",
+                "text": "He became bitter as he got older."
+            },
+            {
+                "code": "bitter_example_they-remained-bitter-even-after-i-apologized",
+                "text": "They remained bitter even after I apologized."
+            },
+            {
+                "code": "bitter_example_her-problems-have-left-her-bitter",
+                "text": "Her problems have left her bitter."
+            },
+            {
+                "code": "bitter_example_this-fruit-tastes-bitter",
+                "text": "This fruit tastes bitter."
+            }
+        ]
+    }
+]

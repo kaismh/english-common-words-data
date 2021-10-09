@@ -1,0 +1,80 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a set time when students are learning; an activity of learning; an experience that teaches something",
+        "examples": [
+            {
+                "code": "lesson_example_we-had-an-interesting-lesson-today",
+                "text": "We had an interesting lesson today."
+            },
+            {
+                "code": "lesson_example_she-receives-private-violin-lessons",
+                "text": "She receives private violin lessons."
+            },
+            {
+                "code": "lesson_example_he-needs-help-with-his-english-lesson",
+                "text": "He needs help with his English lesson."
+            },
+            {
+                "code": "lesson_example_i-signed-up-for-swimming-lessons",
+                "text": "I signed up for swimming lessons."
+            },
+            {
+                "code": "lesson_example_he-learned-a-very-valuable-lesson-about-cheating",
+                "text": "He learned a very valuable lesson about cheating."
+            },
+            {
+                "code": "lesson_example_she-started-piano-lessons-at-a-very-young-age",
+                "text": "She started piano lessons at a very young age."
+            },
+            {
+                "code": "lesson_example_my-mother-gives-piano-lessons",
+                "text": "My mother gives piano lessons."
+            },
+            {
+                "code": "lesson_example_he-spent-many-hours-preparing-the-lesson",
+                "text": "He spent many hours preparing the lesson."
+            },
+            {
+                "code": "lesson_example_i-got-in-trouble-for-skipping-the-lesson",
+                "text": "I got in trouble for skipping the lesson."
+            },
+            {
+                "code": "lesson_example_i-hope-you-learned-a-lesson-about-loyalty-today",
+                "text": "I hope you learned a lesson about loyalty today."
+            },
+            {
+                "code": "lesson_example_she-taught-him-a-good-lesson-about-lying-to-friends",
+                "text": "She taught him a good lesson about lying to friends."
+            },
+            {
+                "code": "lesson_example_she-prepared-an-excellent-lesson-plan-for-the-class",
+                "text": "She prepared an excellent lesson plan for the class."
+            },
+            {
+                "code": "lesson_example_he-fell-asleep-during-the-lesson",
+                "text": "He fell asleep during the lesson."
+            },
+            {
+                "code": "lesson_example_i-enjoyed-the-lesson-on-world-history",
+                "text": "I enjoyed the lesson on world history."
+            },
+            {
+                "code": "lesson_example_she-takes-piano-lessons-with-the-school-music-teacher",
+                "text": "She takes piano lessons with the school music teacher."
+            },
+            {
+                "code": "lesson_example_he-is-taking-lessons-in-sewing",
+                "text": "He is taking lessons in sewing."
+            },
+            {
+                "code": "lesson_example_she-was-taught-a-lesson-about-cheating",
+                "text": "She was taught a lesson about cheating."
+            },
+            {
+                "code": "lesson_example_we-can-learn-many-lessons-from-our-past-mistakes",
+                "text": "We can learn many lessons from our past mistakes."
+            }
+        ]
+    }
+]

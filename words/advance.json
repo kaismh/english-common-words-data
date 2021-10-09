@@ -1,0 +1,72 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "something made at an earlier time",
+        "examples": [
+            {
+                "code": "advance_example_she-was-happy-to-receive-an-advance-copy-of-the-author-s-book",
+                "text": "She was happy to receive an advance copy of the author's book."
+            },
+            {
+                "code": "advance_example_we-received-an-advance-warning-to-move-out-of-the-apartment",
+                "text": "We received an advance warning to move out of the apartment."
+            }
+        ]
+    },
+    {
+        "type": "(n)",
+        "mean": "forward movement; early payment; development or improvement of something",
+        "examples": [
+            {
+                "code": "advance_example_the-army-halted-the-enemy-s-advance",
+                "text": "The army halted the enemy's advance."
+            },
+            {
+                "code": "advance_example_we-made-many-technological-advances-last-century",
+                "text": "We made many technological advances last century."
+            },
+            {
+                "code": "advance_example_my-work-offered-me-an-advance",
+                "text": "My work offered me an advance."
+            },
+            {
+                "code": "advance_example_our-ideas-include-modern-technological-advances",
+                "text": "Our ideas include modern technological advances."
+            },
+            {
+                "code": "advance_example_our-company-has-made-big-advances-in-medicine",
+                "text": "Our company has made big advances in medicine."
+            },
+            {
+                "code": "advance_example_i-took-out-a-cash-advance-from-my-credit-card",
+                "text": "I took out a cash advance from my credit card."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to move forward; to give early payment; to develop",
+        "examples": [
+            {
+                "code": "advance_example_the-football-team-quickly-advanced-down-the-field",
+                "text": "The football team quickly advanced down the field."
+            },
+            {
+                "code": "advance_example_the-philosopher-considerably-advanced-our-understanding-of-the-universe",
+                "text": "The philosopher considerably advanced our understanding of the universe."
+            },
+            {
+                "code": "advance_example_we-have-advanced-from-primitive-to-highly-sophisticated-people",
+                "text": "We have advanced from primitive to highly sophisticated people."
+            },
+            {
+                "code": "advance_example_some-students-advance-beyond-the-need-for-dictionaries",
+                "text": "Some students advance beyond the need for dictionaries."
+            },
+            {
+                "code": "advance_example_the-troops-advanced-onto-the-city",
+                "text": "The troops advanced onto the city."
+            }
+        ]
+    }
+]

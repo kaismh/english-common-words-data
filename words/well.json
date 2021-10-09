@@ -1,0 +1,90 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a deep hole in the ground where you can find water or oil",
+        "examples": [
+            {
+                "code": "well_example_the-girl-fell-into-a-dry-well",
+                "text": "The girl fell into a dry well."
+            },
+            {
+                "code": "well_example_the-children-threw-pebbles-into-the-deep-well",
+                "text": "The children threw pebbles into the deep well."
+            },
+            {
+                "code": "well_example_they-started-drilling-the-oil-well",
+                "text": "They started drilling the oil well."
+            },
+            {
+                "code": "well_example_they-are-digging-a-well",
+                "text": "They are digging a well."
+            },
+            {
+                "code": "well_example_the-well-has-run-dry",
+                "text": "The well has run dry."
+            },
+            {
+                "code": "well_example_the-boy-fell-into-the-well",
+                "text": "The boy fell into the well."
+            },
+            {
+                "code": "well_example_they-are-drilling-the-well-for-oil",
+                "text": "They are drilling the well for oil."
+            }
+        ]
+    },
+    {
+        "type": "(adv)",
+        "mean": "in a good or skillful way",
+        "examples": [
+            {
+                "code": "well_example_i-am-well-aware-of-the-situation",
+                "text": "I am well aware of the situation."
+            },
+            {
+                "code": "well_example_he-is-well-acquainted-with-their-culture",
+                "text": "He is well acquainted with their culture."
+            },
+            {
+                "code": "well_example_the-army-was-well-armed-with-guns",
+                "text": "The army was well armed with guns."
+            },
+            {
+                "code": "well_example_the-program-was-well-developed",
+                "text": "The program was well developed."
+            },
+            {
+                "code": "well_example_he-eats-a-well-balanced-meal",
+                "text": "He eats a well balanced meal."
+            },
+            {
+                "code": "well_example_she-is-well-paid-in-that-position",
+                "text": "She is well paid in that position."
+            },
+            {
+                "code": "well_example_they-behave-well-together",
+                "text": "They behave well together."
+            },
+            {
+                "code": "well_example_she-is-well-spoken",
+                "text": "She is well spoken."
+            },
+            {
+                "code": "well_example_wash-your-hands-well",
+                "text": "Wash your hands well."
+            },
+            {
+                "code": "well_example_they-work-well-as-a-team",
+                "text": "They work well as a team."
+            },
+            {
+                "code": "well_example_he-cooked-the-turkey-well",
+                "text": "He cooked the turkey well."
+            },
+            {
+                "code": "well_example_she-listens-well",
+                "text": "She listens well."
+            }
+        ]
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "most successful, ahead of others",
+        "examples": [
+            {
+                "code": "leading_example_he-is-the-leading-actor-of-the-movie",
+                "text": "He is the leading actor of the movie."
+            },
+            {
+                "code": "leading_example_she-is-the-leading-candidate-in-the-mayoral-race",
+                "text": "She is the leading candidate in the mayoral race."
+            },
+            {
+                "code": "leading_example_the-leading-cause-of-lung-cancer-is-smoking",
+                "text": "The leading cause of lung cancer is smoking."
+            },
+            {
+                "code": "leading_example_it-is-difficult-to-beat-out-the-leading-brand",
+                "text": "It is difficult to beat out the leading brand."
+            },
+            {
+                "code": "leading_example_she-got-the-leading-role-in-the-school-play",
+                "text": "She got the leading role in the school play."
+            }
+        ]
+    }
+]

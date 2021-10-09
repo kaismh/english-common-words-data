@@ -1,0 +1,84 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a large, tall plant with a trunk, branches and leaves",
+        "examples": [
+            {
+                "code": "tree_example_we-have-an-apple-tree-in-our-backyard",
+                "text": "We have an apple tree in our backyard."
+            },
+            {
+                "code": "tree_example_you-don-t-see-many-tropical-trees-in-this-state",
+                "text": "You don't see many tropical trees in this state."
+            },
+            {
+                "code": "tree_example_there-are-many-tall-trees-in-the-forest",
+                "text": "There are many tall trees in the forest."
+            },
+            {
+                "code": "tree_example_the-owl-lives-in-the-hollow-tree",
+                "text": "The owl lives in the hollow tree."
+            },
+            {
+                "code": "tree_example_we-have-evergreen-trees-in-our-area",
+                "text": "We have evergreen trees in our area."
+            },
+            {
+                "code": "tree_example_that-s-an-old-tree",
+                "text": "That's an old tree."
+            },
+            {
+                "code": "tree_example_let-s-sit-under-a-shady-tree",
+                "text": "Let's sit under a shady tree."
+            },
+            {
+                "code": "tree_example_there-are-many-fallen-trees-around-here",
+                "text": "There are many fallen trees around here."
+            },
+            {
+                "code": "tree_example_he-chopped-down-the-dead-tree",
+                "text": "He chopped down the dead tree."
+            },
+            {
+                "code": "tree_example_the-kids-climb-the-big-tree",
+                "text": "The kids climb the big tree."
+            },
+            {
+                "code": "tree_example_we-want-to-plant-more-trees-in-the-yard",
+                "text": "We want to plant more trees in the yard."
+            },
+            {
+                "code": "tree_example_the-tree-is-growing-fast",
+                "text": "The tree is growing fast."
+            },
+            {
+                "code": "tree_example_the-tree-fell-during-the-storm",
+                "text": "The tree fell during the storm."
+            },
+            {
+                "code": "tree_example_we-cleaned-up-the-tree-branches-after-the-big-storm",
+                "text": "We cleaned up the tree branches after the big storm."
+            },
+            {
+                "code": "tree_example_the-tree-trunk-is-very-wide",
+                "text": "The tree trunk is very wide."
+            },
+            {
+                "code": "tree_example_the-tall-tree-fell-during-the-storm",
+                "text": "The tall tree fell during the storm."
+            },
+            {
+                "code": "tree_example_let-s-have-a-picnic-under-the-tree",
+                "text": "Let's have a picnic under the tree."
+            },
+            {
+                "code": "tree_example_there-s-a-bird-in-the-tree",
+                "text": "There's a bird in the tree."
+            },
+            {
+                "code": "tree_example_the-dog-chased-the-cat-up-the-tree",
+                "text": "The dog chased the cat up the tree."
+            }
+        ]
+    }
+]

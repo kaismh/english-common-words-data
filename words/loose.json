@@ -1,0 +1,60 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "not firmly or tightly fixed in place; not held or tied together",
+        "examples": [
+            {
+                "code": "loose_example_the-door-handle-is-loose",
+                "text": "The door handle is loose."
+            },
+            {
+                "code": "loose_example_the-screw-became-loose",
+                "text": "The screw became loose."
+            },
+            {
+                "code": "loose_example_she-let-her-hair-fall-loose-down-her-back",
+                "text": "She let her hair fall loose down her back."
+            },
+            {
+                "code": "loose_example_the-dog-broke-loose-from-the-yard",
+                "text": "The dog broke loose from the yard."
+            },
+            {
+                "code": "loose_example_he-let-the-animals-loose",
+                "text": "He let the animals loose."
+            },
+            {
+                "code": "loose_example_the-rope-felt-slightly-loose",
+                "text": "The rope felt slightly loose."
+            },
+            {
+                "code": "loose_example_my-son-has-a-loose-tooth",
+                "text": "My son has a loose tooth."
+            },
+            {
+                "code": "loose_example_i-need-to-tighten-the-loose-ends",
+                "text": "I need to tighten the loose ends."
+            },
+            {
+                "code": "loose_example_she-can-t-keep-a-secret-she-has-loose-lips",
+                "text": "She can't keep a secret. She has loose lips."
+            },
+            {
+                "code": "loose_example_i-like-her-hair-in-a-loose-ponytail",
+                "text": "I like her hair in a loose ponytail."
+            },
+            {
+                "code": "loose_example_she-wears-very-loose-clothes",
+                "text": "She wears very loose clothes."
+            },
+            {
+                "code": "loose_example_do-you-have-any-loose-change",
+                "text": "Do you have any loose change?"
+            },
+            {
+                "code": "loose_example_one-of-the-side-effects-is-loose-stools",
+                "text": "One of the side effects is loose stools."
+            }
+        ]
+    }
+]

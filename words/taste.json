@@ -1,0 +1,94 @@
+[
+    {
+        "type": "(n)",
+        "mean": "flavor; a small amount; a liking, an opinion",
+        "examples": [
+            {
+                "code": "taste_example_the-dish-had-a-very-distinct-taste",
+                "text": "The dish had a very distinct taste."
+            },
+            {
+                "code": "taste_example_the-soup-left-a-bad-taste-in-his-mouth",
+                "text": "The soup left a bad taste in his mouth."
+            },
+            {
+                "code": "taste_example_my-first-job-gave-me-a-real-taste-of-business",
+                "text": "My first job gave me a real taste of business."
+            },
+            {
+                "code": "taste_example_she-has-great-taste-in-clothes",
+                "text": "She has great taste in clothes."
+            },
+            {
+                "code": "taste_example_he-has-interesting-taste-in-music",
+                "text": "He has interesting taste in music."
+            },
+            {
+                "code": "taste_example_art-is-an-acquired-taste",
+                "text": "Art is an acquired taste."
+            },
+            {
+                "code": "taste_example_the-soup-had-a-salty-taste",
+                "text": "The soup had a salty taste."
+            },
+            {
+                "code": "taste_example_he-enjoys-the-taste-of-fine-wine-at-dinner",
+                "text": "He enjoys the taste of fine wine at dinner."
+            },
+            {
+                "code": "taste_example_he-got-a-taste-of-his-own-medicine",
+                "text": "He got a taste of his own medicine."
+            },
+            {
+                "code": "taste_example_try-a-taste-of-this-sauce",
+                "text": "Try a taste of this sauce."
+            },
+            {
+                "code": "taste_example_he-has-developed-a-taste-for-adventure-lately",
+                "text": "He has developed a taste for adventure lately."
+            },
+            {
+                "code": "taste_example_she-and-her-husband-share-the-same-taste-in-movies",
+                "text": "She and her husband share the same taste in movies."
+            },
+            {
+                "code": "taste_example_his-taste-buds-are-not-working",
+                "text": "His taste buds are not working."
+            },
+            {
+                "code": "taste_example_this-was-her-first-taste-of-success",
+                "text": "This was her first taste of success."
+            },
+            {
+                "code": "taste_example_the-dance-is-too-modern-for-my-taste",
+                "text": "The dance is too modern for my taste."
+            },
+            {
+                "code": "taste_example_season-the-soup-to-taste",
+                "text": "Season the soup to taste."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to use the mouth to sense the flavor of food or drinks",
+        "examples": [
+            {
+                "code": "taste_example_the-soup-tasted-bland",
+                "text": "The soup tasted bland."
+            },
+            {
+                "code": "taste_example_the-dish-tasted-foul",
+                "text": "The dish tasted foul."
+            },
+            {
+                "code": "taste_example_the-meal-tasted-like-her-mother-s-cooking",
+                "text": "The meal tasted like her mother's cooking."
+            },
+            {
+                "code": "taste_example_the-cookies-tasted-of-coconut",
+                "text": "The cookies tasted of coconut."
+            }
+        ]
+    }
+]

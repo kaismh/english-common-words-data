@@ -1,0 +1,76 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to make something full",
+        "examples": [
+            {
+                "code": "fill_example_the-pool-is-filling-quickly",
+                "text": "The pool is filling quickly."
+            },
+            {
+                "code": "fill_example_the-room-suddenly-filled-with-people",
+                "text": "The room suddenly filled with people."
+            },
+            {
+                "code": "fill_example_he-filled-the-box-completely-with-books",
+                "text": "He filled the box completely with books."
+            },
+            {
+                "code": "fill_example_it-will-take-a-while-to-fill-up-all-the-space",
+                "text": "It will take a while to fill up all the space."
+            },
+            {
+                "code": "fill_example_the-reservoir-began-to-fill-with-water",
+                "text": "The reservoir began to fill with water."
+            },
+            {
+                "code": "fill_example_his-voice-seems-to-fill-the-room",
+                "text": "His voice seems to fill the room."
+            },
+            {
+                "code": "fill_example_she-filled-the-glass-with-juice",
+                "text": "She filled the glass with juice."
+            },
+            {
+                "code": "fill_example_a-sweet-aroma-filled-the-air",
+                "text": "A sweet aroma filled the air."
+            },
+            {
+                "code": "fill_example_smoke-filled-the-room",
+                "text": "Smoke filled the room."
+            },
+            {
+                "code": "fill_example_music-filled-the-room",
+                "text": "Music filled the room."
+            },
+            {
+                "code": "fill_example_he-was-filled-with-disappointment-after-the-loss",
+                "text": "He was filled with disappointment after the loss."
+            },
+            {
+                "code": "fill_example_she-filled-the-pitcher-with-water",
+                "text": "She filled the pitcher with water."
+            },
+            {
+                "code": "fill_example_she-filled-the-bath",
+                "text": "She filled the bath."
+            },
+            {
+                "code": "fill_example_students-filled-the-auditorium",
+                "text": "Students filled the auditorium."
+            },
+            {
+                "code": "fill_example_they-filled-a-bag-with-supplies",
+                "text": "They filled a bag with supplies."
+            },
+            {
+                "code": "fill_example_we-are-trying-to-fill-the-position",
+                "text": "We are trying to fill the position."
+            },
+            {
+                "code": "fill_example_the-pharmacist-filled-her-prescription",
+                "text": "The pharmacist filled her prescription."
+            }
+        ]
+    }
+]

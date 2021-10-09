@@ -1,0 +1,88 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the ability to remember",
+        "examples": [
+            {
+                "code": "memory_example_the-house-holds-many-memories-for-them",
+                "text": "The house holds many memories for them."
+            },
+            {
+                "code": "memory_example_he-is-haunted-by-his-memories",
+                "text": "He is haunted by his memories."
+            },
+            {
+                "code": "memory_example_i-have-a-good-memory",
+                "text": "I have a good memory."
+            },
+            {
+                "code": "memory_example_my-memories-are-fading",
+                "text": "My memories are fading."
+            },
+            {
+                "code": "memory_example_i-am-losing-my-memory",
+                "text": "I am losing my memory."
+            },
+            {
+                "code": "memory_example_certain-smells-jog-my-memory",
+                "text": "Certain smells jog my memory."
+            },
+            {
+                "code": "memory_example_i-want-to-preserve-the-memories-of-my-childhood",
+                "text": "I want to preserve the memories of my childhood."
+            },
+            {
+                "code": "memory_example_he-tried-to-recall-his-memories",
+                "text": "He tried to recall his memories."
+            },
+            {
+                "code": "memory_example_i-treasure-memories-of-my-parents",
+                "text": "I treasure memories of my parents."
+            },
+            {
+                "code": "memory_example_i-don-t-remember-him-helping-in-recent-memory",
+                "text": "I don't remember him helping in recent memory."
+            },
+            {
+                "code": "memory_example_she-has-a-photographic-memory-of-what-happened-that-day",
+                "text": "She has a photographic memory of what happened that day."
+            },
+            {
+                "code": "memory_example_i-have-so-many-special-memories-of-my-childhood",
+                "text": "I have so many special memories of my childhood."
+            },
+            {
+                "code": "memory_example_he-lost-his-long-term-memory-after-the-accident",
+                "text": "He lost his long-term memory after the accident."
+            },
+            {
+                "code": "memory_example_she-has-repressed-memories-of-her-childhood",
+                "text": "She has repressed memories of her childhood."
+            },
+            {
+                "code": "memory_example_what-is-your-first-memory-of-your-grandmother",
+                "text": "What is your first memory of your grandmother?"
+            },
+            {
+                "code": "memory_example_i-have-no-memory-of-that",
+                "text": "I have no memory of that."
+            },
+            {
+                "code": "memory_example_i-have-no-memory-for-detail",
+                "text": "I have no memory for detail."
+            },
+            {
+                "code": "memory_example_i-smile-at-the-memory-of-my-childhood",
+                "text": "I smile at the memory of my childhood."
+            },
+            {
+                "code": "memory_example_i-wrote-this-in-memory-of-my-late-friend",
+                "text": "I wrote this in memory of my late friend."
+            },
+            {
+                "code": "memory_example_i-can-recite-the-poem-from-memory",
+                "text": "I can recite the poem from memory."
+            }
+        ]
+    }
+]

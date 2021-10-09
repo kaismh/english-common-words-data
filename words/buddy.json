@@ -1,0 +1,32 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a friend",
+        "examples": [
+            {
+                "code": "buddy_example_he-is-a-childhood-buddy-of-mine",
+                "text": "He is a childhood buddy of mine."
+            },
+            {
+                "code": "buddy_example_he-is-my-college-buddy",
+                "text": "He is my college buddy."
+            },
+            {
+                "code": "buddy_example_we-are-drinking-buddies",
+                "text": "We are drinking buddies."
+            },
+            {
+                "code": "buddy_example_he-is-my-buddy",
+                "text": "He is my buddy."
+            },
+            {
+                "code": "buddy_example_meet-a-buddy-of-mine",
+                "text": "Meet a buddy of mine."
+            },
+            {
+                "code": "buddy_example_the-school-formed-a-buddy-system-to-stay-safe",
+                "text": "The school formed a buddy system to stay safe."
+            }
+        ]
+    }
+]

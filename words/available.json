@@ -1,0 +1,44 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "ready to be used or purchased; able to talk or meet someone",
+        "examples": [
+            {
+                "code": "available_example_that-apartment-is-available",
+                "text": "That apartment is available."
+            },
+            {
+                "code": "available_example_water-is-easily-available",
+                "text": "Water is easily available."
+            },
+            {
+                "code": "available_example_when-did-that-book-become-commercially-available",
+                "text": "When did that book become commercially available?"
+            },
+            {
+                "code": "available_example_parking-spaces-are-usually-available",
+                "text": "Parking spaces are usually available."
+            },
+            {
+                "code": "available_example_i-do-not-have-that-much-money-instantly-available",
+                "text": "I do not have that much money instantly available."
+            },
+            {
+                "code": "available_example_the-doctor-is-currently-available-to-see-you",
+                "text": "The doctor is currently available to see you."
+            },
+            {
+                "code": "available_example_tickets-are-available-for-purchase",
+                "text": "Tickets are available for purchase."
+            },
+            {
+                "code": "available_example_school-counseling-is-available-to-anyone-who-needs-it",
+                "text": "School counseling is available to anyone who needs it."
+            },
+            {
+                "code": "available_example_extra-textbooks-are-available-from-the-teachers",
+                "text": "Extra textbooks are available from the teachers."
+            }
+        ]
+    }
+]

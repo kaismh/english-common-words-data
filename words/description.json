@@ -1,0 +1,40 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a statement of how something or someone is like",
+        "examples": [
+            {
+                "code": "description_example_the-witness-gave-a-complete-description",
+                "text": "The witness gave a complete description."
+            },
+            {
+                "code": "description_example_the-description-is-accurate",
+                "text": "The description is accurate."
+            },
+            {
+                "code": "description_example_she-gives-very-lengthy-descriptions",
+                "text": "She gives very lengthy descriptions."
+            },
+            {
+                "code": "description_example_give-me-a-basic-description",
+                "text": "Give me a basic description."
+            },
+            {
+                "code": "description_example_the-police-requested-a-formal-description-of-the-intruder",
+                "text": "The police requested a formal description of the intruder."
+            },
+            {
+                "code": "description_example_that-is-not-in-my-job-description",
+                "text": "That is not in my job description."
+            },
+            {
+                "code": "description_example_he-gave-the-police-a-description",
+                "text": "He gave the police a description."
+            },
+            {
+                "code": "description_example_the-woman-fit-the-description",
+                "text": "The woman fit the description."
+            }
+        ]
+    }
+]

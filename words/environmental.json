@@ -1,0 +1,48 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "related to the condition that affects the behavior and development of people and things",
+        "examples": [
+            {
+                "code": "environmental_example_they-discussed-the-environmental-impact-of-the-project",
+                "text": "They discussed the environmental impact of the project."
+            },
+            {
+                "code": "environmental_example_he-is-looking-for-the-environmental-cause-of-the-illness",
+                "text": "He is looking for the environmental cause of the illness."
+            },
+            {
+                "code": "environmental_example_the-company-will-pay-for-the-environmental-damage-they-caused",
+                "text": "The company will pay for the environmental damage they caused."
+            },
+            {
+                "code": "environmental_example_she-is-concerned-about-environmental-protection",
+                "text": "She is concerned about environmental protection."
+            },
+            {
+                "code": "environmental_example_the-environmental-group-is-fighting-the-new-law",
+                "text": "The environmental group is fighting the new law."
+            },
+            {
+                "code": "environmental_example_new-environmental-laws-are-being-considered",
+                "text": "New environmental laws are being considered."
+            },
+            {
+                "code": "environmental_example_water-pollution-is-a-major-environmental-issue",
+                "text": "Water pollution is a major environmental issue."
+            },
+            {
+                "code": "environmental_example_she-works-as-an-environmental-scientist",
+                "text": "She works as an environmental scientist."
+            },
+            {
+                "code": "environmental_example_they-are-debating-environmental-policy",
+                "text": "They are debating environmental policy."
+            },
+            {
+                "code": "environmental_example_we-need-to-discuss-the-environmental-concerns-of-this-project",
+                "text": "We need to discuss the environmental concerns of this project."
+            }
+        ]
+    }
+]

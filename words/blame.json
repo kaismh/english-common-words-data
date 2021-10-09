@@ -1,0 +1,62 @@
+[
+    {
+        "type": "(n)",
+        "mean": "responsibility for doing something wrong",
+        "examples": [
+            {
+                "code": "blame_example_i-got-most-of-the-blame-for-the-mistake",
+                "text": "I got most of the blame for the mistake."
+            },
+            {
+                "code": "blame_example_they-had-to-share-the-blame",
+                "text": "They had to share the blame."
+            },
+            {
+                "code": "blame_example_we-can-place-some-of-the-blame-on-the-mechanic",
+                "text": "We can place some of the blame on the mechanic."
+            },
+            {
+                "code": "blame_example_you-re-not-going-to-escape-the-blame",
+                "text": "You're not going to escape the blame."
+            },
+            {
+                "code": "blame_example_the-blame-rests-on-your-shoulders",
+                "text": "The blame rests on your shoulders."
+            },
+            {
+                "code": "blame_example_she-tried-to-put-the-blame-on-someone-else",
+                "text": "She tried to put the blame on someone else."
+            },
+            {
+                "code": "blame_example_he-took-the-blame-for-the-mistake",
+                "text": "He took the blame for the mistake."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to say or feel that someone or something is responsible for what went wrong",
+        "examples": [
+            {
+                "code": "blame_example_my-boss-unfairly-blamed-me-for-the-problem",
+                "text": "My boss unfairly blamed me for the problem."
+            },
+            {
+                "code": "blame_example_the-president-was-widely-blamed-for-the-economy",
+                "text": "The president was widely blamed for the economy."
+            },
+            {
+                "code": "blame_example_i-do-not-blame-you-for-what-happened",
+                "text": "I do not blame you for what happened."
+            },
+            {
+                "code": "blame_example_they-blame-me-for-the-accident",
+                "text": "They blame me for the accident."
+            },
+            {
+                "code": "blame_example_they-blamed-the-accident-on-her",
+                "text": "They blamed the accident on her."
+            }
+        ]
+    }
+]

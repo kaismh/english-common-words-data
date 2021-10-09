@@ -1,0 +1,80 @@
+[
+    {
+        "type": "(n)",
+        "mean": "furniture for sleeping on; a place where flowers grow",
+        "examples": [
+            {
+                "code": "bed_example_i-sleep-on-a-single-bed",
+                "text": "I sleep on a single bed."
+            },
+            {
+                "code": "bed_example_we-have-a-comfortable-bed-for-our-guests",
+                "text": "We have a comfortable bed for our guests."
+            },
+            {
+                "code": "bed_example_the-hotel-bed-was-very-hard",
+                "text": "The hotel bed was very hard."
+            },
+            {
+                "code": "bed_example_there-was-an-empty-bed-in-the-spare-room",
+                "text": "There was an empty bed in the spare room."
+            },
+            {
+                "code": "bed_example_we-are-building-a-flower-bed",
+                "text": "We are building a flower bed."
+            },
+            {
+                "code": "bed_example_i-usually-make-my-bed-before-going-to-work",
+                "text": "I usually make my bed before going to work."
+            },
+            {
+                "code": "bed_example_i-want-to-crawl-into-bed",
+                "text": "I want to crawl into bed."
+            },
+            {
+                "code": "bed_example_she-jumped-out-of-bed-on-christmas-morning",
+                "text": "She jumped out of bed on Christmas morning."
+            },
+            {
+                "code": "bed_example_the-baby-got-out-of-bed-by-himself",
+                "text": "The baby got out of bed by himself."
+            },
+            {
+                "code": "bed_example_i-put-my-daughter-to-bed-at-8-o-clock",
+                "text": "I put my daughter to bed at 8 o'clock."
+            },
+            {
+                "code": "bed_example_she-likes-me-to-tuck-her-into-bed-before-she-sleeps",
+                "text": "She likes me to tuck her into bed before she sleeps."
+            },
+            {
+                "code": "bed_example_i-lie-in-bed-for-hours-before-i-fall-asleep",
+                "text": "I lie in bed for hours before I fall asleep."
+            },
+            {
+                "code": "bed_example_on-vacations-we-had-to-share-a-bed",
+                "text": "On vacations we had to share a bed."
+            },
+            {
+                "code": "bed_example_i-sleep-on-a-queen-size-bed",
+                "text": "I sleep on a queen-size bed."
+            },
+            {
+                "code": "bed_example_can-you-get-me-some-new-bed-sheets",
+                "text": "Can you get me some new bed sheets?"
+            },
+            {
+                "code": "bed_example_i-like-reading-in-bed",
+                "text": "I like reading in bed."
+            },
+            {
+                "code": "bed_example_get-out-of-bed-already",
+                "text": "Get out of bed already!"
+            },
+            {
+                "code": "bed_example_what-a-beautiful-bed-of-roses",
+                "text": "What a beautiful bed of roses."
+            }
+        ]
+    }
+]

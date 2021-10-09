@@ -1,0 +1,50 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to take something from someone without asking; to take something from a store without paying",
+        "examples": [
+            {
+                "code": "steal_example_the-thief-steals-people-s-belongings",
+                "text": "The thief steals people's belongings."
+            },
+            {
+                "code": "steal_example_he-stole-my-idea",
+                "text": "He stole my idea."
+            },
+            {
+                "code": "steal_example_my-sister-is-always-stealing-my-clothes",
+                "text": "My sister is always stealing my clothes."
+            },
+            {
+                "code": "steal_example_the-boss-doesn-t-know-that-his-employees-frequently-steal-from-the-cash-register",
+                "text": "The boss doesn't know that his employees frequently steal from the cash register."
+            },
+            {
+                "code": "steal_example_she-has-never-stolen-anything-in-her-life",
+                "text": "She has never stolen anything in her life."
+            }
+        ]
+    },
+    {
+        "type": "(n)",
+        "mean": "something sold at a very low price",
+        "examples": [
+            {
+                "code": "steal_example_it-was-so-cheap-it-was-a-steal",
+                "text": "It was so cheap, it was a steal."
+            },
+            {
+                "code": "steal_example_what-a-steal-i-barely-paid-anything",
+                "text": "What a steal! I barely paid anything."
+            },
+            {
+                "code": "steal_example_that-s-a-steal",
+                "text": "That's a steal!"
+            },
+            {
+                "code": "steal_example_it-is-practically-a-steal",
+                "text": "It is practically a steal."
+            }
+        ]
+    }
+]

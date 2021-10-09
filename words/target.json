@@ -1,0 +1,62 @@
+[
+    {
+        "type": "(n)",
+        "mean": "something or someone you try to hurt or destroy; result; something you aim to reach",
+        "examples": [
+            {
+                "code": "target_example_the-deer-was-an-easy-target-for-the-hunter",
+                "text": "The deer was an easy target for the hunter."
+            },
+            {
+                "code": "target_example_the-loud-plane-was-an-open-target-for-the-enemy",
+                "text": "The loud plane was an open target for the enemy."
+            },
+            {
+                "code": "target_example_she-has-set-a-very-high-target-for-her-career-goal",
+                "text": "She has set a very high target for her career goal."
+            },
+            {
+                "code": "target_example_the-missile-reached-its-target",
+                "text": "The missile reached its target."
+            },
+            {
+                "code": "target_example_the-arrow-missed-the-target-completely",
+                "text": "The arrow missed the target completely."
+            },
+            {
+                "code": "target_example_the-shooter-hit-his-target",
+                "text": "The shooter hit his target."
+            },
+            {
+                "code": "target_example_he-was-aiming-for-the-target",
+                "text": "He was aiming for the target."
+            },
+            {
+                "code": "target_example_she-had-her-mind-on-the-target",
+                "text": "She had her mind on the target."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to aim an attack or action",
+        "examples": [
+            {
+                "code": "target_example_senior-citizens-are-deliberately-targeted",
+                "text": "Senior citizens are deliberately targeted."
+            },
+            {
+                "code": "target_example_police-are-actively-targeting-repeat-offenders",
+                "text": "Police are actively targeting repeat offenders."
+            },
+            {
+                "code": "target_example_the-products-are-targeted-at-young-people",
+                "text": "The products are targeted at young people."
+            },
+            {
+                "code": "target_example_the-service-is-targeted-toward-the-poor",
+                "text": "The service is targeted toward the poor."
+            }
+        ]
+    }
+]

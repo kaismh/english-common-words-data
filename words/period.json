@@ -1,0 +1,92 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a length of time; menstruation; punctuation for ending a sentence",
+        "examples": [
+            {
+                "code": "period_example_the-country-is-entering-a-period-of-peace",
+                "text": "The country is entering a period of peace."
+            },
+            {
+                "code": "period_example_the-trial-period-ends-today",
+                "text": "The trial period ends today."
+            },
+            {
+                "code": "period_example_the-book-covers-a-period-of-two-hundred-years",
+                "text": "The book covers a period of two hundred years."
+            },
+            {
+                "code": "period_example_he-experienced-a-long-period-of-suffering",
+                "text": "He experienced a long period of suffering."
+            },
+            {
+                "code": "period_example_she-thought-she-was-pregnant-because-she-missed-her-period",
+                "text": "She thought she was pregnant because she missed her period."
+            },
+            {
+                "code": "period_example_she-got-her-period-at-13",
+                "text": "She got her period at 13."
+            },
+            {
+                "code": "period_example_put-a-period-at-the-end-of-a-sentence",
+                "text": "Put a period at the end of a sentence."
+            },
+            {
+                "code": "period_example_i-get-severe-period-cramps",
+                "text": "I get severe period cramps."
+            },
+            {
+                "code": "period_example_they-were-gone-for-a-long-period-of-time",
+                "text": "They were gone for a long period of time."
+            },
+            {
+                "code": "period_example_you-have-to-be-committed-to-this-project-for-a-set-period",
+                "text": "You have to be committed to this project for a set period."
+            },
+            {
+                "code": "period_example_the-initial-period-is-the-hardest",
+                "text": "The initial period is the hardest."
+            },
+            {
+                "code": "period_example_that-was-a-happy-period-of-her-life",
+                "text": "That was a happy period of her life."
+            },
+            {
+                "code": "period_example_she-got-her-menstrual-period-today",
+                "text": "She got her menstrual period today."
+            },
+            {
+                "code": "period_example_she-has-heavy-periods",
+                "text": "She has heavy periods."
+            },
+            {
+                "code": "period_example_periods-are-monthly",
+                "text": "Periods are monthly."
+            },
+            {
+                "code": "period_example_we-listened-to-her-for-a-period-of-time",
+                "text": "We listened to her for a period of time."
+            },
+            {
+                "code": "period_example_i-lived-there-for-a-period-of-five-months",
+                "text": "I lived there for a period of five months."
+            },
+            {
+                "code": "period_example_there-will-be-a-brief-period-between-meetings",
+                "text": "There will be a brief period between meetings."
+            },
+            {
+                "code": "period_example_add-a-period-to-the-end-of-the-sentence",
+                "text": "Add a period to the end of the sentence."
+            },
+            {
+                "code": "period_example_i-learned-to-speak-english-in-a-short-period-of-time",
+                "text": "I learned to speak English in a short period of time."
+            },
+            {
+                "code": "period_example_during-the-period-from-june-to-august-i-worked-at-a-farm",
+                "text": "During the period from June to August, I worked at a farm."
+            }
+        ]
+    }
+]

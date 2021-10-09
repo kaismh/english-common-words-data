@@ -1,0 +1,28 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to include someone or something",
+        "examples": [
+            {
+                "code": "involve_example_our-wish-is-to-actively-involve-everyone-in-the-decision-making-process",
+                "text": "Our wish is to actively involve everyone in the decision-making process."
+            },
+            {
+                "code": "involve_example_changes-generally-involve-lots-of-time-and-effort",
+                "text": "Changes generally involve lots of time and effort."
+            },
+            {
+                "code": "involve_example_we-need-to-involve-my-parents-in-this-problem",
+                "text": "We need to involve my parents in this problem."
+            },
+            {
+                "code": "involve_example_the-case-involves-a-member-of-my-family",
+                "text": "The case involves a member of my family."
+            },
+            {
+                "code": "involve_example_the-job-involves-danger",
+                "text": "The job involves danger."
+            }
+        ]
+    }
+]

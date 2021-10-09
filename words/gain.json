@@ -1,0 +1,126 @@
+[
+    {
+        "type": "(n)",
+        "mean": "an increase in the amount of something",
+        "examples": [
+            {
+                "code": "gain_example_they-made-huge-gains-in-revenue-this-year",
+                "text": "They made huge gains in revenue this year."
+            },
+            {
+                "code": "gain_example_the-company-has-made-solid-gains-in-the-market-this-year",
+                "text": "The company has made solid gains in the market this year."
+            },
+            {
+                "code": "gain_example_they-have-only-made-minimal-gains-this-quarter",
+                "text": "They have only made minimal gains this quarter."
+            },
+            {
+                "code": "gain_example_they-are-trying-to-increase-future-gains",
+                "text": "They are trying to increase future gains."
+            },
+            {
+                "code": "gain_example_there-will-be-economic-gains-from-the-policy-change",
+                "text": "There will be economic gains from the policy change."
+            },
+            {
+                "code": "gain_example_lack-of-exercise-can-cause-weight-gain",
+                "text": "Lack of exercise can cause weight gain."
+            },
+            {
+                "code": "gain_example_the-company-achieved-huge-gains-this-year",
+                "text": "The company achieved huge gains this year."
+            },
+            {
+                "code": "gain_example_they-are-trying-to-increase-net-gains",
+                "text": "They are trying to increase net gains."
+            },
+            {
+                "code": "gain_example_he-is-trying-to-minimize-weight-gain-while-he-s-injured",
+                "text": "He is trying to minimize weight gain while he's injured."
+            },
+            {
+                "code": "gain_example_the-report-showed-a-minimal-gain-over-the-previous-year",
+                "text": "The report showed a minimal gain over the previous year."
+            },
+            {
+                "code": "gain_example_they-reported-a-slight-gain-in-earnings",
+                "text": "They reported a slight gain in earnings."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to get or win something; to increase the amount of something",
+        "examples": [
+            {
+                "code": "gain_example_he-quickly-gained-a-bad-reputation",
+                "text": "He quickly gained a bad reputation."
+            },
+            {
+                "code": "gain_example_her-plan-immediately-gained-recognition",
+                "text": "Her plan immediately gained recognition."
+            },
+            {
+                "code": "gain_example_she-slowly-gained-weight-after-she-stopped-exercising",
+                "text": "She slowly gained weight after she stopped exercising."
+            },
+            {
+                "code": "gain_example_they-stand-to-gain-a-lot-from-the-new-rules",
+                "text": "They stand to gain a lot from the new rules."
+            },
+            {
+                "code": "gain_example_she-hopes-to-gain-recognition-for-her-work",
+                "text": "She hopes to gain recognition for her work."
+            },
+            {
+                "code": "gain_example_they-tried-to-gain-access-to-the-locked-building",
+                "text": "They tried to gain access to the locked building."
+            },
+            {
+                "code": "gain_example_she-gained-a-lot-of-weight-from-overeating",
+                "text": "She gained a lot of weight from overeating."
+            },
+            {
+                "code": "gain_example_he-gained-attention-for-his-work",
+                "text": "He gained attention for his work."
+            },
+            {
+                "code": "gain_example_she-finally-gained-approval-for-her-project",
+                "text": "She finally gained approval for her project."
+            },
+            {
+                "code": "gain_example_he-gained-control-of-the-process",
+                "text": "He gained control of the process."
+            },
+            {
+                "code": "gain_example_they-gained-the-understanding-of-the-system",
+                "text": "They gained the understanding of the system."
+            },
+            {
+                "code": "gain_example_his-ideas-are-gaining-momentum",
+                "text": "His ideas are gaining momentum."
+            },
+            {
+                "code": "gain_example_she-has-gained-a-following-in-the-academic-community",
+                "text": "She has gained a following in the academic community."
+            },
+            {
+                "code": "gain_example_he-gained-the-strength-he-needed",
+                "text": "He gained the strength he needed."
+            },
+            {
+                "code": "gain_example_he-gained-the-freedom-to-choose-his-projects",
+                "text": "He gained the freedom to choose his projects."
+            },
+            {
+                "code": "gain_example_he-finally-gained-entrance-into-the-room",
+                "text": "He finally gained entrance into the room."
+            },
+            {
+                "code": "gain_example_she-gained-membership-in-the-organization",
+                "text": "She gained membership in the organization."
+            }
+        ]
+    }
+]

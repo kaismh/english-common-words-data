@@ -1,0 +1,40 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to talk about",
+        "examples": [
+            {
+                "code": "discuss_example_our-boss-will-fully-discuss-the-issue-at-the-meeting",
+                "text": "Our boss will fully discuss the issue at the meeting."
+            },
+            {
+                "code": "discuss_example_we-were-able-to-discuss-our-problems-freely",
+                "text": "We were able to discuss our problems freely."
+            },
+            {
+                "code": "discuss_example_students-are-asked-to-critically-discuss-world-issues-in-class",
+                "text": "Students are asked to critically discuss world issues in class."
+            },
+            {
+                "code": "discuss_example_the-leaders-will-meet-to-discuss-the-peace-agreement",
+                "text": "The leaders will meet to discuss the peace agreement."
+            },
+            {
+                "code": "discuss_example_she-wants-to-discuss-her-performance",
+                "text": "She wants to discuss her performance."
+            },
+            {
+                "code": "discuss_example_i-need-to-discuss-this-matter-with-my-husband",
+                "text": "I need to discuss this matter with my husband."
+            },
+            {
+                "code": "discuss_example_let-s-meet-to-discuss-business",
+                "text": "Let's meet to discuss business."
+            },
+            {
+                "code": "discuss_example_we-need-to-discuss-the-details",
+                "text": "We need to discuss the details."
+            }
+        ]
+    }
+]

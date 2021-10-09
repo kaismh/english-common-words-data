@@ -1,0 +1,24 @@
+[
+    {
+        "type": "(n)",
+        "mean": "scientific knowledge used for practical purposes",
+        "examples": [
+            {
+                "code": "technology_example_there-is-advanced-technology-invented-daily",
+                "text": "There is advanced technology invented daily."
+            },
+            {
+                "code": "technology_example_current-technology-will-be-old-news-tomorrow",
+                "text": "Current technology will be old news tomorrow."
+            },
+            {
+                "code": "technology_example_we-develop-new-technology-on-a-daily-basis",
+                "text": "We develop new technology on a daily basis."
+            },
+            {
+                "code": "technology_example_we-use-technology-in-our-schools",
+                "text": "We use technology in our schools."
+            }
+        ]
+    }
+]

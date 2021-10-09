@@ -1,0 +1,76 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a class or a group of classes with the same teacher; a direction or route; something happening over time; one part of a meal; an area used for a sport",
+        "examples": [
+            {
+                "code": "course_example_this-computer-course-is-useful",
+                "text": "This computer course is useful."
+            },
+            {
+                "code": "course_example_i-m-taking-an-advanced-course",
+                "text": "I'm taking an advanced course."
+            },
+            {
+                "code": "course_example_we-took-the-normal-course-back-home",
+                "text": "We took the normal course back home."
+            },
+            {
+                "code": "course_example_the-main-course-is-chicken",
+                "text": "The main course is chicken."
+            },
+            {
+                "code": "course_example_the-golf-course-is-huge",
+                "text": "The golf course is huge."
+            },
+            {
+                "code": "course_example_i-want-to-take-that-course",
+                "text": "I want to take that course."
+            },
+            {
+                "code": "course_example_the-professor-will-teach-two-courses",
+                "text": "The professor will teach two courses."
+            },
+            {
+                "code": "course_example_the-university-is-offering-a-course-in-bioengineering",
+                "text": "The university is offering a course in bioengineering."
+            },
+            {
+                "code": "course_example_he-did-not-complete-the-course",
+                "text": "He did not complete the course."
+            },
+            {
+                "code": "course_example_the-course-covers-the-basics",
+                "text": "The course covers the basics."
+            },
+            {
+                "code": "course_example_the-captain-followed-the-course",
+                "text": "The captain followed the course."
+            },
+            {
+                "code": "course_example_she-ate-the-last-course",
+                "text": "She ate the last course."
+            },
+            {
+                "code": "course_example_they-are-designing-a-new-golf-course",
+                "text": "They are designing a new golf course."
+            },
+            {
+                "code": "course_example_she-s-taking-a-course-in-organic-chemistry",
+                "text": "She's taking a course in organic chemistry."
+            },
+            {
+                "code": "course_example_he-is-taking-a-course-on-global-warming",
+                "text": "He is taking a course on global warming."
+            },
+            {
+                "code": "course_example_she-was-sick-during-the-course-of-her-life",
+                "text": "She was sick during the course of her life."
+            },
+            {
+                "code": "course_example_we-had-lobster-for-the-main-course",
+                "text": "We had lobster for the main course."
+            }
+        ]
+    }
+]

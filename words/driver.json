@@ -1,0 +1,40 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a person who operates a vehicle",
+        "examples": [
+            {
+                "code": "driver_example_his-father-is-a-careful-driver",
+                "text": "His father is a careful driver."
+            },
+            {
+                "code": "driver_example_their-sister-is-a-bad-driver",
+                "text": "Their sister is a bad driver."
+            },
+            {
+                "code": "driver_example_he-was-killed-by-a-drunk-driver",
+                "text": "He was killed by a drunk driver."
+            },
+            {
+                "code": "driver_example_he-teaches-student-drivers",
+                "text": "He teaches student drivers."
+            },
+            {
+                "code": "driver_example_i-was-the-designated-driver",
+                "text": "I was the designated driver."
+            },
+            {
+                "code": "driver_example_my-friend-works-as-an-ambulance-driver",
+                "text": "My friend works as an ambulance driver."
+            },
+            {
+                "code": "driver_example_he-is-a-famous-racecar-driver",
+                "text": "He is a famous racecar driver."
+            },
+            {
+                "code": "driver_example_nobody-likes-a-backseat-driver",
+                "text": "Nobody likes a backseat driver."
+            }
+        ]
+    }
+]

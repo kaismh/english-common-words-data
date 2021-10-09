@@ -1,0 +1,36 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "not open",
+        "examples": [
+            {
+                "code": "closed_example_the-store-is-closed",
+                "text": "The store is closed."
+            },
+            {
+                "code": "closed_example_how-long-will-the-office-remain-closed",
+                "text": "How long will the office remain closed?"
+            },
+            {
+                "code": "closed_example_please-keep-the-window-closed",
+                "text": "Please keep the window closed."
+            },
+            {
+                "code": "closed_example_her-eyes-were-half-closed",
+                "text": "Her eyes were half closed."
+            },
+            {
+                "code": "closed_example_the-restaurant-is-permanently-closed",
+                "text": "The restaurant is permanently closed."
+            },
+            {
+                "code": "closed_example_we-will-be-closed-for-the-holidays",
+                "text": "We will be closed for the holidays."
+            },
+            {
+                "code": "closed_example_the-country-club-is-closed-to-the-public",
+                "text": "The country club is closed to the public."
+            }
+        ]
+    }
+]

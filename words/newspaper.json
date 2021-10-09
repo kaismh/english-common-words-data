@@ -1,0 +1,52 @@
+[
+    {
+        "type": "(n)",
+        "mean": "papers printed daily or weekly containing news, articles, and advertisements",
+        "examples": [
+            {
+                "code": "newspaper_example_he-read-the-newspaper",
+                "text": "He read the newspaper."
+            },
+            {
+                "code": "newspaper_example_the-newspaper-reported-her-story",
+                "text": "The newspaper reported her story."
+            },
+            {
+                "code": "newspaper_example_he-writes-for-the-newspaper",
+                "text": "He writes for the newspaper."
+            },
+            {
+                "code": "newspaper_example_he-s-a-newspaper-editor",
+                "text": "He's a newspaper editor."
+            },
+            {
+                "code": "newspaper_example_i-have-the-latest-edition-of-the-newspaper",
+                "text": "I have the latest edition of the newspaper."
+            },
+            {
+                "code": "newspaper_example_i-read-the-newspaper-column",
+                "text": "I read the newspaper column."
+            },
+            {
+                "code": "newspaper_example_he-has-a-newspaper-stand",
+                "text": "He has a newspaper stand."
+            },
+            {
+                "code": "newspaper_example_do-you-get-the-weekly-newspaper",
+                "text": "Do you get the weekly newspaper?"
+            },
+            {
+                "code": "newspaper_example_did-you-see-yesterday-s-newspaper",
+                "text": "Did you see yesterday's newspaper?"
+            },
+            {
+                "code": "newspaper_example_i-read-the-evening-newspaper",
+                "text": "I read the evening newspaper."
+            },
+            {
+                "code": "newspaper_example_i-read-about-it-in-the-newspaper",
+                "text": "I read about it in the newspaper."
+            }
+        ]
+    }
+]

@@ -1,0 +1,66 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to say or do again",
+        "examples": [
+            {
+                "code": "repeat_example_history-repeats-itself",
+                "text": "History repeats itself."
+            },
+            {
+                "code": "repeat_example_he-repeated-each-exercise-five-times",
+                "text": "He repeated each exercise five times."
+            },
+            {
+                "code": "repeat_example_she-keeps-repeating-the-same-mistake",
+                "text": "She keeps repeating the same mistake."
+            },
+            {
+                "code": "repeat_example_i-repeated-my-request-to-the-waiter",
+                "text": "I repeated my request to the waiter."
+            },
+            {
+                "code": "repeat_example_we-repeated-the-cycle",
+                "text": "We repeated the cycle."
+            },
+            {
+                "code": "repeat_example_i-repeated-the-poem-quietly",
+                "text": "I repeated the poem quietly."
+            },
+            {
+                "code": "repeat_example_she-repeated-the-song-again",
+                "text": "She repeated the song again."
+            },
+            {
+                "code": "repeat_example_he-constantly-repeats-himself",
+                "text": "He constantly repeats himself."
+            },
+            {
+                "code": "repeat_example_i-just-repeated-the-question-for-the-fifth-time",
+                "text": "I just repeated the question for the fifth time."
+            },
+            {
+                "code": "repeat_example_just-repeat-the-words-after-me",
+                "text": "Just repeat the words after me."
+            },
+            {
+                "code": "repeat_example_i-repeated-the-words-to-myself",
+                "text": "I repeated the words to myself."
+            }
+        ]
+    },
+    {
+        "type": "(n)",
+        "mean": "something that has happened before",
+        "examples": [
+            {
+                "code": "repeat_example_he-s-a-repeat-offender",
+                "text": "He's a repeat offender."
+            },
+            {
+                "code": "repeat_example_this-is-a-repeat-performance",
+                "text": "This is a repeat performance."
+            }
+        ]
+    }
+]

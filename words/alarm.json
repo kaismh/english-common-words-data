@@ -1,0 +1,44 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a loud noise or signal to warn people of danger; fear; a device to wake people from their sleep",
+        "examples": [
+            {
+                "code": "alarm_example_the-siren-caused-considerable-alarm",
+                "text": "The siren caused considerable alarm."
+            },
+            {
+                "code": "alarm_example_the-bomb-threat-was-a-false-alarm",
+                "text": "The bomb threat was a false alarm."
+            },
+            {
+                "code": "alarm_example_the-smoke-alarm-woke-everybody-in-the-building",
+                "text": "The smoke alarm woke everybody in the building."
+            },
+            {
+                "code": "alarm_example_the-escaped-prisoners-caused-alarm-in-the-city",
+                "text": "The escaped prisoners caused alarm in the city."
+            },
+            {
+                "code": "alarm_example_the-parents-expressed-alarm-over-school-safety",
+                "text": "The parents expressed alarm over school safety."
+            },
+            {
+                "code": "alarm_example_the-firefighters-sounded-the-alarm",
+                "text": "The firefighters sounded the alarm."
+            },
+            {
+                "code": "alarm_example_before-going-to-bed-you-should-set-the-alarm",
+                "text": "Before going to bed, you should set the alarm."
+            },
+            {
+                "code": "alarm_example_the-alarm-went-off-early-this-morning",
+                "text": "The alarm went off early this morning."
+            },
+            {
+                "code": "alarm_example_the-alarm-clock-scared-me",
+                "text": "The alarm clock scared me."
+            }
+        ]
+    }
+]

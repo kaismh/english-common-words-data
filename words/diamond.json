@@ -1,0 +1,44 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a very hard, precious stone",
+        "examples": [
+            {
+                "code": "diamond_example_the-ring-has-a-flawless-diamond",
+                "text": "The ring has a flawless diamond."
+            },
+            {
+                "code": "diamond_example_she-wears-real-diamonds",
+                "text": "She wears real diamonds."
+            },
+            {
+                "code": "diamond_example_the-jeweler-cut-the-diamond",
+                "text": "The jeweler cut the diamond."
+            },
+            {
+                "code": "diamond_example_the-diamond-sparkled-in-the-light",
+                "text": "The diamond sparkled in the light."
+            },
+            {
+                "code": "diamond_example_she-wears-fake-diamonds",
+                "text": "She wears fake diamonds."
+            },
+            {
+                "code": "diamond_example_he-is-in-the-diamond-industry",
+                "text": "He is in the diamond industry."
+            },
+            {
+                "code": "diamond_example_she-is-a-diamond-dealer",
+                "text": "She is a diamond dealer."
+            },
+            {
+                "code": "diamond_example_they-found-a-diamond-mine",
+                "text": "They found a diamond mine."
+            },
+            {
+                "code": "diamond_example_she-has-many-diamond-earrings",
+                "text": "She has many diamond earrings."
+            }
+        ]
+    }
+]

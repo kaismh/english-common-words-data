@@ -1,0 +1,178 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the knowledge or skill gained through doing things; things that have happened to someone; an event or activity",
+        "examples": [
+            {
+                "code": "experience_example_they-were-impressed-by-his-considerable-experience-in-the-field",
+                "text": "They were impressed by his considerable experience in the field."
+            },
+            {
+                "code": "experience_example_he-has-little-experience-using-this-program",
+                "text": "He has little experience using this program."
+            },
+            {
+                "code": "experience_example_she-gained-good-experience-through-an-internship",
+                "text": "She gained good experience through an internship."
+            },
+            {
+                "code": "experience_example_his-work-experience-is-limited",
+                "text": "His work experience is limited."
+            },
+            {
+                "code": "experience_example_many-students-had-prior-experience-using-the-software",
+                "text": "Many students had prior experience using the software."
+            },
+            {
+                "code": "experience_example_we-learned-about-the-historical-experiences-of-early-settlers",
+                "text": "We learned about the historical experiences of early settlers."
+            },
+            {
+                "code": "experience_example_she-used-her-personal-experiences-as-inspiration-for-her-writing",
+                "text": "She used her personal experiences as inspiration for her writing."
+            },
+            {
+                "code": "experience_example_they-bonded-over-their-shared-experiences-as-refugees",
+                "text": "They bonded over their shared experiences as refugees."
+            },
+            {
+                "code": "experience_example_i-had-my-students-write-about-their-daily-experiences",
+                "text": "I had my students write about their daily experiences."
+            },
+            {
+                "code": "experience_example_the-class-trip-was-an-enjoyable-experience",
+                "text": "The class trip was an enjoyable experience."
+            },
+            {
+                "code": "experience_example_volunteer-work-is-a-rewarding-experience",
+                "text": "Volunteer work is a rewarding experience."
+            },
+            {
+                "code": "experience_example_getting-hit-by-a-car-was-a-traumatic-experience",
+                "text": "Getting hit by a car was a traumatic experience."
+            },
+            {
+                "code": "experience_example_they-found-the-whole-experience-useless",
+                "text": "They found the whole experience useless."
+            },
+            {
+                "code": "experience_example_we-hope-the-trip-will-be-a-good-learning-experience",
+                "text": "We hope the trip will be a good learning experience."
+            },
+            {
+                "code": "experience_example_she-told-the-story-of-her-near-death-experience",
+                "text": "She told the story of her near-death experience."
+            },
+            {
+                "code": "experience_example_he-talked-about-his-trip-being-a-spiritual-experience",
+                "text": "He talked about his trip being a spiritual experience."
+            },
+            {
+                "code": "experience_example_the-students-have-experience-with-this-topic",
+                "text": "The students have experience with this topic."
+            },
+            {
+                "code": "experience_example_she-gained-experience-through-volunteer-work",
+                "text": "She gained experience through volunteer work."
+            },
+            {
+                "code": "experience_example_the-science-class-offered-hands-on-experience",
+                "text": "The science class offered hands-on experience."
+            },
+            {
+                "code": "experience_example_the-older-students-bring-experience-to-the-project",
+                "text": "The older students bring experience to the project."
+            },
+            {
+                "code": "experience_example_he-wants-to-broaden-his-clinical-experience",
+                "text": "He wants to broaden his clinical experience."
+            },
+            {
+                "code": "experience_example_she-is-using-her-prior-experience-to-help-with-this-project",
+                "text": "She is using her prior experience to help with this project."
+            },
+            {
+                "code": "experience_example_two-students-shared-similar-experiences-growing-up",
+                "text": "Two students shared similar experiences growing up."
+            },
+            {
+                "code": "experience_example_he-explained-the-benefits-of-learning-from-experience",
+                "text": "He explained the benefits of learning from experience."
+            },
+            {
+                "code": "experience_example_his-new-novel-is-based-on-childhood-experiences",
+                "text": "His new novel is based on childhood experiences."
+            },
+            {
+                "code": "experience_example_previous-experience-shows-that-participation-is-very-important-in-this-class",
+                "text": "Previous experience shows that participation is very important in this class."
+            },
+            {
+                "code": "experience_example_she-really-enjoyed-the-experience-of-performing-live",
+                "text": "She really enjoyed the experience of performing live."
+            },
+            {
+                "code": "experience_example_he-went-through-a-traumatic-experience-last-year",
+                "text": "He went through a traumatic experience last year."
+            },
+            {
+                "code": "experience_example_they-think-it-will-be-hard-to-get-over-this-experience",
+                "text": "They think it will be hard to get over this experience."
+            },
+            {
+                "code": "experience_example_he-described-the-experiences-of-living-in-africa",
+                "text": "He described the experiences of living in Africa."
+            },
+            {
+                "code": "experience_example_we-want-to-create-an-unforgettable-experience",
+                "text": "We want to create an unforgettable experience."
+            },
+            {
+                "code": "experience_example_they-are-trying-to-enhance-student-experiences",
+                "text": "They are trying to enhance student experiences."
+            },
+            {
+                "code": "experience_example_he-knew-from-experience-to-not-be-late-for-a-test",
+                "text": "He knew from experience to not be late for a test."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to do or see something; to have something happen to you",
+        "examples": [
+            {
+                "code": "experience_example_she-had-never-actually-experienced-failure",
+                "text": "She had never actually experienced failure."
+            },
+            {
+                "code": "experience_example_they-fully-experienced-a-disaster-during-survival-training",
+                "text": "They fully experienced a disaster during survival training."
+            },
+            {
+                "code": "experience_example_she-experiences-a-lot-of-stress-before-a-test",
+                "text": "She experiences a lot of stress before a test."
+            },
+            {
+                "code": "experience_example_he-experienced-many-disasters-as-a-child",
+                "text": "He experienced many disasters as a child."
+            },
+            {
+                "code": "experience_example_they-experienced-a-lot-of-poverty-in-their-home-country",
+                "text": "They experienced a lot of poverty in their home country."
+            },
+            {
+                "code": "experience_example_he-is-experiencing-some-fatigue-right-now",
+                "text": "He is experiencing some fatigue right now."
+            },
+            {
+                "code": "experience_example_they-are-experiencing-frustration-over-the-situation",
+                "text": "They are experiencing frustration over the situation."
+            },
+            {
+                "code": "experience_example_he-has-experienced-disappointment-many-times-in-his-life",
+                "text": "He has experienced disappointment many times in his life."
+            }
+        ]
+    }
+]

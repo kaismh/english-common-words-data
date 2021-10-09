@@ -1,0 +1,68 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a spot where two sides meet; a place where two roads meet; a location",
+        "examples": [
+            {
+                "code": "corner_example_the-crack-is-on-the-bottom-corner-of-the-door",
+                "text": "The crack is on the bottom corner of the door."
+            },
+            {
+                "code": "corner_example_the-boys-waited-on-the-street-corner",
+                "text": "The boys waited on the street corner."
+            },
+            {
+                "code": "corner_example_be-careful-driving-around-the-blind-corner",
+                "text": "Be careful driving around the blind corner."
+            },
+            {
+                "code": "corner_example_the-table-has-sharp-corners",
+                "text": "The table has sharp corners."
+            },
+            {
+                "code": "corner_example_we-found-an-empty-corner-to-study-in",
+                "text": "We found an empty corner to study in."
+            },
+            {
+                "code": "corner_example_we-hid-the-present-in-a-secret-corner-of-the-basement",
+                "text": "We hid the present in a secret corner of the basement."
+            },
+            {
+                "code": "corner_example_the-car-rounded-the-corner",
+                "text": "The car rounded the corner."
+            },
+            {
+                "code": "corner_example_we-are-approaching-the-corner-of-main-and-broadway",
+                "text": "We are approaching the corner of Main and Broadway."
+            },
+            {
+                "code": "corner_example_the-boss-has-the-corner-office",
+                "text": "The boss has the corner office."
+            },
+            {
+                "code": "corner_example_i-asked-for-a-corner-booth",
+                "text": "I asked for a corner booth."
+            },
+            {
+                "code": "corner_example_let-s-meet-at-the-corner-shop",
+                "text": "Let's meet at the corner shop."
+            },
+            {
+                "code": "corner_example_the-boy-sat-in-the-corner",
+                "text": "The boy sat in the corner."
+            },
+            {
+                "code": "corner_example_make-a-turn-at-the-next-corner",
+                "text": "Make a turn at the next corner."
+            },
+            {
+                "code": "corner_example_it-s-on-the-corner-of-main-and-broadway",
+                "text": "It's on the corner of Main and Broadway."
+            },
+            {
+                "code": "corner_example_a-car-came-speeding-around-the-corner",
+                "text": "A car came speeding around the corner."
+            }
+        ]
+    }
+]

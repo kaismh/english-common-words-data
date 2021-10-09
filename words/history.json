@@ -1,0 +1,108 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the study of past events; a series of past events",
+        "examples": [
+            {
+                "code": "history_example_she-s-interested-in-the-recent-history-of-that-group",
+                "text": "She's interested in the recent history of that group."
+            },
+            {
+                "code": "history_example_he-s-an-expert-in-ancient-history",
+                "text": "He's an expert in ancient history."
+            },
+            {
+                "code": "history_example_she-wants-to-learn-more-about-local-history",
+                "text": "She wants to learn more about local history."
+            },
+            {
+                "code": "history_example_he-s-researching-his-family-history",
+                "text": "He's researching his family history."
+            },
+            {
+                "code": "history_example_this-is-one-of-the-greatest-disasters-in-human-history",
+                "text": "This is one of the greatest disasters in human history."
+            },
+            {
+                "code": "history_example_he-spoke-about-the-colorful-history-of-the-town",
+                "text": "He spoke about the colorful history of the town."
+            },
+            {
+                "code": "history_example_they-discussed-their-shared-history",
+                "text": "They discussed their shared history."
+            },
+            {
+                "code": "history_example_there-is-a-long-history-of-poverty-here",
+                "text": "There is a long history of poverty here."
+            },
+            {
+                "code": "history_example_she-wrote-down-her-employment-history",
+                "text": "She wrote down her employment history."
+            },
+            {
+                "code": "history_example_this-day-will-go-down-in-history",
+                "text": "This day will go down in history."
+            },
+            {
+                "code": "history_example_he-made-history-today",
+                "text": "He made history today."
+            },
+            {
+                "code": "history_example_the-conflict-has-now-faded-into-history",
+                "text": "The conflict has now faded into history."
+            },
+            {
+                "code": "history_example_he-traced-his-family-s-history-back-five-hundred-years",
+                "text": "He traced his family's history back five hundred years."
+            },
+            {
+                "code": "history_example_it-s-important-to-document-history",
+                "text": "It's important to document history."
+            },
+            {
+                "code": "history_example_he-recounted-the-history-of-the-building",
+                "text": "He recounted the history of the building."
+            },
+            {
+                "code": "history_example_he-was-criticized-for-trying-to-rewrite-history",
+                "text": "He was criticized for trying to rewrite history."
+            },
+            {
+                "code": "history_example_they-are-reconstructing-the-history-of-the-town",
+                "text": "They are reconstructing the history of the town."
+            },
+            {
+                "code": "history_example_the-group-s-history-goes-back-to-the-civil-war",
+                "text": "The group's history goes back to the Civil War."
+            },
+            {
+                "code": "history_example_history-reveals-that-war-solves-few-problems",
+                "text": "History reveals that war solves few problems."
+            },
+            {
+                "code": "history_example_history-often-repeats-itself",
+                "text": "History often repeats itself."
+            },
+            {
+                "code": "history_example_they-have-a-history-of-bad-behavior",
+                "text": "They have a history of bad behavior."
+            },
+            {
+                "code": "history_example_this-has-been-a-recurring-problem-during-the-school-s-history",
+                "text": "This has been a recurring problem during the school's history."
+            },
+            {
+                "code": "history_example_this-was-one-of-the-worst-natural-disasters-in-history",
+                "text": "This was one of the worst natural disasters in history."
+            },
+            {
+                "code": "history_example_we-re-reading-about-the-history-of-american-politics",
+                "text": "We're reading about the history of American politics."
+            },
+            {
+                "code": "history_example_there-is-a-history-of-serious-health-problems-in-their-family",
+                "text": "There is a history of serious health problems in their family."
+            }
+        ]
+    }
+]

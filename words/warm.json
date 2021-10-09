@@ -1,0 +1,66 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "a little hot; not cold; friendly",
+        "examples": [
+            {
+                "code": "warm_example_it-is-too-warm-in-here",
+                "text": "It is too warm in here."
+            },
+            {
+                "code": "warm_example_her-temperature-is-pretty-warm",
+                "text": "Her temperature is pretty warm."
+            },
+            {
+                "code": "warm_example_the-room-is-unusually-warm",
+                "text": "The room is unusually warm."
+            },
+            {
+                "code": "warm_example_are-you-warm-enough",
+                "text": "Are you warm enough?"
+            },
+            {
+                "code": "warm_example_she-is-a-truly-warm-person",
+                "text": "She is a truly warm person."
+            },
+            {
+                "code": "warm_example_it-feels-warm-in-the-house",
+                "text": "It feels warm in the house."
+            },
+            {
+                "code": "warm_example_how-can-we-stay-warm-in-the-winter",
+                "text": "How can we stay warm in the winter?"
+            },
+            {
+                "code": "warm_example_it-is-getting-warm-outside",
+                "text": "It is getting warm outside."
+            },
+            {
+                "code": "warm_example_she-sounds-very-warm-and-friendly",
+                "text": "She sounds very warm and friendly."
+            },
+            {
+                "code": "warm_example_the-afternoon-was-very-warm",
+                "text": "The afternoon was very warm."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to increase the temperature to almost hot",
+        "examples": [
+            {
+                "code": "warm_example_we-slowly-warmed-our-hands-by-the-campfire",
+                "text": "We slowly warmed our hands by the campfire."
+            },
+            {
+                "code": "warm_example_make-sure-you-thoroughly-warm-the-bread-before-serving-it",
+                "text": "Make sure you thoroughly warm the bread before serving it."
+            },
+            {
+                "code": "warm_example_the-heater-instantly-warmed-the-room",
+                "text": "The heater instantly warmed the room."
+            }
+        ]
+    }
+]

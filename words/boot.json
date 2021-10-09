@@ -1,0 +1,36 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a strong shoe",
+        "examples": [
+            {
+                "code": "boot_example_he-works-in-heavy-boots",
+                "text": "He works in heavy boots."
+            },
+            {
+                "code": "boot_example_she-likes-lightweight-boots",
+                "text": "She likes lightweight boots."
+            },
+            {
+                "code": "boot_example_you-should-wear-rain-boots",
+                "text": "You should wear rain boots."
+            },
+            {
+                "code": "boot_example_my-boots-are-muddy",
+                "text": "My boots are muddy."
+            },
+            {
+                "code": "boot_example_help-me-take-off-my-boots",
+                "text": "Help me take off my boots."
+            },
+            {
+                "code": "boot_example_i-need-to-polish-my-boots",
+                "text": "I need to polish my boots."
+            },
+            {
+                "code": "boot_example_she-needs-boot-polish-to-shine-her-boots",
+                "text": "She needs boot polish to shine her boots."
+            }
+        ]
+    }
+]

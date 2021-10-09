@@ -1,0 +1,36 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to think something is true without getting proof or checking it",
+        "examples": [
+            {
+                "code": "assume_example_she-automatically-assumes-that-i-will-help-her",
+                "text": "She automatically assumes that I will help her."
+            },
+            {
+                "code": "assume_example_they-widely-assumed-that-we-would-get-married",
+                "text": "They widely assumed that we would get married."
+            },
+            {
+                "code": "assume_example_we-can-safely-assume-that-it-ll-be-sunny-tomorrow",
+                "text": "We can safely assume that it'll be sunny tomorrow."
+            },
+            {
+                "code": "assume_example_she-usually-assumes-the-worst",
+                "text": "She usually assumes the worst."
+            },
+            {
+                "code": "assume_example_we-can-assume-a-lot-of-guests-will-come-to-the-party",
+                "text": "We can assume a lot of guests will come to the party."
+            },
+            {
+                "code": "assume_example_people-tend-to-assume-too-much",
+                "text": "People tend to assume too much."
+            },
+            {
+                "code": "assume_example_it-would-be-a-mistake-to-assume-that",
+                "text": "It would be a mistake to assume that."
+            }
+        ]
+    }
+]

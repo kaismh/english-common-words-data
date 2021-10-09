@@ -1,0 +1,48 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to drink quickly",
+        "examples": [
+            {
+                "code": "down_example_he-downed-his-beer",
+                "text": "He downed his beer."
+            }
+        ]
+    },
+    {
+        "type": "(adj)",
+        "mean": "in a low position or place; sad",
+        "examples": [
+            {
+                "code": "down_example_she-feels-down-about-her-breakup",
+                "text": "She feels down about her breakup."
+            },
+            {
+                "code": "down_example_hit-the-down-arrow",
+                "text": "Hit the down arrow."
+            },
+            {
+                "code": "down_example_take-the-down-elevator",
+                "text": "Take the down elevator."
+            }
+        ]
+    },
+    {
+        "type": "(adv)",
+        "mean": "towards a lower position or place",
+        "examples": [
+            {
+                "code": "down_example_he-fell-down",
+                "text": "He fell down."
+            },
+            {
+                "code": "down_example_please-come-down",
+                "text": "Please come down."
+            },
+            {
+                "code": "down_example_don-t-look-down",
+                "text": "Don't look down."
+            }
+        ]
+    }
+]

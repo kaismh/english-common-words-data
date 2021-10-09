@@ -1,0 +1,118 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a short letter; something written down to help you remember something; musical sound; a feeling",
+        "examples": [
+            {
+                "code": "note_example_i-scribbled-a-note-to-him",
+                "text": "I scribbled a note to him."
+            },
+            {
+                "code": "note_example_she-left-me-a-note",
+                "text": "She left me a note."
+            },
+            {
+                "code": "note_example_i-detected-a-note-of-sadness-in-her-voice",
+                "text": "I detected a note of sadness in her voice."
+            },
+            {
+                "code": "note_example_we-ended-our-relationship-on-a-bad-note",
+                "text": "We ended our relationship on a bad note."
+            },
+            {
+                "code": "note_example_she-took-many-notes-during-the-lecture",
+                "text": "She took many notes during the lecture."
+            },
+            {
+                "code": "note_example_i-made-a-note-of-what-you-said",
+                "text": "I made a note of what you said."
+            },
+            {
+                "code": "note_example_let-s-compare-our-notes-after-class",
+                "text": "Let's compare our notes after class."
+            },
+            {
+                "code": "note_example_she-hit-the-high-note",
+                "text": "She hit the high note."
+            },
+            {
+                "code": "note_example_i-wrote-him-a-quick-note",
+                "text": "I wrote him a quick note."
+            },
+            {
+                "code": "note_example_i-found-his-suicide-note",
+                "text": "I found his suicide note."
+            },
+            {
+                "code": "note_example_the-show-ended-on-a-sad-note",
+                "text": "The show ended on a sad note."
+            },
+            {
+                "code": "note_example_can-i-borrow-your-lecture-notes",
+                "text": "Can I borrow your lecture notes?"
+            },
+            {
+                "code": "note_example_she-wrote-detailed-notes",
+                "text": "She wrote detailed notes."
+            },
+            {
+                "code": "note_example_we-played-the-musical-notes-together",
+                "text": "We played the musical notes together."
+            },
+            {
+                "code": "note_example_he-hit-the-top-note-on-the-flute",
+                "text": "He hit the top note on the flute."
+            },
+            {
+                "code": "note_example_on-a-lighter-note-let-s-go-home",
+                "text": "On a lighter note, let's go home."
+            },
+            {
+                "code": "note_example_on-a-more-serious-note-how-is-she",
+                "text": "On a more serious note, how is she?"
+            },
+            {
+                "code": "note_example_we-found-several-handwritten-notes-in-the-attic",
+                "text": "We found several handwritten notes in the attic."
+            },
+            {
+                "code": "note_example_we-ended-on-a-good-note",
+                "text": "We ended on a good note."
+            },
+            {
+                "code": "note_example_i-took-notes-on-her-speech",
+                "text": "I took notes on her speech."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to notice; to pay attention; to write something down",
+        "examples": [
+            {
+                "code": "note_example_i-must-note-that-the-rule-has-not-been-enforced",
+                "text": "I must note that the rule has not been enforced."
+            },
+            {
+                "code": "note_example_the-author-noted-that-it-was-unproven",
+                "text": "The author noted that it was unproven."
+            },
+            {
+                "code": "note_example_i-noted-a-change-in-his-appearance",
+                "text": "I noted a change in his appearance."
+            },
+            {
+                "code": "note_example_we-noted-a-discrepancy-in-their-reports",
+                "text": "We noted a discrepancy in their reports."
+            },
+            {
+                "code": "note_example_i-already-noted-that-she-was-late",
+                "text": "I already noted that she was late."
+            },
+            {
+                "code": "note_example_her-words-have-been-carefully-noted",
+                "text": "Her words have been carefully noted."
+            }
+        ]
+    }
+]

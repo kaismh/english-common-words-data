@@ -1,0 +1,68 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to put letters, words, or numbers on paper or another surface using a pen or pencil",
+        "examples": [
+            {
+                "code": "write_example_write-your-name-neatly-at-the-top-of-the-paper",
+                "text": "Write your name neatly at the top of the paper."
+            },
+            {
+                "code": "write_example_please-write-down-your-name-and-phone-number",
+                "text": "Please write down your name and phone number."
+            },
+            {
+                "code": "write_example_she-writes-her-name-beautifully",
+                "text": "She writes her name beautifully."
+            },
+            {
+                "code": "write_example_he-frequently-writes-for-the-local-newspaper",
+                "text": "He frequently writes for the local newspaper."
+            },
+            {
+                "code": "write_example_she-writes-for-an-advice-column-anonymously",
+                "text": "She writes for an advice column anonymously."
+            },
+            {
+                "code": "write_example_he-is-writing-a-book-specifically-for-children",
+                "text": "He is writing a book specifically for children."
+            },
+            {
+                "code": "write_example_he-writes-poorly",
+                "text": "He writes poorly."
+            },
+            {
+                "code": "write_example_please-write-back-soon",
+                "text": "Please write back soon."
+            },
+            {
+                "code": "write_example_i-learned-to-write-at-an-early-age",
+                "text": "I learned to write at an early age."
+            },
+            {
+                "code": "write_example_she-writes-with-her-left-hand",
+                "text": "She writes with her left hand."
+            },
+            {
+                "code": "write_example_she-wrote-her-shopping-list-on-a-napkin",
+                "text": "She wrote her shopping list on a napkin."
+            },
+            {
+                "code": "write_example_he-wrote-his-name-in-big-red-letters",
+                "text": "He wrote his name in big red letters."
+            },
+            {
+                "code": "write_example_he-writes-stories-about-his-adventures",
+                "text": "He writes stories about his adventures."
+            },
+            {
+                "code": "write_example_she-writes-for-the-local-newspaper",
+                "text": "She writes for the local newspaper."
+            },
+            {
+                "code": "write_example_she-writes-to-her-sister-once-a-week",
+                "text": "She writes to her sister once a week."
+            }
+        ]
+    }
+]

@@ -1,0 +1,170 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to come back; to give back",
+        "examples": [
+            {
+                "code": "return_example_i-forgot-to-return-my-library-books",
+                "text": "I forgot to return my library books."
+            },
+            {
+                "code": "return_example_i-promise-to-return-one-day",
+                "text": "I promise to return one day."
+            },
+            {
+                "code": "return_example_don-t-forget-to-return-the-library-books",
+                "text": "Don't forget to return the library books."
+            },
+            {
+                "code": "return_example_she-failed-to-return-the-money",
+                "text": "She failed to return the money."
+            },
+            {
+                "code": "return_example_he-is-preparing-to-return-to-college",
+                "text": "He is preparing to return to college."
+            },
+            {
+                "code": "return_example_she-returned-home-early",
+                "text": "She returned home early."
+            },
+            {
+                "code": "return_example_my-appetite-is-finally-returning",
+                "text": "My appetite is finally returning."
+            },
+            {
+                "code": "return_example_i-returned-the-book",
+                "text": "I returned the book."
+            },
+            {
+                "code": "return_example_he-returned-the-ball-to-the-pitcher",
+                "text": "He returned the ball to the pitcher."
+            },
+            {
+                "code": "return_example_the-boat-is-returning-soon",
+                "text": "The boat is returning soon."
+            },
+            {
+                "code": "return_example_i-returned-his-call",
+                "text": "I returned his call."
+            },
+            {
+                "code": "return_example_i-will-return-shortly",
+                "text": "I will return shortly."
+            },
+            {
+                "code": "return_example_he-recently-returned-from-a-long-trip",
+                "text": "He recently returned from a long trip."
+            },
+            {
+                "code": "return_example_he-promptly-returned-my-wallet",
+                "text": "He promptly returned my wallet."
+            },
+            {
+                "code": "return_example_my-pain-slowly-returned",
+                "text": "My pain slowly returned."
+            },
+            {
+                "code": "return_example_he-reluctantly-returned-to-school",
+                "text": "He reluctantly returned to school."
+            },
+            {
+                "code": "return_example_he-unexpectedly-returned-home",
+                "text": "He unexpectedly returned home."
+            },
+            {
+                "code": "return_example_i-returned-from-work-late",
+                "text": "I returned from work late."
+            },
+            {
+                "code": "return_example_i-need-to-return-the-books-to-the-library",
+                "text": "I need to return the books to the library."
+            }
+        ]
+    },
+    {
+        "type": "(n)",
+        "mean": "the act of coming or giving back; the amount of profit",
+        "examples": [
+            {
+                "code": "return_example_they-welcomed-our-return",
+                "text": "They welcomed our return."
+            },
+            {
+                "code": "return_example_he-made-a-return-to-baseball-after-retirement",
+                "text": "He made a return to baseball after retirement."
+            },
+            {
+                "code": "return_example_i-requested-the-return-of-my-items",
+                "text": "I requested the return of my items."
+            },
+            {
+                "code": "return_example_i-got-a-return-on-my-investment",
+                "text": "I got a return on my investment."
+            },
+            {
+                "code": "return_example_how-can-i-guarantee-a-return-on-my-investment",
+                "text": "How can I guarantee a return on my investment?"
+            },
+            {
+                "code": "return_example_i-expect-a-return-on-my-investment",
+                "text": "I expect a return on my investment."
+            },
+            {
+                "code": "return_example_stock-prices-can-deliver-a-giant-return",
+                "text": "Stock prices can deliver a giant return."
+            },
+            {
+                "code": "return_example_he-bought-a-return-ticket",
+                "text": "He bought a return ticket."
+            },
+            {
+                "code": "return_example_when-is-your-return-date",
+                "text": "When is your return date?"
+            },
+            {
+                "code": "return_example_please-include-a-return-envelope",
+                "text": "Please include a return envelope."
+            },
+            {
+                "code": "return_example_i-ve-been-waiting-for-a-return-call",
+                "text": "I've been waiting for a return call."
+            },
+            {
+                "code": "return_example_he-made-a-full-return-to-health",
+                "text": "He made a full return to health."
+            },
+            {
+                "code": "return_example_they-are-hoping-for-his-early-return",
+                "text": "They are hoping for his early return."
+            },
+            {
+                "code": "return_example_he-made-a-successful-return-to-soccer-after-many-years",
+                "text": "He made a successful return to soccer after many years."
+            },
+            {
+                "code": "return_example_we-re-worried-about-diminishing-returns",
+                "text": "We're worried about diminishing returns."
+            },
+            {
+                "code": "return_example_we-achieved-healthy-returns-on-our-investments",
+                "text": "We achieved healthy returns on our investments."
+            },
+            {
+                "code": "return_example_what-kind-of-overall-returns-can-we-expect-from-our-investments",
+                "text": "What kind of overall returns can we expect from our investments?"
+            },
+            {
+                "code": "return_example_we-saw-them-on-the-day-of-their-return-from-europe",
+                "text": "We saw them on the day of their return from Europe."
+            },
+            {
+                "code": "return_example_she-never-asks-for-anything-in-return",
+                "text": "She never asks for anything in return."
+            },
+            {
+                "code": "return_example_she-expected-a-good-return-on-her-investment",
+                "text": "She expected a good return on her investment."
+            }
+        ]
+    }
+]

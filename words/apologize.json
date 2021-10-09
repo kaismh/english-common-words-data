@@ -1,0 +1,36 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to say you are sorry for doing something wrong",
+        "examples": [
+            {
+                "code": "apologize_example_she-sincerely-apologized-for-hurting-him",
+                "text": "She sincerely apologized for hurting him."
+            },
+            {
+                "code": "apologize_example_the-politician-formerly-apologized-for-his-behavior",
+                "text": "The politician formerly apologized for his behavior."
+            },
+            {
+                "code": "apologize_example_after-her-mistake-she-quickly-apologized",
+                "text": "After her mistake, she quickly apologized."
+            },
+            {
+                "code": "apologize_example_i-think-you-should-apologize",
+                "text": "I think you should apologize."
+            },
+            {
+                "code": "apologize_example_i-would-like-to-apologize-for-my-behavior",
+                "text": "I would like to apologize for my behavior."
+            },
+            {
+                "code": "apologize_example_i-will-apologize-to-her",
+                "text": "I will apologize to her."
+            },
+            {
+                "code": "apologize_example_you-should-apologize-for-what-you-did",
+                "text": "You should apologize for what you did."
+            }
+        ]
+    }
+]

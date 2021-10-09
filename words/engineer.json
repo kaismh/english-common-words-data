@@ -1,0 +1,50 @@
+[
+    {
+        "type": "(n)",
+        "mean": "someone who designs, builds, or repairs machines or structures",
+        "examples": [
+            {
+                "code": "engineer_example_he-works-as-an-electrical-engineer",
+                "text": "He works as an electrical engineer."
+            },
+            {
+                "code": "engineer_example_she-works-as-a-mechanical-engineer",
+                "text": "She works as a mechanical engineer."
+            },
+            {
+                "code": "engineer_example_my-son-wants-to-be-a-computer-engineer",
+                "text": "My son wants to be a computer engineer."
+            },
+            {
+                "code": "engineer_example_we-need-a-skilled-engineer-for-this-project",
+                "text": "We need a skilled engineer for this project."
+            },
+            {
+                "code": "engineer_example_many-engineers-designed-the-new-airplane",
+                "text": "Many engineers designed the new airplane."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to plan or arrange for something to happen; to design and build something",
+        "examples": [
+            {
+                "code": "engineer_example_she-carefully-engineered-a-meeting-between-the-two-former-friends",
+                "text": "She carefully engineered a meeting between the two former friends."
+            },
+            {
+                "code": "engineer_example_the-new-products-have-been-precisely-engineered-for-performance",
+                "text": "The new products have been precisely engineered for performance."
+            },
+            {
+                "code": "engineer_example_this-tool-is-specially-engineered-for-building-airplanes",
+                "text": "This tool is specially engineered for building airplanes."
+            },
+            {
+                "code": "engineer_example_the-company-wants-to-genetically-engineer-new-crops",
+                "text": "The company wants to genetically engineer new crops."
+            }
+        ]
+    }
+]

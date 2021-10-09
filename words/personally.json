@@ -1,0 +1,40 @@
+[
+    {
+        "type": "(adv)",
+        "mean": "by a particular person and no one else; directly without help",
+        "examples": [
+            {
+                "code": "personally_example_he-personally-recommended-this-restaurant",
+                "text": "He personally recommended this restaurant."
+            },
+            {
+                "code": "personally_example_i-personally-oversee-the-work-at-this-factory",
+                "text": "I personally oversee the work at this factory."
+            },
+            {
+                "code": "personally_example_the-president-personally-thanked-him-for-his-service",
+                "text": "The president personally thanked him for his service."
+            },
+            {
+                "code": "personally_example_i-will-personally-guarantee-your-safety",
+                "text": "I will personally guarantee your safety."
+            },
+            {
+                "code": "personally_example_you-can-contact-me-personally-at-this-email-address",
+                "text": "You can contact me personally at this email address."
+            },
+            {
+                "code": "personally_example_she-has-personally-experienced-poverty",
+                "text": "She has personally experienced poverty."
+            },
+            {
+                "code": "personally_example_that-man-is-personally-responsible-for-what-happened",
+                "text": "That man is personally responsible for what happened."
+            },
+            {
+                "code": "personally_example_i-am-personally-opposed-to-the-new-plan",
+                "text": "I am personally opposed to the new plan."
+            }
+        ]
+    }
+]

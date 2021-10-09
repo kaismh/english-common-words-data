@@ -1,0 +1,28 @@
+[
+    {
+        "type": "(n)",
+        "mean": "two people or things; two people in a romantic relationship",
+        "examples": [
+            {
+                "code": "couple_example_they-make-an-adorable-couple",
+                "text": "They make an adorable couple."
+            },
+            {
+                "code": "couple_example_the-happy-couple-walked-down-the-beach",
+                "text": "The happy couple walked down the beach."
+            },
+            {
+                "code": "couple_example_the-elderly-couple-celebrated-their-anniversary",
+                "text": "The elderly couple celebrated their anniversary."
+            },
+            {
+                "code": "couple_example_the-engaged-couple-checked-in-to-the-hotel",
+                "text": "The engaged couple checked in to the hotel."
+            },
+            {
+                "code": "couple_example_they-make-a-great-couple",
+                "text": "They make a great couple."
+            }
+        ]
+    }
+]

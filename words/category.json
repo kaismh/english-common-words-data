@@ -1,0 +1,60 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a type or group of people or things with common features",
+        "examples": [
+            {
+                "code": "category_example_business-is-a-broad-category-of-occupation",
+                "text": "Business is a broad category of occupation."
+            },
+            {
+                "code": "category_example_books-are-divided-in-the-library-into-narrow-categories",
+                "text": "Books are divided in the library into narrow categories."
+            },
+            {
+                "code": "category_example_everyone-was-put-into-one-category",
+                "text": "Everyone was put into one category."
+            },
+            {
+                "code": "category_example_these-voters-are-put-into-age-categories",
+                "text": "These voters are put into age categories."
+            },
+            {
+                "code": "category_example_wrestlers-were-put-into-weight-categories",
+                "text": "Wrestlers were put into weight categories."
+            },
+            {
+                "code": "category_example_this-is-an-important-category",
+                "text": "This is an important category."
+            },
+            {
+                "code": "category_example_our-school-belongs-in-the-category-of-best-colleges",
+                "text": "Our school belongs in the category of best colleges."
+            },
+            {
+                "code": "category_example_they-formed-a-category-for-best-new-artist",
+                "text": "They formed a category for best new artist."
+            },
+            {
+                "code": "category_example_scientists-create-new-categories-for-certain-discoveries",
+                "text": "Scientists create new categories for certain discoveries."
+            },
+            {
+                "code": "category_example_this-category-consists-of-all-people-with-low-incomes",
+                "text": "This category consists of all people with low incomes."
+            },
+            {
+                "code": "category_example_she-won-an-award-in-the-best-singer-category",
+                "text": "She won an award in the best singer category."
+            },
+            {
+                "code": "category_example_there-is-a-separate-category-for-senior-citizens",
+                "text": "There is a separate category for senior citizens."
+            },
+            {
+                "code": "category_example_they-were-put-in-the-category-of-highest-paid-employees",
+                "text": "They were put in the category of highest paid employees."
+            }
+        ]
+    }
+]

@@ -1,0 +1,126 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a purpose of something; a special event",
+        "examples": [
+            {
+                "code": "function_example_this-piece-serves-an-important-function-in-the-machine",
+                "text": "This piece serves an important function in the machine."
+            },
+            {
+                "code": "function_example_he-has-a-critical-function-in-our-organization",
+                "text": "He has a critical function in our organization."
+            },
+            {
+                "code": "function_example_the-main-function-of-this-system-is-to-process-data",
+                "text": "The main function of this system is to process data."
+            },
+            {
+                "code": "function_example_this-machine-serves-a-specific-function",
+                "text": "This machine serves a specific function."
+            },
+            {
+                "code": "function_example_this-item-is-often-used-for-things-other-than-its-original-function",
+                "text": "This item is often used for things other than its original function."
+            },
+            {
+                "code": "function_example_they-are-running-some-tests-on-his-brain-function",
+                "text": "They are running some tests on his brain function."
+            },
+            {
+                "code": "function_example_his-bodily-function-is-intact-despite-the-injury",
+                "text": "His bodily function is intact despite the injury."
+            },
+            {
+                "code": "function_example_she-has-a-dual-function-as-both-teacher-and-administrator",
+                "text": "She has a dual function as both teacher and administrator."
+            },
+            {
+                "code": "function_example_we-are-attending-a-charity-function-this-weekend",
+                "text": "We are attending a charity function this weekend."
+            },
+            {
+                "code": "function_example_he-has-many-functions-within-our-organization",
+                "text": "He has many functions within our organization."
+            },
+            {
+                "code": "function_example_they-are-holding-a-charity-function-next-month",
+                "text": "They are holding a charity function next month."
+            },
+            {
+                "code": "function_example_he-has-to-attend-many-official-functions",
+                "text": "He has to attend many official functions."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to work or operate in a particular way",
+        "examples": [
+            {
+                "code": "function_example_the-organization-functions-efficiently",
+                "text": "The organization functions efficiently."
+            },
+            {
+                "code": "function_example_we-are-trying-to-make-this-function-perfectly",
+                "text": "We are trying to make this function perfectly."
+            },
+            {
+                "code": "function_example_things-are-not-functioning-properly",
+                "text": "Things are not functioning properly."
+            },
+            {
+                "code": "function_example_this-machine-barely-functions",
+                "text": "This machine barely functions."
+            },
+            {
+                "code": "function_example_the-engine-is-functioning-poorly",
+                "text": "The engine is functioning poorly."
+            },
+            {
+                "code": "function_example_this-system-is-designed-to-function-independently",
+                "text": "This system is designed to function independently."
+            },
+            {
+                "code": "function_example_he-didn-t-learn-how-it-actually-functions",
+                "text": "He didn't learn how it actually functions."
+            },
+            {
+                "code": "function_example_this-functions-mainly-as-a-back-up",
+                "text": "This functions mainly as a back-up."
+            },
+            {
+                "code": "function_example_the-group-still-functions-despite-lack-of-funding",
+                "text": "The group still functions despite lack of funding."
+            },
+            {
+                "code": "function_example_the-group-is-unable-to-function-under-these-restrictions",
+                "text": "The group is unable to function under these restrictions."
+            },
+            {
+                "code": "function_example_we-are-able-to-function-while-waiting-for-new-information",
+                "text": "We are able to function while waiting for new information."
+            },
+            {
+                "code": "function_example_her-body-began-to-function-normally-with-the-new-medication",
+                "text": "Her body began to function normally with the new medication."
+            },
+            {
+                "code": "function_example_the-plan-has-ceased-to-function-as-expected",
+                "text": "The plan has ceased to function as expected."
+            },
+            {
+                "code": "function_example_everything-continues-to-function-normally",
+                "text": "Everything continues to function normally."
+            },
+            {
+                "code": "function_example_the-system-is-not-functioning-in-a-normal-way",
+                "text": "The system is not functioning in a normal way."
+            },
+            {
+                "code": "function_example_her-brain-is-functioning-properly-again",
+                "text": "Her brain is functioning properly again."
+            }
+        ]
+    }
+]

@@ -1,0 +1,60 @@
+[
+    {
+        "type": "(adv)",
+        "mean": "very much; more with one thing than with others",
+        "examples": [
+            {
+                "code": "especially_example_he-is-especially-smart-at-thinking-of-good-ideas",
+                "text": "He is especially smart at thinking of good ideas."
+            },
+            {
+                "code": "especially_example_this-movie-has-been-especially-enjoyable",
+                "text": "This movie has been especially enjoyable."
+            },
+            {
+                "code": "especially_example_my-mom-has-been-an-especially-important-person-in-my-life",
+                "text": "My mom has been an especially important person in my life."
+            },
+            {
+                "code": "especially_example_baby-animals-are-especially-vulnerable",
+                "text": "Baby animals are especially vulnerable."
+            },
+            {
+                "code": "especially_example_this-dish-looks-especially-tasty",
+                "text": "This dish looks especially tasty."
+            },
+            {
+                "code": "especially_example_this-mistake-is-especially-regrettable",
+                "text": "This mistake is especially regrettable."
+            },
+            {
+                "code": "especially_example_his-achievement-is-especially-remarkable",
+                "text": "His achievement is especially remarkable."
+            },
+            {
+                "code": "especially_example_this-storm-is-especially-powerful",
+                "text": "This storm is especially powerful."
+            },
+            {
+                "code": "especially_example_this-assignment-is-especially-easy",
+                "text": "This assignment is especially easy."
+            },
+            {
+                "code": "especially_example_the-mountain-climb-is-especially-dangerous",
+                "text": "The mountain climb is especially dangerous."
+            },
+            {
+                "code": "especially_example_he-especially-appreciated-her-help",
+                "text": "He especially appreciated her help."
+            },
+            {
+                "code": "especially_example_i-especially-enjoy-classical-music",
+                "text": "I especially enjoy classical music."
+            },
+            {
+                "code": "especially_example_my-teacher-especially-encourages-participation-in-class",
+                "text": "My teacher especially encourages participation in class."
+            }
+        ]
+    }
+]

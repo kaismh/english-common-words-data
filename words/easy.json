@@ -1,0 +1,82 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "not difficult; done without effort or problems",
+        "examples": [
+            {
+                "code": "easy_example_this-assignment-is-easy",
+                "text": "This assignment is easy."
+            },
+            {
+                "code": "easy_example_speaking-english-gets-easier-with-practice",
+                "text": "Speaking English gets easier with practice."
+            },
+            {
+                "code": "easy_example_the-internet-makes-research-easy",
+                "text": "The internet makes research easy."
+            },
+            {
+                "code": "easy_example_i-find-math-homework-easy",
+                "text": "I find math homework easy."
+            },
+            {
+                "code": "easy_example_this-test-is-very-easy",
+                "text": "This test is very easy."
+            },
+            {
+                "code": "easy_example_it-is-increasingly-easy-to-find-all-kinds-of-information-on-the-internet",
+                "text": "It is increasingly easy to find all kinds of information on the internet."
+            },
+            {
+                "code": "easy_example_it-is-easy-enough-for-my-child-to-understand",
+                "text": "It is easy enough for my child to understand."
+            },
+            {
+                "code": "easy_example_my-teacher-is-relatively-easy-to-understand",
+                "text": "My teacher is relatively easy to understand."
+            },
+            {
+                "code": "easy_example_getting-his-help-is-not-exactly-easy",
+                "text": "Getting his help is not exactly easy."
+            },
+            {
+                "code": "easy_example_this-test-was-not-easy-for-her",
+                "text": "This test was not easy for her."
+            },
+            {
+                "code": "easy_example_does-it-seem-easy-to-you",
+                "text": "Does it seem easy to you?"
+            },
+            {
+                "code": "easy_example_my-apartment-is-an-easy-walk-from-school",
+                "text": "My apartment is an easy walk from school."
+            },
+            {
+                "code": "easy_example_giving-her-the-job-was-an-easy-choice",
+                "text": "Giving her the job was an easy choice."
+            },
+            {
+                "code": "easy_example_this-is-an-easy-problem-to-solve",
+                "text": "This is an easy problem to solve."
+            },
+            {
+                "code": "easy_example_this-hike-was-not-an-easy-feat",
+                "text": "This hike was not an easy feat."
+            },
+            {
+                "code": "easy_example_math-is-not-an-easy-subject-for-many-people",
+                "text": "Math is not an easy subject for many people."
+            }
+        ]
+    },
+    {
+        "type": "(adv)",
+        "mean": "without difficulty; without effort or problems",
+        "examples": [
+            {
+                "code": "easy_example_she-passed-her-test-so-she-can-sleep-easy-tonight",
+                "text": "She passed her test so she can sleep easy tonight."
+            }
+        ]
+    }
+]

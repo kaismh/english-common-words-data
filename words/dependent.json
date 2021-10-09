@@ -1,0 +1,56 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "needing someone or something for help and support; decided by something",
+        "examples": [
+            {
+                "code": "dependent_example_the-woman-is-dependent-on-her-husband",
+                "text": "The woman is dependent on her husband."
+            },
+            {
+                "code": "dependent_example_i-have-become-dependent-on-him",
+                "text": "I have become dependent on him."
+            },
+            {
+                "code": "dependent_example_he-remains-dependent-on-prescription-drugs",
+                "text": "He remains dependent on prescription drugs."
+            },
+            {
+                "code": "dependent_example_your-salary-is-dependent-on-how-much-you-work",
+                "text": "Your salary is dependent on how much you work."
+            },
+            {
+                "code": "dependent_example_the-elderly-couple-have-become-closely-dependent-on-each-other",
+                "text": "The elderly couple have become closely dependent on each other."
+            },
+            {
+                "code": "dependent_example_he-has-become-absolutely-dependent-on-his-mother",
+                "text": "He has become absolutely dependent on his mother."
+            },
+            {
+                "code": "dependent_example_she-is-growing-increasingly-dependent-on-her-painkillers",
+                "text": "She is growing increasingly dependent on her painkillers."
+            },
+            {
+                "code": "dependent_example_some-students-are-partially-dependent-on-loans",
+                "text": "Some students are partially dependent on loans."
+            },
+            {
+                "code": "dependent_example_he-became-physically-dependent-on-his-brother-after-the-accident",
+                "text": "He became physically dependent on his brother after the accident."
+            },
+            {
+                "code": "dependent_example_her-choice-is-mainly-dependent-on-salary",
+                "text": "Her choice is mainly dependent on salary."
+            },
+            {
+                "code": "dependent_example_the-organization-is-largely-dependent-on-donations",
+                "text": "The organization is largely dependent on donations."
+            },
+            {
+                "code": "dependent_example_her-decision-is-solely-dependent-upon-the-test-results",
+                "text": "Her decision is solely dependent upon the test results."
+            }
+        ]
+    }
+]

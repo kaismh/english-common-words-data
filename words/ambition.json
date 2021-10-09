@@ -1,0 +1,32 @@
+[
+    {
+        "type": "(n)",
+        "mean": "strong desire to achieve something; strong desire to succeed",
+        "examples": [
+            {
+                "code": "ambition_example_he-has-a-big-ambition-to-be-successful",
+                "text": "He has a big ambition to be successful."
+            },
+            {
+                "code": "ambition_example_she-has-great-ambitions",
+                "text": "She has great ambitions."
+            },
+            {
+                "code": "ambition_example_my-main-ambition-is-to-have-a-big-family",
+                "text": "My main ambition is to have a big family."
+            },
+            {
+                "code": "ambition_example_you-have-too-much-ambition",
+                "text": "You have too much ambition."
+            },
+            {
+                "code": "ambition_example_your-problem-is-that-you-lack-ambition",
+                "text": "Your problem is that you lack ambition."
+            },
+            {
+                "code": "ambition_example_if-you-study-hard-you-ll-achieve-your-ambitions",
+                "text": "If you study hard, you'll achieve your ambitions."
+            }
+        ]
+    }
+]

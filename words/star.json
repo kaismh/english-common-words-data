@@ -1,0 +1,78 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a small point of light in the night sky; a person in the leading role of a movie or show; someone who has great skills in an activity",
+        "examples": [
+            {
+                "code": "star_example_we-saw-countless-bright-stars-tonight",
+                "text": "We saw countless bright stars tonight."
+            },
+            {
+                "code": "star_example_he-studied-nearby-stars-with-his-telescope",
+                "text": "He studied nearby stars with his telescope."
+            },
+            {
+                "code": "star_example_i-was-surprised-to-see-a-falling-star",
+                "text": "I was surprised to see a falling star."
+            },
+            {
+                "code": "star_example_there-were-a-few-big-movie-stars-at-the-party",
+                "text": "There were a few big movie stars at the party."
+            },
+            {
+                "code": "star_example_after-his-first-movie-he-became-a-true-star",
+                "text": "After his first movie, he became a true star."
+            },
+            {
+                "code": "star_example_she-was-a-basketball-star-in-her-school",
+                "text": "She was a basketball star in her school."
+            },
+            {
+                "code": "star_example_we-like-looking-up-at-the-stars",
+                "text": "We like looking up at the stars."
+            },
+            {
+                "code": "star_example_many-stars-appeared-in-the-sky",
+                "text": "Many stars appeared in the sky."
+            },
+            {
+                "code": "star_example_that-movie-made-him-a-star",
+                "text": "That movie made him a star."
+            },
+            {
+                "code": "star_example_she-s-trying-to-maintain-her-star-quality",
+                "text": "She's trying to maintain her star quality."
+            },
+            {
+                "code": "star_example_he-was-the-star-athlete-in-college",
+                "text": "He was the star athlete in college."
+            },
+            {
+                "code": "star_example_he-is-the-star-witness-of-the-murder-case",
+                "text": "He is the star witness of the murder case."
+            },
+            {
+                "code": "star_example_she-is-the-star-attraction-at-every-event",
+                "text": "She is the star attraction at every event."
+            },
+            {
+                "code": "star_example_we-danced-under-the-stars",
+                "text": "We danced under the stars."
+            },
+            {
+                "code": "star_example_she-was-the-star-of-the-show",
+                "text": "She was the star of the show."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to have the leading role in a movie, television show, or play",
+        "examples": [
+            {
+                "code": "star_example_she-starred-in-countless-films-in-her-acting-career",
+                "text": "She starred in countless films in her acting career."
+            }
+        ]
+    }
+]

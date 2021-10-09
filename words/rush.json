@@ -1,0 +1,98 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to hurry; to move very fast",
+        "examples": [
+            {
+                "code": "rush_example_the-blood-rushed-to-my-cheeks",
+                "text": "The blood rushed to my cheeks."
+            },
+            {
+                "code": "rush_example_the-water-rushed-out-of-the-dam",
+                "text": "The water rushed out of the dam."
+            },
+            {
+                "code": "rush_example_air-rushed-out-of-the-vent",
+                "text": "Air rushed out of the vent."
+            },
+            {
+                "code": "rush_example_the-crowd-rushed-into-the-stores",
+                "text": "The crowd rushed into the stores."
+            },
+            {
+                "code": "rush_example_i-rushed-downstairs-right-away",
+                "text": "I rushed downstairs right away."
+            },
+            {
+                "code": "rush_example_we-quickly-rushed-to-the-hospital",
+                "text": "We quickly rushed to the hospital."
+            },
+            {
+                "code": "rush_example_he-was-suddenly-rushed-to-the-emergency-room",
+                "text": "He was suddenly rushed to the emergency room."
+            },
+            {
+                "code": "rush_example_he-rushed-into-the-house",
+                "text": "He rushed into the house."
+            }
+        ]
+    },
+    {
+        "type": "(n)",
+        "mean": "quick movement; a busy time",
+        "examples": [
+            {
+                "code": "rush_example_he-regrets-his-rush-decision",
+                "text": "He regrets his rush decision."
+            },
+            {
+                "code": "rush_example_she-did-a-rush-job-on-the-essay-and-got-a-low-grade",
+                "text": "She did a rush job on the essay and got a low grade."
+            },
+            {
+                "code": "rush_example_i-hate-driving-during-rush-hour",
+                "text": "I hate driving during rush hour."
+            },
+            {
+                "code": "rush_example_i-felt-a-sudden-rush-of-anger-come-over-me",
+                "text": "I felt a sudden rush of anger come over me."
+            },
+            {
+                "code": "rush_example_i-got-a-sugar-rush-after-i-ate-ice-cream",
+                "text": "I got a sugar rush after I ate ice cream."
+            },
+            {
+                "code": "rush_example_skydiving-gives-me-an-adrenalin-rush",
+                "text": "Skydiving gives me an adrenalin rush."
+            },
+            {
+                "code": "rush_example_there-was-a-mad-rush-for-the-door-when-they-saw-the-smoke",
+                "text": "There was a mad rush for the door when they saw the smoke."
+            },
+            {
+                "code": "rush_example_i-try-to-avoid-the-last-minute-rush-of-holiday-shopping",
+                "text": "I try to avoid the last-minute rush of holiday shopping."
+            },
+            {
+                "code": "rush_example_she-felt-a-rush-of-anger-when-she-heard-the-decision",
+                "text": "She felt a rush of anger when she heard the decision."
+            },
+            {
+                "code": "rush_example_try-to-avoid-the-rush-of-holiday-shoppers",
+                "text": "Try to avoid the rush of holiday shoppers."
+            },
+            {
+                "code": "rush_example_we-are-in-a-rush-so-please-hurry",
+                "text": "We are in a rush, so please hurry."
+            },
+            {
+                "code": "rush_example_there-was-a-last-minute-rush-for-changes",
+                "text": "There was a last-minute rush for changes."
+            },
+            {
+                "code": "rush_example_i-felt-a-rush-of-blood-to-my-face",
+                "text": "I felt a rush of blood to my face."
+            }
+        ]
+    }
+]

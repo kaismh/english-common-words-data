@@ -1,0 +1,60 @@
+[
+    {
+        "type": "(n)",
+        "mean": "an indoor space for keeping cars; a business that repairs cars",
+        "examples": [
+            {
+                "code": "garage_example_their-new-house-has-a-double-garage",
+                "text": "Their new house has a double garage."
+            },
+            {
+                "code": "garage_example_the-apartment-building-has-an-underground-garage",
+                "text": "The apartment building has an underground garage."
+            },
+            {
+                "code": "garage_example_he-took-his-car-to-a-local-garage",
+                "text": "He took his car to a local garage."
+            },
+            {
+                "code": "garage_example_they-are-building-a-new-parking-garage-downtown",
+                "text": "They are building a new parking garage downtown."
+            },
+            {
+                "code": "garage_example_they-demolished-the-detached-garage-to-build-a-new-one",
+                "text": "They demolished the detached garage to build a new one."
+            },
+            {
+                "code": "garage_example_they-own-a-garage",
+                "text": "They own a garage."
+            },
+            {
+                "code": "garage_example_he-took-his-car-to-the-garage-to-have-the-breaks-checked",
+                "text": "He took his car to the garage to have the breaks checked."
+            },
+            {
+                "code": "garage_example_we-need-to-replace-the-garage-door",
+                "text": "We need to replace the garage door."
+            },
+            {
+                "code": "garage_example_her-rent-includes-a-garage-space",
+                "text": "Her rent includes a garage space."
+            },
+            {
+                "code": "garage_example_they-are-having-a-garage-sale-this-weekend",
+                "text": "They are having a garage sale this weekend."
+            },
+            {
+                "code": "garage_example_he-is-the-garage-owner",
+                "text": "He is the garage owner."
+            },
+            {
+                "code": "garage_example_is-the-car-parked-in-the-garage",
+                "text": "Is the car parked in the garage?"
+            },
+            {
+                "code": "garage_example_i-left-the-car-at-the-garage-this-morning",
+                "text": "I left the car at the garage this morning."
+            }
+        ]
+    }
+]

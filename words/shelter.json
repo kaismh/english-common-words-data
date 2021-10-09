@@ -1,0 +1,56 @@
+[
+    {
+        "type": "(noun)",
+        "mean": "a place that provides protection and safety",
+        "examples": [
+            {
+                "code": "shelter_example_the-tree-provides-great-shelter-from-the-hot-sun",
+                "text": "The tree provides great shelter from the hot sun."
+            },
+            {
+                "code": "shelter_example_she-had-to-find-shelter",
+                "text": "She had to find shelter."
+            },
+            {
+                "code": "shelter_example_we-had-to-leave-the-shelter-of-our-home",
+                "text": "We had to leave the shelter of our home."
+            },
+            {
+                "code": "shelter_example_they-built-a-shelter-out-of-branches-and-palm-leaves",
+                "text": "They built a shelter out of branches and palm leaves."
+            },
+            {
+                "code": "shelter_example_we-built-a-temporary-shelter",
+                "text": "We built a temporary shelter."
+            },
+            {
+                "code": "shelter_example_they-found-an-underground-shelter",
+                "text": "They found an underground shelter."
+            },
+            {
+                "code": "shelter_example_we-were-moved-to-an-emergency-shelter",
+                "text": "We were moved to an emergency shelter."
+            },
+            {
+                "code": "shelter_example_we-found-our-lost-dog-at-the-animal-shelter",
+                "text": "We found our lost dog at the animal shelter."
+            },
+            {
+                "code": "shelter_example_they-lived-in-a-homeless-shelter-for-several-months",
+                "text": "They lived in a homeless shelter for several months."
+            },
+            {
+                "code": "shelter_example_we-will-be-safer-in-this-shelter",
+                "text": "We will be safer in this shelter."
+            },
+            {
+                "code": "shelter_example_there-was-a-shelter-for-the-horses",
+                "text": "There was a shelter for the horses."
+            },
+            {
+                "code": "shelter_example_we-need-to-find-shelter-from-the-storm",
+                "text": "We need to find shelter from the storm."
+            }
+        ]
+    }
+]

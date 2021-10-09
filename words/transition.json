@@ -1,0 +1,48 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the process of changing from one condition or place to another",
+        "examples": [
+            {
+                "code": "transition_example_he-made-a-sudden-transition-in-his-career",
+                "text": "He made a sudden transition in his career."
+            },
+            {
+                "code": "transition_example_changing-schools-was-a-difficult-transition-for-my-daughter",
+                "text": "Changing schools was a difficult transition for my daughter."
+            },
+            {
+                "code": "transition_example_he-made-a-smooth-transition-to-his-new-job",
+                "text": "He made a smooth transition to his new job."
+            },
+            {
+                "code": "transition_example_the-company-is-making-a-slow-transition-into-the-world-of-technology",
+                "text": "The company is making a slow transition into the world of technology."
+            },
+            {
+                "code": "transition_example_we-are-making-a-complete-transition-from-paper-to-electronic-files",
+                "text": "We are making a complete transition from paper to electronic files."
+            },
+            {
+                "code": "transition_example_they-completed-the-transition-during-the-summer",
+                "text": "They completed the transition during the summer."
+            },
+            {
+                "code": "transition_example_the-gradual-transition-will-occur-this-summer",
+                "text": "The gradual transition will occur this summer."
+            },
+            {
+                "code": "transition_example_we-need-to-be-patient-during-the-transition-period",
+                "text": "We need to be patient during the transition period."
+            },
+            {
+                "code": "transition_example_it-s-going-to-be-difficult-during-the-transition-period",
+                "text": "It's going to be difficult during the transition period."
+            },
+            {
+                "code": "transition_example_that-country-has-been-in-transition-for-many-years",
+                "text": "That country has been in transition for many years."
+            }
+        ]
+    }
+]

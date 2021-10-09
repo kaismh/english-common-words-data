@@ -1,0 +1,28 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to look at someone or something with appreciation or enjoyment",
+        "examples": [
+            {
+                "code": "admire_example_i-greatly-admire-your-writing",
+                "text": "I greatly admire your writing."
+            },
+            {
+                "code": "admire_example_she-secretly-admires-him",
+                "text": "She secretly admires him."
+            },
+            {
+                "code": "admire_example_what-do-you-admire-about-him",
+                "text": "What do you admire about him?"
+            },
+            {
+                "code": "admire_example_i-really-admire-you-for-your-dedication",
+                "text": "I really admire you for your dedication."
+            },
+            {
+                "code": "admire_example_we-stopped-to-admire-the-sunset",
+                "text": "We stopped to admire the sunset."
+            }
+        ]
+    }
+]

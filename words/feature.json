@@ -1,0 +1,198 @@
+[
+    {
+        "type": "(n)",
+        "mean": "an important part of something; a characteristic; a part of someone's physical body, especially on the face; a news item",
+        "examples": [
+            {
+                "code": "feature_example_his-plan-has-three-basic-features",
+                "text": "His plan has three basic features."
+            },
+            {
+                "code": "feature_example_descriptive-language-is-a-distinctive-feature-of-hemingway-s-writing",
+                "text": "Descriptive language is a distinctive feature of Hemingway's writing."
+            },
+            {
+                "code": "feature_example_this-car-has-some-outstanding-new-features",
+                "text": "This car has some outstanding new features."
+            },
+            {
+                "code": "feature_example_this-house-has-some-interesting-features",
+                "text": "This house has some interesting features."
+            },
+            {
+                "code": "feature_example_this-camera-has-some-unique-features",
+                "text": "This camera has some unique features."
+            },
+            {
+                "code": "feature_example_these-three-case-studies-have-some-common-features",
+                "text": "These three case studies have some common features."
+            },
+            {
+                "code": "feature_example_air-conditioning-is-a-permanent-feature-in-many-cars-these-days",
+                "text": "Air conditioning is a permanent feature in many cars these days."
+            },
+            {
+                "code": "feature_example_his-proposal-only-has-one-redeeming-feature",
+                "text": "His proposal only has one redeeming feature."
+            },
+            {
+                "code": "feature_example_i-think-voice-command-is-my-favorite-feature-of-this-toy",
+                "text": "I think voice command is my favorite feature of this toy."
+            },
+            {
+                "code": "feature_example_they-are-testing-the-advanced-features-of-the-product",
+                "text": "They are testing the advanced features of the product."
+            },
+            {
+                "code": "feature_example_they-discussed-the-architectural-features-of-the-building",
+                "text": "They discussed the architectural features of the building."
+            },
+            {
+                "code": "feature_example_they-were-amazed-at-the-geographical-features-of-the-canyon",
+                "text": "They were amazed at the geographical features of the canyon."
+            },
+            {
+                "code": "feature_example_the-new-building-has-a-lot-of-energy-saving-features",
+                "text": "The new building has a lot of energy-saving features."
+            },
+            {
+                "code": "feature_example_he-has-attractive-features",
+                "text": "He has attractive features."
+            },
+            {
+                "code": "feature_example_she-has-beautiful-features",
+                "text": "She has beautiful features."
+            },
+            {
+                "code": "feature_example_she-has-the-physical-features-required-for-the-part",
+                "text": "She has the physical features required for the part."
+            },
+            {
+                "code": "feature_example_he-is-working-on-a-big-feature",
+                "text": "He is working on a big feature."
+            },
+            {
+                "code": "feature_example_her-column-is-a-regular-feature-in-the-sunday-paper",
+                "text": "Her column is a regular feature in the Sunday paper."
+            },
+            {
+                "code": "feature_example_they-have-a-daily-feature-on-local-restaurants",
+                "text": "They have a daily feature on local restaurants."
+            },
+            {
+                "code": "feature_example_this-product-has-many-new-features",
+                "text": "This product has many new features."
+            },
+            {
+                "code": "feature_example_they-retained-many-architectural-features-of-the-house",
+                "text": "They retained many architectural features of the house."
+            },
+            {
+                "code": "feature_example_they-added-some-cool-features-to-this-phone",
+                "text": "They added some cool features to this phone."
+            },
+            {
+                "code": "feature_example_he-pointed-out-the-useful-features-of-the-new-system",
+                "text": "He pointed out the useful features of the new system."
+            },
+            {
+                "code": "feature_example_his-plan-lacks-some-important-features",
+                "text": "His plan lacks some important features."
+            },
+            {
+                "code": "feature_example_our-new-feature-enables-users-to-transfer-information-wirelessly",
+                "text": "Our new feature enables users to transfer information wirelessly."
+            },
+            {
+                "code": "feature_example_the-sisters-have-many-similar-features",
+                "text": "The sisters have many similar features."
+            },
+            {
+                "code": "feature_example_they-will-run-a-special-feature-on-the-election",
+                "text": "They will run a special feature on the election."
+            },
+            {
+                "code": "feature_example_the-main-character-is-a-young-woman-with-delicate-features",
+                "text": "The main character is a young woman with delicate features."
+            },
+            {
+                "code": "feature_example_she-is-writing-a-feature-on-the-new-mayor",
+                "text": "She is writing a feature on the new mayor."
+            },
+            {
+                "code": "feature_example_he-is-a-feature-writer-for-a-magazine",
+                "text": "He is a feature writer for a magazine."
+            },
+            {
+                "code": "feature_example_she-got-a-promotion-to-features-editor-at-the-newspaper",
+                "text": "She got a promotion to features editor at the newspaper."
+            },
+            {
+                "code": "feature_example_the-features-section-always-has-interesting-stories",
+                "text": "The features section always has interesting stories."
+            },
+            {
+                "code": "feature_example_he-is-working-on-an-important-feature-story",
+                "text": "He is working on an important feature story."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to include someone or something as an important part",
+        "examples": [
+            {
+                "code": "feature_example_her-website-regularly-features-recipes",
+                "text": "Her website regularly features recipes."
+            },
+            {
+                "code": "feature_example_he-rarely-features-women-on-the-cover-of-his-magazine",
+                "text": "He rarely features women on the cover of his magazine."
+            },
+            {
+                "code": "feature_example_the-menu-heavily-features-vegetarian-dishes",
+                "text": "The menu heavily features vegetarian dishes."
+            },
+            {
+                "code": "feature_example_she-always-features-her-children-in-her-artwork",
+                "text": "She always features her children in her artwork."
+            },
+            {
+                "code": "feature_example_this-movie-features-my-favorite-actor",
+                "text": "This movie features my favorite actor."
+            },
+            {
+                "code": "feature_example_his-paintings-heavily-feature-nature",
+                "text": "His paintings heavily feature nature."
+            },
+            {
+                "code": "feature_example_this-gallery-features-local-artists",
+                "text": "This gallery features local artists."
+            },
+            {
+                "code": "feature_example_the-hotel-features-a-pool-and-rooftop-terrace",
+                "text": "The hotel features a pool and rooftop terrace."
+            },
+            {
+                "code": "feature_example_this-magazine-features-a-fascinating-article-on-his-new-movie",
+                "text": "This magazine features a fascinating article on his new movie."
+            },
+            {
+                "code": "feature_example_they-are-featuring-local-art-during-the-show",
+                "text": "They are featuring local art during the show."
+            },
+            {
+                "code": "feature_example_his-recipes-are-featured-in-this-month-s-issue",
+                "text": "His recipes are featured in this month's issue."
+            },
+            {
+                "code": "feature_example_this-play-features-an-interesting-cast",
+                "text": "This play features an interesting cast."
+            },
+            {
+                "code": "feature_example_the-gallery-features-an-interesting-selection-of-artwork",
+                "text": "The gallery features an interesting selection of artwork."
+            }
+        ]
+    }
+]

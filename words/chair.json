@@ -1,0 +1,108 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a piece of furniture for one person to sit on; the person in charge of a meeting",
+        "examples": [
+            {
+                "code": "chair_example_i-have-a-comfortable-chair-in-my-office",
+                "text": "I have a comfortable chair in my office."
+            },
+            {
+                "code": "chair_example_i-need-to-buy-a-new-office-chair",
+                "text": "I need to buy a new office chair."
+            },
+            {
+                "code": "chair_example_i-like-my-leather-chair",
+                "text": "I like my leather chair."
+            },
+            {
+                "code": "chair_example_next-time-i-m-going-to-buy-cushioned-chairs",
+                "text": "Next time, I'm going to buy cushioned chairs."
+            },
+            {
+                "code": "chair_example_i-m-shopping-for-new-dining-chairs",
+                "text": "I'm shopping for new dining chairs."
+            },
+            {
+                "code": "chair_example_these-chairs-are-hard",
+                "text": "These chairs are hard."
+            },
+            {
+                "code": "chair_example_my-baby-falls-asleep-in-our-reclining-chair",
+                "text": "My baby falls asleep in our reclining chair."
+            },
+            {
+                "code": "chair_example_we-are-bringing-folding-chairs-to-the-pool-party",
+                "text": "We are bringing folding chairs to the pool party."
+            },
+            {
+                "code": "chair_example_there-are-a-lot-of-empty-chairs-in-the-theater",
+                "text": "There are a lot of empty chairs in the theater."
+            },
+            {
+                "code": "chair_example_she-is-the-acting-chair-of-the-meeting",
+                "text": "She is the acting chair of the meeting."
+            },
+            {
+                "code": "chair_example_please-pull-up-a-chair-and-join-us",
+                "text": "Please pull up a chair and join us."
+            },
+            {
+                "code": "chair_example_i-gave-her-my-chair",
+                "text": "I gave her my chair."
+            },
+            {
+                "code": "chair_example_his-chair-collapsed-in-the-restaurant",
+                "text": "His chair collapsed in the restaurant."
+            },
+            {
+                "code": "chair_example_please-sit-in-that-chair",
+                "text": "Please sit in that chair."
+            },
+            {
+                "code": "chair_example_she-leaned-back-in-her-chair",
+                "text": "She leaned back in her chair."
+            },
+            {
+                "code": "chair_example_he-leaped-from-his-chair-when-he-heard-the-news",
+                "text": "He leaped from his chair when he heard the news."
+            },
+            {
+                "code": "chair_example_she-likes-to-swivel-in-her-chair",
+                "text": "She likes to swivel in her chair."
+            },
+            {
+                "code": "chair_example_chairs-were-placed-in-rows",
+                "text": "Chairs were placed in rows."
+            },
+            {
+                "code": "chair_example_this-chair-creaks",
+                "text": "This chair creaks."
+            },
+            {
+                "code": "chair_example_they-will-appoint-a-new-department-chair",
+                "text": "They will appoint a new department chair."
+            },
+            {
+                "code": "chair_example_she-holds-the-head-chair-at-the-university",
+                "text": "She holds the head chair at the university."
+            },
+            {
+                "code": "chair_example_the-chair-leg-is-broken",
+                "text": "The chair leg is broken."
+            },
+            {
+                "code": "chair_example_we-need-to-replace-the-chair-cover",
+                "text": "We need to replace the chair cover."
+            },
+            {
+                "code": "chair_example_she-sat-in-her-big-comfy-chair",
+                "text": "She sat in her big, comfy chair."
+            },
+            {
+                "code": "chair_example_she-found-the-dog-on-her-favorite-chair-again",
+                "text": "She found the dog on her favorite chair again."
+            }
+        ]
+    }
+]

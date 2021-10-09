@@ -1,0 +1,44 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "happening very quickly or without warning",
+        "examples": [
+            {
+                "code": "sudden_example_he-cannot-control-his-sudden-anger",
+                "text": "He cannot control his sudden anger."
+            },
+            {
+                "code": "sudden_example_we-were-not-ready-for-the-sudden-change-in-weather",
+                "text": "We were not ready for the sudden change in weather."
+            },
+            {
+                "code": "sudden_example_his-sudden-death-shocked-everyone",
+                "text": "His sudden death shocked everyone."
+            },
+            {
+                "code": "sudden_example_why-do-you-have-a-sudden-interest-in-golf",
+                "text": "Why do you have a sudden interest in golf?"
+            },
+            {
+                "code": "sudden_example_there-was-a-sudden-pain-in-my-side",
+                "text": "There was a sudden pain in my side."
+            },
+            {
+                "code": "sudden_example_people-were-wondering-about-his-sudden-departure",
+                "text": "People were wondering about his sudden departure."
+            },
+            {
+                "code": "sudden_example_i-have-a-sudden-urge-to-see-my-ex-girlfriend",
+                "text": "I have a sudden urge to see my ex-girlfriend."
+            },
+            {
+                "code": "sudden_example_they-were-not-prepared-for-the-army-s-sudden-attack",
+                "text": "They were not prepared for the army's sudden attack."
+            },
+            {
+                "code": "sudden_example_her-decision-was-very-sudden",
+                "text": "Her decision was very sudden."
+            }
+        ]
+    }
+]

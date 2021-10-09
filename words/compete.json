@@ -1,0 +1,32 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to enter a contest or game",
+        "examples": [
+            {
+                "code": "compete_example_to-successfully-compete-in-the-match-the-boxer-will-train-every-day",
+                "text": "To successfully compete in the match, the boxer will train every day."
+            },
+            {
+                "code": "compete_example_name-brand-products-directly-compete-with-generic-brands",
+                "text": "Name brand products directly compete with generic brands."
+            },
+            {
+                "code": "compete_example_starbucks-must-compete-globally",
+                "text": "Starbucks must compete globally."
+            },
+            {
+                "code": "compete_example_will-the-two-girls-compete-against-each-other",
+                "text": "Will the two girls compete against each other?"
+            },
+            {
+                "code": "compete_example_the-wrestler-will-compete-for-the-title",
+                "text": "The wrestler will compete for the title."
+            },
+            {
+                "code": "compete_example_the-gymnast-will-compete-in-the-olympics",
+                "text": "The gymnast will compete in the Olympics."
+            }
+        ]
+    }
+]

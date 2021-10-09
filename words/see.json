@@ -1,0 +1,44 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to look at or notice something; to understand; to visit",
+        "examples": [
+            {
+                "code": "see_example_she-could-see-the-sunset-clearly-from-her-house",
+                "text": "She could see the sunset clearly from her house."
+            },
+            {
+                "code": "see_example_i-could-hardly-see-the-words-on-the-page-without-my-glasses",
+                "text": "I could hardly see the words on the page without my glasses."
+            },
+            {
+                "code": "see_example_we-suddenly-could-see-the-boat-in-the-distance",
+                "text": "We suddenly could see the boat in the distance."
+            },
+            {
+                "code": "see_example_i-was-able-to-see-the-sign",
+                "text": "I was able to see the sign."
+            },
+            {
+                "code": "see_example_she-went-to-see-her-grandmother",
+                "text": "She went to see her grandmother."
+            },
+            {
+                "code": "see_example_he-would-like-to-see-her-win-the-gold-medal",
+                "text": "He would like to see her win the gold medal."
+            },
+            {
+                "code": "see_example_i-am-here-to-see-lisa-miller",
+                "text": "I am here to see Lisa Miller."
+            },
+            {
+                "code": "see_example_i-can-t-see-into-the-window-because-it-s-so-dirty",
+                "text": "I can't see into the window because it's so dirty."
+            },
+            {
+                "code": "see_example_i-need-to-see-a-doctor-about-my-symptoms",
+                "text": "I need to see a doctor about my symptoms."
+            }
+        ]
+    }
+]

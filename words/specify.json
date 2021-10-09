@@ -1,0 +1,40 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to give clear details",
+        "examples": [
+            {
+                "code": "specify_example_the-plan-doesn-t-clearly-specify-the-actual-cost",
+                "text": "The plan doesn't clearly specify the actual cost."
+            },
+            {
+                "code": "specify_example_she-correctly-specified-all-the-details-in-the-report",
+                "text": "She correctly specified all the details in the report."
+            },
+            {
+                "code": "specify_example_unless-specified-otherwise-the-speed-limit-is-35-miles-per-hour",
+                "text": "Unless specified otherwise, the speed limit is 35 miles per hour."
+            },
+            {
+                "code": "specify_example_he-was-required-to-specify-the-details-of-the-accident",
+                "text": "He was required to specify the details of the accident."
+            },
+            {
+                "code": "specify_example_please-specify-the-color-in-the-correct-field",
+                "text": "Please specify the color in the correct field."
+            },
+            {
+                "code": "specify_example_the-lawyer-needs-to-specify-the-terms-of-the-contract",
+                "text": "The lawyer needs to specify the terms of the contract."
+            },
+            {
+                "code": "specify_example_he-didn-t-specify-the-details-of-the-report",
+                "text": "He didn't specify the details of the report."
+            },
+            {
+                "code": "specify_example_the-doctor-would-not-specify-the-condition-of-the-patient-to-non-family-members",
+                "text": "The doctor would not specify the condition of the patient to non-family members."
+            }
+        ]
+    }
+]

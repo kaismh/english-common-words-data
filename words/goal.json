@@ -1,0 +1,96 @@
+[
+    {
+        "type": "(n)",
+        "mean": "in sports, the area where a ball is hit or kicked for points; something that you try to achieve",
+        "examples": [
+            {
+                "code": "goal_example_the-ball-was-kicked-into-the-open-goal",
+                "text": "The ball was kicked into the open goal."
+            },
+            {
+                "code": "goal_example_he-scored-the-winning-goal",
+                "text": "He scored the winning goal."
+            },
+            {
+                "code": "goal_example_they-won-on-a-penalty-goal",
+                "text": "They won on a penalty goal."
+            },
+            {
+                "code": "goal_example_they-are-discussing-their-immediate-goals",
+                "text": "They are discussing their immediate goals."
+            },
+            {
+                "code": "goal_example_his-main-goal-is-to-get-elected",
+                "text": "His main goal is to get elected."
+            },
+            {
+                "code": "goal_example_the-company-has-clear-goals",
+                "text": "The company has clear goals."
+            },
+            {
+                "code": "goal_example_he-has-ambitious-goals",
+                "text": "He has ambitious goals."
+            },
+            {
+                "code": "goal_example_they-are-united-by-common-goals",
+                "text": "They are united by common goals."
+            },
+            {
+                "code": "goal_example_her-personal-goals-are-his-priority-right-now",
+                "text": "Her personal goals are his priority right now."
+            },
+            {
+                "code": "goal_example_she-scored-three-goals",
+                "text": "She scored three goals."
+            },
+            {
+                "code": "goal_example_they-kicked-a-field-goal",
+                "text": "They kicked a field goal."
+            },
+            {
+                "code": "goal_example_they-gave-up-too-many-goals-tonight",
+                "text": "They gave up too many goals tonight."
+            },
+            {
+                "code": "goal_example_she-has-realistic-goals",
+                "text": "She has realistic goals."
+            },
+            {
+                "code": "goal_example_they-share-a-common-goal",
+                "text": "They share a common goal."
+            },
+            {
+                "code": "goal_example_they-need-to-define-their-goals",
+                "text": "They need to define their goals."
+            },
+            {
+                "code": "goal_example_how-do-you-plan-to-reach-your-goal",
+                "text": "How do you plan to reach your goal?"
+            },
+            {
+                "code": "goal_example_he-is-actively-pursuing-his-goals",
+                "text": "He is actively pursuing his goals."
+            },
+            {
+                "code": "goal_example_he-s-in-goal-tonight",
+                "text": "He's in goal tonight."
+            },
+            {
+                "code": "goal_example_they-scored-three-goals-against-their-rival",
+                "text": "They scored three goals against their rival."
+            },
+            {
+                "code": "goal_example_this-was-his-first-goal-for-the-new-team",
+                "text": "This was his first goal for the new team."
+            },
+            {
+                "code": "goal_example_a-late-goal-from-the-soccer-star-tied-the-game",
+                "text": "A late goal from the soccer star tied the game."
+            },
+            {
+                "code": "goal_example_they-have-a-shared-goal-of-reducing-world-hunger",
+                "text": "They have a shared goal of reducing world hunger."
+            }
+        ]
+    }
+]

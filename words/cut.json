@@ -1,0 +1,68 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a skin wound; a hole or tear; a reduction or decrease",
+        "examples": [
+            {
+                "code": "cut_example_i-have-a-little-cut-on-my-finger",
+                "text": "I have a little cut on my finger."
+            },
+            {
+                "code": "cut_example_he-had-a-bad-cut",
+                "text": "He had a bad cut."
+            },
+            {
+                "code": "cut_example_i-got-a-paper-cut",
+                "text": "I got a paper cut."
+            },
+            {
+                "code": "cut_example_we-will-take-a-big-cut-in-our-pay",
+                "text": "We will take a big cut in our pay."
+            },
+            {
+                "code": "cut_example_we-are-facing-federal-cuts",
+                "text": "We are facing federal cuts."
+            },
+            {
+                "code": "cut_example_we-are-forced-to-take-a-pay-cut",
+                "text": "We are forced to take a pay cut."
+            },
+            {
+                "code": "cut_example_the-president-promised-a-tax-cut",
+                "text": "The president promised a tax cut."
+            },
+            {
+                "code": "cut_example_i-have-a-deep-cut-from-the-sharp-knife",
+                "text": "I have a deep cut from the sharp knife."
+            },
+            {
+                "code": "cut_example_could-you-help-me-bandage-the-cut",
+                "text": "Could you help me bandage the cut?"
+            },
+            {
+                "code": "cut_example_the-cut-will-heal",
+                "text": "The cut will heal."
+            },
+            {
+                "code": "cut_example_the-government-must-make-spending-cuts",
+                "text": "The government must make spending cuts."
+            },
+            {
+                "code": "cut_example_the-workers-will-face-pay-cuts",
+                "text": "The workers will face pay cuts."
+            },
+            {
+                "code": "cut_example_try-to-make-a-small-cut-in-the-cloth",
+                "text": "Try to make a small cut in the cloth."
+            },
+            {
+                "code": "cut_example_she-had-a-cut-on-her-leg",
+                "text": "She had a cut on her leg."
+            },
+            {
+                "code": "cut_example_he-suffered-cuts-to-his-arms-and-face-in-the-attack",
+                "text": "He suffered cuts to his arms and face in the attack."
+            }
+        ]
+    }
+]

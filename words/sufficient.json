@@ -1,0 +1,32 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "enough; as much as needed",
+        "examples": [
+            {
+                "code": "sufficient_example_there-is-sufficient-food-for-everyone",
+                "text": "There is sufficient food for everyone."
+            },
+            {
+                "code": "sufficient_example_there-proved-to-be-sufficient-evidence-to-send-him-to-jail",
+                "text": "There proved to be sufficient evidence to send him to jail."
+            },
+            {
+                "code": "sufficient_example_i-do-not-consider-that-as-sufficient-reason-to-quit-your-job",
+                "text": "I do not consider that as sufficient reason to quit your job."
+            },
+            {
+                "code": "sufficient_example_there-was-quite-a-sufficient-amount-of-food-at-the-party",
+                "text": "There was quite a sufficient amount of food at the party."
+            },
+            {
+                "code": "sufficient_example_there-were-barely-sufficient-funds-in-her-bank-account-to-pay-the-rent",
+                "text": "There were barely sufficient funds in her bank account to pay the rent."
+            },
+            {
+                "code": "sufficient_example_we-do-not-have-sufficient-school-supplies-for-the-class",
+                "text": "We do not have sufficient school supplies for the class."
+            }
+        ]
+    }
+]

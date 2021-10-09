@@ -1,0 +1,48 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the result",
+        "examples": [
+            {
+                "code": "outcome_example_the-writer-decided-the-outcome-of-the-story",
+                "text": "The writer decided the outcome of the story."
+            },
+            {
+                "code": "outcome_example_they-produced-a-favorable-outcome",
+                "text": "They produced a favorable outcome."
+            },
+            {
+                "code": "outcome_example_we-haven-t-measured-the-outcome",
+                "text": "We haven't measured the outcome."
+            },
+            {
+                "code": "outcome_example_do-you-know-the-outcome-yet",
+                "text": "Do you know the outcome yet?"
+            },
+            {
+                "code": "outcome_example_what-was-the-final-outcome",
+                "text": "What was the final outcome?"
+            },
+            {
+                "code": "outcome_example_there-was-a-tragic-outcome",
+                "text": "There was a tragic outcome."
+            },
+            {
+                "code": "outcome_example_we-got-a-favorable-outcome",
+                "text": "We got a favorable outcome."
+            },
+            {
+                "code": "outcome_example_there-are-several-possible-outcomes",
+                "text": "There are several possible outcomes."
+            },
+            {
+                "code": "outcome_example_what-was-their-expected-outcome",
+                "text": "What was their expected outcome?"
+            },
+            {
+                "code": "outcome_example_do-you-know-the-outcome-of-the-story",
+                "text": "Do you know the outcome of the story?"
+            }
+        ]
+    }
+]

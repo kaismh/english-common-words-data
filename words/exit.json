@@ -1,0 +1,122 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the way out; the act of leaving; a place for traffic to leave the highway",
+        "examples": [
+            {
+                "code": "exit_example_they-left-through-the-back-exit",
+                "text": "They left through the back exit."
+            },
+            {
+                "code": "exit_example_i-will-wait-by-the-main-exit",
+                "text": "I will wait by the main exit."
+            },
+            {
+                "code": "exit_example_we-need-to-find-the-emergency-exit",
+                "text": "We need to find the emergency exit."
+            },
+            {
+                "code": "exit_example_i-m-heading-for-the-nearest-exit",
+                "text": "I'm heading for the nearest exit."
+            },
+            {
+                "code": "exit_example_she-thinks-this-house-has-a-secret-exit",
+                "text": "She thinks this house has a secret exit."
+            },
+            {
+                "code": "exit_example_he-was-embarrassed-and-made-a-sudden-exit",
+                "text": "He was embarrassed and made a sudden exit."
+            },
+            {
+                "code": "exit_example_extra-gates-will-be-opened-to-allow-for-an-easy-exit-after-the-show",
+                "text": "Extra gates will be opened to allow for an easy exit after the show."
+            },
+            {
+                "code": "exit_example_she-made-a-dramatic-exit-from-the-stage",
+                "text": "She made a dramatic exit from the stage."
+            },
+            {
+                "code": "exit_example_she-will-get-off-at-the-next-exit",
+                "text": "She will get off at the next exit."
+            },
+            {
+                "code": "exit_example_we-headed-for-the-exit",
+                "text": "We headed for the exit."
+            },
+            {
+                "code": "exit_example_they-finally-reached-the-exit",
+                "text": "They finally reached the exit."
+            },
+            {
+                "code": "exit_example_the-police-blocked-the-exit",
+                "text": "The police blocked the exit."
+            },
+            {
+                "code": "exit_example_they-made-a-quick-exit-from-the-building",
+                "text": "They made a quick exit from the building."
+            },
+            {
+                "code": "exit_example_we-will-take-the-next-exit",
+                "text": "We will take the next exit."
+            },
+            {
+                "code": "exit_example_they-need-to-replace-the-exit-sign",
+                "text": "They need to replace the exit sign."
+            },
+            {
+                "code": "exit_example_the-exit-door-is-well-marked",
+                "text": "The exit door is well marked."
+            },
+            {
+                "code": "exit_example_we-planned-an-exit-route",
+                "text": "We planned an exit route."
+            },
+            {
+                "code": "exit_example_we-are-debating-the-proper-exit-strategy",
+                "text": "We are debating the proper exit strategy."
+            },
+            {
+                "code": "exit_example_he-has-to-complete-an-exit-interview-before-graduation",
+                "text": "He has to complete an exit interview before graduation."
+            },
+            {
+                "code": "exit_example_her-car-broke-down-on-the-exit-ramp",
+                "text": "Her car broke down on the exit ramp."
+            },
+            {
+                "code": "exit_example_he-made-his-way-toward-the-exit",
+                "text": "He made his way toward the exit."
+            },
+            {
+                "code": "exit_example_there-is-only-one-exit-from-this-room",
+                "text": "There is only one exit from this room."
+            },
+            {
+                "code": "exit_example_she-found-an-exit-to-the-street",
+                "text": "She found an exit to the street."
+            },
+            {
+                "code": "exit_example_the-driver-missed-the-exit-for-the-airport",
+                "text": "The driver missed the exit for the airport."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to leave",
+        "examples": [
+            {
+                "code": "exit_example_she-needs-some-help-to-exit-the-car",
+                "text": "She needs some help to exit the car."
+            },
+            {
+                "code": "exit_example_we-exited-the-elevator-and-admired-the-view",
+                "text": "We exited the elevator and admired the view."
+            },
+            {
+                "code": "exit_example_they-are-waiting-for-him-to-exit-the-room",
+                "text": "They are waiting for him to exit the room."
+            }
+        ]
+    }
+]

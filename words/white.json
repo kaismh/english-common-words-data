@@ -1,0 +1,50 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "having the color of snow or milk; very light in color usually because of sickness or fear",
+        "examples": [
+            {
+                "code": "white_example_her-hair-is-very-white",
+                "text": "Her hair is very white."
+            },
+            {
+                "code": "white_example_he-painted-the-room-plain-white",
+                "text": "He painted the room plain white."
+            },
+            {
+                "code": "white_example_the-snow-is-pure-white",
+                "text": "The snow is pure white."
+            },
+            {
+                "code": "white_example_he-was-so-scared-his-face-turned-white",
+                "text": "He was so scared, his face turned white."
+            },
+            {
+                "code": "white_example_her-hair-is-white",
+                "text": "Her hair is white."
+            },
+            {
+                "code": "white_example_he-was-white-as-a-ghost",
+                "text": "He was white as a ghost."
+            },
+            {
+                "code": "white_example_she-turned-white-with-fear",
+                "text": "She turned white with fear."
+            }
+        ]
+    },
+    {
+        "type": "(n)",
+        "mean": "the part of an egg that surrounds the yellow part",
+        "examples": [
+            {
+                "code": "white_example_she-only-eats-omelets-made-with-egg-whites",
+                "text": "She only eats omelets made with egg whites."
+            },
+            {
+                "code": "white_example_the-recipe-says-to-whisk-the-eggs-whites-until-fluffy",
+                "text": "The recipe says to whisk the eggs whites until fluffy."
+            }
+        ]
+    }
+]

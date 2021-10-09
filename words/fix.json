@@ -1,0 +1,78 @@
+[
+    {
+        "type": "(n)",
+        "mean": "solution to a problem; amount of something that is wanted or needed, especially a drug; difficult situation",
+        "examples": [
+            {
+                "code": "fix_example_he-s-looking-for-a-quick-fix",
+                "text": "He's looking for a quick fix."
+            },
+            {
+                "code": "fix_example_it-s-just-a-short-term-fix",
+                "text": "It's just a short-term fix."
+            },
+            {
+                "code": "fix_example_we-re-looking-for-a-permanent-fix",
+                "text": "We're looking for a permanent fix."
+            },
+            {
+                "code": "fix_example_he-needs-his-daily-fix-of-cocaine",
+                "text": "He needs his daily fix of cocaine."
+            },
+            {
+                "code": "fix_example_she-s-always-looking-for-her-next-fix",
+                "text": "She's always looking for her next fix."
+            },
+            {
+                "code": "fix_example_i-really-want-a-caffeine-fix-right-now",
+                "text": "I really want a caffeine fix right now."
+            },
+            {
+                "code": "fix_example_we-re-trying-to-find-the-right-fix",
+                "text": "We're trying to find the right fix."
+            },
+            {
+                "code": "fix_example_he-made-a-temporary-fix",
+                "text": "He made a temporary fix."
+            },
+            {
+                "code": "fix_example_he-needs-a-regular-fix",
+                "text": "He needs a regular fix."
+            },
+            {
+                "code": "fix_example_he-didn-t-have-his-fix-today",
+                "text": "He didn't have his fix today."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to repair or correct something; to make or do",
+        "examples": [
+            {
+                "code": "fix_example_he-can-easily-fix-the-problem",
+                "text": "He can easily fix the problem."
+            },
+            {
+                "code": "fix_example_the-electrician-fixed-the-problem-quickly",
+                "text": "The electrician fixed the problem quickly."
+            },
+            {
+                "code": "fix_example_he-fixed-the-computer",
+                "text": "He fixed the computer."
+            },
+            {
+                "code": "fix_example_we-need-to-fix-the-problems-in-this-presentation",
+                "text": "We need to fix the problems in this presentation."
+            },
+            {
+                "code": "fix_example_he-fixed-his-hair-before-the-picture",
+                "text": "He fixed his hair before the picture."
+            },
+            {
+                "code": "fix_example_she-fixed-lunch-for-the-kids",
+                "text": "She fixed lunch for the kids."
+            }
+        ]
+    }
+]

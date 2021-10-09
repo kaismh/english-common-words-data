@@ -1,0 +1,114 @@
+[
+    {
+        "type": "(n)",
+        "mean": "food for animals; a digital signal",
+        "examples": [
+            {
+                "code": "feed_example_he-grows-feed-barley",
+                "text": "He grows feed barley."
+            },
+            {
+                "code": "feed_example_he-took-the-crop-to-the-feed-mill",
+                "text": "He took the crop to the feed mill."
+            },
+            {
+                "code": "feed_example_she-is-cleaning-the-animals-feed-trough",
+                "text": "She is cleaning the animals' feed trough."
+            },
+            {
+                "code": "feed_example_they-are-worried-about-running-out-of-cattle-feed",
+                "text": "They are worried about running out of cattle feed."
+            },
+            {
+                "code": "feed_example_the-satellite-feed-was-interrupted-by-bad-weather",
+                "text": "The satellite feed was interrupted by bad weather."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to give food to a person or animal; to eat; to supply something",
+        "examples": [
+            {
+                "code": "feed_example_are-you-feeding-her-well",
+                "text": "Are you feeding her well?"
+            },
+            {
+                "code": "feed_example_the-rescued-animals-had-been-poorly-fed",
+                "text": "The rescued animals had been poorly fed."
+            },
+            {
+                "code": "feed_example_she-can-barely-feed-herself",
+                "text": "She can barely feed herself."
+            },
+            {
+                "code": "feed_example_these-animals-feed-mostly-on-plants",
+                "text": "These animals feed mostly on plants."
+            },
+            {
+                "code": "feed_example_koalas-feed-exclusively-on-leaves-from-eucalyptus-trees",
+                "text": "Koalas feed exclusively on leaves from eucalyptus trees."
+            },
+            {
+                "code": "feed_example_the-data-feeds-directly-into-this-program",
+                "text": "The data feeds directly into this program."
+            },
+            {
+                "code": "feed_example_he-helps-feed-the-animals-every-morning",
+                "text": "He helps feed the animals every morning."
+            },
+            {
+                "code": "feed_example_she-can-t-afford-to-feed-her-family-organic-foods",
+                "text": "She can't afford to feed her family organic foods."
+            },
+            {
+                "code": "feed_example_he-feeds-leftovers-to-the-pigs",
+                "text": "He feeds leftovers to the pigs."
+            },
+            {
+                "code": "feed_example_the-cows-are-mostly-fed-with-corn",
+                "text": "The cows are mostly fed with corn."
+            },
+            {
+                "code": "feed_example_the-children-should-be-fed-on-time",
+                "text": "The children should be fed on time."
+            },
+            {
+                "code": "feed_example_water-is-fed-directly-into-the-pipes",
+                "text": "Water is fed directly into the pipes."
+            },
+            {
+                "code": "feed_example_the-dough-is-fed-through-the-pasta-machine",
+                "text": "The dough is fed through the pasta machine ."
+            },
+            {
+                "code": "feed_example_this-river-feeds-into-lake-michigan",
+                "text": "This river feeds into Lake Michigan."
+            },
+            {
+                "code": "feed_example_a-baby-feeds-on-milk",
+                "text": "A baby feeds on milk."
+            },
+            {
+                "code": "feed_example_she-got-up-early-to-feed-the-cat",
+                "text": "She got up early to feed the cat."
+            },
+            {
+                "code": "feed_example_she-s-trying-not-to-feed-his-ego",
+                "text": "She's trying not to feed his ego."
+            },
+            {
+                "code": "feed_example_the-dry-land-is-feeding-the-fire",
+                "text": "The dry land is feeding the fire."
+            },
+            {
+                "code": "feed_example_he-has-to-go-feed-the-parking-meter",
+                "text": "He has to go feed the parking meter."
+            },
+            {
+                "code": "feed_example_we-were-fed-a-lot-of-misinformation",
+                "text": "We were fed a lot of misinformation."
+            }
+        ]
+    }
+]

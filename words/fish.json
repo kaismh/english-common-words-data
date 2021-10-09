@@ -1,0 +1,88 @@
+[
+    {
+        "type": "(n)",
+        "mean": "an animal with scales, fins, and gills that lives and breathes in water and that can be eaten as food",
+        "examples": [
+            {
+                "code": "fish_example_he-is-interested-in-freshwater-fish",
+                "text": "He is interested in freshwater fish."
+            },
+            {
+                "code": "fish_example_they-are-doing-research-on-farmed-fish",
+                "text": "They are doing research on farmed fish."
+            },
+            {
+                "code": "fish_example_it-is-expensive-to-buy-fresh-fish-in-this-area",
+                "text": "It is expensive to buy fresh fish in this area."
+            },
+            {
+                "code": "fish_example_they-eat-a-lot-of-smoked-fish",
+                "text": "They eat a lot of smoked fish."
+            },
+            {
+                "code": "fish_example_he-prefers-to-eat-fried-fish",
+                "text": "He prefers to eat fried fish."
+            },
+            {
+                "code": "fish_example_he-caught-a-huge-fish",
+                "text": "He caught a huge fish."
+            },
+            {
+                "code": "fish_example_he-keeps-tropical-fish-in-his-aquarium",
+                "text": "He keeps tropical fish in his aquarium."
+            },
+            {
+                "code": "fish_example_the-fish-swam-around-the-aquarium",
+                "text": "The fish swam around the aquarium."
+            },
+            {
+                "code": "fish_example_we-are-having-fish-for-dinner",
+                "text": "We are having fish for dinner."
+            },
+            {
+                "code": "fish_example_she-cleaned-the-fish",
+                "text": "She cleaned the fish."
+            },
+            {
+                "code": "fish_example_you-should-marinate-the-fish-before-cooking-it",
+                "text": "You should marinate the fish before cooking it."
+            },
+            {
+                "code": "fish_example_he-baked-the-fish-for-dinner",
+                "text": "He baked the fish for dinner."
+            },
+            {
+                "code": "fish_example_fish-tastes-delicious",
+                "text": "Fish tastes delicious."
+            },
+            {
+                "code": "fish_example_there-are-many-fish-species-in-this-area",
+                "text": "There are many fish species in this area."
+            },
+            {
+                "code": "fish_example_he-has-to-clean-the-fish-bowl",
+                "text": "He has to clean the fish bowl."
+            },
+            {
+                "code": "fish_example_they-are-keeping-track-of-the-fish-population",
+                "text": "They are keeping track of the fish population."
+            },
+            {
+                "code": "fish_example_she-cooked-the-fish-fillets-for-dinner",
+                "text": "She cooked the fish fillets for dinner."
+            },
+            {
+                "code": "fish_example_make-sure-you-remove-the-fish-bones",
+                "text": "Make sure you remove the fish bones."
+            },
+            {
+                "code": "fish_example_she-went-to-the-fish-market",
+                "text": "She went to the fish market."
+            },
+            {
+                "code": "fish_example_this-recipe-uses-fish-sauce",
+                "text": "This recipe uses fish sauce."
+            }
+        ]
+    }
+]

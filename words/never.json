@@ -1,0 +1,68 @@
+[
+    {
+        "type": "(adv)",
+        "mean": "not at any time; not ever",
+        "examples": [
+            {
+                "code": "never_example_i-never-think-about-death",
+                "text": "I never think about death."
+            },
+            {
+                "code": "never_example_the-job-will-never-last",
+                "text": "The job will never last."
+            },
+            {
+                "code": "never_example_just-pretend-this-never-happened",
+                "text": "Just pretend this never happened."
+            },
+            {
+                "code": "never_example_we-never-intended-to-have-children",
+                "text": "We never intended to have children."
+            },
+            {
+                "code": "never_example_they-never-solved-the-crime",
+                "text": "They never solved the crime."
+            },
+            {
+                "code": "never_example_i-never-forgot-about-that-trip",
+                "text": "I never forgot about that trip."
+            },
+            {
+                "code": "never_example_i-never-want-to-go-there-again",
+                "text": "I never want to go there again."
+            },
+            {
+                "code": "never_example_i-never-realized-you-felt-that-way",
+                "text": "I never realized you felt that way."
+            },
+            {
+                "code": "never_example_i-never-met-her-before",
+                "text": "I never met her before."
+            },
+            {
+                "code": "never_example_he-will-never-learn",
+                "text": "He will never learn!"
+            },
+            {
+                "code": "never_example_this-movie-is-never-going-to-end",
+                "text": "This movie is never going to end."
+            },
+            {
+                "code": "never_example_you-should-never-regret-anything",
+                "text": "You should never regret anything."
+            },
+            {
+                "code": "never_example_he-never-cries-at-movies",
+                "text": "He never cries at movies."
+            },
+            {
+                "code": "never_example_she-never-recovered-from-the-death-of-her-son",
+                "text": "She never recovered from the death of her son."
+            },
+            {
+                "code": "never_example_he-never-mentioned-you-before",
+                "text": "He never mentioned you before."
+            }
+        ]
+    }
+]

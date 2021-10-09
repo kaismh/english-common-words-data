@@ -1,0 +1,80 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "official; appropriate for an important or official occasion; following an established procedure or rule",
+        "examples": [
+            {
+                "code": "formal_example_the-way-he-speaks-sounds-very-formal",
+                "text": "The way he speaks sounds very formal."
+            },
+            {
+                "code": "formal_example_the-process-has-become-more-formal-in-recent-years",
+                "text": "The process has become more formal in recent years."
+            },
+            {
+                "code": "formal_example_the-process-is-extremely-formal",
+                "text": "The process is extremely formal."
+            },
+            {
+                "code": "formal_example_his-role-is-merely-formal",
+                "text": "His role is merely formal."
+            },
+            {
+                "code": "formal_example_we-re-still-waiting-for-the-formal-announcement",
+                "text": "We're still waiting for the formal announcement."
+            },
+            {
+                "code": "formal_example_he-received-his-formal-acceptance-into-the-program",
+                "text": "He received his formal acceptance into the program."
+            },
+            {
+                "code": "formal_example_they-gave-their-formal-approval",
+                "text": "They gave their formal approval."
+            },
+            {
+                "code": "formal_example_she-never-received-any-formal-training",
+                "text": "She never received any formal training."
+            },
+            {
+                "code": "formal_example_you-need-to-meet-the-formal-requirements",
+                "text": "You need to meet the formal requirements."
+            },
+            {
+                "code": "formal_example_we-are-attending-a-formal-dinner-tonight",
+                "text": "We are attending a formal dinner tonight."
+            },
+            {
+                "code": "formal_example_this-is-subject-to-a-formal-hearing",
+                "text": "This is subject to a formal hearing."
+            },
+            {
+                "code": "formal_example_she-received-a-formal-warning",
+                "text": "She received a formal warning."
+            },
+            {
+                "code": "formal_example_there-will-be-a-formal-meeting-between-the-leaders-tonight",
+                "text": "There will be a formal meeting between the leaders tonight."
+            },
+            {
+                "code": "formal_example_there-is-a-formal-procedure-that-needs-to-be-followed",
+                "text": "There is a formal procedure that needs to be followed."
+            },
+            {
+                "code": "formal_example_he-made-a-formal-complaint",
+                "text": "He made a formal complaint."
+            },
+            {
+                "code": "formal_example_this-party-requires-formal-clothes",
+                "text": "This party requires formal clothes."
+            },
+            {
+                "code": "formal_example_he-gave-a-formal-presentation-on-the-issue",
+                "text": "He gave a formal presentation on the issue."
+            },
+            {
+                "code": "formal_example_she-submitted-her-formal-application",
+                "text": "She submitted her formal application."
+            }
+        ]
+    }
+]

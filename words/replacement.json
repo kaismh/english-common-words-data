@@ -1,0 +1,60 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a thing that takes the place of something else",
+        "examples": [
+            {
+                "code": "replacement_example_i-need-a-replacement-filter",
+                "text": "I need a replacement filter."
+            },
+            {
+                "code": "replacement_example_she-is-looking-for-a-replacement",
+                "text": "She is looking for a replacement."
+            },
+            {
+                "code": "replacement_example_we-have-to-hire-a-replacement",
+                "text": "We have to hire a replacement."
+            },
+            {
+                "code": "replacement_example_i-need-a-replacement-part-for-my-car",
+                "text": "I need a replacement part for my car."
+            },
+            {
+                "code": "replacement_example_what-is-the-replacement-cost",
+                "text": "What is the replacement cost?"
+            },
+            {
+                "code": "replacement_example_my-father-is-having-hip-replacement-surgery",
+                "text": "My father is having hip replacement surgery."
+            },
+            {
+                "code": "replacement_example_have-you-found-a-suitable-replacement",
+                "text": "Have you found a suitable replacement?"
+            },
+            {
+                "code": "replacement_example_we-need-complete-replacement-of-the-roof",
+                "text": "We need complete replacement of the roof."
+            },
+            {
+                "code": "replacement_example_he-is-her-permanent-replacement",
+                "text": "He is her permanent replacement."
+            },
+            {
+                "code": "replacement_example_she-would-be-the-ideal-replacement",
+                "text": "She would be the ideal replacement."
+            },
+            {
+                "code": "replacement_example_i-got-a-hip-replacement-surgery",
+                "text": "I got a hip replacement surgery."
+            },
+            {
+                "code": "replacement_example_he-is-the-replacement-for-me",
+                "text": "He is the replacement for me."
+            },
+            {
+                "code": "replacement_example_this-will-work-as-a-replacement",
+                "text": "This will work as a replacement."
+            }
+        ]
+    }
+]

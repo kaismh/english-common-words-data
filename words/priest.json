@@ -1,0 +1,28 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a person who is qualified to lead services or perform ceremonies in Roman Catholic churches",
+        "examples": [
+            {
+                "code": "priest_example_the-local-priest-has-performed-many-wedding-ceremonies",
+                "text": "The local priest has performed many wedding ceremonies."
+            },
+            {
+                "code": "priest_example_our-brother-became-an-ordained-priest",
+                "text": "Our brother became an ordained priest."
+            },
+            {
+                "code": "priest_example_he-is-a-catholic-priest",
+                "text": "He is a Catholic priest."
+            },
+            {
+                "code": "priest_example_he-became-a-priest",
+                "text": "He became a priest."
+            },
+            {
+                "code": "priest_example_the-local-priest-officiated-the-wedding",
+                "text": "The local priest officiated the wedding."
+            }
+        ]
+    }
+]

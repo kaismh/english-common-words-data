@@ -1,0 +1,56 @@
+[
+    {
+        "type": "(n)",
+        "mean": "an area for leaving a vehicle for a certain period of time",
+        "examples": [
+            {
+                "code": "parking_example_it-s-hard-to-find-street-parking-downtown",
+                "text": "It's hard to find street parking downtown."
+            },
+            {
+                "code": "parking_example_the-airport-offers-convenient-parking",
+                "text": "The airport offers convenient parking."
+            },
+            {
+                "code": "parking_example_his-car-was-towed-for-illegal-parking",
+                "text": "His car was towed for illegal parking."
+            },
+            {
+                "code": "parking_example_the-restaurant-offers-valet-parking",
+                "text": "The restaurant offers valet parking."
+            },
+            {
+                "code": "parking_example_we-have-to-pay-for-hourly-parking",
+                "text": "We have to pay for hourly parking."
+            },
+            {
+                "code": "parking_example_i-got-a-parking-ticket-last-week",
+                "text": "I got a parking ticket last week."
+            },
+            {
+                "code": "parking_example_there-are-no-parking-spots-available",
+                "text": "There are no parking spots available."
+            },
+            {
+                "code": "parking_example_we-should-park-in-the-parking-lot",
+                "text": "We should park in the parking lot."
+            },
+            {
+                "code": "parking_example_we-must-purchase-a-parking-pass",
+                "text": "We must purchase a parking pass."
+            },
+            {
+                "code": "parking_example_don-t-forget-to-pay-the-parking-meter",
+                "text": "Don't forget to pay the parking meter."
+            },
+            {
+                "code": "parking_example_the-parking-brake-is-broken",
+                "text": "The parking brake is broken."
+            },
+            {
+                "code": "parking_example_there-is-parking-available-for-500-cars",
+                "text": "There is parking available for 500 cars."
+            }
+        ]
+    }
+]

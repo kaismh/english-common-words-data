@@ -1,0 +1,32 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a wooden or aluminum stick used for hitting a ball in baseball or cricket; a small flying mammal that comes out at night",
+        "examples": [
+            {
+                "code": "bat_example_we-re-using-a-wooden-bat",
+                "text": "We're using a wooden bat."
+            },
+            {
+                "code": "bat_example_she-s-afraid-of-vampire-bats",
+                "text": "She's afraid of vampire bats."
+            },
+            {
+                "code": "bat_example_this-is-how-you-hold-a-bat",
+                "text": "This is how you hold a bat."
+            },
+            {
+                "code": "bat_example_bats-hang-upside-down",
+                "text": "Bats hang upside down."
+            },
+            {
+                "code": "bat_example_can-you-hear-the-bat-squeaking",
+                "text": "Can you hear the bat squeaking?"
+            },
+            {
+                "code": "bat_example_bats-fly-through-the-air-at-night",
+                "text": "Bats fly through the air at night."
+            }
+        ]
+    }
+]

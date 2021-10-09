@@ -1,0 +1,88 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a thin sheet of material that is used to write on; a thin sheet of material made from wood; a report or document; newspaper",
+        "examples": [
+            {
+                "code": "paper_example_after-she-read-my-paper-the-professor-gave-me-a-b",
+                "text": "After she read my paper, the professor gave me a B."
+            },
+            {
+                "code": "paper_example_my-friend-wrote-a-paper-for-her-english-class",
+                "text": "My friend wrote a paper for her English class."
+            },
+            {
+                "code": "paper_example_her-new-paper-will-be-presented-on-monday",
+                "text": "Her new paper will be presented on Monday."
+            },
+            {
+                "code": "paper_example_i-folded-the-paper-in-half",
+                "text": "I folded the paper in half."
+            },
+            {
+                "code": "paper_example_sign-this-paper-and-return-it",
+                "text": "Sign this paper and return it."
+            },
+            {
+                "code": "paper_example_we-recycle-paper-instead-of-throwing-it-away",
+                "text": "We recycle paper instead of throwing it away."
+            },
+            {
+                "code": "paper_example_grab-some-paper-towels-to-clean-up-this-mess",
+                "text": "Grab some paper towels to clean up this mess."
+            },
+            {
+                "code": "paper_example_bring-paper-plates-to-the-picnic",
+                "text": "Bring paper plates to the picnic."
+            },
+            {
+                "code": "paper_example_i-don-t-carry-paper-money-now-that-i-have-a-credit-card",
+                "text": "I don't carry paper money now that I have a credit card."
+            },
+            {
+                "code": "paper_example_i-like-to-use-paper-bags-at-the-grocery-store",
+                "text": "I like to use paper bags at the grocery store."
+            },
+            {
+                "code": "paper_example_use-a-paper-shredder-for-important-documents",
+                "text": "Use a paper shredder for important documents."
+            },
+            {
+                "code": "paper_example_our-paper-boy-keeps-throwing-the-newspaper-into-the-bushes",
+                "text": "Our paper boy keeps throwing the newspaper into the bushes."
+            },
+            {
+                "code": "paper_example_my-research-paper-will-be-finished-in-september",
+                "text": "My research paper will be finished in September."
+            },
+            {
+                "code": "paper_example_i-like-to-write-on-notebook-paper",
+                "text": "I like to write on notebook paper."
+            },
+            {
+                "code": "paper_example_for-the-first-day-of-school-bring-a-pack-of-construction-paper",
+                "text": "For the first day of school, bring a pack of construction paper."
+            },
+            {
+                "code": "paper_example_the-local-paper-had-a-great-article-about-fish",
+                "text": "The local paper had a great article about fish."
+            },
+            {
+                "code": "paper_example_you-will-need-to-show-your-identification-papers-at-the-border-crossing",
+                "text": "You will need to show your identification papers at the border crossing."
+            },
+            {
+                "code": "paper_example_i-am-out-of-toilet-paper",
+                "text": "I am out of toilet paper."
+            },
+            {
+                "code": "paper_example_i-will-help-you-to-put-your-ideas-down-on-paper",
+                "text": "I will help you to put your ideas down on paper."
+            },
+            {
+                "code": "paper_example_there-is-a-lot-of-interesting-news-in-the-paper-today",
+                "text": "There is a lot of interesting news in the paper today."
+            }
+        ]
+    }
+]

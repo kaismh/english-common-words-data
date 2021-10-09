@@ -1,0 +1,48 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to hold something and take it to another place",
+        "examples": [
+            {
+                "code": "carry_example_he-carried-his-luggage-to-the-car",
+                "text": "He carried his luggage to the car."
+            },
+            {
+                "code": "carry_example_she-carried-a-basket-of-flowers-down-the-aisle",
+                "text": "She carried a basket of flowers down the aisle."
+            },
+            {
+                "code": "carry_example_he-carries-a-briefcase-to-work",
+                "text": "He carries a briefcase to work."
+            },
+            {
+                "code": "carry_example_the-girls-were-carrying-buckets-of-water-from-the-beach",
+                "text": "The girls were carrying buckets of water from the beach."
+            },
+            {
+                "code": "carry_example_he-carries-a-gun-with-him-at-all-times",
+                "text": "He carries a gun with him at all times."
+            },
+            {
+                "code": "carry_example_he-quickly-carried-the-groceries-into-the-house",
+                "text": "He quickly carried the groceries into the house."
+            },
+            {
+                "code": "carry_example_she-easily-carries-her-baby-on-her-hip",
+                "text": "She easily carries her baby on her hip."
+            },
+            {
+                "code": "carry_example_he-reluctantly-carried-all-of-the-luggage-to-the-car",
+                "text": "He reluctantly carried all of the luggage to the car."
+            },
+            {
+                "code": "carry_example_she-nervously-carried-a-large-amount-of-money-in-her-purse",
+                "text": "She nervously carried a large amount of money in her purse."
+            },
+            {
+                "code": "carry_example_he-always-carries-a-lot-of-cash",
+                "text": "He always carries a lot of cash."
+            }
+        ]
+    }
+]

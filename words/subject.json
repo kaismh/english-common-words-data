@@ -1,0 +1,80 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a person or thing that is being considered or discussed; an area of study",
+        "examples": [
+            {
+                "code": "subject_example_we-are-discussing-a-complicated-subject",
+                "text": "We are discussing a complicated subject."
+            },
+            {
+                "code": "subject_example_this-book-deals-with-a-serious-subject",
+                "text": "This book deals with a serious subject."
+            },
+            {
+                "code": "subject_example_i-like-to-read-books-on-different-subjects",
+                "text": "I like to read books on different subjects."
+            },
+            {
+                "code": "subject_example_that-is-an-excellent-subject-for-discussion",
+                "text": "That is an excellent subject for discussion."
+            },
+            {
+                "code": "subject_example_what-s-your-favorite-subject-in-school",
+                "text": "What's your favorite subject in school?"
+            },
+            {
+                "code": "subject_example_math-is-a-difficult-subject-for-him",
+                "text": "Math is a difficult subject for him."
+            },
+            {
+                "code": "subject_example_we-discussed-the-subject-in-great-detail",
+                "text": "We discussed the subject in great detail."
+            },
+            {
+                "code": "subject_example_let-s-examine-this-subject-from-a-different-angle",
+                "text": "Let's examine this subject from a different angle."
+            },
+            {
+                "code": "subject_example_let-s-drop-the-subject-since-we-can-t-agree",
+                "text": "Let's drop the subject since we can't agree."
+            },
+            {
+                "code": "subject_example_you-need-to-stick-to-the-subject-at-hand",
+                "text": "You need to stick to the subject at hand."
+            },
+            {
+                "code": "subject_example_he-kept-changing-the-subject",
+                "text": "He kept changing the subject."
+            },
+            {
+                "code": "subject_example_the-subject-of-her-father-came-up-again",
+                "text": "The subject of her father came up again."
+            },
+            {
+                "code": "subject_example_she-spent-a-lifetime-studying-this-subject",
+                "text": "She spent a lifetime studying this subject."
+            },
+            {
+                "code": "subject_example_i-like-his-writing-style-but-not-his-subject-matter",
+                "text": "I like his writing style, but not his subject matter."
+            },
+            {
+                "code": "subject_example_we-are-going-to-touch-on-several-subject-areas",
+                "text": "We are going to touch on several subject areas."
+            },
+            {
+                "code": "subject_example_while-we-re-on-the-subject-let-s-have-a-good-discussion",
+                "text": "While we're on the subject, let's have a good discussion."
+            },
+            {
+                "code": "subject_example_this-is-a-great-book-on-the-subject-of-astronomy",
+                "text": "This is a great book on the subject of astronomy."
+            },
+            {
+                "code": "subject_example_he-does-well-in-every-subject",
+                "text": "He does well in every subject."
+            }
+        ]
+    }
+]

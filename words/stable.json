@@ -1,0 +1,50 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "not likely to move; safe and secure",
+        "examples": [
+            {
+                "code": "stable_example_the-chair-feels-very-stable",
+                "text": "The chair feels very stable."
+            },
+            {
+                "code": "stable_example_how-can-we-make-the-economy-more-stable",
+                "text": "How can we make the economy more stable?"
+            },
+            {
+                "code": "stable_example_their-relationship-became-very-stable",
+                "text": "Their relationship became very stable."
+            },
+            {
+                "code": "stable_example_the-deck-he-built-was-extremely-stable",
+                "text": "The deck he built was extremely stable."
+            },
+            {
+                "code": "stable_example_the-ladder-was-stable-enough-for-him-to-stand-on",
+                "text": "The ladder was stable enough for him to stand on."
+            },
+            {
+                "code": "stable_example_he-s-not-emotionally-stable-right-now",
+                "text": "He's not emotionally stable right now."
+            },
+            {
+                "code": "stable_example_my-grandfather-s-health-is-reasonably-stable",
+                "text": "My grandfather's health is reasonably stable."
+            },
+            {
+                "code": "stable_example_her-blood-pressure-is-perfectly-stable-now",
+                "text": "Her blood pressure is perfectly stable now."
+            }
+        ]
+    },
+    {
+        "type": "(n)",
+        "mean": "a building where horses are kept",
+        "examples": [
+            {
+                "code": "stable_example_we-have-to-clean-out-the-horse-stable-regularly",
+                "text": "We have to clean out the horse stable regularly."
+            }
+        ]
+    }
+]

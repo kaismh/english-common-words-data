@@ -1,0 +1,52 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to find an answer to a problem or a difficult situation",
+        "examples": [
+            {
+                "code": "solve_example_the-puzzle-has-been-completely-solved",
+                "text": "The puzzle has been completely solved."
+            },
+            {
+                "code": "solve_example_your-idea-doesn-t-really-solve-the-problem",
+                "text": "Your idea doesn't really solve the problem."
+            },
+            {
+                "code": "solve_example_how-can-we-magically-solve-this-issue",
+                "text": "How can we magically solve this issue?"
+            },
+            {
+                "code": "solve_example_the-problem-was-eventually-solved",
+                "text": "The problem was eventually solved."
+            },
+            {
+                "code": "solve_example_that-mystery-will-never-be-solved",
+                "text": "That mystery will never be solved."
+            },
+            {
+                "code": "solve_example_everyone-was-trying-to-solve-the-math-problem",
+                "text": "Everyone was trying to solve the math problem."
+            },
+            {
+                "code": "solve_example_the-teacher-gave-hints-to-help-us-solve-the-riddle",
+                "text": "The teacher gave hints to help us solve the riddle."
+            },
+            {
+                "code": "solve_example_her-plans-failed-to-solve-the-communication-issues",
+                "text": "Her plans failed to solve the communication issues."
+            },
+            {
+                "code": "solve_example_we-can-solve-this-problem-by-discussing-the-issues-together",
+                "text": "We can solve this problem by discussing the issues together."
+            },
+            {
+                "code": "solve_example_the-problem-cannot-be-solved-with-constant-interruptions",
+                "text": "The problem cannot be solved with constant interruptions."
+            },
+            {
+                "code": "solve_example_the-problem-cannot-be-solved-without-your-help",
+                "text": "The problem cannot be solved without your help."
+            }
+        ]
+    }
+]

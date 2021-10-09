@@ -1,0 +1,44 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to become legally husband and wife",
+        "examples": [
+            {
+                "code": "marry_example_he-asked-me-to-marry-him-in-december",
+                "text": "He asked me to marry him in December."
+            },
+            {
+                "code": "marry_example_we-are-going-to-marry-in-july",
+                "text": "We are going to marry in July."
+            },
+            {
+                "code": "marry_example_i-want-to-marry-my-boyfriend",
+                "text": "I want to marry my boyfriend."
+            },
+            {
+                "code": "marry_example_i-married-my-husband-in-1988",
+                "text": "I married my husband in 1988."
+            },
+            {
+                "code": "marry_example_i-want-to-marry-my-boyfriend-someday",
+                "text": "I want to marry my boyfriend someday."
+            },
+            {
+                "code": "marry_example_she-married-young",
+                "text": "She married young."
+            },
+            {
+                "code": "marry_example_he-married-into-our-family",
+                "text": "He married into our family."
+            },
+            {
+                "code": "marry_example_i-m-married-to-a-workaholic",
+                "text": "I'm married to a workaholic."
+            },
+            {
+                "code": "marry_example_she-married-me-for-money",
+                "text": "She married me for money."
+            }
+        ]
+    }
+]

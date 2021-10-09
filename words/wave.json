@@ -1,0 +1,86 @@
+[
+    {
+        "type": "(n)",
+        "mean": "moving water above the surface of the ocean, lake or river",
+        "examples": [
+            {
+                "code": "wave_example_the-swimmers-got-stuck-in-a-tidal-wave",
+                "text": "The swimmers got stuck in a tidal wave."
+            },
+            {
+                "code": "wave_example_the-surfers-waited-for-a-big-wave",
+                "text": "The surfers waited for a big wave."
+            },
+            {
+                "code": "wave_example_the-children-played-in-the-little-waves-on-the-beach",
+                "text": "The children played in the little waves on the beach."
+            },
+            {
+                "code": "wave_example_i-love-the-sound-of-crashing-waves",
+                "text": "I love the sound of crashing waves."
+            },
+            {
+                "code": "wave_example_he-loves-to-ride-the-waves-at-the-local-beach",
+                "text": "He loves to ride the waves at the local beach."
+            },
+            {
+                "code": "wave_example_the-waves-crash-against-the-rocks",
+                "text": "The waves crash against the rocks."
+            },
+            {
+                "code": "wave_example_the-kids-play-in-the-waves",
+                "text": "The kids play in the waves."
+            },
+            {
+                "code": "wave_example_she-was-splashed-by-the-waves",
+                "text": "She was splashed by the waves."
+            },
+            {
+                "code": "wave_example_they-were-playing-in-the-waves-at-the-beach",
+                "text": "They were playing in the waves at the beach."
+            },
+            {
+                "code": "wave_example_the-dolphins-jump-over-the-waves-in-the-ocean",
+                "text": "The dolphins jump over the waves in the ocean."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to move the hands back and forth to get someone's attention or say hello; to move back and forth or up and down",
+        "examples": [
+            {
+                "code": "wave_example_she-happily-waved-to-her-friend",
+                "text": "She happily waved to her friend."
+            },
+            {
+                "code": "wave_example_parents-proudly-waved-to-their-children-during-the-graduation-ceremony",
+                "text": "Parents proudly waved to their children during the graduation ceremony."
+            },
+            {
+                "code": "wave_example_he-was-waving-frantically-at-the-police-car",
+                "text": "He was waving frantically at the police car."
+            },
+            {
+                "code": "wave_example_he-shyly-waved-to-a-girl",
+                "text": "He shyly waved to a girl."
+            },
+            {
+                "code": "wave_example_the-leaves-gently-waved-in-the-wind",
+                "text": "The leaves gently waved in the wind."
+            },
+            {
+                "code": "wave_example_he-waved-to-his-friend",
+                "text": "He waved to his friend."
+            },
+            {
+                "code": "wave_example_she-waved-her-hand-at-him",
+                "text": "She waved her hand at him."
+            },
+            {
+                "code": "wave_example_he-waved-a-flag-to-get-their-attention",
+                "text": "He waved a flag to get their attention."
+            }
+        ]
+    }
+]

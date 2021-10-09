@@ -1,0 +1,56 @@
+[
+    {
+        "type": "(n)",
+        "mean": "an example or single occurrence of something",
+        "examples": [
+            {
+                "code": "instance_example_she-reported-countless-instances-of-racism-at-work",
+                "text": "She reported countless instances of racism at work."
+            },
+            {
+                "code": "instance_example_this-is-one-of-the-few-instances-where-he-stayed-quiet",
+                "text": "This is one of the few instances where he stayed quiet."
+            },
+            {
+                "code": "instance_example_that-was-definitely-an-isolated-instance",
+                "text": "That was definitely an isolated instance."
+            },
+            {
+                "code": "instance_example_please-provide-a-particular-instance-where-that-happened",
+                "text": "Please provide a particular instance where that happened."
+            },
+            {
+                "code": "instance_example_there-were-many-documented-instances-of-domestic-violence-in-her-family",
+                "text": "There were many documented instances of domestic violence in her family."
+            },
+            {
+                "code": "instance_example_students-described-many-instances-of-cheating",
+                "text": "Students described many instances of cheating."
+            },
+            {
+                "code": "instance_example_i-could-not-remember-a-similar-instance",
+                "text": "I could not remember a similar instance."
+            },
+            {
+                "code": "instance_example_please-give-a-specific-instance-where-she-was-given-special-favors",
+                "text": "Please give a specific instance where she was given special favors."
+            },
+            {
+                "code": "instance_example_the-same-instance-occurred-last-year",
+                "text": "The same instance occurred last year."
+            },
+            {
+                "code": "instance_example_this-instance-shows-the-importance-of-parenting",
+                "text": "This instance shows the importance of parenting."
+            },
+            {
+                "code": "instance_example_it-all-happened-in-one-instance",
+                "text": "It all happened in one instance."
+            },
+            {
+                "code": "instance_example_there-was-a-reported-instance-of-age-discrimination",
+                "text": "There was a reported instance of age discrimination."
+            }
+        ]
+    }
+]

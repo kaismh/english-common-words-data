@@ -1,0 +1,44 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the number of something; a sum of money",
+        "examples": [
+            {
+                "code": "amount_example_that-is-a-significant-amount-of-money",
+                "text": "That is a significant amount of money."
+            },
+            {
+                "code": "amount_example_make-sure-you-put-in-the-correct-amount",
+                "text": "Make sure you put in the correct amount."
+            },
+            {
+                "code": "amount_example_the-car-had-a-small-amount-of-damage",
+                "text": "The car had a small amount of damage."
+            },
+            {
+                "code": "amount_example_my-boss-will-double-the-bonus-amount-this-year",
+                "text": "My boss will double the bonus amount this year."
+            },
+            {
+                "code": "amount_example_calculate-the-amount-of-money-we-made-tonight",
+                "text": "Calculate the amount of money we made tonight."
+            },
+            {
+                "code": "amount_example_i-try-to-keep-a-certain-amount-of-food-for-any-unexpected-guests",
+                "text": "I try to keep a certain amount of food for any unexpected guests."
+            },
+            {
+                "code": "amount_example_did-you-calculate-the-amount-of-money",
+                "text": "Did you calculate the amount of money?"
+            },
+            {
+                "code": "amount_example_this-amount-is-for-our-rent",
+                "text": "This amount is for our rent."
+            },
+            {
+                "code": "amount_example_what-can-i-buy-with-this-amount-of-money",
+                "text": "What can I buy with this amount of money?"
+            }
+        ]
+    }
+]

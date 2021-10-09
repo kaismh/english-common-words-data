@@ -1,0 +1,64 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the way a person feels",
+        "examples": [
+            {
+                "code": "mood_example_she-is-in-a-great-mood-today",
+                "text": "She is in a great mood today."
+            },
+            {
+                "code": "mood_example_they-really-captured-the-mood-with-those-photos",
+                "text": "They really captured the mood with those photos."
+            },
+            {
+                "code": "mood_example_that-music-is-spoiling-the-mood",
+                "text": "That music is spoiling the mood."
+            },
+            {
+                "code": "mood_example_i-am-trying-to-lift-your-mood",
+                "text": "I am trying to lift your mood."
+            },
+            {
+                "code": "mood_example_the-weather-can-affect-your-mood",
+                "text": "The weather can affect your mood."
+            },
+            {
+                "code": "mood_example_i-can-t-read-his-mood",
+                "text": "I can't read his mood."
+            },
+            {
+                "code": "mood_example_the-weather-matches-your-mood",
+                "text": "The weather matches your mood."
+            },
+            {
+                "code": "mood_example_his-mood-changes-depending-on-the-weather",
+                "text": "His mood changes depending on the weather."
+            },
+            {
+                "code": "mood_example_he-is-in-a-cheerful-mood",
+                "text": "He is in a cheerful mood."
+            },
+            {
+                "code": "mood_example_his-negative-mood-brings-everyone-else-down",
+                "text": "His negative mood brings everyone else down."
+            },
+            {
+                "code": "mood_example_stay-away-from-her-because-she-is-in-a-bad-mood",
+                "text": "Stay away from her because she is in a bad mood."
+            },
+            {
+                "code": "mood_example_the-general-mood-of-the-room-was-inviting",
+                "text": "The general mood of the room was inviting."
+            },
+            {
+                "code": "mood_example_she-has-mood-swings-all-the-time",
+                "text": "She has mood swings all the time."
+            },
+            {
+                "code": "mood_example_i-think-i-have-a-mood-disorder",
+                "text": "I think I have a mood disorder."
+            }
+        ]
+    }
+]

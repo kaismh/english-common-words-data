@@ -1,0 +1,52 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a group of sports teams that compete with each other",
+        "examples": [
+            {
+                "code": "league_example_they-want-to-start-a-new-basketball-league",
+                "text": "They want to start a new basketball league."
+            },
+            {
+                "code": "league_example_he-plays-for-a-minor-league-baseball-team",
+                "text": "He plays for a minor league baseball team."
+            },
+            {
+                "code": "league_example_he-plays-hockey-for-a-local-league",
+                "text": "He plays hockey for a local league."
+            },
+            {
+                "code": "league_example_i-signed-up-to-play-in-the-summer-league",
+                "text": "I signed up to play in the summer league."
+            },
+            {
+                "code": "league_example_he-is-starting-a-professional-baseball-league",
+                "text": "He is starting a professional baseball league."
+            },
+            {
+                "code": "league_example_the-team-joined-a-new-league-last-year",
+                "text": "The team joined a new league last year."
+            },
+            {
+                "code": "league_example_our-team-dominated-the-league",
+                "text": "Our team dominated the league."
+            },
+            {
+                "code": "league_example_we-won-the-league-championship",
+                "text": "We won the league championship."
+            },
+            {
+                "code": "league_example_they-are-the-league-champions",
+                "text": "They are the league champions."
+            },
+            {
+                "code": "league_example_she-set-a-league-record-for-points",
+                "text": "She set a league record for points."
+            },
+            {
+                "code": "league_example_the-team-is-now-in-a-different-league",
+                "text": "The team is now in a different league."
+            }
+        ]
+    }
+]

@@ -1,0 +1,56 @@
+[
+    {
+        "type": "(n)",
+        "mean": "someone who travels for pleasure",
+        "examples": [
+            {
+                "code": "tourist_example_there-are-many-foreign-tourists-here",
+                "text": "There are many foreign tourists here."
+            },
+            {
+                "code": "tourist_example_the-statue-of-liberty-brings-many-tourists-to-new-york",
+                "text": "The Statue of Liberty brings many tourists to New York."
+            },
+            {
+                "code": "tourist_example_tourists-shop-for-souvenirs",
+                "text": "Tourists shop for souvenirs."
+            },
+            {
+                "code": "tourist_example_the-tourist-lost-his-passport",
+                "text": "The tourist lost his passport."
+            },
+            {
+                "code": "tourist_example_tourists-visit-many-landmarks-all-over-the-world",
+                "text": "Tourists visit many landmarks all over the world."
+            },
+            {
+                "code": "tourist_example_that-is-a-favorite-tourist-site",
+                "text": "That is a favorite tourist site."
+            },
+            {
+                "code": "tourist_example_the-ferris-wheel-is-a-big-tourist-attraction",
+                "text": "The Ferris Wheel is a big tourist attraction."
+            },
+            {
+                "code": "tourist_example_he-picked-up-a-tourist-map-of-the-city",
+                "text": "He picked up a tourist map of the city."
+            },
+            {
+                "code": "tourist_example_there-are-many-tourist-hotels-near-the-airport",
+                "text": "There are many tourist hotels near the airport."
+            },
+            {
+                "code": "tourist_example_the-tourist-business-in-that-city-is-fading",
+                "text": "The tourist business in that city is fading."
+            },
+            {
+                "code": "tourist_example_visit-the-local-tourist-office",
+                "text": "Visit the local tourist office."
+            },
+            {
+                "code": "tourist_example_there-are-not-enough-hotel-rooms-during-tourist-season",
+                "text": "There are not enough hotel rooms during tourist season."
+            }
+        ]
+    }
+]

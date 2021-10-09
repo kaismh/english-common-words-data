@@ -1,0 +1,52 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "prepared",
+        "examples": [
+            {
+                "code": "ready_example_she-looks-ready-to-leave",
+                "text": "She looks ready to leave."
+            },
+            {
+                "code": "ready_example_the-army-remains-ready-to-attack-at-all-times",
+                "text": "The army remains ready to attack at all times."
+            },
+            {
+                "code": "ready_example_i-got-ready-to-go",
+                "text": "I got ready to go."
+            },
+            {
+                "code": "ready_example_he-always-has-ready-cash",
+                "text": "He always has ready cash."
+            },
+            {
+                "code": "ready_example_you-are-obviously-ready-to-drive",
+                "text": "You are obviously ready to drive."
+            },
+            {
+                "code": "ready_example_she-is-almost-ready-for-her-performance",
+                "text": "She is almost ready for her performance."
+            },
+            {
+                "code": "ready_example_i-am-always-ready-to-move-to-hawaii",
+                "text": "I am always ready to move to Hawaii."
+            },
+            {
+                "code": "ready_example_she-is-completely-ready-to-answer-their-questions",
+                "text": "She is completely ready to answer their questions."
+            },
+            {
+                "code": "ready_example_she-is-not-physically-ready-to-go-back-to-school",
+                "text": "She is not physically ready to go back to school."
+            },
+            {
+                "code": "ready_example_i-am-ready-for-work",
+                "text": "I am ready for work."
+            },
+            {
+                "code": "ready_example_she-was-ready-with-a-response",
+                "text": "She was ready with a response."
+            }
+        ]
+    }
+]

@@ -1,0 +1,134 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the act of examining something to make sure it is correct and in good condition; stopping someone or something; a means of paying from a bank account; a restaurant bill",
+        "examples": [
+            {
+                "code": "check_example_airplanes-need-a-complete-check-before-flying",
+                "text": "Airplanes need a complete check before flying."
+            },
+            {
+                "code": "check_example_he-made-a-quick-check-of-his-essay-before-turning-it-in",
+                "text": "He made a quick check of his essay before turning it in."
+            },
+            {
+                "code": "check_example_your-car-needs-periodic-checks",
+                "text": "Your car needs periodic checks."
+            },
+            {
+                "code": "check_example_we-should-give-the-presentation-one-final-check",
+                "text": "We should give the presentation one final check."
+            },
+            {
+                "code": "check_example_the-athletes-received-random-checks-for-drugs",
+                "text": "The athletes received random checks for drugs."
+            },
+            {
+                "code": "check_example_all-applicants-must-pass-a-background-check",
+                "text": "All applicants must pass a background check."
+            },
+            {
+                "code": "check_example_we-had-to-wait-for-a-passport-check-at-the-border",
+                "text": "We had to wait for a passport check at the border."
+            },
+            {
+                "code": "check_example_spell-check-helps-me-to-correct-my-errors",
+                "text": "Spell check helps me to correct my errors."
+            },
+            {
+                "code": "check_example_before-the-concert-they-ran-a-sound-check",
+                "text": "Before the concert, they ran a sound check."
+            },
+            {
+                "code": "check_example_i-ll-pay-the-dinner-check",
+                "text": "I'll pay the dinner check."
+            },
+            {
+                "code": "check_example_the-insurance-company-gave-us-a-big-check",
+                "text": "The insurance company gave us a big check."
+            },
+            {
+                "code": "check_example_my-boss-gave-us-a-blank-check-to-purchase-office-supplies",
+                "text": "My boss gave us a blank check to purchase office supplies."
+            },
+            {
+                "code": "check_example_she-gets-a-monthly-check-from-her-parents",
+                "text": "She gets a monthly check from her parents."
+            },
+            {
+                "code": "check_example_she-wrote-me-a-bad-check",
+                "text": "She wrote me a bad check."
+            },
+            {
+                "code": "check_example_the-police-are-running-a-background-check",
+                "text": "The police are running a background check."
+            },
+            {
+                "code": "check_example_the-law-keeps-us-in-check",
+                "text": "The law keeps us in check."
+            },
+            {
+                "code": "check_example_may-we-have-the-check",
+                "text": "May we have the check?"
+            },
+            {
+                "code": "check_example_don-t-forget-to-sign-your-check",
+                "text": "Don't forget to sign your check."
+            },
+            {
+                "code": "check_example_did-you-remember-to-deposit-your-check",
+                "text": "Did you remember to deposit your check?"
+            },
+            {
+                "code": "check_example_can-i-pay-by-check",
+                "text": "Can I pay by check?"
+            },
+            {
+                "code": "check_example_they-don-t-accept-checks-here",
+                "text": "They don't accept checks here."
+            },
+            {
+                "code": "check_example_his-check-bounced",
+                "text": "His check bounced."
+            },
+            {
+                "code": "check_example_let-me-see-your-check-book",
+                "text": "Let me see your check book."
+            },
+            {
+                "code": "check_example_they-run-periodic-checks-on-the-machinery",
+                "text": "They run periodic checks on the machinery."
+            },
+            {
+                "code": "check_example_may-i-have-the-check-for-our-table",
+                "text": "May I have the check for our table?"
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to examine to make sure things are correct and in good condition",
+        "examples": [
+            {
+                "code": "check_example_i-always-check-all-of-the-doors-and-windows-at-night",
+                "text": "I always check all of the doors and windows at night."
+            },
+            {
+                "code": "check_example_you-should-periodically-check-your-smoke-detectors",
+                "text": "You should periodically check your smoke detectors."
+            },
+            {
+                "code": "check_example_she-needs-to-check-with-her-mother-first",
+                "text": "She needs to check with her mother first."
+            },
+            {
+                "code": "check_example_he-s-checking-the-house-for-mice",
+                "text": "He's checking the house for mice."
+            },
+            {
+                "code": "check_example_i-ll-need-to-check-with-my-manager",
+                "text": "I'll need to check with my manager."
+            }
+        ]
+    }
+]

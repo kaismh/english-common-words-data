@@ -1,0 +1,36 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to say that you are not happy about something",
+        "examples": [
+            {
+                "code": "complain_example_he-loudly-complained-about-the-bad-service",
+                "text": "He loudly complained about the bad service."
+            },
+            {
+                "code": "complain_example_the-workers-often-complain-about-their-paychecks",
+                "text": "The workers often complain about their paychecks."
+            },
+            {
+                "code": "complain_example_she-repeatedly-complained-about-her-neighbor-s-noise",
+                "text": "She repeatedly complained about her neighbor's noise."
+            },
+            {
+                "code": "complain_example_she-privately-complained-to-the-waiter",
+                "text": "She privately complained to the waiter."
+            },
+            {
+                "code": "complain_example_the-neighbors-below-us-complain-about-everything",
+                "text": "The neighbors below us complain about everything."
+            },
+            {
+                "code": "complain_example_he-likes-to-complain-at-every-little-thing",
+                "text": "He likes to complain at every little thing."
+            },
+            {
+                "code": "complain_example_please-complain-to-the-manager-if-anything-is-wrong",
+                "text": "Please complain to the manager if anything is wrong."
+            }
+        ]
+    }
+]

@@ -1,0 +1,100 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a short report or outline",
+        "examples": [
+            {
+                "code": "brief_example_he-gave-a-detailed-brief",
+                "text": "He gave a detailed brief."
+            },
+            {
+                "code": "brief_example_we-heard-the-story-during-the-news-brief",
+                "text": "We heard the story during the news brief."
+            },
+            {
+                "code": "brief_example_he-is-preparing-his-legal-brief-for-the-court",
+                "text": "He is preparing his legal brief for the court."
+            },
+            {
+                "code": "brief_example_she-is-preparing-her-brief",
+                "text": "She is preparing her brief."
+            },
+            {
+                "code": "brief_example_the-details-in-the-brief-are-very-important",
+                "text": "The details in the brief are very important."
+            },
+            {
+                "code": "brief_example_this-brief-is-on-the-annual-budget",
+                "text": "This brief is on the annual budget."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to give someone information",
+        "examples": [
+            {
+                "code": "brief_example_the-president-was-fully-briefed-on-the-situation",
+                "text": "The president was fully briefed on the situation."
+            },
+            {
+                "code": "brief_example_they-will-brief-us-on-the-new-policy",
+                "text": "They will brief us on the new policy."
+            }
+        ]
+    },
+    {
+        "type": "(adj)",
+        "mean": "lasting a short amount of time",
+        "examples": [
+            {
+                "code": "brief_example_this-meeting-will-be-brief",
+                "text": "This meeting will be brief."
+            },
+            {
+                "code": "brief_example_please-keep-your-questions-brief",
+                "text": "Please keep your questions brief."
+            },
+            {
+                "code": "brief_example_our-vacation-was-extremely-brief",
+                "text": "Our vacation was extremely brief."
+            },
+            {
+                "code": "brief_example_today-s-meeting-was-relatively-brief",
+                "text": "Today's meeting was relatively brief."
+            },
+            {
+                "code": "brief_example_we-were-given-a-brief-account-of-what-happened",
+                "text": "We were given a brief account of what happened."
+            },
+            {
+                "code": "brief_example_he-made-a-brief-appearance-on-the-show",
+                "text": "He made a brief appearance on the show."
+            },
+            {
+                "code": "brief_example_she-had-a-brief-career-in-singing",
+                "text": "She had a brief career in singing."
+            },
+            {
+                "code": "brief_example_they-had-a-brief-discussion-about-politics",
+                "text": "They had a brief discussion about politics."
+            },
+            {
+                "code": "brief_example_they-started-the-show-after-a-brief-introduction",
+                "text": "They started the show after a brief introduction."
+            },
+            {
+                "code": "brief_example_she-gave-a-brief-outline-on-the-issue",
+                "text": "She gave a brief outline on the issue."
+            },
+            {
+                "code": "brief_example_they-had-a-brief-relationship",
+                "text": "They had a brief relationship."
+            },
+            {
+                "code": "brief_example_for-a-brief-moment-i-thought-i-was-having-a-dream",
+                "text": "For a brief moment, I thought I was having a dream."
+            }
+        ]
+    }
+]

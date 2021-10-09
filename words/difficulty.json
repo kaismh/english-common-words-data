@@ -1,0 +1,60 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a problem; a situation that causes problems",
+        "examples": [
+            {
+                "code": "difficulty_example_he-walks-with-considerable-difficulty",
+                "text": "He walks with considerable difficulty."
+            },
+            {
+                "code": "difficulty_example_they-have-had-increasing-difficulty-in-filling-that-position",
+                "text": "They have had increasing difficulty in filling that position."
+            },
+            {
+                "code": "difficulty_example_this-plan-presents-a-potential-difficulty",
+                "text": "This plan presents a potential difficulty."
+            },
+            {
+                "code": "difficulty_example_we-knew-it-would-be-an-economic-difficulty",
+                "text": "We knew it would be an economic difficulty."
+            },
+            {
+                "code": "difficulty_example_the-child-has-emotional-difficulty",
+                "text": "The child has emotional difficulty."
+            },
+            {
+                "code": "difficulty_example_you-will-encounter-difficulty",
+                "text": "You will encounter difficulty."
+            },
+            {
+                "code": "difficulty_example_i-don-t-mean-to-cause-any-difficulties-in-the-situation",
+                "text": "I don't mean to cause any difficulties in the situation."
+            },
+            {
+                "code": "difficulty_example_i-admire-her-ability-to-cope-with-difficulty",
+                "text": "I admire her ability to cope with difficulty."
+            },
+            {
+                "code": "difficulty_example_it-s-impossible-to-avoid-difficulty",
+                "text": "It's impossible to avoid difficulty."
+            },
+            {
+                "code": "difficulty_example_she-goes-to-work-despite-her-difficulty",
+                "text": "She goes to work despite her difficulty."
+            },
+            {
+                "code": "difficulty_example_we-hiked-the-mountain-with-difficulty",
+                "text": "We hiked the mountain with difficulty."
+            },
+            {
+                "code": "difficulty_example_the-difficulty-of-finding-a-job-frustrated-him",
+                "text": "The difficulty of finding a job frustrated him."
+            },
+            {
+                "code": "difficulty_example_my-father-has-difficulty-with-the-computer",
+                "text": "My father has difficulty with the computer."
+            }
+        ]
+    }
+]

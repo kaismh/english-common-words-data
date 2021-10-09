@@ -1,0 +1,44 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to fight off; to refuse to accept something",
+        "examples": [
+            {
+                "code": "resist_example_he-resisted-the-attack",
+                "text": "He resisted the attack."
+            },
+            {
+                "code": "resist_example_i-resisted-the-impulse-to-flee",
+                "text": "I resisted the impulse to flee."
+            },
+            {
+                "code": "resist_example_he-was-charged-with-resisting-arrest",
+                "text": "He was charged with resisting arrest."
+            },
+            {
+                "code": "resist_example_they-are-trying-to-resist-change",
+                "text": "They are trying to resist change."
+            },
+            {
+                "code": "resist_example_they-successfully-resisted-the-attack",
+                "text": "They successfully resisted the attack."
+            },
+            {
+                "code": "resist_example_he-stubbornly-resisted-any-help",
+                "text": "He stubbornly resisted any help."
+            },
+            {
+                "code": "resist_example_i-managed-to-resist-his-advances",
+                "text": "I managed to resist his advances."
+            },
+            {
+                "code": "resist_example_she-is-hard-to-resist",
+                "text": "She is hard to resist."
+            },
+            {
+                "code": "resist_example_no-one-can-resist-his-charm",
+                "text": "No one can resist his charm."
+            }
+        ]
+    }
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the act of joining people together to form a group; an organization to protect workers' rights",
+        "examples": [
+            {
+                "code": "union_example_the-workers-union-decided-to-strike",
+                "text": "The workers' union decided to strike."
+            },
+            {
+                "code": "union_example_the-students-union-is-meeting-in-the-cafeteria",
+                "text": "The students' union is meeting in the cafeteria."
+            },
+            {
+                "code": "union_example_the-couple-joined-in-a-civil-union",
+                "text": "The couple joined in a civil union."
+            },
+            {
+                "code": "union_example_the-teachers-formed-a-union",
+                "text": "The teachers formed a union."
+            },
+            {
+                "code": "union_example_she-joined-a-labor-union",
+                "text": "She joined a labor union."
+            },
+            {
+                "code": "union_example_the-union-rejected-the-contract",
+                "text": "The union rejected the contract."
+            },
+            {
+                "code": "union_example_the-union-threatened-to-strike",
+                "text": "The union threatened to strike."
+            },
+            {
+                "code": "union_example_some-states-are-allowing-same-sex-unions",
+                "text": "Some states are allowing same-sex unions."
+            },
+            {
+                "code": "union_example_there-was-a-civil-union-between-the-two-countries",
+                "text": "There was a civil union between the two countries."
+            },
+            {
+                "code": "union_example_she-joined-in-a-civil-union-with-her-long-time-partner",
+                "text": "She joined in a civil union with her long-time partner."
+            },
+            {
+                "code": "union_example_he-is-a-union-member",
+                "text": "He is a union member."
+            }
+        ]
+    }
+]

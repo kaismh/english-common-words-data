@@ -1,0 +1,32 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to join or connect something to something else",
+        "examples": [
+            {
+                "code": "attach_example_securely-attach-the-handle-to-the-box",
+                "text": "Securely attach the handle to the box."
+            },
+            {
+                "code": "attach_example_he-carefully-attached-a-corsage-to-his-date-s-dress",
+                "text": "He carefully attached a corsage to his date's dress."
+            },
+            {
+                "code": "attach_example_he-attached-the-document-to-the-email",
+                "text": "He attached the document to the email."
+            },
+            {
+                "code": "attach_example_make-sure-to-attach-your-resume-with-your-application",
+                "text": "Make sure to attach your resume with your application."
+            },
+            {
+                "code": "attach_example_she-attached-the-badge-with-a-safety-pin",
+                "text": "She attached the badge with a safety pin."
+            },
+            {
+                "code": "attach_example_attach-the-picture-to-your-email",
+                "text": "Attach the picture to your email."
+            }
+        ]
+    }
+]

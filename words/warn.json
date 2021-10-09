@@ -1,0 +1,40 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to tell someone about a danger or a bad thing that might happen",
+        "examples": [
+            {
+                "code": "warn_example_she-constantly-warns-her-children-not-to-touch-the-stove",
+                "text": "She constantly warns her children not to touch the stove."
+            },
+            {
+                "code": "warn_example_the-cigarette-label-clearly-warns-about-the-dangers-of-smoking",
+                "text": "The cigarette label clearly warns about the dangers of smoking."
+            },
+            {
+                "code": "warn_example_they-were-publicly-warned-about-the-hurricane",
+                "text": "They were publicly warned about the hurricane."
+            },
+            {
+                "code": "warn_example_i-must-warn-you-that-the-boss-is-in-a-bad-mood",
+                "text": "I must warn you that the boss is in a bad mood."
+            },
+            {
+                "code": "warn_example_we-tried-to-warn-everyone-about-the-storm",
+                "text": "We tried to warn everyone about the storm."
+            },
+            {
+                "code": "warn_example_he-failed-to-warn-the-others-about-the-fire",
+                "text": "He failed to warn the others about the fire."
+            },
+            {
+                "code": "warn_example_we-were-warned-about-the-sharks-at-the-beach",
+                "text": "We were warned about the sharks at the beach."
+            },
+            {
+                "code": "warn_example_we-were-not-warned-against-going-into-the-lake",
+                "text": "We were not warned against going into the lake."
+            }
+        ]
+    }
+]

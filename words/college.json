@@ -1,0 +1,76 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a school people attend after high school for career training",
+        "examples": [
+            {
+                "code": "college_example_i-am-going-to-a-local-college",
+                "text": "I am going to a local college."
+            },
+            {
+                "code": "college_example_he-teaches-at-a-technical-college",
+                "text": "He teaches at a technical college."
+            },
+            {
+                "code": "college_example_did-you-attend-college",
+                "text": "Did you attend college?"
+            },
+            {
+                "code": "college_example_she-dropped-out-of-college",
+                "text": "She dropped out of college."
+            },
+            {
+                "code": "college_example_our-college-attracts-many-students",
+                "text": "Our college attracts many students."
+            },
+            {
+                "code": "college_example_what-courses-does-this-college-offer",
+                "text": "What courses does this college offer?"
+            },
+            {
+                "code": "college_example_she-s-a-college-administrator",
+                "text": "She's a college administrator."
+            },
+            {
+                "code": "college_example_you-ll-need-to-talk-to-the-college-president",
+                "text": "You'll need to talk to the college president."
+            },
+            {
+                "code": "college_example_i-m-meeting-an-old-college-friend",
+                "text": "I'm meeting an old college friend."
+            },
+            {
+                "code": "college_example_where-is-the-college-campus",
+                "text": "Where is the college campus?"
+            },
+            {
+                "code": "college_example_i-want-to-get-a-college-degree",
+                "text": "I want to get a college degree."
+            },
+            {
+                "code": "college_example_we-loved-college-life",
+                "text": "We loved college life."
+            },
+            {
+                "code": "college_example_i-can-t-afford-college-tuition",
+                "text": "I can't afford college tuition."
+            },
+            {
+                "code": "college_example_let-s-watch-college-basketball",
+                "text": "Let's watch college basketball."
+            },
+            {
+                "code": "college_example_she-s-away-at-college",
+                "text": "She's away at college."
+            },
+            {
+                "code": "college_example_did-you-do-well-in-college",
+                "text": "Did you do well in college?"
+            },
+            {
+                "code": "college_example_he-wants-to-go-to-college",
+                "text": "He wants to go to college."
+            }
+        ]
+    }
+]

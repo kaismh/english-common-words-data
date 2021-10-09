@@ -1,0 +1,32 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "having a long distance from the top of something to the bottom; having a low voice or sound; showing strong feelings",
+        "examples": [
+            {
+                "code": "deep_example_the-ocean-is-deep",
+                "text": "The ocean is deep."
+            },
+            {
+                "code": "deep_example_the-boy-s-voice-is-deep",
+                "text": "The boy's voice is deep."
+            },
+            {
+                "code": "deep_example_the-lake-is-extremely-deep",
+                "text": "The lake is extremely deep."
+            },
+            {
+                "code": "deep_example_his-stories-have-very-deep-meanings",
+                "text": "His stories have very deep meanings."
+            },
+            {
+                "code": "deep_example_the-man-felt-deep-anger",
+                "text": "The man felt deep anger."
+            },
+            {
+                "code": "deep_example_she-experienced-deep-happiness",
+                "text": "She experienced deep happiness."
+            }
+        ]
+    }
+]

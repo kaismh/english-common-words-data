@@ -1,0 +1,32 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "reasonable; making sense",
+        "examples": [
+            {
+                "code": "logical_example_his-explanation-is-quite-logical",
+                "text": "His explanation is quite logical."
+            },
+            {
+                "code": "logical_example_her-argument-seemed-perfectly-logical",
+                "text": "Her argument seemed perfectly logical."
+            },
+            {
+                "code": "logical_example_what-he-was-saying-was-hardly-logical",
+                "text": "What he was saying was hardly logical."
+            },
+            {
+                "code": "logical_example_there-is-no-logical-explanation-for-this",
+                "text": "There is no logical explanation for this."
+            },
+            {
+                "code": "logical_example_he-made-the-logical-choice-of-hiring-her",
+                "text": "He made the logical choice of hiring her."
+            },
+            {
+                "code": "logical_example_the-task-requires-some-logical-thinking",
+                "text": "The task requires some logical thinking."
+            }
+        ]
+    }
+]

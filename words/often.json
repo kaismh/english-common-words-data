@@ -1,0 +1,60 @@
+[
+    {
+        "type": "(adv)",
+        "mean": "frequently; many times",
+        "examples": [
+            {
+                "code": "often_example_this-situation-arises-often",
+                "text": "This situation arises often."
+            },
+            {
+                "code": "often_example_i-often-wonder-what-would-have-happened",
+                "text": "I often wonder what would have happened."
+            },
+            {
+                "code": "often_example_he-often-goes-to-church",
+                "text": "He often goes to church."
+            },
+            {
+                "code": "often_example_i-need-to-visit-them-more-often",
+                "text": "I need to visit them more often."
+            },
+            {
+                "code": "often_example_he-often-appears-out-of-nowhere",
+                "text": "He often appears out of nowhere."
+            },
+            {
+                "code": "often_example_i-often-exceed-the-speed-limit",
+                "text": "I often exceed the speed limit."
+            },
+            {
+                "code": "often_example_he-often-eats-alone",
+                "text": "He often eats alone."
+            },
+            {
+                "code": "often_example_he-often-misses-baseball-practice",
+                "text": "He often misses baseball practice."
+            },
+            {
+                "code": "often_example_she-is-often-alone",
+                "text": "She is often alone."
+            },
+            {
+                "code": "often_example_this-restaurant-is-often-busy",
+                "text": "This restaurant is often busy."
+            },
+            {
+                "code": "often_example_she-is-often-scared-to-try-new-things",
+                "text": "She is often scared to try new things."
+            },
+            {
+                "code": "often_example_they-are-often-late-to-school",
+                "text": "They are often late to school."
+            },
+            {
+                "code": "often_example_he-is-often-mad-at-his-parents",
+                "text": "He is often mad at his parents."
+            }
+        ]
+    }
+]

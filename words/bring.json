@@ -1,0 +1,44 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to come to a place with someone or something",
+        "examples": [
+            {
+                "code": "bring_example_i-will-gladly-bring-my-new-wife-to-the-party",
+                "text": "I will gladly bring my new wife to the party."
+            },
+            {
+                "code": "bring_example_please-bring-me-the-check",
+                "text": "Please bring me the check."
+            },
+            {
+                "code": "bring_example_he-brings-chaos-wherever-he-goes",
+                "text": "He brings chaos wherever he goes."
+            },
+            {
+                "code": "bring_example_i-hope-the-verdict-will-bring-them-closure",
+                "text": "I hope the verdict will bring them closure."
+            },
+            {
+                "code": "bring_example_the-baby-brings-the-new-parents-enjoyment",
+                "text": "The baby brings the new parents enjoyment."
+            },
+            {
+                "code": "bring_example_the-rescue-workers-bring-great-hope-to-the-devastated-area",
+                "text": "The rescue workers bring great hope to the devastated area."
+            },
+            {
+                "code": "bring_example_she-brought-bad-news",
+                "text": "She brought bad news."
+            },
+            {
+                "code": "bring_example_please-bring-help",
+                "text": "Please bring help!"
+            },
+            {
+                "code": "bring_example_she-will-bring-a-guest-to-the-wedding",
+                "text": "She will bring a guest to the wedding."
+            }
+        ]
+    }
+]

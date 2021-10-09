@@ -1,0 +1,28 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a part of an area of business; a part of a large group",
+        "examples": [
+            {
+                "code": "sector_example_farming-is-an-important-sector-of-our-economy",
+                "text": "Farming is an important sector of our economy."
+            },
+            {
+                "code": "sector_example_oil-is-a-growing-sector-in-the-middle-east",
+                "text": "Oil is a growing sector in the Middle East."
+            },
+            {
+                "code": "sector_example_the-law-will-only-apply-to-the-business-sector",
+                "text": "The law will only apply to the business sector."
+            },
+            {
+                "code": "sector_example_he-is-part-of-a-private-sector",
+                "text": "He is part of a private sector."
+            },
+            {
+                "code": "sector_example_there-are-more-restrictions-in-the-public-sector",
+                "text": "There are more restrictions in the public sector."
+            }
+        ]
+    }
+]

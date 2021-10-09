@@ -1,0 +1,72 @@
+[
+    {
+        "type": "(n)",
+        "mean": "cooking instructions",
+        "examples": [
+            {
+                "code": "recipe_example_she-followed-the-recipe-exactly",
+                "text": "She followed the recipe exactly."
+            },
+            {
+                "code": "recipe_example_i-tried-a-new-recipe",
+                "text": "I tried a new recipe."
+            },
+            {
+                "code": "recipe_example_i-gave-her-a-good-recipe",
+                "text": "I gave her a good recipe."
+            },
+            {
+                "code": "recipe_example_i-have-a-recipe-for-fruit-cake",
+                "text": "I have a recipe for fruit cake."
+            },
+            {
+                "code": "recipe_example_i-created-my-own-recipe",
+                "text": "I created my own recipe."
+            },
+            {
+                "code": "recipe_example_the-recipe-makes-a-dozen-muffins",
+                "text": "The recipe makes a dozen muffins."
+            },
+            {
+                "code": "recipe_example_the-recipe-serves-four-people",
+                "text": "The recipe serves four people."
+            },
+            {
+                "code": "recipe_example_the-recipe-requires-a-cup-of-flour",
+                "text": "The recipe requires a cup of flour."
+            },
+            {
+                "code": "recipe_example_do-you-have-any-new-recipe-ideas",
+                "text": "Do you have any new recipe ideas?"
+            },
+            {
+                "code": "recipe_example_i-gave-her-a-recipe-book",
+                "text": "I gave her a recipe book."
+            },
+            {
+                "code": "recipe_example_i-used-a-traditional-recipe",
+                "text": "I used a traditional recipe."
+            },
+            {
+                "code": "recipe_example_i-have-a-special-recipe-for-blueberry-pie",
+                "text": "I have a special recipe for blueberry pie."
+            },
+            {
+                "code": "recipe_example_that-s-my-favorite-recipe-for-cupcakes",
+                "text": "That's my favorite recipe for cupcakes."
+            },
+            {
+                "code": "recipe_example_i-have-a-new-delicious-recipe-for-apple-pie",
+                "text": "I have a new delicious recipe for apple pie."
+            },
+            {
+                "code": "recipe_example_i-am-looking-for-low-fat-recipes",
+                "text": "I am looking for low-fat recipes."
+            },
+            {
+                "code": "recipe_example_do-you-have-a-recipe-for-chocolate-cake",
+                "text": "Do you have a recipe for chocolate cake?"
+            }
+        ]
+    }
+]

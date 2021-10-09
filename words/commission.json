@@ -1,0 +1,36 @@
+[
+    {
+        "type": "(n)",
+        "mean": "money paid for providing a service or for selling something",
+        "examples": [
+            {
+                "code": "commission_example_he-is-paid-a-high-commission-for-each-sale",
+                "text": "He is paid a high commission for each sale."
+            },
+            {
+                "code": "commission_example_the-salesman-gets-a-small-commission-for-selling-cheap-goods",
+                "text": "The salesman gets a small commission for selling cheap goods."
+            },
+            {
+                "code": "commission_example_the-banker-has-a-fixed-commission-that-does-not-change",
+                "text": "The banker has a fixed commission that does not change."
+            },
+            {
+                "code": "commission_example_we-earn-commission-for-everything-we-sell",
+                "text": "We earn commission for everything we sell."
+            },
+            {
+                "code": "commission_example_does-the-company-pay-commission",
+                "text": "Does the company pay commission?"
+            },
+            {
+                "code": "commission_example_he-earned-5000-dollars-in-commission",
+                "text": "He earned 5,000 dollars in commission."
+            },
+            {
+                "code": "commission_example_they-receive-a-20-commission-for-every-product-they-sell",
+                "text": "They receive a 20% commission for every product they sell."
+            }
+        ]
+    }
+]

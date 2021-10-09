@@ -1,0 +1,32 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a large amount; a large piece of land",
+        "examples": [
+            {
+                "code": "lot_example_they-had-an-awful-lot-of-work-to-do",
+                "text": "They had an awful lot of work to do."
+            },
+            {
+                "code": "lot_example_we-were-allowed-to-park-our-cars-on-the-empty-lot",
+                "text": "We were allowed to park our cars on the empty lot."
+            },
+            {
+                "code": "lot_example_the-city-converted-an-abandoned-lot-into-a-park",
+                "text": "The city converted an abandoned lot into a park."
+            },
+            {
+                "code": "lot_example_our-home-was-built-on-a-small-lot",
+                "text": "Our home was built on a small lot."
+            },
+            {
+                "code": "lot_example_we-ran-into-each-other-in-the-parking-lot",
+                "text": "We ran into each other in the parking lot."
+            },
+            {
+                "code": "lot_example_the-apartments-were-built-on-a-vacant-lot",
+                "text": "The apartments were built on a vacant lot."
+            }
+        ]
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the act of making something better",
+        "examples": [
+            {
+                "code": "improvement_example_we-were-hoping-for-a-significant-improvement",
+                "text": "We were hoping for a significant improvement."
+            },
+            {
+                "code": "improvement_example_we-saw-a-slight-improvement-from-the-last-test",
+                "text": "We saw a slight improvement from the last test."
+            },
+            {
+                "code": "improvement_example_he-made-some-noticeable-improvements-to-his-house",
+                "text": "He made some noticeable improvements to his house."
+            },
+            {
+                "code": "improvement_example_we-saw-a-gradual-improvement-in-his-writing",
+                "text": "We saw a gradual improvement in his writing."
+            },
+            {
+                "code": "improvement_example_the-suggested-improvements-were-not-completed",
+                "text": "The suggested improvements were not completed."
+            },
+            {
+                "code": "improvement_example_his-last-test-score-reflected-an-improvement-in-math",
+                "text": "His last test score reflected an improvement in math."
+            },
+            {
+                "code": "improvement_example_i-hope-she-maintains-her-improvement-in-math",
+                "text": "I hope she maintains her improvement in math."
+            },
+            {
+                "code": "improvement_example_he-made-steady-improvements-at-work",
+                "text": "He made steady improvements at work."
+            },
+            {
+                "code": "improvement_example_the-boss-demanded-improvements-in-production",
+                "text": "The boss demanded improvements in production."
+            },
+            {
+                "code": "improvement_example_the-new-school-program-produced-improvements-in-reading",
+                "text": "The new school program produced improvements in reading."
+            },
+            {
+                "code": "improvement_example_the-old-house-requires-substantial-improvements-before-the-new-owners-can-move-in",
+                "text": "The old house requires substantial improvements before the new owners can move in."
+            },
+            {
+                "code": "improvement_example_the-doctor-suggested-certain-improvements-to-his-diet",
+                "text": "The doctor suggested certain improvements to his diet."
+            },
+            {
+                "code": "improvement_example_you-will-notice-significant-improvements-in-your-health-with-proper-diet-and-exercise",
+                "text": "You will notice significant improvements in your health with proper diet and exercise."
+            },
+            {
+                "code": "improvement_example_we-submitted-a-big-improvement-plan-to-the-company-directors",
+                "text": "We submitted a big improvement plan to the company directors."
+            },
+            {
+                "code": "improvement_example_the-school-district-wants-to-see-significant-improvements-in-all-subjects",
+                "text": "The school district wants to see significant improvements in all subjects."
+            },
+            {
+                "code": "improvement_example_substantial-improvements-were-made-to-the-building",
+                "text": "Substantial improvements were made to the building."
+            }
+        ]
+    }
+]

@@ -1,0 +1,102 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to measure the quality of something; to grade",
+        "examples": [
+            {
+                "code": "rate_example_he-rated-the-restaurant-highly",
+                "text": "He rated the restaurant highly."
+            },
+            {
+                "code": "rate_example_the-restaurant-is-rated-among-the-best-in-the-world",
+                "text": "The restaurant is rated among the best in the world."
+            },
+            {
+                "code": "rate_example_the-movie-was-rated-as-best-of-the-year",
+                "text": "The movie was rated as best of the year."
+            },
+            {
+                "code": "rate_example_this-place-is-highly-rated-for-service",
+                "text": "This place is highly rated for service."
+            }
+        ]
+    },
+    {
+        "type": "(n)",
+        "mean": "the speed of something; a fee or charge",
+        "examples": [
+            {
+                "code": "rate_example_the-interest-rate-fluctuates",
+                "text": "The interest rate fluctuates."
+            },
+            {
+                "code": "rate_example_they-gave-us-a-good-rate-for-the-room",
+                "text": "They gave us a good rate for the room."
+            },
+            {
+                "code": "rate_example_her-heart-rate-is-slowing-down",
+                "text": "Her heart rate is slowing down."
+            },
+            {
+                "code": "rate_example_i-paid-a-reasonable-rate-for-the-rental-car",
+                "text": "I paid a reasonable rate for the rental car."
+            },
+            {
+                "code": "rate_example_the-mortgage-rate-went-up",
+                "text": "The mortgage rate went up."
+            },
+            {
+                "code": "rate_example_we-need-to-measure-her-heart-rate",
+                "text": "We need to measure her heart rate."
+            },
+            {
+                "code": "rate_example_the-bank-reduced-our-mortgage-rate",
+                "text": "The bank reduced our mortgage rate."
+            },
+            {
+                "code": "rate_example_let-s-calculate-the-new-interest-rate",
+                "text": "Let's calculate the new interest rate."
+            },
+            {
+                "code": "rate_example_it-s-moving-at-a-slow-rate",
+                "text": "It's moving at a slow rate."
+            },
+            {
+                "code": "rate_example_we-got-a-reduced-rate-for-the-hotel-room",
+                "text": "We got a reduced rate for the hotel room."
+            },
+            {
+                "code": "rate_example_consumers-are-concerned-about-rising-interest-rates",
+                "text": "Consumers are concerned about rising interest rates."
+            },
+            {
+                "code": "rate_example_you-can-sign-up-with-a-fixed-rate",
+                "text": "You can sign up with a fixed rate."
+            },
+            {
+                "code": "rate_example_they-charge-an-annual-rate",
+                "text": "They charge an annual rate."
+            },
+            {
+                "code": "rate_example_what-is-the-going-rate-these-days",
+                "text": "What is the going rate these days?"
+            },
+            {
+                "code": "rate_example_what-is-the-exchange-rate",
+                "text": "What is the exchange rate?"
+            },
+            {
+                "code": "rate_example_we-got-a-car-loan-at-a-decent-interest-rate",
+                "text": "We got a car loan at a decent interest rate."
+            },
+            {
+                "code": "rate_example_what-is-the-average-rate-for-minimum-wage",
+                "text": "What is the average rate for minimum wage?"
+            },
+            {
+                "code": "rate_example_the-rate-of-unemployment-is-rising",
+                "text": "The rate of unemployment is rising."
+            }
+        ]
+    }
+]

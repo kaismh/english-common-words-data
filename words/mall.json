@@ -1,0 +1,56 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a shopping center",
+        "examples": [
+            {
+                "code": "mall_example_let-s-go-to-the-mall",
+                "text": "Let's go to the mall."
+            },
+            {
+                "code": "mall_example_teenagers-like-to-hang-out-at-the-mall",
+                "text": "Teenagers like to hang out at the mall."
+            },
+            {
+                "code": "mall_example_we-saw-the-thieves-enter-the-mall",
+                "text": "We saw the thieves enter the mall."
+            },
+            {
+                "code": "mall_example_they-are-building-a-new-mall-downtown",
+                "text": "They are building a new mall downtown."
+            },
+            {
+                "code": "mall_example_we-are-going-to-a-huge-sale-at-the-outlet-mail",
+                "text": "We are going to a huge sale at the outlet mail."
+            },
+            {
+                "code": "mall_example_i-hate-crowded-malls",
+                "text": "I hate crowded malls."
+            },
+            {
+                "code": "mall_example_we-shop-at-a-big-mall",
+                "text": "We shop at a big mall."
+            },
+            {
+                "code": "mall_example_mall-stores-close-at-10-o-clock-on-weekdays",
+                "text": "Mall stores close at 10 o'clock on weekdays."
+            },
+            {
+                "code": "mall_example_the-mall-parking-lot-is-always-full",
+                "text": "The mall parking lot is always full."
+            },
+            {
+                "code": "mall_example_i-like-eating-at-the-mall-food-court",
+                "text": "I like eating at the mall food court."
+            },
+            {
+                "code": "mall_example_there-are-not-enough-mall-security-guards",
+                "text": "There are not enough mall security guards."
+            },
+            {
+                "code": "mall_example_we-re-going-shopping-at-the-mall",
+                "text": "We're going shopping at the mall."
+            }
+        ]
+    }
+]

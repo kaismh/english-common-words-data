@@ -1,0 +1,78 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a large gray or white object in the sky made of tiny raindrops; a mass of smoke or dust",
+        "examples": [
+            {
+                "code": "cloud_example_the-sky-is-filled-with-thick-clouds",
+                "text": "The sky is filled with thick clouds."
+            },
+            {
+                "code": "cloud_example_i-m-worried-about-those-dark-clouds",
+                "text": "I'm worried about those dark clouds."
+            },
+            {
+                "code": "cloud_example_the-factory-created-a-huge-cloud-of-smoke",
+                "text": "The factory created a huge cloud of smoke."
+            },
+            {
+                "code": "cloud_example_we-can-t-breathe-because-of-the-smoke-cloud",
+                "text": "We can't breathe because of the smoke cloud."
+            },
+            {
+                "code": "cloud_example_the-bomb-created-a-mushroom-cloud",
+                "text": "The bomb created a mushroom cloud."
+            },
+            {
+                "code": "cloud_example_clouds-are-forming-in-the-sky",
+                "text": "Clouds are forming in the sky."
+            },
+            {
+                "code": "cloud_example_the-clouds-finally-parted-and-the-sun-came-out",
+                "text": "The clouds finally parted and the sun came out."
+            },
+            {
+                "code": "cloud_example_the-wind-created-a-dust-cloud",
+                "text": "The wind created a dust cloud."
+            },
+            {
+                "code": "cloud_example_the-airplane-flew-past-a-blanket-of-clouds",
+                "text": "The airplane flew past a blanket of clouds."
+            },
+            {
+                "code": "cloud_example_look-at-that-cloud-formation",
+                "text": "Look at that cloud formation."
+            },
+            {
+                "code": "cloud_example_we-can-see-the-sun-through-a-break-in-the-clouds",
+                "text": "We can see the sun through a break in the clouds."
+            },
+            {
+                "code": "cloud_example_the-bird-flew-above-the-clouds",
+                "text": "The bird flew above the clouds."
+            },
+            {
+                "code": "cloud_example_i-d-rather-not-fly-through-the-clouds",
+                "text": "I'd rather not fly through the clouds."
+            },
+            {
+                "code": "cloud_example_there-was-a-huge-cloud-of-smoke",
+                "text": "There was a huge cloud of smoke."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to make it difficult to remember or understand",
+        "examples": [
+            {
+                "code": "cloud_example_love-has-clouded-your-judgment",
+                "text": "Love has clouded your judgment."
+            },
+            {
+                "code": "cloud_example_lack-of-sleep-has-clouded-my-memory",
+                "text": "Lack of sleep has clouded my memory."
+            }
+        ]
+    }
+]

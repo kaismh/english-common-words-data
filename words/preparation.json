@@ -1,0 +1,48 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the act of getting ready",
+        "examples": [
+            {
+                "code": "preparation_example_she-is-making-preparations-for-the-wedding",
+                "text": "She is making preparations for the wedding."
+            },
+            {
+                "code": "preparation_example_she-has-done-a-lot-of-preparation-for-the-meeting",
+                "text": "She has done a lot of preparation for the meeting."
+            },
+            {
+                "code": "preparation_example_the-presentation-needs-more-preparation",
+                "text": "The presentation needs more preparation."
+            },
+            {
+                "code": "preparation_example_he-has-started-preparations-for-college",
+                "text": "He has started preparations for college."
+            },
+            {
+                "code": "preparation_example_we-are-completing-preparations-for-the-meeting",
+                "text": "We are completing preparations for the meeting."
+            },
+            {
+                "code": "preparation_example_she-made-careful-preparations-for-the-funeral",
+                "text": "She made careful preparations for the funeral."
+            },
+            {
+                "code": "preparation_example_she-received-good-preparation-for-college",
+                "text": "She received good preparation for college."
+            },
+            {
+                "code": "preparation_example_this-game-requires-mental-preparation",
+                "text": "This game requires mental preparation."
+            },
+            {
+                "code": "preparation_example_we-are-making-cupcakes-in-preparation-for-the-wedding",
+                "text": "We are making cupcakes in preparation for the wedding."
+            },
+            {
+                "code": "preparation_example_she-is-doing-her-hair-in-preparation-for-the-dance",
+                "text": "She is doing her hair in preparation for the dance."
+            }
+        ]
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a group of words that forms a particular meaning; a part of a sentence; a common saying",
+        "examples": [
+            {
+                "code": "phrase_example_he-used-a-phrase-from-the-book",
+                "text": "He used a phrase from the book."
+            },
+            {
+                "code": "phrase_example_the-writer-has-coined-many-phrases",
+                "text": "The writer has coined many phrases."
+            },
+            {
+                "code": "phrase_example_for-my-trip-i-bought-an-italian-phrase-book",
+                "text": "For my trip, I bought an Italian phrase book."
+            },
+            {
+                "code": "phrase_example_that-s-a-catchy-phrase",
+                "text": "That's a catchy phrase."
+            },
+            {
+                "code": "phrase_example_i-have-a-book-of-common-phrases",
+                "text": "I have a book of common phrases."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to say or write something in a particular way",
+        "examples": [
+            {
+                "code": "phrase_example_how-did-he-phrase-the-question",
+                "text": "How did he phrase the question?"
+            },
+            {
+                "code": "phrase_example_i-would-have-phrased-it-differently",
+                "text": "I would have phrased it differently."
+            },
+            {
+                "code": "phrase_example_she-phrased-her-argument-carefully",
+                "text": "She phrased her argument carefully."
+            }
+        ]
+    }
+]

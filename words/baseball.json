@@ -1,0 +1,52 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the sport played on a large field with two teams involving a ball, a bat, gloves, and bases; the ball used in the sport of baseball",
+        "examples": [
+            {
+                "code": "baseball_example_he-plays-major-league-baseball",
+                "text": "He plays major-league baseball."
+            },
+            {
+                "code": "baseball_example_i-like-to-coach-baseball",
+                "text": "I like to coach baseball."
+            },
+            {
+                "code": "baseball_example_their-family-actively-follows-baseball",
+                "text": "Their family actively follows baseball."
+            },
+            {
+                "code": "baseball_example_pitch-the-baseball",
+                "text": "Pitch the baseball."
+            },
+            {
+                "code": "baseball_example_we-re-going-to-the-baseball-game",
+                "text": "We're going to the baseball game."
+            },
+            {
+                "code": "baseball_example_she-s-a-baseball-player",
+                "text": "She's a baseball player."
+            },
+            {
+                "code": "baseball_example_he-s-a-baseball-star",
+                "text": "He's a baseball star."
+            },
+            {
+                "code": "baseball_example_we-re-joining-a-baseball-team",
+                "text": "We're joining a baseball team."
+            },
+            {
+                "code": "baseball_example_how-long-is-baseball-season",
+                "text": "How long is baseball season?"
+            },
+            {
+                "code": "baseball_example_she-s-looking-for-her-baseball-glove",
+                "text": "She's looking for her baseball glove."
+            },
+            {
+                "code": "baseball_example_he-collects-baseball-cards",
+                "text": "He collects baseball cards."
+            }
+        ]
+    }
+]

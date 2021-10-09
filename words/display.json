@@ -1,0 +1,52 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a visual collection; a public show",
+        "examples": [
+            {
+                "code": "display_example_the-store-has-an-attractive-display-in-the-window",
+                "text": "The store has an attractive display in the window."
+            },
+            {
+                "code": "display_example_did-you-see-the-special-display-in-the-courtyard",
+                "text": "Did you see the special display in the courtyard?"
+            },
+            {
+                "code": "display_example_the-visual-display-includes-many-colors",
+                "text": "The visual display includes many colors."
+            },
+            {
+                "code": "display_example_most-stores-have-an-in-store-display",
+                "text": "Most stores have an in-store display."
+            },
+            {
+                "code": "display_example_i-m-not-comfortable-with-public-displays-of-affection",
+                "text": "I'm not comfortable with public displays of affection."
+            },
+            {
+                "code": "display_example_the-museum-had-a-display-of-his-artwork",
+                "text": "The museum had a display of his artwork."
+            },
+            {
+                "code": "display_example_each-class-will-create-a-historical-display",
+                "text": "Each class will create a historical display."
+            },
+            {
+                "code": "display_example_did-you-see-their-display",
+                "text": "Did you see their display?"
+            },
+            {
+                "code": "display_example_it-s-near-the-display-case",
+                "text": "It's near the display case."
+            },
+            {
+                "code": "display_example_the-paintings-are-on-display",
+                "text": "The paintings are on display."
+            },
+            {
+                "code": "display_example_she-loves-showing-public-displays-of-affection",
+                "text": "She loves showing public displays of affection."
+            }
+        ]
+    }
+]

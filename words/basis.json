@@ -1,0 +1,36 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the starting point; the reason for something; how things are done",
+        "examples": [
+            {
+                "code": "basis_example_her-research-provided-a-solid-basis-for-her-thesis",
+                "text": "Her research provided a solid basis for her thesis."
+            },
+            {
+                "code": "basis_example_we-get-paid-on-a-monthly-basis",
+                "text": "We get paid on a monthly basis."
+            },
+            {
+                "code": "basis_example_he-was-hired-on-a-part-time-basis",
+                "text": "He was hired on a part-time basis."
+            },
+            {
+                "code": "basis_example_we-go-to-the-park-on-a-regular-basis",
+                "text": "We go to the park on a regular basis."
+            },
+            {
+                "code": "basis_example_the-study-has-a-scientific-basis",
+                "text": "The study has a scientific basis."
+            },
+            {
+                "code": "basis_example_her-travel-experiences-provided-the-basis-for-her-book",
+                "text": "Her travel experiences provided the basis for her book."
+            },
+            {
+                "code": "basis_example_we-are-trying-it-out-on-a-day-by-day-basis",
+                "text": "We are trying it out on a day-by-day basis."
+            }
+        ]
+    }
+]

@@ -1,0 +1,66 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a strong wish or want",
+        "examples": [
+            {
+                "code": "desire_example_she-has-a-great-desire-to-have-a-baby",
+                "text": "She has a great desire to have a baby."
+            },
+            {
+                "code": "desire_example_she-had-a-sudden-desire-to-call-her-ex-husband",
+                "text": "She had a sudden desire to call her ex-husband."
+            },
+            {
+                "code": "desire_example_it-is-my-hidden-desire",
+                "text": "It is my hidden desire."
+            },
+            {
+                "code": "desire_example_everyone-has-natural-desires",
+                "text": "Everyone has natural desires."
+            },
+            {
+                "code": "desire_example_she-has-a-sincere-desire-to-help-people",
+                "text": "She has a sincere desire to help people."
+            },
+            {
+                "code": "desire_example_i-feel-a-strange-desire-to-sing-in-public",
+                "text": "I feel a strange desire to sing in public."
+            },
+            {
+                "code": "desire_example_they-share-a-common-desire-for-world-peace",
+                "text": "They share a common desire for world peace."
+            },
+            {
+                "code": "desire_example_her-abusive-upbringing-created-a-desire-for-a-real-family",
+                "text": "Her abusive upbringing created a desire for a real family."
+            },
+            {
+                "code": "desire_example_the-books-fuel-my-desire-for-learning",
+                "text": "The books fuel my desire for learning."
+            },
+            {
+                "code": "desire_example_please-communicate-your-desires",
+                "text": "Please communicate your desires."
+            },
+            {
+                "code": "desire_example_try-to-control-your-desire",
+                "text": "Try to control your desire."
+            },
+            {
+                "code": "desire_example_she-has-an-intense-desire-for-a-baby",
+                "text": "She has an intense desire for a baby."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to want something",
+        "examples": [
+            {
+                "code": "desire_example_privacy-is-something-teenagers-greatly-desire",
+                "text": "Privacy is something teenagers greatly desire."
+            }
+        ]
+    }
+]

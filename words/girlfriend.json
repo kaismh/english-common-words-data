@@ -1,0 +1,52 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a female in a romantic relationship; a female friend",
+        "examples": [
+            {
+                "code": "girlfriend_example_i-can-t-wait-to-meet-his-new-girlfriend",
+                "text": "I can't wait to meet his new girlfriend."
+            },
+            {
+                "code": "girlfriend_example_she-was-his-first-girlfriend",
+                "text": "She was his first girlfriend."
+            },
+            {
+                "code": "girlfriend_example_he-ran-into-a-former-girlfriend",
+                "text": "He ran into a former girlfriend."
+            },
+            {
+                "code": "girlfriend_example_he-has-a-serious-girlfriend",
+                "text": "He has a serious girlfriend."
+            },
+            {
+                "code": "girlfriend_example_he-s-dealing-with-a-jealous-girlfriend",
+                "text": "He's dealing with a jealous girlfriend."
+            },
+            {
+                "code": "girlfriend_example_he-has-a-new-girlfriend",
+                "text": "He has a new girlfriend."
+            },
+            {
+                "code": "girlfriend_example_he-hopes-to-find-a-girlfriend",
+                "text": "He hopes to find a girlfriend."
+            },
+            {
+                "code": "girlfriend_example_he-met-his-girlfriend-at-school",
+                "text": "He met his girlfriend at school."
+            },
+            {
+                "code": "girlfriend_example_he-lives-with-his-girlfriend",
+                "text": "He lives with his girlfriend."
+            },
+            {
+                "code": "girlfriend_example_he-wants-to-marry-his-girlfriend",
+                "text": "He wants to marry his girlfriend."
+            },
+            {
+                "code": "girlfriend_example_he-kissed-his-girlfriend",
+                "text": "He kissed his girlfriend."
+            }
+        ]
+    }
+]

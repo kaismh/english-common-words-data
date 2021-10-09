@@ -1,0 +1,50 @@
+[
+    {
+        "type": "(n)",
+        "mean": "an income used to buy necessary things in life",
+        "examples": [
+            {
+                "code": "living_example_he-makes-a-good-living-as-a-plumber",
+                "text": "He makes a good living as a plumber."
+            },
+            {
+                "code": "living_example_his-dream-was-to-earn-a-living-as-a-writer",
+                "text": "His dream was to earn a living as a writer."
+            },
+            {
+                "code": "living_example_what-do-you-do-for-a-living",
+                "text": "What do you do for a living?"
+            },
+            {
+                "code": "living_example_the-farm-provides-a-decent-living-for-their-family",
+                "text": "The farm provides a decent living for their family."
+            }
+        ]
+    },
+    {
+        "type": "(adj)",
+        "mean": "alive",
+        "examples": [
+            {
+                "code": "living_example_that-is-a-living-creature",
+                "text": "That is a living creature."
+            },
+            {
+                "code": "living_example_what-are-the-living-arrangements-there",
+                "text": "What are the living arrangements there?"
+            },
+            {
+                "code": "living_example_it-s-been-a-living-nightmare",
+                "text": "It's been a living nightmare!"
+            },
+            {
+                "code": "living_example_do-you-have-any-living-relatives",
+                "text": "Do you have any living relatives?"
+            },
+            {
+                "code": "living_example_do-you-have-a-living-will",
+                "text": "Do you have a living will?"
+            }
+        ]
+    }
+]

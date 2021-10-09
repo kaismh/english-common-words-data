@@ -1,0 +1,112 @@
+[
+    {
+        "type": "(n)",
+        "mean": "new information about something that has happened recently",
+        "examples": [
+            {
+                "code": "news_example_the-news-just-came-out",
+                "text": "The news just came out."
+            },
+            {
+                "code": "news_example_they-made-the-news",
+                "text": "They made the news."
+            },
+            {
+                "code": "news_example_who-delivered-the-news",
+                "text": "Who delivered the news?"
+            },
+            {
+                "code": "news_example_i-brought-them-the-news",
+                "text": "I brought them the news."
+            },
+            {
+                "code": "news_example_he-shared-the-news-with-us",
+                "text": "He shared the news with us."
+            },
+            {
+                "code": "news_example_the-news-printed-our-story",
+                "text": "The news printed our story."
+            },
+            {
+                "code": "news_example_we-are-following-the-news",
+                "text": "We are following the news."
+            },
+            {
+                "code": "news_example_we-are-listening-to-the-news",
+                "text": "We are listening to the news."
+            },
+            {
+                "code": "news_example_she-just-learned-the-news",
+                "text": "She just learned the news."
+            },
+            {
+                "code": "news_example_i-have-a-news-flash-for-you",
+                "text": "I have a news flash for you."
+            },
+            {
+                "code": "news_example_the-news-agency-just-hired-me",
+                "text": "The news agency just hired me."
+            },
+            {
+                "code": "news_example_the-story-got-a-lot-of-news-coverage",
+                "text": "The story got a lot of news coverage."
+            },
+            {
+                "code": "news_example_she-is-a-famous-news-anchor",
+                "text": "She is a famous news anchor."
+            },
+            {
+                "code": "news_example_i-just-read-the-news-story",
+                "text": "I just read the news story."
+            },
+            {
+                "code": "news_example_we-saw-the-news-broadcast",
+                "text": "We saw the news broadcast."
+            },
+            {
+                "code": "news_example_i-checked-the-local-news",
+                "text": "I checked the local news."
+            },
+            {
+                "code": "news_example_i-have-terrible-news",
+                "text": "I have terrible news."
+            },
+            {
+                "code": "news_example_we-have-fantastic-news-for-you",
+                "text": "We have fantastic news for you."
+            },
+            {
+                "code": "news_example_this-is-old-news",
+                "text": "This is old news."
+            },
+            {
+                "code": "news_example_we-watched-the-breaking-news",
+                "text": "We watched the breaking news."
+            },
+            {
+                "code": "news_example_they-are-in-the-news",
+                "text": "They are in the news."
+            },
+            {
+                "code": "news_example_do-you-have-news-of-her-rescue",
+                "text": "Do you have news of her rescue?"
+            },
+            {
+                "code": "news_example_what-is-on-the-news",
+                "text": "What is on the news?"
+            },
+            {
+                "code": "news_example_that-is-news-to-me",
+                "text": "That is news to me."
+            },
+            {
+                "code": "news_example_i-have-news-for-you",
+                "text": "I have news for you."
+            },
+            {
+                "code": "news_example_there-is-some-news-about-the-war",
+                "text": "There is some news about the war."
+            }
+        ]
+    }
+]

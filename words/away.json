@@ -1,0 +1,46 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "not here or not at its usual place",
+        "examples": [
+            {
+                "code": "away_example_our-team-is-playing-an-away-game-this-weekend",
+                "text": "Our team is playing an away game this weekend."
+            }
+        ]
+    },
+    {
+        "type": "(adv)",
+        "mean": "towards another place; at another place; not home or here",
+        "examples": [
+            {
+                "code": "away_example_her-daughter-ran-away-from-home",
+                "text": "Her daughter ran away from home."
+            },
+            {
+                "code": "away_example_please-put-your-things-away",
+                "text": "Please put your things away."
+            },
+            {
+                "code": "away_example_she-looked-away-from-the-accident-scene",
+                "text": "She looked away from the accident scene."
+            },
+            {
+                "code": "away_example_we-re-so-stressed-we-need-to-get-away",
+                "text": "We're so stressed, we need to get away."
+            },
+            {
+                "code": "away_example_please-keep-this-away-from-children",
+                "text": "Please keep this away from children."
+            },
+            {
+                "code": "away_example_his-money-is-locked-away-in-a-safe-place",
+                "text": "His money is locked away in a safe place."
+            },
+            {
+                "code": "away_example_they-moved-far-away",
+                "text": "They moved far away."
+            }
+        ]
+    }
+]

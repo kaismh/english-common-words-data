@@ -1,0 +1,48 @@
+[
+    {
+        "type": "(n)",
+        "mean": "information that helps you find an answer or solve a crime or problem",
+        "examples": [
+            {
+                "code": "clue_example_the-robber-left-an-important-clue",
+                "text": "The robber left an important clue."
+            },
+            {
+                "code": "clue_example_what-does-this-mysterious-clue-mean",
+                "text": "What does this mysterious clue mean?"
+            },
+            {
+                "code": "clue_example_she-left-an-obvious-clue",
+                "text": "She left an obvious clue."
+            },
+            {
+                "code": "clue_example_the-painting-contains-clues-about-the-artist-s-personality",
+                "text": "The painting contains clues about the artist's personality."
+            },
+            {
+                "code": "clue_example_please-give-me-a-clue",
+                "text": "Please give me a clue."
+            },
+            {
+                "code": "clue_example_please-provide-any-clues-to-help-police-solve-the-crime",
+                "text": "Please provide any clues to help police solve the crime."
+            },
+            {
+                "code": "clue_example_scientists-are-hunting-for-clues",
+                "text": "Scientists are hunting for clues."
+            },
+            {
+                "code": "clue_example_we-re-hoping-to-discover-some-new-clues",
+                "text": "We're hoping to discover some new clues."
+            },
+            {
+                "code": "clue_example_you-missed-the-clue",
+                "text": "You missed the clue!"
+            },
+            {
+                "code": "clue_example_can-you-give-us-a-clue-about-how-it-started",
+                "text": "Can you give us a clue about how it started?"
+            }
+        ]
+    }
+]

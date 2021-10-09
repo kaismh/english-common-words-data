@@ -1,0 +1,76 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the part of a plant that is usually sweet and can be eaten; good results or a reward",
+        "examples": [
+            {
+                "code": "fruit_example_she-bought-fresh-fruit-at-the-market",
+                "text": "She bought fresh fruit at the market."
+            },
+            {
+                "code": "fruit_example_throw-out-the-rotten-fruit",
+                "text": "Throw out the rotten fruit."
+            },
+            {
+                "code": "fruit_example_don-t-eat-the-unripe-fruit",
+                "text": "Don't eat the unripe fruit."
+            },
+            {
+                "code": "fruit_example_she-put-dried-fruit-on-her-cereal",
+                "text": "She put dried fruit on her cereal."
+            },
+            {
+                "code": "fruit_example_that-plant-produces-very-sweet-fruit",
+                "text": "That plant produces very sweet fruit."
+            },
+            {
+                "code": "fruit_example_they-tried-some-exotic-fruits-on-their-trip",
+                "text": "They tried some exotic fruits on their trip."
+            },
+            {
+                "code": "fruit_example_he-doesn-t-like-canned-fruit",
+                "text": "He doesn't like canned fruit."
+            },
+            {
+                "code": "fruit_example_we-ate-fresh-fruit-with-breakfast",
+                "text": "We ate fresh fruit with breakfast."
+            },
+            {
+                "code": "fruit_example_this-tree-never-bears-fruit",
+                "text": "This tree never bears fruit."
+            },
+            {
+                "code": "fruit_example_you-should-pick-the-fruit-soon",
+                "text": "You should pick the fruit soon."
+            },
+            {
+                "code": "fruit_example_she-peeled-a-lot-of-fruit-for-the-salad",
+                "text": "She peeled a lot of fruit for the salad."
+            },
+            {
+                "code": "fruit_example_this-fruit-grows-fast",
+                "text": "This fruit grows fast."
+            },
+            {
+                "code": "fruit_example_she-didn-t-get-to-enjoy-the-fruits-of-her-hard-work",
+                "text": "She didn't get to enjoy the fruits of her hard work."
+            },
+            {
+                "code": "fruit_example_we-have-some-fruit-trees-in-the-backyard",
+                "text": "We have some fruit trees in the backyard."
+            },
+            {
+                "code": "fruit_example_she-drinks-a-lot-of-fruit-juice",
+                "text": "She drinks a lot of fruit juice."
+            },
+            {
+                "code": "fruit_example_they-brought-fruit-salad-to-the-party",
+                "text": "They brought fruit salad to the party."
+            },
+            {
+                "code": "fruit_example_the-fruit-basket-is-empty",
+                "text": "The fruit basket is empty."
+            }
+        ]
+    }
+]

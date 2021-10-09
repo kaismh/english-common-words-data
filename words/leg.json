@@ -1,0 +1,80 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a part of the body between the hip and the foot that is used for standing, walking and running",
+        "examples": [
+            {
+                "code": "leg_example_he-has-a-scar-on-his-right-leg",
+                "text": "He has a scar on his right leg."
+            },
+            {
+                "code": "leg_example_she-has-long-legs",
+                "text": "She has long legs."
+            },
+            {
+                "code": "leg_example_we-noticed-his-hairy-legs",
+                "text": "We noticed his hairy legs."
+            },
+            {
+                "code": "leg_example_i-cannot-stand-on-my-good-leg",
+                "text": "I cannot stand on my good leg."
+            },
+            {
+                "code": "leg_example_she-needs-surgery-for-a-broken-leg",
+                "text": "She needs surgery for a broken leg."
+            },
+            {
+                "code": "leg_example_he-tried-to-bend-his-injured-leg",
+                "text": "He tried to bend his injured leg."
+            },
+            {
+                "code": "leg_example_the-policeman-told-him-to-spread-his-legs",
+                "text": "The policeman told him to spread his legs."
+            },
+            {
+                "code": "leg_example_she-always-kicks-with-her-left-leg",
+                "text": "She always kicks with her left leg."
+            },
+            {
+                "code": "leg_example_he-broke-his-right-leg-in-an-accident",
+                "text": "He broke his right leg in an accident."
+            },
+            {
+                "code": "leg_example_i-need-to-shave-my-legs-if-i-m-going-to-wear-a-skirt",
+                "text": "I need to shave my legs if I'm going to wear a skirt."
+            },
+            {
+                "code": "leg_example_the-boy-sat-on-a-bridge-dangling-his-legs",
+                "text": "The boy sat on a bridge dangling his legs."
+            },
+            {
+                "code": "leg_example_her-legs-were-shaking-with-fear",
+                "text": "Her legs were shaking with fear."
+            },
+            {
+                "code": "leg_example_he-does-10-minutes-of-leg-exercises-every-day",
+                "text": "He does 10 minutes of leg exercises every day."
+            },
+            {
+                "code": "leg_example_during-the-game-she-suffered-a-leg-cramp",
+                "text": "During the game, she suffered a leg cramp."
+            },
+            {
+                "code": "leg_example_i-want-to-have-stronger-leg-muscles",
+                "text": "I want to have stronger leg muscles."
+            },
+            {
+                "code": "leg_example_the-dog-walked-away-with-his-tail-between-its-legs",
+                "text": "The dog walked away with his tail between its legs."
+            },
+            {
+                "code": "leg_example_the-soldier-was-hit-in-the-leg",
+                "text": "The soldier was hit in the leg."
+            },
+            {
+                "code": "leg_example_i-have-a-cut-on-my-leg",
+                "text": "I have a cut on my leg."
+            }
+        ]
+    }
+]

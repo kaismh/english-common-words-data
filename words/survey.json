@@ -1,0 +1,98 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a study or report collecting information on what a certain group of people think about something",
+        "examples": [
+            {
+                "code": "survey_example_customers-were-asked-to-complete-a-brief-survey-about-their-shopping-experience",
+                "text": "Customers were asked to complete a brief survey about their shopping experience."
+            },
+            {
+                "code": "survey_example_an-informal-survey-about-children-and-television-was-conducted-at-school",
+                "text": "An informal survey about children and television was conducted at school."
+            },
+            {
+                "code": "survey_example_regular-surveys-are-conducted-on-customer-satisfaction",
+                "text": "Regular surveys are conducted on customer satisfaction."
+            },
+            {
+                "code": "survey_example_a-local-survey-was-conducted-on-the-president-s-popularity",
+                "text": "A local survey was conducted on the president's popularity."
+            },
+            {
+                "code": "survey_example_an-independent-survey-was-conducted-on-the-issue-of-gun-control",
+                "text": "An independent survey was conducted on the issue of gun control."
+            },
+            {
+                "code": "survey_example_a-customer-satisfaction-survey-was-conducted-over-the-phone",
+                "text": "A customer satisfaction survey was conducted over the phone."
+            },
+            {
+                "code": "survey_example_she-completed-a-survey-on-violence-in-video-games",
+                "text": "She completed a survey on violence in video games."
+            },
+            {
+                "code": "survey_example_the-survey-reveals-that-teenage-pregnancy-is-on-the-rise",
+                "text": "The survey reveals that teenage pregnancy is on the rise."
+            },
+            {
+                "code": "survey_example_the-survey-results-are-in",
+                "text": "The survey results are in."
+            },
+            {
+                "code": "survey_example_the-survey-participant-must-be-over-21-years-of-age",
+                "text": "The survey participant must be over 21 years of age."
+            },
+            {
+                "code": "survey_example_the-survey-group-consisted-of-all-men",
+                "text": "The survey group consisted of all men."
+            },
+            {
+                "code": "survey_example_the-survey-questionnaire-was-long",
+                "text": "The survey questionnaire was long."
+            },
+            {
+                "code": "survey_example_the-survey-questions-were-not-very-clear",
+                "text": "The survey questions were not very clear."
+            },
+            {
+                "code": "survey_example_according-to-the-survey-most-people-are-unhappy-at-their-current-jobs",
+                "text": "According to the survey, most people are unhappy at their current jobs."
+            },
+            {
+                "code": "survey_example_the-questions-in-the-survey-were-not-clear",
+                "text": "The questions in the survey were not clear."
+            },
+            {
+                "code": "survey_example_the-survey-was-on-religion-in-schools",
+                "text": "The survey was on religion in schools."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to look at the whole situation; to study a group of people and their responses to certain questions",
+        "examples": [
+            {
+                "code": "survey_example_they-carefully-surveyed-the-crime-scene",
+                "text": "They carefully surveyed the crime scene."
+            },
+            {
+                "code": "survey_example_the-research-group-briefly-surveyed-customers-exiting-the-store",
+                "text": "The research group briefly surveyed customers exiting the store."
+            },
+            {
+                "code": "survey_example_she-calmly-surveyed-the-situation",
+                "text": "She calmly surveyed the situation."
+            },
+            {
+                "code": "survey_example_he-surveyed-the-accident-from-his-car",
+                "text": "He surveyed the accident from his car."
+            },
+            {
+                "code": "survey_example_the-police-carefully-surveyed-the-crime-scene",
+                "text": "The police carefully surveyed the crime scene."
+            }
+        ]
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the desire to hurt, annoy, or offend someone",
+        "examples": [
+            {
+                "code": "spite_example_he-spread-rumors-out-of-pure-spite",
+                "text": "He spread rumors out of pure spite."
+            },
+            {
+                "code": "spite_example_he-is-full-of-spite",
+                "text": "He is full of spite."
+            },
+            {
+                "code": "spite_example_he-hurt-his-brother-out-of-sheer-spite",
+                "text": "He hurt his brother out of sheer spite."
+            },
+            {
+                "code": "spite_example_he-felt-pure-spite-towards-them",
+                "text": "He felt pure spite towards them."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to bother or hurt someone intentionally",
+        "examples": [
+            {
+                "code": "spite_example_she-did-it-just-to-spite-me",
+                "text": "She did it just to spite me."
+            },
+            {
+                "code": "spite_example_he-does-things-only-to-spite-me",
+                "text": "He does things only to spite me."
+            },
+            {
+                "code": "spite_example_he-played-loud-music-at-night-to-spite-his-neighbors",
+                "text": "He played loud music at night to spite his neighbors."
+            },
+            {
+                "code": "spite_example_she-gave-her-ex-husband-s-clothes-away-to-spite-him",
+                "text": "She gave her ex-husband's clothes away to spite him."
+            }
+        ]
+    }
+]

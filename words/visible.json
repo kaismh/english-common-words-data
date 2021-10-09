@@ -1,0 +1,52 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "able to be seen",
+        "examples": [
+            {
+                "code": "visible_example_his-scars-are-very-visible",
+                "text": "His scars are very visible."
+            },
+            {
+                "code": "visible_example_her-disappointment-was-obviously-visible-to-everyone",
+                "text": "Her disappointment was obviously visible to everyone."
+            },
+            {
+                "code": "visible_example_her-black-dog-is-barely-visible-at-night",
+                "text": "Her black dog is barely visible at night."
+            },
+            {
+                "code": "visible_example_her-bright-clothes-make-her-quite-visible-in-a-crowd",
+                "text": "Her bright clothes make her quite visible in a crowd."
+            },
+            {
+                "code": "visible_example_the-house-is-partially-visible-from-the-street",
+                "text": "The house is partially visible from the street."
+            },
+            {
+                "code": "visible_example_the-house-is-visible-from-the-street",
+                "text": "The house is visible from the street."
+            },
+            {
+                "code": "visible_example_she-made-a-visible-dent-on-the-car",
+                "text": "She made a visible dent on the car."
+            },
+            {
+                "code": "visible_example_try-to-remain-visible-in-the-dark",
+                "text": "Try to remain visible in the dark."
+            },
+            {
+                "code": "visible_example_her-scars-are-visible-to-everyone",
+                "text": "Her scars are visible to everyone."
+            },
+            {
+                "code": "visible_example_the-house-is-visible-from-the-street",
+                "text": "The house is visible from the street."
+            },
+            {
+                "code": "visible_example_he-was-visible-through-the-window",
+                "text": "He was visible through the window."
+            }
+        ]
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "type": "(n)",
+        "mean": "one-fourth of something; a 25-cent coin; three consecutive months of the year; an amount of time in sports game",
+        "examples": [
+            {
+                "code": "quarter_example_she-folded-the-paper-into-quarters",
+                "text": "She folded the paper into quarters."
+            },
+            {
+                "code": "quarter_example_he-broke-the-loaf-of-bread-into-quarters",
+                "text": "He broke the loaf of bread into quarters."
+            },
+            {
+                "code": "quarter_example_he-paid-a-quarter-for-the-gumball",
+                "text": "He paid a quarter for the gumball."
+            },
+            {
+                "code": "quarter_example_they-scored-in-the-last-quarter-of-the-game",
+                "text": "They scored in the last quarter of the game."
+            },
+            {
+                "code": "quarter_example_the-team-scored-a-point-in-the-first-quarter",
+                "text": "The team scored a point in the first quarter."
+            },
+            {
+                "code": "quarter_example_i-have-a-collection-of-silver-quarters",
+                "text": "I have a collection of silver quarters."
+            },
+            {
+                "code": "quarter_example_i-am-taking-a-class-during-the-summer-quarter",
+                "text": "I am taking a class during the summer quarter."
+            },
+            {
+                "code": "quarter_example_the-property-is-over-a-quarter-of-an-acre",
+                "text": "The property is over a quarter of an acre."
+            },
+            {
+                "code": "quarter_example_we-scored-during-the-third-quarter",
+                "text": "We scored during the third quarter."
+            }
+        ]
+    }
+]

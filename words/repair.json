@@ -1,0 +1,102 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to fix",
+        "examples": [
+            {
+                "code": "repair_example_she-needs-to-repair-her-car",
+                "text": "She needs to repair her car."
+            },
+            {
+                "code": "repair_example_this-can-be-easily-repaired",
+                "text": "This can be easily repaired."
+            },
+            {
+                "code": "repair_example_he-successfully-repaired-the-damage",
+                "text": "He successfully repaired the damage."
+            },
+            {
+                "code": "repair_example_the-car-was-poorly-repaired",
+                "text": "The car was poorly repaired."
+            },
+            {
+                "code": "repair_example_the-broken-window-was-completely-repaired",
+                "text": "The broken window was completely repaired."
+            }
+        ]
+    },
+    {
+        "type": "(n)",
+        "mean": "the act of fixing something",
+        "examples": [
+            {
+                "code": "repair_example_the-house-requires-repair",
+                "text": "The house requires repair."
+            },
+            {
+                "code": "repair_example_i-did-the-repairs-myself",
+                "text": "I did the repairs myself."
+            },
+            {
+                "code": "repair_example_these-repairs-cost-too-much",
+                "text": "These repairs cost too much."
+            },
+            {
+                "code": "repair_example_the-roads-are-undergoing-major-repairs",
+                "text": "The roads are undergoing major repairs."
+            },
+            {
+                "code": "repair_example_the-repair-bill-was-very-high",
+                "text": "The repair bill was very high."
+            },
+            {
+                "code": "repair_example_the-repair-work-was-not-done-properly",
+                "text": "The repair work was not done properly."
+            },
+            {
+                "code": "repair_example_i-m-looking-for-a-24-hour-repair-service",
+                "text": "I'm looking for a 24 hour repair service."
+            },
+            {
+                "code": "repair_example_i-bought-a-repair-kit-to-fix-it-myself",
+                "text": "I bought a repair kit to fix it myself."
+            },
+            {
+                "code": "repair_example_i-cannot-find-the-repair-manual",
+                "text": "I cannot find the repair manual."
+            },
+            {
+                "code": "repair_example_the-car-needs-minor-repairs",
+                "text": "The car needs minor repairs."
+            },
+            {
+                "code": "repair_example_the-roof-is-going-to-be-an-expensive-repair",
+                "text": "The roof is going to be an expensive repair."
+            },
+            {
+                "code": "repair_example_we-had-to-make-an-emergency-repair-on-the-roof",
+                "text": "We had to make an emergency repair on the roof."
+            },
+            {
+                "code": "repair_example_my-husband-is-good-with-home-repairs",
+                "text": "My husband is good with home repairs."
+            },
+            {
+                "code": "repair_example_the-city-needs-to-spend-money-on-road-repairs",
+                "text": "The city needs to spend money on road repairs."
+            },
+            {
+                "code": "repair_example_the-house-is-under-repair",
+                "text": "The house is under repair."
+            },
+            {
+                "code": "repair_example_this-broken-bike-is-beyond-repair",
+                "text": "This broken bike is beyond repair."
+            },
+            {
+                "code": "repair_example_i-took-the-car-in-for-minor-repairs",
+                "text": "I took the car in for minor repairs."
+            }
+        ]
+    }
+]

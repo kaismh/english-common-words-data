@@ -1,0 +1,100 @@
+[
+    {
+        "type": "(n)",
+        "mean": "an event or occurrence",
+        "examples": [
+            {
+                "code": "incident_example_there-was-a-major-incident-at-work",
+                "text": "There was a major incident at work."
+            },
+            {
+                "code": "incident_example_they-were-fighting-over-a-minor-incident",
+                "text": "They were fighting over a minor incident."
+            },
+            {
+                "code": "incident_example_the-book-was-based-on-an-actual-incident",
+                "text": "The book was based on an actual incident."
+            },
+            {
+                "code": "incident_example_let-s-forget-the-whole-incident",
+                "text": "Let's forget the whole incident."
+            },
+            {
+                "code": "incident_example_they-finished-the-project-without-further-incident",
+                "text": "They finished the project without further incident."
+            },
+            {
+                "code": "incident_example_it-was-an-isolated-incident",
+                "text": "It was an isolated incident."
+            },
+            {
+                "code": "incident_example_there-was-a-bad-incident-at-school",
+                "text": "There was a bad incident at school."
+            },
+            {
+                "code": "incident_example_the-kids-witnessed-the-violent-incident",
+                "text": "The kids witnessed the violent incident."
+            },
+            {
+                "code": "incident_example_the-police-are-investigating-the-reported-incident",
+                "text": "The police are investigating the reported incident."
+            },
+            {
+                "code": "incident_example_she-was-involved-in-the-incident",
+                "text": "She was involved in the incident."
+            },
+            {
+                "code": "incident_example_who-caused-the-incident",
+                "text": "Who caused the incident?"
+            },
+            {
+                "code": "incident_example_did-you-witness-the-incident",
+                "text": "Did you witness the incident?"
+            },
+            {
+                "code": "incident_example_the-police-are-investigating-the-incident",
+                "text": "The police are investigating the incident."
+            },
+            {
+                "code": "incident_example_he-could-not-remember-the-incident",
+                "text": "He could not remember the incident."
+            },
+            {
+                "code": "incident_example_she-described-the-incident-to-the-police",
+                "text": "She described the incident to the police."
+            },
+            {
+                "code": "incident_example_he-was-hurt-in-the-incident",
+                "text": "He was hurt in the incident."
+            },
+            {
+                "code": "incident_example_the-family-survived-the-incident",
+                "text": "The family survived the incident."
+            },
+            {
+                "code": "incident_example_the-incident-occurred-two-days-ago",
+                "text": "The incident occurred two days ago."
+            },
+            {
+                "code": "incident_example_the-incident-resulted-in-a-riot",
+                "text": "The incident resulted in a riot."
+            },
+            {
+                "code": "incident_example_he-will-never-forget-the-incident-with-his-neighbor",
+                "text": "He will never forget the incident with his neighbor."
+            },
+            {
+                "code": "incident_example_innocent-people-were-hurt-in-the-incident",
+                "text": "Innocent people were hurt in the incident."
+            },
+            {
+                "code": "incident_example_the-meeting-ended-without-further-incident",
+                "text": "The meeting ended without further incident."
+            },
+            {
+                "code": "incident_example_she-was-suspended-for-a-week-over-the-incident",
+                "text": "She was suspended for a week over the incident."
+            }
+        ]
+    }
+]

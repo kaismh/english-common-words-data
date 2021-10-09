@@ -1,0 +1,60 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "not safe; possibly causing harm or injury",
+        "examples": [
+            {
+                "code": "dangerous_example_the-situation-is-dangerous",
+                "text": "The situation is dangerous."
+            },
+            {
+                "code": "dangerous_example_driving-becomes-dangerous-when-it-snows",
+                "text": "Driving becomes dangerous when it snows."
+            },
+            {
+                "code": "dangerous_example_the-bridge-remained-dangerous-after-the-earthquake",
+                "text": "The bridge remained dangerous after the earthquake."
+            },
+            {
+                "code": "dangerous_example_he-is-considered-armed-and-dangerous",
+                "text": "He is considered armed and dangerous."
+            },
+            {
+                "code": "dangerous_example_the-situation-is-extremely-dangerous",
+                "text": "The situation is extremely dangerous."
+            },
+            {
+                "code": "dangerous_example_motorcycles-are-a-little-dangerous",
+                "text": "Motorcycles are a little dangerous."
+            },
+            {
+                "code": "dangerous_example_boxing-is-possibly-dangerous-to-the-brain",
+                "text": "Boxing is possibly dangerous to the brain."
+            },
+            {
+                "code": "dangerous_example_it-s-dangerous-for-you",
+                "text": "It's dangerous for you."
+            },
+            {
+                "code": "dangerous_example_chocolate-is-dangerous-to-dogs",
+                "text": "Chocolate is dangerous to dogs."
+            },
+            {
+                "code": "dangerous_example_be-careful-of-the-dangerous-animal",
+                "text": "Be careful of the dangerous animal."
+            },
+            {
+                "code": "dangerous_example_being-a-stuntman-is-a-dangerous-business",
+                "text": "Being a stuntman is a dangerous business."
+            },
+            {
+                "code": "dangerous_example_they-use-dangerous-chemicals-on-fruits",
+                "text": "They use dangerous chemicals on fruits."
+            },
+            {
+                "code": "dangerous_example_that-is-a-dangerous-neighborhood",
+                "text": "That is a dangerous neighborhood."
+            }
+        ]
+    }
+]

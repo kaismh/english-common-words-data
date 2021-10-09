@@ -1,0 +1,24 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "very big",
+        "examples": [
+            {
+                "code": "vast_example_the-mountains-are-greatly-vast",
+                "text": "The mountains are greatly vast."
+            },
+            {
+                "code": "vast_example_the-vast-majority-of-voters-do-not-want-him-reelected",
+                "text": "The vast majority of voters do not want him reelected."
+            },
+            {
+                "code": "vast_example_she-has-a-vast-knowledge-in-that-area",
+                "text": "She has a vast knowledge in that area."
+            },
+            {
+                "code": "vast_example_they-have-a-vast-amount-of-organic-products",
+                "text": "They have a vast amount of organic products."
+            }
+        ]
+    }
+]

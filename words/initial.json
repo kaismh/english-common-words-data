@@ -1,0 +1,76 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the first letter of a name or word",
+        "examples": [
+            {
+                "code": "initial_example_the-two-authors-have-the-same-initials",
+                "text": "The two authors have the same initials."
+            },
+            {
+                "code": "initial_example_everyone-knows-him-by-his-initials",
+                "text": "Everyone knows him by his initials."
+            },
+            {
+                "code": "initial_example_she-carved-her-initials-on-the-tree",
+                "text": "She carved her initials on the tree."
+            },
+            {
+                "code": "initial_example_the-initials-ny-stand-for-new-york",
+                "text": "The initials, NY, stand for New York."
+            },
+            {
+                "code": "initial_example_la-are-the-initials-for-los-angeles",
+                "text": "LA are the initials for Los Angeles."
+            }
+        ]
+    },
+    {
+        "type": "(adj)",
+        "mean": "first; happening at the beginning or start",
+        "examples": [
+            {
+                "code": "initial_example_we-are-in-the-initial-phases-of-the-project",
+                "text": "We are in the initial phases of the project."
+            },
+            {
+                "code": "initial_example_the-initial-chapters-of-the-book-are-boring",
+                "text": "The initial chapters of the book are boring."
+            },
+            {
+                "code": "initial_example_her-initial-reaction-was-anger",
+                "text": "Her initial reaction was anger."
+            },
+            {
+                "code": "initial_example_his-initial-response-was-no",
+                "text": "His initial response was 'no.'"
+            },
+            {
+                "code": "initial_example_their-initial-feedback-of-the-new-restaurant-was-not-good",
+                "text": "Their initial feedback of the new restaurant was not good."
+            },
+            {
+                "code": "initial_example_the-company-never-addressed-my-initial-complaint",
+                "text": "The company never addressed my initial complaint."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to write or put initials on something",
+        "examples": [
+            {
+                "code": "initial_example_please-initial-here",
+                "text": "Please initial here."
+            },
+            {
+                "code": "initial_example_you-need-to-initial-every-page-of-the-contract",
+                "text": "You need to initial every page of the contract."
+            },
+            {
+                "code": "initial_example_please-accept-this-agreement-by-initialing-each-page",
+                "text": "Please accept this agreement by initialing each page."
+            }
+        ]
+    }
+]

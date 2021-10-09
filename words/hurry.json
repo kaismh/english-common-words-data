@@ -1,0 +1,58 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the need to do something very quickly because there is not much time",
+        "examples": [
+            {
+                "code": "hurry_example_we-re-in-a-big-hurry-today",
+                "text": "We're in a big hurry today."
+            },
+            {
+                "code": "hurry_example_he-is-in-a-big-hurry",
+                "text": "He is in a big hurry."
+            },
+            {
+                "code": "hurry_example_are-you-in-hurry",
+                "text": "Are you in hurry?"
+            },
+            {
+                "code": "hurry_example_why-are-you-in-such-a-hurry",
+                "text": "Why are you in such a hurry?"
+            },
+            {
+                "code": "hurry_example_don-t-rush-i-m-not-in-a-hurry",
+                "text": "Don't rush. I'm not in a hurry."
+            },
+            {
+                "code": "hurry_example_what-s-all-the-hurry",
+                "text": "What's all the hurry?"
+            },
+            {
+                "code": "hurry_example_after-all-that-hurry-they-still-missed-the-train",
+                "text": "After all that hurry, they still missed the train."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to do something very quickly because there is not much time",
+        "examples": [
+            {
+                "code": "hurry_example_please-hurry-up-i-m-late",
+                "text": "Please hurry up. I'm late."
+            },
+            {
+                "code": "hurry_example_they-hurried-out-the-door-to-catch-the-last-bus",
+                "text": "They hurried out the door to catch the last bus."
+            },
+            {
+                "code": "hurry_example_we-need-to-hurry-down-to-the-store-before-it-closes",
+                "text": "We need to hurry down to the store before it closes."
+            },
+            {
+                "code": "hurry_example_we-need-to-hurry-over-there-she-will-be-leaving-soon",
+                "text": "We need to hurry over there. She will be leaving soon."
+            }
+        ]
+    }
+]

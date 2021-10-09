@@ -1,0 +1,32 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "feeling sadness or regret over what happened or what you have done",
+        "examples": [
+            {
+                "code": "sorry_example_she-was-sorry-for-offending-him",
+                "text": "She was sorry for offending him."
+            },
+            {
+                "code": "sorry_example_i-will-make-you-sorry-for-what-you-did",
+                "text": "I will make you sorry for what you did."
+            },
+            {
+                "code": "sorry_example_i-am-truly-sorry-for-what-i-said",
+                "text": "I am truly sorry for what I said."
+            },
+            {
+                "code": "sorry_example_he-felt-slightly-sorry-for-his-sister",
+                "text": "He felt slightly sorry for his sister."
+            },
+            {
+                "code": "sorry_example_i-m-sorry-about-ruining-the-picture",
+                "text": "I'm sorry about ruining the picture."
+            },
+            {
+                "code": "sorry_example_i-feel-really-sorry-for-you",
+                "text": "I feel really sorry for you."
+            }
+        ]
+    }
+]

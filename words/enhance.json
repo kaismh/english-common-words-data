@@ -1,0 +1,56 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to increase or improve",
+        "examples": [
+            {
+                "code": "enhance_example_the-special-effects-greatly-enhanced-the-movie",
+                "text": "The special effects greatly enhanced the movie."
+            },
+            {
+                "code": "enhance_example_his-efforts-were-directly-enhanced-by-her-support",
+                "text": "His efforts were directly enhanced by her support."
+            },
+            {
+                "code": "enhance_example_reading-may-enhance-your-vocabulary",
+                "text": "Reading may enhance your vocabulary."
+            },
+            {
+                "code": "enhance_example_he-hopes-practicing-will-help-enhance-his-piano-playing",
+                "text": "He hopes practicing will help enhance his piano playing."
+            },
+            {
+                "code": "enhance_example_they-seek-to-enhance-the-effectiveness-of-the-product",
+                "text": "They seek to enhance the effectiveness of the product."
+            },
+            {
+                "code": "enhance_example_this-theater-is-designed-to-enhance-the-movie-experience",
+                "text": "This theater is designed to enhance the movie experience."
+            },
+            {
+                "code": "enhance_example_she-enhances-her-appearance-with-make-up",
+                "text": "She enhances her appearance with make-up."
+            },
+            {
+                "code": "enhance_example_they-want-to-enhance-the-effectiveness-of-the-product",
+                "text": "They want to enhance the effectiveness of the product."
+            },
+            {
+                "code": "enhance_example_she-is-trying-to-enhance-communication-between-her-students",
+                "text": "She is trying to enhance communication between her students."
+            },
+            {
+                "code": "enhance_example_they-want-to-enhance-the-productivity-of-the-company",
+                "text": "They want to enhance the productivity of the company."
+            },
+            {
+                "code": "enhance_example_how-can-i-enhance-the-flavor-of-this-soup",
+                "text": "How can I enhance the flavor of this soup?"
+            },
+            {
+                "code": "enhance_example_he-wants-to-enhance-his-foreign-language-ability",
+                "text": "He wants to enhance his foreign language ability."
+            }
+        ]
+    }
+]

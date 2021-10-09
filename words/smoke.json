@@ -1,0 +1,114 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to inhale and exhale smoke from a cigarette; to preserve meat or fish by exposure to smoke",
+        "examples": [
+            {
+                "code": "smoke_example_his-father-smoked-heavily-for-many-years",
+                "text": "His father smoked heavily for many years."
+            },
+            {
+                "code": "smoke_example_i-see-too-many-kids-openly-smoking-everywhere",
+                "text": "I see too many kids openly smoking everywhere."
+            },
+            {
+                "code": "smoke_example_she-prefers-her-salmon-to-be-smoked-lightly",
+                "text": "She prefers her salmon to be smoked lightly."
+            },
+            {
+                "code": "smoke_example_his-teenage-son-smokes-in-public",
+                "text": "His teenage son smokes in public."
+            },
+            {
+                "code": "smoke_example_you-cannot-smoke-at-work",
+                "text": "You cannot smoke at work."
+            },
+            {
+                "code": "smoke_example_he-smokes-cigarettes",
+                "text": "He smokes cigarettes."
+            },
+            {
+                "code": "smoke_example_do-you-know-how-to-smoke-salmon",
+                "text": "Do you know how to smoke salmon?"
+            },
+            {
+                "code": "smoke_example_do-you-smoke",
+                "text": "Do you smoke?"
+            },
+            {
+                "code": "smoke_example_how-long-have-you-smoked",
+                "text": "How long have you smoked?"
+            },
+            {
+                "code": "smoke_example_do-not-smoke-here",
+                "text": "Do not smoke here."
+            },
+            {
+                "code": "smoke_example_you-must-smoke-outside",
+                "text": "You must smoke outside."
+            },
+            {
+                "code": "smoke_example_please-do-not-smoke-near-me",
+                "text": "Please do not smoke near me."
+            },
+            {
+                "code": "smoke_example_he-smokes-a-pack-of-cigarettes-a-day",
+                "text": "He smokes a pack of cigarettes a day."
+            }
+        ]
+    },
+    {
+        "type": "(n)",
+        "mean": "the cloud of gases and dust produced by burning something",
+        "examples": [
+            {
+                "code": "smoke_example_we-saw-heavy-smoke-everywhere",
+                "text": "We saw heavy smoke everywhere."
+            },
+            {
+                "code": "smoke_example_i-can-smell-stale-cigar-smoke-on-his-clothes",
+                "text": "I can smell stale cigar smoke on his clothes."
+            },
+            {
+                "code": "smoke_example_the-room-was-filled-with-cigar-smoke",
+                "text": "The room was filled with cigar smoke."
+            },
+            {
+                "code": "smoke_example_many-people-die-each-year-of-second-hand-smoke",
+                "text": "Many people die each year of second-hand smoke."
+            },
+            {
+                "code": "smoke_example_stop-blowing-smoke-in-my-face",
+                "text": "Stop blowing smoke in my face!"
+            },
+            {
+                "code": "smoke_example_the-smoke-filled-the-sky",
+                "text": "The smoke filled the sky."
+            },
+            {
+                "code": "smoke_example_he-inhaled-the-smoke-from-the-fire",
+                "text": "He inhaled the smoke from the fire."
+            },
+            {
+                "code": "smoke_example_when-the-smoke-cleared-we-saw-the-extent-of-the-damage",
+                "text": "When the smoke cleared we saw the extent of the damage."
+            },
+            {
+                "code": "smoke_example_i-need-to-replace-the-smoke-alarm",
+                "text": "I need to replace the smoke alarm."
+            },
+            {
+                "code": "smoke_example_he-went-to-the-hospital-for-smoke-inhalation",
+                "text": "He went to the hospital for smoke inhalation."
+            },
+            {
+                "code": "smoke_example_she-has-to-take-a-smoke-break-every-two-hours",
+                "text": "She has to take a smoke break every two hours."
+            },
+            {
+                "code": "smoke_example_he-blew-smoke-rings-with-his-cigarette",
+                "text": "He blew smoke rings with his cigarette."
+            }
+        ]
+    }
+]

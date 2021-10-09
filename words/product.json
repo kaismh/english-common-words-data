@@ -1,0 +1,76 @@
+[
+    {
+        "type": "(n)",
+        "mean": "something that was made or manufactured, usually for selling purposes",
+        "examples": [
+            {
+                "code": "product_example_we-do-not-test-our-products-on-animals",
+                "text": "We do not test our products on animals."
+            },
+            {
+                "code": "product_example_we-make-safety-products",
+                "text": "We make safety products."
+            },
+            {
+                "code": "product_example_i-only-buy-products-made-locally",
+                "text": "I only buy products made locally."
+            },
+            {
+                "code": "product_example_these-products-are-labeled-organic",
+                "text": "These products are labeled organic."
+            },
+            {
+                "code": "product_example_this-product-has-been-discontinued",
+                "text": "This product has been discontinued."
+            },
+            {
+                "code": "product_example_how-can-we-advertise-our-products",
+                "text": "How can we advertise our products?"
+            },
+            {
+                "code": "product_example_my-company-creates-online-products",
+                "text": "My company creates online products."
+            },
+            {
+                "code": "product_example_we-are-working-on-the-product-design",
+                "text": "We are working on the product design."
+            },
+            {
+                "code": "product_example_our-new-product-line-is-available",
+                "text": "Our new product line is available."
+            },
+            {
+                "code": "product_example_make-sure-you-have-the-correct-product-description-on-the-package",
+                "text": "Make sure you have the correct product description on the package."
+            },
+            {
+                "code": "product_example_product-safety-is-number-one",
+                "text": "Product safety is number one."
+            },
+            {
+                "code": "product_example_this-is-one-of-our-new-products",
+                "text": "This is one of our new products."
+            },
+            {
+                "code": "product_example_i-bought-some-skincare-products-for-her",
+                "text": "I bought some skincare products for her."
+            },
+            {
+                "code": "product_example_the-city-disposes-of-the-waste-products",
+                "text": "The city disposes of the waste products."
+            },
+            {
+                "code": "product_example_i-don-t-eat-animal-products",
+                "text": "I don't eat animal products."
+            },
+            {
+                "code": "product_example_they-make-good-products",
+                "text": "They make good products."
+            },
+            {
+                "code": "product_example_how-do-you-like-the-finished-product",
+                "text": "How do you like the finished product?"
+            }
+        ]
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "type": "(n)",
+        "mean": "an act to fool someone or a skillful act",
+        "examples": [
+            {
+                "code": "trick_example_that-was-a-mean-trick-someone-played-on-him",
+                "text": "That was a mean trick someone played on him."
+            },
+            {
+                "code": "trick_example_that-is-special-trick",
+                "text": "That is special trick!"
+            },
+            {
+                "code": "trick_example_he-knows-how-to-do-card-tricks",
+                "text": "He knows how to do card tricks."
+            },
+            {
+                "code": "trick_example_he-played-a-trick-on-his-sister",
+                "text": "He played a trick on his sister."
+            },
+            {
+                "code": "trick_example_he-falls-for-the-same-trick-every-year",
+                "text": "He falls for the same trick every year."
+            },
+            {
+                "code": "trick_example_the-magician-performs-many-different-tricks-during-his-shows",
+                "text": "The magician performs many different tricks during his shows."
+            },
+            {
+                "code": "trick_example_have-you-learned-any-new-tricks",
+                "text": "Have you learned any new tricks?"
+            },
+            {
+                "code": "trick_example_do-you-know-any-good-tricks",
+                "text": "Do you know any good tricks?"
+            },
+            {
+                "code": "trick_example_there-was-a-trick-question-on-the-test",
+                "text": "There was a trick question on the test."
+            },
+            {
+                "code": "trick_example_do-you-know-any-tricks-for-removing-coffee-stains",
+                "text": "Do you know any tricks for removing coffee stains?"
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to fool someone; to make someone believe something that is not true",
+        "examples": [
+            {
+                "code": "trick_example_he-tricked-me-into-thinking-i-was-wrong",
+                "text": "He tricked me into thinking I was wrong."
+            },
+            {
+                "code": "trick_example_she-tricked-him-by-wearing-a-mask",
+                "text": "She tricked him by wearing a mask."
+            }
+        ]
+    }
+]

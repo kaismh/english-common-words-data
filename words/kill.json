@@ -1,0 +1,66 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to cause the death of someone or something",
+        "examples": [
+            {
+                "code": "kill_example_the-gun-shot-nearly-killed-him",
+                "text": "The gun shot nearly killed him."
+            },
+            {
+                "code": "kill_example_i-don-t-believe-that-he-intentionally-killed-her",
+                "text": "I don't believe that he intentionally killed her."
+            },
+            {
+                "code": "kill_example_he-was-needlessly-killed",
+                "text": "He was needlessly killed."
+            },
+            {
+                "code": "kill_example_she-was-on-trial-for-allegedly-killing-her-husband",
+                "text": "She was on trial for allegedly killing her husband."
+            },
+            {
+                "code": "kill_example_he-was-going-to-kill-the-spider",
+                "text": "He was going to kill the spider."
+            },
+            {
+                "code": "kill_example_they-plotted-to-kill-the-dictator",
+                "text": "They plotted to kill the dictator."
+            },
+            {
+                "code": "kill_example_the-army-killed-many-people",
+                "text": "The army killed many people."
+            },
+            {
+                "code": "kill_example_they-killed-the-animal",
+                "text": "They killed the animal."
+            }
+        ]
+    },
+    {
+        "type": "(n)",
+        "mean": "the act of causing death",
+        "examples": [
+            {
+                "code": "kill_example_the-tiger-made-a-clean-kill",
+                "text": "The tiger made a clean kill."
+            },
+            {
+                "code": "kill_example_the-hungry-cougar-smelled-the-fresh-kill",
+                "text": "The hungry cougar smelled the fresh kill."
+            },
+            {
+                "code": "kill_example_the-animal-made-a-quick-kill",
+                "text": "The animal made a quick kill."
+            },
+            {
+                "code": "kill_example_the-lion-moved-in-for-the-kill",
+                "text": "The lion moved in for the kill."
+            },
+            {
+                "code": "kill_example_the-poachers-prepared-for-the-kill",
+                "text": "The poachers prepared for the kill."
+            }
+        ]
+    }
+]

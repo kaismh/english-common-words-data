@@ -1,0 +1,120 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a legal relationship between husband and wife",
+        "examples": [
+            {
+                "code": "marriage_example_the-government-doesn-t-recognize-their-marriage",
+                "text": "The government doesn't recognize their marriage."
+            },
+            {
+                "code": "marriage_example_their-marriage-ended-in-2003",
+                "text": "Their marriage ended in 2003."
+            },
+            {
+                "code": "marriage_example_they-have-a-great-marriage",
+                "text": "They have a great marriage."
+            },
+            {
+                "code": "marriage_example_the-marriage-was-never-consummated",
+                "text": "The marriage was never consummated."
+            },
+            {
+                "code": "marriage_example_he-proposed-marriage-a-month-ago",
+                "text": "He proposed marriage a month ago."
+            },
+            {
+                "code": "marriage_example_our-marriage-was-dissolved",
+                "text": "Our marriage was dissolved."
+            },
+            {
+                "code": "marriage_example_the-marriage-didn-t-last",
+                "text": "The marriage didn't last."
+            },
+            {
+                "code": "marriage_example_she-has-a-happy-marriage",
+                "text": "She has a happy marriage."
+            },
+            {
+                "code": "marriage_example_he-proposed-marriage-after-one-year",
+                "text": "He proposed marriage after one year."
+            },
+            {
+                "code": "marriage_example_they-entered-into-marriage-at-a-young-age",
+                "text": "They entered into marriage at a young age."
+            },
+            {
+                "code": "marriage_example_they-consummated-their-marriage-on-their-honeymoon",
+                "text": "They consummated their marriage on their honeymoon."
+            },
+            {
+                "code": "marriage_example_we-are-trying-to-save-our-marriage",
+                "text": "We are trying to save our marriage."
+            },
+            {
+                "code": "marriage_example_the-country-wants-to-legalize-same-sax-marriage",
+                "text": "The country wants to legalize same sax marriage."
+            },
+            {
+                "code": "marriage_example_we-applied-for-a-marriage-license",
+                "text": "We applied for a marriage license."
+            },
+            {
+                "code": "marriage_example_we-are-having-marriage-problems",
+                "text": "We are having marriage problems."
+            },
+            {
+                "code": "marriage_example_we-saw-a-marriage-counselor",
+                "text": "We saw a marriage counselor."
+            },
+            {
+                "code": "marriage_example_did-you-write-your-marriage-vows",
+                "text": "Did you write your marriage vows?"
+            },
+            {
+                "code": "marriage_example_we-need-marriage-counseling",
+                "text": "We need marriage counseling."
+            },
+            {
+                "code": "marriage_example_he-planned-a-romantic-marriage-proposal",
+                "text": "He planned a romantic marriage proposal."
+            },
+            {
+                "code": "marriage_example_my-first-marriage-ended-quickly",
+                "text": "My first marriage ended quickly."
+            },
+            {
+                "code": "marriage_example_i-have-had-two-failed-marriages",
+                "text": "I have had two failed marriages."
+            },
+            {
+                "code": "marriage_example_they-have-a-healthy-marriage",
+                "text": "They have a healthy marriage."
+            },
+            {
+                "code": "marriage_example_he-had-an-arranged-marriage",
+                "text": "He had an arranged marriage."
+            },
+            {
+                "code": "marriage_example_we-have-had-a-successful-marriage",
+                "text": "We have had a successful marriage."
+            },
+            {
+                "code": "marriage_example_she-is-unhappy-with-their-marriage",
+                "text": "She is unhappy with their marriage."
+            },
+            {
+                "code": "marriage_example_her-marriage-to-him-lasted-only-one-year",
+                "text": "Her marriage to him lasted only one year."
+            },
+            {
+                "code": "marriage_example_i-am-related-to-her-by-marriage",
+                "text": "I am related to her by marriage."
+            },
+            {
+                "code": "marriage_example_i-have-two-children-from-a-previous-marriage",
+                "text": "I have two children from a previous marriage."
+            }
+        ]
+    }
+]

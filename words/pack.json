@@ -1,0 +1,74 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a bag carried on the back; a group of things or animals",
+        "examples": [
+            {
+                "code": "pack_example_wolves-are-pack-animals",
+                "text": "Wolves are pack animals."
+            },
+            {
+                "code": "pack_example_the-dog-leads-his-pack-to-safety",
+                "text": "The dog leads his pack to safety."
+            },
+            {
+                "code": "pack_example_the-gift-pack-contains-extra-products",
+                "text": "The gift pack contains extra products."
+            },
+            {
+                "code": "pack_example_don-t-forget-to-bring-your-lunch-pack-to-school-today",
+                "text": "Don't forget to bring your lunch pack to school today."
+            },
+            {
+                "code": "pack_example_he-smokes-two-cigarette-packs-a-day",
+                "text": "He smokes two cigarette packs a day."
+            },
+            {
+                "code": "pack_example_the-lotion-came-in-the-gift-pack",
+                "text": "The lotion came in the gift pack."
+            },
+            {
+                "code": "pack_example_a-pack-of-dogs-ran-through-the-street",
+                "text": "A pack of dogs ran through the street."
+            },
+            {
+                "code": "pack_example_she-smokes-a-pack-of-cigarettes-every-day",
+                "text": "She smokes a pack of cigarettes every day."
+            },
+            {
+                "code": "pack_example_there-are-52-cards-in-a-pack",
+                "text": "There are 52 cards in a pack."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to insert, wrap or put items together; to fill a container; to put clothes in a suitcase for traveling",
+        "examples": [
+            {
+                "code": "pack_example_i-need-to-pack-my-suitcase",
+                "text": "I need to pack my suitcase."
+            },
+            {
+                "code": "pack_example_i-ll-pack-the-things-into-a-backpack",
+                "text": "I'll pack the things into a backpack."
+            },
+            {
+                "code": "pack_example_fans-packed-the-stadium",
+                "text": "Fans packed the stadium."
+            },
+            {
+                "code": "pack_example_pack-up-your-things-quickly-so-we-can-go",
+                "text": "Pack up your things quickly so we can go."
+            },
+            {
+                "code": "pack_example_i-packed-my-clothes-into-the-trunk",
+                "text": "I packed my clothes into the trunk."
+            },
+            {
+                "code": "pack_example_there-were-too-many-people-packed-into-the-concert-hall",
+                "text": "There were too many people packed into the concert hall."
+            }
+        ]
+    }
+]

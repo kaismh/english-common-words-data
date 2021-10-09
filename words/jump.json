@@ -1,0 +1,82 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to move your body upward by pushing with your legs; to move suddenly",
+        "examples": [
+            {
+                "code": "jump_example_she-suddenly-jumped-off-the-couch",
+                "text": "She suddenly jumped off the couch."
+            },
+            {
+                "code": "jump_example_he-was-jumping-up-and-down-with-excitement",
+                "text": "He was jumping up and down with excitement."
+            },
+            {
+                "code": "jump_example_she-immediately-jumped-when-the-dog-started-barking",
+                "text": "She immediately jumped when the dog started barking."
+            },
+            {
+                "code": "jump_example_he-tried-to-jump-from-the-second-floor",
+                "text": "He tried to jump from the second floor."
+            },
+            {
+                "code": "jump_example_the-loud-sound-made-her-jump",
+                "text": "The loud sound made her jump."
+            },
+            {
+                "code": "jump_example_he-had-to-jump-from-the-bridge",
+                "text": "He had to jump from the bridge."
+            },
+            {
+                "code": "jump_example_stop-jumping-on-the-sofa",
+                "text": "Stop jumping on the sofa!"
+            },
+            {
+                "code": "jump_example_she-jumped-up-onto-the-table",
+                "text": "She jumped up onto the table."
+            },
+            {
+                "code": "jump_example_he-can-jump-over-the-fence",
+                "text": "He can jump over the fence."
+            },
+            {
+                "code": "jump_example_the-dog-can-jump-through-hoops",
+                "text": "The dog can jump through hoops."
+            }
+        ]
+    },
+    {
+        "type": "(n)",
+        "mean": "a sudden increase; the act of moving your body upward by pushing with your legs",
+        "examples": [
+            {
+                "code": "jump_example_his-favorite-event-is-the-high-jump",
+                "text": "His favorite event is the high jump."
+            },
+            {
+                "code": "jump_example_he-took-a-small-jump-forward",
+                "text": "He took a small jump forward."
+            },
+            {
+                "code": "jump_example_there-was-a-sudden-jump-in-the-price",
+                "text": "There was a sudden jump in the price."
+            },
+            {
+                "code": "jump_example_he-took-a-running-jump-over-the-water",
+                "text": "He took a running jump over the water."
+            },
+            {
+                "code": "jump_example_he-s-going-to-do-a-bungee-jump",
+                "text": "He's going to do a bungee jump."
+            },
+            {
+                "code": "jump_example_he-won-a-gold-medal-in-the-long-jump",
+                "text": "He won a gold medal in the long jump."
+            },
+            {
+                "code": "jump_example_there-was-a-sudden-jump-in-the-price",
+                "text": "There was a sudden jump in the price."
+            }
+        ]
+    }
+]

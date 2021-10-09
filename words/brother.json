@@ -1,0 +1,32 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a male sibling",
+        "examples": [
+            {
+                "code": "brother_example_my-big-brother-is-getting-married",
+                "text": "My big brother is getting married."
+            },
+            {
+                "code": "brother_example_he-is-my-step-brother",
+                "text": "He is my step brother."
+            },
+            {
+                "code": "brother_example_we-remember-our-late-brother-every-year-on-his-birthday",
+                "text": "We remember our late brother every year on his birthday."
+            },
+            {
+                "code": "brother_example_he-looks-like-my-brother",
+                "text": "He looks like my brother."
+            },
+            {
+                "code": "brother_example_he-is-my-brother",
+                "text": "He is my brother."
+            },
+            {
+                "code": "brother_example_i-have-three-brothers",
+                "text": "I have three brothers."
+            }
+        ]
+    }
+]

@@ -1,0 +1,114 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a small spot or stain; a grade; a target",
+        "examples": [
+            {
+                "code": "mark_example_the-bite-left-a-mark-on-my-leg",
+                "text": "The bite left a mark on my leg."
+            },
+            {
+                "code": "mark_example_he-received-high-marks-on-his-final-exam",
+                "text": "He received high marks on his final exam."
+            },
+            {
+                "code": "mark_example_she-reached-the-halfway-mark-in-the-obstacle-course",
+                "text": "She reached the halfway mark in the obstacle course."
+            },
+            {
+                "code": "mark_example_the-hunter-missed-his-mark",
+                "text": "The hunter missed his mark."
+            },
+            {
+                "code": "mark_example_there-are-skid-marks-on-my-driveway",
+                "text": "There are skid marks on my driveway."
+            },
+            {
+                "code": "mark_example_his-shoes-left-dirty-marks-on-the-floor",
+                "text": "His shoes left dirty marks on the floor."
+            },
+            {
+                "code": "mark_example_he-has-a-birthmark-on-his-arm",
+                "text": "He has a birthmark on his arm."
+            },
+            {
+                "code": "mark_example_there-are-some-pencil-marks-on-the-paper",
+                "text": "There are some pencil marks on the paper."
+            },
+            {
+                "code": "mark_example_she-got-high-marks-on-the-test",
+                "text": "She got high marks on the test."
+            },
+            {
+                "code": "mark_example_we-reached-the-halfway-mark-around-noon",
+                "text": "We reached the halfway mark around noon."
+            },
+            {
+                "code": "mark_example_the-deer-is-an-easy-mark-for-hunters",
+                "text": "The deer is an easy mark for hunters."
+            },
+            {
+                "code": "mark_example_there-is-a-mark-on-the-paper",
+                "text": "There is a mark on the paper."
+            },
+            {
+                "code": "mark_example_she-received-high-marks-for-effort",
+                "text": "She received high marks for effort."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to write a note; to make or leave a spot or stain; to recognize",
+        "examples": [
+            {
+                "code": "mark_example_how-did-you-mark-their-progress",
+                "text": "How did you mark their progress?"
+            },
+            {
+                "code": "mark_example_this-marks-a-turning-point-for-us",
+                "text": "This marks a turning point for us."
+            },
+            {
+                "code": "mark_example_they-marked-the-perimeter-with-cones",
+                "text": "They marked the perimeter with cones."
+            },
+            {
+                "code": "mark_example_i-marked-the-ballot",
+                "text": "I marked the ballot."
+            },
+            {
+                "code": "mark_example_we-marked-his-passing-with-a-ceremony",
+                "text": "We marked his passing with a ceremony."
+            },
+            {
+                "code": "mark_example_the-spot-has-been-clearly-marked",
+                "text": "The spot has been clearly marked."
+            },
+            {
+                "code": "mark_example_they-officially-marked-the-occasion-with-a-big-ceremony",
+                "text": "They officially marked the occasion with a big ceremony."
+            },
+            {
+                "code": "mark_example_we-marked-that-paper-as-completed",
+                "text": "We marked that paper as completed."
+            },
+            {
+                "code": "mark_example_the-test-is-marked-with-a-letter",
+                "text": "The test is marked with a letter."
+            },
+            {
+                "code": "mark_example_make-the-mark-in-ink",
+                "text": "Make the mark in ink."
+            },
+            {
+                "code": "mark_example_the-pen-made-a-mark-on-my-suit",
+                "text": "The pen made a mark on my suit."
+            },
+            {
+                "code": "mark_example_the-building-is-marked-for-demolition",
+                "text": "The building is marked for demolition."
+            }
+        ]
+    }
+]

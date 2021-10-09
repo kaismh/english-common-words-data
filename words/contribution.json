@@ -1,0 +1,48 @@
+[
+    {
+        "type": "(n)",
+        "mean": "money or help that is given to a person or organization for a specific cause",
+        "examples": [
+            {
+                "code": "contribution_example_their-generous-contribution-helped-build-a-new-stadium",
+                "text": "Their generous contribution helped build a new stadium."
+            },
+            {
+                "code": "contribution_example_they-make-important-contributions-to-society",
+                "text": "They make important contributions to society."
+            },
+            {
+                "code": "contribution_example_they-made-a-small-contribution-to-the-team",
+                "text": "They made a small contribution to the team."
+            },
+            {
+                "code": "contribution_example_she-was-rewarded-for-her-outstanding-contributions",
+                "text": "She was rewarded for her outstanding contributions."
+            },
+            {
+                "code": "contribution_example_each-student-has-made-an-individual-contribution-to-the-class-project",
+                "text": "Each student has made an individual contribution to the class project."
+            },
+            {
+                "code": "contribution_example_we-are-asking-for-more-charitable-contributions",
+                "text": "We are asking for more charitable contributions."
+            },
+            {
+                "code": "contribution_example_they-rely-on-your-annual-contribution",
+                "text": "They rely on your annual contribution."
+            },
+            {
+                "code": "contribution_example_they-make-monthly-contributions-to-their-church",
+                "text": "They make monthly contributions to their church."
+            },
+            {
+                "code": "contribution_example_we-are-asking-for-a-campaign-contribution",
+                "text": "We are asking for a campaign contribution."
+            },
+            {
+                "code": "contribution_example_she-gave-a-large-contribution-to-charity",
+                "text": "She gave a large contribution to charity."
+            }
+        ]
+    }
+]

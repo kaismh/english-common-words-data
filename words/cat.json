@@ -1,0 +1,68 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a small animal with fur and sharp claws that is often kept as a pet",
+        "examples": [
+            {
+                "code": "cat_example_domestic-cats-are-popular-in-our-neighborhood",
+                "text": "Domestic cats are popular in our neighborhood."
+            },
+            {
+                "code": "cat_example_lions-are-big-cats",
+                "text": "Lions are big cats."
+            },
+            {
+                "code": "cat_example_there-are-too-many-stray-cats-around-here",
+                "text": "There are too many stray cats around here."
+            },
+            {
+                "code": "cat_example_do-you-have-a-cat",
+                "text": "Do you have a cat?"
+            },
+            {
+                "code": "cat_example_don-t-forget-to-feed-the-cat",
+                "text": "Don't forget to feed the cat."
+            },
+            {
+                "code": "cat_example_we-should-probably-neuter-our-cat",
+                "text": "We should probably neuter our cat."
+            },
+            {
+                "code": "cat_example_she-loves-to-stroke-her-cat",
+                "text": "She loves to stroke her cat."
+            },
+            {
+                "code": "cat_example_your-cat-hissed-at-me",
+                "text": "Your cat hissed at me."
+            },
+            {
+                "code": "cat_example_his-cat-bites",
+                "text": "His cat bites."
+            },
+            {
+                "code": "cat_example_our-cat-catches-mice",
+                "text": "Our cat catches mice."
+            },
+            {
+                "code": "cat_example_the-cat-jumped-on-the-mouse",
+                "text": "The cat jumped on the mouse."
+            },
+            {
+                "code": "cat_example_she-goes-out-through-the-cat-door",
+                "text": "She goes out through the cat door."
+            },
+            {
+                "code": "cat_example_we-need-to-buy-some-cat-food",
+                "text": "We need to buy some cat food."
+            },
+            {
+                "code": "cat_example_clean-up-this-cat-hair",
+                "text": "Clean up this cat hair."
+            },
+            {
+                "code": "cat_example_she-is-a-cat-lover",
+                "text": "She is a cat lover."
+            }
+        ]
+    }
+]

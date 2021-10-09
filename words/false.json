@@ -1,0 +1,40 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "not true or real",
+        "examples": [
+            {
+                "code": "false_example_his-war-stories-were-absolutely-false",
+                "text": "His war stories were absolutely false."
+            },
+            {
+                "code": "false_example_their-claims-against-him-were-clearly-false",
+                "text": "Their claims against him were clearly false."
+            },
+            {
+                "code": "false_example_the-rumors-about-him-proved-to-be-false",
+                "text": "The rumors about him proved to be false."
+            },
+            {
+                "code": "false_example_his-story-is-false",
+                "text": "His story is false."
+            },
+            {
+                "code": "false_example_my-grandfather-has-false-teeth",
+                "text": "My grandfather has false teeth."
+            },
+            {
+                "code": "false_example_the-fire-was-a-false-alarm",
+                "text": "The fire was a false alarm."
+            },
+            {
+                "code": "false_example_he-was-charged-with-giving-false-information-to-the-police",
+                "text": "He was charged with giving false information to the police."
+            },
+            {
+                "code": "false_example_he-is-wearing-a-false-mustache",
+                "text": "He is wearing a false mustache."
+            }
+        ]
+    }
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to be able to tell who someone is or what something is; to find or discover",
+        "examples": [
+            {
+                "code": "identify_example_the-witness-could-not-accurately-identify-the-robber",
+                "text": "The witness could not accurately identify the robber."
+            },
+            {
+                "code": "identify_example_she-incorrectly-identified-an-innocent-man-as-the-murderer",
+                "text": "She incorrectly identified an innocent man as the murderer."
+            },
+            {
+                "code": "identify_example_i-could-easily-identify-him-because-of-the-scar-on-his-face",
+                "text": "I could easily identify him because of the scar on his face."
+            },
+            {
+                "code": "identify_example_nathan-successfully-identified-all-the-european-countries-on-the-map",
+                "text": "Nathan successfully identified all the European countries on the map."
+            },
+            {
+                "code": "identify_example_the-report-did-not-specifically-identify-the-location-of-the-accident",
+                "text": "The report did not specifically identify the location of the accident."
+            },
+            {
+                "code": "identify_example_they-are-trying-to-formally-identify-the-remains-of-the-body",
+                "text": "They are trying to formally identify the remains of the body."
+            },
+            {
+                "code": "identify_example_she-was-initially-identified-as-the-sole-survivor",
+                "text": "She was initially identified as the sole survivor."
+            },
+            {
+                "code": "identify_example_are-you-able-to-identify-this-person",
+                "text": "Are you able to identify this person?"
+            },
+            {
+                "code": "identify_example_you-need-to-identify-what-is-causing-the-leak",
+                "text": "You need to identify what is causing the leak."
+            },
+            {
+                "code": "identify_example_many-researchers-are-hoping-to-identify-ways-to-improve-cancer-treatment",
+                "text": "Many researchers are hoping to identify ways to improve cancer treatment."
+            },
+            {
+                "code": "identify_example_the-article-failed-to-identify-the-victim",
+                "text": "The article failed to identify the victim."
+            }
+        ]
+    }
+]

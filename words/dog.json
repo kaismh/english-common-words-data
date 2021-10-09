@@ -1,0 +1,72 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a furry animal with four legs and a tail that is often kept as a pet",
+        "examples": [
+            {
+                "code": "dog_example_domestic-dogs-can-be-housetrained",
+                "text": "Domestic dogs can be housetrained."
+            },
+            {
+                "code": "dog_example_be-careful-around-stray-dogs",
+                "text": "Be careful around stray dogs."
+            },
+            {
+                "code": "dog_example_his-dog-is-friendly",
+                "text": "His dog is friendly."
+            },
+            {
+                "code": "dog_example_she-has-a-pure-bred-dog",
+                "text": "She has a pure-bred dog."
+            },
+            {
+                "code": "dog_example_that-dog-is-trained-to-be-a-hunting-dog",
+                "text": "That dog is trained to be a hunting dog."
+            },
+            {
+                "code": "dog_example_do-you-have-a-dog",
+                "text": "Do you have a dog?"
+            },
+            {
+                "code": "dog_example_she-trains-dogs",
+                "text": "She trains dogs."
+            },
+            {
+                "code": "dog_example_remember-to-feed-the-dog",
+                "text": "Remember to feed the dog."
+            },
+            {
+                "code": "dog_example_they-had-to-put-down-the-dog",
+                "text": "They had to put down the dog."
+            },
+            {
+                "code": "dog_example_the-veterinarian-will-neuter-our-dog",
+                "text": "The veterinarian will neuter our dog."
+            },
+            {
+                "code": "dog_example_the-neighbor-s-dog-barks",
+                "text": "The neighbor's dog barks."
+            },
+            {
+                "code": "dog_example_our-dog-likes-to-run",
+                "text": "Our dog likes to run."
+            },
+            {
+                "code": "dog_example_give-him-a-dog-biscuit",
+                "text": "Give him a dog biscuit."
+            },
+            {
+                "code": "dog_example_we-need-to-buy-dog-food",
+                "text": "We need to buy dog food."
+            },
+            {
+                "code": "dog_example_don-t-forget-the-dog-collar",
+                "text": "Don't forget the dog collar."
+            },
+            {
+                "code": "dog_example_we-re-taking-him-to-the-dog-pound",
+                "text": "We're taking him to the dog pound."
+            }
+        ]
+    }
+]

@@ -1,0 +1,92 @@
+[
+    {
+        "type": "(n)",
+        "mean": "detailed information on how to do something; something that someone tells you to do",
+        "examples": [
+            {
+                "code": "instruction_example_he-provided-clear-instructions",
+                "text": "He provided clear instructions."
+            },
+            {
+                "code": "instruction_example_the-instructions-were-very-complex",
+                "text": "The instructions were very complex."
+            },
+            {
+                "code": "instruction_example_he-prefers-verbal-instructions",
+                "text": "He prefers verbal instructions."
+            },
+            {
+                "code": "instruction_example_she-lost-the-safety-instructions",
+                "text": "She lost the safety instructions."
+            },
+            {
+                "code": "instruction_example_she-was-given-explicit-instructions-of-what-to-do-with-her-grandmother-s-estate",
+                "text": "She was given explicit instructions of what to do with her grandmother's estate."
+            },
+            {
+                "code": "instruction_example_she-gave-her-children-strict-instructions-not-to-open-the-door",
+                "text": "She gave her children strict instructions not to open the door."
+            },
+            {
+                "code": "instruction_example_we-are-waiting-for-further-instructions-from-his-father-s-will",
+                "text": "We are waiting for further instructions from his father's will."
+            },
+            {
+                "code": "instruction_example_you-should-always-read-the-instructions",
+                "text": "You should always read the instructions."
+            },
+            {
+                "code": "instruction_example_he-did-not-understand-the-instructions",
+                "text": "He did not understand the instructions."
+            },
+            {
+                "code": "instruction_example_she-gave-him-detailed-instructions",
+                "text": "She gave him detailed instructions."
+            },
+            {
+                "code": "instruction_example_please-repeat-the-instructions",
+                "text": "Please repeat the instructions."
+            },
+            {
+                "code": "instruction_example_the-appliance-came-with-instructions",
+                "text": "The appliance came with instructions."
+            },
+            {
+                "code": "instruction_example_he-failed-to-carry-out-his-manager-s-instructions",
+                "text": "He failed to carry out his manager's instructions."
+            },
+            {
+                "code": "instruction_example_he-has-detailed-instructions-of-what-to-do-in-case-of-an-emergency",
+                "text": "He has detailed instructions of what to do in case of an emergency."
+            },
+            {
+                "code": "instruction_example_she-was-fired-for-disobeying-his-clear-instructions",
+                "text": "She was fired for disobeying his clear instructions."
+            },
+            {
+                "code": "instruction_example_i-had-to-refer-to-the-instruction-manual",
+                "text": "I had to refer to the instruction manual."
+            },
+            {
+                "code": "instruction_example_service-your-car-according-to-the-instruction-manual",
+                "text": "Service your car according to the instruction manual."
+            },
+            {
+                "code": "instruction_example_she-needed-the-instructions-on-how-to-use-the-printer",
+                "text": "She needed the instructions on how to use the printer."
+            },
+            {
+                "code": "instruction_example_we-are-waiting-for-the-instructions-about-what-to-do",
+                "text": "We are waiting for the instructions about what to do."
+            },
+            {
+                "code": "instruction_example_follow-the-instructions-for-beginners",
+                "text": "Follow the instructions for beginners."
+            },
+            {
+                "code": "instruction_example_we-are-waiting-for-further-instructions-from-the-boss",
+                "text": "We are waiting for further instructions from the boss."
+            }
+        ]
+    }
+]

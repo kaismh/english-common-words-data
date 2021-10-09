@@ -1,0 +1,146 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a word or symbol that represents an amount or quantity; telephone number",
+        "examples": [
+            {
+                "code": "number_example_i-recorded-the-number",
+                "text": "I recorded the number."
+            },
+            {
+                "code": "number_example_i-was-assigned-a-number",
+                "text": "I was assigned a number."
+            },
+            {
+                "code": "number_example_we-limited-the-number-of-choices",
+                "text": "We limited the number of choices."
+            },
+            {
+                "code": "number_example_we-exchanged-numbers-at-the-party",
+                "text": "We exchanged numbers at the party."
+            },
+            {
+                "code": "number_example_i-gave-her-my-number",
+                "text": "I gave her my number."
+            },
+            {
+                "code": "number_example_i-called-your-number-this-morning",
+                "text": "I called your number this morning."
+            },
+            {
+                "code": "number_example_the-number-of-crimes-has-increased",
+                "text": "The number of crimes has increased."
+            },
+            {
+                "code": "number_example_i-estimated-the-number",
+                "text": "I estimated the number."
+            },
+            {
+                "code": "number_example_we-added-the-numbers",
+                "text": "We added the numbers."
+            },
+            {
+                "code": "number_example_he-doubled-the-number",
+                "text": "He doubled the number."
+            },
+            {
+                "code": "number_example_i-wrote-down-the-wrong-number",
+                "text": "I wrote down the wrong number."
+            },
+            {
+                "code": "number_example_what-is-the-maximum-number-of-dogs-you-can-have",
+                "text": "What is the maximum number of dogs you can have?"
+            },
+            {
+                "code": "number_example_calculate-the-average-number",
+                "text": "Calculate the average number."
+            },
+            {
+                "code": "number_example_they-have-an-adequate-number-of-items",
+                "text": "They have an adequate number of items."
+            },
+            {
+                "code": "number_example_he-dialed-the-wrong-number",
+                "text": "He dialed the wrong number."
+            },
+            {
+                "code": "number_example_what-is-an-example-of-a-prime-number",
+                "text": "What is an example of a prime number?"
+            },
+            {
+                "code": "number_example_i-don-t-know-the-final-number",
+                "text": "I don't know the final number."
+            },
+            {
+                "code": "number_example_the-number-is-unknown",
+                "text": "The number is unknown."
+            },
+            {
+                "code": "number_example_do-you-know-the-model-number",
+                "text": "Do you know the model number?"
+            },
+            {
+                "code": "number_example_what-s-your-lucky-number",
+                "text": "What's your lucky number?"
+            },
+            {
+                "code": "number_example_they-have-an-infinite-number-of-choices",
+                "text": "They have an infinite number of choices."
+            },
+            {
+                "code": "number_example_what-page-number-are-you-on",
+                "text": "What page number are you on?"
+            },
+            {
+                "code": "number_example_we-got-his-apartment-number",
+                "text": "We got his apartment number."
+            },
+            {
+                "code": "number_example_she-has-a-huge-number-of-businesses",
+                "text": "She has a huge number of businesses."
+            },
+            {
+                "code": "number_example_do-you-know-your-flight-number",
+                "text": "Do you know your flight number?"
+            },
+            {
+                "code": "number_example_we-have-a-small-number-of-guests",
+                "text": "We have a small number of guests."
+            },
+            {
+                "code": "number_example_did-you-call-the-emergency-number",
+                "text": "Did you call the emergency number?"
+            },
+            {
+                "code": "number_example_there-are-a-number-of-reasons",
+                "text": "There are a number of reasons."
+            },
+            {
+                "code": "number_example_there-are-three-in-number",
+                "text": "There are three in number."
+            },
+            {
+                "code": "number_example_we-are-at-number-10-on-the-list",
+                "text": "We are at number 10 on the list."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to give a number to someone or something",
+        "examples": [
+            {
+                "code": "number_example_the-rooms-are-clearly-numbered",
+                "text": "The rooms are clearly numbered."
+            },
+            {
+                "code": "number_example_the-books-are-numbered-according-to-year",
+                "text": "The books are numbered according to year."
+            },
+            {
+                "code": "number_example_they-are-numbered-from-one-to-ten",
+                "text": "They are numbered from one to ten."
+            }
+        ]
+    }
+]

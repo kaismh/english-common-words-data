@@ -1,0 +1,88 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a public road in a city or town",
+        "examples": [
+            {
+                "code": "street_example_they-live-on-a-busy-street",
+                "text": "They live on a busy street."
+            },
+            {
+                "code": "street_example_we-drove-through-a-deserted-street",
+                "text": "We drove through a deserted street."
+            },
+            {
+                "code": "street_example_the-city-is-known-to-have-clean-streets",
+                "text": "The city is known to have clean streets."
+            },
+            {
+                "code": "street_example_we-couldn-t-get-through-the-flooded-street",
+                "text": "We couldn't get through the flooded street."
+            },
+            {
+                "code": "street_example_i-took-the-wrong-street",
+                "text": "I took the wrong street."
+            },
+            {
+                "code": "street_example_he-told-me-to-take-the-first-street-on-the-right",
+                "text": "He told me to take the first street on the right."
+            },
+            {
+                "code": "street_example_she-has-to-cross-the-street-to-go-home",
+                "text": "She has to cross the street to go home."
+            },
+            {
+                "code": "street_example_the-police-blocked-the-street",
+                "text": "The police blocked the street."
+            },
+            {
+                "code": "street_example_we-decided-to-walk-down-the-street",
+                "text": "We decided to walk down the street."
+            },
+            {
+                "code": "street_example_people-packed-the-streets-to-watch-the-parade",
+                "text": "People packed the streets to watch the parade."
+            },
+            {
+                "code": "street_example_there-are-bars-on-every-street-corner",
+                "text": "There are bars on every street corner."
+            },
+            {
+                "code": "street_example_the-city-has-become-famous-for-street-attacks",
+                "text": "The city has become famous for street attacks."
+            },
+            {
+                "code": "street_example_i-couldn-t-see-the-street-sign-in-the-rain",
+                "text": "I couldn't see the street sign in the rain."
+            },
+            {
+                "code": "street_example_we-saw-lots-of-street-performers-in-new-york",
+                "text": "We saw lots of street performers in New York."
+            },
+            {
+                "code": "street_example_the-street-lamps-were-all-out",
+                "text": "The street lamps were all out."
+            },
+            {
+                "code": "street_example_do-you-see-the-sign-across-the-street",
+                "text": "Do you see the sign across the street?"
+            },
+            {
+                "code": "street_example_we-walked-along-the-narrow-street",
+                "text": "We walked along the narrow street."
+            },
+            {
+                "code": "street_example_the-store-is-just-up-the-street-from-me",
+                "text": "The store is just up the street from me."
+            },
+            {
+                "code": "street_example_we-used-to-live-on-the-same-street",
+                "text": "We used to live on the same street."
+            },
+            {
+                "code": "street_example_the-kids-were-playing-in-the-street",
+                "text": "The kids were playing in the street."
+            }
+        ]
+    }
+]

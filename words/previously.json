@@ -1,0 +1,36 @@
+[
+    {
+        "type": "(adv)",
+        "mean": "in the past",
+        "examples": [
+            {
+                "code": "previously_example_we-previously-cited-the-same-article",
+                "text": "We previously cited the same article."
+            },
+            {
+                "code": "previously_example_where-have-you-previously-worked",
+                "text": "Where have you previously worked?"
+            },
+            {
+                "code": "previously_example_as-i-noted-previously-it-is-too-late",
+                "text": "As I noted previously, it is too late."
+            },
+            {
+                "code": "previously_example_the-judge-had-previously-ruled-on-a-similar-case",
+                "text": "The judge had previously ruled on a similar case."
+            },
+            {
+                "code": "previously_example_she-discovered-a-previously-unknown-species",
+                "text": "She discovered a previously unknown species."
+            },
+            {
+                "code": "previously_example_it-was-previously-impossible-to-do-that",
+                "text": "It was previously impossible to do that."
+            },
+            {
+                "code": "previously_example_she-was-previously-married",
+                "text": "She was previously married."
+            }
+        ]
+    }
+]

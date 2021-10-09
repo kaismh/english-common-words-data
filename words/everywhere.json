@@ -1,0 +1,48 @@
+[
+    {
+        "type": "(adv)",
+        "mean": "all over the place; in all places",
+        "examples": [
+            {
+                "code": "everywhere_example_her-clothes-were-scattered-everywhere",
+                "text": "Her clothes were scattered everywhere."
+            },
+            {
+                "code": "everywhere_example_i-want-to-visit-everywhere-i-can",
+                "text": "I want to visit everywhere I can."
+            },
+            {
+                "code": "everywhere_example_i-looked-everywhere-and-couldn-t-find-my-keys",
+                "text": "I looked everywhere and couldn't find my keys."
+            },
+            {
+                "code": "everywhere_example_the-students-came-from-everywhere-around-the-world",
+                "text": "The students came from everywhere around the world."
+            },
+            {
+                "code": "everywhere_example_fans-seem-to-follow-him-everywhere-he-goes",
+                "text": "Fans seem to follow him everywhere he goes."
+            },
+            {
+                "code": "everywhere_example_i-see-this-trend-everywhere-these-days",
+                "text": "I see this trend everywhere these days."
+            },
+            {
+                "code": "everywhere_example_the-scandal-is-being-discussed-everywhere",
+                "text": "The scandal is being discussed everywhere."
+            },
+            {
+                "code": "everywhere_example_he-has-been-everywhere-in-the-world",
+                "text": "He has been everywhere in the world."
+            },
+            {
+                "code": "everywhere_example_it-is-everywhere",
+                "text": "It is everywhere!"
+            },
+            {
+                "code": "everywhere_example_people-are-everywhere",
+                "text": "People are everywhere!"
+            }
+        ]
+    }
+]

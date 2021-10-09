@@ -1,0 +1,40 @@
+[
+    {
+        "type": "(n)",
+        "mean": "one of the five parts at the end of a foot",
+        "examples": [
+            {
+                "code": "toe_example_babies-have-little-toes",
+                "text": "Babies have little toes."
+            },
+            {
+                "code": "toe_example_he-has-a-broken-toe",
+                "text": "He has a broken toe."
+            },
+            {
+                "code": "toe_example_he-hurt-his-big-toe",
+                "text": "He hurt his big toe."
+            },
+            {
+                "code": "toe_example_she-stubbed-her-toe-on-the-coffee-table",
+                "text": "She stubbed her toe on the coffee table."
+            },
+            {
+                "code": "toe_example_can-you-wiggle-your-toes",
+                "text": "Can you wiggle your toes?"
+            },
+            {
+                "code": "toe_example_she-dipped-her-toes-in-the-water",
+                "text": "She dipped her toes in the water."
+            },
+            {
+                "code": "toe_example_she-stood-on-her-tiptoes",
+                "text": "She stood on her tiptoes."
+            },
+            {
+                "code": "toe_example_i-like-to-feel-the-sand-between-my-toes",
+                "text": "I like to feel the sand between my toes."
+            }
+        ]
+    }
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "type": "(n)",
+        "mean": "an electronic device used for listening to music or programs",
+        "examples": [
+            {
+                "code": "radio_example_i-listen-to-the-radio-at-work",
+                "text": "I listen to the radio at work."
+            },
+            {
+                "code": "radio_example_she-switched-on-the-radio",
+                "text": "She switched on the radio."
+            },
+            {
+                "code": "radio_example_the-radio-reported-that-a-tornado-was-coming",
+                "text": "The radio reported that a tornado was coming."
+            },
+            {
+                "code": "radio_example_the-radio-was-blaring-music",
+                "text": "The radio was blaring music."
+            },
+            {
+                "code": "radio_example_i-work-at-a-radio-station",
+                "text": "I work at a radio station."
+            },
+            {
+                "code": "radio_example_she-is-a-radio-announcer",
+                "text": "She is a radio announcer."
+            },
+            {
+                "code": "radio_example_i-use-a-radio-alarm-to-wake-me-up",
+                "text": "I use a radio alarm to wake me up."
+            },
+            {
+                "code": "radio_example_he-works-on-a-radio-show",
+                "text": "He works on a radio show."
+            },
+            {
+                "code": "radio_example_she-bought-a-transistor-radio",
+                "text": "She bought a transistor radio."
+            },
+            {
+                "code": "radio_example_i-usually-listen-to-satellite-radio",
+                "text": "I usually listen to satellite radio."
+            },
+            {
+                "code": "radio_example_we-re-listening-to-music-on-the-radio",
+                "text": "We're listening to music on the radio."
+            }
+        ]
+    }
+]

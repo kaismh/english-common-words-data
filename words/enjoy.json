@@ -1,0 +1,68 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to like; to be happy doing something",
+        "examples": [
+            {
+                "code": "enjoy_example_the-children-really-enjoy-this-game",
+                "text": "The children really enjoy this game."
+            },
+            {
+                "code": "enjoy_example_my-cat-especially-enjoys-sleeping-in-the-sun",
+                "text": "My cat especially enjoys sleeping in the sun."
+            },
+            {
+                "code": "enjoy_example_i-rather-enjoyed-the-movie",
+                "text": "I rather enjoyed the movie."
+            },
+            {
+                "code": "enjoy_example_she-simply-enjoys-being-alone",
+                "text": "She simply enjoys being alone."
+            },
+            {
+                "code": "enjoy_example_he-was-able-to-enjoy-some-alone-time",
+                "text": "He was able to enjoy some alone time."
+            },
+            {
+                "code": "enjoy_example_the-students-seem-to-enjoy-this-activity",
+                "text": "The students seem to enjoy this activity."
+            },
+            {
+                "code": "enjoy_example_i-began-to-enjoy-rainy-days",
+                "text": "I began to enjoy rainy days."
+            },
+            {
+                "code": "enjoy_example_i-really-enjoyed-the-concert",
+                "text": "I really enjoyed the concert."
+            },
+            {
+                "code": "enjoy_example_he-enjoys-the-freedom-of-living-alone",
+                "text": "He enjoys the freedom of living alone."
+            },
+            {
+                "code": "enjoy_example_i-am-really-enjoying-this-sunshine",
+                "text": "I am really enjoying this sunshine."
+            },
+            {
+                "code": "enjoy_example_we-really-enjoyed-your-company-tonight",
+                "text": "We really enjoyed your company tonight."
+            },
+            {
+                "code": "enjoy_example_she-enjoys-the-beauty-in-this-park",
+                "text": "She enjoys the beauty in this park."
+            },
+            {
+                "code": "enjoy_example_they-are-enjoying-their-retirement",
+                "text": "They are enjoying their retirement."
+            },
+            {
+                "code": "enjoy_example_the-tourists-enjoy-the-local-food",
+                "text": "The tourists enjoy the local food."
+            },
+            {
+                "code": "enjoy_example_he-enjoys-his-status-in-the-community",
+                "text": "He enjoys his status in the community."
+            }
+        ]
+    }
+]

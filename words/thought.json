@@ -1,0 +1,48 @@
+[
+    {
+        "type": "(n)",
+        "mean": "an idea or opinion; something that you think of",
+        "examples": [
+            {
+                "code": "thought_example_let-s-think-happy-thoughts-about-the-situation",
+                "text": "Let's think happy thoughts about the situation."
+            },
+            {
+                "code": "thought_example_i-ve-been-having-some-bad-thoughts-about-this-trip",
+                "text": "I've been having some bad thoughts about this trip."
+            },
+            {
+                "code": "thought_example_a-strange-thought-came-over-me",
+                "text": "A strange thought came over me."
+            },
+            {
+                "code": "thought_example_that-was-my-first-thought",
+                "text": "That was my first thought."
+            },
+            {
+                "code": "thought_example_would-you-like-to-share-your-private-thoughts-with-me",
+                "text": "Would you like to share your private thoughts with me?"
+            },
+            {
+                "code": "thought_example_let-me-know-your-thoughts",
+                "text": "Let me know your thoughts."
+            },
+            {
+                "code": "thought_example_let-s-share-our-thoughts-about-the-movie",
+                "text": "Let's share our thoughts about the movie."
+            },
+            {
+                "code": "thought_example_she-went-for-a-walk-to-clear-her-thoughts",
+                "text": "She went for a walk to clear her thoughts."
+            },
+            {
+                "code": "thought_example_she-was-scared-at-the-thought-of-going-to-the-dentist",
+                "text": "She was scared at the thought of going to the dentist."
+            },
+            {
+                "code": "thought_example_what-are-your-thoughts-on-the-political-situation",
+                "text": "What are your thoughts on the political situation?"
+            }
+        ]
+    }
+]

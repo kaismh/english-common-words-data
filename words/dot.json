@@ -1,0 +1,38 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a small, round mark",
+        "examples": [
+            {
+                "code": "dot_example_he-made-a-tiny-dot-on-the-paper",
+                "text": "He made a tiny dot on the paper."
+            },
+            {
+                "code": "dot_example_my-daughter-loves-to-play-connect-the-dots",
+                "text": "My daughter loves to play connect the dots."
+            },
+            {
+                "code": "dot_example_the-pen-left-a-red-dot-on-his-pocket",
+                "text": "The pen left a red dot on his pocket."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to make a small, round mark",
+        "examples": [
+            {
+                "code": "dot_example_the-flowers-dot-the-countryside",
+                "text": "The flowers dot the countryside."
+            },
+            {
+                "code": "dot_example_don-t-forget-to-dot-the-letter-i",
+                "text": "Don't forget to dot the letter 'i'."
+            },
+            {
+                "code": "dot_example_she-dotted-her-whole-painting-with-red-dots",
+                "text": "She dotted her whole painting with red dots."
+            }
+        ]
+    }
+]

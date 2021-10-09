@@ -1,0 +1,86 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a request for a decision to be changed; quality that makes something interesting",
+        "examples": [
+            {
+                "code": "appeal_example_that-house-has-great-appeal",
+                "text": "That house has great appeal."
+            },
+            {
+                "code": "appeal_example_classic-books-have-lasting-appeal",
+                "text": "Classic books have lasting appeal."
+            },
+            {
+                "code": "appeal_example_this-car-has-little-appeal-but-it-s-all-i-can-afford",
+                "text": "This car has little appeal, but it's all I can afford."
+            },
+            {
+                "code": "appeal_example_the-movie-was-successful-because-it-had-widespread-appeal",
+                "text": "The movie was successful because it had widespread appeal."
+            },
+            {
+                "code": "appeal_example_she-has-great-sexual-appeal",
+                "text": "She has great sexual appeal."
+            },
+            {
+                "code": "appeal_example_he-made-a-desperate-appeal-to-the-court-judge",
+                "text": "He made a desperate appeal to the court judge."
+            },
+            {
+                "code": "appeal_example_the-prisoner-filed-a-legal-appeal-to-have-a-new-trial",
+                "text": "The prisoner filed a legal appeal to have a new trial."
+            },
+            {
+                "code": "appeal_example_van-gogh-s-paintings-have-much-appeal",
+                "text": "Van Gogh's paintings have much appeal."
+            },
+            {
+                "code": "appeal_example_nice-clothes-and-makeup-can-boost-a-person-s-appeal",
+                "text": "Nice clothes and makeup can boost a person's appeal."
+            },
+            {
+                "code": "appeal_example_we-made-a-direct-appeal-to-the-judge",
+                "text": "We made a direct appeal to the judge."
+            },
+            {
+                "code": "appeal_example_her-appeal-are-her-eyes",
+                "text": "Her appeal are her eyes."
+            },
+            {
+                "code": "appeal_example_they-won-their-appeal",
+                "text": "They won their appeal."
+            },
+            {
+                "code": "appeal_example_the-judged-allowed-a-new-appeal",
+                "text": "The judged allowed a new appeal."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to make a request for a decision to be changed; to attract or make something or someone interested",
+        "examples": [
+            {
+                "code": "appeal_example_i-will-directly-appeal-to-the-governor-for-help",
+                "text": "I will directly appeal to the governor for help."
+            },
+            {
+                "code": "appeal_example_i-successfully-appealed-for-a-new-trial",
+                "text": "I successfully appealed for a new trial."
+            },
+            {
+                "code": "appeal_example_teaching-strongly-appeals-to-me",
+                "text": "Teaching strongly appeals to me."
+            },
+            {
+                "code": "appeal_example_these-shoes-appeal-mainly-to-athletes",
+                "text": "These shoes appeal mainly to athletes."
+            },
+            {
+                "code": "appeal_example_he-appealed-to-the-court-for-a-new-trial",
+                "text": "He appealed to the court for a new trial."
+            }
+        ]
+    }
+]

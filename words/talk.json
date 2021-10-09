@@ -1,0 +1,94 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a conversation; formal discussion",
+        "examples": [
+            {
+                "code": "talk_example_the-boss-wants-to-have-a-brief-talk-with-you",
+                "text": "The boss wants to have a brief talk with you."
+            },
+            {
+                "code": "talk_example_my-wife-and-i-had-a-good-talk-last-night",
+                "text": "My wife and I had a good talk last night."
+            },
+            {
+                "code": "talk_example_the-candidate-should-engage-in-an-open-talk",
+                "text": "The candidate should engage in an open talk."
+            },
+            {
+                "code": "talk_example_the-leaders-of-the-two-countries-are-having-peace-talks",
+                "text": "The leaders of the two countries are having peace talks."
+            },
+            {
+                "code": "talk_example_can-we-have-a-talk",
+                "text": "Can we have a talk?"
+            },
+            {
+                "code": "talk_example_let-s-continue-our-talk-later",
+                "text": "Let's continue our talk later."
+            },
+            {
+                "code": "talk_example_the-two-countries-conducted-private-talks-about-open-trade",
+                "text": "The two countries conducted private talks about open trade."
+            },
+            {
+                "code": "talk_example_they-will-resume-peace-talks-in-the-morning",
+                "text": "They will resume peace talks in the morning."
+            },
+            {
+                "code": "talk_example_they-cancelled-talks-because-of-the-threat-of-war",
+                "text": "They cancelled talks because of the threat of war."
+            },
+            {
+                "code": "talk_example_all-this-talk-of-quitting-the-election-is-silly",
+                "text": "All this talk of quitting the election is silly."
+            },
+            {
+                "code": "talk_example_i-can-have-a-talk-with-you",
+                "text": "I can have a talk with you?"
+            },
+            {
+                "code": "talk_example_they-started-an-argument-during-their-talk",
+                "text": "They started an argument during their talk."
+            },
+            {
+                "code": "talk_example_he-is-a-host-of-a-local-talk-show",
+                "text": "He is a host of a local talk show."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to speak",
+        "examples": [
+            {
+                "code": "talk_example_she-talked-openly-about-her-life",
+                "text": "She talked openly about her life."
+            },
+            {
+                "code": "talk_example_john-always-talks-so-passionately-about-his-work",
+                "text": "John always talks so passionately about his work."
+            },
+            {
+                "code": "talk_example_she-quietly-talked-about-her-divorce",
+                "text": "She quietly talked about her divorce."
+            },
+            {
+                "code": "talk_example_i-can-talk-about-it-now",
+                "text": "I can talk about it now."
+            },
+            {
+                "code": "talk_example_i-will-talk-to-her-this-afternoon",
+                "text": "I will talk to her this afternoon."
+            },
+            {
+                "code": "talk_example_let-s-talk-about-it-later",
+                "text": "Let's talk about it later."
+            },
+            {
+                "code": "talk_example_i-often-hear-him-talk-of-his-dad",
+                "text": "I often hear him talk of his dad."
+            }
+        ]
+    }
+]

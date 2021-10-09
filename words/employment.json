@@ -1,0 +1,72 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a job; work done for pay",
+        "examples": [
+            {
+                "code": "employment_example_he-hopes-seasonal-employment-will-lead-to-a-permanent-position",
+                "text": "He hopes seasonal employment will lead to a permanent position."
+            },
+            {
+                "code": "employment_example_she-is-seeking-full-time-employment-in-the-fashion-industry",
+                "text": "She is seeking full-time employment in the fashion industry."
+            },
+            {
+                "code": "employment_example_this-city-has-a-high-employment-rate",
+                "text": "This city has a high employment rate."
+            },
+            {
+                "code": "employment_example_he-is-looking-for-employment-at-a-university",
+                "text": "He is looking for employment at a university."
+            },
+            {
+                "code": "employment_example_the-students-found-employment-on-campus",
+                "text": "The students found employment on campus."
+            },
+            {
+                "code": "employment_example_new-companies-should-increase-employment-in-the-area",
+                "text": "New companies should increase employment in the area."
+            },
+            {
+                "code": "employment_example_the-building-project-will-create-many-employment-opportunities",
+                "text": "The building project will create many employment opportunities."
+            },
+            {
+                "code": "employment_example_this-company-guarantees-employment-to-successful-interns",
+                "text": "This company guarantees employment to successful interns."
+            },
+            {
+                "code": "employment_example_the-company-terminated-his-employment",
+                "text": "The company terminated his employment."
+            },
+            {
+                "code": "employment_example_employment-opportunities-are-increasing-for-young-adults",
+                "text": "Employment opportunities are increasing for young adults."
+            },
+            {
+                "code": "employment_example_employment-declined-when-the-economy-was-bad",
+                "text": "Employment declined when the economy was bad."
+            },
+            {
+                "code": "employment_example_there-are-very-few-employment-opportunities-in-this-town",
+                "text": "There are very few employment opportunities in this town."
+            },
+            {
+                "code": "employment_example_it-is-hard-to-get-a-good-job-without-any-employment-history",
+                "text": "It is hard to get a good job without any employment history."
+            },
+            {
+                "code": "employment_example_the-government-is-looking-at-employment-rates",
+                "text": "The government is looking at employment rates."
+            },
+            {
+                "code": "employment_example_an-employment-agency-can-help-you-get-a-job",
+                "text": "An employment agency can help you get a job."
+            },
+            {
+                "code": "employment_example_new-employment-policies-should-protect-workers",
+                "text": "New employment policies should protect workers."
+            }
+        ]
+    }
+]

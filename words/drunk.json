@@ -1,0 +1,36 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "having had so much alcohol that it is hard to function clearly",
+        "examples": [
+            {
+                "code": "drunk_example_she-is-drunk",
+                "text": "She is drunk."
+            },
+            {
+                "code": "drunk_example_we-got-drunk-last-night",
+                "text": "We got drunk last night."
+            },
+            {
+                "code": "drunk_example_the-whiskey-made-her-drunk",
+                "text": "The whiskey made her drunk."
+            },
+            {
+                "code": "drunk_example_they-look-extremely-drunk",
+                "text": "They look extremely drunk."
+            },
+            {
+                "code": "drunk_example_the-college-student-became-almost-drunk-with-one-beer",
+                "text": "The college student became almost drunk with one beer."
+            },
+            {
+                "code": "drunk_example_her-father-was-killed-by-a-drunk-driver",
+                "text": "Her father was killed by a drunk driver."
+            },
+            {
+                "code": "drunk_example_drunk-driving-is-illegal",
+                "text": "Drunk driving is illegal."
+            }
+        ]
+    }
+]

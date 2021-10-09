@@ -1,0 +1,72 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a statement of disapproval",
+        "examples": [
+            {
+                "code": "criticism_example_his-bitter-criticism-hurt-my-feelings",
+                "text": "His bitter criticism hurt my feelings."
+            },
+            {
+                "code": "criticism_example_my-boss-tries-to-give-constructive-criticism",
+                "text": "My boss tries to give constructive criticism."
+            },
+            {
+                "code": "criticism_example_i-get-tired-of-constant-criticism",
+                "text": "I get tired of constant criticism."
+            },
+            {
+                "code": "criticism_example_that-is-not-my-main-criticism",
+                "text": "That is not my main criticism."
+            },
+            {
+                "code": "criticism_example_i-can-accept-major-criticism-from-him",
+                "text": "I can accept major criticism from him."
+            },
+            {
+                "code": "criticism_example_she-is-known-for-her-direct-criticism",
+                "text": "She is known for her direct criticism."
+            },
+            {
+                "code": "criticism_example_he-faces-public-criticism",
+                "text": "He faces public criticism."
+            },
+            {
+                "code": "criticism_example_may-i-express-my-criticism-of-the-play",
+                "text": "May I express my criticism of the play?"
+            },
+            {
+                "code": "criticism_example_she-made-harsh-criticisms-about-my-book",
+                "text": "She made harsh criticisms about my book."
+            },
+            {
+                "code": "criticism_example_the-president-deserved-criticism-for-what-he-did",
+                "text": "The president deserved criticism for what he did."
+            },
+            {
+                "code": "criticism_example_it-s-not-easy-to-accept-criticism",
+                "text": "It's not easy to accept criticism."
+            },
+            {
+                "code": "criticism_example_she-dismissed-everyone-s-criticism",
+                "text": "She dismissed everyone's criticism."
+            },
+            {
+                "code": "criticism_example_may-i-offer-you-some-criticism",
+                "text": "May I offer you some criticism?"
+            },
+            {
+                "code": "criticism_example_the-main-criticism-against-him-is-his-attitude",
+                "text": "The main criticism against him is his attitude."
+            },
+            {
+                "code": "criticism_example_the-man-got-criticism-from-his-son",
+                "text": "The man got criticism from his son."
+            },
+            {
+                "code": "criticism_example_the-company-received-criticism-for-false-advertising",
+                "text": "The company received criticism for false advertising."
+            }
+        ]
+    }
+]

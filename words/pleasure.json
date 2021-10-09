@@ -1,0 +1,40 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a happy or satisfied feeling; something that makes a person feel happy or satisfied",
+        "examples": [
+            {
+                "code": "pleasure_example_she-gets-pleasure-from-her-job",
+                "text": "She gets pleasure from her job."
+            },
+            {
+                "code": "pleasure_example_it-brings-me-great-pleasure-to-introduce-you-to-the-audience",
+                "text": "It brings me great pleasure to introduce you to the audience."
+            },
+            {
+                "code": "pleasure_example_do-you-find-pleasure-in-it",
+                "text": "Do you find pleasure in it?"
+            },
+            {
+                "code": "pleasure_example_it-is-a-real-pleasure-to-meet-you",
+                "text": "It is a real pleasure to meet you."
+            },
+            {
+                "code": "pleasure_example_chocolate-is-one-of-life-s-simple-pleasures",
+                "text": "Chocolate is one of life's simple pleasures."
+            },
+            {
+                "code": "pleasure_example_i-take-pleasure-in-it",
+                "text": "I take pleasure in it."
+            },
+            {
+                "code": "pleasure_example_i-had-the-pleasure-of-meeting-her",
+                "text": "I had the pleasure of meeting her."
+            },
+            {
+                "code": "pleasure_example_i-will-do-it-with-great-pleasure",
+                "text": "I will do it with great pleasure."
+            }
+        ]
+    }
+]

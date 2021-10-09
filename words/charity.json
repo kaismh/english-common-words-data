@@ -1,0 +1,48 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a place that provides money, food or help for those in need",
+        "examples": [
+            {
+                "code": "charity_example_i-want-to-volunteer-with-a-local-charity",
+                "text": "I want to volunteer with a local charity."
+            },
+            {
+                "code": "charity_example_what-is-your-favorite-charity",
+                "text": "What is your favorite charity?"
+            },
+            {
+                "code": "charity_example_i-should-donate-money-to-charity",
+                "text": "I should donate money to charity."
+            },
+            {
+                "code": "charity_example_she-runs-a-small-charity-from-her-home",
+                "text": "She runs a small charity from her home."
+            },
+            {
+                "code": "charity_example_all-sales-will-go-to-charity",
+                "text": "All sales will go to charity."
+            },
+            {
+                "code": "charity_example_he-s-too-proud-to-accept-charity",
+                "text": "He's too proud to accept charity."
+            },
+            {
+                "code": "charity_example_our-office-is-hosting-a-charity-drive",
+                "text": "Our office is hosting a charity drive."
+            },
+            {
+                "code": "charity_example_thank-you-for-all-of-your-charity-work",
+                "text": "Thank you for all of your charity work."
+            },
+            {
+                "code": "charity_example_sometimes-charity-workers-have-to-go-to-dangerous-places",
+                "text": "Sometimes charity workers have to go to dangerous places."
+            },
+            {
+                "code": "charity_example_we-are-raising-money-for-charity",
+                "text": "We are raising money for charity."
+            }
+        ]
+    }
+]

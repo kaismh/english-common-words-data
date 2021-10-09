@@ -1,0 +1,44 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "relating to people",
+        "examples": [
+            {
+                "code": "human_example_he-s-doing-research-on-the-human-brain",
+                "text": "He's doing research on the human brain."
+            },
+            {
+                "code": "human_example_she-is-studying-human-behavior",
+                "text": "She is studying human behavior."
+            },
+            {
+                "code": "human_example_that-is-a-human-characteristic",
+                "text": "That is a human characteristic."
+            },
+            {
+                "code": "human_example_his-cartoons-never-have-human-characters",
+                "text": "His cartoons never have human characters."
+            },
+            {
+                "code": "human_example_we-are-learning-about-early-human-civilizations",
+                "text": "We are learning about early human civilizations."
+            },
+            {
+                "code": "human_example_the-human-population-is-increasing-rapidly",
+                "text": "The human population is increasing rapidly."
+            },
+            {
+                "code": "human_example_we-need-human-volunteers-for-this-experiment",
+                "text": "We need human volunteers for this experiment."
+            },
+            {
+                "code": "human_example_i-think-that-s-just-human-nature",
+                "text": "I think that's just human nature."
+            },
+            {
+                "code": "human_example_they-found-human-remains-in-the-lake",
+                "text": "They found human remains in the lake."
+            }
+        ]
+    }
+]

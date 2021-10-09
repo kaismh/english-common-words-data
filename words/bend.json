@@ -1,0 +1,82 @@
+[
+    {
+        "type": "(n)",
+        "mean": "A curve, especially in a road",
+        "examples": [
+            {
+                "code": "bend_example_the-road-has-a-gentle-bend-in-it",
+                "text": "The road has a gentle bend in it."
+            },
+            {
+                "code": "bend_example_the-racecar-reached-the-final-bend",
+                "text": "The racecar reached the final bend."
+            },
+            {
+                "code": "bend_example_this-is-a-dangerous-bend-during-bad-weather-conditions",
+                "text": "This is a dangerous bend during bad weather conditions."
+            },
+            {
+                "code": "bend_example_he-took-the-bend-at-high-speed",
+                "text": "He took the bend at high speed."
+            },
+            {
+                "code": "bend_example_he-went-around-the-bend",
+                "text": "He went around the bend."
+            },
+            {
+                "code": "bend_example_there-was-a-slight-bend-in-the-river",
+                "text": "There was a slight bend in the river."
+            },
+            {
+                "code": "bend_example_the-driver-crashed-because-he-didn-t-slow-down-on-that-dangerous-bend",
+                "text": "The driver crashed because he didn't slow down on that dangerous bend."
+            },
+            {
+                "code": "bend_example_he-sped-up-when-he-came-off-the-bend",
+                "text": "He sped up when he came off the bend."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to curve; to cause something to curve",
+        "examples": [
+            {
+                "code": "bend_example_the-diver-bent-her-back-slightly",
+                "text": "The diver bent her back slightly."
+            },
+            {
+                "code": "bend_example_i-got-angry-and-quickly-bent-my-golf-club-in-half",
+                "text": "I got angry and quickly bent my golf club in half."
+            },
+            {
+                "code": "bend_example_when-stretching-i-bend-forward",
+                "text": "When stretching, I bend forward."
+            },
+            {
+                "code": "bend_example_she-bent-close-to-me-so-that-i-could-hear-better",
+                "text": "She bent close to me so that I could hear better."
+            },
+            {
+                "code": "bend_example_i-had-to-bend-down-to-pick-up-the-trash",
+                "text": "I had to bend down to pick up the trash."
+            },
+            {
+                "code": "bend_example_he-bent-down-towards-his-daughter-to-give-her-a-hug",
+                "text": "He bent down towards his daughter to give her a hug."
+            },
+            {
+                "code": "bend_example_make-sure-you-bend-at-the-knees-when-exercising",
+                "text": "Make sure you bend at the knees when exercising."
+            },
+            {
+                "code": "bend_example_he-bent-his-arm-in-an-awkward-position",
+                "text": "He bent his arm in an awkward position."
+            },
+            {
+                "code": "bend_example_he-tends-to-bend-the-truth",
+                "text": "He tends to bend the truth."
+            }
+        ]
+    }
+]

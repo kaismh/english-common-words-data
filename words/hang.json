@@ -1,0 +1,44 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to attach something at the top and leave the bottom free",
+        "examples": [
+            {
+                "code": "hang_example_he-was-hanging-upside-down-from-the-tree-branch",
+                "text": "He was hanging upside down from the tree branch."
+            },
+            {
+                "code": "hang_example_a-rope-hangs-down-from-the-tree-house",
+                "text": "A rope hangs down from the tree house."
+            },
+            {
+                "code": "hang_example_her-mom-hangs-the-laundry-loosely-on-the-clothesline",
+                "text": "Her mom hangs the laundry loosely on the clothesline."
+            },
+            {
+                "code": "hang_example_hang-a-sign-from-your-door",
+                "text": "Hang a sign from your door."
+            },
+            {
+                "code": "hang_example_hang-up-your-coat-by-the-hood",
+                "text": "Hang up your coat by the hood."
+            },
+            {
+                "code": "hang_example_i-need-to-hang-a-curtain-for-privacy",
+                "text": "I need to hang a curtain for privacy."
+            },
+            {
+                "code": "hang_example_i-should-hang-the-pictures-today",
+                "text": "I should hang the pictures today."
+            },
+            {
+                "code": "hang_example_they-tried-to-hang-the-banner",
+                "text": "They tried to hang the banner."
+            },
+            {
+                "code": "hang_example_we-spent-all-day-hanging-wallpaper",
+                "text": "We spent all day hanging wallpaper."
+            }
+        ]
+    }
+]

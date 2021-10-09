@@ -1,0 +1,32 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the act of showing something to a group of people",
+        "examples": [
+            {
+                "code": "presentation_example_i-am-giving-a-presentation-in-a-few-minutes",
+                "text": "I am giving a presentation in a few minutes."
+            },
+            {
+                "code": "presentation_example_we-enjoyed-her-slideshow-presentation",
+                "text": "We enjoyed her slideshow presentation."
+            },
+            {
+                "code": "presentation_example_he-gave-a-good-presentation",
+                "text": "He gave a good presentation."
+            },
+            {
+                "code": "presentation_example_she-has-wonderful-presentation-skills",
+                "text": "She has wonderful presentation skills."
+            },
+            {
+                "code": "presentation_example_i-gave-a-presentation-to-the-class",
+                "text": "I gave a presentation to the class."
+            },
+            {
+                "code": "presentation_example_the-presentation-was-on-horses",
+                "text": "The presentation was on horses."
+            }
+        ]
+    }
+]

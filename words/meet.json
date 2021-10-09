@@ -1,0 +1,130 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to come together; to satisfy",
+        "examples": [
+            {
+                "code": "meet_example_we-arranged-to-meet-at-the-store",
+                "text": "We arranged to meet at the store."
+            },
+            {
+                "code": "meet_example_i-failed-to-meet-him",
+                "text": "I failed to meet him."
+            },
+            {
+                "code": "meet_example_we-happened-to-meet-at-school",
+                "text": "We happened to meet at school."
+            },
+            {
+                "code": "meet_example_this-doesn-t-meet-the-definition",
+                "text": "This doesn't meet the definition."
+            },
+            {
+                "code": "meet_example_i-want-to-meet-the-challenge",
+                "text": "I want to meet the challenge."
+            },
+            {
+                "code": "meet_example_we-met-the-people-at-the-airport",
+                "text": "We met the people at the airport."
+            },
+            {
+                "code": "meet_example_she-finally-met-her-demise",
+                "text": "She finally met her demise."
+            },
+            {
+                "code": "meet_example_i-finally-met-my-idol",
+                "text": "I finally met my idol."
+            },
+            {
+                "code": "meet_example_we-met-all-of-the-obligations",
+                "text": "We met all of the obligations."
+            },
+            {
+                "code": "meet_example_we-were-not-able-to-meet-the-quota",
+                "text": "We were not able to meet the quota."
+            },
+            {
+                "code": "meet_example_where-did-you-meet-your-wife",
+                "text": "Where did you meet your wife?"
+            },
+            {
+                "code": "meet_example_can-we-meet-again",
+                "text": "Can we meet again?"
+            },
+            {
+                "code": "meet_example_i-met-her-once",
+                "text": "I met her once."
+            },
+            {
+                "code": "meet_example_we-met-face-to-face",
+                "text": "We met face-to-face."
+            },
+            {
+                "code": "meet_example_we-finally-met",
+                "text": "We finally met."
+            },
+            {
+                "code": "meet_example_we-first-met-at-school",
+                "text": "We first met at school."
+            },
+            {
+                "code": "meet_example_we-regularly-meet-at-the-library",
+                "text": "We regularly meet at the library."
+            },
+            {
+                "code": "meet_example_i-finally-met-her-parents",
+                "text": "I finally met her parents."
+            },
+            {
+                "code": "meet_example_we-privately-meet-at-his-house",
+                "text": "We privately meet at his house."
+            },
+            {
+                "code": "meet_example_i-want-to-meet-her-in-person",
+                "text": "I want to meet her in person."
+            },
+            {
+                "code": "meet_example_i-will-meet-with-her-tomorrow",
+                "text": "I will meet with her tomorrow."
+            },
+            {
+                "code": "meet_example_we-are-meeting-at-the-park",
+                "text": "We are meeting at the park."
+            },
+            {
+                "code": "meet_example_we-can-meet-for-an-hour",
+                "text": "We can meet for an hour."
+            }
+        ]
+    },
+    {
+        "type": "(n)",
+        "mean": "a sports tournament",
+        "examples": [
+            {
+                "code": "meet_example_i-went-to-the-track-meet",
+                "text": "I went to the track meet."
+            },
+            {
+                "code": "meet_example_i-have-a-big-meet-coming-up",
+                "text": "I have a big meet coming up."
+            },
+            {
+                "code": "meet_example_my-parents-are-attending-my-swim-meet",
+                "text": "My parents are attending my swim meet."
+            },
+            {
+                "code": "meet_example_i-missed-the-track-meet-due-to-oversleeping",
+                "text": "I missed the track meet due to oversleeping."
+            },
+            {
+                "code": "meet_example_we-won-the-championship-meet",
+                "text": "We won the championship meet."
+            },
+            {
+                "code": "meet_example_i-saw-him-at-the-swim-meet",
+                "text": "I saw him at the swim meet."
+            }
+        ]
+    }
+]

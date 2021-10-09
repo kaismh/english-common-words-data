@@ -1,0 +1,106 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to be in first place at a contest or game",
+        "examples": [
+            {
+                "code": "win_example_he-easily-wins-at-chess",
+                "text": "He easily wins at chess."
+            },
+            {
+                "code": "win_example_she-narrowly-won-the-race-by-seconds",
+                "text": "She narrowly won the race by seconds."
+            },
+            {
+                "code": "win_example_they-almost-win-every-year",
+                "text": "They almost win every year."
+            },
+            {
+                "code": "win_example_he-finally-won-after-years-of-trying",
+                "text": "He finally won after years of trying."
+            },
+            {
+                "code": "win_example_she-deserves-to-win-the-medal",
+                "text": "She deserves to win the medal."
+            },
+            {
+                "code": "win_example_he-hopes-to-win-the-election",
+                "text": "He hopes to win the election."
+            },
+            {
+                "code": "win_example_he-tries-to-win-every-year",
+                "text": "He tries to win every year."
+            },
+            {
+                "code": "win_example_she-has-yet-to-win-an-award",
+                "text": "She has yet to win an award."
+            },
+            {
+                "code": "win_example_they-always-win-at-basketball",
+                "text": "They always win at basketball."
+            },
+            {
+                "code": "win_example_our-team-won-the-game-by-two-points",
+                "text": "Our team won the game by two points."
+            },
+            {
+                "code": "win_example_she-hopes-to-win-the-game-against-her-school-rival",
+                "text": "She hopes to win the game against her school rival."
+            },
+            {
+                "code": "win_example_they-won-the-game-in-overtime",
+                "text": "They won the game in overtime."
+            }
+        ]
+    },
+    {
+        "type": "(n)",
+        "mean": "a victory in a contest or game",
+        "examples": [
+            {
+                "code": "win_example_that-was-a-big-win-for-the-team",
+                "text": "That was a big win for the team."
+            },
+            {
+                "code": "win_example_what-a-great-win",
+                "text": "What a great win!"
+            },
+            {
+                "code": "win_example_that-was-a-shocking-win-for-the-underdog-team",
+                "text": "That was a shocking win for the underdog team."
+            },
+            {
+                "code": "win_example_they-are-in-first-place-with-five-straight-wins",
+                "text": "They are in first place with five straight wins."
+            },
+            {
+                "code": "win_example_the-wrestler-has-another-win-under-his-belt",
+                "text": "The wrestler has another win under his belt."
+            },
+            {
+                "code": "win_example_she-worked-hard-and-earned-that-win",
+                "text": "She worked hard and earned that win."
+            },
+            {
+                "code": "win_example_let-s-give-them-their-first-win",
+                "text": "Let's give them their first win."
+            },
+            {
+                "code": "win_example_her-five-straight-wins-keep-her-in-first-place",
+                "text": "Her five straight wins keep her in first place."
+            },
+            {
+                "code": "win_example_the-team-celebrated-another-win",
+                "text": "The team celebrated another win."
+            },
+            {
+                "code": "win_example_it-was-an-easy-win-against-her-opponent",
+                "text": "It was an easy win against her opponent."
+            },
+            {
+                "code": "win_example_the-city-has-gone-without-a-win-for-many-years",
+                "text": "The city has gone without a win for many years."
+            }
+        ]
+    }
+]

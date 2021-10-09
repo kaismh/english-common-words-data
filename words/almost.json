@@ -1,0 +1,64 @@
+[
+    {
+        "type": "(adv)",
+        "mean": "nearly or not quite",
+        "examples": [
+            {
+                "code": "almost_example_he-was-almost-asleep-by-the-time-the-movie-was-over",
+                "text": "He was almost asleep by the time the movie was over."
+            },
+            {
+                "code": "almost_example_she-was-almost-certain-that-her-husband-was-having-an-affair",
+                "text": "She was almost certain that her husband was having an affair."
+            },
+            {
+                "code": "almost_example_the-house-construction-is-almost-complete",
+                "text": "The house construction is almost complete."
+            },
+            {
+                "code": "almost_example_it-is-almost-dark-outside",
+                "text": "It is almost dark outside."
+            },
+            {
+                "code": "almost_example_the-laundry-is-almost-dry",
+                "text": "The laundry is almost dry."
+            },
+            {
+                "code": "almost_example_it-is-almost-impossible-to-fool-her",
+                "text": "It is almost impossible to fool her."
+            },
+            {
+                "code": "almost_example_we-received-an-almost-immediate-response-from-the-sellers",
+                "text": "We received an almost immediate response from the sellers."
+            },
+            {
+                "code": "almost_example_he-was-almost-blinded-by-the-flying-debris",
+                "text": "He was almost blinded by the flying debris."
+            },
+            {
+                "code": "almost_example_she-almost-choked-on-a-piece-of-meat",
+                "text": "She almost choked on a piece of meat."
+            },
+            {
+                "code": "almost_example_the-cars-almost-collided-on-the-highway",
+                "text": "The cars almost collided on the highway."
+            },
+            {
+                "code": "almost_example_the-tornado-almost-destroyed-the-house",
+                "text": "The tornado almost destroyed the house."
+            },
+            {
+                "code": "almost_example_he-almost-dropped-the-expensive-vase",
+                "text": "He almost dropped the expensive vase."
+            },
+            {
+                "code": "almost_example_he-almost-fell-asleep-during-the-speech",
+                "text": "He almost fell asleep during the speech."
+            },
+            {
+                "code": "almost_example_she-almost-finished-first",
+                "text": "She almost finished first."
+            }
+        ]
+    }
+]

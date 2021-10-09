@@ -1,0 +1,44 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "magnificent; the largest or most important",
+        "examples": [
+            {
+                "code": "grand_example_she-lives-in-a-very-grand-house",
+                "text": "She lives in a very grand house."
+            },
+            {
+                "code": "grand_example_they-admired-the-grand-entrance",
+                "text": "They admired the grand entrance."
+            },
+            {
+                "code": "grand_example_they-stayed-in-a-grand-hotel-while-in-italy",
+                "text": "They stayed in a grand hotel while in Italy."
+            },
+            {
+                "code": "grand_example_they-visited-the-grand-opera-while-on-vacation",
+                "text": "They visited the grand opera while on vacation."
+            },
+            {
+                "code": "grand_example_the-grand-finale-should-not-be-missed",
+                "text": "The grand finale should not be missed."
+            },
+            {
+                "code": "grand_example_he-will-face-the-grand-jury",
+                "text": "He will face the grand jury."
+            },
+            {
+                "code": "grand_example_the-grand-total-was-more-than-she-expected",
+                "text": "The grand total was more than she expected."
+            },
+            {
+                "code": "grand_example_they-watched-the-grand-procession-to-the-palace",
+                "text": "They watched the grand procession to the palace."
+            },
+            {
+                "code": "grand_example_they-took-a-grand-tour-of-china-last-year",
+                "text": "They took a grand tour of China last year."
+            }
+        ]
+    }
+]

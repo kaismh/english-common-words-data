@@ -1,0 +1,32 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to point out or show",
+        "examples": [
+            {
+                "code": "indicate_example_he-strongly-indicated-his-desire-to-quit",
+                "text": "He strongly indicated his desire to quit."
+            },
+            {
+                "code": "indicate_example_sales-figures-were-higher-than-previously-indicated",
+                "text": "Sales figures were higher than previously indicated."
+            },
+            {
+                "code": "indicate_example_high-fever-usually-indicates-an-infection",
+                "text": "High fever usually indicates an infection."
+            },
+            {
+                "code": "indicate_example_his-actions-seem-to-indicate-that-he-is-nervous",
+                "text": "His actions seem to indicate that he is nervous."
+            },
+            {
+                "code": "indicate_example_the-lights-are-used-to-indicate-a-train-coming",
+                "text": "The lights are used to indicate a train coming."
+            },
+            {
+                "code": "indicate_example_the-report-indicates-to-me-that-the-company-is-struggling",
+                "text": "The report indicates to me that the company is struggling."
+            }
+        ]
+    }
+]

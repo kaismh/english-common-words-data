@@ -1,0 +1,52 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "very pretty; very pleasant to look at; wonderful",
+        "examples": [
+            {
+                "code": "beautiful_example_this-dress-makes-me-feel-beautiful",
+                "text": "This dress makes me feel beautiful."
+            },
+            {
+                "code": "beautiful_example_the-lawn-became-beautiful",
+                "text": "The lawn became beautiful."
+            },
+            {
+                "code": "beautiful_example_she-is-beautiful",
+                "text": "She is beautiful."
+            },
+            {
+                "code": "beautiful_example_i-find-you-beautiful",
+                "text": "I find you beautiful."
+            },
+            {
+                "code": "beautiful_example_he-thinks-i-am-beautiful",
+                "text": "He thinks I am beautiful."
+            },
+            {
+                "code": "beautiful_example_i-consider-them-beautiful",
+                "text": "I consider them beautiful."
+            },
+            {
+                "code": "beautiful_example_she-is-extremely-beautiful",
+                "text": "She is extremely beautiful."
+            },
+            {
+                "code": "beautiful_example_this-house-is-absolutely-beautiful",
+                "text": "This house is absolutely beautiful."
+            },
+            {
+                "code": "beautiful_example_these-pictures-are-simply-beautiful",
+                "text": "These pictures are simply beautiful."
+            },
+            {
+                "code": "beautiful_example_the-view-from-here-is-breathtakingly-beautiful",
+                "text": "The view from here is breathtakingly beautiful."
+            },
+            {
+                "code": "beautiful_example_the-actress-is-uniquely-beautiful",
+                "text": "The actress is uniquely beautiful."
+            }
+        ]
+    }
+]

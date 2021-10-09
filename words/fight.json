@@ -1,0 +1,202 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a struggle or battle between people using physical force; an organized boxing or martial arts competition; an argument",
+        "examples": [
+            {
+                "code": "fight_example_he-got-into-a-big-fight-with-another-kid",
+                "text": "He got into a big fight with another kid."
+            },
+            {
+                "code": "fight_example_he-likes-to-watch-a-good-fight",
+                "text": "He likes to watch a good fight."
+            },
+            {
+                "code": "fight_example_it-was-a-fair-fight",
+                "text": "It was a fair fight."
+            },
+            {
+                "code": "fight_example_he-was-injured-in-a-bar-fight",
+                "text": "He was injured in a bar fight."
+            },
+            {
+                "code": "fight_example_he-was-challenged-to-a-sword-fight",
+                "text": "He was challenged to a sword fight."
+            },
+            {
+                "code": "fight_example_they-got-into-a-food-fight",
+                "text": "They got into a food fight."
+            },
+            {
+                "code": "fight_example_they-watched-the-championship-fight",
+                "text": "They watched the championship fight."
+            },
+            {
+                "code": "fight_example_he-s-putting-up-a-good-fight-against-cancer",
+                "text": "He's putting up a good fight against cancer."
+            },
+            {
+                "code": "fight_example_it-has-been-a-hard-fight-to-get-the-policy-changed",
+                "text": "It has been a hard fight to get the policy changed."
+            },
+            {
+                "code": "fight_example_they-are-in-a-bitter-fight-over-wages",
+                "text": "They are in a bitter fight over wages."
+            },
+            {
+                "code": "fight_example_it-has-become-a-desperate-fight",
+                "text": "It has become a desperate fight."
+            },
+            {
+                "code": "fight_example_the-legal-fight-has-finally-ended",
+                "text": "The legal fight has finally ended."
+            },
+            {
+                "code": "fight_example_she-got-into-a-huge-fight-with-her-mother",
+                "text": "She got into a huge fight with her mother."
+            },
+            {
+                "code": "fight_example_i-tried-to-find-out-who-started-the-fight",
+                "text": "I tried to find out who started the fight."
+            },
+            {
+                "code": "fight_example_he-is-always-looking-for-a-fight",
+                "text": "He is always looking for a fight."
+            },
+            {
+                "code": "fight_example_the-teacher-stopped-the-fight",
+                "text": "The teacher stopped the fight."
+            },
+            {
+                "code": "fight_example_he-was-in-a-fight-yesterday",
+                "text": "He was in a fight yesterday."
+            },
+            {
+                "code": "fight_example_he-won-the-fight",
+                "text": "He won the fight."
+            },
+            {
+                "code": "fight_example_they-watched-the-big-fight",
+                "text": "They watched the big fight."
+            },
+            {
+                "code": "fight_example_a-fight-broke-out-in-the-lunchroom",
+                "text": "A fight broke out in the lunchroom."
+            },
+            {
+                "code": "fight_example_they-are-putting-up-a-fight-over-tuition-increases",
+                "text": "They are putting up a fight over tuition increases."
+            },
+            {
+                "code": "fight_example_she-joined-the-fight-against-cancer",
+                "text": "She joined the fight against cancer."
+            },
+            {
+                "code": "fight_example_he-faces-a-tough-fight-if-he-wants-to-get-elected",
+                "text": "He faces a tough fight if he wants to get elected."
+            },
+            {
+                "code": "fight_example_she-will-continue-her-fight-against-the-disease",
+                "text": "She will continue her fight against the disease."
+            },
+            {
+                "code": "fight_example_they-gave-up-their-fight-for-justice",
+                "text": "They gave up their fight for justice."
+            },
+            {
+                "code": "fight_example_they-get-into-a-fight-on-a-daily-basis",
+                "text": "They get into a fight on a daily basis."
+            },
+            {
+                "code": "fight_example_something-silly-caused-a-huge-fight",
+                "text": "Something silly caused a huge fight."
+            },
+            {
+                "code": "fight_example_they-are-filming-a-big-fight-sequence",
+                "text": "They are filming a big fight sequence."
+            },
+            {
+                "code": "fight_example_he-is-a-huge-fight-fan",
+                "text": "He is a huge fight fan."
+            },
+            {
+                "code": "fight_example_his-nose-was-broken-in-a-fight",
+                "text": "His nose was broken in a fight."
+            },
+            {
+                "code": "fight_example_they-got-into-a-fight-over-the-game",
+                "text": "They got into a fight over the game."
+            },
+            {
+                "code": "fight_example_there-was-a-fight-between-fans-of-the-rival-teams",
+                "text": "There was a fight between fans of the rival teams."
+            },
+            {
+                "code": "fight_example_he-got-into-a-fight-with-his-brother",
+                "text": "He got into a fight with his brother."
+            },
+            {
+                "code": "fight_example_he-gave-up-without-a-fight",
+                "text": "He gave up without a fight."
+            },
+            {
+                "code": "fight_example_this-is-a-new-stage-in-his-fight-against-cancer",
+                "text": "This is a new stage in his fight against cancer."
+            },
+            {
+                "code": "fight_example_they-will-continue-their-fight-for-justice",
+                "text": "They will continue their fight for justice."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to engage in a battle or war; to take part in a physical struggle or confrontation; to try to change something",
+        "examples": [
+            {
+                "code": "fight_example_the-army-fought-bravely",
+                "text": "The army fought bravely."
+            },
+            {
+                "code": "fight_example_they-fought-bitterly-but-lost-the-battle",
+                "text": "They fought bitterly but lost the battle."
+            },
+            {
+                "code": "fight_example_they-tried-to-fight-back-the-enemy",
+                "text": "They tried to fight back the enemy."
+            },
+            {
+                "code": "fight_example_they-successfully-fought-to-reopen-the-local-library",
+                "text": "They successfully fought to reopen the local library."
+            },
+            {
+                "code": "fight_example_he-fought-hard-for-the-recognition-he-deserved",
+                "text": "He fought hard for the recognition he deserved."
+            },
+            {
+                "code": "fight_example_they-fight-constantly",
+                "text": "They fight constantly."
+            },
+            {
+                "code": "fight_example_they-continued-to-fight-despite-being-outnumbered",
+                "text": "They continued to fight despite being outnumbered."
+            },
+            {
+                "code": "fight_example_they-were-ready-to-fight-against-the-enemy",
+                "text": "They were ready to fight against the enemy."
+            },
+            {
+                "code": "fight_example_they-are-fighting-for-new-standards",
+                "text": "They are fighting for new standards."
+            },
+            {
+                "code": "fight_example_they-fought-with-swords",
+                "text": "They fought with swords."
+            },
+            {
+                "code": "fight_example_they-fight-often-about-money",
+                "text": "They fight often about money."
+            }
+        ]
+    }
+]

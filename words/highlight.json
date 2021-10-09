@@ -1,0 +1,74 @@
+[
+    {
+        "type": "(n)",
+        "mean": "best part of something",
+        "examples": [
+            {
+                "code": "highlight_example_that-was-the-obvious-highlight-of-her-day",
+                "text": "That was the obvious highlight of her day."
+            },
+            {
+                "code": "highlight_example_that-meeting-was-a-personal-highlight-for-him",
+                "text": "That meeting was a personal highlight for him."
+            },
+            {
+                "code": "highlight_example_meeting-the-president-was-the-major-highlight-of-the-trip",
+                "text": "Meeting the president was the major highlight of the trip."
+            },
+            {
+                "code": "highlight_example_he-likes-watching-football-highlights",
+                "text": "He likes watching football highlights."
+            },
+            {
+                "code": "highlight_example_his-career-highlight-was-winning-the-world-series",
+                "text": "His career highlight was winning the World Series."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to point out; to emphasize; to give attention to something",
+        "examples": [
+            {
+                "code": "highlight_example_the-study-clearly-highlights-the-need-for-changes",
+                "text": "The study clearly highlights the need for changes."
+            },
+            {
+                "code": "highlight_example_we-have-repeatedly-highlighted-the-problems",
+                "text": "We have repeatedly highlighted the problems."
+            },
+            {
+                "code": "highlight_example_they-recently-highlighted-their-accomplishments",
+                "text": "They recently highlighted their accomplishments."
+            },
+            {
+                "code": "highlight_example_this-article-highlights-the-need-for-new-testing-policies",
+                "text": "This article highlights the need for new testing policies."
+            },
+            {
+                "code": "highlight_example_the-exhibit-highlights-modern-artists",
+                "text": "The exhibit highlights modern artists."
+            },
+            {
+                "code": "highlight_example_they-are-trying-to-highlight-the-benefits-of-the-new-program",
+                "text": "They are trying to highlight the benefits of the new program."
+            },
+            {
+                "code": "highlight_example_he-highlighted-the-danger-of-doing-nothing",
+                "text": "He highlighted the danger of doing nothing."
+            },
+            {
+                "code": "highlight_example_they-highlighted-the-differences-between-the-two-groups",
+                "text": "They highlighted the differences between the two groups."
+            },
+            {
+                "code": "highlight_example_his-statement-highlighted-the-need-for-planning",
+                "text": "His statement highlighted the need for planning."
+            },
+            {
+                "code": "highlight_example_he-highlighted-the-flaws-in-our-proposal",
+                "text": "He highlighted the flaws in our proposal."
+            }
+        ]
+    }
+]

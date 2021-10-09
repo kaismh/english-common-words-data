@@ -1,0 +1,44 @@
+[
+    {
+        "type": "(adv)",
+        "mean": "in a short time; early; quickly",
+        "examples": [
+            {
+                "code": "soon_example_the-guests-are-arriving-soon",
+                "text": "The guests are arriving soon."
+            },
+            {
+                "code": "soon_example_the-show-will-begin-soon",
+                "text": "The show will begin soon."
+            },
+            {
+                "code": "soon_example_it-was-soon-discovered-that-she-was-the-cause-of-the-accident",
+                "text": "It was soon discovered that she was the cause of the accident."
+            },
+            {
+                "code": "soon_example_the-product-promises-that-wrinkles-will-soon-disappear",
+                "text": "The product promises that wrinkles will soon disappear."
+            },
+            {
+                "code": "soon_example_we-will-finish-the-project-soon",
+                "text": "We will finish the project soon."
+            },
+            {
+                "code": "soon_example_i-will-call-you-as-soon-as-possible",
+                "text": "I will call you as soon as possible."
+            },
+            {
+                "code": "soon_example_i-will-be-there-as-soon-as-i-can",
+                "text": "I will be there as soon as I can."
+            },
+            {
+                "code": "soon_example_he-wants-it-done-the-sooner-the-better",
+                "text": "He wants it done the sooner the better."
+            },
+            {
+                "code": "soon_example_i-will-be-there-very-soon",
+                "text": "I will be there very soon."
+            }
+        ]
+    }
+]

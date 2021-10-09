@@ -1,0 +1,32 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "before; earlier",
+        "examples": [
+            {
+                "code": "prior_example_i-could-not-attend-the-party-because-of-a-prior-engagement",
+                "text": "I could not attend the party because of a prior engagement."
+            },
+            {
+                "code": "prior_example_we-received-prior-approval-before-continuing-with-the-project",
+                "text": "We received prior approval before continuing with the project."
+            },
+            {
+                "code": "prior_example_do-you-have-any-prior-experience-in-this-field-of-work",
+                "text": "Do you have any prior experience in this field of work?"
+            },
+            {
+                "code": "prior_example_she-was-given-prior-notice-to-move-out-of-the-apartment",
+                "text": "She was given prior notice to move out of the apartment."
+            },
+            {
+                "code": "prior_example_he-has-a-prior-history-of-drug-use",
+                "text": "He has a prior history of drug use."
+            },
+            {
+                "code": "prior_example_she-is-being-given-prior-consideration-for-the-job-because-she-is-a-current-employee",
+                "text": "She is being given prior consideration for the job because she is a current employee."
+            }
+        ]
+    }
+]

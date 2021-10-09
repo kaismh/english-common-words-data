@@ -1,0 +1,84 @@
+[
+    {
+        "type": "(n)",
+        "mean": "mass communication; materials used by artists",
+        "examples": [
+            {
+                "code": "media_example_she-was-portrayed-unfairly-in-the-media",
+                "text": "She was portrayed unfairly in the media."
+            },
+            {
+                "code": "media_example_the-media-focused-on-the-wrong-points",
+                "text": "The media focused on the wrong points."
+            },
+            {
+                "code": "media_example_the-media-manipulated-the-story",
+                "text": "The media manipulated the story."
+            },
+            {
+                "code": "media_example_that-company-dominates-the-media",
+                "text": "That company dominates the media."
+            },
+            {
+                "code": "media_example_people-blamed-the-media-for-exaggerating-the-incident",
+                "text": "People blamed the media for exaggerating the incident."
+            },
+            {
+                "code": "media_example_media-relations-are-poor",
+                "text": "Media relations are poor."
+            },
+            {
+                "code": "media_example_what-s-the-most-popular-media-outlet",
+                "text": "What's the most popular media outlet?"
+            },
+            {
+                "code": "media_example_he-s-a-media-tycoon",
+                "text": "He's a media tycoon."
+            },
+            {
+                "code": "media_example_he-was-overwhelmed-by-the-media-coverage",
+                "text": "He was overwhelmed by the media coverage."
+            },
+            {
+                "code": "media_example_they-run-a-media-conglomerate",
+                "text": "They run a media conglomerate."
+            },
+            {
+                "code": "media_example_the-candidate-ran-a-successful-media-campaign",
+                "text": "The candidate ran a successful media campaign."
+            },
+            {
+                "code": "media_example_i-read-the-media-report",
+                "text": "I read the media report."
+            },
+            {
+                "code": "media_example_they-are-accused-of-media-bias",
+                "text": "They are accused of media bias."
+            },
+            {
+                "code": "media_example_i-don-t-follow-the-conservative-media",
+                "text": "I don't follow the conservative media."
+            },
+            {
+                "code": "media_example_the-foreign-media-picked-up-the-story",
+                "text": "The foreign media picked up the story."
+            },
+            {
+                "code": "media_example_the-news-media-is-everywhere",
+                "text": "The news media is everywhere."
+            },
+            {
+                "code": "media_example_we-mostly-use-digital-media",
+                "text": "We mostly use digital media."
+            },
+            {
+                "code": "media_example_print-media-is-dying",
+                "text": "Print media is dying."
+            },
+            {
+                "code": "media_example_how-was-she-portrayed-in-the-media",
+                "text": "How was she portrayed in the media?"
+            }
+        ]
+    }
+]

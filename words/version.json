@@ -1,0 +1,68 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a description or story that is different from another person's description; something that is different from another",
+        "examples": [
+            {
+                "code": "version_example_we-have-heard-many-versions-of-how-the-accident-happened",
+                "text": "We have heard many versions of how the accident happened."
+            },
+            {
+                "code": "version_example_i-have-an-old-version-of-the-computer-software",
+                "text": "I have an old version of the computer software."
+            },
+            {
+                "code": "version_example_i-need-the-newer-version-of-the-software",
+                "text": "I need the newer version of the software."
+            },
+            {
+                "code": "version_example_she-is-reading-a-short-version-of-the-novel",
+                "text": "She is reading a short version of the novel."
+            },
+            {
+                "code": "version_example_i-want-the-complete-version-of-the-novel",
+                "text": "I want the complete version of the novel."
+            },
+            {
+                "code": "version_example_we-have-the-basic-version-of-that-video-game",
+                "text": "We have the basic version of that video game."
+            },
+            {
+                "code": "version_example_they-are-releasing-the-improved-version-of-the-operating-system-next-month",
+                "text": "They are releasing the improved version of the operating system next month."
+            },
+            {
+                "code": "version_example_there-is-an-advanced-version-of-that-book",
+                "text": "There is an advanced version of that book."
+            },
+            {
+                "code": "version_example_i-checked-out-the-hardback-version-of-that-book-from-the-library",
+                "text": "I checked out the hardback version of that book from the library."
+            },
+            {
+                "code": "version_example_he-made-a-customized-version-of-the-model-car",
+                "text": "He made a customized version of the model car."
+            },
+            {
+                "code": "version_example_tell-your-version-of-the-story",
+                "text": "Tell your version of the story."
+            },
+            {
+                "code": "version_example_we-discovered-several-versions-of-the-book",
+                "text": "We discovered several versions of the book."
+            },
+            {
+                "code": "version_example_i-believe-john-s-version-of-the-events",
+                "text": "I believe John's version of the events."
+            },
+            {
+                "code": "version_example_they-are-making-another-version-of-the-movie",
+                "text": "They are making another version of the movie."
+            },
+            {
+                "code": "version_example_the-computer-company-is-introducing-their-newest-software-version-next-month",
+                "text": "The computer company is introducing their newest software version next month."
+            }
+        ]
+    }
+]

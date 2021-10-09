@@ -1,0 +1,68 @@
+[
+    {
+        "type": "(n)",
+        "mean": "past history or experience; the part of view behind the main subject",
+        "examples": [
+            {
+                "code": "background_example_tell-me-about-your-family-background",
+                "text": "Tell me about your family background."
+            },
+            {
+                "code": "background_example_the-students-come-from-mixed-backgrounds",
+                "text": "The students come from mixed backgrounds."
+            },
+            {
+                "code": "background_example_she-comes-from-a-wealthy-background",
+                "text": "She comes from a wealthy background."
+            },
+            {
+                "code": "background_example_we-ll-take-a-look-at-the-historical-background-of-the-issue",
+                "text": "We'll take a look at the historical background of the issue."
+            },
+            {
+                "code": "background_example_she-painted-the-background-black",
+                "text": "She painted the background black."
+            },
+            {
+                "code": "background_example_we-come-from-similar-backgrounds",
+                "text": "We come from similar backgrounds."
+            },
+            {
+                "code": "background_example_they-come-from-a-middle-class-background",
+                "text": "They come from a middle-class background."
+            },
+            {
+                "code": "background_example_the-company-runs-background-checks-of-all-its-employees",
+                "text": "The company runs background checks of all its employees."
+            },
+            {
+                "code": "background_example_his-lecture-will-explain-the-historical-background-of-the-constitution",
+                "text": "His lecture will explain the historical background of the Constitution."
+            },
+            {
+                "code": "background_example_at-parties-i-prefer-to-blend-into-the-background",
+                "text": "At parties, I prefer to blend into the background."
+            },
+            {
+                "code": "background_example_i-cannot-concentrate-with-too-much-background-noise",
+                "text": "I cannot concentrate with too much background noise."
+            },
+            {
+                "code": "background_example_i-like-the-background-color-of-this-photography",
+                "text": "I like the background color of this photography."
+            },
+            {
+                "code": "background_example_she-sang-background-vocals-on-that-song",
+                "text": "She sang background vocals on that song."
+            },
+            {
+                "code": "background_example_they-are-running-background-checks-on-their-employees",
+                "text": "They are running background checks on their employees."
+            },
+            {
+                "code": "background_example_it-would-be-nice-to-have-some-background-information-before-the-meeting",
+                "text": "It would be nice to have some background information before the meeting."
+            }
+        ]
+    }
+]

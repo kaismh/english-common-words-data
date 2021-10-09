@@ -1,0 +1,64 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the state of officially belonging to a group",
+        "examples": [
+            {
+                "code": "membership_example_i-renewed-my-membership",
+                "text": "I renewed my membership."
+            },
+            {
+                "code": "membership_example_he-was-denied-membership",
+                "text": "He was denied membership."
+            },
+            {
+                "code": "membership_example_membership-has-increased",
+                "text": "Membership has increased."
+            },
+            {
+                "code": "membership_example_he-is-seeking-membership-here",
+                "text": "He is seeking membership here."
+            },
+            {
+                "code": "membership_example_did-you-purchase-a-membership-yet",
+                "text": "Did you purchase a membership yet?"
+            },
+            {
+                "code": "membership_example_how-much-are-the-membership-dues",
+                "text": "How much are the membership dues?"
+            },
+            {
+                "code": "membership_example_i-filled-out-the-membership-application",
+                "text": "I filled out the membership application."
+            },
+            {
+                "code": "membership_example_what-are-the-membership-requirements",
+                "text": "What are the membership requirements?"
+            },
+            {
+                "code": "membership_example_can-i-see-your-membership-card",
+                "text": "Can I see your membership card?"
+            },
+            {
+                "code": "membership_example_how-big-is-the-membership-base",
+                "text": "How big is the membership base?"
+            },
+            {
+                "code": "membership_example_i-paid-the-membership-fee",
+                "text": "I paid the membership fee."
+            },
+            {
+                "code": "membership_example_he-applied-for-a-gym-membership",
+                "text": "He applied for a gym membership."
+            },
+            {
+                "code": "membership_example_how-much-is-the-individual-membership",
+                "text": "How much is the individual membership?"
+            },
+            {
+                "code": "membership_example_she-received-an-honorary-membership-to-the-club",
+                "text": "She received an honorary membership to the club."
+            }
+        ]
+    }
+]

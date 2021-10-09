@@ -1,0 +1,48 @@
+[
+    {
+        "type": "(n)",
+        "mean": "something that is liked more than another thing",
+        "examples": [
+            {
+                "code": "preference_example_she-expressed-her-preference-for-dinner",
+                "text": "She expressed her preference for dinner."
+            },
+            {
+                "code": "preference_example_i-have-no-preference-between-them",
+                "text": "I have no preference between them."
+            },
+            {
+                "code": "preference_example_she-has-a-clear-preference-for-tall-men",
+                "text": "She has a clear preference for tall men."
+            },
+            {
+                "code": "preference_example_my-individual-preference-is-to-work-alone",
+                "text": "My individual preference is to work alone."
+            },
+            {
+                "code": "preference_example_the-survey-revealed-consumer-preferences",
+                "text": "The survey revealed consumer preferences."
+            },
+            {
+                "code": "preference_example_her-picky-child-has-food-preferences",
+                "text": "Her picky child has food preferences."
+            },
+            {
+                "code": "preference_example_he-was-harassed-for-his-sexual-preferences",
+                "text": "He was harassed for his sexual preferences."
+            },
+            {
+                "code": "preference_example_do-you-have-a-preference-regarding-pets",
+                "text": "Do you have a preference regarding pets?"
+            },
+            {
+                "code": "preference_example_does-she-have-a-preference-for-white-or-red-wine",
+                "text": "Does she have a preference for white or red wine?"
+            },
+            {
+                "code": "preference_example_does-he-have-a-preference-between-coffee-and-tea",
+                "text": "Does he have a preference between coffee and tea?"
+            }
+        ]
+    }
+]

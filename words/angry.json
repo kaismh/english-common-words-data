@@ -1,0 +1,36 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "feeling upset or having strong feelings of dislike for someone or something",
+        "examples": [
+            {
+                "code": "angry_example_my-father-seems-angry",
+                "text": "My father seems angry."
+            },
+            {
+                "code": "angry_example_i-got-angry-at-my-computer",
+                "text": "I got angry at my computer."
+            },
+            {
+                "code": "angry_example_even-after-he-apologized-she-remained-angry",
+                "text": "Even after he apologized, she remained angry."
+            },
+            {
+                "code": "angry_example_we-are-extremely-angry",
+                "text": "We are extremely angry."
+            },
+            {
+                "code": "angry_example_that-made-them-incredibly-angry",
+                "text": "That made them incredibly angry."
+            },
+            {
+                "code": "angry_example_we-were-shocked-when-he-became-suddenly-angry",
+                "text": "We were shocked when he became suddenly angry."
+            },
+            {
+                "code": "angry_example_she-is-angry-about-the-whole-situation",
+                "text": "She is angry about the whole situation."
+            }
+        ]
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "type": "(n)",
+        "mean": "an expression of gratitude",
+        "examples": [
+            {
+                "code": "thanks_example_i-give-my-sincere-thanks-to-all-of-my-friends",
+                "text": "I give my sincere thanks to all of my friends."
+            },
+            {
+                "code": "thanks_example_we-would-like-to-give-special-thanks-to-the-students",
+                "text": "We would like to give special thanks to the students."
+            },
+            {
+                "code": "thanks_example_he-gave-thanks-to-all-who-attended-the-party",
+                "text": "He gave thanks to all who attended the party."
+            },
+            {
+                "code": "thanks_example_she-received-huge-thanks-for-her-dedication",
+                "text": "She received huge thanks for her dedication."
+            },
+            {
+                "code": "thanks_example_he-gave-thanks-for-all-of-their-hard-work",
+                "text": "He gave thanks for all of their hard work."
+            }
+        ]
+    }
+]

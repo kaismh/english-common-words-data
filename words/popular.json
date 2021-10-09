@@ -1,0 +1,64 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "liked by many people",
+        "examples": [
+            {
+                "code": "popular_example_she-won-the-popular-vote",
+                "text": "She won the popular vote."
+            },
+            {
+                "code": "popular_example_everyone-wants-to-be-the-popular-kid-in-school",
+                "text": "Everyone wants to be the popular kid in school."
+            },
+            {
+                "code": "popular_example_this-park-is-a-popular-destination",
+                "text": "This park is a popular destination."
+            },
+            {
+                "code": "popular_example_that-is-a-popular-saying",
+                "text": "That is a popular saying."
+            },
+            {
+                "code": "popular_example_she-wears-popular-brands",
+                "text": "She wears popular brands."
+            },
+            {
+                "code": "popular_example_he-is-the-most-popular-kid-in-his-class",
+                "text": "He is the most popular kid in his class."
+            },
+            {
+                "code": "popular_example_that-show-is-very-popular",
+                "text": "That show is very popular."
+            },
+            {
+                "code": "popular_example_she-is-becoming-increasingly-popular",
+                "text": "She is becoming increasingly popular."
+            },
+            {
+                "code": "popular_example_he-became-instantly-popular",
+                "text": "He became instantly popular."
+            },
+            {
+                "code": "popular_example_she-is-popular-at-school",
+                "text": "She is popular at school."
+            },
+            {
+                "code": "popular_example_he-became-popular-after-the-football-game",
+                "text": "He became popular after the football game."
+            },
+            {
+                "code": "popular_example_the-show-remained-popular-for-many-years",
+                "text": "The show remained popular for many years."
+            },
+            {
+                "code": "popular_example_this-music-is-popular-with-the-kids",
+                "text": "This music is popular with the kids."
+            },
+            {
+                "code": "popular_example_that-show-is-popular-in-europe",
+                "text": "That show is popular in Europe."
+            }
+        ]
+    }
+]

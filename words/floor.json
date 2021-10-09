@@ -1,0 +1,84 @@
+[
+    {
+        "type": "(n)",
+        "mean": "surface you walk on; bottom of something; level or story of a building",
+        "examples": [
+            {
+                "code": "floor_example_he-fell-asleep-on-the-bare-floor",
+                "text": "He fell asleep on the bare floor."
+            },
+            {
+                "code": "floor_example_she-cleaned-the-dirty-floors",
+                "text": "She cleaned the dirty floors."
+            },
+            {
+                "code": "floor_example_be-careful-on-the-wet-floors",
+                "text": "Be careful on the wet floors."
+            },
+            {
+                "code": "floor_example_the-room-has-cement-floors",
+                "text": "The room has cement floors."
+            },
+            {
+                "code": "floor_example_she-needs-to-clean-the-kitchen-floor",
+                "text": "She needs to clean the kitchen floor."
+            },
+            {
+                "code": "floor_example_i-ll-meet-you-on-the-dance-floor",
+                "text": "I'll meet you on the dance floor."
+            },
+            {
+                "code": "floor_example_she-lives-on-the-first-floor-of-the-building",
+                "text": "She lives on the first floor of the building."
+            },
+            {
+                "code": "floor_example_his-office-is-on-the-second-floor",
+                "text": "His office is on the second floor."
+            },
+            {
+                "code": "floor_example_she-always-gets-a-room-on-the-upper-floor-of-the-hotel",
+                "text": "She always gets a room on the upper floor of the hotel."
+            },
+            {
+                "code": "floor_example_they-cleaned-the-floors-before-the-party",
+                "text": "They cleaned the floors before the party."
+            },
+            {
+                "code": "floor_example_the-book-dropped-to-the-floor",
+                "text": "The book dropped to the floor."
+            },
+            {
+                "code": "floor_example_make-sure-that-doesn-t-touch-the-floor",
+                "text": "Make sure that doesn't touch the floor."
+            },
+            {
+                "code": "floor_example_he-paced-the-floor",
+                "text": "He paced the floor."
+            },
+            {
+                "code": "floor_example_trash-littered-her-floor",
+                "text": "Trash littered her floor."
+            },
+            {
+                "code": "floor_example_their-offices-occupy-three-floors-in-the-building",
+                "text": "Their offices occupy three floors in the building."
+            },
+            {
+                "code": "floor_example_they-went-shopping-for-new-floor-coverings",
+                "text": "They went shopping for new floor coverings."
+            },
+            {
+                "code": "floor_example_the-floor-space-in-here-is-limited",
+                "text": "The floor space in here is limited."
+            },
+            {
+                "code": "floor_example_they-looked-at-the-floor-plan-for-the-new-business",
+                "text": "They looked at the floor plan for the new business."
+            },
+            {
+                "code": "floor_example_you-can-just-put-that-on-the-floor",
+                "text": "You can just put that on the floor."
+            }
+        ]
+    }
+]

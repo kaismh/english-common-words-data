@@ -1,0 +1,40 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a bend in a line or surface",
+        "examples": [
+            {
+                "code": "curve_example_that-stick-has-a-slight-curve",
+                "text": "That stick has a slight curve."
+            },
+            {
+                "code": "curve_example_the-road-has-a-sharp-curve",
+                "text": "The road has a sharp curve."
+            },
+            {
+                "code": "curve_example_they-arranged-the-meeting-chairs-to-form-a-large-curve",
+                "text": "They arranged the meeting chairs to form a large curve."
+            },
+            {
+                "code": "curve_example_follow-the-curve-of-the-road-and-you-will-see-our-house",
+                "text": "Follow the curve of the road and you will see our house."
+            },
+            {
+                "code": "curve_example_trace-the-curve-on-a-piece-of-paper",
+                "text": "Trace the curve on a piece of paper."
+            },
+            {
+                "code": "curve_example_the-doctor-looked-at-the-curve-of-his-back",
+                "text": "The doctor looked at the curve of his back."
+            },
+            {
+                "code": "curve_example_the-bus-went-around-the-curve",
+                "text": "The bus went around the curve."
+            },
+            {
+                "code": "curve_example_take-a-right-at-the-curve",
+                "text": "Take a right at the curve."
+            }
+        ]
+    }
+]

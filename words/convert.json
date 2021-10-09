@@ -1,0 +1,46 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a person who has changed their belief or religion",
+        "examples": [
+            {
+                "code": "convert_example_he-is-a-new-convert",
+                "text": "He is a new convert."
+            },
+            {
+                "code": "convert_example_the-man-recently-became-a-convert",
+                "text": "The man recently became a convert."
+            },
+            {
+                "code": "convert_example_the-group-is-trying-to-attract-converts",
+                "text": "The group is trying to attract converts."
+            },
+            {
+                "code": "convert_example_he-was-a-convert-from-buddhism",
+                "text": "He was a convert from Buddhism."
+            },
+            {
+                "code": "convert_example_she-is-a-recent-convert-to-christianity",
+                "text": "She is a recent convert to Christianity."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to change something into something else",
+        "examples": [
+            {
+                "code": "convert_example_she-wants-to-convert-the-bedroom-into-a-closet",
+                "text": "She wants to convert the bedroom into a closet."
+            },
+            {
+                "code": "convert_example_they-will-convert-the-building-into-a-church",
+                "text": "They will convert the building into a church."
+            },
+            {
+                "code": "convert_example_they-were-trying-to-convert-her-beliefs",
+                "text": "They were trying to convert her beliefs."
+            }
+        ]
+    }
+]

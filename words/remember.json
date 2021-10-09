@@ -1,0 +1,76 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to recall; to keep something in your memory",
+        "examples": [
+            {
+                "code": "remember_example_i-cannot-remember-his-birthday",
+                "text": "I cannot remember his birthday."
+            },
+            {
+                "code": "remember_example_i-don-t-remember-much-of-my-dream",
+                "text": "I don't remember much of my dream."
+            },
+            {
+                "code": "remember_example_i-can-t-remember-the-joke",
+                "text": "I can't remember the joke."
+            },
+            {
+                "code": "remember_example_i-remember-the-time-that-we-went-to-the-beach",
+                "text": "I remember the time that we went to the beach."
+            },
+            {
+                "code": "remember_example_i-do-not-remember-that-conversation",
+                "text": "I do not remember that conversation."
+            },
+            {
+                "code": "remember_example_i-clearly-remember-how-to-get-there",
+                "text": "I clearly remember how to get there."
+            },
+            {
+                "code": "remember_example_i-remember-precisely-what-she-said",
+                "text": "I remember precisely what she said."
+            },
+            {
+                "code": "remember_example_i-will-always-remember-you",
+                "text": "I will always remember you."
+            },
+            {
+                "code": "remember_example_she-finally-remembered-to-call-me",
+                "text": "She finally remembered to call me."
+            },
+            {
+                "code": "remember_example_i-can-remember-back-to-the-1940s",
+                "text": "I can remember back to the 1940s."
+            },
+            {
+                "code": "remember_example_i-will-remember-this-forever",
+                "text": "I will remember this forever."
+            },
+            {
+                "code": "remember_example_i-cannot-remember-his-name",
+                "text": "I cannot remember his name."
+            },
+            {
+                "code": "remember_example_she-remembered-him-as-a-little-boy",
+                "text": "She remembered him as a little boy."
+            },
+            {
+                "code": "remember_example_he-is-remembered-for-his-funny-jokes",
+                "text": "He is remembered for his funny jokes."
+            },
+            {
+                "code": "remember_example_did-you-remember-to-lock-the-door",
+                "text": "Did you remember to lock the door?"
+            },
+            {
+                "code": "remember_example_she-will-be-remembered-for-her-charm",
+                "text": "She will be remembered for her charm."
+            },
+            {
+                "code": "remember_example_he-will-be-remembered-as-a-great-man",
+                "text": "He will be remembered as a great man."
+            }
+        ]
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "type": "(n)",
+        "mean": "food from plants",
+        "examples": [
+            {
+                "code": "vegetable_example_people-should-eat-more-leafy-vegetables",
+                "text": "People should eat more leafy vegetables."
+            },
+            {
+                "code": "vegetable_example_my-children-only-eat-raw-vegetables",
+                "text": "My children only eat raw vegetables."
+            },
+            {
+                "code": "vegetable_example_she-cooks-with-fresh-vegetables",
+                "text": "She cooks with fresh vegetables."
+            },
+            {
+                "code": "vegetable_example_many-people-are-now-buying-organic-vegetables",
+                "text": "Many people are now buying organic vegetables."
+            },
+            {
+                "code": "vegetable_example_do-you-like-spring-vegetables",
+                "text": "Do you like spring vegetables?"
+            },
+            {
+                "code": "vegetable_example_we-grow-our-own-vegetables",
+                "text": "We grow our own vegetables."
+            },
+            {
+                "code": "vegetable_example_they-do-not-eat-enough-vegetables",
+                "text": "They do not eat enough vegetables."
+            },
+            {
+                "code": "vegetable_example_i-chop-all-of-the-vegetables-before-cooking",
+                "text": "I chop all of the vegetables before cooking."
+            },
+            {
+                "code": "vegetable_example_do-you-cook-your-vegetables",
+                "text": "Do you cook your vegetables?"
+            },
+            {
+                "code": "vegetable_example_make-sure-you-wash-raw-vegetables",
+                "text": "Make sure you wash raw vegetables."
+            },
+            {
+                "code": "vegetable_example_vegetables-contain-lots-of-nutrients",
+                "text": "Vegetables contain lots of nutrients."
+            },
+            {
+                "code": "vegetable_example_i-have-a-vegetable-garden-in-my-backyard",
+                "text": "I have a vegetable garden in my backyard."
+            },
+            {
+                "code": "vegetable_example_i-use-vegetable-oil-for-frying",
+                "text": "I use vegetable oil for frying."
+            },
+            {
+                "code": "vegetable_example_i-need-a-vegetable-peeler",
+                "text": "I need a vegetable peeler."
+            },
+            {
+                "code": "vegetable_example_do-you-like-vegetable-soup",
+                "text": "Do you like vegetable soup?"
+            }
+        ]
+    }
+]

@@ -1,0 +1,114 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to try very hard to do something; to move with difficulty; to have great difficulties",
+        "examples": [
+            {
+                "code": "struggle_example_he-struggled-desperately-to-save-his-son",
+                "text": "He struggled desperately to save his son."
+            },
+            {
+                "code": "struggle_example_she-struggles-constantly-with-her-co-workers",
+                "text": "She struggles constantly with her co-workers."
+            },
+            {
+                "code": "struggle_example_the-baseball-team-is-struggling-badly-this-year",
+                "text": "The baseball team is struggling badly this year."
+            },
+            {
+                "code": "struggle_example_my-son-is-really-struggling-in-math",
+                "text": "My son is really struggling in math."
+            },
+            {
+                "code": "struggle_example_she-is-clearly-struggling-to-quit-smoking",
+                "text": "She is clearly struggling to quit smoking."
+            },
+            {
+                "code": "struggle_example_many-friends-are-struggling-financially",
+                "text": "Many friends are struggling financially."
+            },
+            {
+                "code": "struggle_example_many-families-are-struggling-against-poverty",
+                "text": "Many families are struggling against poverty."
+            },
+            {
+                "code": "struggle_example_the-hikers-struggled-up-the-snowy-mountain",
+                "text": "The hikers struggled up the snowy mountain."
+            },
+            {
+                "code": "struggle_example_the-swimmer-struggled-for-every-breath",
+                "text": "The swimmer struggled for every breath."
+            },
+            {
+                "code": "struggle_example_we-struggled-through-some-financial-hardships",
+                "text": "We struggled through some financial hardships."
+            },
+            {
+                "code": "struggle_example_i-am-really-struggling-with-this-homework",
+                "text": "I am really struggling with this homework."
+            }
+        ]
+    },
+    {
+        "type": "(n)",
+        "mean": "a fight; a great effort",
+        "examples": [
+            {
+                "code": "struggle_example_we-witnessed-a-violent-struggle-in-front-of-the-store",
+                "text": "We witnessed a violent struggle in front of the store."
+            },
+            {
+                "code": "struggle_example_there-is-an-ongoing-struggle-for-freedom-in-that-country",
+                "text": "There is an ongoing struggle for freedom in that country."
+            },
+            {
+                "code": "struggle_example_everyone-knew-about-the-internal-struggles-in-the-organization",
+                "text": "Everyone knew about the internal struggles in the organization."
+            },
+            {
+                "code": "struggle_example_she-has-faced-a-daily-struggle-against-obesity",
+                "text": "She has faced a daily struggle against obesity."
+            },
+            {
+                "code": "struggle_example_they-joined-the-struggle-against-racism",
+                "text": "They joined the struggle against racism."
+            },
+            {
+                "code": "struggle_example_their-financial-struggles-began-when-he-was-fired",
+                "text": "Their financial struggles began when he was fired."
+            },
+            {
+                "code": "struggle_example_the-workers-were-locked-in-a-struggle-with-the-management",
+                "text": "The workers were locked in a struggle with the management."
+            },
+            {
+                "code": "struggle_example_they-won-the-struggle-for-higher-wages",
+                "text": "They won the struggle for higher wages."
+            },
+            {
+                "code": "struggle_example_she-had-a-long-struggle-with-diabetes",
+                "text": "She had a long struggle with diabetes."
+            },
+            {
+                "code": "struggle_example_many-families-face-the-struggles-of-poverty",
+                "text": "Many families face the struggles of poverty."
+            },
+            {
+                "code": "struggle_example_he-was-hurt-in-the-struggle",
+                "text": "He was hurt in the struggle."
+            },
+            {
+                "code": "struggle_example_i-won-t-give-up-without-a-struggle",
+                "text": "I won't give up without a struggle."
+            },
+            {
+                "code": "struggle_example_many-minorities-struggle-with-racism",
+                "text": "Many minorities struggle with racism."
+            },
+            {
+                "code": "struggle_example_we-saw-a-struggle-between-two-kids",
+                "text": "We saw a struggle between two kids."
+            }
+        ]
+    }
+]

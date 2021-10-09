@@ -1,0 +1,116 @@
+[
+    {
+        "type": "(n)",
+        "mean": "something that is true",
+        "examples": [
+            {
+                "code": "fact_example_we-need-to-consider-all-of-the-important-facts",
+                "text": "We need to consider all of the important facts."
+            },
+            {
+                "code": "fact_example_she-told-me-some-interesting-facts",
+                "text": "She told me some interesting facts."
+            },
+            {
+                "code": "fact_example_they-are-looking-at-the-hard-facts-in-this-case",
+                "text": "They are looking at the hard facts in this case."
+            },
+            {
+                "code": "fact_example_we-are-reading-about-the-harsh-facts-of-the-civil-war",
+                "text": "We are reading about the harsh facts of the Civil War."
+            },
+            {
+                "code": "fact_example_he-detailed-the-known-facts-of-his-research",
+                "text": "He detailed the known facts of his research."
+            },
+            {
+                "code": "fact_example_it-is-a-well-known-fact-that-his-statement-is-untrue",
+                "text": "It is a well-known fact that his statement is untrue."
+            },
+            {
+                "code": "fact_example_the-mere-fact-that-you-called-shows-you-care",
+                "text": "The mere fact that you called shows you care."
+            },
+            {
+                "code": "fact_example_they-are-investigating-the-historical-facts-of-the-case",
+                "text": "They are investigating the historical facts of the case."
+            },
+            {
+                "code": "fact_example_we-know-the-facts-in-this-case",
+                "text": "We know the facts in this case."
+            },
+            {
+                "code": "fact_example_good-reporters-always-check-their-facts",
+                "text": "Good reporters always check their facts."
+            },
+            {
+                "code": "fact_example_we-should-consider-all-the-facts-before-making-a-decision",
+                "text": "We should consider all the facts before making a decision."
+            },
+            {
+                "code": "fact_example_he-hasn-t-yet-proven-the-facts",
+                "text": "He hasn't yet proven the facts."
+            },
+            {
+                "code": "fact_example_they-are-gathering-all-of-the-facts-needed",
+                "text": "They are gathering all of the facts needed."
+            },
+            {
+                "code": "fact_example_she-presented-the-facts-she-had",
+                "text": "She presented the facts she had."
+            },
+            {
+                "code": "fact_example_she-couldn-t-explain-the-facts-that-disagreed-with-her-claim",
+                "text": "She couldn't explain the facts that disagreed with her claim."
+            },
+            {
+                "code": "fact_example_it-s-time-for-him-to-face-the-facts-and-move-on",
+                "text": "It's time for him to face the facts and move on."
+            },
+            {
+                "code": "fact_example_i-appreciate-the-fact-that-you-re-trying-so-hard",
+                "text": "I appreciate the fact that you're trying so hard."
+            },
+            {
+                "code": "fact_example_they-can-t-seem-to-learn-the-basic-facts-of-this-process",
+                "text": "They can't seem to learn the basic facts of this process."
+            },
+            {
+                "code": "fact_example_he-always-wants-to-deny-the-facts",
+                "text": "He always wants to deny the facts."
+            },
+            {
+                "code": "fact_example_they-managed-to-hide-the-facts-until-it-was-too-late",
+                "text": "They managed to hide the facts until it was too late."
+            },
+            {
+                "code": "fact_example_this-does-not-change-the-fact-that-they-lied",
+                "text": "This does not change the fact that they lied."
+            },
+            {
+                "code": "fact_example_this-movie-is-based-on-historical-facts",
+                "text": "This movie is based on historical facts."
+            },
+            {
+                "code": "fact_example_he-tried-to-take-credit-after-the-fact",
+                "text": "He tried to take credit after the fact."
+            },
+            {
+                "code": "fact_example_we-are-examining-the-facts-about-global-warming",
+                "text": "We are examining the facts about global warming."
+            },
+            {
+                "code": "fact_example_he-argued-that-he-was-right-despite-the-fact-he-knew-nothing-about-the-situation",
+                "text": "He argued that he was right despite the fact he knew nothing about the situation."
+            },
+            {
+                "code": "fact_example_we-were-not-surprised-by-the-results-given-the-facts-of-the-case",
+                "text": "We were not surprised by the results given the facts of the case."
+            },
+            {
+                "code": "fact_example_she-said-she-had-completed-the-project-but-in-fact-she-didn-t",
+                "text": "She said she had completed the project but in fact she didn't."
+            }
+        ]
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a piece of clothing you wear on your foot",
+        "examples": [
+            {
+                "code": "sock_example_she-likes-to-wear-long-socks",
+                "text": "She likes to wear long socks."
+            },
+            {
+                "code": "sock_example_his-mother-yelled-at-him-for-leaving-his-dirty-socks-on-the-floor",
+                "text": "His mother yelled at him for leaving his dirty socks on the floor."
+            },
+            {
+                "code": "sock_example_he-needs-to-buy-a-pair-of-dress-socks",
+                "text": "He needs to buy a pair of dress socks."
+            },
+            {
+                "code": "sock_example_i-told-my-son-to-pull-up-his-socks",
+                "text": "I told my son to pull up his socks."
+            },
+            {
+                "code": "sock_example_she-pulls-off-her-socks-as-soon-as-she-gets-home",
+                "text": "She pulls off her socks as soon as she gets home."
+            },
+            {
+                "code": "sock_example_my-grandmother-knitted-a-pair-of-socks-for-me",
+                "text": "My grandmother knitted a pair of socks for me."
+            },
+            {
+                "code": "sock_example_his-sock-drawer-was-filled-with-dress-socks",
+                "text": "His sock drawer was filled with dress socks."
+            },
+            {
+                "code": "sock_example_she-entertained-the-children-by-using-sock-puppets",
+                "text": "She entertained the children by using sock puppets."
+            }
+        ]
+    }
+]

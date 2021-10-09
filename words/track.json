@@ -1,0 +1,78 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a mark left behind by a person, animal, or car; a special path for running",
+        "examples": [
+            {
+                "code": "track_example_the-police-noticed-fresh-tracks-outside-the-window",
+                "text": "The police noticed fresh tracks outside the window."
+            },
+            {
+                "code": "track_example_the-lost-hiker-left-deep-tracks-in-the-snow",
+                "text": "The lost hiker left deep tracks in the snow."
+            },
+            {
+                "code": "track_example_we-run-on-an-outdoor-track",
+                "text": "We run on an outdoor track."
+            },
+            {
+                "code": "track_example_the-track-is-oval",
+                "text": "The track is oval."
+            },
+            {
+                "code": "track_example_the-robber-tried-to-cover-his-tracks",
+                "text": "The robber tried to cover his tracks."
+            },
+            {
+                "code": "track_example_the-dog-left-tracks-all-over-the-house",
+                "text": "The dog left tracks all over the house."
+            },
+            {
+                "code": "track_example_we-followed-the-tracks-left-by-the-hiker",
+                "text": "We followed the tracks left by the hiker."
+            },
+            {
+                "code": "track_example_he-ran-around-the-track-several-times",
+                "text": "He ran around the track several times."
+            },
+            {
+                "code": "track_example_there-were-track-marks-all-over-the-crime-scene",
+                "text": "There were track marks all over the crime scene."
+            },
+            {
+                "code": "track_example_he-runs-around-the-track-during-practice",
+                "text": "He runs around the track during practice."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to follow someone or something",
+        "examples": [
+            {
+                "code": "track_example_the-hunter-carefully-tracked-the-deer-for-many-yards",
+                "text": "The hunter carefully tracked the deer for many yards."
+            },
+            {
+                "code": "track_example_the-police-successfully-tracked-the-criminal-to-another-state",
+                "text": "The police successfully tracked the criminal to another state."
+            },
+            {
+                "code": "track_example_the-radar-accurately-tracks-enemy-ships",
+                "text": "The radar accurately tracks enemy ships."
+            },
+            {
+                "code": "track_example_the-doctor-regularly-tracks-his-patient-s-progress",
+                "text": "The doctor regularly tracks his patient's progress."
+            },
+            {
+                "code": "track_example_they-are-tracking-his-development",
+                "text": "They are tracking his development."
+            },
+            {
+                "code": "track_example_you-can-track-your-shipment",
+                "text": "You can track your shipment."
+            }
+        ]
+    }
+]

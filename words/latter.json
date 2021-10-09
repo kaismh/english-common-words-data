@@ -1,0 +1,28 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "being the second of two things just mentioned; last on a list; happening near the end of a period of time",
+        "examples": [
+            {
+                "code": "latter_example_the-latter-half-of-the-football-game-was-more-entertaining",
+                "text": "The latter half of the football game was more entertaining."
+            },
+            {
+                "code": "latter_example_she-enjoyed-the-latter-stage-of-her-life",
+                "text": "She enjoyed the latter stage of her life."
+            },
+            {
+                "code": "latter_example_i-prefer-the-latter-version-of-the-two-stories",
+                "text": "I prefer the latter version of the two stories."
+            },
+            {
+                "code": "latter_example_if-i-had-to-choose-i-would-pick-the-latter-offer-of-the-two",
+                "text": "If I had to choose, I would pick the latter offer of the two."
+            },
+            {
+                "code": "latter_example_of-the-two-products-the-latter-kind-is-more-useful",
+                "text": "Of the two products, the latter kind is more useful."
+            }
+        ]
+    }
+]

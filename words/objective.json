@@ -1,0 +1,82 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a goal",
+        "examples": [
+            {
+                "code": "objective_example_we-achieved-our-objective",
+                "text": "We achieved our objective."
+            },
+            {
+                "code": "objective_example_he-pursued-his-objective",
+                "text": "He pursued his objective."
+            },
+            {
+                "code": "objective_example_i-have-a-clear-objective",
+                "text": "I have a clear objective."
+            },
+            {
+                "code": "objective_example_he-stated-his-objective-clearly",
+                "text": "He stated his objective clearly."
+            },
+            {
+                "code": "objective_example_this-is-our-main-objective",
+                "text": "This is our main objective."
+            },
+            {
+                "code": "objective_example_what-is-your-secondary-objective",
+                "text": "What is your secondary objective?"
+            },
+            {
+                "code": "objective_example_they-have-a-clear-objective",
+                "text": "They have a clear objective."
+            },
+            {
+                "code": "objective_example_she-has-an-educational-objective",
+                "text": "She has an educational objective."
+            },
+            {
+                "code": "objective_example_they-were-successful-in-their-objective",
+                "text": "They were successful in their objective."
+            },
+            {
+                "code": "objective_example_we-failed-in-our-main-objective-of-making-a-profit",
+                "text": "We failed in our main objective of making a profit."
+            }
+        ]
+    },
+    {
+        "type": "(adj)",
+        "mean": "fair; influenced by facts only and not feelings",
+        "examples": [
+            {
+                "code": "objective_example_it-s-important-to-remain-objective",
+                "text": "It's important to remain objective."
+            },
+            {
+                "code": "objective_example_he-is-very-objective-as-a-judge",
+                "text": "He is very objective as a judge."
+            },
+            {
+                "code": "objective_example_this-report-is-very-objective",
+                "text": "This report is very objective."
+            },
+            {
+                "code": "objective_example_she-has-to-stay-fairly-objective",
+                "text": "She has to stay fairly objective."
+            },
+            {
+                "code": "objective_example_i-have-an-objective-viewpoint",
+                "text": "I have an objective viewpoint."
+            },
+            {
+                "code": "objective_example_he-made-an-objective-decision",
+                "text": "He made an objective decision."
+            },
+            {
+                "code": "objective_example_we-need-objective-criteria",
+                "text": "We need objective criteria."
+            }
+        ]
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "having lots of information",
+        "examples": [
+            {
+                "code": "detailed_example_the-final-report-is-very-detailed",
+                "text": "The final report is very detailed."
+            },
+            {
+                "code": "detailed_example_he-provided-more-detailed-information",
+                "text": "He provided more detailed information."
+            },
+            {
+                "code": "detailed_example_he-wrote-an-extremely-detailed-report",
+                "text": "He wrote an extremely detailed report."
+            },
+            {
+                "code": "detailed_example_she-provided-a-very-detailed-answer",
+                "text": "She provided a very detailed answer."
+            },
+            {
+                "code": "detailed_example_the-detailed-picture-caught-my-eye",
+                "text": "The detailed picture caught my eye."
+            }
+        ]
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "very clear; very different",
+        "examples": [
+            {
+                "code": "distinct_example_the-pattern-is-distinct",
+                "text": "The pattern is distinct."
+            },
+            {
+                "code": "distinct_example_this-picture-is-very-distinct",
+                "text": "This picture is very distinct."
+            },
+            {
+                "code": "distinct_example_this-animal-is-genetically-distinct",
+                "text": "This animal is genetically distinct."
+            },
+            {
+                "code": "distinct_example_this-fossil-is-quite-distinct-from-others",
+                "text": "This fossil is quite distinct from others."
+            },
+            {
+                "code": "distinct_example_he-has-a-distinct-advantage",
+                "text": "He has a distinct advantage."
+            },
+            {
+                "code": "distinct_example_the-car-has-a-distinct-feature",
+                "text": "The car has a distinct feature."
+            },
+            {
+                "code": "distinct_example_the-boy-felt-a-distinct-feeling",
+                "text": "The boy felt a distinct feeling."
+            },
+            {
+                "code": "distinct_example_their-customer-service-is-the-distinct-difference",
+                "text": "Their customer service is the distinct difference."
+            }
+        ]
+    }
+]

@@ -1,0 +1,36 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to change words from one language to another language",
+        "examples": [
+            {
+                "code": "translate_example_he-literally-translated-the-whole-book-word-for-word",
+                "text": "He literally translated the whole book word for word."
+            },
+            {
+                "code": "translate_example_the-interpreter-must-accurately-translate-the-message",
+                "text": "The interpreter must accurately translate the message."
+            },
+            {
+                "code": "translate_example_she-loosely-translated-the-meaning-of-the-conversation",
+                "text": "She loosely translated the meaning of the conversation."
+            },
+            {
+                "code": "translate_example_she-tried-to-translate-the-dialogue-as-accurately-as-possible",
+                "text": "She tried to translate the dialogue as accurately as possible."
+            },
+            {
+                "code": "translate_example_he-was-able-to-translate-using-his-broken-english",
+                "text": "He was able to translate using his broken English."
+            },
+            {
+                "code": "translate_example_he-translated-the-spanish-text-into-english",
+                "text": "He translated the Spanish text into English."
+            },
+            {
+                "code": "translate_example_could-you-please-translate-this-for-me",
+                "text": "Could you please translate this for me?"
+            }
+        ]
+    }
+]

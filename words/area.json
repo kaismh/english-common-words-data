@@ -1,0 +1,56 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a part of a location; a part of a specific space",
+        "examples": [
+            {
+                "code": "area_example_the-football-field-takes-up-a-huge-area",
+                "text": "The football field takes up a huge area."
+            },
+            {
+                "code": "area_example_police-were-searching-the-immediate-area",
+                "text": "Police were searching the immediate area."
+            },
+            {
+                "code": "area_example_we-live-in-a-rural-area",
+                "text": "We live in a rural area."
+            },
+            {
+                "code": "area_example_he-was-hiding-in-a-secluded-area",
+                "text": "He was hiding in a secluded area."
+            },
+            {
+                "code": "area_example_we-don-t-want-to-live-in-a-disaster-area",
+                "text": "We don't want to live in a disaster area."
+            },
+            {
+                "code": "area_example_this-is-the-dining-area",
+                "text": "This is the dining area."
+            },
+            {
+                "code": "area_example_we-decided-to-visit-the-area",
+                "text": "We decided to visit the area."
+            },
+            {
+                "code": "area_example_the-police-patrolled-the-area",
+                "text": "The police patrolled the area."
+            },
+            {
+                "code": "area_example_do-you-live-in-this-area",
+                "text": "Do you live in this area?"
+            },
+            {
+                "code": "area_example_what-is-your-area-code",
+                "text": "What is your area code?"
+            },
+            {
+                "code": "area_example_there-were-some-robberies-in-the-area",
+                "text": "There were some robberies in the area."
+            },
+            {
+                "code": "area_example_i-work-within-this-area",
+                "text": "I work within this area."
+            }
+        ]
+    }
+]

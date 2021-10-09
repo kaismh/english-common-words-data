@@ -1,0 +1,36 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to keep doing something without stopping",
+        "examples": [
+            {
+                "code": "continue_example_the-attack-will-continue",
+                "text": "The attack will continue."
+            },
+            {
+                "code": "continue_example_can-we-continue-this-conversation-later",
+                "text": "Can we continue this conversation later?"
+            },
+            {
+                "code": "continue_example_the-tradition-will-continue-every-year",
+                "text": "The tradition will continue every year."
+            },
+            {
+                "code": "continue_example_he-should-continue-his-education",
+                "text": "He should continue his education."
+            },
+            {
+                "code": "continue_example_he-is-going-to-continue-his-education",
+                "text": "He is going to continue his education."
+            },
+            {
+                "code": "continue_example_the-plant-continued-to-grow-even-without-water",
+                "text": "The plant continued to grow even without water."
+            },
+            {
+                "code": "continue_example_continue-along-this-path-and-you-will-find-the-campsite",
+                "text": "Continue along this path and you will find the campsite."
+            }
+        ]
+    }
+]

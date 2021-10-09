@@ -1,0 +1,68 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a unit for measuring an angle; a unit for measuring the temperature; the amount of something; an official certificate of academic achievement",
+        "examples": [
+            {
+                "code": "degree_example_there-is-a-considerable-degree-of-choices",
+                "text": "There is a considerable degree of choices."
+            },
+            {
+                "code": "degree_example_there-is-a-certain-degree-of-truth-to-his-words",
+                "text": "There is a certain degree of truth to his words."
+            },
+            {
+                "code": "degree_example_the-two-brothers-do-not-get-the-same-degree-of-affection",
+                "text": "The two brothers do not get the same degree of affection."
+            },
+            {
+                "code": "degree_example_her-goal-is-to-get-a-college-degree",
+                "text": "Her goal is to get a college degree."
+            },
+            {
+                "code": "degree_example_turn-the-compass-45-degrees",
+                "text": "Turn the compass 45 degrees."
+            },
+            {
+                "code": "degree_example_temperatures-will-reach-80-degrees-tonight",
+                "text": "Temperatures will reach 80 degrees tonight."
+            },
+            {
+                "code": "degree_example_the-doctor-will-determine-the-degree-of-her-illness",
+                "text": "The doctor will determine the degree of her illness."
+            },
+            {
+                "code": "degree_example_she-has-a-degree-in-biology",
+                "text": "She has a degree in biology."
+            },
+            {
+                "code": "degree_example_she-will-pursue-a-medical-degree",
+                "text": "She will pursue a medical degree."
+            },
+            {
+                "code": "degree_example_she-will-receive-a-degree-in-finance",
+                "text": "She will receive a degree in finance."
+            },
+            {
+                "code": "degree_example_water-freezes-at-32-degrees",
+                "text": "Water freezes at 32 degrees."
+            },
+            {
+                "code": "degree_example_we-all-make-mistakes-to-some-degree",
+                "text": "We all make mistakes to some degree."
+            },
+            {
+                "code": "degree_example_cars-have-a-certain-degree-of-danger",
+                "text": "Cars have a certain degree of danger."
+            },
+            {
+                "code": "degree_example_the-president-has-a-degree-in-law",
+                "text": "The president has a degree in law."
+            },
+            {
+                "code": "degree_example_what-is-your-degree-level",
+                "text": "What is your degree level?"
+            }
+        ]
+    }
+]

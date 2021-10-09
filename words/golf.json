@@ -1,0 +1,60 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a game played on a large grass course using iron sticks to hit a small ball into nine to eighteen holes",
+        "examples": [
+            {
+                "code": "golf_example_he-plays-professional-golf",
+                "text": "He plays professional golf."
+            },
+            {
+                "code": "golf_example_my-children-like-to-play-miniature-golf",
+                "text": "My children like to play miniature golf."
+            },
+            {
+                "code": "golf_example_he-likes-to-play-golf",
+                "text": "He likes to play golf."
+            },
+            {
+                "code": "golf_example_she-wants-to-take-up-golf",
+                "text": "She wants to take up golf."
+            },
+            {
+                "code": "golf_example_he-plays-a-round-of-golf-every-saturday",
+                "text": "He plays a round of golf every Saturday."
+            },
+            {
+                "code": "golf_example_this-is-a-difficult-golf-course",
+                "text": "This is a difficult golf course."
+            },
+            {
+                "code": "golf_example_i-need-new-golf-clubs",
+                "text": "I need new golf clubs."
+            },
+            {
+                "code": "golf_example_she-bought-a-golf-bag",
+                "text": "She bought a golf bag."
+            },
+            {
+                "code": "golf_example_we-need-to-rent-a-golf-cart",
+                "text": "We need to rent a golf cart."
+            },
+            {
+                "code": "golf_example_he-s-trying-to-improve-his-golf-swing",
+                "text": "He's trying to improve his golf swing."
+            },
+            {
+                "code": "golf_example_he-is-watching-the-golf-tournament",
+                "text": "He is watching the golf tournament."
+            },
+            {
+                "code": "golf_example_he-has-a-golf-handicap-of-12",
+                "text": "He has a golf handicap of 12."
+            },
+            {
+                "code": "golf_example_he-is-new-on-the-golf-tour",
+                "text": "He is new on the golf tour."
+            }
+        ]
+    }
+]

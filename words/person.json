@@ -1,0 +1,68 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a human being",
+        "examples": [
+            {
+                "code": "person_example_i-hope-that-my-son-grows-up-to-be-a-good-person",
+                "text": "I hope that my son grows up to be a good person."
+            },
+            {
+                "code": "person_example_i-think-my-ex-husband-is-a-bad-person",
+                "text": "I think my ex-husband is a bad person."
+            },
+            {
+                "code": "person_example_i-helped-a-homeless-person-today",
+                "text": "I helped a homeless person today."
+            },
+            {
+                "code": "person_example_she-was-the-first-person-at-the-party",
+                "text": "She was the first person at the party."
+            },
+            {
+                "code": "person_example_he-is-the-one-person-i-trust-in-this-situation",
+                "text": "He is the one person I trust in this situation."
+            },
+            {
+                "code": "person_example_this-car-is-built-for-one-person",
+                "text": "This car is built for one person."
+            },
+            {
+                "code": "person_example_she-is-the-wrong-person-for-this-job",
+                "text": "She is the wrong person for this job."
+            },
+            {
+                "code": "person_example_we-saw-a-missing-persons-report-on-the-news",
+                "text": "We saw a missing persons report on the news."
+            },
+            {
+                "code": "person_example_i-am-just-an-ordinary-person",
+                "text": "I am just an ordinary person."
+            },
+            {
+                "code": "person_example_she-is-an-important-person",
+                "text": "She is an important person."
+            },
+            {
+                "code": "person_example_have-you-ever-seen-a-dead-person",
+                "text": "Have you ever seen a dead person?"
+            },
+            {
+                "code": "person_example_he-is-a-very-rich-person",
+                "text": "He is a very rich person."
+            },
+            {
+                "code": "person_example_a-person-from-canada-called-today",
+                "text": "A person from Canada called today."
+            },
+            {
+                "code": "person_example_i-met-my-favorite-actor-in-person",
+                "text": "I met my favorite actor in person."
+            },
+            {
+                "code": "person_example_what-is-he-like-as-a-person",
+                "text": "What is he like as a person?"
+            }
+        ]
+    }
+]

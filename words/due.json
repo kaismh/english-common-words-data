@@ -1,0 +1,50 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "expected to happen or be somewhere at a certain time; deserving",
+        "examples": [
+            {
+                "code": "due_example_what-is-the-due-date",
+                "text": "What is the due date?"
+            },
+            {
+                "code": "due_example_this-problem-deserves-due-consideration",
+                "text": "This problem deserves due consideration."
+            },
+            {
+                "code": "due_example_she-finally-got-due-recognition",
+                "text": "She finally got due recognition."
+            },
+            {
+                "code": "due_example_handle-the-antiques-with-due-care",
+                "text": "Handle the antiques with due care."
+            }
+        ]
+    },
+    {
+        "type": "(n)",
+        "mean": "a regular payment you make for being a member of something",
+        "examples": [
+            {
+                "code": "due_example_don-t-forget-to-pay-your-monthly-dues",
+                "text": "Don't forget to pay your monthly dues."
+            },
+            {
+                "code": "due_example_your-dues-are-due-at-the-beginning-of-each-month",
+                "text": "Your dues are due at the beginning of each month."
+            },
+            {
+                "code": "due_example_membership-dues-have-been-increasing-every-year",
+                "text": "Membership dues have been increasing every year."
+            },
+            {
+                "code": "due_example_what-are-the-monthly-dues-at-this-club",
+                "text": "What are the monthly dues at this club?"
+            },
+            {
+                "code": "due_example_does-this-community-have-monthly-or-yearly-dues",
+                "text": "Does this community have monthly or yearly dues?"
+            }
+        ]
+    }
+]

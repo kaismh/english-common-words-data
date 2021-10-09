@@ -1,0 +1,88 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "not sick or ill; good for your body; working well",
+        "examples": [
+            {
+                "code": "healthy_example_he-appears-healthy",
+                "text": "He appears healthy."
+            },
+            {
+                "code": "healthy_example_she-is-becoming-healthy",
+                "text": "She is becoming healthy."
+            },
+            {
+                "code": "healthy_example_he-is-trying-to-stay-healthy",
+                "text": "He is trying to stay healthy."
+            },
+            {
+                "code": "healthy_example_changes-to-her-diet-are-making-her-healthy",
+                "text": "Changes to her diet are making her healthy."
+            },
+            {
+                "code": "healthy_example_he-has-always-been-extremely-healthy",
+                "text": "He has always been extremely healthy."
+            },
+            {
+                "code": "healthy_example_the-doctor-said-she-is-perfectly-healthy",
+                "text": "The doctor said she is perfectly healthy."
+            },
+            {
+                "code": "healthy_example_his-diet-is-reasonably-healthy",
+                "text": "His diet is reasonably healthy."
+            },
+            {
+                "code": "healthy_example_she-was-tired-but-otherwise-healthy",
+                "text": "She was tired but otherwise healthy."
+            },
+            {
+                "code": "healthy_example_he-tries-to-stay-mentally-healthy",
+                "text": "He tries to stay mentally healthy."
+            },
+            {
+                "code": "healthy_example_the-company-is-financially-healthy",
+                "text": "The company is financially healthy."
+            },
+            {
+                "code": "healthy_example_we-are-looking-for-healthy-options",
+                "text": "We are looking for healthy options."
+            },
+            {
+                "code": "healthy_example_he-has-a-healthy-appetite",
+                "text": "He has a healthy appetite."
+            },
+            {
+                "code": "healthy_example_she-just-hopes-for-a-healthy-baby",
+                "text": "She just hopes for a healthy baby."
+            },
+            {
+                "code": "healthy_example_they-ate-a-healthy-breakfast",
+                "text": "They ate a healthy breakfast."
+            },
+            {
+                "code": "healthy_example_she-tries-to-keep-a-healthy-diet",
+                "text": "She tries to keep a healthy diet."
+            },
+            {
+                "code": "healthy_example_we-are-experiencing-healthy-growth",
+                "text": "We are experiencing healthy growth."
+            },
+            {
+                "code": "healthy_example_they-have-a-healthy-relationship",
+                "text": "They have a healthy relationship."
+            },
+            {
+                "code": "healthy_example_this-is-not-a-healthy-situation",
+                "text": "This is not a healthy situation."
+            },
+            {
+                "code": "healthy_example_the-economy-is-healthy-right-now",
+                "text": "The economy is healthy right now."
+            },
+            {
+                "code": "healthy_example_there-should-be-a-healthy-balance-between-work-and-free-time",
+                "text": "There should be a healthy balance between work and free time."
+            }
+        ]
+    }
+]

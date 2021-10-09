@@ -1,0 +1,80 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the process of choosing a person for a specific position or deciding on something through voting",
+        "examples": [
+            {
+                "code": "election_example_we-hope-to-have-a-fair-election",
+                "text": "We hope to have a fair election."
+            },
+            {
+                "code": "election_example_the-president-won-in-a-close-election",
+                "text": "The president won in a close election."
+            },
+            {
+                "code": "election_example_the-results-of-the-popular-election-are-in",
+                "text": "The results of the popular election are in."
+            },
+            {
+                "code": "election_example_they-lost-the-majority-in-the-last-election",
+                "text": "They lost the majority in the last election."
+            },
+            {
+                "code": "election_example_they-will-vote-in-the-county-election",
+                "text": "They will vote in the county election."
+            },
+            {
+                "code": "election_example_the-city-will-hold-a-special-election-for-mayor",
+                "text": "The city will hold a special election for mayor."
+            },
+            {
+                "code": "election_example_the-loser-is-contesting-the-election-results",
+                "text": "The loser is contesting the election results."
+            },
+            {
+                "code": "election_example_the-mayor-won-re-election",
+                "text": "The mayor won re-election."
+            },
+            {
+                "code": "election_example_bad-weather-may-affect-the-election",
+                "text": "Bad weather may affect the election."
+            },
+            {
+                "code": "election_example_the-national-election-takes-place-in-november",
+                "text": "The national election takes place in November."
+            },
+            {
+                "code": "election_example_he-is-working-hard-on-his-election-campaign",
+                "text": "He is working hard on his election campaign."
+            },
+            {
+                "code": "election_example_the-economy-is-a-major-election-issue",
+                "text": "The economy is a major election issue."
+            },
+            {
+                "code": "election_example_the-election-results-won-t-be-known-tonight",
+                "text": "The election results won't be known tonight."
+            },
+            {
+                "code": "election_example_they-expect-a-high-election-turnout",
+                "text": "They expect a high election turnout."
+            },
+            {
+                "code": "election_example_election-day-is-fast-approaching",
+                "text": "Election day is fast approaching."
+            },
+            {
+                "code": "election_example_many-are-calling-for-election-reform",
+                "text": "Many are calling for election reform."
+            },
+            {
+                "code": "election_example_he-was-elected-in-the-2000-general-election",
+                "text": "He was elected in the 2000 general election."
+            },
+            {
+                "code": "election_example_membership-to-the-country-club-is-by-election",
+                "text": "Membership to the country club is by election."
+            }
+        ]
+    }
+]

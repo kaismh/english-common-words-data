@@ -1,0 +1,166 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a movie; a special material for making photographs or movies; a thin layer over the surface of something",
+        "examples": [
+            {
+                "code": "film_example_he-is-working-on-a-short-film",
+                "text": "He is working on a short film."
+            },
+            {
+                "code": "film_example_we-saw-an-entertaining-film-last-night",
+                "text": "We saw an entertaining film last night."
+            },
+            {
+                "code": "film_example_she-starred-in-a-blockbuster-film",
+                "text": "She starred in a blockbuster film."
+            },
+            {
+                "code": "film_example_that-was-a-very-violent-film",
+                "text": "That was a very violent film."
+            },
+            {
+                "code": "film_example_she-likes-silent-films",
+                "text": "She likes silent films."
+            },
+            {
+                "code": "film_example_that-director-usually-makes-action-films",
+                "text": "That director usually makes action films."
+            },
+            {
+                "code": "film_example_she-needs-to-buy-some-black-and-white-film-for-this-project",
+                "text": "She needs to buy some black-and-white film for this project."
+            },
+            {
+                "code": "film_example_the-books-are-covered-with-plastic-film",
+                "text": "The books are covered with plastic film."
+            },
+            {
+                "code": "film_example_a-fine-film-of-dust-covered-the-room",
+                "text": "A fine film of dust covered the room."
+            },
+            {
+                "code": "film_example_we-are-going-to-watch-a-foreign-film-in-class",
+                "text": "We are going to watch a foreign film in class."
+            },
+            {
+                "code": "film_example_he-really-enjoys-horror-films",
+                "text": "He really enjoys horror films."
+            },
+            {
+                "code": "film_example_they-made-two-films-last-year",
+                "text": "They made two films last year."
+            },
+            {
+                "code": "film_example_the-film-will-be-released-at-christmas",
+                "text": "The film will be released at Christmas."
+            },
+            {
+                "code": "film_example_his-new-film-is-based-on-a-true-story",
+                "text": "His new film is based on a true story."
+            },
+            {
+                "code": "film_example_the-film-portrays-the-reality-of-life-in-the-1960s",
+                "text": "The film portrays the reality of life in the 1960s."
+            },
+            {
+                "code": "film_example_the-film-was-nominated-for-three-academy-awards",
+                "text": "The film was nominated for three Academy Awards."
+            },
+            {
+                "code": "film_example_can-you-show-me-how-to-load-the-film",
+                "text": "Can you show me how to load the film?"
+            },
+            {
+                "code": "film_example_she-spends-a-lot-of-time-developing-film",
+                "text": "She spends a lot of time developing film."
+            },
+            {
+                "code": "film_example_be-careful-not-to-expose-the-film-before-putting-it-in-the-camera",
+                "text": "Be careful not to expose the film before putting it in the camera."
+            },
+            {
+                "code": "film_example_he-is-a-well-known-film-director",
+                "text": "He is a well-known film director."
+            },
+            {
+                "code": "film_example_her-film-career-has-been-very-long",
+                "text": "Her film career has been very long."
+            },
+            {
+                "code": "film_example_he-made-his-film-debut-in-1992",
+                "text": "He made his film debut in 1992."
+            },
+            {
+                "code": "film_example_we-visited-a-film-studio-on-our-trip",
+                "text": "We visited a film studio on our trip."
+            },
+            {
+                "code": "film_example_they-are-working-on-a-film-version-of-that-novel",
+                "text": "They are working on a film version of that novel."
+            },
+            {
+                "code": "film_example_he-collects-film-posters",
+                "text": "He collects film posters."
+            },
+            {
+                "code": "film_example_he-searched-the-film-archives-for-the-lost-clip",
+                "text": "He searched the film archives for the lost clip."
+            },
+            {
+                "code": "film_example_they-will-attend-a-film-festival-in-france-next-year",
+                "text": "They will attend a film festival in France next year."
+            },
+            {
+                "code": "film_example_the-streets-were-covered-in-a-fine-film-of-ash",
+                "text": "The streets were covered in a fine film of ash."
+            },
+            {
+                "code": "film_example_the-acting-is-very-good-in-this-film",
+                "text": "The acting is very good in this film."
+            },
+            {
+                "code": "film_example_he-is-making-a-film-about-world-war-ii",
+                "text": "He is making a film about World War II."
+            },
+            {
+                "code": "film_example_i-prefer-to-watch-a-film-with-a-good-story",
+                "text": "I prefer to watch a film with a good story."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to videotape; to make a movie",
+        "examples": [
+            {
+                "code": "film_example_he-secretly-filmed-his-employees-to-catch-them-stealing",
+                "text": "He secretly filmed his employees to catch them stealing."
+            },
+            {
+                "code": "film_example_the-movie-was-filmed-on-location",
+                "text": "The movie was filmed on location."
+            },
+            {
+                "code": "film_example_he-is-filming-an-adaptation-of-a-best-selling-novel",
+                "text": "He is filming an adaptation of a best-selling novel."
+            },
+            {
+                "code": "film_example_they-are-filming-a-sequence-of-movements-to-teach-dance",
+                "text": "They are filming a sequence of movements to teach dance."
+            },
+            {
+                "code": "film_example_she-is-filming-a-documentary-about-education",
+                "text": "She is filming a documentary about education."
+            },
+            {
+                "code": "film_example_they-filmed-an-episode-of-my-favorite-tv-show-here",
+                "text": "They filmed an episode of my favorite TV show here."
+            },
+            {
+                "code": "film_example_they-are-filming-a-movie-nearby",
+                "text": "They are filming a movie nearby."
+            }
+        ]
+    }
+]

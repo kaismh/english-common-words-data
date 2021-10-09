@@ -1,0 +1,48 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "suitable or acceptable for a specific situation",
+        "examples": [
+            {
+                "code": "appropriate_example_that-suit-is-appropriate-for-the-wedding",
+                "text": "That suit is appropriate for the wedding."
+            },
+            {
+                "code": "appropriate_example_she-was-considered-appropriate-for-the-position",
+                "text": "She was considered appropriate for the position."
+            },
+            {
+                "code": "appropriate_example_your-decision-was-extremely-appropriate-for-the-situation",
+                "text": "Your decision was extremely appropriate for the situation."
+            },
+            {
+                "code": "appropriate_example_my-father-says-things-that-aren-t-culturally-appropriate",
+                "text": "My father says things that aren't culturally appropriate."
+            },
+            {
+                "code": "appropriate_example_i-hope-you-took-the-appropriate-action",
+                "text": "I hope you took the appropriate action."
+            },
+            {
+                "code": "appropriate_example_they-didn-t-think-he-received-the-appropriate-punishment",
+                "text": "They didn't think he received the appropriate punishment."
+            },
+            {
+                "code": "appropriate_example_you-need-to-take-your-problem-to-the-appropriate-department",
+                "text": "You need to take your problem to the appropriate department."
+            },
+            {
+                "code": "appropriate_example_the-applicant-has-the-appropriate-skills",
+                "text": "The applicant has the appropriate skills."
+            },
+            {
+                "code": "appropriate_example_this-is-not-the-appropriate-time",
+                "text": "This is not the appropriate time."
+            },
+            {
+                "code": "appropriate_example_she-gave-an-appropriate-response-to-the-difficult-question",
+                "text": "She gave an appropriate response to the difficult question."
+            }
+        ]
+    }
+]

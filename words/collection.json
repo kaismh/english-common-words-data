@@ -1,0 +1,68 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a group of similar things; a group of people or things",
+        "examples": [
+            {
+                "code": "collection_example_she-has-a-huge-collection-of-comic-books",
+                "text": "She has a huge collection of comic books."
+            },
+            {
+                "code": "collection_example_is-this-a-complete-collection-of-baseball-cards",
+                "text": "Is this a complete collection of baseball cards?"
+            },
+            {
+                "code": "collection_example_a-small-collection-of-people-were-unhappy-with-the-decision",
+                "text": "A small collection of people were unhappy with the decision."
+            },
+            {
+                "code": "collection_example_these-paintings-are-part-of-the-museum-s-permanent-collection",
+                "text": "These paintings are part of the museum's permanent collection."
+            },
+            {
+                "code": "collection_example_thieves-stole-the-valuable-collection-of-statues",
+                "text": "Thieves stole the valuable collection of statues."
+            },
+            {
+                "code": "collection_example_this-museum-collection-is-the-best-in-the-world",
+                "text": "This museum collection is the best in the world."
+            },
+            {
+                "code": "collection_example_you-have-an-impressive-cd-collection",
+                "text": "You have an impressive CD collection."
+            },
+            {
+                "code": "collection_example_she-s-in-charge-of-debt-collection",
+                "text": "She's in charge of debt collection."
+            },
+            {
+                "code": "collection_example_these-clothes-are-from-the-spring-collection",
+                "text": "These clothes are from the spring collection."
+            },
+            {
+                "code": "collection_example_he-owns-a-collection-of-cars",
+                "text": "He owns a collection of cars."
+            },
+            {
+                "code": "collection_example_the-company-assembled-a-smart-collection-of-people",
+                "text": "The company assembled a smart collection of people."
+            },
+            {
+                "code": "collection_example_i-ve-decided-to-start-a-collection-of-souvenirs",
+                "text": "I've decided to start a collection of souvenirs."
+            },
+            {
+                "code": "collection_example_this-trading-card-will-complete-my-collection",
+                "text": "This trading card will complete my collection."
+            },
+            {
+                "code": "collection_example_i-am-editing-a-collection-of-her-poetry",
+                "text": "I am editing a collection of her poetry."
+            },
+            {
+                "code": "collection_example_they-are-going-to-auction-off-her-collection-of-various-artwork",
+                "text": "They are going to auction off her collection of various artwork."
+            }
+        ]
+    }
+]

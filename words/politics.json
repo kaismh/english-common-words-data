@@ -1,0 +1,44 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the activities or matters related to power and influence of a country or society",
+        "examples": [
+            {
+                "code": "politics_example_she-went-into-politics",
+                "text": "She went into politics."
+            },
+            {
+                "code": "politics_example_he-follows-politics",
+                "text": "He follows politics."
+            },
+            {
+                "code": "politics_example_do-you-understand-politics",
+                "text": "Do you understand politics?"
+            },
+            {
+                "code": "politics_example_let-s-not-talk-politics-at-dinner",
+                "text": "Let's not talk politics at dinner."
+            },
+            {
+                "code": "politics_example_they-are-involved-in-local-politics",
+                "text": "They are involved in local politics."
+            },
+            {
+                "code": "politics_example_don-t-get-involved-in-internal-politics",
+                "text": "Don't get involved in internal politics."
+            },
+            {
+                "code": "politics_example_she-is-involved-in-dirty-politics",
+                "text": "She is involved in dirty politics."
+            },
+            {
+                "code": "politics_example_she-has-an-interest-in-politics",
+                "text": "She has an interest in politics."
+            },
+            {
+                "code": "politics_example_she-went-into-politics",
+                "text": "She went into politics."
+            }
+        ]
+    }
+]

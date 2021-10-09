@@ -1,0 +1,70 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a long piece of wood or metal used to support something; mail; a place where someone is on duty; a piece of writing",
+        "examples": [
+            {
+                "code": "post_example_the-guard-was-dismissed-from-his-post",
+                "text": "The guard was dismissed from his post."
+            },
+            {
+                "code": "post_example_he-is-standing-at-his-post",
+                "text": "He is standing at his post."
+            },
+            {
+                "code": "post_example_she-left-her-post",
+                "text": "She left her post."
+            },
+            {
+                "code": "post_example_the-post-office-is-closed-today",
+                "text": "The post office is closed today."
+            },
+            {
+                "code": "post_example_the-ball-hit-the-goal-post",
+                "text": "The ball hit the goal post."
+            },
+            {
+                "code": "post_example_the-wooden-posts-are-holding-up-the-roof",
+                "text": "The wooden posts are holding up the roof."
+            },
+            {
+                "code": "post_example_you-should-alert-the-command-post",
+                "text": "You should alert the command post."
+            },
+            {
+                "code": "post_example_there-is-an-army-post-down-the-road",
+                "text": "There is an army post down the road."
+            },
+            {
+                "code": "post_example_he-is-standing-at-his-post",
+                "text": "He is standing at his post."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to put up a notice or announcement",
+        "examples": [
+            {
+                "code": "post_example_i-posted-an-ad-online",
+                "text": "I posted an ad online."
+            },
+            {
+                "code": "post_example_she-posted-her-resume",
+                "text": "She posted her resume."
+            },
+            {
+                "code": "post_example_he-posted-bail-yesterday",
+                "text": "He posted bail yesterday."
+            },
+            {
+                "code": "post_example_he-posted-a-notice-on-the-bulletin-board",
+                "text": "He posted a notice on the bulletin board."
+            },
+            {
+                "code": "post_example_she-posted-an-announcement-on-the-bulletin-board",
+                "text": "She posted an announcement on the bulletin board."
+            }
+        ]
+    }
+]

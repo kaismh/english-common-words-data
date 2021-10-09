@@ -1,0 +1,72 @@
+[
+    {
+        "type": "(n)",
+        "mean": "one of the four directions on a compass; the direction in which the sun sets",
+        "examples": [
+            {
+                "code": "west_example_the-sun-sets-to-the-west",
+                "text": "The sun sets to the west."
+            },
+            {
+                "code": "west_example_the-sun-sets-in-the-west",
+                "text": "The sun sets in the west."
+            },
+            {
+                "code": "west_example_the-wind-is-blowing-from-the-west",
+                "text": "The wind is blowing from the west."
+            }
+        ]
+    },
+    {
+        "type": "(adj)",
+        "mean": "having to do with the direction where the sun sets",
+        "examples": [
+            {
+                "code": "west_example_please-use-the-west-entrance",
+                "text": "Please use the west entrance."
+            },
+            {
+                "code": "west_example_we-live-on-the-west-end",
+                "text": "We live on the west end."
+            },
+            {
+                "code": "west_example_california-is-located-on-the-west-coast-of-the-united-states",
+                "text": "California is located on the west coast of the United States."
+            },
+            {
+                "code": "west_example_she-went-out-the-west-exit-of-the-building",
+                "text": "She went out the west exit of the building."
+            },
+            {
+                "code": "west_example_meet-us-on-the-west-shore-of-the-lake",
+                "text": "Meet us on the west shore of the lake."
+            },
+            {
+                "code": "west_example_it-s-sunny-on-the-west-side-of-my-house-in-the-afternoon",
+                "text": "It's sunny on the west side of my house in the afternoon."
+            },
+            {
+                "code": "west_example_the-west-wind-is-cold-in-the-winter",
+                "text": "The west wind is cold in the winter."
+            }
+        ]
+    },
+    {
+        "type": "(adv)",
+        "mean": "towards the direction where the sun sets; opposite of east",
+        "examples": [
+            {
+                "code": "west_example_they-are-traveling-west-on-the-highway",
+                "text": "They are traveling west on the highway."
+            },
+            {
+                "code": "west_example_we-live-west-of-seattle",
+                "text": "We live west of Seattle."
+            },
+            {
+                "code": "west_example_the-birds-are-flying-west",
+                "text": "The birds are flying west."
+            }
+        ]
+    }
+]

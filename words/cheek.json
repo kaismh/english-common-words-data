@@ -1,0 +1,24 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the soft part of the face below the eye and next to the mouth",
+        "examples": [
+            {
+                "code": "cheek_example_your-cheeks-are-flushed",
+                "text": "Your cheeks are flushed."
+            },
+            {
+                "code": "cheek_example_she-has-sunken-cheeks",
+                "text": "She has sunken cheeks."
+            },
+            {
+                "code": "cheek_example_he-kissed-her-cheek",
+                "text": "He kissed her cheek."
+            },
+            {
+                "code": "cheek_example_her-cheeks-blushed-with-embarrassment",
+                "text": "Her cheeks blushed with embarrassment."
+            }
+        ]
+    }
+]

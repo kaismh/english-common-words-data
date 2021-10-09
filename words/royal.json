@@ -1,0 +1,36 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "connected with the king or queen of a country",
+        "examples": [
+            {
+                "code": "royal_example_he-has-royal-blood",
+                "text": "He has royal blood."
+            },
+            {
+                "code": "royal_example_he-is-part-of-the-royal-family",
+                "text": "He is part of the royal family."
+            },
+            {
+                "code": "royal_example_the-princess-lives-in-a-royal-castle",
+                "text": "The princess lives in a royal castle."
+            },
+            {
+                "code": "royal_example_they-received-a-royal-welcome",
+                "text": "They received a royal welcome."
+            },
+            {
+                "code": "royal_example_we-are-here-to-welcome-the-royal-king",
+                "text": "We are here to welcome the royal king."
+            },
+            {
+                "code": "royal_example_we-were-given-royal-treatment-at-the-hotel",
+                "text": "We were given royal treatment at the hotel."
+            },
+            {
+                "code": "royal_example_the-prince-and-princess-are-planning-a-royal-visit-to-this-country",
+                "text": "The prince and princess are planning a royal visit to this country."
+            }
+        ]
+    }
+]

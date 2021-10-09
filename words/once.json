@@ -1,0 +1,58 @@
+[
+    {
+        "type": "(adv)",
+        "mean": "one time",
+        "examples": [
+            {
+                "code": "once_example_i-once-owned-that-house",
+                "text": "I once owned that house."
+            },
+            {
+                "code": "once_example_i-met-him-once",
+                "text": "I met him once."
+            },
+            {
+                "code": "once_example_it-happened-only-once",
+                "text": "It happened only once."
+            },
+            {
+                "code": "once_example_they-scored-once-in-the-entire-game",
+                "text": "They scored once in the entire game."
+            },
+            {
+                "code": "once_example_i-once-knew-a-famous-movie-star",
+                "text": "I once knew a famous movie star."
+            },
+            {
+                "code": "once_example_i-once-helped-the-police-catch-a-thief",
+                "text": "I once helped the police catch a thief."
+            },
+            {
+                "code": "once_example_i-once-wanted-to-be-a-professional-athlete",
+                "text": "I once wanted to be a professional athlete."
+            }
+        ]
+    },
+    {
+        "type": "(adj)",
+        "mean": "at one time; former",
+        "examples": [
+            {
+                "code": "once_example_a-once-famous-movie-star-lives-next-door",
+                "text": "A once famous movie star lives next door."
+            },
+            {
+                "code": "once_example_the-once-famous-athlete-is-now-delivering-pizzas",
+                "text": "The once famous athlete is now delivering pizzas."
+            },
+            {
+                "code": "once_example_the-once-abandoned-building-is-now-a-luxury-mansion",
+                "text": "The once abandoned building is now a luxury mansion."
+            },
+            {
+                "code": "once_example_the-once-homeless-person-is-now-a-homeowner",
+                "text": "The once homeless person is now a homeowner."
+            }
+        ]
+    }
+]

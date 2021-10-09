@@ -1,0 +1,48 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a flat object used to store data on a computer",
+        "examples": [
+            {
+                "code": "disk_example_they-loaded-pictures-on-a-computer-disk",
+                "text": "They loaded pictures on a computer disk."
+            },
+            {
+                "code": "disk_example_insert-the-disk",
+                "text": "Insert the disk."
+            },
+            {
+                "code": "disk_example_the-computer-cannot-read-the-disk",
+                "text": "The computer cannot read the disk."
+            },
+            {
+                "code": "disk_example_make-sure-you-save-it-on-a-disk",
+                "text": "Make sure you save it on a disk."
+            },
+            {
+                "code": "disk_example_you-may-need-to-erase-the-disk",
+                "text": "You may need to erase the disk."
+            },
+            {
+                "code": "disk_example_the-disk-contains-all-of-my-documents",
+                "text": "The disk contains all of my documents."
+            },
+            {
+                "code": "disk_example_how-much-disk-space-do-you-have",
+                "text": "How much disk space do you have?"
+            },
+            {
+                "code": "disk_example_check-the-disk-drive",
+                "text": "Check the disk drive."
+            },
+            {
+                "code": "disk_example_we-have-their-files-on-a-disk",
+                "text": "We have their files on a disk."
+            },
+            {
+                "code": "disk_example_i-would-save-it-onto-a-disk",
+                "text": "I would save it onto a disk."
+            }
+        ]
+    }
+]

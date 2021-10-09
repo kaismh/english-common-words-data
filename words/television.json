@@ -1,0 +1,48 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a piece of equipment with a screen to watch programs with pictures and sounds; also known as a TV",
+        "examples": [
+            {
+                "code": "television_example_we-have-a-widescreen-television",
+                "text": "We have a widescreen television."
+            },
+            {
+                "code": "television_example_they-have-a-black-and-white-television",
+                "text": "They have a black and white television."
+            },
+            {
+                "code": "television_example_the-children-cannot-watch-prime-time-television",
+                "text": "The children cannot watch prime-time television."
+            },
+            {
+                "code": "television_example_they-watch-television",
+                "text": "They watch television."
+            },
+            {
+                "code": "television_example_he-turned-off-the-television",
+                "text": "He turned off the television."
+            },
+            {
+                "code": "television_example_we-are-enjoying-that-television-show",
+                "text": "We are enjoying that television show."
+            },
+            {
+                "code": "television_example_this-is-our-favorite-television-channel",
+                "text": "This is our favorite television channel."
+            },
+            {
+                "code": "television_example_the-television-reception-is-poor",
+                "text": "The television reception is poor."
+            },
+            {
+                "code": "television_example_he-plays-games-on-the-television",
+                "text": "He plays games on the television."
+            },
+            {
+                "code": "television_example_he-sits-in-front-of-the-television-all-day",
+                "text": "He sits in front of the television all day."
+            }
+        ]
+    }
+]

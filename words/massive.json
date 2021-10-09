@@ -1,0 +1,48 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "huge; very large",
+        "examples": [
+            {
+                "code": "massive_example_his-sculptures-are-done-on-a-massive-scale",
+                "text": "His sculptures are done on a massive scale."
+            },
+            {
+                "code": "massive_example_there-is-a-massive-amount-of-people-at-the-parade",
+                "text": "There is a massive amount of people at the parade."
+            },
+            {
+                "code": "massive_example_there-was-massive-bleeding-at-the-accident-scene",
+                "text": "There was massive bleeding at the accident scene."
+            },
+            {
+                "code": "massive_example_the-closing-store-is-having-massive-discounts",
+                "text": "The closing store is having massive discounts."
+            },
+            {
+                "code": "massive_example_he-died-from-a-massive-heart-attack",
+                "text": "He died from a massive heart attack."
+            },
+            {
+                "code": "massive_example_they-re-making-massive-improvements-to-the-house",
+                "text": "They're making massive improvements to the house."
+            },
+            {
+                "code": "massive_example_people-were-injured-in-the-massive-earthquake",
+                "text": "People were injured in the massive earthquake."
+            },
+            {
+                "code": "massive_example_there-was-a-massive-outcry-against-the-war",
+                "text": "There was a massive outcry against the war."
+            },
+            {
+                "code": "massive_example_the-country-suffered-a-massive-loss",
+                "text": "The country suffered a massive loss."
+            },
+            {
+                "code": "massive_example_he-experienced-massive-success-with-his-first-book",
+                "text": "He experienced massive success with his first book."
+            }
+        ]
+    }
+]

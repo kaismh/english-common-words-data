@@ -1,0 +1,50 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the left side; the opposite side of right",
+        "examples": [
+            {
+                "code": "left_example_she-is-standing-on-the-far-left-in-the-picture",
+                "text": "She is standing on the far left in the picture."
+            },
+            {
+                "code": "left_example_the-plates-are-on-the-top-left-of-the-cabinet",
+                "text": "The plates are on the top left of the cabinet."
+            },
+            {
+                "code": "left_example_if-you-turn-to-your-left-you-will-see-their-house",
+                "text": "If you turn to your left, you will see their house."
+            },
+            {
+                "code": "left_example_the-car-came-from-the-left",
+                "text": "The car came from the left."
+            },
+            {
+                "code": "left_example_the-store-is-on-the-left",
+                "text": "The store is on the left."
+            },
+            {
+                "code": "left_example_he-looked-to-the-left-before-he-crossed-the-street",
+                "text": "He looked to the left before he crossed the street."
+            }
+        ]
+    },
+    {
+        "type": "(adj)",
+        "mean": "being the opposite of right",
+        "examples": [
+            {
+                "code": "left_example_i-m-having-problems-with-my-left-eye",
+                "text": "I'm having problems with my left eye."
+            },
+            {
+                "code": "left_example_make-a-left-turn-at-the-light",
+                "text": "Make a left turn at the light."
+            },
+            {
+                "code": "left_example_it-s-on-the-left-corner",
+                "text": "It's on the left corner."
+            }
+        ]
+    }
+]

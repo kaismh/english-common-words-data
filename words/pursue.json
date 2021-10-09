@@ -1,0 +1,44 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to try to achieve something; to follow or chase someone or something",
+        "examples": [
+            {
+                "code": "pursue_example_i-wish-to-pursue-my-education",
+                "text": "I wish to pursue my education."
+            },
+            {
+                "code": "pursue_example_the-tiger-pursued-its-prey",
+                "text": "The tiger pursued its prey."
+            },
+            {
+                "code": "pursue_example_i-am-pursuing-a-degree-in-engineering",
+                "text": "I am pursuing a degree in engineering."
+            },
+            {
+                "code": "pursue_example_she-is-pursuing-her-goals",
+                "text": "She is pursuing her goals."
+            },
+            {
+                "code": "pursue_example_i-don-t-want-to-pursue-the-matter",
+                "text": "I don't want to pursue the matter."
+            },
+            {
+                "code": "pursue_example_the-detectives-are-pursuing-the-case",
+                "text": "The detectives are pursuing the case."
+            },
+            {
+                "code": "pursue_example_the-cops-relentlessly-pursued-the-car",
+                "text": "The cops relentlessly pursued the car."
+            },
+            {
+                "code": "pursue_example_he-is-still-pursuing-his-dream",
+                "text": "He is still pursuing his dream."
+            },
+            {
+                "code": "pursue_example_she-successfully-pursued-a-career-in-journalism",
+                "text": "She successfully pursued a career in journalism."
+            }
+        ]
+    }
+]

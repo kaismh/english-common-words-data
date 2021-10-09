@@ -1,0 +1,36 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to join two or more things together",
+        "examples": [
+            {
+                "code": "combine_example_they-successfully-combined-music-and-drama-to-make-a-great-show",
+                "text": "They successfully combined music and drama to make a great show."
+            },
+            {
+                "code": "combine_example_make-sure-dry-ingredients-combine-well-with-the-wet",
+                "text": "Make sure dry ingredients combine well with the wet."
+            },
+            {
+                "code": "combine_example_they-combined-their-ideas-to-go-up-against-last-year-s-winner",
+                "text": "They combined their ideas to go up against last year's winner."
+            },
+            {
+                "code": "combine_example_combine-the-dry-ingredients-with-the-wet-ingredients",
+                "text": "Combine the dry ingredients with the wet ingredients."
+            },
+            {
+                "code": "combine_example_we-can-come-up-with-a-great-design-if-we-combine-our-skills",
+                "text": "We can come up with a great design if we combine our skills."
+            },
+            {
+                "code": "combine_example_combine-all-of-the-ingredients-together",
+                "text": "Combine all of the ingredients together."
+            },
+            {
+                "code": "combine_example_the-two-regions-combined-forces-to-make-one-great-army",
+                "text": "The two regions combined forces to make one great army."
+            }
+        ]
+    }
+]

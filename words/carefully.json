@@ -1,0 +1,44 @@
+[
+    {
+        "type": "(adv)",
+        "mean": "having to do with giving special attention to avoid getting hurt or hurting someone or something; having to do with giving extra attention to details",
+        "examples": [
+            {
+                "code": "carefully_example_he-carefully-aimed-at-his-target",
+                "text": "He carefully aimed at his target."
+            },
+            {
+                "code": "carefully_example_she-carefully-approached-the-lost-dog",
+                "text": "She carefully approached the lost dog."
+            },
+            {
+                "code": "carefully_example_she-carefully-balanced-a-tray-of-dishes-to-the-table",
+                "text": "She carefully balanced a tray of dishes to the table."
+            },
+            {
+                "code": "carefully_example_they-carefully-chose-a-new-president-of-their-club",
+                "text": "They carefully chose a new president of their club."
+            },
+            {
+                "code": "carefully_example_she-carefully-climbed-the-steep-mountain",
+                "text": "She carefully climbed the steep mountain."
+            },
+            {
+                "code": "carefully_example_he-carefully-drove-through-the-snowy-mountain-passes",
+                "text": "He carefully drove through the snowy mountain passes."
+            },
+            {
+                "code": "carefully_example_the-museum-worker-carefully-examined-the-antiques",
+                "text": "The museum worker carefully examined the antiques."
+            },
+            {
+                "code": "carefully_example_she-carefully-listened-to-both-sides-of-the-story",
+                "text": "She carefully listened to both sides of the story."
+            },
+            {
+                "code": "carefully_example_the-police-carefully-searched-the-crime-scene",
+                "text": "The police carefully searched the crime scene."
+            }
+        ]
+    }
+]

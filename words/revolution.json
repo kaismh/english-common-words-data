@@ -1,0 +1,56 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a large group of people trying to change the government; a large change; one complete turn",
+        "examples": [
+            {
+                "code": "revolution_example_he-sparked-a-revolution-among-the-people",
+                "text": "He sparked a revolution among the people."
+            },
+            {
+                "code": "revolution_example_the-revolution-occurred-in-may",
+                "text": "The revolution occurred in May."
+            },
+            {
+                "code": "revolution_example_the-revolution-toppled-the-government",
+                "text": "The revolution toppled the government."
+            },
+            {
+                "code": "revolution_example_cell-phones-created-a-new-revolution-in-technology",
+                "text": "Cell phones created a new revolution in technology."
+            },
+            {
+                "code": "revolution_example_we-are-seeing-a-revolution-in-medical-technology",
+                "text": "We are seeing a revolution in medical technology."
+            },
+            {
+                "code": "revolution_example_the-earth-makes-one-revolution-every-24-hours",
+                "text": "The earth makes one revolution every 24 hours."
+            },
+            {
+                "code": "revolution_example_we-are-going-through-a-digital-revolution",
+                "text": "We are going through a digital revolution."
+            },
+            {
+                "code": "revolution_example_they-led-a-violent-revolution",
+                "text": "They led a violent revolution."
+            },
+            {
+                "code": "revolution_example_the-wheel-turned-one-full-revolution",
+                "text": "The wheel turned one full revolution."
+            },
+            {
+                "code": "revolution_example_he-led-a-revolution-against-the-government",
+                "text": "He led a revolution against the government."
+            },
+            {
+                "code": "revolution_example_there-has-been-a-huge-revolution-in-technology",
+                "text": "There has been a huge revolution in technology."
+            },
+            {
+                "code": "revolution_example_the-planet-makes-revolutions-around-the-sun",
+                "text": "The planet makes revolutions around the sun."
+            }
+        ]
+    }
+]

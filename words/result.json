@@ -1,0 +1,90 @@
+[
+    {
+        "type": "(n)",
+        "mean": "something that happens because of something else; the final score; information after medical tests; test scores",
+        "examples": [
+            {
+                "code": "result_example_we-are-analyzing-their-results",
+                "text": "We are analyzing their results."
+            },
+            {
+                "code": "result_example_we-found-their-results-misleading",
+                "text": "We found their results misleading."
+            },
+            {
+                "code": "result_example_they-finally-delivered-the-results",
+                "text": "They finally delivered the results."
+            },
+            {
+                "code": "result_example_he-achieved-great-results-with-the-new-method",
+                "text": "He achieved great results with the new method."
+            },
+            {
+                "code": "result_example_we-awaited-the-results",
+                "text": "We awaited the results."
+            },
+            {
+                "code": "result_example_our-results-differed-from-theirs",
+                "text": "Our results differed from theirs."
+            },
+            {
+                "code": "result_example_these-results-indicate-that-i-am-right",
+                "text": "These results indicate that I am right."
+            },
+            {
+                "code": "result_example_it-ended-in-negative-results",
+                "text": "It ended in negative results."
+            },
+            {
+                "code": "result_example_it-was-a-direct-result-of-her-actions",
+                "text": "It was a direct result of her actions."
+            },
+            {
+                "code": "result_example_we-got-the-desired-results",
+                "text": "We got the desired results."
+            },
+            {
+                "code": "result_example_what-were-the-end-results",
+                "text": "What were the end results?"
+            },
+            {
+                "code": "result_example_the-results-were-inaccurate",
+                "text": "The results were inaccurate."
+            },
+            {
+                "code": "result_example_the-official-results-came-in",
+                "text": "The official results came in."
+            },
+            {
+                "code": "result_example_we-have-had-varying-results",
+                "text": "We have had varying results."
+            },
+            {
+                "code": "result_example_i-m-worried-about-these-lab-results",
+                "text": "I'm worried about these lab results."
+            },
+            {
+                "code": "result_example_he-was-no-longer-able-to-play-football-as-a-result-of-the-accident",
+                "text": "He was no longer able to play football as a result of the accident."
+            },
+            {
+                "code": "result_example_we-received-the-results-from-the-medical-tests",
+                "text": "We received the results from the medical tests."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to happen because of something",
+        "examples": [
+            {
+                "code": "result_example_his-bad-choices-typically-result-in-heartache",
+                "text": "His bad choices typically result in heartache."
+            },
+            {
+                "code": "result_example_his-poor-work-skills-finally-resulted-in-his-termination",
+                "text": "His poor work skills finally resulted in his termination."
+            }
+        ]
+    }
+]

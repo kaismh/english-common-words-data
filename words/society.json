@@ -1,0 +1,44 @@
+[
+    {
+        "type": "(n)",
+        "mean": "people living in an organized community with shared laws, traditions, and values",
+        "examples": [
+            {
+                "code": "society_example_poverty-affects-the-entire-society",
+                "text": "Poverty affects the entire society."
+            },
+            {
+                "code": "society_example_we-want-to-create-a-new-society",
+                "text": "We want to create a new society."
+            },
+            {
+                "code": "society_example_it-s-interesting-to-study-about-the-primitive-society",
+                "text": "It's interesting to study about the primitive society."
+            },
+            {
+                "code": "society_example_we-are-part-of-an-advanced-society",
+                "text": "We are part of an advanced society."
+            },
+            {
+                "code": "society_example_we-live-in-a-diverse-society",
+                "text": "We live in a diverse society."
+            },
+            {
+                "code": "society_example_we-aim-to-build-a-decent-society",
+                "text": "We aim to build a decent society."
+            },
+            {
+                "code": "society_example_advanced-technology-is-shaping-our-society",
+                "text": "Advanced technology is shaping our society."
+            },
+            {
+                "code": "society_example_they-live-in-a-society-dominated-by-men",
+                "text": "They live in a society dominated by men."
+            },
+            {
+                "code": "society_example_the-media-has-a-huge-impact-in-the-modern-society",
+                "text": "The media has a huge impact in the modern society."
+            }
+        ]
+    }
+]

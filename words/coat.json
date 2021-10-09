@@ -1,0 +1,86 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a heavy jacket; a layer of something; animal fur",
+        "examples": [
+            {
+                "code": "coat_example_our-cat-has-a-long-coat",
+                "text": "Our cat has a long coat."
+            },
+            {
+                "code": "coat_example_you-ll-need-a-heavy-coat-in-the-winter",
+                "text": "You'll need a heavy coat in the winter."
+            },
+            {
+                "code": "coat_example_fur-coats-used-to-be-more-popular",
+                "text": "Fur coats used to be more popular."
+            },
+            {
+                "code": "coat_example_she-wore-a-wool-coat",
+                "text": "She wore a wool coat."
+            },
+            {
+                "code": "coat_example_the-storm-left-a-fresh-coat-of-snow",
+                "text": "The storm left a fresh coat of snow."
+            },
+            {
+                "code": "coat_example_did-you-put-on-the-top-coat-of-paint",
+                "text": "Did you put on the top coat of paint?"
+            },
+            {
+                "code": "coat_example_the-boy-wore-his-winter-coat",
+                "text": "The boy wore his winter coat."
+            },
+            {
+                "code": "coat_example_please-take-off-your-coat-before-entering",
+                "text": "Please take off your coat before entering."
+            },
+            {
+                "code": "coat_example_do-you-need-help-buttoning-your-coat",
+                "text": "Do you need help buttoning your coat?"
+            },
+            {
+                "code": "coat_example_don-t-forget-to-grab-your-coat",
+                "text": "Don't forget to grab your coat."
+            },
+            {
+                "code": "coat_example_i-ll-apply-one-more-coat",
+                "text": "I'll apply one more coat."
+            },
+            {
+                "code": "coat_example_we-have-to-wait-for-the-first-coat-of-paint-to-dry",
+                "text": "We have to wait for the first coat of paint to dry."
+            },
+            {
+                "code": "coat_example_my-dog-is-shedding-his-winter-coat",
+                "text": "My dog is shedding his winter coat."
+            },
+            {
+                "code": "coat_example_i-need-to-iron-my-coat-collar",
+                "text": "I need to iron my coat collar."
+            },
+            {
+                "code": "coat_example_she-is-waiting-for-the-coat-of-paint-to-dry",
+                "text": "She is waiting for the coat of paint to dry."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to put on a layer of something",
+        "examples": [
+            {
+                "code": "coat_example_the-snow-completely-coated-the-trees",
+                "text": "The snow completely coated the trees."
+            },
+            {
+                "code": "coat_example_make-sure-to-heavily-coat-the-barbeque-ribs-with-sauce",
+                "text": "Make sure to heavily coat the barbeque ribs with sauce."
+            },
+            {
+                "code": "coat_example_make-sure-to-coat-the-ribs-in-sauce",
+                "text": "Make sure to coat the ribs in sauce."
+            }
+        ]
+    }
+]

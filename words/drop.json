@@ -1,0 +1,158 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a decrease; a downward distance; a tiny ball of fluid",
+        "examples": [
+            {
+                "code": "drop_example_their-school-experienced-a-big-drop-in-enrollment",
+                "text": "Their school experienced a big drop in enrollment."
+            },
+            {
+                "code": "drop_example_their-stock-had-a-rapid-drop",
+                "text": "Their stock had a rapid drop."
+            },
+            {
+                "code": "drop_example_the-weatherman-predicted-a-pressure-drop",
+                "text": "The weatherman predicted a pressure drop."
+            },
+            {
+                "code": "drop_example_there-was-price-drop-on-the-house",
+                "text": "There was price drop on the house."
+            },
+            {
+                "code": "drop_example_the-climber-was-worried-about-the-steep-drop",
+                "text": "The climber was worried about the steep drop."
+            },
+            {
+                "code": "drop_example_do-not-waste-a-single-drop",
+                "text": "Do not waste a single drop."
+            },
+            {
+                "code": "drop_example_there-was-a-tiny-drop-of-blood-on-his-face",
+                "text": "There was a tiny drop of blood on his face."
+            },
+            {
+                "code": "drop_example_i-felt-a-teardrop",
+                "text": "I felt a teardrop."
+            },
+            {
+                "code": "drop_example_the-company-experienced-a-drop",
+                "text": "The company experienced a drop."
+            },
+            {
+                "code": "drop_example_the-windstorm-caused-a-drop-in-business",
+                "text": "The windstorm caused a drop in business."
+            },
+            {
+                "code": "drop_example_he-wiped-the-drop-from-her-face",
+                "text": "He wiped the drop from her face."
+            },
+            {
+                "code": "drop_example_drops-of-water-fell-from-the-ceiling",
+                "text": "Drops of water fell from the ceiling."
+            },
+            {
+                "code": "drop_example_the-drops-of-sweat-rolled-down-his-face",
+                "text": "The drops of sweat rolled down his face."
+            },
+            {
+                "code": "drop_example_the-product-recall-resulted-in-a-drop-in-sales",
+                "text": "The product recall resulted in a drop in sales."
+            },
+            {
+                "code": "drop_example_drops-of-water-were-falling-on-her-head",
+                "text": "Drops of water were falling on her head."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to let something fall; to fall down; to decrease; to go downward; to leave out",
+        "examples": [
+            {
+                "code": "drop_example_she-accidentally-dropped-her-cup",
+                "text": "She accidentally dropped her cup."
+            },
+            {
+                "code": "drop_example_she-will-instantly-drop-whatever-she-is-doing-to-help-others",
+                "text": "She will instantly drop whatever she is doing to help others."
+            },
+            {
+                "code": "drop_example_gently-drop-your-arms-to-your-sides",
+                "text": "Gently drop your arms to your sides."
+            },
+            {
+                "code": "drop_example_you-will-drop-weight-immediately-if-you-follow-my-diet-plan",
+                "text": "You will drop weight immediately if you follow my diet plan."
+            },
+            {
+                "code": "drop_example_drop-down-to-the-ground-when-there-is-a-fire",
+                "text": "Drop down to the ground when there is a fire."
+            },
+            {
+                "code": "drop_example_housing-prices-are-dropping-slightly-in-this-area",
+                "text": "Housing prices are dropping slightly in this area."
+            },
+            {
+                "code": "drop_example_she-suddenly-dropped-the-issue",
+                "text": "She suddenly dropped the issue."
+            },
+            {
+                "code": "drop_example_let-s-drop-it-altogether",
+                "text": "Let's drop it altogether."
+            },
+            {
+                "code": "drop_example_i-dropped-my-wallet-in-the-trash-can",
+                "text": "I dropped my wallet in the trash can."
+            },
+            {
+                "code": "drop_example_i-accidentally-dropped-my-book-onto-the-balcony-below",
+                "text": "I accidentally dropped my book onto the balcony below."
+            },
+            {
+                "code": "drop_example_the-thermostat-will-drop-below-freezing",
+                "text": "The thermostat will drop below freezing."
+            },
+            {
+                "code": "drop_example_the-cost-can-drop-by-20",
+                "text": "The cost can drop by 20%."
+            },
+            {
+                "code": "drop_example_the-parachute-dropped-into-a-corn-field",
+                "text": "The parachute dropped into a corn field."
+            },
+            {
+                "code": "drop_example_they-plan-to-drop-her-from-the-team",
+                "text": "They plan to drop her from the team."
+            },
+            {
+                "code": "drop_example_prices-are-dropping",
+                "text": "Prices are dropping."
+            },
+            {
+                "code": "drop_example_attendance-is-dropping",
+                "text": "Attendance is dropping."
+            },
+            {
+                "code": "drop_example_he-dropped-weight",
+                "text": "He dropped weight."
+            },
+            {
+                "code": "drop_example_drop-your-arms",
+                "text": "Drop your arms."
+            },
+            {
+                "code": "drop_example_can-you-drop-the-issue",
+                "text": "Can you drop the issue?"
+            },
+            {
+                "code": "drop_example_she-dropped-a-bombshell",
+                "text": "She dropped a bombshell."
+            },
+            {
+                "code": "drop_example_the-child-dropped-crumbs-on-the-floor",
+                "text": "The child dropped crumbs on the floor."
+            }
+        ]
+    }
+]

@@ -1,0 +1,36 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to give someone information through talking or writing",
+        "examples": [
+            {
+                "code": "communicate_example_the-boss-communicates-clearly-with-her-staff",
+                "text": "The boss communicates clearly with her staff."
+            },
+            {
+                "code": "communicate_example_please-directly-communicate-with-me-about-any-issues",
+                "text": "Please directly communicate with me about any issues."
+            },
+            {
+                "code": "communicate_example_i-want-to-communicate-easily-with-my-children",
+                "text": "I want to communicate easily with my children."
+            },
+            {
+                "code": "communicate_example_my-wife-and-i-used-to-communicate-by-letter-when-i-was-a-soldier",
+                "text": "My wife and I used to communicate by letter when I was a soldier."
+            },
+            {
+                "code": "communicate_example_it-s-often-difficult-to-communicate-with-her",
+                "text": "It's often difficult to communicate with her."
+            },
+            {
+                "code": "communicate_example_we-need-to-communicate-with-each-other",
+                "text": "We need to communicate with each other."
+            },
+            {
+                "code": "communicate_example_it-s-hard-for-him-to-communicate-his-ideas",
+                "text": "It's hard for him to communicate his ideas."
+            }
+        ]
+    }
+]

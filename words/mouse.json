@@ -1,0 +1,60 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a small device moved by a hand that is used to control a computer; a small, furry animal with a long tail that lives in fields or houses",
+        "examples": [
+            {
+                "code": "mouse_example_double-click-the-mouse-to-make-changes",
+                "text": "Double-click the mouse to make changes."
+            },
+            {
+                "code": "mouse_example_we-breed-mice",
+                "text": "We breed mice."
+            },
+            {
+                "code": "mouse_example_my-cat-catches-mice",
+                "text": "My cat catches mice."
+            },
+            {
+                "code": "mouse_example_the-mouse-squeaked",
+                "text": "The mouse squeaked."
+            },
+            {
+                "code": "mouse_example_scientists-experiment-on-mice",
+                "text": "Scientists experiment on mice."
+            },
+            {
+                "code": "mouse_example_i-need-to-use-a-mouse-pad",
+                "text": "I need to use a mouse pad."
+            },
+            {
+                "code": "mouse_example_hit-the-mouse-button",
+                "text": "Hit the mouse button."
+            },
+            {
+                "code": "mouse_example_you-can-make-changes-with-one-mouse-click",
+                "text": "You can make changes with one mouse click."
+            },
+            {
+                "code": "mouse_example_there-are-mouse-droppings-in-the-basement",
+                "text": "There are mouse droppings in the basement."
+            },
+            {
+                "code": "mouse_example_i-bought-a-cordless-mouse",
+                "text": "I bought a cordless mouse."
+            },
+            {
+                "code": "mouse_example_we-found-a-little-mouse-in-the-basement",
+                "text": "We found a little mouse in the basement."
+            },
+            {
+                "code": "mouse_example_scientists-experiment-on-laboratory-mice",
+                "text": "Scientists experiment on laboratory mice."
+            },
+            {
+                "code": "mouse_example_highlight-the-sentence-with-the-mouse",
+                "text": "Highlight the sentence with the mouse."
+            }
+        ]
+    }
+]

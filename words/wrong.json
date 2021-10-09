@@ -1,0 +1,116 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "not correct or right; bad",
+        "examples": [
+            {
+                "code": "wrong_example_she-is-wrong-most-of-the-time",
+                "text": "She is wrong most of the time."
+            },
+            {
+                "code": "wrong_example_you-are-sending-her-a-wrong-message",
+                "text": "You are sending her a wrong message."
+            },
+            {
+                "code": "wrong_example_it-was-seriously-wrong-to-steal-the-money",
+                "text": "It was seriously wrong to steal the money."
+            },
+            {
+                "code": "wrong_example_you-were-absolutely-wrong-about-her",
+                "text": "You were absolutely wrong about her."
+            },
+            {
+                "code": "wrong_example_there-is-something-ethically-wrong-about-him",
+                "text": "There is something ethically wrong about him."
+            },
+            {
+                "code": "wrong_example_there-is-nothing-physically-wrong-with-her",
+                "text": "There is nothing physically wrong with her."
+            },
+            {
+                "code": "wrong_example_you-were-wrong-about-her-boyfriend",
+                "text": "You were wrong about her boyfriend."
+            },
+            {
+                "code": "wrong_example_that-outfit-is-totally-wrong-for-you",
+                "text": "That outfit is totally wrong for you."
+            },
+            {
+                "code": "wrong_example_things-always-seem-to-go-wrong-in-her-life",
+                "text": "Things always seem to go wrong in her life."
+            },
+            {
+                "code": "wrong_example_is-there-something-wrong-with-me",
+                "text": "Is there something wrong with me?"
+            },
+            {
+                "code": "wrong_example_you-gave-her-the-wrong-advice",
+                "text": "You gave her the wrong advice."
+            },
+            {
+                "code": "wrong_example_it-was-the-wrong-choice",
+                "text": "It was the wrong choice."
+            }
+        ]
+    },
+    {
+        "type": "(adv)",
+        "mean": "in a way that is not correct or right; in a bad way",
+        "examples": [
+            {
+                "code": "wrong_example_she-proved-him-wrong",
+                "text": "She proved him wrong."
+            },
+            {
+                "code": "wrong_example_she-guessed-all-of-the-math-problems-wrong",
+                "text": "She guessed all of the math problems wrong."
+            },
+            {
+                "code": "wrong_example_things-went-wrong-from-the-beginning",
+                "text": "Things went wrong from the beginning."
+            }
+        ]
+    },
+    {
+        "type": "(n)",
+        "mean": "behavior that is not honest or morally good",
+        "examples": [
+            {
+                "code": "wrong_example_he-wishes-he-could-correct-all-of-his-past-wrongs",
+                "text": "He wishes he could correct all of his past wrongs."
+            },
+            {
+                "code": "wrong_example_he-regrets-the-great-wrongs-in-his-life",
+                "text": "He regrets the great wrongs in his life."
+            },
+            {
+                "code": "wrong_example_she-committed-many-civil-wrongs-in-her-life",
+                "text": "She committed many civil wrongs in her life."
+            },
+            {
+                "code": "wrong_example_the-dictator-has-committed-many-wrongs-during-his-time",
+                "text": "The dictator has committed many wrongs during his time."
+            },
+            {
+                "code": "wrong_example_how-can-i-correct-the-wrongs-i-have-done",
+                "text": "How can I correct the wrongs I have done?"
+            },
+            {
+                "code": "wrong_example_she-suffered-many-wrongs-in-her-life",
+                "text": "She suffered many wrongs in her life."
+            },
+            {
+                "code": "wrong_example_we-cannot-forgive-all-of-his-past-wrongs",
+                "text": "We cannot forgive all of his past wrongs."
+            },
+            {
+                "code": "wrong_example_he-apologized-for-the-many-wrongs-during-their-marriage",
+                "text": "He apologized for the many wrongs during their marriage."
+            },
+            {
+                "code": "wrong_example_he-would-not-admit-that-he-was-in-the-wrong",
+                "text": "He would not admit that he was in the wrong."
+            }
+        ]
+    }
+]

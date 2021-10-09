@@ -1,0 +1,72 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a disagreement in an angry way; an explanation of an opinion",
+        "examples": [
+            {
+                "code": "argument_example_it-turned-into-a-bitter-argument",
+                "text": "It turned into a bitter argument."
+            },
+            {
+                "code": "argument_example_i-had-a-little-argument-with-my-friend-this-morning",
+                "text": "I had a little argument with my friend this morning."
+            },
+            {
+                "code": "argument_example_her-speech-included-a-powerful-argument",
+                "text": "Her speech included a powerful argument."
+            },
+            {
+                "code": "argument_example_it-was-a-pretty-weak-argument",
+                "text": "It was a pretty weak argument."
+            },
+            {
+                "code": "argument_example_his-basic-argument-was-not-enough-to-convince-his-parents",
+                "text": "His basic argument was not enough to convince his parents."
+            },
+            {
+                "code": "argument_example_the-lawyer-gave-his-closing-argument",
+                "text": "The lawyer gave his closing argument."
+            },
+            {
+                "code": "argument_example_a-heated-argument-erupted-outside-my-apartment",
+                "text": "A heated argument erupted outside my apartment."
+            },
+            {
+                "code": "argument_example_she-made-one-last-argument",
+                "text": "She made one last argument."
+            },
+            {
+                "code": "argument_example_i-d-like-to-hear-your-argument",
+                "text": "I'd like to hear your argument."
+            },
+            {
+                "code": "argument_example_they-have-rejected-my-argument",
+                "text": "They have rejected my argument."
+            },
+            {
+                "code": "argument_example_his-argument-depends-on-faulty-logic",
+                "text": "His argument depends on faulty logic."
+            },
+            {
+                "code": "argument_example_they-finally-settled-their-argument",
+                "text": "They finally settled their argument."
+            },
+            {
+                "code": "argument_example_the-argument-is-about-gun-control",
+                "text": "The argument is about gun control."
+            },
+            {
+                "code": "argument_example_she-had-an-argument-with-her-parents",
+                "text": "She had an argument with her parents."
+            },
+            {
+                "code": "argument_example_the-argument-was-between-her-sisters",
+                "text": "The argument was between her sisters."
+            },
+            {
+                "code": "argument_example_his-arguments-against-raising-taxes-appealed-to-voters",
+                "text": "His arguments against raising taxes appealed to voters."
+            }
+        ]
+    }
+]

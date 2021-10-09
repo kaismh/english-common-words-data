@@ -1,0 +1,46 @@
+[
+    {
+        "type": "(adv)",
+        "mean": "not as much, smaller",
+        "examples": [
+            {
+                "code": "less_example_she-is-less-able-to-do-it-alone",
+                "text": "She is less able to do it alone."
+            },
+            {
+                "code": "less_example_she-regrets-going-with-a-less-reputable-plumber",
+                "text": "She regrets going with a less reputable plumber."
+            },
+            {
+                "code": "less_example_the-recipe-is-less-difficult-to-make-the-second-time",
+                "text": "The recipe is less difficult to make the second time."
+            },
+            {
+                "code": "less_example_i-need-to-buy-a-less-expensive-car",
+                "text": "I need to buy a less expensive car."
+            }
+        ]
+    },
+    {
+        "type": "(adj)",
+        "mean": "not as much, smaller in amount",
+        "examples": [
+            {
+                "code": "less_example_she-finished-the-test-in-less-time-than-her-classmates",
+                "text": "She finished the test in less time than her classmates."
+            },
+            {
+                "code": "less_example_how-about-less-talk-and-more-action",
+                "text": "How about less talk and more action."
+            },
+            {
+                "code": "less_example_he-made-less-mistakes-this-time",
+                "text": "He made less mistakes this time."
+            },
+            {
+                "code": "less_example_they-have-less-money-than-we-do",
+                "text": "They have less money than we do."
+            }
+        ]
+    }
+]

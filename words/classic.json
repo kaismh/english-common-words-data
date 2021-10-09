@@ -1,0 +1,58 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "being of good or high quality and remaining popular for a long time; very typical",
+        "examples": [
+            {
+                "code": "classic_example_this-is-a-classic-example-of-what-not-to-do",
+                "text": "This is a classic example of what not to do."
+            },
+            {
+                "code": "classic_example_air-conditioning-is-now-a-classic-feature-of-most-cars",
+                "text": "Air conditioning is now a classic feature of most cars."
+            },
+            {
+                "code": "classic_example_sneezing-is-a-classic-symptom-of-allergies",
+                "text": "Sneezing is a classic symptom of allergies."
+            },
+            {
+                "code": "classic_example_his-dad-collects-classic-cars-from-every-decade",
+                "text": "His dad collects classic cars from every decade."
+            }
+        ]
+    },
+    {
+        "type": "(n)",
+        "mean": "a book, movie, or song that is considered to be one of the best and has remained popular for a long time",
+        "examples": [
+            {
+                "code": "classic_example_mark-twain-s-books-are-considered-true-classics",
+                "text": "Mark Twain's books are considered true classics."
+            },
+            {
+                "code": "classic_example_it-is-already-a-modern-classic",
+                "text": "It is already a modern classic."
+            },
+            {
+                "code": "classic_example_frank-sinatra-s-songs-are-all-time-classics",
+                "text": "Frank Sinatra's songs are all-time classics."
+            },
+            {
+                "code": "classic_example_this-is-a-rock-classic",
+                "text": "This is a rock classic."
+            },
+            {
+                "code": "classic_example_this-song-became-an-instant-classic-in-his-generation",
+                "text": "This song became an instant classic in his generation."
+            },
+            {
+                "code": "classic_example_his-last-song-became-an-instant-classic",
+                "text": "His last song became an instant classic."
+            },
+            {
+                "code": "classic_example_her-poem-became-an-all-time-classic-of-english-literature",
+                "text": "Her poem became an all-time classic of English literature."
+            }
+        ]
+    }
+]

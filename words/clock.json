@@ -1,0 +1,60 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a machine that shows the time",
+        "examples": [
+            {
+                "code": "clock_example_is-this-clock-accurate",
+                "text": "Is this clock accurate?"
+            },
+            {
+                "code": "clock_example_i-prefer-digital-clocks",
+                "text": "I prefer digital clocks."
+            },
+            {
+                "code": "clock_example_she-wants-to-buy-an-alarm-clock",
+                "text": "She wants to buy an alarm clock."
+            },
+            {
+                "code": "clock_example_traveling-confuses-my-biological-clock",
+                "text": "Traveling confuses my biological clock."
+            },
+            {
+                "code": "clock_example_we-need-to-reset-our-clocks",
+                "text": "We need to reset our clocks."
+            },
+            {
+                "code": "clock_example_he-stopped-the-clock-at-the-end-of-the-game",
+                "text": "He stopped the clock at the end of the game."
+            },
+            {
+                "code": "clock_example_he-glanced-at-his-clock-before-speaking",
+                "text": "He glanced at his clock before speaking."
+            },
+            {
+                "code": "clock_example_her-alarm-clock-was-beeping-loudly",
+                "text": "Her alarm clock was beeping loudly."
+            },
+            {
+                "code": "clock_example_this-clock-keeps-time-accurately",
+                "text": "This clock keeps time accurately."
+            },
+            {
+                "code": "clock_example_what-does-the-clock-say",
+                "text": "What does the clock say?"
+            },
+            {
+                "code": "clock_example_they-are-repairing-the-clock-tower",
+                "text": "They are repairing the clock tower."
+            },
+            {
+                "code": "clock_example_we-re-working-against-the-clock",
+                "text": "We're working against the clock."
+            },
+            {
+                "code": "clock_example_it-s-noon-on-my-clock",
+                "text": "It's noon on my clock."
+            }
+        ]
+    }
+]

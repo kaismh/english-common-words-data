@@ -1,0 +1,60 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a building or place where people live",
+        "examples": [
+            {
+                "code": "housing_example_there-is-affordable-housing-in-this-city",
+                "text": "There is affordable housing in this city."
+            },
+            {
+                "code": "housing_example_we-re-trying-to-find-decent-housing",
+                "text": "We're trying to find decent housing."
+            },
+            {
+                "code": "housing_example_they-re-building-more-public-housing",
+                "text": "They're building more public housing."
+            },
+            {
+                "code": "housing_example_we-re-trying-to-find-him-temporary-housing",
+                "text": "We're trying to find him temporary housing."
+            },
+            {
+                "code": "housing_example_they-are-discussing-problems-with-rural-housing",
+                "text": "They are discussing problems with rural housing."
+            },
+            {
+                "code": "housing_example_the-school-wants-to-build-more-housing-for-students",
+                "text": "The school wants to build more housing for students."
+            },
+            {
+                "code": "housing_example_the-local-housing-office-is-dealing-with-the-problem",
+                "text": "The local housing office is dealing with the problem."
+            },
+            {
+                "code": "housing_example_these-housing-conditions-are-bad",
+                "text": "These housing conditions are bad."
+            },
+            {
+                "code": "housing_example_new-housing-developments-are-being-built",
+                "text": "New housing developments are being built."
+            },
+            {
+                "code": "housing_example_housing-prices-are-really-high-right-now",
+                "text": "Housing prices are really high right now."
+            },
+            {
+                "code": "housing_example_there-is-a-housing-crisis-in-the-city",
+                "text": "There is a housing crisis in the city."
+            },
+            {
+                "code": "housing_example_he-receives-a-housing-allowance",
+                "text": "He receives a housing allowance."
+            },
+            {
+                "code": "housing_example_many-low-income-families-live-in-poor-housing",
+                "text": "Many low-income families live in poor housing."
+            }
+        ]
+    }
+]

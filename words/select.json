@@ -1,0 +1,66 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to choose something from a group of things",
+        "examples": [
+            {
+                "code": "select_example_he-carefully-selected-the-right-answer",
+                "text": "He carefully selected the right answer."
+            },
+            {
+                "code": "select_example_the-computer-automatically-selects-the-numbers",
+                "text": "The computer automatically selects the numbers."
+            },
+            {
+                "code": "select_example_she-specifically-selected-him-to-be-on-her-team",
+                "text": "She specifically selected him to be on her team."
+            },
+            {
+                "code": "select_example_i-randomly-selected-a-name-out-of-a-hat",
+                "text": "I randomly selected a name out of a hat."
+            },
+            {
+                "code": "select_example_students-selected-partners-according-to-their-interests",
+                "text": "Students selected partners according to their interests."
+            },
+            {
+                "code": "select_example_they-were-selected-as-finalists",
+                "text": "They were selected as finalists."
+            },
+            {
+                "code": "select_example_she-was-selected-for-the-team",
+                "text": "She was selected for the team."
+            },
+            {
+                "code": "select_example_you-can-select-colors-from-the-samples",
+                "text": "You can select colors from the samples."
+            },
+            {
+                "code": "select_example_they-are-selecting-applicants-for-the-new-positions",
+                "text": "They are selecting applicants for the new positions."
+            },
+            {
+                "code": "select_example_they-have-selected-a-winner",
+                "text": "They have selected a winner."
+            },
+            {
+                "code": "select_example_please-select-from-samples",
+                "text": "Please select from samples."
+            }
+        ]
+    },
+    {
+        "type": "(adj)",
+        "mean": "chosen as the best",
+        "examples": [
+            {
+                "code": "select_example_we-were-part-of-a-select-audience-for-the-show",
+                "text": "We were part of a select audience for the show."
+            },
+            {
+                "code": "select_example_you-are-part-of-a-select-group-of-students",
+                "text": "You are part of a select group of students."
+            }
+        ]
+    }
+]

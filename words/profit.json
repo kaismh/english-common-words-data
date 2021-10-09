@@ -1,0 +1,86 @@
+[
+    {
+        "type": "(n)",
+        "mean": "money made after all costs and expenses have been paid",
+        "examples": [
+            {
+                "code": "profit_example_our-profits-exceeded-last-year-s",
+                "text": "Our profits exceeded last year's."
+            },
+            {
+                "code": "profit_example_our-restaurant-finally-made-a-profit",
+                "text": "Our restaurant finally made a profit."
+            },
+            {
+                "code": "profit_example_we-can-share-the-profits",
+                "text": "We can share the profits."
+            },
+            {
+                "code": "profit_example_he-reported-high-profits",
+                "text": "He reported high profits."
+            },
+            {
+                "code": "profit_example_how-can-we-double-our-profit",
+                "text": "How can we double our profit?"
+            },
+            {
+                "code": "profit_example_our-profits-soared-after-investing-in-marketing",
+                "text": "Our profits soared after investing in marketing."
+            },
+            {
+                "code": "profit_example_our-profits-declined-after-the-product-recall",
+                "text": "Our profits declined after the product recall."
+            },
+            {
+                "code": "profit_example_our-profit-margin-is-growing",
+                "text": "Our profit margin is growing."
+            },
+            {
+                "code": "profit_example_we-planned-to-engage-in-profit-sharing",
+                "text": "We planned to engage in profit sharing."
+            },
+            {
+                "code": "profit_example_our-total-profits-are-higher-this-year",
+                "text": "Our total profits are higher this year."
+            },
+            {
+                "code": "profit_example_we-made-a-considerable-profit-last-month",
+                "text": "We made a considerable profit last month."
+            },
+            {
+                "code": "profit_example_we-closed-our-business-due-to-low-profits",
+                "text": "We closed our business due to low profits."
+            },
+            {
+                "code": "profit_example_how-can-we-make-an-additional-profit",
+                "text": "How can we make an additional profit?"
+            },
+            {
+                "code": "profit_example_this-is-a-high-profit-business",
+                "text": "This is a high profit business."
+            },
+            {
+                "code": "profit_example_those-are-lost-profits",
+                "text": "Those are lost profits."
+            },
+            {
+                "code": "profit_example_i-made-a-profit-from-selling-pizza",
+                "text": "I made a profit from selling pizza."
+            },
+            {
+                "code": "profit_example_he-made-a-profit-on-the-car",
+                "text": "He made a profit on the car."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to make money after all costs and expenses have been paid",
+        "examples": [
+            {
+                "code": "profit_example_he-profited-from-the-sale",
+                "text": "He profited from the sale."
+            }
+        ]
+    }
+]

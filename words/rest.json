@@ -1,0 +1,90 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to relax or sleep; to place or lean against something",
+        "examples": [
+            {
+                "code": "rest_example_we-need-to-rest",
+                "text": "We need to rest."
+            },
+            {
+                "code": "rest_example_let-s-rest-awhile",
+                "text": "Let's rest awhile."
+            },
+            {
+                "code": "rest_example_we-briefly-rested-before-continuing-the-long-hike",
+                "text": "We briefly rested before continuing the long hike."
+            },
+            {
+                "code": "rest_example_they-need-a-place-where-they-can-rest-safely",
+                "text": "They need a place where they can rest safely."
+            },
+            {
+                "code": "rest_example_he-is-resting-casually-on-the-couch",
+                "text": "He is resting casually on the couch."
+            },
+            {
+                "code": "rest_example_she-gently-rested-her-head-on-his-shoulder",
+                "text": "She gently rested her head on his shoulder."
+            },
+            {
+                "code": "rest_example_i-rested-on-the-bed",
+                "text": "I rested on the bed."
+            },
+            {
+                "code": "rest_example_he-rested-the-broom-against-the-wall",
+                "text": "He rested the broom against the wall."
+            }
+        ]
+    },
+    {
+        "type": "(n)",
+        "mean": "a period of relaxation; the remaining part of something; leftover",
+        "examples": [
+            {
+                "code": "rest_example_he-deserves-some-rest",
+                "text": "He deserves some rest."
+            },
+            {
+                "code": "rest_example_the-ball-came-to-a-rest-at-his-feet",
+                "text": "The ball came to a rest at his feet."
+            },
+            {
+                "code": "rest_example_let-s-take-a-rest",
+                "text": "Let's take a rest."
+            },
+            {
+                "code": "rest_example_i-pulled-over-at-the-rest-area",
+                "text": "I pulled over at the rest area."
+            },
+            {
+                "code": "rest_example_my-grandfather-is-living-in-a-rest-home",
+                "text": "My grandfather is living in a rest home."
+            },
+            {
+                "code": "rest_example_she-was-put-on-bed-rest-during-the-last-month-of-pregnancy",
+                "text": "She was put on bed rest during the last month of pregnancy."
+            },
+            {
+                "code": "rest_example_we-had-a-nice-rest",
+                "text": "We had a nice rest."
+            },
+            {
+                "code": "rest_example_we-got-some-much-needed-rest",
+                "text": "We got some much-needed rest."
+            },
+            {
+                "code": "rest_example_make-sure-to-get-complete-rest-before-you-leave-in-the-morning",
+                "text": "Make sure to get complete rest before you leave in the morning."
+            },
+            {
+                "code": "rest_example_let-s-take-a-rest-from-work",
+                "text": "Let's take a rest from work."
+            },
+            {
+                "code": "rest_example_the-children-are-at-rest",
+                "text": "The children are at rest."
+            }
+        ]
+    }
+]

@@ -1,0 +1,66 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "not dirty",
+        "examples": [
+            {
+                "code": "clean_example_your-apartment-is-extremely-clean",
+                "text": "Your apartment is extremely clean."
+            },
+            {
+                "code": "clean_example_i-try-to-keep-the-house-fairly-clean",
+                "text": "I try to keep the house fairly clean."
+            },
+            {
+                "code": "clean_example_the-dishes-are-almost-clean",
+                "text": "The dishes are almost clean."
+            },
+            {
+                "code": "clean_example_this-shirt-smells-clean",
+                "text": "This shirt smells clean."
+            },
+            {
+                "code": "clean_example_the-house-never-stays-clean",
+                "text": "The house never stays clean."
+            },
+            {
+                "code": "clean_example_i-washed-the-bathtub-clean",
+                "text": "I washed the bathtub clean."
+            },
+            {
+                "code": "clean_example_please-keep-your-bedroom-clean",
+                "text": "Please keep your bedroom clean."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to remove dirt from something by washing it",
+        "examples": [
+            {
+                "code": "clean_example_i-like-to-buy-clothes-that-can-be-easily-cleaned",
+                "text": "I like to buy clothes that can be easily cleaned."
+            },
+            {
+                "code": "clean_example_please-clean-your-hands-thoroughly",
+                "text": "Please clean your hands thoroughly."
+            },
+            {
+                "code": "clean_example_she-gently-cleaned-the-antique-vase",
+                "text": "She gently cleaned the antique vase."
+            },
+            {
+                "code": "clean_example_it-s-time-to-clean-out-the-basement",
+                "text": "It's time to clean out the basement."
+            },
+            {
+                "code": "clean_example_i-cleaned-the-dirt-off-the-floor",
+                "text": "I cleaned the dirt off the floor."
+            },
+            {
+                "code": "clean_example_i-cleaned-the-dishes-with-a-sponge",
+                "text": "I cleaned the dishes with a sponge."
+            }
+        ]
+    }
+]

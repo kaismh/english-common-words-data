@@ -1,0 +1,124 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to cause or feel physical or emotional pain",
+        "examples": [
+            {
+                "code": "hurt_example_he-badly-hurt-his-arm-when-he-fell-down",
+                "text": "He badly hurt his arm when he fell down."
+            },
+            {
+                "code": "hurt_example_you-actually-hurt-her-feelings-by-what-you-said",
+                "text": "You actually hurt her feelings by what you said."
+            },
+            {
+                "code": "hurt_example_i-slightly-hurt-my-hand-when-i-fell",
+                "text": "I slightly hurt my hand when I fell."
+            },
+            {
+                "code": "hurt_example_your-words-really-hurt-me",
+                "text": "Your words really hurt me."
+            },
+            {
+                "code": "hurt_example_her-lies-hurt-him-deeply",
+                "text": "Her lies hurt him deeply."
+            },
+            {
+                "code": "hurt_example_i-didn-t-think-the-shot-was-going-to-hurt",
+                "text": "I didn't think the shot was going to hurt."
+            },
+            {
+                "code": "hurt_example_my-foot-began-to-hurt-badly",
+                "text": "My foot began to hurt badly."
+            },
+            {
+                "code": "hurt_example_i-am-not-trying-to-hurt-you",
+                "text": "I am not trying to hurt you."
+            },
+            {
+                "code": "hurt_example_i-think-he-wants-to-hurt-me",
+                "text": "I think he wants to hurt me."
+            },
+            {
+                "code": "hurt_example_my-body-hurts-a-lot",
+                "text": "My body hurts a lot."
+            },
+            {
+                "code": "hurt_example_her-words-really-hurt-him",
+                "text": "Her words really hurt him."
+            },
+            {
+                "code": "hurt_example_the-weather-is-really-hurting-sales",
+                "text": "The weather is really hurting sales."
+            },
+            {
+                "code": "hurt_example_her-lies-hurt-his-reputation",
+                "text": "Her lies hurt his reputation."
+            }
+        ]
+    },
+    {
+        "type": "(adj)",
+        "mean": "physically injured; emotionally or mentally upset",
+        "examples": [
+            {
+                "code": "hurt_example_i-don-t-want-you-to-get-hurt",
+                "text": "I don't want you to get hurt."
+            },
+            {
+                "code": "hurt_example_he-is-really-hurt",
+                "text": "He is really hurt."
+            },
+            {
+                "code": "hurt_example_he-feels-really-hurt-by-what-she-did",
+                "text": "He feels really hurt by what she did."
+            },
+            {
+                "code": "hurt_example_he-was-badly-hurt-in-the-accident",
+                "text": "He was badly hurt in the accident."
+            },
+            {
+                "code": "hurt_example_she-was-really-hurt-by-his-behavior",
+                "text": "She was really hurt by his behavior."
+            },
+            {
+                "code": "hurt_example_she-was-deeply-hurt-by-his-actions",
+                "text": "She was deeply hurt by his actions."
+            },
+            {
+                "code": "hurt_example_i-have-to-be-careful-with-my-hurt-leg",
+                "text": "I have to be careful with my hurt leg."
+            },
+            {
+                "code": "hurt_example_she-saw-the-hurt-expression-on-his-face",
+                "text": "She saw the hurt expression on his face."
+            },
+            {
+                "code": "hurt_example_she-is-trying-to-get-over-her-hurt-feelings",
+                "text": "She is trying to get over her hurt feelings."
+            }
+        ]
+    },
+    {
+        "type": "(n)",
+        "mean": "emotional or physical pain",
+        "examples": [
+            {
+                "code": "hurt_example_he-experienced-deep-hurt-by-her-cold-behavior",
+                "text": "He experienced deep hurt by her cold behavior."
+            },
+            {
+                "code": "hurt_example_she-caused-her-family-great-hurt-when-she-left-home",
+                "text": "She caused her family great hurt when she left home."
+            },
+            {
+                "code": "hurt_example_he-feels-great-hurt-by-her-actions",
+                "text": "He feels great hurt by her actions."
+            },
+            {
+                "code": "hurt_example_i-could-see-the-hurt-in-his-face",
+                "text": "I could see the hurt in his face."
+            }
+        ]
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the act of signing something; the handwritten form of someone's name",
+        "examples": [
+            {
+                "code": "signature_example_we-discovered-that-it-was-a-valid-signature",
+                "text": "We discovered that it was a valid signature."
+            },
+            {
+                "code": "signature_example_the-school-recognizes-electronic-signatures",
+                "text": "The school recognizes electronic signatures."
+            },
+            {
+                "code": "signature_example_we-needed-to-add-signatures-to-our-proposal",
+                "text": "We needed to add signatures to our proposal."
+            },
+            {
+                "code": "signature_example_your-signature-on-the-will-must-be-witnessed-by-two-people",
+                "text": "Your signature on the will must be witnessed by two people."
+            },
+            {
+                "code": "signature_example_it-is-hard-to-recognize-his-signature",
+                "text": "It is hard to recognize his signature."
+            },
+            {
+                "code": "signature_example_she-quickly-scribbled-her-signature-on-the-document",
+                "text": "She quickly scribbled her signature on the document."
+            },
+            {
+                "code": "signature_example_they-collected-over-a-hundred-signatures",
+                "text": "They collected over a hundred signatures."
+            },
+            {
+                "code": "signature_example_the-lawyer-got-the-signatures-of-two-witnesses",
+                "text": "The lawyer got the signatures of two witnesses."
+            },
+            {
+                "code": "signature_example_did-you-get-a-signature-on-the-contract",
+                "text": "Did you get a signature on the contract?"
+            }
+        ]
+    }
+]

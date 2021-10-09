@@ -1,0 +1,44 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a long, thin cord; a cord of a musical instrument",
+        "examples": [
+            {
+                "code": "string_example_the-string-is-too-tight",
+                "text": "The string is too tight."
+            },
+            {
+                "code": "string_example_he-got-mad-with-the-tangled-string",
+                "text": "He got mad with the tangled string."
+            },
+            {
+                "code": "string_example_she-needs-new-violin-strings",
+                "text": "She needs new violin strings."
+            },
+            {
+                "code": "string_example_tie-the-string-around-the-box",
+                "text": "Tie the string around the box."
+            },
+            {
+                "code": "string_example_she-wound-the-string-around-his-finger",
+                "text": "She wound the string around his finger."
+            },
+            {
+                "code": "string_example_he-needs-to-tighten-the-guitar-strings",
+                "text": "He needs to tighten the guitar strings."
+            },
+            {
+                "code": "string_example_i-broke-the-a-string-on-my-guitar",
+                "text": "I broke the A string on my guitar."
+            },
+            {
+                "code": "string_example_there-s-a-big-knot-in-the-string",
+                "text": "There's a big knot in the string."
+            },
+            {
+                "code": "string_example_the-necklace-was-a-beautiful-string-of-pearls",
+                "text": "The necklace was a beautiful string of pearls."
+            }
+        ]
+    }
+]

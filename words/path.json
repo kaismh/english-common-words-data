@@ -1,0 +1,64 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a small trail for walking; a direction of movement",
+        "examples": [
+            {
+                "code": "path_example_take-the-first-path-on-the-right",
+                "text": "Take the first path on the right."
+            },
+            {
+                "code": "path_example_the-path-goes-from-our-house-to-the-corn-field",
+                "text": "The path goes from our house to the corn field."
+            },
+            {
+                "code": "path_example_the-path-narrows-ahead",
+                "text": "The path narrows ahead."
+            },
+            {
+                "code": "path_example_i-was-really-surprised-to-cross-paths-with-him-in-hawaii",
+                "text": "I was really surprised to cross paths with him in Hawaii."
+            },
+            {
+                "code": "path_example_don-t-stand-in-his-path",
+                "text": "Don't stand in his path."
+            },
+            {
+                "code": "path_example_they-are-tracing-the-path-of-the-tornado",
+                "text": "They are tracing the path of the tornado."
+            },
+            {
+                "code": "path_example_we-followed-the-bike-path-all-the-way-down-to-the-river-bank",
+                "text": "We followed the bike path all the way down to the river bank."
+            },
+            {
+                "code": "path_example_there-s-a-long-path-out-of-the-woods",
+                "text": "There's a long path out of the woods."
+            },
+            {
+                "code": "path_example_you-can-see-our-flight-path-marked-on-the-map",
+                "text": "You can see our flight path marked on the map."
+            },
+            {
+                "code": "path_example_the-small-town-is-in-the-direct-path-of-the-tornado",
+                "text": "The small town is in the direct path of the tornado."
+            },
+            {
+                "code": "path_example_stay-on-the-correct-path-and-you-ll-find-the-place",
+                "text": "Stay on the correct path and you'll find the place."
+            },
+            {
+                "code": "path_example_we-followed-the-path-through-the-forest",
+                "text": "We followed the path through the forest."
+            },
+            {
+                "code": "path_example_this-path-goes-from-the-lake-to-the-clearing",
+                "text": "This path goes from the lake to the clearing."
+            },
+            {
+                "code": "path_example_continue-down-the-path-and-you-ll-see-the-ocean",
+                "text": "Continue down the path and you'll see the ocean."
+            }
+        ]
+    }
+]

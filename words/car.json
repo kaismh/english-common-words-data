@@ -1,0 +1,188 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a road vehicle with four wheels that is used for moving people or things from one place to another; an automobile; one segment of a train",
+        "examples": [
+            {
+                "code": "car_example_she-loves-fast-cars",
+                "text": "She loves fast cars."
+            },
+            {
+                "code": "car_example_we-re-shopping-for-a-new-car",
+                "text": "We're shopping for a new car."
+            },
+            {
+                "code": "car_example_he-owns-an-electric-car",
+                "text": "He owns an electric car."
+            },
+            {
+                "code": "car_example_my-parents-drive-a-compact-car",
+                "text": "My parents drive a compact car."
+            },
+            {
+                "code": "car_example_the-criminals-attacked-the-armored-car",
+                "text": "The criminals attacked the armored car."
+            },
+            {
+                "code": "car_example_we-can-t-use-race-cars-on-the-highway",
+                "text": "We can't use race cars on the highway."
+            },
+            {
+                "code": "car_example_this-job-comes-with-a-company-car",
+                "text": "This job comes with a company car."
+            },
+            {
+                "code": "car_example_after-my-accident-i-had-to-use-a-rental-car",
+                "text": "After my accident, I had to use a rental car."
+            },
+            {
+                "code": "car_example_the-police-chased-the-getaway-car",
+                "text": "The police chased the getaway car."
+            },
+            {
+                "code": "car_example_there-was-a-parked-car-in-my-driveway",
+                "text": "There was a parked car in my driveway."
+            },
+            {
+                "code": "car_example_cows-were-shipped-in-rail-cars",
+                "text": "Cows were shipped in rail cars."
+            },
+            {
+                "code": "car_example_this-train-has-coal-cars",
+                "text": "This train has coal cars."
+            },
+            {
+                "code": "car_example_i-don-t-know-how-to-drive-a-car",
+                "text": "I don't know how to drive a car."
+            },
+            {
+                "code": "car_example_she-has-a-luxury-car",
+                "text": "She has a luxury car."
+            },
+            {
+                "code": "car_example_i-need-to-lease-a-car",
+                "text": "I need to lease a car."
+            },
+            {
+                "code": "car_example_will-you-trade-in-your-car",
+                "text": "Will you trade in your car?"
+            },
+            {
+                "code": "car_example_all-of-the-students-piled-into-the-car",
+                "text": "All of the students piled into the car."
+            },
+            {
+                "code": "car_example_the-police-forced-the-car-to-pull-over",
+                "text": "The police forced the car to pull over."
+            },
+            {
+                "code": "car_example_i-ll-back-the-car-out-of-the-driveway",
+                "text": "I'll back the car out of the driveway."
+            },
+            {
+                "code": "car_example_she-swerved-the-car-off-the-road",
+                "text": "She swerved the car off the road."
+            },
+            {
+                "code": "car_example_the-car-was-able-to-overtake-the-other-driver",
+                "text": "The car was able to overtake the other driver."
+            },
+            {
+                "code": "car_example_it-s-easy-to-lose-control-of-your-car-when-the-roads-are-icy",
+                "text": "It's easy to lose control of your car when the roads are icy."
+            },
+            {
+                "code": "car_example_can-we-leave-the-car-here",
+                "text": "Can we leave the car here?"
+            },
+            {
+                "code": "car_example_i-hope-my-car-isn-t-towed",
+                "text": "I hope my car isn't towed."
+            },
+            {
+                "code": "car_example_let-s-race-our-cars",
+                "text": "Let's race our cars."
+            },
+            {
+                "code": "car_example_when-he-grows-up-he-wants-to-build-cars",
+                "text": "When he grows up, he wants to build cars."
+            },
+            {
+                "code": "car_example_we-ll-have-to-take-in-our-car-for-service",
+                "text": "We'll have to take in our car for service."
+            },
+            {
+                "code": "car_example_it-s-time-to-wash-your-car",
+                "text": "It's time to wash your car."
+            },
+            {
+                "code": "car_example_thieves-broke-into-my-car-last-night",
+                "text": "Thieves broke into my car last night."
+            },
+            {
+                "code": "car_example_if-it-s-too-cold-the-car-won-t-start",
+                "text": "If it's too cold, the car won't start."
+            },
+            {
+                "code": "car_example_after-the-accident-the-car-drove-off",
+                "text": "After the accident, the car drove off."
+            },
+            {
+                "code": "car_example_this-car-accelerates-slowly",
+                "text": "This car accelerates slowly."
+            },
+            {
+                "code": "car_example_the-car-slowed-down-when-it-started-raining",
+                "text": "The car slowed down when it started raining."
+            },
+            {
+                "code": "car_example_our-car-skidded-on-a-patch-of-oil",
+                "text": "Our car skidded on a patch of oil."
+            },
+            {
+                "code": "car_example_her-car-broke-down-in-the-middle-of-nowhere",
+                "text": "Her car broke down in the middle of nowhere."
+            },
+            {
+                "code": "car_example_the-train-is-pulling-a-few-cars",
+                "text": "The train is pulling a few cars."
+            },
+            {
+                "code": "car_example_my-car-alarm-is-broken",
+                "text": "My car alarm is broken."
+            },
+            {
+                "code": "car_example_put-it-in-the-car-s-trunk",
+                "text": "Put it in the car's trunk."
+            },
+            {
+                "code": "car_example_my-dog-loves-car-rides",
+                "text": "My dog loves car rides."
+            },
+            {
+                "code": "car_example_she-doesn-t-want-to-buy-from-a-car-dealer",
+                "text": "She doesn't want to buy from a car dealer."
+            },
+            {
+                "code": "car_example_car-buyers-need-to-make-the-smart-choice",
+                "text": "Car buyers need to make the smart choice."
+            },
+            {
+                "code": "car_example_they-were-in-a-car-wreck",
+                "text": "They were in a car wreck."
+            },
+            {
+                "code": "car_example_we-ll-take-it-to-a-car-wash",
+                "text": "We'll take it to a car wash."
+            },
+            {
+                "code": "car_example_do-you-go-to-work-by-car",
+                "text": "Do you go to work by car?"
+            },
+            {
+                "code": "car_example_she-was-already-in-the-car",
+                "text": "She was already in the car."
+            }
+        ]
+    }
+]

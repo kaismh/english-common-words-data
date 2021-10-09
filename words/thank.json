@@ -1,0 +1,28 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to tell someone that you are grateful",
+        "examples": [
+            {
+                "code": "thank_example_i-politely-thanked-him-for-his-kindness",
+                "text": "I politely thanked him for his kindness."
+            },
+            {
+                "code": "thank_example_i-sincerely-thank-you-for-your-generous-donations",
+                "text": "I sincerely thank you for your generous donations."
+            },
+            {
+                "code": "thank_example_please-properly-thank-them-for-their-services",
+                "text": "Please properly thank them for their services."
+            },
+            {
+                "code": "thank_example_he-thanked-him-for-all-of-his-hard-work",
+                "text": "He thanked him for all of his hard work."
+            },
+            {
+                "code": "thank_example_i-need-to-thank-everyone-for-their-kindness",
+                "text": "I need to thank everyone for their kindness."
+            }
+        ]
+    }
+]

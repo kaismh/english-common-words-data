@@ -1,0 +1,56 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to make someone believe a certain way",
+        "examples": [
+            {
+                "code": "convince_example_the-lawyer-will-try-to-convince-the-jury",
+                "text": "The lawyer will try to convince the jury."
+            },
+            {
+                "code": "convince_example_the-president-needs-to-convince-the-voters",
+                "text": "The president needs to convince the voters."
+            },
+            {
+                "code": "convince_example_the-lawyer-successfully-convinced-the-jury-that-his-client-was-innocent",
+                "text": "The lawyer successfully convinced the jury that his client was innocent."
+            },
+            {
+                "code": "convince_example_he-always-convinces-his-friend-to-do-the-wrong-thing",
+                "text": "He always convinces his friend to do the wrong thing."
+            },
+            {
+                "code": "convince_example_she-was-easily-convinced-to-donate-money",
+                "text": "She was easily convinced to donate money."
+            },
+            {
+                "code": "convince_example_i-m-still-not-convinced-of-your-innocence",
+                "text": "I'm still not convinced of your innocence."
+            },
+            {
+                "code": "convince_example_she-tried-to-convince-her-sister-to-go-with-her",
+                "text": "She tried to convince her sister to go with her."
+            },
+            {
+                "code": "convince_example_how-can-i-convince-you-to-come",
+                "text": "How can I convince you to come?"
+            },
+            {
+                "code": "convince_example_who-convinced-you-to-do-that",
+                "text": "Who convinced you to do that?"
+            },
+            {
+                "code": "convince_example_why-are-you-convinced-he-is-guilty",
+                "text": "Why are you convinced he is guilty?"
+            },
+            {
+                "code": "convince_example_what-convinced-you-of-that",
+                "text": "What convinced you of that?"
+            },
+            {
+                "code": "convince_example_you-can-try-to-convince-her-but-she-won-t-change-her-mind",
+                "text": "You can try to convince her, but she won't change her mind."
+            }
+        ]
+    }
+]

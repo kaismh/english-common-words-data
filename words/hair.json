@@ -1,0 +1,96 @@
+[
+    {
+        "type": "(n)",
+        "mean": "mass of thin thread-like strands that grow on a person's head; animal fur",
+        "examples": [
+            {
+                "code": "hair_example_she-has-black-hair",
+                "text": "She has black hair."
+            },
+            {
+                "code": "hair_example_he-has-curly-hair",
+                "text": "He has curly hair."
+            },
+            {
+                "code": "hair_example_he-tried-to-tame-his-messy-hair",
+                "text": "He tried to tame his messy hair."
+            },
+            {
+                "code": "hair_example_she-has-such-beautiful-hair",
+                "text": "She has such beautiful hair."
+            },
+            {
+                "code": "hair_example_she-looks-nice-with-cropped-hair",
+                "text": "She looks nice with cropped hair."
+            },
+            {
+                "code": "hair_example_he-s-worried-about-thinning-hair",
+                "text": "He's worried about thinning hair."
+            },
+            {
+                "code": "hair_example_the-furniture-is-covered-with-cat-hair",
+                "text": "The furniture is covered with cat hair."
+            },
+            {
+                "code": "hair_example_she-has-thick-hair",
+                "text": "She has thick hair."
+            },
+            {
+                "code": "hair_example_he-s-starting-to-lose-his-hair",
+                "text": "He's starting to lose his hair."
+            },
+            {
+                "code": "hair_example_she-always-wears-her-hair-up",
+                "text": "She always wears her hair up."
+            },
+            {
+                "code": "hair_example_i-need-to-fix-my-hair",
+                "text": "I need to fix my hair."
+            },
+            {
+                "code": "hair_example_she-braided-her-hair",
+                "text": "She braided her hair."
+            },
+            {
+                "code": "hair_example_make-sure-to-brush-your-hair-before-pictures",
+                "text": "Make sure to brush your hair before pictures."
+            },
+            {
+                "code": "hair_example_she-washes-her-hair-daily",
+                "text": "She washes her hair daily."
+            },
+            {
+                "code": "hair_example_he-got-his-hair-cut-yesterday",
+                "text": "He got his hair cut yesterday."
+            },
+            {
+                "code": "hair_example_she-perms-her-hair-every-three-months",
+                "text": "She perms her hair every three months."
+            },
+            {
+                "code": "hair_example_i-am-waiting-for-my-hair-to-grow",
+                "text": "I am waiting for my hair to grow."
+            },
+            {
+                "code": "hair_example_he-shaved-his-hair",
+                "text": "He shaved his hair."
+            },
+            {
+                "code": "hair_example_he-s-trying-to-deal-with-hair-loss",
+                "text": "He's trying to deal with hair loss."
+            },
+            {
+                "code": "hair_example_i-am-at-the-hair-salon",
+                "text": "I am at the hair salon."
+            },
+            {
+                "code": "hair_example_i-bought-some-hair-color",
+                "text": "I bought some hair color."
+            },
+            {
+                "code": "hair_example_she-s-getting-hair-extensions",
+                "text": "She's getting hair extensions."
+            }
+        ]
+    }
+]

@@ -1,0 +1,86 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to provide an organization with workers",
+        "examples": [
+            {
+                "code": "staff_example_the-hospital-is-well-staffed",
+                "text": "The hospital is well staffed."
+            }
+        ]
+    },
+    {
+        "type": "(n)",
+        "mean": "a group of people who work for the same company",
+        "examples": [
+            {
+                "code": "staff_example_she-is-part-of-the-full-time-staff",
+                "text": "She is part of the full-time staff."
+            },
+            {
+                "code": "staff_example_this-company-has-the-most-experienced-staff",
+                "text": "This company has the most experienced staff."
+            },
+            {
+                "code": "staff_example_i-have-been-a-part-of-the-kitchen-staff-for-five-years",
+                "text": "I have been a part of the kitchen staff for five years."
+            },
+            {
+                "code": "staff_example_the-company-has-a-small-staff",
+                "text": "The company has a small staff."
+            },
+            {
+                "code": "staff_example_they-are-going-to-hire-additional-staff",
+                "text": "They are going to hire additional staff."
+            },
+            {
+                "code": "staff_example_the-company-is-using-bonuses-to-retain-staff",
+                "text": "The company is using bonuses to retain staff."
+            },
+            {
+                "code": "staff_example_they-don-t-pay-their-staff-enough",
+                "text": "They don't pay their staff enough."
+            },
+            {
+                "code": "staff_example_he-joined-the-hospital-staff-last-year",
+                "text": "He joined the hospital staff last year."
+            },
+            {
+                "code": "staff_example_our-staff-is-working-many-hours",
+                "text": "Our staff is working many hours."
+            },
+            {
+                "code": "staff_example_he-was-treated-by-an-awesome-medical-staff",
+                "text": "He was treated by an awesome medical staff."
+            },
+            {
+                "code": "staff_example_the-staff-cannot-do-this-work-without-direction",
+                "text": "The staff cannot do this work without direction."
+            },
+            {
+                "code": "staff_example_we-have-four-staff-members-on-our-team",
+                "text": "We have four staff members on our team."
+            },
+            {
+                "code": "staff_example_he-is-seeking-a-full-time-staff-position",
+                "text": "He is seeking a full-time staff position."
+            },
+            {
+                "code": "staff_example_they-were-experiencing-a-staff-shortage",
+                "text": "They were experiencing a staff shortage."
+            },
+            {
+                "code": "staff_example_the-company-is-going-through-staff-cuts",
+                "text": "The company is going through staff cuts."
+            },
+            {
+                "code": "staff_example_i-was-in-the-staff-meeting-for-three-hours",
+                "text": "I was in the staff meeting for three hours."
+            },
+            {
+                "code": "staff_example_she-has-been-on-the-school-staff-for-ten-years",
+                "text": "She has been on the school staff for ten years."
+            }
+        ]
+    }
+]

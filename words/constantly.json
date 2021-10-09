@@ -1,0 +1,32 @@
+[
+    {
+        "type": "(adv)",
+        "mean": "all the time; always",
+        "examples": [
+            {
+                "code": "constantly_example_he-is-constantly-alert",
+                "text": "He is constantly alert."
+            },
+            {
+                "code": "constantly_example_she-is-constantly-surprised-by-his-actions",
+                "text": "She is constantly surprised by his actions."
+            },
+            {
+                "code": "constantly_example_they-constantly-argue",
+                "text": "They constantly argue."
+            },
+            {
+                "code": "constantly_example_she-constantly-reminds-me-that-i-m-late",
+                "text": "She constantly reminds me that I'm late."
+            },
+            {
+                "code": "constantly_example_scientists-are-constantly-searching-for-proof",
+                "text": "Scientists are constantly searching for proof."
+            },
+            {
+                "code": "constantly_example_my-mother-constantly-talks-about-my-future",
+                "text": "My mother constantly talks about my future."
+            }
+        ]
+    }
+]

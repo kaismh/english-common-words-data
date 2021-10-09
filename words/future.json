@@ -1,0 +1,138 @@
+[
+    {
+        "type": "(n)",
+        "mean": "time that will come after the present time; events that will happen",
+        "examples": [
+            {
+                "code": "future_example_i-don-t-see-things-changing-in-the-near-future",
+                "text": "I don't see things changing in the near future."
+            },
+            {
+                "code": "future_example_he-s-always-thinking-about-the-distant-future",
+                "text": "He's always thinking about the distant future."
+            },
+            {
+                "code": "future_example_this-will-be-the-plan-for-the-indefinite-future",
+                "text": "This will be the plan for the indefinite future."
+            },
+            {
+                "code": "future_example_she-has-a-bright-future-ahead-of-her",
+                "text": "She has a bright future ahead of her."
+            },
+            {
+                "code": "future_example_he-wants-a-better-future-for-his-family",
+                "text": "He wants a better future for his family."
+            },
+            {
+                "code": "future_example_the-company-faces-an-uncertain-future",
+                "text": "The company faces an uncertain future."
+            },
+            {
+                "code": "future_example_the-country-s-financial-future-is-unknown",
+                "text": "The country's financial future is unknown."
+            },
+            {
+                "code": "future_example_he-nearly-threw-away-his-entire-future",
+                "text": "He nearly threw away his entire future."
+            },
+            {
+                "code": "future_example_she-is-trying-to-look-to-the-future",
+                "text": "She is trying to look to the future."
+            },
+            {
+                "code": "future_example_i-don-t-think-anyone-can-predict-the-future",
+                "text": "I don't think anyone can predict the future."
+            },
+            {
+                "code": "future_example_i-don-t-know-what-the-future-holds",
+                "text": "I don't know what the future holds."
+            },
+            {
+                "code": "future_example_what-will-the-future-bring",
+                "text": "What will the future bring?"
+            },
+            {
+                "code": "future_example_he-faces-a-bleak-future",
+                "text": "He faces a bleak future."
+            },
+            {
+                "code": "future_example_he-is-trying-to-create-a-better-future-for-his-family",
+                "text": "He is trying to create a better future for his family."
+            },
+            {
+                "code": "future_example_that-decision-shaped-his-political-future",
+                "text": "That decision shaped his political future."
+            },
+            {
+                "code": "future_example_their-careful-planning-guaranteed-a-successful-future-for-the-company",
+                "text": "Their careful planning guaranteed a successful future for the company."
+            },
+            {
+                "code": "future_example_they-are-trying-to-forecast-the-company-s-future",
+                "text": "They are trying to forecast the company's future."
+            },
+            {
+                "code": "future_example_he-is-considering-his-future-very-carefully",
+                "text": "He is considering his future very carefully."
+            },
+            {
+                "code": "future_example_they-met-to-discuss-her-future-in-academics",
+                "text": "They met to discuss her future in academics."
+            },
+            {
+                "code": "future_example_he-has-a-promising-future-in-politics",
+                "text": "He has a promising future in politics."
+            },
+            {
+                "code": "future_example_she-has-a-bright-future-as-a-lawyer",
+                "text": "She has a bright future as a lawyer."
+            }
+        ]
+    },
+    {
+        "type": "(adj)",
+        "mean": "happening or existing at a later time",
+        "examples": [
+            {
+                "code": "future_example_she-saved-the-information-for-future-research",
+                "text": "She saved the information for future research."
+            },
+            {
+                "code": "future_example_the-future-king-will-be-born-today",
+                "text": "The future king will be born today."
+            },
+            {
+                "code": "future_example_they-are-working-to-increase-future-profitability",
+                "text": "They are working to increase future profitability."
+            },
+            {
+                "code": "future_example_i-think-i-met-my-future-bride-yesterday",
+                "text": "I think I met my future bride yesterday."
+            },
+            {
+                "code": "future_example_how-will-this-decision-affect-future-generations",
+                "text": "How will this decision affect future generations?"
+            },
+            {
+                "code": "future_example_future-requirements-will-be-different",
+                "text": "Future requirements will be different."
+            },
+            {
+                "code": "future_example_future-versions-will-be-easier-to-use",
+                "text": "Future versions will be easier to use."
+            },
+            {
+                "code": "future_example_they-are-trying-to-prepare-for-future-disasters",
+                "text": "They are trying to prepare for future disasters."
+            },
+            {
+                "code": "future_example_they-are-planning-for-future-expansion",
+                "text": "They are planning for future expansion."
+            },
+            {
+                "code": "future_example_he-didn-t-consider-the-future-impact-of-his-decision",
+                "text": "He didn't consider the future impact of his decision."
+            }
+        ]
+    }
+]

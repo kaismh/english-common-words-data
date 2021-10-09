@@ -1,0 +1,48 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a side view of someone's face; a description",
+        "examples": [
+            {
+                "code": "profile_example_the-profile-fits-the-criminal",
+                "text": "The profile fits the criminal."
+            },
+            {
+                "code": "profile_example_she-was-asked-to-write-a-profile-of-the-actor",
+                "text": "She was asked to write a profile of the actor."
+            },
+            {
+                "code": "profile_example_the-art-class-examines-the-profile-of-the-model",
+                "text": "The art class examines the profile of the model."
+            },
+            {
+                "code": "profile_example_she-was-told-to-keep-a-low-profile",
+                "text": "She was told to keep a low profile."
+            },
+            {
+                "code": "profile_example_i-helped-my-friend-make-an-online-profile",
+                "text": "I helped my friend make an online profile."
+            },
+            {
+                "code": "profile_example_i-read-about-her-in-a-magazine-profile",
+                "text": "I read about her in a magazine profile."
+            },
+            {
+                "code": "profile_example_i-saw-his-criminal-profile",
+                "text": "I saw his criminal profile."
+            },
+            {
+                "code": "profile_example_the-doctors-are-studying-his-genetic-profile",
+                "text": "The doctors are studying his genetic profile."
+            },
+            {
+                "code": "profile_example_they-drew-the-model-in-profile",
+                "text": "They drew the model in profile."
+            },
+            {
+                "code": "profile_example_i-saw-a-police-profile-of-the-killer",
+                "text": "I saw a police profile of the killer."
+            }
+        ]
+    }
+]

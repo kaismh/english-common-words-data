@@ -1,0 +1,40 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to put money into something in order to make a profit; to put effort or time into something",
+        "examples": [
+            {
+                "code": "invest_example_the-company-invested-heavily-into-sales-and-marketing",
+                "text": "The company invested heavily into sales and marketing."
+            },
+            {
+                "code": "invest_example_he-personally-invested-100000-of-his-own-money",
+                "text": "He personally invested $100,000 of his own money."
+            },
+            {
+                "code": "invest_example_they-are-looking-to-invest-in-chinese-companies",
+                "text": "They are looking to invest in Chinese companies."
+            },
+            {
+                "code": "invest_example_he-is-willing-to-invest-in-the-same-company",
+                "text": "He is willing to invest in the same company."
+            },
+            {
+                "code": "invest_example_she-decided-to-invest-in-the-new-company",
+                "text": "She decided to invest in the new company."
+            },
+            {
+                "code": "invest_example_we-need-to-invest-for-our-future",
+                "text": "We need to invest for our future."
+            },
+            {
+                "code": "invest_example_he-wants-to-invest-in-the-new-startup-company",
+                "text": "He wants to invest in the new startup company."
+            },
+            {
+                "code": "invest_example_they-are-investing-lots-of-money-into-this-business-venture",
+                "text": "They are investing lots of money into this business venture."
+            }
+        ]
+    }
+]

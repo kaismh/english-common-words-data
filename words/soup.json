@@ -1,0 +1,48 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a liquid dish, typically made by boiling meat or vegetables",
+        "examples": [
+            {
+                "code": "soup_example_i-miss-my-mother-s-creamy-soup",
+                "text": "I miss my mother's creamy soup."
+            },
+            {
+                "code": "soup_example_the-doctor-said-he-can-only-eat-clear-soup-for-a-week",
+                "text": "The doctor said he can only eat clear soup for a week."
+            },
+            {
+                "code": "soup_example_he-really-likes-chicken-soup",
+                "text": "He really likes chicken soup."
+            },
+            {
+                "code": "soup_example_he-grew-up-eating-lots-of-canned-soup",
+                "text": "He grew up eating lots of canned soup."
+            },
+            {
+                "code": "soup_example_she-made-some-soup-for-me",
+                "text": "She made some soup for me."
+            },
+            {
+                "code": "soup_example_she-served-the-soup-in-large-mugs",
+                "text": "She served the soup in large mugs."
+            },
+            {
+                "code": "soup_example_she-told-him-to-stop-slurping-his-soup",
+                "text": "She told him to stop slurping his soup."
+            },
+            {
+                "code": "soup_example_she-put-out-soup-bowls-on-the-buffet-table",
+                "text": "She put out soup bowls on the buffet table."
+            },
+            {
+                "code": "soup_example_he-volunteers-for-a-soup-kitchen",
+                "text": "He volunteers for a soup kitchen."
+            },
+            {
+                "code": "soup_example_he-collects-soup-cans",
+                "text": "He collects soup cans."
+            }
+        ]
+    }
+]

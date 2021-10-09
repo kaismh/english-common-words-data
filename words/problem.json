@@ -1,0 +1,190 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "hard or difficult to handle",
+        "examples": [
+            {
+                "code": "problem_example_she-is-a-problem-child",
+                "text": "She is a problem child."
+            },
+            {
+                "code": "problem_example_he-needs-to-work-on-his-problem-areas",
+                "text": "He needs to work on his problem areas."
+            }
+        ]
+    },
+    {
+        "type": "(n)",
+        "mean": "something that is hard or difficult to handle; a question to solve or figure out",
+        "examples": [
+            {
+                "code": "problem_example_a-leaky-roof-is-a-big-problem",
+                "text": "A leaky roof is a big problem."
+            },
+            {
+                "code": "problem_example_he-was-trying-to-hide-the-real-problem",
+                "text": "He was trying to hide the real problem."
+            },
+            {
+                "code": "problem_example_we-have-a-minor-problem",
+                "text": "We have a minor problem."
+            },
+            {
+                "code": "problem_example_the-surgeons-were-faced-with-a-very-difficult-problem",
+                "text": "The surgeons were faced with a very difficult problem."
+            },
+            {
+                "code": "problem_example_unemployment-is-a-growing-problem",
+                "text": "Unemployment is a growing problem."
+            },
+            {
+                "code": "problem_example_the-main-problem-at-work-is-the-lack-of-motivation",
+                "text": "The main problem at work is the lack of motivation."
+            },
+            {
+                "code": "problem_example_he-does-not-understand-basic-problems",
+                "text": "He does not understand basic problems."
+            },
+            {
+                "code": "problem_example_doctors-are-trying-to-find-the-underlying-problem-that-is-causing-his-stomach-pains",
+                "text": "Doctors are trying to find the underlying problem that is causing his stomach pains."
+            },
+            {
+                "code": "problem_example_car-theft-is-a-common-problem-in-this-neighborhood",
+                "text": "Car theft is a common problem in this neighborhood."
+            },
+            {
+                "code": "problem_example_we-must-stop-any-possible-problems-from-happening",
+                "text": "We must stop any possible problems from happening."
+            },
+            {
+                "code": "problem_example_we-are-looking-into-the-unresolved-problems-again",
+                "text": "We are looking into the unresolved problems again."
+            },
+            {
+                "code": "problem_example_he-has-a-drinking-problem",
+                "text": "He has a drinking problem."
+            },
+            {
+                "code": "problem_example_i-don-t-want-to-hear-about-your-personal-problems",
+                "text": "I don't want to hear about your personal problems."
+            },
+            {
+                "code": "problem_example_she-is-having-financial-problems",
+                "text": "She is having financial problems."
+            },
+            {
+                "code": "problem_example_they-are-having-marital-problems",
+                "text": "They are having marital problems."
+            },
+            {
+                "code": "problem_example_he-can-solve-any-math-problem",
+                "text": "He can solve any math problem."
+            },
+            {
+                "code": "problem_example_i-wish-i-had-easy-problems",
+                "text": "I wish I had easy problems."
+            },
+            {
+                "code": "problem_example_the-lifelong-criminal-is-a-problem-to-society",
+                "text": "The lifelong criminal is a problem to society."
+            },
+            {
+                "code": "problem_example_she-developed-a-gambling-problem",
+                "text": "She developed a gambling problem."
+            },
+            {
+                "code": "problem_example_she-causes-problems-wherever-she-goes",
+                "text": "She causes problems wherever she goes."
+            },
+            {
+                "code": "problem_example_do-not-complicate-problems-with-rumors",
+                "text": "Do not complicate problems with rumors."
+            },
+            {
+                "code": "problem_example_he-is-faced-with-many-health-problems",
+                "text": "He is faced with many health problems."
+            },
+            {
+                "code": "problem_example_he-admitted-to-having-a-drinking-problem",
+                "text": "He admitted to having a drinking problem."
+            },
+            {
+                "code": "problem_example_i-understand-the-problem",
+                "text": "I understand the problem."
+            },
+            {
+                "code": "problem_example_do-you-anticipate-any-problems",
+                "text": "Do you anticipate any problems?"
+            },
+            {
+                "code": "problem_example_we-are-trying-to-identify-the-problem",
+                "text": "We are trying to identify the problem."
+            },
+            {
+                "code": "problem_example_the-alarm-indicated-a-problem",
+                "text": "The alarm indicated a problem."
+            },
+            {
+                "code": "problem_example_we-will-assess-the-problem-as-soon-as-possible",
+                "text": "We will assess the problem as soon as possible."
+            },
+            {
+                "code": "problem_example_the-doctors-are-trying-to-diagnose-the-problem",
+                "text": "The doctors are trying to diagnose the problem."
+            },
+            {
+                "code": "problem_example_let-s-discuss-the-problem",
+                "text": "Let's discuss the problem."
+            },
+            {
+                "code": "problem_example_describe-the-problem-to-me",
+                "text": "Describe the problem to me."
+            },
+            {
+                "code": "problem_example_there-is-no-way-to-avoid-the-problem",
+                "text": "There is no way to avoid the problem."
+            },
+            {
+                "code": "problem_example_how-can-we-solve-the-problem",
+                "text": "How can we solve the problem?"
+            },
+            {
+                "code": "problem_example_the-city-is-trying-to-ease-the-problem-of-traffic-congestion",
+                "text": "The city is trying to ease the problem of traffic congestion."
+            },
+            {
+                "code": "problem_example_health-problems-arise-more-often-in-the-elderly",
+                "text": "Health problems arise more often in the elderly."
+            },
+            {
+                "code": "problem_example_where-did-the-problem-begin",
+                "text": "Where did the problem begin?"
+            },
+            {
+                "code": "problem_example_she-is-working-on-her-problem-areas",
+                "text": "She is working on her problem areas."
+            },
+            {
+                "code": "problem_example_her-son-is-a-problem-child",
+                "text": "Her son is a problem child."
+            },
+            {
+                "code": "problem_example_she-has-a-problem-about-spending-too-much-money",
+                "text": "She has a problem about spending too much money."
+            },
+            {
+                "code": "problem_example_her-attitude-is-a-problem-for-the-teacher",
+                "text": "Her attitude is a problem for the teacher."
+            },
+            {
+                "code": "problem_example_she-has-a-problem-with-everyone",
+                "text": "She has a problem with everyone."
+            },
+            {
+                "code": "problem_example_how-are-we-going-to-solve-the-problem-of-unemployment",
+                "text": "How are we going to solve the problem of unemployment?"
+            }
+        ]
+    }
+]

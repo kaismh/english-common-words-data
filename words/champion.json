@@ -1,0 +1,44 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the winner of a competition; a hero",
+        "examples": [
+            {
+                "code": "champion_example_muhammad-ali-is-a-great-boxing-champion",
+                "text": "Muhammad Ali is a great boxing champion."
+            },
+            {
+                "code": "champion_example_he-is-the-supreme-champion",
+                "text": "He is the supreme champion."
+            },
+            {
+                "code": "champion_example_she-is-an-olympic-champion",
+                "text": "She is an Olympic champion."
+            },
+            {
+                "code": "champion_example_i-want-to-be-the-heavyweight-champion-of-the-world",
+                "text": "I want to be the heavyweight champion of the world."
+            },
+            {
+                "code": "champion_example_he-became-the-champion-last-year",
+                "text": "He became the champion last year."
+            },
+            {
+                "code": "champion_example_she-beat-the-reigning-champion",
+                "text": "She beat the reigning champion."
+            },
+            {
+                "code": "champion_example_this-match-will-determine-the-new-champion",
+                "text": "This match will determine the new champion."
+            },
+            {
+                "code": "champion_example_the-champions-will-defend-their-title",
+                "text": "The champions will defend their title."
+            },
+            {
+                "code": "champion_example_she-s-a-champion-fighter",
+                "text": "She's a champion fighter."
+            }
+        ]
+    }
+]

@@ -1,0 +1,102 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the business of buying and selling goods and services; a particular job using your hands or a machine",
+        "examples": [
+            {
+                "code": "trade_example_there-are-laws-to-maintain-fair-trade-between-countries",
+                "text": "There are laws to maintain fair trade between countries."
+            },
+            {
+                "code": "trade_example_foreign-trade-is-a-profitable-business",
+                "text": "Foreign trade is a profitable business."
+            },
+            {
+                "code": "trade_example_commercial-trade-is-widely-popular",
+                "text": "Commercial trade is widely popular."
+            },
+            {
+                "code": "trade_example_he-learned-his-skilled-trade-at-an-early-age",
+                "text": "He learned his skilled trade at an early age."
+            },
+            {
+                "code": "trade_example_that-s-a-hard-trade-to-learn",
+                "text": "That's a hard trade to learn."
+            },
+            {
+                "code": "trade_example_she-was-taught-a-simple-trade-in-order-to-make-some-money",
+                "text": "She was taught a simple trade in order to make some money."
+            },
+            {
+                "code": "trade_example_his-company-was-trying-to-boost-foreign-trade",
+                "text": "His company was trying to boost foreign trade."
+            },
+            {
+                "code": "trade_example_the-government-restricts-certain-types-of-trade",
+                "text": "The government restricts certain types of trade."
+            },
+            {
+                "code": "trade_example_he-learned-his-trade-from-his-father",
+                "text": "He learned his trade from his father."
+            },
+            {
+                "code": "trade_example_there-was-a-trade-war-between-the-two-countries",
+                "text": "There was a trade war between the two countries."
+            },
+            {
+                "code": "trade_example_trade-talks-are-not-going-well",
+                "text": "Trade talks are not going well."
+            },
+            {
+                "code": "trade_example_the-government-has-imposed-a-trade-boycott",
+                "text": "The government has imposed a trade boycott."
+            },
+            {
+                "code": "trade_example_did-the-countries-agree-to-a-trade-deal",
+                "text": "Did the countries agree to a trade deal?"
+            },
+            {
+                "code": "trade_example_they-are-investigating-the-country-s-trade-policies",
+                "text": "They are investigating the country's trade policies."
+            },
+            {
+                "code": "trade_example_we-are-attending-a-trade-show",
+                "text": "We are attending a trade show."
+            },
+            {
+                "code": "trade_example_he-is-in-the-agricultural-trade",
+                "text": "He is in the agricultural trade."
+            },
+            {
+                "code": "trade_example_trade-between-the-two-countries-is-currently-banned",
+                "text": "Trade between the two countries is currently banned."
+            },
+            {
+                "code": "trade_example_he-is-a-blacksmith-by-trade",
+                "text": "He is a blacksmith by trade."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to exchange one thing for another",
+        "examples": [
+            {
+                "code": "trade_example_they-freely-traded-in-stocks",
+                "text": "They freely traded in stocks."
+            },
+            {
+                "code": "trade_example_he-was-successfully-traded-to-a-better-team",
+                "text": "He was successfully traded to a better team."
+            },
+            {
+                "code": "trade_example_they-trade-stamps-with-each-other",
+                "text": "They trade stamps with each other."
+            },
+            {
+                "code": "trade_example_the-company-publicly-trades-in-stocks",
+                "text": "The company publicly trades in stocks."
+            }
+        ]
+    }
+]

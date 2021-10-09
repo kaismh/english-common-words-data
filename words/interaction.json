@@ -1,0 +1,40 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the act of communicating with each other",
+        "examples": [
+            {
+                "code": "interaction_example_i-prefer-direct-interactions-with-my-students",
+                "text": "I prefer direct interactions with my students."
+            },
+            {
+                "code": "interaction_example_children-need-physical-interactions",
+                "text": "Children need physical interactions."
+            },
+            {
+                "code": "interaction_example_i-had-a-strong-interaction-with-him",
+                "text": "I had a strong interaction with him."
+            },
+            {
+                "code": "interaction_example_dogs-love-human-interaction",
+                "text": "Dogs love human interaction."
+            },
+            {
+                "code": "interaction_example_social-interaction-among-the-employees-was-encouraged",
+                "text": "Social interaction among the employees was encouraged."
+            },
+            {
+                "code": "interaction_example_the-interaction-between-the-animals-was-interesting",
+                "text": "The interaction between the animals was interesting."
+            },
+            {
+                "code": "interaction_example_she-had-no-interaction-with-her-neighbors",
+                "text": "She had no interaction with her neighbors."
+            },
+            {
+                "code": "interaction_example_there-was-no-social-interaction-within-the-group",
+                "text": "There was no social interaction within the group."
+            }
+        ]
+    }
+]

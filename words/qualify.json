@@ -1,0 +1,28 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to reach a certain level that gives you the ability to do something",
+        "examples": [
+            {
+                "code": "qualify_example_he-failed-to-qualify-for-the-final-competition",
+                "text": "He failed to qualify for the final competition."
+            },
+            {
+                "code": "qualify_example_he-automatically-qualifies-for-free-health-care",
+                "text": "He automatically qualifies for free health care."
+            },
+            {
+                "code": "qualify_example_she-barely-qualifies-as-a-team-leader",
+                "text": "She barely qualifies as a team leader."
+            },
+            {
+                "code": "qualify_example_she-qualified-for-the-olympics",
+                "text": "She qualified for the Olympics."
+            },
+            {
+                "code": "qualify_example_she-doesn-t-qualify-as-a-citizen",
+                "text": "She doesn't qualify as a citizen."
+            }
+        ]
+    }
+]

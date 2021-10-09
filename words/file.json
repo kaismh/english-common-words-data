@@ -1,0 +1,246 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a collection of papers or documents, usually in a folder or box; digital information",
+        "examples": [
+            {
+                "code": "file_example_he-has-a-pile-of-thick-files-on-his-desk",
+                "text": "He has a pile of thick files on his desk."
+            },
+            {
+                "code": "file_example_she-is-reviewing-the-official-files",
+                "text": "She is reviewing the official files."
+            },
+            {
+                "code": "file_example_they-spent-all-day-organizing-case-files",
+                "text": "They spent all day organizing case files."
+            },
+            {
+                "code": "file_example_he-had-to-search-the-court-files-for-the-information-he-needed",
+                "text": "He had to search the court files for the information he needed."
+            },
+            {
+                "code": "file_example_i-never-received-his-medical-files",
+                "text": "I never received his medical files."
+            },
+            {
+                "code": "file_example_i-can-t-e-mail-a-large-file",
+                "text": "I can't e-mail a large file."
+            },
+            {
+                "code": "file_example_i-converted-the-document-to-a-computer-file",
+                "text": "I converted the document to a computer file."
+            },
+            {
+                "code": "file_example_how-do-i-create-a-new-data-file",
+                "text": "How do I create a new data file?"
+            },
+            {
+                "code": "file_example_download-the-program-file-and-install-it",
+                "text": "Download the program file and install it."
+            },
+            {
+                "code": "file_example_i-cannot-open-this-audio-file",
+                "text": "I cannot open this audio file."
+            },
+            {
+                "code": "file_example_send-me-a-pdf-file",
+                "text": "Send me a PDF file."
+            },
+            {
+                "code": "file_example_do-you-have-the-master-file",
+                "text": "Do you have the master file?"
+            },
+            {
+                "code": "file_example_we-need-to-remove-the-infected-file",
+                "text": "We need to remove the infected file."
+            },
+            {
+                "code": "file_example_the-school-has-attendance-files-on-all-students",
+                "text": "The school has attendance files on all students."
+            },
+            {
+                "code": "file_example_he-compiled-the-files-before-the-hearing",
+                "text": "He compiled the files before the hearing."
+            },
+            {
+                "code": "file_example_the-police-opened-a-file-on-the-murder",
+                "text": "The police opened a file on the murder."
+            },
+            {
+                "code": "file_example_we-need-to-update-your-employment-file",
+                "text": "We need to update your employment file."
+            },
+            {
+                "code": "file_example_they-are-reviewing-the-file-for-each-candidate",
+                "text": "They are reviewing the file for each candidate."
+            },
+            {
+                "code": "file_example_we-need-to-pull-the-files-for-these-students",
+                "text": "We need to pull the files for these students."
+            },
+            {
+                "code": "file_example_he-was-accused-of-destroying-important-files",
+                "text": "He was accused of destroying important files."
+            },
+            {
+                "code": "file_example_your-personnel-file-contains-a-lot-of-outdated-information",
+                "text": "Your personnel file contains a lot of outdated information."
+            },
+            {
+                "code": "file_example_we-need-to-create-a-file-with-this-information",
+                "text": "We need to create a file with this information."
+            },
+            {
+                "code": "file_example_i-uploaded-the-file",
+                "text": "I uploaded the file."
+            },
+            {
+                "code": "file_example_i-really-need-the-information-stored-in-this-file",
+                "text": "I really need the information stored in this file."
+            },
+            {
+                "code": "file_example_i-can-t-open-this-file",
+                "text": "I can't open this file."
+            },
+            {
+                "code": "file_example_we-need-to-back-up-the-file",
+                "text": "We need to back up the file."
+            },
+            {
+                "code": "file_example_i-accidentally-deleted-the-file",
+                "text": "I accidentally deleted the file."
+            },
+            {
+                "code": "file_example_he-helped-me-recover-the-file",
+                "text": "He helped me recover the file."
+            },
+            {
+                "code": "file_example_he-encrypted-the-file",
+                "text": "He encrypted the file."
+            },
+            {
+                "code": "file_example_this-room-contains-all-of-the-file-cabinets",
+                "text": "This room contains all of the file cabinets."
+            },
+            {
+                "code": "file_example_she-has-a-pile-of-files-on-her-desk",
+                "text": "She has a pile of files on her desk."
+            },
+            {
+                "code": "file_example_i-need-to-get-more-file-folders",
+                "text": "I need to get more file folders."
+            },
+            {
+                "code": "file_example_he-changed-the-file-name",
+                "text": "He changed the file name."
+            },
+            {
+                "code": "file_example_i-can-t-access-the-file-server",
+                "text": "I can't access the file server."
+            },
+            {
+                "code": "file_example_make-sure-the-file-extension-is-correct",
+                "text": "Make sure the file extension is correct."
+            },
+            {
+                "code": "file_example_the-file-transfer-will-take-all-night",
+                "text": "The file transfer will take all night."
+            },
+            {
+                "code": "file_example_there-is-a-lot-of-information-in-that-file",
+                "text": "There is a lot of information in that file."
+            },
+            {
+                "code": "file_example_they-will-keep-my-resume-on-file",
+                "text": "They will keep my resume on file."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to put information together; to organize; to record officially; to submit; to walk in a line",
+        "examples": [
+            {
+                "code": "file_example_the-records-are-filed-alphabetically",
+                "text": "The records are filed alphabetically."
+            },
+            {
+                "code": "file_example_he-mentally-filed-away-that-bit-of-information",
+                "text": "He mentally filed away that bit of information."
+            },
+            {
+                "code": "file_example_she-filed-away-her-notes-for-future-use",
+                "text": "She filed away her notes for future use."
+            },
+            {
+                "code": "file_example_they-formally-filed-a-complaint-against-his-boss",
+                "text": "They formally filed a complaint against his boss."
+            },
+            {
+                "code": "file_example_they-silently-filed-out-of-the-room",
+                "text": "They silently filed out of the room."
+            },
+            {
+                "code": "file_example_they-filed-past-the-memorial",
+                "text": "They filed past the memorial."
+            },
+            {
+                "code": "file_example_people-filed-out-of-the-theater",
+                "text": "People filed out of the theater."
+            },
+            {
+                "code": "file_example_that-is-filed-under-history",
+                "text": "That is filed under history."
+            },
+            {
+                "code": "file_example_they-are-filed-by-last-name",
+                "text": "They are filed by last name."
+            },
+            {
+                "code": "file_example_they-filed-for-a-marriage-license",
+                "text": "They filed for a marriage license."
+            },
+            {
+                "code": "file_example_she-filed-a-complaint-with-her-manager",
+                "text": "She filed a complaint with her manager."
+            },
+            {
+                "code": "file_example_the-students-filed-into-the-auditorium",
+                "text": "The students filed into the auditorium."
+            },
+            {
+                "code": "file_example_thousands-of-people-file-through-the-train-station-every-day",
+                "text": "Thousands of people file through the train station every day."
+            },
+            {
+                "code": "file_example_the-attorney-filed-the-case",
+                "text": "The attorney filed the case."
+            },
+            {
+                "code": "file_example_they-filed-an-appeal-with-the-court",
+                "text": "They filed an appeal with the court."
+            },
+            {
+                "code": "file_example_she-filed-the-application-for-her-visa",
+                "text": "She filed the application for her visa."
+            },
+            {
+                "code": "file_example_he-filed-a-complaint-with-the-police",
+                "text": "He filed a complaint with the police."
+            },
+            {
+                "code": "file_example_he-filed-for-a-patent-on-his-invention",
+                "text": "He filed for a patent on his invention."
+            },
+            {
+                "code": "file_example_she-filed-the-registration-for-her-car",
+                "text": "She filed the registration for her car."
+            },
+            {
+                "code": "file_example_she-filed-the-papers-before-going-home",
+                "text": "She filed the papers before going home."
+            }
+        ]
+    }
+]

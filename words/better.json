@@ -1,0 +1,58 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "higher in quality; improving in health",
+        "examples": [
+            {
+                "code": "better_example_this-sofa-feels-better-than-our-old-one",
+                "text": "This sofa feels better than our old one."
+            },
+            {
+                "code": "better_example_they-make-better-computers",
+                "text": "They make better computers."
+            },
+            {
+                "code": "better_example_she-was-considered-to-be-the-better-candidate",
+                "text": "She was considered to be the better candidate."
+            },
+            {
+                "code": "better_example_you-look-better-today",
+                "text": "You look better today."
+            },
+            {
+                "code": "better_example_hopefully-things-will-get-better-with-time",
+                "text": "Hopefully, things will get better with time."
+            },
+            {
+                "code": "better_example_she-is-feeling-considerably-better-after-the-surgery",
+                "text": "She is feeling considerably better after the surgery."
+            },
+            {
+                "code": "better_example_my-brother-is-far-better-than-me-at-art",
+                "text": "My brother is far better than me at art."
+            },
+            {
+                "code": "better_example_we-did-slightly-better-this-time",
+                "text": "We did slightly better this time."
+            }
+        ]
+    },
+    {
+        "type": "(adv)",
+        "mean": "of a higher quality; of an improved health",
+        "examples": [
+            {
+                "code": "better_example_i-am-better-able-to-help-you-now",
+                "text": "I am better able to help you now."
+            },
+            {
+                "code": "better_example_how-can-i-better-serve-you",
+                "text": "How can I better serve you?"
+            },
+            {
+                "code": "better_example_how-can-i-better-understand-what-is-going-on",
+                "text": "How can I better understand what is going on?"
+            }
+        ]
+    }
+]

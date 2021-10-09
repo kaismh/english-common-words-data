@@ -1,0 +1,40 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "certain that you are right",
+        "examples": [
+            {
+                "code": "sure_example_are-you-absolutely-sure-he-s-the-one-who-stole-your-purse",
+                "text": "Are you absolutely sure he's the one who stole your purse?"
+            },
+            {
+                "code": "sure_example_i-am-completely-sure-about-wanting-to-sell-my-house",
+                "text": "I am completely sure about wanting to sell my house."
+            },
+            {
+                "code": "sure_example_i-am-not-entirely-sure-i-know-what-to-do",
+                "text": "I am not entirely sure I know what to do."
+            },
+            {
+                "code": "sure_example_she-is-almost-sure-she-passed-the-test",
+                "text": "She is almost sure she passed the test."
+            },
+            {
+                "code": "sure_example_he-is-sure-about-his-test-answers",
+                "text": "He is sure about his test answers."
+            },
+            {
+                "code": "sure_example_she-does-not-sound-really-sure-about-what-happened",
+                "text": "She does not sound really sure about what happened."
+            },
+            {
+                "code": "sure_example_make-sure-she-doesn-t-find-out-about-the-surprise-party",
+                "text": "Make sure she doesn't find out about the surprise party."
+            },
+            {
+                "code": "sure_example_she-was-sure-about-her-decision",
+                "text": "She was sure about her decision."
+            }
+        ]
+    }
+]

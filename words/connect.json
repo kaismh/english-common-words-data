@@ -1,0 +1,36 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to bring together or join",
+        "examples": [
+            {
+                "code": "connect_example_please-directly-connect-the-power-cord-to-the-machine",
+                "text": "Please directly connect the power cord to the machine."
+            },
+            {
+                "code": "connect_example_you-can-wirelessly-connect-to-the-internet",
+                "text": "You can wirelessly connect to the internet."
+            },
+            {
+                "code": "connect_example_you-need-to-physically-connect-the-two-cables",
+                "text": "You need to physically connect the two cables."
+            },
+            {
+                "code": "connect_example_their-stories-are-closely-connected",
+                "text": "Their stories are closely connected."
+            },
+            {
+                "code": "connect_example_connect-the-cable-line-to-your-television",
+                "text": "Connect the cable line to your television."
+            },
+            {
+                "code": "connect_example_a-bridge-connects-the-old-building-with-the-new-building",
+                "text": "A bridge connects the old building with the new building."
+            },
+            {
+                "code": "connect_example_remember-to-connect-the-battery",
+                "text": "Remember to connect the battery."
+            }
+        ]
+    }
+]

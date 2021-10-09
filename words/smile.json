@@ -1,0 +1,94 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to express happiness by turning the mouth up at the corners",
+        "examples": [
+            {
+                "code": "smile_example_he-smiled-widely-when-he-saw-her",
+                "text": "He smiled widely when he saw her."
+            },
+            {
+                "code": "smile_example_she-smiled-politely-to-all-the-guests",
+                "text": "She smiled politely to all the guests."
+            },
+            {
+                "code": "smile_example_his-parents-smiled-reassuringly",
+                "text": "His parents smiled reassuringly."
+            },
+            {
+                "code": "smile_example_i-simply-smiled-at-her",
+                "text": "I simply smiled at her."
+            },
+            {
+                "code": "smile_example_she-smiled-back-when-i-said-hello",
+                "text": "She smiled back when I said hello."
+            },
+            {
+                "code": "smile_example_every-time-i-see-him-he-is-always-smiling",
+                "text": "Every time I see him, he is always smiling."
+            },
+            {
+                "code": "smile_example_he-was-trying-to-smile-even-though-he-wasn-t-happy",
+                "text": "He was trying to smile even though he wasn't happy."
+            },
+            {
+                "code": "smile_example_that-song-always-makes-her-smile",
+                "text": "That song always makes her smile."
+            },
+            {
+                "code": "smile_example_she-looked-up-and-smiled-at-me",
+                "text": "She looked up and smiled at me."
+            },
+            {
+                "code": "smile_example_when-she-saw-him-she-smiled-with-excitement",
+                "text": "When she saw him, she smiled with excitement."
+            }
+        ]
+    },
+    {
+        "type": "(n)",
+        "mean": "a happy facial expression with the corners of the mouth up",
+        "examples": [
+            {
+                "code": "smile_example_she-gave-us-a-big-smile-on-stage",
+                "text": "She gave us a big smile on stage."
+            },
+            {
+                "code": "smile_example_the-little-girl-has-a-beautiful-smile",
+                "text": "The little girl has a beautiful smile."
+            },
+            {
+                "code": "smile_example_he-walked-in-with-a-fake-smile-on-his-face",
+                "text": "He walked in with a fake smile on his face."
+            },
+            {
+                "code": "smile_example_she-always-has-a-cheerful-smile-on-her-face",
+                "text": "She always has a cheerful smile on her face."
+            },
+            {
+                "code": "smile_example_he-never-cracks-a-smile",
+                "text": "He never cracks a smile."
+            },
+            {
+                "code": "smile_example_she-managed-a-weak-smile",
+                "text": "She managed a weak smile."
+            },
+            {
+                "code": "smile_example_they-tried-to-hide-their-smiles",
+                "text": "They tried to hide their smiles."
+            },
+            {
+                "code": "smile_example_her-smile-lights-up-the-room",
+                "text": "Her smile lights up the room."
+            },
+            {
+                "code": "smile_example_she-welcomed-everyone-with-a-smile",
+                "text": "She welcomed everyone with a smile."
+            },
+            {
+                "code": "smile_example_my-father-gave-me-a-smile-of-approval",
+                "text": "My father gave me a smile of approval."
+            }
+        ]
+    }
+]

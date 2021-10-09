@@ -1,0 +1,50 @@
+[
+    {
+        "type": "(n)",
+        "mean": "new person in a job",
+        "examples": [
+            {
+                "code": "hire_example_she-is-meeting-with-the-new-hires",
+                "text": "She is meeting with the new hires."
+            },
+            {
+                "code": "hire_example_she-is-interviewing-potential-hires-for-the-job",
+                "text": "She is interviewing potential hires for the job."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to give someone a job",
+        "examples": [
+            {
+                "code": "hire_example_they-hire-landscape-workers-by-the-day",
+                "text": "They hire landscape workers by the day."
+            },
+            {
+                "code": "hire_example_we-prefer-to-hire-internally-if-at-all-possible",
+                "text": "We prefer to hire internally if at all possible."
+            },
+            {
+                "code": "hire_example_we-cannot-afford-to-hire-expensive-contractors",
+                "text": "We cannot afford to hire expensive contractors."
+            },
+            {
+                "code": "hire_example_they-hired-a-new-actor-for-the-part",
+                "text": "They hired a new actor for the part."
+            },
+            {
+                "code": "hire_example_she-hired-an-agent",
+                "text": "She hired an agent."
+            },
+            {
+                "code": "hire_example_they-need-to-hire-a-lawyer",
+                "text": "They need to hire a lawyer."
+            },
+            {
+                "code": "hire_example_he-s-in-charge-of-hiring-new-employees",
+                "text": "He's in charge of hiring new employees."
+            }
+        ]
+    }
+]

@@ -1,0 +1,100 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a political position; a place to do work",
+        "examples": [
+            {
+                "code": "office_example_i-called-the-office",
+                "text": "I called the office."
+            },
+            {
+                "code": "office_example_she-manages-the-office",
+                "text": "She manages the office."
+            },
+            {
+                "code": "office_example_the-office-opens-at-eight",
+                "text": "The office opens at eight."
+            },
+            {
+                "code": "office_example_he-arrived-at-the-office-late",
+                "text": "He arrived at the office late."
+            },
+            {
+                "code": "office_example_he-resigned-from-office",
+                "text": "He resigned from office."
+            },
+            {
+                "code": "office_example_she-ran-for-office-last-year",
+                "text": "She ran for office last year."
+            },
+            {
+                "code": "office_example_he-was-appointed-to-office-by-the-president",
+                "text": "He was appointed to office by the president."
+            },
+            {
+                "code": "office_example_i-got-an-office-job",
+                "text": "I got an office job."
+            },
+            {
+                "code": "office_example_the-office-staff-is-very-helpful",
+                "text": "The office staff is very helpful."
+            },
+            {
+                "code": "office_example_what-are-the-office-hours",
+                "text": "What are the office hours?"
+            },
+            {
+                "code": "office_example_i-don-t-get-involved-in-office-politics",
+                "text": "I don't get involved in office politics."
+            },
+            {
+                "code": "office_example_i-like-doing-office-work",
+                "text": "I like doing office work."
+            },
+            {
+                "code": "office_example_he-is-an-office-worker",
+                "text": "He is an office worker."
+            },
+            {
+                "code": "office_example_we-need-new-office-computers",
+                "text": "We need new office computers."
+            },
+            {
+                "code": "office_example_he-works-at-the-central-office",
+                "text": "He works at the central office."
+            },
+            {
+                "code": "office_example_she-manages-a-busy-office",
+                "text": "She manages a busy office."
+            },
+            {
+                "code": "office_example_i-went-to-the-dentist-s-office",
+                "text": "I went to the dentist's office."
+            },
+            {
+                "code": "office_example_she-used-to-hold-an-important-office",
+                "text": "She used to hold an important office."
+            },
+            {
+                "code": "office_example_he-holds-government-office",
+                "text": "He holds government office."
+            },
+            {
+                "code": "office_example_he-runs-a-sales-office",
+                "text": "He runs a sales office."
+            },
+            {
+                "code": "office_example_she-has-a-huge-office",
+                "text": "She has a huge office."
+            },
+            {
+                "code": "office_example_i-will-see-you-at-the-office",
+                "text": "I will see you at the office."
+            },
+            {
+                "code": "office_example_he-still-has-two-more-years-in-office",
+                "text": "He still has two more years in office."
+            }
+        ]
+    }
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a natural stream of fresh water that flows into the ocean",
+        "examples": [
+            {
+                "code": "river_example_we-crossed-the-river",
+                "text": "We crossed the river."
+            },
+            {
+                "code": "river_example_the-river-is-flowing",
+                "text": "The river is flowing."
+            },
+            {
+                "code": "river_example_we-took-the-river-boat",
+                "text": "We took the river boat."
+            },
+            {
+                "code": "river_example_we-walked-along-the-river-bank",
+                "text": "We walked along the river bank."
+            },
+            {
+                "code": "river_example_the-river-basin-is-dry",
+                "text": "The river basin is dry."
+            },
+            {
+                "code": "river_example_the-river-water-is-rising",
+                "text": "The river water is rising."
+            },
+            {
+                "code": "river_example_this-is-a-shallow-river",
+                "text": "This is a shallow river."
+            },
+            {
+                "code": "river_example_we-walked-along-the-river",
+                "text": "We walked along the river."
+            },
+            {
+                "code": "river_example_they-swam-across-the-river",
+                "text": "They swam across the river."
+            },
+            {
+                "code": "river_example_she-jumped-into-the-river",
+                "text": "She jumped into the river."
+            },
+            {
+                "code": "river_example_the-boat-is-on-the-river",
+                "text": "The boat is on the river."
+            }
+        ]
+    }
+]

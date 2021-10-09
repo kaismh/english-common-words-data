@@ -1,0 +1,88 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "having the color of a tomato or blood",
+        "examples": [
+            {
+                "code": "red_example_we-painted-the-house-red",
+                "text": "We painted the house red."
+            },
+            {
+                "code": "red_example_his-face-is-red",
+                "text": "His face is red."
+            },
+            {
+                "code": "red_example_the-dress-was-dark-red",
+                "text": "The dress was dark red."
+            },
+            {
+                "code": "red_example_her-lipstick-is-very-red",
+                "text": "Her lipstick is very red."
+            },
+            {
+                "code": "red_example_her-face-turned-completely-red-from-embarrassment",
+                "text": "Her face turned completely red from embarrassment."
+            },
+            {
+                "code": "red_example_her-face-turned-red-from-embarrassment",
+                "text": "Her face turned red from embarrassment."
+            },
+            {
+                "code": "red_example_she-has-red-hair",
+                "text": "She has red hair."
+            },
+            {
+                "code": "red_example_the-recipe-uses-red-cabbage",
+                "text": "The recipe uses red cabbage."
+            },
+            {
+                "code": "red_example_i-like-red-apples-better-than-green",
+                "text": "I like red apples better than green."
+            },
+            {
+                "code": "red_example_he-sent-me-a-dozen-red-roses",
+                "text": "He sent me a dozen red roses."
+            },
+            {
+                "code": "red_example_red-meat-is-full-of-iron",
+                "text": "Red meat is full of iron."
+            },
+            {
+                "code": "red_example_we-drank-a-bottle-of-red-wine",
+                "text": "We drank a bottle of red wine."
+            },
+            {
+                "code": "red_example_she-marked-all-over-my-paper-with-red-ink",
+                "text": "She marked all over my paper with red ink."
+            },
+            {
+                "code": "red_example_teachers-often-use-red-pens-to-correct-student-work",
+                "text": "Teachers often use red pens to correct student work."
+            },
+            {
+                "code": "red_example_he-built-the-pot-with-red-clay",
+                "text": "He built the pot with red clay."
+            },
+            {
+                "code": "red_example_her-cheeks-turned-red-from-embarrassment",
+                "text": "Her cheeks turned red from embarrassment."
+            },
+            {
+                "code": "red_example_he-rolled-out-the-red-carpet-for-us",
+                "text": "He rolled out the red carpet for us."
+            },
+            {
+                "code": "red_example_you-need-to-stop-at-the-red-light",
+                "text": "You need to stop at the red light."
+            },
+            {
+                "code": "red_example_his-eyes-are-red-from-lack-of-sleep",
+                "text": "His eyes are red from lack of sleep."
+            },
+            {
+                "code": "red_example_there-is-red-dye-in-this-soda",
+                "text": "There is red dye in this soda."
+            }
+        ]
+    }
+]

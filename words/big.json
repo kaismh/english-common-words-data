@@ -1,0 +1,76 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "large",
+        "examples": [
+            {
+                "code": "big_example_your-house-looks-big",
+                "text": "Your house looks big."
+            },
+            {
+                "code": "big_example_he-has-big-eyes",
+                "text": "He has big eyes."
+            },
+            {
+                "code": "big_example_our-neighborhood-has-gotten-too-big",
+                "text": "Our neighborhood has gotten too big."
+            },
+            {
+                "code": "big_example_this-news-is-incredibly-big",
+                "text": "This news is incredibly big."
+            },
+            {
+                "code": "big_example_these-pants-are-too-big",
+                "text": "These pants are too big."
+            },
+            {
+                "code": "big_example_that-is-a-big-accomplishment-for-her",
+                "text": "That is a big accomplishment for her."
+            },
+            {
+                "code": "big_example_this-was-a-big-advantage-to-the-company",
+                "text": "This was a big advantage to the company."
+            },
+            {
+                "code": "big_example_you-have-a-big-appetite-for-someone-so-small",
+                "text": "You have a big appetite for someone so small."
+            },
+            {
+                "code": "big_example_we-had-a-big-argument",
+                "text": "We had a big argument."
+            },
+            {
+                "code": "big_example_he-s-a-big-baby",
+                "text": "He's a big baby!"
+            },
+            {
+                "code": "big_example_you-made-big-mistake",
+                "text": "You made big mistake!"
+            },
+            {
+                "code": "big_example_he-received-a-big-bonus",
+                "text": "He received a big bonus."
+            },
+            {
+                "code": "big_example_they-organized-a-big-celebration",
+                "text": "They organized a big celebration."
+            },
+            {
+                "code": "big_example_he-took-a-big-chance",
+                "text": "He took a big chance."
+            },
+            {
+                "code": "big_example_there-is-a-big-difference-between-us",
+                "text": "There is a big difference between us."
+            },
+            {
+                "code": "big_example_i-gave-him-a-big-hug",
+                "text": "I gave him a big hug!"
+            },
+            {
+                "code": "big_example_it-was-a-big-disaster",
+                "text": "It was a big disaster."
+            }
+        ]
+    }
+]

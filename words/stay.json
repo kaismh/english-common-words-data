@@ -1,0 +1,98 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to remain in the same place",
+        "examples": [
+            {
+                "code": "stay_example_i-had-to-stay-behind-to-take-care-of-the-dogs",
+                "text": "I had to stay behind to take care of the dogs."
+            },
+            {
+                "code": "stay_example_her-son-s-shoes-would-not-stay-on",
+                "text": "Her son's shoes would not stay on."
+            },
+            {
+                "code": "stay_example_can-you-stay-here-for-a-few-minutes",
+                "text": "Can you stay here for a few minutes?"
+            },
+            {
+                "code": "stay_example_they-always-stay-late",
+                "text": "They always stay late."
+            },
+            {
+                "code": "stay_example_let-s-stay-together",
+                "text": "Let's stay together."
+            },
+            {
+                "code": "stay_example_we-decided-to-stay-overnight",
+                "text": "We decided to stay overnight."
+            },
+            {
+                "code": "stay_example_she-just-could-not-stay-away",
+                "text": "She just could not stay away."
+            },
+            {
+                "code": "stay_example_she-allowed-him-to-stay-for-a-few-more-days",
+                "text": "She allowed him to stay for a few more days."
+            },
+            {
+                "code": "stay_example_she-let-him-stay-with-her",
+                "text": "She let him stay with her."
+            },
+            {
+                "code": "stay_example_we-stayed-for-the-whole-concert",
+                "text": "We stayed for the whole concert."
+            },
+            {
+                "code": "stay_example_i-m-staying-in-a-hotel",
+                "text": "I'm staying in a hotel."
+            },
+            {
+                "code": "stay_example_she-is-going-to-stay-until-saturday",
+                "text": "She is going to stay until Saturday."
+            },
+            {
+                "code": "stay_example_she-wanted-him-to-stay-with-her",
+                "text": "She wanted him to stay with her."
+            }
+        ]
+    },
+    {
+        "type": "(n)",
+        "mean": "a period of time that someone visits a place",
+        "examples": [
+            {
+                "code": "stay_example_he-had-a-lengthy-stay-in-italy-for-work",
+                "text": "He had a lengthy stay in Italy for work."
+            },
+            {
+                "code": "stay_example_our-family-had-an-enjoyable-stay-in-hawaii",
+                "text": "Our family had an enjoyable stay in Hawaii."
+            },
+            {
+                "code": "stay_example_we-had-an-overnight-stay-at-a-luxury-hotel",
+                "text": "We had an overnight stay at a luxury hotel."
+            },
+            {
+                "code": "stay_example_how-was-your-hospital-stay",
+                "text": "How was your hospital stay?"
+            },
+            {
+                "code": "stay_example_they-enjoyed-their-stay-in-japan",
+                "text": "They enjoyed their stay in Japan."
+            },
+            {
+                "code": "stay_example_she-extended-her-stay-by-a-week",
+                "text": "She extended her stay by a week."
+            },
+            {
+                "code": "stay_example_we-met-with-old-friends-during-our-stay",
+                "text": "We met with old friends during our stay."
+            },
+            {
+                "code": "stay_example_it-rained-daily-throughout-our-stay",
+                "text": "It rained daily throughout our stay."
+            }
+        ]
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to put something with something else",
+        "examples": [
+            {
+                "code": "add_example_he-thoughtfully-added-i-love-you",
+                "text": "He thoughtfully added 'I love you.'"
+            },
+            {
+                "code": "add_example_she-quickly-added-the-remaining-ingredients",
+                "text": "She quickly added the remaining ingredients."
+            },
+            {
+                "code": "add_example_the-preschooler-masterfully-added-2-and-2",
+                "text": "The preschooler masterfully added 2 and 2."
+            },
+            {
+                "code": "add_example_please-add-your-comments-at-the-bottom",
+                "text": "Please add your comments at the bottom."
+            },
+            {
+                "code": "add_example_add-the-numbers-together-for-the-total",
+                "text": "Add the numbers together for the total."
+            },
+            {
+                "code": "add_example_try-adding-more-salt-to-the-soup",
+                "text": "Try adding more salt to the soup."
+            },
+            {
+                "code": "add_example_let-s-add-chairs-to-the-room",
+                "text": "Let's add chairs to the room."
+            },
+            {
+                "code": "add_example_he-cannot-add-yet",
+                "text": "He cannot add yet."
+            },
+            {
+                "code": "add_example_you-should-add-more-salt-it-s-bland",
+                "text": "You should add more salt. It's bland."
+            }
+        ]
+    }
+]

@@ -1,0 +1,78 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to express something with words",
+        "examples": [
+            {
+                "code": "state_example_he-clearly-stated-his-reasons-for-leaving",
+                "text": "He clearly stated his reasons for leaving."
+            },
+            {
+                "code": "state_example_the-boy-proudly-stated-his-name",
+                "text": "The boy proudly stated his name."
+            },
+            {
+                "code": "state_example_the-facts-were-exactly-stated-in-the-document",
+                "text": "The facts were exactly stated in the document."
+            },
+            {
+                "code": "state_example_he-stated-his-views-openly",
+                "text": "He stated his views openly."
+            },
+            {
+                "code": "state_example_i-am-simply-stating-my-opinion",
+                "text": "I am simply stating my opinion."
+            },
+            {
+                "code": "state_example_he-briefly-stated-his-views",
+                "text": "He briefly stated his views."
+            },
+            {
+                "code": "state_example_the-committee-failed-to-state-their-reasons-for-the-decision",
+                "text": "The committee failed to state their reasons for the decision."
+            }
+        ]
+    },
+    {
+        "type": "(n)",
+        "mean": "a particular condition someone or something is in",
+        "examples": [
+            {
+                "code": "state_example_our-finances-are-in-a-healthy-state",
+                "text": "Our finances are in a healthy state."
+            },
+            {
+                "code": "state_example_residents-have-been-complaining-about-the-awful-state-of-their-living-conditions",
+                "text": "Residents have been complaining about the awful state of their living conditions."
+            },
+            {
+                "code": "state_example_she-is-in-a-terrible-emotional-state",
+                "text": "She is in a terrible emotional state."
+            },
+            {
+                "code": "state_example_he-needs-to-get-out-of-his-present-state",
+                "text": "He needs to get out of his present state."
+            },
+            {
+                "code": "state_example_how-can-you-continue-to-live-in-this-present-state",
+                "text": "How can you continue to live in this present state."
+            },
+            {
+                "code": "state_example_can-you-describe-your-current-financial-state",
+                "text": "Can you describe your current financial state?"
+            },
+            {
+                "code": "state_example_she-was-in-a-terrible-state-after-the-accident",
+                "text": "She was in a terrible state after the accident."
+            },
+            {
+                "code": "state_example_my-grandfather-fell-into-a-state-of-depression-after-my-grandmother-passed-away",
+                "text": "My grandfather fell into a state of depression after my grandmother passed away."
+            },
+            {
+                "code": "state_example_he-is-in-a-state-of-denial",
+                "text": "He is in a state of denial."
+            }
+        ]
+    }
+]

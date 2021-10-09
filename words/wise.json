@@ -1,0 +1,40 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "showing good judgment or making sensible decisions",
+        "examples": [
+            {
+                "code": "wise_example_he-is-very-wise",
+                "text": "He is very wise."
+            },
+            {
+                "code": "wise_example_it-is-always-wise-to-think-twice-before-doing-something-dangerous",
+                "text": "It is always wise to think twice before doing something dangerous."
+            },
+            {
+                "code": "wise_example_she-is-wise",
+                "text": "She is wise."
+            },
+            {
+                "code": "wise_example_i-have-become-wise-with-age",
+                "text": "I have become wise with age."
+            },
+            {
+                "code": "wise_example_i-consider-it-wise-to-get-a-second-opinion",
+                "text": "I consider it wise to get a second opinion."
+            },
+            {
+                "code": "wise_example_a-wise-person-once-told-me-don-t-judge-a-book-by-its-cover",
+                "text": "A wise person once told me 'Don't judge a book by its cover.'"
+            },
+            {
+                "code": "wise_example_i-have-a-very-wise-grandfather",
+                "text": "I have a very wise grandfather."
+            },
+            {
+                "code": "wise_example_do-you-know-the-story-of-the-three-wise-men",
+                "text": "Do you know the story of the Three Wise Men?"
+            }
+        ]
+    }
+]

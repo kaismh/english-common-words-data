@@ -1,0 +1,36 @@
+[
+    {
+        "type": "(n)",
+        "mean": "schoolwork given by teachers to be done at home",
+        "examples": [
+            {
+                "code": "homework_example_i-have-too-much-english-homework",
+                "text": "I have too much English homework."
+            },
+            {
+                "code": "homework_example_i-need-to-do-my-homework",
+                "text": "I need to do my homework."
+            },
+            {
+                "code": "homework_example_please-hand-in-your-homework",
+                "text": "Please hand in your homework."
+            },
+            {
+                "code": "homework_example_he-has-a-lot-of-homework",
+                "text": "He has a lot of homework."
+            },
+            {
+                "code": "homework_example_my-teacher-assigns-too-much-homework",
+                "text": "My teacher assigns too much homework."
+            },
+            {
+                "code": "homework_example_i-need-to-grade-their-homework-tonight",
+                "text": "I need to grade their homework tonight."
+            },
+            {
+                "code": "homework_example_i-need-to-finish-this-for-homework",
+                "text": "I need to finish this for homework."
+            }
+        ]
+    }
+]

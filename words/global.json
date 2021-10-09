@@ -1,0 +1,60 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "worldwide",
+        "examples": [
+            {
+                "code": "global_example_they-formed-a-global-alliance-against-poverty",
+                "text": "They formed a global alliance against poverty."
+            },
+            {
+                "code": "global_example_he-gave-a-talk-on-global-business",
+                "text": "He gave a talk on global business."
+            },
+            {
+                "code": "global_example_how-will-this-affect-the-global-community",
+                "text": "How will this affect the global community?"
+            },
+            {
+                "code": "global_example_this-disaster-will-impact-global-tourism",
+                "text": "This disaster will impact global tourism."
+            },
+            {
+                "code": "global_example_what-is-the-impact-on-the-global-economy",
+                "text": "What is the impact on the global economy?"
+            },
+            {
+                "code": "global_example_they-ve-built-a-global-network-of-partners",
+                "text": "They've built a global network of partners."
+            },
+            {
+                "code": "global_example_he-has-reached-a-level-of-global-stardom",
+                "text": "He has reached a level of global stardom."
+            },
+            {
+                "code": "global_example_this-is-really-a-global-disaster",
+                "text": "This is really a global disaster."
+            },
+            {
+                "code": "global_example_they-are-trying-to-address-global-hunger",
+                "text": "They are trying to address global hunger."
+            },
+            {
+                "code": "global_example_the-leaders-met-at-a-global-summit",
+                "text": "The leaders met at a global summit."
+            },
+            {
+                "code": "global_example_what-is-the-global-scope-of-this-issue",
+                "text": "What is the global scope of this issue?"
+            },
+            {
+                "code": "global_example_they-are-discussing-the-global-recession",
+                "text": "They are discussing the global recession."
+            },
+            {
+                "code": "global_example_global-leaders-need-to-address-this-issue",
+                "text": "Global leaders need to address this issue."
+            }
+        ]
+    }
+]

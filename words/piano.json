@@ -1,0 +1,52 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a large musical instrument with a keyboard that makes sounds",
+        "examples": [
+            {
+                "code": "piano_example_do-you-know-how-to-play-the-piano",
+                "text": "Do you know how to play the piano?"
+            },
+            {
+                "code": "piano_example_he-is-a-famous-piano-player",
+                "text": "He is a famous piano player."
+            },
+            {
+                "code": "piano_example_she-wrote-most-of-the-piano-music",
+                "text": "She wrote most of the piano music."
+            },
+            {
+                "code": "piano_example_we-need-a-piano-tuner",
+                "text": "We need a piano tuner."
+            },
+            {
+                "code": "piano_example_we-sat-at-the-piano-bar",
+                "text": "We sat at the piano bar."
+            },
+            {
+                "code": "piano_example_she-sat-on-a-piano-stool",
+                "text": "She sat on a piano stool."
+            },
+            {
+                "code": "piano_example_she-pressed-the-piano-keys",
+                "text": "She pressed the piano keys."
+            },
+            {
+                "code": "piano_example_there-is-a-grand-piano-in-my-living-room",
+                "text": "There is a grand piano in my living room."
+            },
+            {
+                "code": "piano_example_my-daughter-plays-with-her-toy-piano",
+                "text": "My daughter plays with her toy piano."
+            },
+            {
+                "code": "piano_example_i-can-play-this-song-on-the-piano",
+                "text": "I can play this song on the piano."
+            },
+            {
+                "code": "piano_example_he-is-sitting-at-the-piano-ready-for-his-recital",
+                "text": "He is sitting at the piano ready for his recital."
+            }
+        ]
+    }
+]

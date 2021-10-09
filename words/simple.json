@@ -1,0 +1,40 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "easy to understand; uncomplicated; plain",
+        "examples": [
+            {
+                "code": "simple_example_the-homework-appears-simple",
+                "text": "The homework appears simple."
+            },
+            {
+                "code": "simple_example_keep-your-list-simple",
+                "text": "Keep your list simple."
+            },
+            {
+                "code": "simple_example_i-find-the-instructions-fairly-simple",
+                "text": "I find the instructions fairly simple."
+            },
+            {
+                "code": "simple_example_the-recipe-is-very-simple",
+                "text": "The recipe is very simple."
+            },
+            {
+                "code": "simple_example_his-work-is-comparatively-simple",
+                "text": "His work is comparatively simple."
+            },
+            {
+                "code": "simple_example_she-came-up-with-a-brilliantly-simple-concept",
+                "text": "She came up with a brilliantly simple concept."
+            },
+            {
+                "code": "simple_example_that-assignment-is-simple",
+                "text": "That assignment is simple."
+            },
+            {
+                "code": "simple_example_she-has-a-very-simple-presentation",
+                "text": "She has a very simple presentation."
+            }
+        ]
+    }
+]

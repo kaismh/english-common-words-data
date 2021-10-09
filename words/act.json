@@ -1,0 +1,66 @@
+[
+    {
+        "type": "(n)",
+        "mean": "something that is done",
+        "examples": [
+            {
+                "code": "act_example_it-is-nice-to-help-others-with-a-kind-act",
+                "text": "It is nice to help others with a kind act."
+            },
+            {
+                "code": "act_example_i-was-angry-when-i-saw-his-violent-act-against-animals",
+                "text": "I was angry when I saw his violent act against animals."
+            },
+            {
+                "code": "act_example_he-was-arrested-for-illegal-acts",
+                "text": "He was arrested for illegal acts."
+            },
+            {
+                "code": "act_example_the-police-should-prevent-acts-of-violence",
+                "text": "The police should prevent acts of violence."
+            },
+            {
+                "code": "act_example_i-appreciate-your-act-of-kindness",
+                "text": "I appreciate your act of kindness."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to do something; to perform in a movie or play",
+        "examples": [
+            {
+                "code": "act_example_if-you-want-something-you-should-act-immediately",
+                "text": "If you want something, you should act immediately."
+            },
+            {
+                "code": "act_example_politicians-should-act-appropriately-in-public",
+                "text": "Politicians should act appropriately in public."
+            },
+            {
+                "code": "act_example_she-was-confused-when-her-husband-began-acting-oddly",
+                "text": "She was confused when her husband began acting oddly."
+            },
+            {
+                "code": "act_example_the-actor-acted-wonderfully-in-his-new-movie",
+                "text": "The actor acted wonderfully in his new movie."
+            },
+            {
+                "code": "act_example_she-began-to-act-like-a-clown",
+                "text": "She began to act like a clown."
+            },
+            {
+                "code": "act_example_he-was-only-acting-out-of-anger",
+                "text": "He was only acting out of anger."
+            },
+            {
+                "code": "act_example_the-government-works-to-act-against-terrorists",
+                "text": "The government works to act against terrorists."
+            },
+            {
+                "code": "act_example_you-shouldn-t-always-act-on-your-impulses",
+                "text": "You shouldn't always act on your impulses."
+            }
+        ]
+    }
+]

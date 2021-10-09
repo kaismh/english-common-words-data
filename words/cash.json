@@ -1,0 +1,80 @@
+[
+    {
+        "type": "(n)",
+        "mean": "money",
+        "examples": [
+            {
+                "code": "cash_example_we-bought-the-car-with-hard-cash",
+                "text": "We bought the car with hard cash."
+            },
+            {
+                "code": "cash_example_we-keep-petty-cash-in-the-office",
+                "text": "We keep petty cash in the office."
+            },
+            {
+                "code": "cash_example_she-doesn-t-want-to-spend-her-hard-earned-cash",
+                "text": "She doesn't want to spend her hard-earned cash."
+            },
+            {
+                "code": "cash_example_i-need-a-way-to-make-some-quick-cash",
+                "text": "I need a way to make some quick cash."
+            },
+            {
+                "code": "cash_example_you-ll-have-to-pay-in-cash",
+                "text": "You'll have to pay in cash."
+            },
+            {
+                "code": "cash_example_are-you-holding-enough-cash",
+                "text": "Are you holding enough cash?"
+            },
+            {
+                "code": "cash_example_i-ll-withdraw-cash-before-the-concert",
+                "text": "I'll withdraw cash before the concert."
+            },
+            {
+                "code": "cash_example_the-fundraiser-will-generate-a-lot-of-cash",
+                "text": "The fundraiser will generate a lot of cash."
+            },
+            {
+                "code": "cash_example_we-are-short-on-cash",
+                "text": "We are short on cash."
+            },
+            {
+                "code": "cash_example_how-can-we-earn-some-cash",
+                "text": "How can we earn some cash?"
+            },
+            {
+                "code": "cash_example_the-cash-drawer-is-empty",
+                "text": "The cash drawer is empty."
+            },
+            {
+                "code": "cash_example_i-need-to-check-my-cash-balance",
+                "text": "I need to check my cash balance."
+            },
+            {
+                "code": "cash_example_she-is-making-a-cash-transaction",
+                "text": "She is making a cash transaction."
+            },
+            {
+                "code": "cash_example_we-need-to-take-money-from-our-cash-reserves",
+                "text": "We need to take money from our cash reserves."
+            },
+            {
+                "code": "cash_example_you-will-need-to-make-a-cash-deposit",
+                "text": "You will need to make a cash deposit."
+            },
+            {
+                "code": "cash_example_we-won-a-cash-award",
+                "text": "We won a cash award."
+            },
+            {
+                "code": "cash_example_we-are-not-generating-enough-cash-flow-right-now",
+                "text": "We are not generating enough cash flow right now."
+            },
+            {
+                "code": "cash_example_you-will-have-to-pay-in-cash",
+                "text": "You will have to pay in cash."
+            }
+        ]
+    }
+]

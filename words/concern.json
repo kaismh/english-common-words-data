@@ -1,0 +1,86 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a feeling of worry",
+        "examples": [
+            {
+                "code": "concern_example_the-storm-caused-growing-concern",
+                "text": "The storm caused growing concern."
+            },
+            {
+                "code": "concern_example_she-has-genuine-concern-for-her-friends",
+                "text": "She has genuine concern for her friends."
+            },
+            {
+                "code": "concern_example_he-has-great-concerns-about-his-future",
+                "text": "He has great concerns about his future."
+            },
+            {
+                "code": "concern_example_affordable-healthcare-is-a-national-concern",
+                "text": "Affordable healthcare is a national concern."
+            },
+            {
+                "code": "concern_example_the-flu-epidemic-is-causing-general-concern",
+                "text": "The flu epidemic is causing general concern."
+            },
+            {
+                "code": "concern_example_child-safety-is-a-common-concern-for-parents",
+                "text": "Child safety is a common concern for parents."
+            },
+            {
+                "code": "concern_example_what-is-your-main-concern",
+                "text": "What is your main concern?"
+            },
+            {
+                "code": "concern_example_i-feel-concern-for-my-brother-s-well-being",
+                "text": "I feel concern for my brother's well-being."
+            },
+            {
+                "code": "concern_example_she-does-not-show-any-concern-for-her-family",
+                "text": "She does not show any concern for her family."
+            },
+            {
+                "code": "concern_example_the-earthquake-caused-concern",
+                "text": "The earthquake caused concern."
+            },
+            {
+                "code": "concern_example_i-understand-your-concerns",
+                "text": "I understand your concerns."
+            },
+            {
+                "code": "concern_example_how-can-i-ease-your-concerns-about-driving",
+                "text": "How can I ease your concerns about driving?"
+            },
+            {
+                "code": "concern_example_we-gave-him-money-out-of-concern",
+                "text": "We gave him money out of concern."
+            },
+            {
+                "code": "concern_example_parents-have-valid-concerns-about-their-children",
+                "text": "Parents have valid concerns about their children."
+            },
+            {
+                "code": "concern_example_i-have-serious-concerns-for-her-safety",
+                "text": "I have serious concerns for her safety."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to involve or affect someone; to worry someone",
+        "examples": [
+            {
+                "code": "concern_example_the-letter-directly-concerns-you",
+                "text": "The letter directly concerns you."
+            },
+            {
+                "code": "concern_example_the-issue-mainly-concerns-jack",
+                "text": "The issue mainly concerns Jack."
+            },
+            {
+                "code": "concern_example_your-health-really-concerns-me",
+                "text": "Your health really concerns me."
+            }
+        ]
+    }
+]

@@ -1,0 +1,66 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "being at the highest or best level; being at the top; busiest",
+        "examples": [
+            {
+                "code": "peak_example_apples-should-be-picked-during-peak-season",
+                "text": "Apples should be picked during peak season."
+            },
+            {
+                "code": "peak_example_try-to-avoid-peak-hours",
+                "text": "Try to avoid peak hours."
+            },
+            {
+                "code": "peak_example_he-gave-his-peak-performance-at-the-last-olympic-games",
+                "text": "He gave his peak performance at the last Olympic Games."
+            }
+        ]
+    },
+    {
+        "type": "(n)",
+        "mean": "the highest or best level; the top",
+        "examples": [
+            {
+                "code": "peak_example_the-hikers-reached-the-jagged-peak-of-the-mountain",
+                "text": "The hikers reached the jagged peak of the mountain."
+            },
+            {
+                "code": "peak_example_the-snowy-peaks-of-the-mountains-are-beautiful",
+                "text": "The snowy peaks of the mountains are beautiful."
+            },
+            {
+                "code": "peak_example_we-could-see-the-distant-peak-of-mount-st-helens",
+                "text": "We could see the distant peak of Mount St. Helens."
+            },
+            {
+                "code": "peak_example_the-mountain-peaks-were-covered-with-snow",
+                "text": "The mountain peaks were covered with snow."
+            },
+            {
+                "code": "peak_example_prices-increase-during-seasonal-peaks-at-the-hotel",
+                "text": "Prices increase during seasonal peaks at the hotel."
+            },
+            {
+                "code": "peak_example_there-was-a-sharp-peak-in-housing-prices-a-few-years-ago",
+                "text": "There was a sharp peak in housing prices a few years ago."
+            },
+            {
+                "code": "peak_example_hikers-climb-to-the-peak-of-the-mountain",
+                "text": "Hikers climb to the peak of the mountain."
+            },
+            {
+                "code": "peak_example_sales-reached-its-peak-during-the-winter-months",
+                "text": "Sales reached its peak during the winter months."
+            },
+            {
+                "code": "peak_example_she-is-at-the-peak-of-her-career",
+                "text": "She is at the peak of her career."
+            },
+            {
+                "code": "peak_example_car-sales-were-at-its-peak-last-month",
+                "text": "Car sales were at its peak last month."
+            }
+        ]
+    }
+]

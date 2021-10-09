@@ -1,0 +1,44 @@
+[
+    {
+        "type": "(adv)",
+        "mean": "really real or true",
+        "examples": [
+            {
+                "code": "actually_example_the-rumors-are-actually-true-about-her",
+                "text": "The rumors are actually true about her."
+            },
+            {
+                "code": "actually_example_your-answer-was-actually-right",
+                "text": "Your answer was actually right."
+            },
+            {
+                "code": "actually_example_she-looks-mean-but-she-s-actually-nice",
+                "text": "She looks mean, but she's actually nice."
+            },
+            {
+                "code": "actually_example_did-dinosaurs-actually-exist",
+                "text": "Did dinosaurs actually exist?"
+            },
+            {
+                "code": "actually_example_have-you-actually-experienced-a-miracle",
+                "text": "Have you actually experienced a miracle?"
+            },
+            {
+                "code": "actually_example_it-did-not-actually-happen-that-way",
+                "text": "It did not actually happen that way."
+            },
+            {
+                "code": "actually_example_the-police-actually-solved-the-mystery-after-many-years",
+                "text": "The police actually solved the mystery after many years."
+            },
+            {
+                "code": "actually_example_i-actually-finished-on-time",
+                "text": "I actually finished on time."
+            },
+            {
+                "code": "actually_example_she-is-not-actually-coming",
+                "text": "She is not actually coming."
+            }
+        ]
+    }
+]

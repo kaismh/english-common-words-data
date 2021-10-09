@@ -1,0 +1,56 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to fail to hit and catch something; to a fail to meet or see someone; to feel sad because you want to see someone",
+        "examples": [
+            {
+                "code": "miss_example_the-bullet-missed-my-heart",
+                "text": "The bullet missed my heart."
+            },
+            {
+                "code": "miss_example_he-missed-the-mark",
+                "text": "He missed the mark."
+            },
+            {
+                "code": "miss_example_she-always-misses-the-point",
+                "text": "She always misses the point."
+            },
+            {
+                "code": "miss_example_i-missed-the-train-this-morning",
+                "text": "I missed the train this morning."
+            },
+            {
+                "code": "miss_example_we-missed-the-chance-to-say-something",
+                "text": "We missed the chance to say something."
+            },
+            {
+                "code": "miss_example_she-missed-her-class",
+                "text": "She missed her class."
+            },
+            {
+                "code": "miss_example_he-missed-the-cue-again",
+                "text": "He missed the cue again."
+            },
+            {
+                "code": "miss_example_i-almost-missed-the-plane",
+                "text": "I almost missed the plane."
+            },
+            {
+                "code": "miss_example_he-completely-missed-the-shot",
+                "text": "He completely missed the shot."
+            },
+            {
+                "code": "miss_example_he-barely-missed-the-target",
+                "text": "He barely missed the target."
+            },
+            {
+                "code": "miss_example_we-really-miss-them",
+                "text": "We really miss them."
+            },
+            {
+                "code": "miss_example_i-miss-him-very-much",
+                "text": "I miss him very much."
+            }
+        ]
+    }
+]

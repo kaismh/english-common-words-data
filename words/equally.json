@@ -1,0 +1,64 @@
+[
+    {
+        "type": "(adv)",
+        "mean": "in the same way",
+        "examples": [
+            {
+                "code": "equally_example_their-behavior-was-equally-bad",
+                "text": "Their behavior was equally bad."
+            },
+            {
+                "code": "equally_example_he-is-equally-popular-as-his-brother",
+                "text": "He is equally popular as his brother."
+            },
+            {
+                "code": "equally_example_the-back-up-plan-ended-up-being-equally-effective",
+                "text": "The back-up plan ended up being equally effective."
+            },
+            {
+                "code": "equally_example_they-are-equally-responsible-for-the-crime",
+                "text": "They are equally responsible for the crime."
+            },
+            {
+                "code": "equally_example_these-two-tasks-are-equally-important",
+                "text": "These two tasks are equally important."
+            },
+            {
+                "code": "equally_example_the-sequel-was-equally-as-exciting-as-the-first-movie",
+                "text": "The sequel was equally as exciting as the first movie."
+            },
+            {
+                "code": "equally_example_the-new-engine-is-equally-powerful",
+                "text": "The new engine is equally powerful."
+            },
+            {
+                "code": "equally_example_the-rules-equally-apply-to-all-students",
+                "text": "The rules equally apply to all students."
+            },
+            {
+                "code": "equally_example_they-will-equally-distribute-the-food",
+                "text": "They will equally distribute the food."
+            },
+            {
+                "code": "equally_example_we-all-contributed-equally-to-the-win",
+                "text": "We all contributed equally to the win."
+            },
+            {
+                "code": "equally_example_they-participated-equally-in-the-project",
+                "text": "They participated equally in the project."
+            },
+            {
+                "code": "equally_example_he-always-treated-people-equally",
+                "text": "He always treated people equally."
+            },
+            {
+                "code": "equally_example_she-spaced-the-chairs-equally-around-the-room",
+                "text": "She spaced the chairs equally around the room."
+            },
+            {
+                "code": "equally_example_the-students-will-benefit-equally-from-the-policy",
+                "text": "The students will benefit equally from the policy."
+            }
+        ]
+    }
+]

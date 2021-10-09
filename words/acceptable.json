@@ -1,0 +1,28 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "good enough; approved by most of a group or society",
+        "examples": [
+            {
+                "code": "acceptable_example_that-idea-is-acceptable",
+                "text": "That idea is acceptable."
+            },
+            {
+                "code": "acceptable_example_i-find-your-report-acceptable",
+                "text": "I find your report acceptable."
+            },
+            {
+                "code": "acceptable_example_her-work-has-become-acceptable-to-her-manager",
+                "text": "Her work has become acceptable to her manager."
+            },
+            {
+                "code": "acceptable_example_your-work-is-perfectly-acceptable",
+                "text": "Your work is perfectly acceptable."
+            },
+            {
+                "code": "acceptable_example_what-you-are-doing-is-not-culturally-acceptable",
+                "text": "What you are doing is not culturally acceptable."
+            }
+        ]
+    }
+]

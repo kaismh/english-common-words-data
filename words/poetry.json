@@ -1,0 +1,24 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a collection of poems",
+        "examples": [
+            {
+                "code": "poetry_example_i-write-poetry",
+                "text": "I write poetry."
+            },
+            {
+                "code": "poetry_example_i-received-a-poetry-collection-as-a-gift",
+                "text": "I received a poetry collection as a gift."
+            },
+            {
+                "code": "poetry_example_we-went-to-a-poetry-reading",
+                "text": "We went to a poetry reading."
+            },
+            {
+                "code": "poetry_example_the-book-is-made-up-of-good-poetry",
+                "text": "The book is made up of good poetry."
+            }
+        ]
+    }
+]

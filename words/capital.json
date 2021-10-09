@@ -1,0 +1,64 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the city where a government is located; the money used to start a business",
+        "examples": [
+            {
+                "code": "capital_example_your-business-idea-will-require-a-great-deal-of-start-up-capital",
+                "text": "Your business idea will require a great deal of start-up capital."
+            },
+            {
+                "code": "capital_example_we-have-offices-in-all-of-the-major-capitals",
+                "text": "We have offices in all of the major capitals."
+            },
+            {
+                "code": "capital_example_we-are-studying-about-the-state-capital",
+                "text": "We are studying about the state capital."
+            },
+            {
+                "code": "capital_example_this-is-the-financial-capital-of-the-world",
+                "text": "This is the financial capital of the world."
+            },
+            {
+                "code": "capital_example_do-you-have-enough-capital-to-start-a-business",
+                "text": "Do you have enough capital to start a business?"
+            },
+            {
+                "code": "capital_example_she-s-acquired-a-lot-of-capital-to-start-her-own-business",
+                "text": "She's acquired a lot of capital to start her own business."
+            },
+            {
+                "code": "capital_example_i-won-t-invest-capital-in-internet-companies",
+                "text": "I won't invest capital in internet companies."
+            },
+            {
+                "code": "capital_example_he-is-rich-in-capital-assets",
+                "text": "He is rich in capital assets."
+            },
+            {
+                "code": "capital_example_they-are-analyzing-capital-costs",
+                "text": "They are analyzing capital costs."
+            },
+            {
+                "code": "capital_example_he-acquired-enough-capital-funding-for-his-new-business",
+                "text": "He acquired enough capital funding for his new business."
+            },
+            {
+                "code": "capital_example_she-received-a-capital-gain-on-her-property",
+                "text": "She received a capital gain on her property."
+            },
+            {
+                "code": "capital_example_what-is-the-capital-value-of-your-property",
+                "text": "What is the capital value of your property?"
+            },
+            {
+                "code": "capital_example_what-is-the-capital-of-new-york",
+                "text": "What is the capital of New York?"
+            },
+            {
+                "code": "capital_example_there-was-rioting-in-the-nation-s-capital",
+                "text": "There was rioting in the nation's capital."
+            }
+        ]
+    }
+]

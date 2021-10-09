@@ -1,0 +1,70 @@
+[
+    {
+        "type": "(n)",
+        "mean": "an attempt; an effort",
+        "examples": [
+            {
+                "code": "try_example_give-it-another-try",
+                "text": "Give it another try."
+            },
+            {
+                "code": "try_example_she-passed-the-test-on-her-first-try",
+                "text": "She passed the test on her first try."
+            },
+            {
+                "code": "try_example_that-was-a-nice-try",
+                "text": "That was a nice try."
+            },
+            {
+                "code": "try_example_let-me-have-a-try",
+                "text": "Let me have a try."
+            },
+            {
+                "code": "try_example_it-is-worth-a-try",
+                "text": "It is worth a try."
+            },
+            {
+                "code": "try_example_he-s-having-another-try-at-football",
+                "text": "He's having another try at football."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to attempt; to make an effort",
+        "examples": [
+            {
+                "code": "try_example_he-passes-every-test-even-when-he-barely-tries",
+                "text": "He passes every test even when he barely tries."
+            },
+            {
+                "code": "try_example_she-tried-desperately-to-contact-her-father",
+                "text": "She tried desperately to contact her father."
+            },
+            {
+                "code": "try_example_he-actively-tries-to-get-involved-in-school",
+                "text": "He actively tries to get involved in school."
+            },
+            {
+                "code": "try_example_he-purposely-tried-to-break-his-old-phone",
+                "text": "He purposely tried to break his old phone."
+            },
+            {
+                "code": "try_example_she-constantly-tries-to-help-him",
+                "text": "She constantly tries to help him."
+            },
+            {
+                "code": "try_example_let-s-keep-trying-to-help-them",
+                "text": "Let's keep trying to help them."
+            },
+            {
+                "code": "try_example_he-is-going-to-try-sky-diving",
+                "text": "He is going to try sky diving."
+            },
+            {
+                "code": "try_example_don-t-bother-to-try-to-change-her-mind",
+                "text": "Don't bother to try to change her mind."
+            }
+        ]
+    }
+]

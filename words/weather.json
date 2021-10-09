@@ -1,0 +1,102 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the condition of the outside air or temperature",
+        "examples": [
+            {
+                "code": "weather_example_we-are-having-beautiful-weather-today",
+                "text": "We are having beautiful weather today."
+            },
+            {
+                "code": "weather_example_what-awful-weather-we-re-having-today",
+                "text": "What awful weather we're having today."
+            },
+            {
+                "code": "weather_example_the-weather-was-humid-in-california",
+                "text": "The weather was humid in California."
+            },
+            {
+                "code": "weather_example_i-wish-we-had-sunny-weather-all-year-round",
+                "text": "I wish we had sunny weather all year round."
+            },
+            {
+                "code": "weather_example_the-weather-is-unpredictable-around-here",
+                "text": "The weather is unpredictable around here."
+            },
+            {
+                "code": "weather_example_we-have-severe-weather-during-the-winter",
+                "text": "We have severe weather during the winter."
+            },
+            {
+                "code": "weather_example_i-hate-living-in-cold-weather",
+                "text": "I hate living in cold weather."
+            },
+            {
+                "code": "weather_example_we-can-expect-rainy-weather-tomorrow",
+                "text": "We can expect rainy weather tomorrow."
+            },
+            {
+                "code": "weather_example_he-braved-the-stormy-weather",
+                "text": "He braved the stormy weather."
+            },
+            {
+                "code": "weather_example_i-hope-the-weather-clears-up-soon",
+                "text": "I hope the weather clears up soon."
+            },
+            {
+                "code": "weather_example_we-checked-the-weather-before-going-camping",
+                "text": "We checked the weather before going camping."
+            },
+            {
+                "code": "weather_example_can-you-predict-the-weather",
+                "text": "Can you predict the weather?"
+            },
+            {
+                "code": "weather_example_the-weather-stayed-beautiful-for-weeks",
+                "text": "The weather stayed beautiful for weeks."
+            },
+            {
+                "code": "weather_example_bad-weather-threatened-our-beach-trip",
+                "text": "Bad weather threatened our beach trip."
+            },
+            {
+                "code": "weather_example_what-is-the-weather-condition-up-in-the-mountains",
+                "text": "What is the weather condition up in the mountains?"
+            },
+            {
+                "code": "weather_example_there-was-a-change-in-the-weather-forecast",
+                "text": "There was a change in the weather forecast."
+            },
+            {
+                "code": "weather_example_the-meteorologist-refers-to-the-weather-map",
+                "text": "The meteorologist refers to the weather map."
+            },
+            {
+                "code": "weather_example_there-was-a-sudden-change-in-the-weather",
+                "text": "There was a sudden change in the weather."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to get through something without getting hurt; to change the appearance of something from being outside for a long time",
+        "examples": [
+            {
+                "code": "weather_example_the-company-weathered-through-their-financial-problems-successfully",
+                "text": "The company weathered through their financial problems successfully."
+            },
+            {
+                "code": "weather_example_she-can-barely-weather-the-hard-times",
+                "text": "She can barely weather the hard times."
+            },
+            {
+                "code": "weather_example_the-wooden-deck-has-weathered-badly",
+                "text": "The wooden deck has weathered badly."
+            },
+            {
+                "code": "weather_example_can-they-weather-the-storm",
+                "text": "Can they weather the storm?"
+            }
+        ]
+    }
+]

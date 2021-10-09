@@ -1,0 +1,110 @@
+[
+    {
+        "type": "(n)",
+        "mean": "body movement to the sound of music; an event where people dance",
+        "examples": [
+            {
+                "code": "dance_example_let-s-have-a-little-dance",
+                "text": "Let's have a little dance."
+            },
+            {
+                "code": "dance_example_save-the-first-dance-for-me",
+                "text": "Save the first dance for me."
+            },
+            {
+                "code": "dance_example_it-s-their-traditional-dance",
+                "text": "It's their traditional dance."
+            },
+            {
+                "code": "dance_example_do-you-know-how-to-ballroom-dance",
+                "text": "Do you know how to ballroom dance?"
+            },
+            {
+                "code": "dance_example_they-did-a-victory-dance",
+                "text": "They did a victory dance."
+            },
+            {
+                "code": "dance_example_the-school-dance-is-tonight",
+                "text": "The school dance is tonight."
+            },
+            {
+                "code": "dance_example_she-enjoys-contemporary-dance",
+                "text": "She enjoys contemporary dance."
+            },
+            {
+                "code": "dance_example_he-did-a-little-dance-for-us",
+                "text": "He did a little dance for us."
+            },
+            {
+                "code": "dance_example_may-i-have-this-dance",
+                "text": "May I have this dance?"
+            },
+            {
+                "code": "dance_example_let-s-go-to-the-school-dance",
+                "text": "Let's go to the school dance."
+            },
+            {
+                "code": "dance_example_i-love-dance-music",
+                "text": "I love dance music."
+            },
+            {
+                "code": "dance_example_i-watched-the-dance-performance",
+                "text": "I watched the dance performance."
+            },
+            {
+                "code": "dance_example_are-you-going-to-dance-class",
+                "text": "Are you going to dance class?"
+            },
+            {
+                "code": "dance_example_he-is-my-dance-teacher",
+                "text": "He is my dance teacher."
+            },
+            {
+                "code": "dance_example_she-is-on-the-dance-floor",
+                "text": "She is on the dance floor."
+            },
+            {
+                "code": "dance_example_he-practices-at-a-dance-hall",
+                "text": "He practices at a dance hall."
+            },
+            {
+                "code": "dance_example_the-couple-met-at-the-dance",
+                "text": "The couple met at the dance."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to move your body to the sound of music",
+        "examples": [
+            {
+                "code": "dance_example_the-girls-like-to-dance-wildly",
+                "text": "The girls like to dance wildly."
+            },
+            {
+                "code": "dance_example_they-danced-slowly-all-evening",
+                "text": "They danced slowly all evening."
+            },
+            {
+                "code": "dance_example_he-dances-well",
+                "text": "He dances well."
+            },
+            {
+                "code": "dance_example_i-want-to-ask-her-to-dance",
+                "text": "I want to ask her to dance."
+            },
+            {
+                "code": "dance_example_do-you-want-to-dance",
+                "text": "Do you want to dance?"
+            },
+            {
+                "code": "dance_example_will-you-dance-with-me",
+                "text": "Will you dance with me?"
+            },
+            {
+                "code": "dance_example_we-danced-to-fast-music",
+                "text": "We danced to fast music."
+            }
+        ]
+    }
+]

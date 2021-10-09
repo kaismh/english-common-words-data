@@ -1,0 +1,68 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "firm or hard; not hollow; dependable or reliable",
+        "examples": [
+            {
+                "code": "solid_example_the-table-is-solid",
+                "text": "The table is solid."
+            },
+            {
+                "code": "solid_example_the-pond-was-frozen-solid",
+                "text": "The pond was frozen solid."
+            },
+            {
+                "code": "solid_example_the-bacon-fat-got-solid-overnight",
+                "text": "The bacon fat got solid overnight."
+            },
+            {
+                "code": "solid_example_he-made-the-furniture-more-solid",
+                "text": "He made the furniture more solid."
+            },
+            {
+                "code": "solid_example_the-company-remained-solid-during-the-recession",
+                "text": "The company remained solid during the recession."
+            },
+            {
+                "code": "solid_example_the-cabinet-was-made-out-of-very-solid-material",
+                "text": "The cabinet was made out of very solid material."
+            },
+            {
+                "code": "solid_example_the-table-felt-solid-enough",
+                "text": "The table felt solid enough."
+            },
+            {
+                "code": "solid_example_the-lawyer-s-defense-was-absolutely-solid",
+                "text": "The lawyer's defense was absolutely solid."
+            },
+            {
+                "code": "solid_example_her-performance-was-surprisingly-solid",
+                "text": "Her performance was surprisingly solid."
+            },
+            {
+                "code": "solid_example_there-is-reasonably-solid-evidence-against-him",
+                "text": "There is reasonably solid evidence against him."
+            },
+            {
+                "code": "solid_example_he-s-not-worried-because-he-has-a-solid-alibi",
+                "text": "He's not worried because he has a solid alibi."
+            },
+            {
+                "code": "solid_example_it-is-made-of-solid-concrete",
+                "text": "It is made of solid concrete."
+            },
+            {
+                "code": "solid_example_that-was-a-solid-door",
+                "text": "That was a solid door."
+            },
+            {
+                "code": "solid_example_there-is-solid-evidence-against-him",
+                "text": "There is solid evidence against him."
+            },
+            {
+                "code": "solid_example_pizza-is-definitely-my-solid-favorite",
+                "text": "Pizza is definitely my solid favorite."
+            }
+        ]
+    }
+]

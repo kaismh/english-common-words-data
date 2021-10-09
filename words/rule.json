@@ -1,0 +1,106 @@
+[
+    {
+        "type": "(n)",
+        "mean": "what you can or cannot say or do",
+        "examples": [
+            {
+                "code": "rule_example_they-are-changing-the-rules",
+                "text": "They are changing the rules."
+            },
+            {
+                "code": "rule_example_the-rules-state-that-each-player-gets-three-turns",
+                "text": "The rules state that each player gets three turns."
+            },
+            {
+                "code": "rule_example_he-should-stick-to-the-rules",
+                "text": "He should stick to the rules."
+            },
+            {
+                "code": "rule_example_he-always-follows-the-rules",
+                "text": "He always follows the rules."
+            },
+            {
+                "code": "rule_example_the-rules-do-not-apply-here",
+                "text": "The rules do not apply here."
+            },
+            {
+                "code": "rule_example_the-rules-prohibit-physical-contact",
+                "text": "The rules prohibit physical contact."
+            },
+            {
+                "code": "rule_example_the-teacher-laid-down-the-rules",
+                "text": "The teacher laid down the rules."
+            },
+            {
+                "code": "rule_example_what-does-it-say-in-the-rule-book",
+                "text": "What does it say in the rule book?"
+            },
+            {
+                "code": "rule_example_we-have-a-few-general-rules",
+                "text": "We have a few general rules."
+            },
+            {
+                "code": "rule_example_we-try-to-follow-the-golden-rule",
+                "text": "We try to follow the golden rule."
+            },
+            {
+                "code": "rule_example_the-first-rule-is-to-always-greet-your-opponent",
+                "text": "The first rule is to always greet your opponent."
+            },
+            {
+                "code": "rule_example_democracy-is-based-on-majority-rule",
+                "text": "Democracy is based on majority rule."
+            },
+            {
+                "code": "rule_example_this-school-has-strict-rules",
+                "text": "This school has strict rules."
+            },
+            {
+                "code": "rule_example_the-current-rules-are-not-working",
+                "text": "The current rules are not working?"
+            },
+            {
+                "code": "rule_example_we-have-formal-rules-that-should-be-followed",
+                "text": "We have formal rules that should be followed."
+            },
+            {
+                "code": "rule_example_what-are-the-rules-of-the-game",
+                "text": "What are the rules of the game?"
+            },
+            {
+                "code": "rule_example_he-plays-against-the-rules",
+                "text": "He plays against the rules."
+            },
+            {
+                "code": "rule_example_there-is-an-official-rule-for-that",
+                "text": "There is an official rule for that."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to lead a country; to have authority; to make a formal judgment",
+        "examples": [
+            {
+                "code": "rule_example_he-rules-the-entire-land",
+                "text": "He rules the entire land."
+            },
+            {
+                "code": "rule_example_the-judge-ruled-on-his-case",
+                "text": "The judge ruled on his case."
+            },
+            {
+                "code": "rule_example_the-king-rules-the-land",
+                "text": "The king rules the land."
+            },
+            {
+                "code": "rule_example_the-king-rules-over-the-land",
+                "text": "The king rules over the land."
+            },
+            {
+                "code": "rule_example_the-dictator-rules-by-force",
+                "text": "The dictator rules by force."
+            }
+        ]
+    }
+]

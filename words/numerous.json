@@ -1,0 +1,40 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "many",
+        "examples": [
+            {
+                "code": "numerous_example_i-saw-her-on-numerous-occasions",
+                "text": "I saw her on numerous occasions."
+            },
+            {
+                "code": "numerous_example_we-have-met-numerous-times",
+                "text": "We have met numerous times."
+            },
+            {
+                "code": "numerous_example_there-have-been-numerous-instances",
+                "text": "There have been numerous instances."
+            },
+            {
+                "code": "numerous_example_she-made-numerous-requests",
+                "text": "She made numerous requests."
+            },
+            {
+                "code": "numerous_example_they-made-numerous-phone-calls",
+                "text": "They made numerous phone calls."
+            },
+            {
+                "code": "numerous_example_there-were-numerous-instances-where-she-was-lying",
+                "text": "There were numerous instances where she was lying."
+            },
+            {
+                "code": "numerous_example_the-number-of-people-attending-the-party-is-becoming-increasingly-numerous-in-size",
+                "text": "The number of people attending the party is becoming increasingly numerous in size."
+            },
+            {
+                "code": "numerous_example_her-mistakes-were-numerous-enough-where-she-was-finally-fired",
+                "text": "Her mistakes were numerous enough where she was finally fired."
+            }
+        ]
+    }
+]

@@ -1,0 +1,36 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to settle a problem or disagreement",
+        "examples": [
+            {
+                "code": "resolve_example_we-tried-to-resolve-the-problem",
+                "text": "We tried to resolve the problem."
+            },
+            {
+                "code": "resolve_example_we-failed-to-resolve-the-dispute",
+                "text": "We failed to resolve the dispute."
+            },
+            {
+                "code": "resolve_example_we-resolved-the-conflict",
+                "text": "We resolved the conflict."
+            },
+            {
+                "code": "resolve_example_the-conflict-was-peacefully-resolved",
+                "text": "The conflict was peacefully resolved."
+            },
+            {
+                "code": "resolve_example_the-problem-was-resolved-by-the-intervention-of-our-pastors",
+                "text": "The problem was resolved by the intervention of our pastors."
+            },
+            {
+                "code": "resolve_example_the-dispute-was-resolved-with-police-intervention",
+                "text": "The dispute was resolved with police intervention."
+            },
+            {
+                "code": "resolve_example_we-resolved-the-issue-in-court",
+                "text": "We resolved the issue in court."
+            }
+        ]
+    }
+]

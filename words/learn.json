@@ -1,0 +1,52 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to gain knowledge or skill; to become aware",
+        "examples": [
+            {
+                "code": "learn_example_i-learned-a-lot-from-my-parents",
+                "text": "I learned a lot from my parents."
+            },
+            {
+                "code": "learn_example_some-people-never-learn",
+                "text": "Some people never learn."
+            },
+            {
+                "code": "learn_example_will-they-ever-learn",
+                "text": "Will they ever learn?"
+            },
+            {
+                "code": "learn_example_he-quickly-learned-how-to-do-it",
+                "text": "He quickly learned how to do it."
+            },
+            {
+                "code": "learn_example_i-need-to-learn-how-to-cook",
+                "text": "I need to learn how to cook."
+            },
+            {
+                "code": "learn_example_she-was-surprised-to-learn-that-i-was-a-teacher",
+                "text": "She was surprised to learn that I was a teacher."
+            },
+            {
+                "code": "learn_example_the-students-learned-about-the-spanish-revolution-in-history-class",
+                "text": "The students learned about the Spanish Revolution in history class."
+            },
+            {
+                "code": "learn_example_we-first-learned-of-the-problem-last-night",
+                "text": "We first learned of the problem last night."
+            },
+            {
+                "code": "learn_example_the-child-learns-from-watching-others",
+                "text": "The child learns from watching others."
+            },
+            {
+                "code": "learn_example_the-kids-are-learning-the-alphabets",
+                "text": "The kids are learning the alphabets."
+            },
+            {
+                "code": "learn_example_she-is-learning-ballet",
+                "text": "She is learning ballet."
+            }
+        ]
+    }
+]

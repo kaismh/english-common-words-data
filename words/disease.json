@@ -1,0 +1,76 @@
+[
+    {
+        "type": "(n)",
+        "mean": "an illness",
+        "examples": [
+            {
+                "code": "disease_example_he-has-a-common-disease",
+                "text": "He has a common disease."
+            },
+            {
+                "code": "disease_example_cancer-can-be-a-deadly-disease",
+                "text": "Cancer can be a deadly disease."
+            },
+            {
+                "code": "disease_example_he-contracted-a-contagious-disease",
+                "text": "He contracted a contagious disease."
+            },
+            {
+                "code": "disease_example_diabetes-is-a-genetic-disease",
+                "text": "Diabetes is a genetic disease."
+            },
+            {
+                "code": "disease_example_her-aunt-has-heart-disease",
+                "text": "Her aunt has heart disease."
+            },
+            {
+                "code": "disease_example_depression-is-a-mental-disease",
+                "text": "Depression is a mental disease."
+            },
+            {
+                "code": "disease_example_he-has-a-bacterial-disease",
+                "text": "He has a bacterial disease."
+            },
+            {
+                "code": "disease_example_does-he-have-a-disease",
+                "text": "Does he have a disease?"
+            },
+            {
+                "code": "disease_example_we-do-not-want-to-catch-a-disease",
+                "text": "We do not want to catch a disease."
+            },
+            {
+                "code": "disease_example_the-patient-will-not-die-from-this-disease",
+                "text": "The patient will not die from this disease."
+            },
+            {
+                "code": "disease_example_what-causes-this-disease",
+                "text": "What causes this disease?"
+            },
+            {
+                "code": "disease_example_bugs-can-carry-disease",
+                "text": "Bugs can carry disease."
+            },
+            {
+                "code": "disease_example_how-can-we-fight-this-disease",
+                "text": "How can we fight this disease?"
+            },
+            {
+                "code": "disease_example_how-was-the-disease-diagnosed",
+                "text": "How was the disease diagnosed?"
+            },
+            {
+                "code": "disease_example_there-are-many-people-with-this-disease",
+                "text": "There are many people with this disease."
+            },
+            {
+                "code": "disease_example_he-has-a-disease-of-the-nervous-system",
+                "text": "He has a disease of the nervous system."
+            },
+            {
+                "code": "disease_example_can-it-cause-diseases-in-humans",
+                "text": "Can it cause diseases in humans?"
+            }
+        ]
+    }
+]

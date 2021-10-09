@@ -1,0 +1,122 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the result of something happening; the sound in film or theater to a make something look real",
+        "examples": [
+            {
+                "code": "effect_example_the-main-effect-of-studying-more-is-better-grades",
+                "text": "The main effect of studying more is better grades."
+            },
+            {
+                "code": "effect_example_after-school-tutors-had-a-strong-effect-on-test-scores",
+                "text": "After school tutors had a strong effect on test scores."
+            },
+            {
+                "code": "effect_example_punishing-the-students-had-minimal-effect-on-their-behavior",
+                "text": "Punishing the students had minimal effect on their behavior."
+            },
+            {
+                "code": "effect_example_smoking-has-a-harmful-effect-on-your-health",
+                "text": "Smoking has a harmful effect on your health."
+            },
+            {
+                "code": "effect_example_his-argument-had-the-opposite-effect-on-them",
+                "text": "His argument had the opposite effect on them."
+            },
+            {
+                "code": "effect_example_this-plan-will-have-a-lasting-effect-on-the-community",
+                "text": "This plan will have a lasting effect on the community."
+            },
+            {
+                "code": "effect_example_the-music-had-a-calming-effect-on-the-babies",
+                "text": "The music had a calming effect on the babies."
+            },
+            {
+                "code": "effect_example_this-chemical-has-a-toxic-effect-on-the-environment",
+                "text": "This chemical has a toxic effect on the environment."
+            },
+            {
+                "code": "effect_example_the-overall-effect-of-the-scene-was-sad",
+                "text": "The overall effect of the scene was sad."
+            },
+            {
+                "code": "effect_example_the-filming-location-created-a-dramatic-effect",
+                "text": "The filming location created a dramatic effect."
+            },
+            {
+                "code": "effect_example_the-movie-didn-t-have-the-desired-effect-on-the-audience",
+                "text": "The movie didn't have the desired effect on the audience."
+            },
+            {
+                "code": "effect_example_she-turned-off-the-lights-for-maximum-effect",
+                "text": "She turned off the lights for maximum effect."
+            },
+            {
+                "code": "effect_example_the-special-effects-in-this-movie-were-excellent",
+                "text": "The special effects in this movie were excellent."
+            },
+            {
+                "code": "effect_example_this-medicine-has-a-calming-effect",
+                "text": "This medicine has a calming effect."
+            },
+            {
+                "code": "effect_example_the-aspirin-took-effect-quickly",
+                "text": "The aspirin took effect quickly."
+            },
+            {
+                "code": "effect_example_my-teacher-explained-the-effects-of-not-studying",
+                "text": "My teacher explained the effects of not studying."
+            },
+            {
+                "code": "effect_example_you-may-feel-strong-effects-from-this-medicine",
+                "text": "You may feel strong effects from this medicine."
+            },
+            {
+                "code": "effect_example_she-slowly-recovered-from-the-effects-of-the-accident",
+                "text": "She slowly recovered from the effects of the accident."
+            },
+            {
+                "code": "effect_example_the-scientist-studied-the-effects-of-a-bad-diet",
+                "text": "The scientist studied the effects of a bad diet."
+            },
+            {
+                "code": "effect_example_there-is-no-way-to-avoid-the-negative-side-effects-of-this-medicine",
+                "text": "There is no way to avoid the negative side effects of this medicine."
+            },
+            {
+                "code": "effect_example_the-effects-of-the-disaster-occurred-quickly",
+                "text": "The effects of the disaster occurred quickly."
+            },
+            {
+                "code": "effect_example_the-effect-of-this-medicine-differs-greatly",
+                "text": "The effect of this medicine differs greatly."
+            },
+            {
+                "code": "effect_example_the-effects-of-this-illness-may-last-a-long-time",
+                "text": "The effects of this illness may last a long time."
+            },
+            {
+                "code": "effect_example_laughter-spoiled-the-intended-effect",
+                "text": "Laughter spoiled the intended effect."
+            },
+            {
+                "code": "effect_example_the-rain-had-a-positive-effect-on-the-harvest",
+                "text": "The rain had a positive effect on the harvest."
+            },
+            {
+                "code": "effect_example_she-paused-for-dramatic-effect",
+                "text": "She paused for dramatic effect."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to make something happen",
+        "examples": [
+            {
+                "code": "effect_example_the-students-effected-change-in-the-school-s-policy",
+                "text": "The students effected change in the school's policy."
+            }
+        ]
+    }
+]

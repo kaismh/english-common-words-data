@@ -1,0 +1,64 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a woman that a man is married to",
+        "examples": [
+            {
+                "code": "wife_example_have-you-met-his-new-wife",
+                "text": "Have you met his new wife?"
+            },
+            {
+                "code": "wife_example_he-saw-his-ex-wife-at-a-party",
+                "text": "He saw his ex-wife at a party."
+            },
+            {
+                "code": "wife_example_he-misses-his-late-wife-very-much",
+                "text": "He misses his late wife very much."
+            },
+            {
+                "code": "wife_example_she-is-a-wonderful-wife",
+                "text": "She is a wonderful wife."
+            },
+            {
+                "code": "wife_example_he-has-a-beautiful-wife",
+                "text": "He has a beautiful wife."
+            },
+            {
+                "code": "wife_example_he-left-his-unfaithful-wife",
+                "text": "He left his unfaithful wife."
+            },
+            {
+                "code": "wife_example_there-are-organizations-to-help-battered-wives",
+                "text": "There are organizations to help battered wives."
+            },
+            {
+                "code": "wife_example_i-met-his-wife-yesterday",
+                "text": "I met his wife yesterday."
+            },
+            {
+                "code": "wife_example_my-wife-and-i-got-married-last-year",
+                "text": "My wife and I got married last year."
+            },
+            {
+                "code": "wife_example_he-left-his-pregnant-wife",
+                "text": "He left his pregnant wife."
+            },
+            {
+                "code": "wife_example_he-cheated-on-his-wife",
+                "text": "He cheated on his wife."
+            },
+            {
+                "code": "wife_example_he-abused-his-wife-throughout-their-marriage",
+                "text": "He abused his wife throughout their marriage."
+            },
+            {
+                "code": "wife_example_his-wife-nags-him-all-day",
+                "text": "His wife nags him all day."
+            },
+            {
+                "code": "wife_example_his-wife-gave-birth-to-twins",
+                "text": "His wife gave birth to twins."
+            }
+        ]
+    }
+]

@@ -1,0 +1,48 @@
+[
+    {
+        "type": "(adj,adv)",
+        "mean": "short for okay; meaning yes; all right",
+        "examples": [
+            {
+                "code": "oK_example_the-food-tastes-ok",
+                "text": "The food tastes OK."
+            },
+            {
+                "code": "oK_example_the-music-sounds-ok-after-all",
+                "text": "The music sounds OK after all."
+            },
+            {
+                "code": "oK_example_she-did-ok-on-the-test",
+                "text": "She did OK on the test."
+            },
+            {
+                "code": "oK_example_everything-seems-ok",
+                "text": "Everything seems OK."
+            },
+            {
+                "code": "oK_example_i-am-doing-ok",
+                "text": "I am doing OK."
+            },
+            {
+                "code": "oK_example_she-felt-ok",
+                "text": "She felt OK."
+            },
+            {
+                "code": "oK_example_this-bread-is-perfectly-ok-to-eat",
+                "text": "This bread is perfectly OK to eat."
+            },
+            {
+                "code": "oK_example_don-t-worry-i-m-really-ok",
+                "text": "Don't worry, I'm really OK."
+            },
+            {
+                "code": "oK_example_i-m-ok-with-your-plan",
+                "text": "I'm OK with your plan."
+            },
+            {
+                "code": "oK_example_this-is-all-ok-by-me",
+                "text": "This is all OK by me."
+            }
+        ]
+    }
+]

@@ -1,0 +1,48 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a soft hat; the top of a bottle or can; the top of something",
+        "examples": [
+            {
+                "code": "cap_example_my-grandmother-often-wears-a-shower-cap",
+                "text": "My grandmother often wears a shower cap."
+            },
+            {
+                "code": "cap_example_he-has-a-baseball-cap-with-his-favorite-sports-team-on-it",
+                "text": "He has a baseball cap with his favorite sports team on it."
+            },
+            {
+                "code": "cap_example_i-used-to-collect-bottle-caps",
+                "text": "I used to collect bottle caps."
+            },
+            {
+                "code": "cap_example_the-photographer-lost-his-lens-cap",
+                "text": "The photographer lost his lens cap."
+            },
+            {
+                "code": "cap_example_our-hub-cap-fell-off-while-we-were-driving",
+                "text": "Our hub cap fell off while we were driving."
+            },
+            {
+                "code": "cap_example_is-this-a-screw-cap-or-do-i-need-a-bottle-opener",
+                "text": "Is this a screw cap or do I need a bottle opener?"
+            },
+            {
+                "code": "cap_example_the-pen-cap-is-on-the-floor",
+                "text": "The pen cap is on the floor."
+            },
+            {
+                "code": "cap_example_he-always-wears-a-baseball-cap",
+                "text": "He always wears a baseball cap."
+            },
+            {
+                "code": "cap_example_you-need-to-take-off-your-cap-in-school",
+                "text": "You need to take off your cap in school."
+            },
+            {
+                "code": "cap_example_will-you-unscrew-this-cap",
+                "text": "Will you unscrew this cap?"
+            }
+        ]
+    }
+]

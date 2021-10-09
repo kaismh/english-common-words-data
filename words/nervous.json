@@ -1,0 +1,64 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "uneasy; worried",
+        "examples": [
+            {
+                "code": "nervous_example_she-gets-nervous-all-the-time",
+                "text": "She gets nervous all the time."
+            },
+            {
+                "code": "nervous_example_he-seems-really-nervous",
+                "text": "He seems really nervous."
+            },
+            {
+                "code": "nervous_example_she-makes-me-nervous",
+                "text": "She makes me nervous."
+            },
+            {
+                "code": "nervous_example_i-have-a-nervous-disorder",
+                "text": "I have a nervous disorder."
+            },
+            {
+                "code": "nervous_example_he-has-too-much-nervous-energy",
+                "text": "He has too much nervous energy."
+            },
+            {
+                "code": "nervous_example_she-s-a-nervous-person",
+                "text": "She's a nervous person."
+            },
+            {
+                "code": "nervous_example_she-let-out-a-nervous-laugh",
+                "text": "She let out a nervous laugh."
+            },
+            {
+                "code": "nervous_example_i-almost-had-a-nervous-breakdown",
+                "text": "I almost had a nervous breakdown."
+            },
+            {
+                "code": "nervous_example_i-could-hear-nervous-laughter",
+                "text": "I could hear nervous laughter."
+            },
+            {
+                "code": "nervous_example_i-have-a-nervous-habit-of-biting-my-nails",
+                "text": "I have a nervous habit of biting my nails."
+            },
+            {
+                "code": "nervous_example_her-nervous-system-was-damaged",
+                "text": "Her nervous system was damaged."
+            },
+            {
+                "code": "nervous_example_i-m-a-little-nervous-about-the-show-tonight",
+                "text": "I'm a little nervous about the show tonight."
+            },
+            {
+                "code": "nervous_example_she-was-visibly-nervous",
+                "text": "She was visibly nervous."
+            },
+            {
+                "code": "nervous_example_i-m-nervous-about-the-show",
+                "text": "I'm nervous about the show."
+            }
+        ]
+    }
+]

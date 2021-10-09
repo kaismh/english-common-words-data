@@ -1,0 +1,48 @@
+[
+    {
+        "type": "(adv)",
+        "mean": "only; simply",
+        "examples": [
+            {
+                "code": "merely_example_he-merely-nodded",
+                "text": "He merely nodded."
+            },
+            {
+                "code": "merely_example_we-merely-touched-the-surface",
+                "text": "We merely touched the surface."
+            },
+            {
+                "code": "merely_example_i-merely-repeated-what-she-said",
+                "text": "I merely repeated what she said."
+            },
+            {
+                "code": "merely_example_i-merely-suggested-she-try-something-else",
+                "text": "I merely suggested she try something else."
+            },
+            {
+                "code": "merely_example_i-merely-asked-for-her-opinion",
+                "text": "I merely asked for her opinion."
+            },
+            {
+                "code": "merely_example_i-merely-pretended-not-to-know",
+                "text": "I merely pretended not to know."
+            },
+            {
+                "code": "merely_example_i-merely-ignored-her",
+                "text": "I merely ignored her."
+            },
+            {
+                "code": "merely_example_the-move-is-a-merely-temporary",
+                "text": "The move is a merely temporary."
+            },
+            {
+                "code": "merely_example_i-was-merely-curious",
+                "text": "I was merely curious."
+            },
+            {
+                "code": "merely_example_seeing-him-was-merely-coincidental",
+                "text": "Seeing him was merely coincidental."
+            }
+        ]
+    }
+]

@@ -1,0 +1,134 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to prepare; to decide to do something",
+        "examples": [
+            {
+                "code": "plan_example_it-is-good-to-plan-ahead",
+                "text": "It is good to plan ahead."
+            },
+            {
+                "code": "plan_example_we-initially-planned-to-stay-for-the-whole-week",
+                "text": "We initially planned to stay for the whole week."
+            },
+            {
+                "code": "plan_example_he-planned-everything-well",
+                "text": "He planned everything well."
+            },
+            {
+                "code": "plan_example_we-plan-on-leaving-by-four-o-clock",
+                "text": "We plan on leaving by four o'clock."
+            },
+            {
+                "code": "plan_example_we-should-plan-for-bad-weather",
+                "text": "We should plan for bad weather."
+            }
+        ]
+    },
+    {
+        "type": "(n)",
+        "mean": "something that you intend to do; a design or drawing for something that will be put together",
+        "examples": [
+            {
+                "code": "plan_example_we-made-plans-to-meet-later",
+                "text": "We made plans to meet later."
+            },
+            {
+                "code": "plan_example_she-has-plans-for-the-future",
+                "text": "She has plans for the future."
+            },
+            {
+                "code": "plan_example_she-has-come-up-with-a-great-plan",
+                "text": "She has come up with a great plan."
+            },
+            {
+                "code": "plan_example_let-s-consider-a-new-plan",
+                "text": "Let's consider a new plan."
+            },
+            {
+                "code": "plan_example_they-approved-the-plan",
+                "text": "They approved the plan."
+            },
+            {
+                "code": "plan_example_they-will-announce-the-new-plan-at-the-meeting",
+                "text": "They will announce the new plan at the meeting."
+            },
+            {
+                "code": "plan_example_he-cancelled-our-plans-again",
+                "text": "He cancelled our plans again."
+            },
+            {
+                "code": "plan_example_we-need-to-revise-the-plan",
+                "text": "We need to revise the plan."
+            },
+            {
+                "code": "plan_example_you-should-follow-the-plan",
+                "text": "You should follow the plan."
+            },
+            {
+                "code": "plan_example_our-plans-fell-through-again",
+                "text": "Our plans fell through again."
+            },
+            {
+                "code": "plan_example_he-set-up-a-payment-plan-for-them",
+                "text": "He set up a payment plan for them."
+            },
+            {
+                "code": "plan_example_she-has-grand-plans-for-her-future",
+                "text": "She has grand plans for her future."
+            },
+            {
+                "code": "plan_example_what-are-your-future-plans",
+                "text": "What are your future plans?"
+            },
+            {
+                "code": "plan_example_this-is-the-master-plan",
+                "text": "This is the master plan."
+            },
+            {
+                "code": "plan_example_it-is-smart-to-have-an-emergency-plan",
+                "text": "It is smart to have an emergency plan."
+            },
+            {
+                "code": "plan_example_that-s-a-good-plan",
+                "text": "That's a good plan."
+            },
+            {
+                "code": "plan_example_he-looked-over-the-flight-plan",
+                "text": "He looked over the flight plan."
+            },
+            {
+                "code": "plan_example_my-doctor-gave-me-a-treatment-plan",
+                "text": "My doctor gave me a treatment plan."
+            },
+            {
+                "code": "plan_example_we-are-preparing-our-marriage-plans",
+                "text": "We are preparing our marriage plans."
+            },
+            {
+                "code": "plan_example_we-have-exciting-travel-plans",
+                "text": "We have exciting travel plans."
+            },
+            {
+                "code": "plan_example_i-am-trying-to-stick-to-my-meal-plan",
+                "text": "I am trying to stick to my meal plan."
+            },
+            {
+                "code": "plan_example_his-company-offers-a-pension-plan",
+                "text": "His company offers a pension plan."
+            },
+            {
+                "code": "plan_example_he-is-comparing-insurance-plans",
+                "text": "He is comparing insurance plans."
+            },
+            {
+                "code": "plan_example_she-is-on-a-payment-plan",
+                "text": "She is on a payment plan."
+            },
+            {
+                "code": "plan_example_we-have-a-plan-for-next-year",
+                "text": "We have a plan for next year."
+            }
+        ]
+    }
+]

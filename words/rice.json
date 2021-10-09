@@ -1,0 +1,56 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a white or brown grain used for food",
+        "examples": [
+            {
+                "code": "rice_example_our-country-grows-a-lot-of-rice",
+                "text": "Our country grows a lot of rice."
+            },
+            {
+                "code": "rice_example_i-steamed-a-cup-of-rice",
+                "text": "I steamed a cup of rice."
+            },
+            {
+                "code": "rice_example_i-bought-a-rice-cooker",
+                "text": "I bought a rice cooker."
+            },
+            {
+                "code": "rice_example_we-drank-some-rice-wine",
+                "text": "We drank some rice wine."
+            },
+            {
+                "code": "rice_example_we-ate-rice-pudding",
+                "text": "We ate rice pudding."
+            },
+            {
+                "code": "rice_example_he-is-carrying-a-bag-of-rice",
+                "text": "He is carrying a bag of rice."
+            },
+            {
+                "code": "rice_example_he-is-a-rice-farmer",
+                "text": "He is a rice farmer."
+            },
+            {
+                "code": "rice_example_this-is-a-grain-of-rice",
+                "text": "This is a grain of rice."
+            },
+            {
+                "code": "rice_example_he-owns-a-rice-paddy",
+                "text": "He owns a rice paddy."
+            },
+            {
+                "code": "rice_example_i-ate-a-bowl-of-white-rice-for-dinner",
+                "text": "I ate a bowl of white rice for dinner."
+            },
+            {
+                "code": "rice_example_she-made-fried-rice-for-lunch",
+                "text": "She made fried rice for lunch."
+            },
+            {
+                "code": "rice_example_i-got-a-bag-of-uncooked-rice",
+                "text": "I got a bag of uncooked rice."
+            }
+        ]
+    }
+]

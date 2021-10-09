@@ -1,0 +1,36 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "happening or existing before",
+        "examples": [
+            {
+                "code": "previous_example_it-was-invented-in-the-previous-century",
+                "text": "It was invented in the previous century."
+            },
+            {
+                "code": "previous_example_his-previous-marriage-ended-five-years-ago",
+                "text": "His previous marriage ended five years ago."
+            },
+            {
+                "code": "previous_example_the-previous-owner-didn-t-take-care-of-the-house",
+                "text": "The previous owner didn't take care of the house."
+            },
+            {
+                "code": "previous_example_i-feel-like-i-was-here-in-a-previous-life",
+                "text": "I feel like I was here in a previous life."
+            },
+            {
+                "code": "previous_example_i-saw-her-at-the-supermarket-the-previous-day",
+                "text": "I saw her at the supermarket the previous day."
+            },
+            {
+                "code": "previous_example_previous-research-supports-our-theory",
+                "text": "Previous research supports our theory."
+            },
+            {
+                "code": "previous_example_refer-to-the-previous-paragraph",
+                "text": "Refer to the previous paragraph."
+            }
+        ]
+    }
+]

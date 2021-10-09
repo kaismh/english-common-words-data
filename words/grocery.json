@@ -1,0 +1,48 @@
+[
+    {
+        "type": "(n)",
+        "mean": "food or other household items",
+        "examples": [
+            {
+                "code": "grocery_example_i-need-to-get-the-weekly-groceries",
+                "text": "I need to get the weekly groceries."
+            },
+            {
+                "code": "grocery_example_we-need-to-buy-groceries",
+                "text": "We need to buy groceries."
+            },
+            {
+                "code": "grocery_example_which-stores-will-deliver-groceries",
+                "text": "Which stores will deliver groceries?"
+            },
+            {
+                "code": "grocery_example_i-usually-bag-my-own-groceries",
+                "text": "I usually bag my own groceries."
+            },
+            {
+                "code": "grocery_example_can-you-help-me-unload-the-groceries",
+                "text": "Can you help me unload the groceries?"
+            },
+            {
+                "code": "grocery_example_please-bring-in-the-grocery-bags-from-the-car",
+                "text": "Please bring in the grocery bags from the car."
+            },
+            {
+                "code": "grocery_example_i-need-to-go-grocery-shopping-tomorrow",
+                "text": "I need to go grocery shopping tomorrow."
+            },
+            {
+                "code": "grocery_example_we-should-stop-at-the-grocery-store-on-the-way-home",
+                "text": "We should stop at the grocery store on the way home."
+            },
+            {
+                "code": "grocery_example_i-made-a-grocery-list",
+                "text": "I made a grocery list."
+            },
+            {
+                "code": "grocery_example_do-we-need-a-grocery-cart",
+                "text": "Do we need a grocery cart?"
+            }
+        ]
+    }
+]

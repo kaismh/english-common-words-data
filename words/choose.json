@@ -1,0 +1,32 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to decide which person or thing you want; to decide to do something",
+        "examples": [
+            {
+                "code": "choose_example_make-sure-you-choose-carefully",
+                "text": "Make sure you choose carefully."
+            },
+            {
+                "code": "choose_example_they-can-voluntarily-choose-to-leave-at-any-time",
+                "text": "They can voluntarily choose to leave at any time."
+            },
+            {
+                "code": "choose_example_we-intentionally-chose-this-house-because-of-the-neighborhood",
+                "text": "We intentionally chose this house because of the neighborhood."
+            },
+            {
+                "code": "choose_example_i-randomly-chose-a-partner-for-the-activity",
+                "text": "I randomly chose a partner for the activity."
+            },
+            {
+                "code": "choose_example_he-is-able-to-choose-for-himself",
+                "text": "He is able to choose for himself."
+            },
+            {
+                "code": "choose_example_can-you-choose-between-these-two-shirts",
+                "text": "Can you choose between these two shirts?"
+            }
+        ]
+    }
+]

@@ -1,0 +1,108 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a hard substance that is clear or see-through; something to drink from",
+        "examples": [
+            {
+                "code": "glass_example_watch-out-for-the-broken-glass",
+                "text": "Watch out for the broken glass."
+            },
+            {
+                "code": "glass_example_the-window-is-made-of-bulletproof-glass",
+                "text": "The window is made of bulletproof glass."
+            },
+            {
+                "code": "glass_example_her-glass-is-empty",
+                "text": "Her glass is empty."
+            },
+            {
+                "code": "glass_example_hand-me-a-beer-glass",
+                "text": "Hand me a beer glass."
+            },
+            {
+                "code": "glass_example_she-inherited-a-set-of-crystal-glasses",
+                "text": "She inherited a set of crystal glasses."
+            },
+            {
+                "code": "glass_example_he-poured-me-a-fresh-glass-of-water",
+                "text": "He poured me a fresh glass of water."
+            },
+            {
+                "code": "glass_example_we-learned-how-to-make-colored-glass",
+                "text": "We learned how to make colored glass."
+            },
+            {
+                "code": "glass_example_the-glass-shattered-when-the-ball-hit-it",
+                "text": "The glass shattered when the ball hit it."
+            },
+            {
+                "code": "glass_example_she-had-a-glass-of-milk-with-her-cookies",
+                "text": "She had a glass of milk with her cookies."
+            },
+            {
+                "code": "glass_example_he-drained-his-glass",
+                "text": "He drained his glass."
+            },
+            {
+                "code": "glass_example_can-you-fill-her-glass",
+                "text": "Can you fill her glass?"
+            },
+            {
+                "code": "glass_example_i-poured-her-a-glass-of-wine",
+                "text": "I poured her a glass of wine."
+            },
+            {
+                "code": "glass_example_i-need-to-wash-these-glasses-before-the-party",
+                "text": "I need to wash these glasses before the party."
+            },
+            {
+                "code": "glass_example_they-raised-their-glasses-for-the-toast",
+                "text": "They raised their glasses for the toast."
+            },
+            {
+                "code": "glass_example_i-can-t-remember-where-i-put-down-my-glass",
+                "text": "I can't remember where I put down my glass."
+            },
+            {
+                "code": "glass_example_she-bought-glass-beads-for-an-art-project",
+                "text": "She bought glass beads for an art project."
+            },
+            {
+                "code": "glass_example_i-need-a-glass-bottle-for-this",
+                "text": "I need a glass bottle for this."
+            },
+            {
+                "code": "glass_example_they-installed-a-glass-door",
+                "text": "They installed a glass door."
+            },
+            {
+                "code": "glass_example_we-bought-a-glass-table-for-the-patio",
+                "text": "We bought a glass table for the patio."
+            },
+            {
+                "code": "glass_example_we-need-to-replace-this-pane-of-glass",
+                "text": "We need to replace this pane of glass."
+            },
+            {
+                "code": "glass_example_she-got-a-sliver-of-glass-in-her-foot",
+                "text": "She got a sliver of glass in her foot."
+            },
+            {
+                "code": "glass_example_they-keep-the-jewelry-behind-glass",
+                "text": "They keep the jewelry behind glass."
+            },
+            {
+                "code": "glass_example_i-cut-myself-on-a-piece-of-broken-glass",
+                "text": "I cut myself on a piece of broken glass."
+            },
+            {
+                "code": "glass_example_she-had-two-glasses-of-wine-with-dinner",
+                "text": "She had two glasses of wine with dinner."
+            },
+            {
+                "code": "glass_example_should-i-pour-it-in-a-glass",
+                "text": "Should I pour it in a glass?"
+            }
+        ]
+    }
+]

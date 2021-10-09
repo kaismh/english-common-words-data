@@ -1,0 +1,86 @@
+[
+    {
+        "type": "(n)",
+        "mean": "letters or words that are put on paper",
+        "examples": [
+            {
+                "code": "print_example_many-people-do-not-read-the-fine-print-of-a-contract",
+                "text": "Many people do not read the fine print of a contract."
+            },
+            {
+                "code": "print_example_my-grandfather-orders-books-in-large-print",
+                "text": "My grandfather orders books in large print."
+            },
+            {
+                "code": "print_example_his-name-was-in-clear-print-on-the-front-of-the-newspaper",
+                "text": "His name was in clear print on the front of the newspaper."
+            },
+            {
+                "code": "print_example_i-always-read-the-fine-print-of-all-documents-before-signing",
+                "text": "I always read the fine print of all documents before signing."
+            },
+            {
+                "code": "print_example_the-print-ad-took-one-whole-page-of-the-newspaper",
+                "text": "The print ad took one whole page of the newspaper."
+            },
+            {
+                "code": "print_example_online-editions-are-becoming-more-popular-than-print-editions",
+                "text": "Online editions are becoming more popular than print editions."
+            },
+            {
+                "code": "print_example_encyclopedias-are-no-longer-in-print",
+                "text": "Encyclopedias are no longer in print."
+            },
+            {
+                "code": "print_example_the-classic-book-is-out-of-print",
+                "text": "The classic book is out of print."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to put letters or words on paper; to produce books, newspapers, or magazines",
+        "examples": [
+            {
+                "code": "print_example_please-print-your-name-legibly-on-the-application",
+                "text": "Please print your name legibly on the application."
+            },
+            {
+                "code": "print_example_her-poem-was-beautifully-printed-on-decorative-paper",
+                "text": "Her poem was beautifully printed on decorative paper."
+            },
+            {
+                "code": "print_example_the-wedding-invitations-were-badly-printed",
+                "text": "The wedding invitations were badly printed."
+            },
+            {
+                "code": "print_example_they-had-t-shirts-specially-printed-with-the-winning-team-s-logo",
+                "text": "They had T-shirts specially printed with the winning team's logo."
+            },
+            {
+                "code": "print_example_most-pictures-are-now-digitally-printed-from-computers",
+                "text": "Most pictures are now digitally printed from computers."
+            },
+            {
+                "code": "print_example_please-print-your-information-in-black-ink",
+                "text": "Please print your information in black ink."
+            },
+            {
+                "code": "print_example_pictures-can-be-printed-from-digital-cameras",
+                "text": "Pictures can be printed from digital cameras."
+            },
+            {
+                "code": "print_example_his-business-cards-were-printed-on-cheap-paper",
+                "text": "His business cards were printed on cheap paper."
+            },
+            {
+                "code": "print_example_please-print-your-answer-in-the-space-provided",
+                "text": "Please print your answer in the space provided."
+            },
+            {
+                "code": "print_example_he-printed-the-document-for-his-records",
+                "text": "He printed the document for his records."
+            }
+        ]
+    }
+]

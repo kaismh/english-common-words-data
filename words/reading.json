@@ -1,0 +1,56 @@
+[
+    {
+        "type": "(n)",
+        "mean": "something to read",
+        "examples": [
+            {
+                "code": "reading_example_our-teacher-assigned-readings-from-several-textbooks",
+                "text": "Our teacher assigned readings from several textbooks."
+            },
+            {
+                "code": "reading_example_i-finished-the-reading-in-three-hours",
+                "text": "I finished the reading in three hours."
+            },
+            {
+                "code": "reading_example_this-book-is-recommended-reading-for-all-parents",
+                "text": "This book is recommended reading for all parents."
+            },
+            {
+                "code": "reading_example_i-need-reading-glasses",
+                "text": "I need reading glasses."
+            },
+            {
+                "code": "reading_example_how-is-her-reading-comprehension",
+                "text": "How is her reading comprehension?"
+            },
+            {
+                "code": "reading_example_i-have-a-lot-on-my-reading-list",
+                "text": "I have a lot on my reading list."
+            },
+            {
+                "code": "reading_example_he-has-strong-reading-skills",
+                "text": "He has strong reading skills."
+            },
+            {
+                "code": "reading_example_i-bought-a-reading-light",
+                "text": "I bought a reading light."
+            },
+            {
+                "code": "reading_example_this-book-is-essential-reading",
+                "text": "This book is essential reading."
+            },
+            {
+                "code": "reading_example_after-a-careful-reading-of-the-class-description-we-decided-not-to-take-the-class",
+                "text": "After a careful reading of the class description, we decided not to take the class."
+            },
+            {
+                "code": "reading_example_i-have-some-assigned-reading-tonight",
+                "text": "I have some assigned reading tonight."
+            },
+            {
+                "code": "reading_example_did-you-finish-the-reading-on-global-warming",
+                "text": "Did you finish the reading on global warming?"
+            }
+        ]
+    }
+]

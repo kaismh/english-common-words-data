@@ -1,0 +1,54 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "in the center of a major city",
+        "examples": [
+            {
+                "code": "downtown_example_we-just-moved-to-the-downtown-area",
+                "text": "We just moved to the downtown area."
+            },
+            {
+                "code": "downtown_example_the-couple-likes-to-go-to-the-downtown-park",
+                "text": "The couple likes to go to the downtown park."
+            },
+            {
+                "code": "downtown_example_we-got-caught-in-downtown-traffic",
+                "text": "We got caught in downtown traffic."
+            },
+            {
+                "code": "downtown_example_he-photographed-the-downtown-building",
+                "text": "He photographed the downtown building."
+            }
+        ]
+    },
+    {
+        "type": "(n)",
+        "mean": "the business center of a major city",
+        "examples": [
+            {
+                "code": "downtown_example_he-works-in-downtown",
+                "text": "He works in downtown."
+            },
+            {
+                "code": "downtown_example_downtown-is-very-crowded-during-rush-hour",
+                "text": "Downtown is very crowded during rush hour."
+            },
+            {
+                "code": "downtown_example_my-office-is-located-downtown",
+                "text": "My office is located downtown."
+            },
+            {
+                "code": "downtown_example_i-take-the-bus-to-downtown-every-day",
+                "text": "I take the bus to downtown every day."
+            },
+            {
+                "code": "downtown_example_there-are-many-homeless-in-downtown",
+                "text": "There are many homeless in downtown."
+            },
+            {
+                "code": "downtown_example_how-do-we-get-to-downtown-from-here",
+                "text": "How do we get to downtown from here?"
+            }
+        ]
+    }
+]

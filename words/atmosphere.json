@@ -1,0 +1,72 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the air that surrounds the earth; the air in a particular place; a general feeling in a place",
+        "examples": [
+            {
+                "code": "atmosphere_example_this-city-has-a-cozy-atmosphere",
+                "text": "This city has a cozy atmosphere."
+            },
+            {
+                "code": "atmosphere_example_the-neighborhood-s-atmosphere-is-friendly",
+                "text": "The neighborhood's atmosphere is friendly."
+            },
+            {
+                "code": "atmosphere_example_her-speech-created-an-emotional-atmosphere-among-the-crowd",
+                "text": "Her speech created an emotional atmosphere among the crowd."
+            },
+            {
+                "code": "atmosphere_example_the-holidays-bring-a-festive-atmosphere",
+                "text": "The holidays bring a festive atmosphere."
+            },
+            {
+                "code": "atmosphere_example_this-restaurant-provides-a-romantic-atmosphere",
+                "text": "This restaurant provides a romantic atmosphere."
+            },
+            {
+                "code": "atmosphere_example_he-is-very-uncomfortable-in-a-political-atmosphere",
+                "text": "He is very uncomfortable in a political atmosphere."
+            },
+            {
+                "code": "atmosphere_example_our-atmosphere-is-polluted",
+                "text": "Our atmosphere is polluted."
+            },
+            {
+                "code": "atmosphere_example_those-birds-fly-in-the-upper-atmosphere",
+                "text": "Those birds fly in the upper atmosphere."
+            },
+            {
+                "code": "atmosphere_example_the-atmosphere-is-very-thin-in-this-city",
+                "text": "The atmosphere is very thin in this city."
+            },
+            {
+                "code": "atmosphere_example_the-bar-had-a-very-smoky-atmosphere",
+                "text": "The bar had a very smoky atmosphere."
+            },
+            {
+                "code": "atmosphere_example_the-music-created-a-relaxing-atmosphere",
+                "text": "The music created a relaxing atmosphere."
+            },
+            {
+                "code": "atmosphere_example_the-factory-poisoned-the-atmosphere",
+                "text": "The factory poisoned the atmosphere."
+            },
+            {
+                "code": "atmosphere_example_the-clown-tried-to-lighten-the-atmosphere",
+                "text": "The clown tried to lighten the atmosphere."
+            },
+            {
+                "code": "atmosphere_example_i-sensed-a-negative-atmosphere-in-the-room",
+                "text": "I sensed a negative atmosphere in the room."
+            },
+            {
+                "code": "atmosphere_example_the-spaceship-left-the-atmosphere",
+                "text": "The spaceship left the atmosphere."
+            },
+            {
+                "code": "atmosphere_example_there-was-a-lot-of-smoke-in-the-atmosphere",
+                "text": "There was a lot of smoke in the atmosphere."
+            }
+        ]
+    }
+]

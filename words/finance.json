@@ -1,0 +1,94 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the management of money for a business, activity, or project; the money available",
+        "examples": [
+            {
+                "code": "finance_example_they-are-investigating-the-misuse-of-company-finances",
+                "text": "They are investigating the misuse of company finances."
+            },
+            {
+                "code": "finance_example_she-met-with-an-accountant-to-go-over-her-personal-finances",
+                "text": "She met with an accountant to go over her personal finances."
+            },
+            {
+                "code": "finance_example_finances-are-tight-at-the-moment",
+                "text": "Finances are tight at the moment."
+            },
+            {
+                "code": "finance_example_she-has-trouble-managing-the-household-finances",
+                "text": "She has trouble managing the household finances."
+            },
+            {
+                "code": "finance_example_she-doesn-t-have-the-finances-to-take-a-big-trip",
+                "text": "She doesn't have the finances to take a big trip."
+            },
+            {
+                "code": "finance_example_we-lack-finances-for-the-project",
+                "text": "We lack finances for the project."
+            },
+            {
+                "code": "finance_example_they-are-trying-to-manage-the-company-finances",
+                "text": "They are trying to manage the company finances."
+            },
+            {
+                "code": "finance_example_his-gambling-addiction-put-a-strain-on-their-finances",
+                "text": "His gambling addiction put a strain on their finances."
+            },
+            {
+                "code": "finance_example_the-finance-department-at-work-is-always-busy",
+                "text": "The finance department at work is always busy."
+            },
+            {
+                "code": "finance_example_she-is-on-the-finance-committee-at-church",
+                "text": "She is on the finance committee at church."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to provide money for a business, activity, or project",
+        "examples": [
+            {
+                "code": "finance_example_the-project-was-financed-entirely-with-donations",
+                "text": "The project was financed entirely with donations."
+            },
+            {
+                "code": "finance_example_the-new-stadium-will-be-financed-publicly",
+                "text": "The new stadium will be financed publicly."
+            },
+            {
+                "code": "finance_example_the-foundation-directly-finances-three-scholarships",
+                "text": "The foundation directly finances three scholarships."
+            },
+            {
+                "code": "finance_example_her-parents-helped-finance-her-new-car",
+                "text": "Her parents helped finance her new car."
+            },
+            {
+                "code": "finance_example_these-funds-are-needed-to-finance-the-improvements",
+                "text": "These funds are needed to finance the improvements."
+            },
+            {
+                "code": "finance_example_the-government-is-required-to-finance-this-project",
+                "text": "The government is required to finance this project."
+            },
+            {
+                "code": "finance_example_they-want-the-government-to-better-finance-education",
+                "text": "They want the government to better finance education."
+            },
+            {
+                "code": "finance_example_a-local-businessman-is-financing-their-expedition",
+                "text": "A local businessman is financing their expedition."
+            },
+            {
+                "code": "finance_example_he-financed-his-campaign-through-small-donations",
+                "text": "He financed his campaign through small donations."
+            },
+            {
+                "code": "finance_example_the-city-is-helping-to-finance-the-development",
+                "text": "The city is helping to finance the development."
+            }
+        ]
+    }
+]

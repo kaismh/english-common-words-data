@@ -1,0 +1,112 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a bad or unpleasant physical feeling; unhappiness",
+        "examples": [
+            {
+                "code": "pain_example_my-grandfather-suffers-from-arthritis-pain-in-his-joints",
+                "text": "My grandfather suffers from arthritis pain in his joints."
+            },
+            {
+                "code": "pain_example_if-you-have-a-child-you-will-go-through-a-lot-of-pain",
+                "text": "If you have a child, you will go through a lot of pain."
+            },
+            {
+                "code": "pain_example_this-pill-will-alleviate-the-pain-in-your-back",
+                "text": "This pill will alleviate the pain in your back."
+            },
+            {
+                "code": "pain_example_sometimes-my-legs-hurt-but-usually-i-can-ignore-the-pain",
+                "text": "Sometimes my legs hurt, but usually I can ignore the pain."
+            },
+            {
+                "code": "pain_example_exercising-with-an-injured-leg-will-only-increase-the-pain",
+                "text": "Exercising with an injured leg will only increase the pain."
+            },
+            {
+                "code": "pain_example_if-you-don-t-rest-for-a-few-days-the-pain-will-get-worse",
+                "text": "If you don't rest for a few days, the pain will get worse."
+            },
+            {
+                "code": "pain_example_the-pain-began-when-i-stopped-jogging-every-day",
+                "text": "The pain began when I stopped jogging every day."
+            },
+            {
+                "code": "pain_example_the-pain-comes-and-goes-at-least-once-a-day",
+                "text": "The pain comes and goes at least once a day."
+            },
+            {
+                "code": "pain_example_inflicting-pain-on-someone-else-is-cruel",
+                "text": "Inflicting pain on someone else is cruel."
+            },
+            {
+                "code": "pain_example_this-shot-may-cause-a-little-pain-but-it-will-go-away-quickly",
+                "text": "This shot may cause a little pain, but it will go away quickly."
+            },
+            {
+                "code": "pain_example_it-is-normal-to-feel-emotional-pain-after-the-death-of-a-loved-one",
+                "text": "It is normal to feel emotional pain after the death of a loved one."
+            },
+            {
+                "code": "pain_example_seeing-a-psychologist-may-help-to-heal-the-pain-of-a-traumatic-event",
+                "text": "Seeing a psychologist may help to heal the pain of a traumatic event."
+            },
+            {
+                "code": "pain_example_it-is-hard-to-live-with-the-pain-of-losing-a-child",
+                "text": "It is hard to live with the pain of losing a child."
+            },
+            {
+                "code": "pain_example_take-this-pain-medication-before-you-go-to-sleep-every-night",
+                "text": "Take this pain medication before you go to sleep every night."
+            },
+            {
+                "code": "pain_example_this-doctor-specializes-in-pain-management",
+                "text": "This doctor specializes in pain management."
+            },
+            {
+                "code": "pain_example_you-can-expect-some-minor-pain-symptoms",
+                "text": "You can expect some minor pain symptoms."
+            },
+            {
+                "code": "pain_example_the-pain-level-depends-on-your-health",
+                "text": "The pain level depends on your health."
+            },
+            {
+                "code": "pain_example_women-have-a-higher-pain-tolerance-than-men",
+                "text": "Women have a higher pain tolerance than men."
+            },
+            {
+                "code": "pain_example_after-the-car-accident-he-was-in-excruciating-pain-for-several-months",
+                "text": "After the car accident he was in excruciating pain for several months."
+            },
+            {
+                "code": "pain_example_when-the-weather-is-cold-i-feel-constant-pain-in-my-leg",
+                "text": "When the weather is cold I feel constant pain in my leg."
+            },
+            {
+                "code": "pain_example_she-s-feeling-slight-pain-in-her-chest",
+                "text": "She's feeling slight pain in her chest."
+            },
+            {
+                "code": "pain_example_as-we-age-it-is-normal-to-experience-joint-pain",
+                "text": "As we age, it is normal to experience joint pain."
+            },
+            {
+                "code": "pain_example_there-is-a-dull-pain-in-my-chest",
+                "text": "There is a dull pain in my chest."
+            },
+            {
+                "code": "pain_example_the-emotional-pain-of-divorce-can-take-years-to-heal",
+                "text": "The emotional pain of divorce can take years to heal."
+            },
+            {
+                "code": "pain_example_he-was-in-a-lot-of-pain-after-his-wife-left-him-for-another-man",
+                "text": "He was in a lot of pain after his wife left him for another man."
+            },
+            {
+                "code": "pain_example_i-have-pain-in-both-legs",
+                "text": "I have pain in both legs."
+            }
+        ]
+    }
+]

@@ -1,0 +1,60 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the way you feel about someone or something",
+        "examples": [
+            {
+                "code": "attitude_example_she-has-a-carefree-attitude",
+                "text": "She has a carefree attitude."
+            },
+            {
+                "code": "attitude_example_they-had-a-favorable-attitude-toward-the-change",
+                "text": "They had a favorable attitude toward the change."
+            },
+            {
+                "code": "attitude_example_we-re-upset-by-his-negative-attitude",
+                "text": "We're upset by his negative attitude."
+            },
+            {
+                "code": "attitude_example_his-success-has-given-him-an-arrogant-attitude",
+                "text": "His success has given him an arrogant attitude."
+            },
+            {
+                "code": "attitude_example_the-parents-have-a-relaxed-attitude-with-their-kids",
+                "text": "The parents have a relaxed attitude with their kids."
+            },
+            {
+                "code": "attitude_example_they-adopt-a-positive-attitude",
+                "text": "They adopt a positive attitude."
+            },
+            {
+                "code": "attitude_example_he-displays-a-carefree-attitude",
+                "text": "He displays a carefree attitude."
+            },
+            {
+                "code": "attitude_example_racist-attitudes-still-exist-in-some-parts-of-the-country",
+                "text": "Racist attitudes still exist in some parts of the country."
+            },
+            {
+                "code": "attitude_example_we-need-to-change-the-attitudes-of-the-people",
+                "text": "We need to change the attitudes of the people."
+            },
+            {
+                "code": "attitude_example_she-has-a-terrible-attitude-problem",
+                "text": "She has a terrible attitude problem."
+            },
+            {
+                "code": "attitude_example_he-is-in-need-of-a-serious-attitude-adjustment",
+                "text": "He is in need of a serious attitude adjustment."
+            },
+            {
+                "code": "attitude_example_she-needs-to-change-her-attitude-about-life",
+                "text": "She needs to change her attitude about life."
+            },
+            {
+                "code": "attitude_example_his-attitude-toward-his-parents-is-unhealthy",
+                "text": "His attitude toward his parents is unhealthy."
+            }
+        ]
+    }
+]

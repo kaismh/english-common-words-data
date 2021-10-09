@@ -1,0 +1,126 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the amount of money that you pay for something",
+        "examples": [
+            {
+                "code": "price_example_this-car-commands-a-high-price",
+                "text": "This car commands a high price."
+            },
+            {
+                "code": "price_example_the-price-of-gas-is-rising",
+                "text": "The price of gas is rising."
+            },
+            {
+                "code": "price_example_the-store-reduced-their-prices",
+                "text": "The store reduced their prices."
+            },
+            {
+                "code": "price_example_the-cars-range-in-price",
+                "text": "The cars range in price."
+            },
+            {
+                "code": "price_example_he-quoted-us-a-fair-price",
+                "text": "He quoted us a fair price."
+            },
+            {
+                "code": "price_example_we-will-pay-the-price",
+                "text": "We will pay the price."
+            },
+            {
+                "code": "price_example_they-raised-the-prices",
+                "text": "They raised the prices."
+            },
+            {
+                "code": "price_example_the-price-starts-at-fifty-dollars",
+                "text": "The price starts at fifty dollars."
+            },
+            {
+                "code": "price_example_what-is-the-price-range",
+                "text": "What is the price range?"
+            },
+            {
+                "code": "price_example_there-was-a-sudden-price-increase",
+                "text": "There was a sudden price increase."
+            },
+            {
+                "code": "price_example_they-offered-a-big-price-cut",
+                "text": "They offered a big price cut."
+            },
+            {
+                "code": "price_example_i-cut-off-the-price-tag",
+                "text": "I cut off the price tag."
+            },
+            {
+                "code": "price_example_i-will-give-you-a-fair-price",
+                "text": "I will give you a fair price."
+            },
+            {
+                "code": "price_example_we-bought-it-at-full-price",
+                "text": "We bought it at full price."
+            },
+            {
+                "code": "price_example_they-sell-furniture-at-affordable-prices",
+                "text": "They sell furniture at affordable prices."
+            },
+            {
+                "code": "price_example_housing-prices-are-going-up",
+                "text": "Housing prices are going up."
+            },
+            {
+                "code": "price_example_what-is-the-asking-price",
+                "text": "What is the asking price?"
+            },
+            {
+                "code": "price_example_ticket-prices-are-too-high",
+                "text": "Ticket prices are too high."
+            },
+            {
+                "code": "price_example_consumers-are-concerned-about-the-rising-prices",
+                "text": "Consumers are concerned about the rising prices."
+            },
+            {
+                "code": "price_example_this-is-a-small-price-to-pay",
+                "text": "This is a small price to pay."
+            },
+            {
+                "code": "price_example_gas-has-gone-up-in-price",
+                "text": "Gas has gone up in price."
+            },
+            {
+                "code": "price_example_what-s-the-price-of-this-dress",
+                "text": "What's the price of this dress?"
+            },
+            {
+                "code": "price_example_freedom-comes-at-a-price",
+                "text": "Freedom comes at a price."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to give something a certain cost",
+        "examples": [
+            {
+                "code": "price_example_these-are-highly-priced",
+                "text": "These are highly priced."
+            },
+            {
+                "code": "price_example_this-hat-is-priced-high",
+                "text": "This hat is priced high."
+            },
+            {
+                "code": "price_example_the-couch-is-priced-at-three-hundred-dollars",
+                "text": "The couch is priced at three hundred dollars."
+            },
+            {
+                "code": "price_example_the-plants-are-priced-between-ten-and-twenty-dollars",
+                "text": "The plants are priced between ten and twenty dollars."
+            },
+            {
+                "code": "price_example_the-furniture-is-priced-from-100-to-500-dollars",
+                "text": "The furniture is priced from 100 to 500 dollars."
+            }
+        ]
+    }
+]

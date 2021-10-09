@@ -1,0 +1,60 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a musical instrument with strings that is played with the fingers",
+        "examples": [
+            {
+                "code": "guitar_example_he-practices-his-acoustic-guitar",
+                "text": "He practices his acoustic guitar."
+            },
+            {
+                "code": "guitar_example_she-plays-lead-guitar",
+                "text": "She plays lead guitar."
+            },
+            {
+                "code": "guitar_example_he-s-learning-to-play-a-slide-guitar",
+                "text": "He's learning to play a slide guitar."
+            },
+            {
+                "code": "guitar_example_they-laughed-at-his-air-guitar-performance",
+                "text": "They laughed at his air guitar performance."
+            },
+            {
+                "code": "guitar_example_she-sang-and-strummed-her-guitar",
+                "text": "She sang and strummed her guitar."
+            },
+            {
+                "code": "guitar_example_i-need-to-tune-my-guitar",
+                "text": "I need to tune my guitar."
+            },
+            {
+                "code": "guitar_example_he-plays-the-guitar-really-well",
+                "text": "He plays the guitar really well."
+            },
+            {
+                "code": "guitar_example_he-broke-a-guitar-string",
+                "text": "He broke a guitar string."
+            },
+            {
+                "code": "guitar_example_does-anyone-have-an-extra-guitar-pick",
+                "text": "Does anyone have an extra guitar pick?"
+            },
+            {
+                "code": "guitar_example_she-plugged-in-the-guitar-amp",
+                "text": "She plugged in the guitar amp."
+            },
+            {
+                "code": "guitar_example_he-s-learning-a-new-guitar-chord",
+                "text": "He's learning a new guitar chord."
+            },
+            {
+                "code": "guitar_example_he-provided-guitar-accompaniment",
+                "text": "He provided guitar accompaniment."
+            },
+            {
+                "code": "guitar_example_i-need-a-new-guitar-case",
+                "text": "I need a new guitar case."
+            }
+        ]
+    }
+]

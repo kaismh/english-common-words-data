@@ -1,0 +1,80 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to be real, to live",
+        "examples": [
+            {
+                "code": "exist_example_they-argued-about-whether-aliens-actually-exist",
+                "text": "They argued about whether aliens actually exist."
+            },
+            {
+                "code": "exist_example_few-pandas-still-exist-in-the-wild",
+                "text": "Few pandas still exist in the wild."
+            },
+            {
+                "code": "exist_example_i-think-something-like-that-already-exists",
+                "text": "I think something like that already exists."
+            },
+            {
+                "code": "exist_example_dinosaurs-no-longer-exist",
+                "text": "Dinosaurs no longer exist."
+            },
+            {
+                "code": "exist_example_it-seems-like-that-company-only-exists-to-hurt-people",
+                "text": "It seems like that company only exists to hurt people."
+            },
+            {
+                "code": "exist_example_in-just-a-few-years-wild-tigers-may-cease-to-exist",
+                "text": "In just a few years, wild tigers may cease to exist."
+            },
+            {
+                "code": "exist_example_these-creatures-appear-to-exist-only-in-this-spot",
+                "text": "These creatures appear to exist only in this spot."
+            },
+            {
+                "code": "exist_example_many-buildings-will-continue-to-exist-long-after-being-abandoned",
+                "text": "Many buildings will continue to exist long after being abandoned."
+            },
+            {
+                "code": "exist_example_we-are-investigating-if-alternatives-exist",
+                "text": "We are investigating if alternatives exist."
+            },
+            {
+                "code": "exist_example_many-problems-exist-in-his-proposal",
+                "text": "Many problems exist in his proposal."
+            },
+            {
+                "code": "exist_example_these-traditions-exist-for-a-reason",
+                "text": "These traditions exist for a reason."
+            },
+            {
+                "code": "exist_example_a-lot-of-controversy-exists-surrounding-her-claim",
+                "text": "A lot of controversy exists surrounding her claim."
+            },
+            {
+                "code": "exist_example_tension-exists-between-the-two-former-friends",
+                "text": "Tension exists between the two former friends."
+            },
+            {
+                "code": "exist_example_the-possibility-exists-for-his-claim-to-be-true",
+                "text": "The possibility exists for his claim to be true."
+            },
+            {
+                "code": "exist_example_many-opportunities-exist-for-hardworking-people",
+                "text": "Many opportunities exist for hardworking people."
+            },
+            {
+                "code": "exist_example_the-technology-needed-for-this-project-does-not-exist",
+                "text": "The technology needed for this project does not exist."
+            },
+            {
+                "code": "exist_example_a-great-deal-of-similarity-exists-between-the-two",
+                "text": "A great deal of similarity exists between the two."
+            },
+            {
+                "code": "exist_example_no-explanation-exists-to-justify-his-actions",
+                "text": "No explanation exists to justify his actions."
+            }
+        ]
+    }
+]

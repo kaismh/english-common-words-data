@@ -1,0 +1,36 @@
+[
+    {
+        "type": "(n)",
+        "mean": "different types of things",
+        "examples": [
+            {
+                "code": "variety_example_the-paint-store-has-a-large-variety-of-paint-colors",
+                "text": "The paint store has a large variety of paint colors."
+            },
+            {
+                "code": "variety_example_she-has-an-amazing-variety-of-plants-and-flowers-in-her-garden",
+                "text": "She has an amazing variety of plants and flowers in her garden."
+            },
+            {
+                "code": "variety_example_the-coffee-shop-has-a-small-variety-of-ice-cream",
+                "text": "The coffee shop has a small variety of ice cream."
+            },
+            {
+                "code": "variety_example_we-offer-a-wide-variety-of-used-cars",
+                "text": "We offer a wide variety of used cars."
+            },
+            {
+                "code": "variety_example_we-saw-a-variety-of-animals-at-the-zoo",
+                "text": "We saw a variety of animals at the zoo."
+            },
+            {
+                "code": "variety_example_they-served-a-small-variety-of-desserts-at-the-party",
+                "text": "They served a small variety of desserts at the party."
+            },
+            {
+                "code": "variety_example_paint-comes-in-a-variety-of-many-colors",
+                "text": "Paint comes in a variety of many colors."
+            }
+        ]
+    }
+]

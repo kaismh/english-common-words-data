@@ -1,0 +1,82 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to break into parts; to separate into different groups; to divide",
+        "examples": [
+            {
+                "code": "split_example_the-rotting-wood-split-easily",
+                "text": "The rotting wood split easily."
+            },
+            {
+                "code": "split_example_he-split-the-chocolate-bar-in-half",
+                "text": "He split the chocolate bar in half."
+            },
+            {
+                "code": "split_example_the-business-partners-eventually-split-up-after-years-of-disagreements",
+                "text": "The business partners eventually split up after years of disagreements."
+            },
+            {
+                "code": "split_example_the-couple-split-up-last-year",
+                "text": "The couple split up last year."
+            },
+            {
+                "code": "split_example_she-tried-to-split-the-muffin-evenly",
+                "text": "She tried to split the muffin evenly."
+            },
+            {
+                "code": "split_example_the-class-split-into-several-groups",
+                "text": "The class split into several groups."
+            },
+            {
+                "code": "split_example_the-group-is-split-on-the-issue-of-immigration",
+                "text": "The group is split on the issue of immigration."
+            },
+            {
+                "code": "split_example_several-politicians-split-from-the-party",
+                "text": "Several politicians split from the party."
+            },
+            {
+                "code": "split_example_the-cost-of-replacing-the-fence-was-split-equally-between-the-neighbors",
+                "text": "The cost of replacing the fence was split equally between the neighbors."
+            }
+        ]
+    },
+    {
+        "type": "(n)",
+        "mean": "a division in a group caused by a disagreement; a division of things",
+        "examples": [
+            {
+                "code": "split_example_there-was-a-serious-split-within-the-leadership",
+                "text": "There was a serious split within the leadership."
+            },
+            {
+                "code": "split_example_the-vote-was-an-even-split",
+                "text": "The vote was an even split."
+            },
+            {
+                "code": "split_example_their-lack-of-communication-led-to-the-split",
+                "text": "Their lack of communication led to the split."
+            },
+            {
+                "code": "split_example_it-appears-there-is-a-split-in-the-decision",
+                "text": "It appears there is a split in the decision."
+            },
+            {
+                "code": "split_example_we-are-aware-of-the-split-between-the-parties",
+                "text": "We are aware of the split between the parties."
+            },
+            {
+                "code": "split_example_we-heard-about-his-split-with-his-wife",
+                "text": "We heard about his split with his wife."
+            },
+            {
+                "code": "split_example_the-new-policy-has-caused-a-split-within-the-organization",
+                "text": "The new policy has caused a split within the organization."
+            },
+            {
+                "code": "split_example_there-is-a-huge-split-over-the-issue-of-gay-marriage",
+                "text": "There is a huge split over the issue of gay marriage."
+            }
+        ]
+    }
+]

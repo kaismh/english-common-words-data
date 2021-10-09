@@ -1,0 +1,36 @@
+[
+    {
+        "type": "(adv)",
+        "mean": "completely",
+        "examples": [
+            {
+                "code": "altogether_example_she-is-altogether-better-than-us",
+                "text": "She is altogether better than us."
+            },
+            {
+                "code": "altogether_example_college-has-been-altogether-difficult",
+                "text": "College has been altogether difficult."
+            },
+            {
+                "code": "altogether_example_they-altogether-ignored-the-school-s-rules",
+                "text": "They altogether ignored the school's rules."
+            },
+            {
+                "code": "altogether_example_he-altogether-avoided-jail-time",
+                "text": "He altogether avoided jail time."
+            },
+            {
+                "code": "altogether_example_old-technology-will-soon-disappear-altogether",
+                "text": "Old technology will soon disappear altogether."
+            },
+            {
+                "code": "altogether_example_how-much-did-the-outfit-cost-altogether",
+                "text": "How much did the outfit cost altogether?"
+            },
+            {
+                "code": "altogether_example_we-spent-over-500-altogether",
+                "text": "We spent over $500 altogether."
+            }
+        ]
+    }
+]

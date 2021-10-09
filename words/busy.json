@@ -1,0 +1,28 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "having many things to do; doing something",
+        "examples": [
+            {
+                "code": "busy_example_you-look-busy",
+                "text": "You look busy."
+            },
+            {
+                "code": "busy_example_she-tries-to-keep-busy",
+                "text": "She tries to keep busy."
+            },
+            {
+                "code": "busy_example_she-got-busy-once-her-children-went-back-to-school",
+                "text": "She got busy once her children went back to school."
+            },
+            {
+                "code": "busy_example_i-am-very-busy-today",
+                "text": "I am very busy today."
+            },
+            {
+                "code": "busy_example_today-was-an-unusually-busy-day",
+                "text": "Today was an unusually busy day."
+            }
+        ]
+    }
+]

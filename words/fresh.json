@@ -1,0 +1,72 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "new; different; recently made or picked",
+        "examples": [
+            {
+                "code": "fresh_example_the-fruit-looks-so-fresh",
+                "text": "The fruit looks so fresh."
+            },
+            {
+                "code": "fresh_example_that-won-t-stay-fresh-for-long",
+                "text": "That won't stay fresh for long."
+            },
+            {
+                "code": "fresh_example_you-really-want-to-eat-this-fresh",
+                "text": "You really want to eat this fresh."
+            },
+            {
+                "code": "fresh_example_everything-here-is-extremely-fresh",
+                "text": "Everything here is extremely fresh."
+            },
+            {
+                "code": "fresh_example_are-the-muffins-still-fresh",
+                "text": "Are the muffins still fresh?"
+            },
+            {
+                "code": "fresh_example_i-need-to-get-some-fresh-air",
+                "text": "I need to get some fresh air."
+            },
+            {
+                "code": "fresh_example_she-bought-fresh-fruit-at-the-market",
+                "text": "She bought fresh fruit at the market."
+            },
+            {
+                "code": "fresh_example_i-will-make-some-fresh-coffee",
+                "text": "I will make some fresh coffee."
+            },
+            {
+                "code": "fresh_example_i-should-give-the-cat-some-fresh-food",
+                "text": "I should give the cat some fresh food."
+            },
+            {
+                "code": "fresh_example_i-need-a-fresh-perspective-on-this",
+                "text": "I need a fresh perspective on this."
+            },
+            {
+                "code": "fresh_example_you-should-put-a-fresh-bandage-on-that-wound-every-day",
+                "text": "You should put a fresh bandage on that wound every day."
+            },
+            {
+                "code": "fresh_example_i-need-to-put-on-a-fresh-shirt-before-we-go",
+                "text": "I need to put on a fresh shirt before we go."
+            },
+            {
+                "code": "fresh_example_make-sure-you-take-some-fresh-clothes",
+                "text": "Make sure you take some fresh clothes."
+            },
+            {
+                "code": "fresh_example_they-received-some-fresh-evidence",
+                "text": "They received some fresh evidence."
+            },
+            {
+                "code": "fresh_example_she-looked-out-at-the-fresh-snowfall",
+                "text": "She looked out at the fresh snowfall."
+            },
+            {
+                "code": "fresh_example_watch-out-for-the-fresh-concrete",
+                "text": "Watch out for the fresh concrete."
+            }
+        ]
+    }
+]

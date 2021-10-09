@@ -1,0 +1,36 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a piece of clothing for females that hangs from the waist",
+        "examples": [
+            {
+                "code": "skirt_example_she-s-wearing-a-long-skirt",
+                "text": "She's wearing a long skirt."
+            },
+            {
+                "code": "skirt_example_i-m-looking-for-my-denim-skirt",
+                "text": "I'm looking for my denim skirt."
+            },
+            {
+                "code": "skirt_example_you-ll-have-to-hike-up-your-skirt-to-ride-this-bike",
+                "text": "You'll have to hike up your skirt to ride this bike."
+            },
+            {
+                "code": "skirt_example_she-pulled-down-her-skirt",
+                "text": "She pulled down her skirt."
+            },
+            {
+                "code": "skirt_example_the-skirt-billowed-in-the-wind",
+                "text": "The skirt billowed in the wind."
+            },
+            {
+                "code": "skirt_example_this-skirt-is-always-riding-up",
+                "text": "This skirt is always riding up."
+            },
+            {
+                "code": "skirt_example_that-is-not-an-appropriate-skirt-length-for-school",
+                "text": "That is not an appropriate skirt length for school."
+            }
+        ]
+    }
+]

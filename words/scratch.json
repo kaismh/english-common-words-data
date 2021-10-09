@@ -1,0 +1,62 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a line or mark on the surface of something",
+        "examples": [
+            {
+                "code": "scratch_example_there-was-a-long-scratch-on-the-side-of-the-car",
+                "text": "There was a long scratch on the side of the car."
+            },
+            {
+                "code": "scratch_example_the-boy-came-in-with-a-huge-scratch-on-his-face",
+                "text": "The boy came in with a huge scratch on his face."
+            },
+            {
+                "code": "scratch_example_she-had-a-scratch-on-her-arm",
+                "text": "She had a scratch on her arm."
+            },
+            {
+                "code": "scratch_example_it-left-a-scratch-in-the-hardwood-floor",
+                "text": "It left a scratch in the hardwood floor."
+            },
+            {
+                "code": "scratch_example_he-noticed-the-scratch-mark-on-the-glass",
+                "text": "He noticed the scratch mark on the glass."
+            },
+            {
+                "code": "scratch_example_the-car-was-left-without-a-scratch",
+                "text": "The car was left without a scratch."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to rub your skin with your fingernails to stop an itch; to create a mark on the surface of something",
+        "examples": [
+            {
+                "code": "scratch_example_the-table-had-been-badly-scratched",
+                "text": "The table had been badly scratched."
+            },
+            {
+                "code": "scratch_example_he-scratched-at-his-beard-because-it-itched",
+                "text": "He scratched at his beard because it itched."
+            },
+            {
+                "code": "scratch_example_i-scratched-my-arm-on-a-rose-bush",
+                "text": "I scratched my arm on a rose bush."
+            },
+            {
+                "code": "scratch_example_the-cat-scratched-her-leg-with-its-claws",
+                "text": "The cat scratched her leg with its claws."
+            },
+            {
+                "code": "scratch_example_the-dog-scratched-at-its-wounds",
+                "text": "The dog scratched at its wounds."
+            },
+            {
+                "code": "scratch_example_the-boy-scratched-his-chin",
+                "text": "The boy scratched his chin."
+            }
+        ]
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a piece of furniture with doors and shelves used for storing things; a group of people who advise the leader of a government",
+        "examples": [
+            {
+                "code": "cabinet_example_we-bought-a-maple-cabinet-at-a-garage-sale",
+                "text": "We bought a maple cabinet at a garage sale."
+            },
+            {
+                "code": "cabinet_example_i-found-it-in-the-medicine-cabinet",
+                "text": "I found it in the medicine cabinet."
+            },
+            {
+                "code": "cabinet_example_we-keep-our-passports-in-a-locked-cabinet",
+                "text": "We keep our passports in a locked cabinet."
+            },
+            {
+                "code": "cabinet_example_they-are-replacing-their-kitchen-cabinets",
+                "text": "They are replacing their kitchen cabinets."
+            },
+            {
+                "code": "cabinet_example_she-bought-new-cabinets-for-the-kitchen",
+                "text": "She bought new cabinets for the kitchen."
+            },
+            {
+                "code": "cabinet_example_they-are-replacing-their-old-cabinets",
+                "text": "They are replacing their old cabinets."
+            },
+            {
+                "code": "cabinet_example_the-president-appointed-his-cabinet",
+                "text": "The president appointed his cabinet."
+            },
+            {
+                "code": "cabinet_example_he-wanted-to-consult-his-cabinet",
+                "text": "He wanted to consult his cabinet."
+            },
+            {
+                "code": "cabinet_example_the-cabinet-is-meeting-with-the-president",
+                "text": "The cabinet is meeting with the president."
+            },
+            {
+                "code": "cabinet_example_this-cabinet-door-is-stuck",
+                "text": "This cabinet door is stuck."
+            },
+            {
+                "code": "cabinet_example_she-is-the-most-trusted-cabinet-member",
+                "text": "She is the most trusted cabinet member."
+            },
+            {
+                "code": "cabinet_example_this-is-a-very-important-cabinet-meeting",
+                "text": "This is a very important cabinet meeting."
+            },
+            {
+                "code": "cabinet_example_we-keep-medicine-in-the-cabinet",
+                "text": "We keep medicine in the cabinet."
+            },
+            {
+                "code": "cabinet_example_she-is-a-member-of-the-cabinet",
+                "text": "She is a member of the cabinet."
+            },
+            {
+                "code": "cabinet_example_i-m-serving-on-his-cabinet",
+                "text": "I'm serving on his cabinet."
+            }
+        ]
+    }
+]

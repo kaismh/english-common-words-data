@@ -1,0 +1,42 @@
+[
+    {
+        "type": "(n)",
+        "mean": "someone who creates how something is made or built",
+        "examples": [
+            {
+                "code": "designer_example_she-is-a-good-designer",
+                "text": "She is a good designer."
+            },
+            {
+                "code": "designer_example_our-lead-designer-will-supervise-the-project",
+                "text": "Our lead designer will supervise the project."
+            },
+            {
+                "code": "designer_example_the-young-designer-has-talent",
+                "text": "The young designer has talent."
+            },
+            {
+                "code": "designer_example_she-is-a-famous-designer",
+                "text": "She is a famous designer."
+            },
+            {
+                "code": "designer_example_he-is-a-dress-designer",
+                "text": "He is a dress designer."
+            },
+            {
+                "code": "designer_example_we-are-going-to-hire-an-interior-designer",
+                "text": "We are going to hire an interior designer."
+            }
+        ]
+    },
+    {
+        "type": "(adj)",
+        "mean": "having a famous brand name; made by a famous designer",
+        "examples": [
+            {
+                "code": "designer_example_she-only-buys-designer-clothes",
+                "text": "She only buys designer clothes."
+            }
+        ]
+    }
+]

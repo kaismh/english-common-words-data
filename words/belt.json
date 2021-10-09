@@ -1,0 +1,40 @@
+[
+    {
+        "type": "(n)",
+        "mean": "A strap usually worn around the waist; flexible strap used in machines",
+        "examples": [
+            {
+                "code": "belt_example_she-s-wearing-a-leather-belt",
+                "text": "She's wearing a leather belt."
+            },
+            {
+                "code": "belt_example_he-has-black-leather-shoes-and-a-matching-belt",
+                "text": "He has black leather shoes and a matching belt."
+            },
+            {
+                "code": "belt_example_he-is-getting-his-timing-belt-replaced",
+                "text": "He is getting his timing belt replaced."
+            },
+            {
+                "code": "belt_example_items-were-placed-on-a-conveyor-belt",
+                "text": "Items were placed on a conveyor belt."
+            },
+            {
+                "code": "belt_example_i-forgot-to-buckle-my-belt",
+                "text": "I forgot to buckle my belt."
+            },
+            {
+                "code": "belt_example_he-was-having-a-hard-time-unbuckling-his-belt",
+                "text": "He was having a hard time unbuckling his belt."
+            },
+            {
+                "code": "belt_example_he-should-tighten-his-belt",
+                "text": "He should tighten his belt."
+            },
+            {
+                "code": "belt_example_that-s-a-large-belt-buckle",
+                "text": "That's a large belt buckle!"
+            }
+        ]
+    }
+]

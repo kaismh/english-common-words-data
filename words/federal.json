@@ -1,0 +1,72 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "relating to a form of government where individual states share control with central or national government",
+        "examples": [
+            {
+                "code": "federal_example_the-federal-government-declared-a-state-of-emergency-after-the-earthquake",
+                "text": "The federal government declared a state of emergency after the earthquake."
+            },
+            {
+                "code": "federal_example_he-works-for-a-federal-agency",
+                "text": "He works for a federal agency."
+            },
+            {
+                "code": "federal_example_we-need-to-research-the-federal-policy-on-immigration",
+                "text": "We need to research the federal policy on immigration."
+            },
+            {
+                "code": "federal_example_their-program-receives-a-lot-of-federal-funding",
+                "text": "Their program receives a lot of federal funding."
+            },
+            {
+                "code": "federal_example_federal-prisoners-are-being-transported-to-another-location",
+                "text": "Federal prisoners are being transported to another location."
+            },
+            {
+                "code": "federal_example_they-voted-in-the-recent-federal-election",
+                "text": "They voted in the recent federal election."
+            },
+            {
+                "code": "federal_example_the-data-from-the-federal-census-should-be-available-soon",
+                "text": "The data from the federal census should be available soon."
+            },
+            {
+                "code": "federal_example_there-was-a-federal-restriction-on-travel-to-cuba",
+                "text": "There was a federal restriction on travel to Cuba."
+            },
+            {
+                "code": "federal_example_security-is-tight-in-federal-buildings",
+                "text": "Security is tight in federal buildings."
+            },
+            {
+                "code": "federal_example_we-are-waiting-on-federal-approval",
+                "text": "We are waiting on federal approval."
+            },
+            {
+                "code": "federal_example_a-federal-inspector-will-be-here-today",
+                "text": "A federal inspector will be here today."
+            },
+            {
+                "code": "federal_example_he-is-accused-of-a-federal-offense",
+                "text": "He is accused of a federal offense."
+            },
+            {
+                "code": "federal_example_many-federal-highways-are-in-need-of-repairs",
+                "text": "Many federal highways are in need of repairs."
+            },
+            {
+                "code": "federal_example_there-is-a-federal-holiday-on-monday",
+                "text": "There is a federal holiday on Monday."
+            },
+            {
+                "code": "federal_example_he-went-to-jail-for-not-paying-federal-taxes",
+                "text": "He went to jail for not paying federal taxes."
+            },
+            {
+                "code": "federal_example_he-was-arrested-for-trespassing-on-federal-land",
+                "text": "He was arrested for trespassing on federal land."
+            }
+        ]
+    }
+]

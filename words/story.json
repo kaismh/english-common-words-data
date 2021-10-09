@@ -1,0 +1,84 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a written or told account about events and imaginary or real people",
+        "examples": [
+            {
+                "code": "story_example_the-movie-was-based-on-a-true-story",
+                "text": "The movie was based on a true story."
+            },
+            {
+                "code": "story_example_she-told-the-police-a-false-story-about-being-robbed",
+                "text": "She told the police a false story about being robbed."
+            },
+            {
+                "code": "story_example_the-teacher-told-an-interesting-story-in-class",
+                "text": "The teacher told an interesting story in class."
+            },
+            {
+                "code": "story_example_the-documentary-told-an-amazing-story-of-survival",
+                "text": "The documentary told an amazing story of survival."
+            },
+            {
+                "code": "story_example_he-told-us-terrible-stories-about-his-childhood",
+                "text": "He told us terrible stories about his childhood."
+            },
+            {
+                "code": "story_example_my-grandfather-told-us-his-life-story",
+                "text": "My grandfather told us his life story."
+            },
+            {
+                "code": "story_example_he-didn-t-tell-us-the-entire-story",
+                "text": "He didn't tell us the entire story."
+            },
+            {
+                "code": "story_example_she-finally-published-her-short-story",
+                "text": "She finally published her short story."
+            },
+            {
+                "code": "story_example_i-always-enjoy-adventure-stories",
+                "text": "I always enjoy adventure stories."
+            },
+            {
+                "code": "story_example_i-heard-the-best-story-today",
+                "text": "I heard the best story today."
+            },
+            {
+                "code": "story_example_he-didn-t-believe-her-story",
+                "text": "He didn't believe her story."
+            },
+            {
+                "code": "story_example_she-tried-to-retell-the-story-she-heard-last-year",
+                "text": "She tried to retell the story she heard last year."
+            },
+            {
+                "code": "story_example_he-kept-on-changing-his-story",
+                "text": "He kept on changing his story."
+            },
+            {
+                "code": "story_example_the-story-begins-with-a-child-looking-for-his-mother",
+                "text": "The story begins with a child looking for his mother."
+            },
+            {
+                "code": "story_example_the-story-is-titled-the-three-little-pigs",
+                "text": "The story is titled 'The Three Little Pigs."
+            },
+            {
+                "code": "story_example_the-story-is-based-on-real-life-events",
+                "text": "The story is based on real life events."
+            },
+            {
+                "code": "story_example_according-to-the-story-he-became-the-hero",
+                "text": "According to the story, he became the hero."
+            },
+            {
+                "code": "story_example_i-read-a-story-about-world-war-ii",
+                "text": "I read a story about World War II."
+            },
+            {
+                "code": "story_example_he-told-us-an-inspiring-story-of-survival",
+                "text": "He told us an inspiring story of survival."
+            }
+        ]
+    }
+]

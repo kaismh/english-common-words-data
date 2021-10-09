@@ -1,0 +1,40 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the child of an aunt or uncle",
+        "examples": [
+            {
+                "code": "cousin_example_she-is-my-first-cousin",
+                "text": "She is my first cousin."
+            },
+            {
+                "code": "cousin_example_my-baby-cousin-is-ten-years-old",
+                "text": "My baby cousin is ten years old."
+            },
+            {
+                "code": "cousin_example_i-have-five-female-cousins",
+                "text": "I have five female cousins."
+            },
+            {
+                "code": "cousin_example_how-many-cousins-do-you-have",
+                "text": "How many cousins do you have?"
+            },
+            {
+                "code": "cousin_example_is-she-your-cousin",
+                "text": "Is she your cousin?"
+            },
+            {
+                "code": "cousin_example_you-look-like-your-cousin",
+                "text": "You look like your cousin."
+            },
+            {
+                "code": "cousin_example_he-s-my-cousin-on-my-mom-s-side",
+                "text": "He's my cousin on my mom's side."
+            },
+            {
+                "code": "cousin_example_she-is-my-cousin",
+                "text": "She is my cousin."
+            }
+        ]
+    }
+]

@@ -1,0 +1,84 @@
+[
+    {
+        "type": "(adv)",
+        "mean": "very; to a great degree",
+        "examples": [
+            {
+                "code": "highly_example_he-is-a-highly-accomplished-scientist",
+                "text": "He is a highly accomplished scientist."
+            },
+            {
+                "code": "highly_example_her-statement-is-highly-accurate",
+                "text": "Her statement is highly accurate."
+            },
+            {
+                "code": "highly_example_they-are-highly-active-in-their-community",
+                "text": "They are highly active in their community."
+            },
+            {
+                "code": "highly_example_his-behavior-was-highly-amusing",
+                "text": "His behavior was highly amusing."
+            },
+            {
+                "code": "highly_example_these-changes-will-be-highly-beneficial",
+                "text": "These changes will be highly beneficial."
+            },
+            {
+                "code": "highly_example_the-process-is-highly-complex",
+                "text": "The process is highly complex."
+            },
+            {
+                "code": "highly_example_the-new-location-is-highly-convenient",
+                "text": "The new location is highly convenient."
+            },
+            {
+                "code": "highly_example_her-solution-is-highly-creative",
+                "text": "Her solution is highly creative."
+            },
+            {
+                "code": "highly_example_this-substance-is-highly-flammable",
+                "text": "This substance is highly flammable."
+            },
+            {
+                "code": "highly_example_he-is-highly-dissatisfied-with-the-results",
+                "text": "He is highly dissatisfied with the results."
+            },
+            {
+                "code": "highly_example_they-are-highly-responsible-for-the-failure",
+                "text": "They are highly responsible for the failure."
+            },
+            {
+                "code": "highly_example_he-is-highly-skeptical-about-her-intentions",
+                "text": "He is highly skeptical about her intentions."
+            },
+            {
+                "code": "highly_example_we-highly-suggest-that-you-make-these-changes",
+                "text": "We highly suggest that you make these changes."
+            },
+            {
+                "code": "highly_example_the-solution-is-highly-diluted",
+                "text": "The solution is highly diluted."
+            },
+            {
+                "code": "highly_example_her-decision-was-highly-influenced-by-his-advice",
+                "text": "Her decision was highly influenced by his advice."
+            },
+            {
+                "code": "highly_example_he-highly-doubts-that-she-is-sincere",
+                "text": "He highly doubts that she is sincere."
+            },
+            {
+                "code": "highly_example_this-school-is-highly-rated",
+                "text": "This school is highly rated."
+            },
+            {
+                "code": "highly_example_we-were-rewarded-highly-for-our-help",
+                "text": "We were rewarded highly for our help."
+            },
+            {
+                "code": "highly_example_these-items-are-highly-taxed",
+                "text": "These items are highly taxed."
+            }
+        ]
+    }
+]

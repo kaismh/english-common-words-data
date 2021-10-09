@@ -1,0 +1,44 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to tell someone that something is absolutely true or is definitely going to happen",
+        "examples": [
+            {
+                "code": "assure_example_can-you-assure-success",
+                "text": "Can you assure success?"
+            },
+            {
+                "code": "assure_example_she-tried-to-assure-me-that-she-knew-what-she-was-doing",
+                "text": "She tried to assure me that she knew what she was doing."
+            },
+            {
+                "code": "assure_example_can-you-assure-the-safety-of-your-passengers",
+                "text": "Can you assure the safety of your passengers?"
+            },
+            {
+                "code": "assure_example_how-can-you-assure-the-success-of-your-business-to-potential-investors",
+                "text": "How can you assure the success of your business to potential investors?"
+            },
+            {
+                "code": "assure_example_i-assure-you-the-project-with-be-completed-on-time",
+                "text": "I assure you the project with be completed on time."
+            },
+            {
+                "code": "assure_example_he-assured-us-that-we-would-be-safe-during-the-flood",
+                "text": "He assured us that we would be safe during the flood."
+            },
+            {
+                "code": "assure_example_the-captain-assured-his-passengers-that-the-ship-was-safe-to-ride",
+                "text": "The captain assured his passengers that the ship was safe to ride."
+            },
+            {
+                "code": "assure_example_the-player-assured-everyone-of-his-loyalty-to-his-team",
+                "text": "The player assured everyone of his loyalty to his team."
+            },
+            {
+                "code": "assure_example_the-company-assures-that-the-product-is-safe-for-children",
+                "text": "The company assures that the product is safe for children."
+            }
+        ]
+    }
+]

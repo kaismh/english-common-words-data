@@ -1,0 +1,84 @@
+[
+    {
+        "type": "(n)",
+        "mean": "an area of land with its own government and borders; a place away from the city",
+        "examples": [
+            {
+                "code": "country_example_america-is-a-beautiful-country",
+                "text": "America is a beautiful country."
+            },
+            {
+                "code": "country_example_i-prefer-to-live-in-a-hot-country",
+                "text": "I prefer to live in a hot country."
+            },
+            {
+                "code": "country_example_he-enjoyed-living-in-a-different-country",
+                "text": "He enjoyed living in a different country."
+            },
+            {
+                "code": "country_example_where-is-your-home-country",
+                "text": "Where is your home country?"
+            },
+            {
+                "code": "country_example_she-lives-in-an-occupied-country",
+                "text": "She lives in an occupied country."
+            },
+            {
+                "code": "country_example_he-is-from-an-underdeveloped-country",
+                "text": "He is from an underdeveloped country."
+            },
+            {
+                "code": "country_example_she-comes-from-a-capitalist-country",
+                "text": "She comes from a capitalist country."
+            },
+            {
+                "code": "country_example_the-president-governs-the-country",
+                "text": "The president governs the country."
+            },
+            {
+                "code": "country_example_terrorists-are-planning-to-attack-the-country",
+                "text": "Terrorists are planning to attack the country."
+            },
+            {
+                "code": "country_example_the-military-must-defend-the-country",
+                "text": "The military must defend the country."
+            },
+            {
+                "code": "country_example_i-love-my-country",
+                "text": "I love my country."
+            },
+            {
+                "code": "country_example_have-you-had-a-chance-to-tour-the-country",
+                "text": "Have you had a chance to tour the country?"
+            },
+            {
+                "code": "country_example_the-country-borders-the-coast",
+                "text": "The country borders the coast."
+            },
+            {
+                "code": "country_example_we-live-in-the-country",
+                "text": "We live in the country."
+            },
+            {
+                "code": "country_example_they-are-traveling-across-the-country",
+                "text": "They are traveling across the country."
+            },
+            {
+                "code": "country_example_do-you-live-in-this-country",
+                "text": "Do you live in this country?"
+            },
+            {
+                "code": "country_example_there-are-few-cars-on-country-roads",
+                "text": "There are few cars on country roads."
+            },
+            {
+                "code": "country_example_i-love-country-life",
+                "text": "I love country life."
+            },
+            {
+                "code": "country_example_country-boys-don-t-like-the-city",
+                "text": "Country boys don't like the city."
+            }
+        ]
+    }
+]

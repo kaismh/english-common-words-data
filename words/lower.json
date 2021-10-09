@@ -1,0 +1,52 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to move someone or something in a downward direction",
+        "examples": [
+            {
+                "code": "lower_example_they-carefully-lowered-the-coffin-into-the-ground",
+                "text": "They carefully lowered the coffin into the ground."
+            },
+            {
+                "code": "lower_example_she-quickly-lowered-her-voice-to-a-whisper",
+                "text": "She quickly lowered her voice to a whisper."
+            },
+            {
+                "code": "lower_example_i-lowered-down-the-curtains-to-block-out-the-sun",
+                "text": "I lowered down the curtains to block out the sun."
+            },
+            {
+                "code": "lower_example_the-pilot-carefully-lowered-the-helicopter-onto-the-roof",
+                "text": "The pilot carefully lowered the helicopter onto the roof."
+            },
+            {
+                "code": "lower_example_he-lowered-himself-down-to-the-ground",
+                "text": "He lowered himself down to the ground."
+            },
+            {
+                "code": "lower_example_they-lowered-the-coffin-into-the-ground",
+                "text": "They lowered the coffin into the ground."
+            },
+            {
+                "code": "lower_example_the-city-lowered-the-speed-limit",
+                "text": "The city lowered the speed limit."
+            },
+            {
+                "code": "lower_example_she-lowered-her-arm",
+                "text": "She lowered her arm."
+            },
+            {
+                "code": "lower_example_she-needs-to-lower-her-cholesterol",
+                "text": "She needs to lower her cholesterol."
+            },
+            {
+                "code": "lower_example_we-negotiated-to-lower-the-payment",
+                "text": "We negotiated to lower the payment."
+            },
+            {
+                "code": "lower_example_please-lower-the-volume",
+                "text": "Please lower the volume."
+            }
+        ]
+    }
+]

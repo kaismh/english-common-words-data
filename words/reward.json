@@ -1,0 +1,66 @@
+[
+    {
+        "type": "(n)",
+        "mean": "something given or received for doing a good job; money given or received for helping someone find a lost item or helping the police",
+        "examples": [
+            {
+                "code": "reward_example_i-was-promised-a-big-reward-for-outstanding-work",
+                "text": "I was promised a big reward for outstanding work."
+            },
+            {
+                "code": "reward_example_she-earned-a-reward-for-all-of-her-hard-work",
+                "text": "She earned a reward for all of her hard work."
+            },
+            {
+                "code": "reward_example_he-offered-a-reward-for-the-return-of-his-lost-puppy",
+                "text": "He offered a reward for the return of his lost puppy."
+            },
+            {
+                "code": "reward_example_i-claimed-my-reward-from-the-police",
+                "text": "I claimed my reward from the police."
+            },
+            {
+                "code": "reward_example_i-got-half-of-the-reward-money",
+                "text": "I got half of the reward money."
+            },
+            {
+                "code": "reward_example_we-have-a-reward-system",
+                "text": "We have a reward system."
+            },
+            {
+                "code": "reward_example_they-are-offering-a-large-reward",
+                "text": "They are offering a large reward."
+            },
+            {
+                "code": "reward_example_he-got-money-as-a-reward",
+                "text": "He got money as a reward."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to give something as a prize for good work",
+        "examples": [
+            {
+                "code": "reward_example_his-loyalty-was-rewarded",
+                "text": "His loyalty was rewarded."
+            },
+            {
+                "code": "reward_example_you-will-be-amply-rewarded-for-your-efforts",
+                "text": "You will be amply rewarded for your efforts."
+            },
+            {
+                "code": "reward_example_he-was-finally-rewarded-for-his-good-work",
+                "text": "He was finally rewarded for his good work."
+            },
+            {
+                "code": "reward_example_we-were-rewarded-with-a-great-dinner",
+                "text": "We were rewarded with a great dinner."
+            },
+            {
+                "code": "reward_example_she-was-rewarded-for-her-work",
+                "text": "She was rewarded for her work."
+            }
+        ]
+    }
+]

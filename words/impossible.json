@@ -1,0 +1,64 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "cannot happen or be done; very difficult to deal with",
+        "examples": [
+            {
+                "code": "impossible_example_his-ideas-sound-impossible",
+                "text": "His ideas sound impossible."
+            },
+            {
+                "code": "impossible_example_the-bad-weather-made-it-impossible-to-play-baseball",
+                "text": "The bad weather made it impossible to play baseball."
+            },
+            {
+                "code": "impossible_example_i-find-it-impossible-to-stay-mad-at-him",
+                "text": "I find it impossible to stay mad at him."
+            },
+            {
+                "code": "impossible_example_he-is-impossible-to-work-with",
+                "text": "He is impossible to work with."
+            },
+            {
+                "code": "impossible_example_it-is-absolutely-impossible-to-finish-the-project-today",
+                "text": "It is absolutely impossible to finish the project today."
+            },
+            {
+                "code": "impossible_example_it-is-almost-impossible-to-reach-him-during-the-day",
+                "text": "It is almost impossible to reach him during the day."
+            },
+            {
+                "code": "impossible_example_her-handwriting-is-literally-impossible-to-read",
+                "text": "Her handwriting is literally impossible to read."
+            },
+            {
+                "code": "impossible_example_both-options-are-equally-impossible",
+                "text": "Both options are equally impossible."
+            },
+            {
+                "code": "impossible_example_it-s-financially-impossible-for-us-to-buy-a-house-right-now",
+                "text": "It's financially impossible for us to buy a house right now."
+            },
+            {
+                "code": "impossible_example_it-is-physically-impossible-to-achieve-that-goal",
+                "text": "It is physically impossible to achieve that goal."
+            },
+            {
+                "code": "impossible_example_you-are-just-impossible-to-live-with",
+                "text": "You are just impossible to live with."
+            },
+            {
+                "code": "impossible_example_it-s-impossible-for-me-to-understand-you",
+                "text": "It's impossible for me to understand you."
+            },
+            {
+                "code": "impossible_example_that-is-an-impossible-demand",
+                "text": "That is an impossible demand."
+            },
+            {
+                "code": "impossible_example_those-are-impossible-odds",
+                "text": "Those are impossible odds."
+            }
+        ]
+    }
+]

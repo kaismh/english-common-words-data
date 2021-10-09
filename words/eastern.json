@@ -1,0 +1,36 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "located in the east or in the direction of where the sun rises; related to Asia",
+        "examples": [
+            {
+                "code": "eastern_example_the-house-was-on-the-eastern-shore",
+                "text": "The house was on the eastern shore."
+            },
+            {
+                "code": "eastern_example_eastern-philosophy-comes-from-asia",
+                "text": "Eastern philosophy comes from Asia."
+            },
+            {
+                "code": "eastern_example_he-lives-close-to-the-eastern-front-of-the-rocky-mountains",
+                "text": "He lives close to the eastern front of the Rocky Mountains."
+            },
+            {
+                "code": "eastern_example_they-live-in-an-eastern-county",
+                "text": "They live in an eastern county."
+            },
+            {
+                "code": "eastern_example_it-is-located-in-the-eastern-part-of-the-country",
+                "text": "It is located in the eastern part of the country."
+            },
+            {
+                "code": "eastern_example_he-is-studying-eastern-medicine",
+                "text": "He is studying eastern medicine."
+            },
+            {
+                "code": "eastern_example_we-were-hit-with-the-eastern-wind",
+                "text": "We were hit with the eastern wind."
+            }
+        ]
+    }
+]

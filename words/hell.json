@@ -1,0 +1,40 @@
+[
+    {
+        "type": "(n)",
+        "mean": "very unpleasant place or situation; in religion, the place where bad people go after they die",
+        "examples": [
+            {
+                "code": "hell_example_this-meeting-is-pure-hell",
+                "text": "This meeting is pure hell."
+            },
+            {
+                "code": "hell_example_working-there-was-a-living-hell",
+                "text": "Working there was a living hell."
+            },
+            {
+                "code": "hell_example_he-s-been-dealing-with-a-personal-hell",
+                "text": "He's been dealing with a personal hell."
+            },
+            {
+                "code": "hell_example_he-is-afraid-of-living-in-eternal-hell",
+                "text": "He is afraid of living in eternal hell."
+            },
+            {
+                "code": "hell_example_he-s-been-going-through-hell-this-week",
+                "text": "He's been going through hell this week."
+            },
+            {
+                "code": "hell_example_she-is-making-my-life-a-living-hell",
+                "text": "She is making my life a living hell."
+            },
+            {
+                "code": "hell_example_i-really-need-to-escape-this-hell",
+                "text": "I really need to escape this hell."
+            },
+            {
+                "code": "hell_example_i-feel-like-we-are-in-hell",
+                "text": "I feel like we are in hell."
+            }
+        ]
+    }
+]

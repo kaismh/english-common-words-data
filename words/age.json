@@ -1,0 +1,90 @@
+[
+    {
+        "type": "(n)",
+        "mean": "how old something is; period of history; a long time",
+        "examples": [
+            {
+                "code": "age_example_he-learned-how-to-ride-a-bike-at-an-early-age",
+                "text": "He learned how to ride a bike at an early age."
+            },
+            {
+                "code": "age_example_we-are-living-in-the-modern-age",
+                "text": "We are living in the modern age."
+            },
+            {
+                "code": "age_example_this-artifact-is-from-the-bronze-age",
+                "text": "This artifact is from the Bronze age."
+            },
+            {
+                "code": "age_example_when-you-reach-my-age-you-ll-understand",
+                "text": "When you reach my age, you'll understand."
+            },
+            {
+                "code": "age_example_you-don-t-act-your-age",
+                "text": "You don't act your age."
+            },
+            {
+                "code": "age_example_i-don-t-feel-my-age",
+                "text": "I don't feel my age."
+            },
+            {
+                "code": "age_example_the-legal-drinking-age-was-raised-to-21",
+                "text": "The legal drinking age was raised to 21."
+            },
+            {
+                "code": "age_example_it-took-ages-for-me-to-finish-college",
+                "text": "It took ages for me to finish college."
+            },
+            {
+                "code": "age_example_what-is-the-age-limit-at-the-bar",
+                "text": "What is the age limit at the bar?"
+            },
+            {
+                "code": "age_example_i-was-already-working-at-your-age",
+                "text": "I was already working at your age."
+            },
+            {
+                "code": "age_example_my-children-are-between-the-ages-of-6-and-10",
+                "text": "My children are between the ages of 6 and 10."
+            },
+            {
+                "code": "age_example_you-cannot-enter-if-you-are-under-the-age-of-18",
+                "text": "You cannot enter if you are under the age of 18."
+            },
+            {
+                "code": "age_example_this-was-written-in-the-victorian-age",
+                "text": "This was written in the Victorian Age."
+            },
+            {
+                "code": "age_example_the-mammoth-survived-through-the-ice-age",
+                "text": "The mammoth survived through the Ice Age."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to grow older",
+        "examples": [
+            {
+                "code": "age_example_you-have-aged-greatly-over-the-years",
+                "text": "You have aged greatly over the years."
+            },
+            {
+                "code": "age_example_while-in-office-the-president-aged-quickly",
+                "text": "While in office, the president aged quickly."
+            },
+            {
+                "code": "age_example_the-hollywood-actress-aged-gracefully",
+                "text": "The Hollywood actress aged gracefully."
+            },
+            {
+                "code": "age_example_my-dog-has-really-aged-these-past-couple-of-years",
+                "text": "My dog has really aged these past couple of years."
+            },
+            {
+                "code": "age_example_the-wine-has-been-aged-well",
+                "text": "The wine has been aged well."
+            }
+        ]
+    }
+]

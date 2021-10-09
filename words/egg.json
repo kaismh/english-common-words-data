@@ -1,0 +1,72 @@
+[
+    {
+        "type": "(n)",
+        "mean": "an oval object that contains a baby bird or reptile and is often used for food",
+        "examples": [
+            {
+                "code": "egg_example_we-bought-fresh-eggs-from-the-farmer",
+                "text": "We bought fresh eggs from the farmer."
+            },
+            {
+                "code": "egg_example_that-smells-like-rotten-eggs",
+                "text": "That smells like rotten eggs."
+            },
+            {
+                "code": "egg_example_they-had-fried-eggs-for-breakfast",
+                "text": "They had fried eggs for breakfast."
+            },
+            {
+                "code": "egg_example_these-hens-lay-a-lot-of-eggs",
+                "text": "These hens lay a lot of eggs."
+            },
+            {
+                "code": "egg_example_we-are-waiting-for-the-eggs-to-hatch",
+                "text": "We are waiting for the eggs to hatch."
+            },
+            {
+                "code": "egg_example_the-mother-bird-protects-her-eggs",
+                "text": "The mother bird protects her eggs."
+            },
+            {
+                "code": "egg_example_we-collected-eggs-from-the-henhouse",
+                "text": "We collected eggs from the henhouse."
+            },
+            {
+                "code": "egg_example_i-scrambled-eggs-to-make-breakfast",
+                "text": "I scrambled eggs to make breakfast."
+            },
+            {
+                "code": "egg_example_the-egg-cracked",
+                "text": "The egg cracked!"
+            },
+            {
+                "code": "egg_example_the-recipe-says-to-beat-two-eggs",
+                "text": "The recipe says to beat two eggs."
+            },
+            {
+                "code": "egg_example_remove-the-egg-yolk",
+                "text": "Remove the egg yolk."
+            },
+            {
+                "code": "egg_example_we-will-have-an-egg-hunt-on-easter",
+                "text": "We will have an egg hunt on Easter."
+            },
+            {
+                "code": "egg_example_she-had-egg-salad-for-lunch",
+                "text": "She had egg salad for lunch."
+            },
+            {
+                "code": "egg_example_i-ll-have-an-egg-sandwich",
+                "text": "I'll have an egg sandwich."
+            },
+            {
+                "code": "egg_example_use-the-egg-beater-to-mix-it",
+                "text": "Use the egg beater to mix it."
+            },
+            {
+                "code": "egg_example_she-bought-a-carton-of-eggs-at-the-store",
+                "text": "She bought a carton of eggs at the store."
+            }
+        ]
+    }
+]

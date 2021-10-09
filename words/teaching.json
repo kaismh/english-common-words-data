@@ -1,0 +1,40 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the work of a teacher; an explanation of something",
+        "examples": [
+            {
+                "code": "teaching_example_her-excellent-teaching-has-produced-smart-students",
+                "text": "Her excellent teaching has produced smart students."
+            },
+            {
+                "code": "teaching_example_poor-teaching-results-in-lazy-students",
+                "text": "Poor teaching results in lazy students."
+            },
+            {
+                "code": "teaching_example_his-remarkable-teaching-will-be-remembered-by-all-of-his-students",
+                "text": "His remarkable teaching will be remembered by all of his students."
+            },
+            {
+                "code": "teaching_example_she-is-planning-to-go-into-teaching",
+                "text": "She is planning to go into teaching."
+            },
+            {
+                "code": "teaching_example_they-are-not-happy-with-the-new-teaching-method",
+                "text": "They are not happy with the new teaching method."
+            },
+            {
+                "code": "teaching_example_he-uses-various-teaching-aids",
+                "text": "He uses various teaching aids."
+            },
+            {
+                "code": "teaching_example_he-has-been-in-teaching-for-many-years",
+                "text": "He has been in teaching for many years."
+            },
+            {
+                "code": "teaching_example_his-career-is-moving-toward-teaching",
+                "text": "His career is moving toward teaching."
+            }
+        ]
+    }
+]

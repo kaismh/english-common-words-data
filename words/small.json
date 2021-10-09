@@ -1,0 +1,32 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "little in size; few in number; not very important",
+        "examples": [
+            {
+                "code": "small_example_she-feels-so-small-next-to-her-tall-friends",
+                "text": "She feels so small next to her tall friends."
+            },
+            {
+                "code": "small_example_the-bump-on-his-head-became-smaller",
+                "text": "The bump on his head became smaller."
+            },
+            {
+                "code": "small_example_she-wants-a-dog-that-will-stay-small",
+                "text": "She wants a dog that will stay small."
+            },
+            {
+                "code": "small_example_her-hands-were-extremely-small",
+                "text": "Her hands were extremely small."
+            },
+            {
+                "code": "small_example_she-wants-a-little-smaller-house",
+                "text": "She wants a little smaller house."
+            },
+            {
+                "code": "small_example_my-shoes-are-too-small-for-him",
+                "text": "My shoes are too small for him."
+            }
+        ]
+    }
+]

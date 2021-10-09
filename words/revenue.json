@@ -1,0 +1,60 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the money made from a business; the money the government receives from taxes",
+        "examples": [
+            {
+                "code": "revenue_example_our-revenue-went-down-recently",
+                "text": "Our revenue went down recently."
+            },
+            {
+                "code": "revenue_example_his-team-has-produced-a-lot-of-revenue-for-the-company",
+                "text": "His team has produced a lot of revenue for the company."
+            },
+            {
+                "code": "revenue_example_how-can-we-generate-revenue",
+                "text": "How can we generate revenue?"
+            },
+            {
+                "code": "revenue_example_our-revenue-is-increasing",
+                "text": "Our revenue is increasing."
+            },
+            {
+                "code": "revenue_example_the-government-depends-on-tax-revenue",
+                "text": "The government depends on tax revenue."
+            },
+            {
+                "code": "revenue_example_we-are-losing-revenue-every-month",
+                "text": "We are losing revenue every month."
+            },
+            {
+                "code": "revenue_example_our-revenue-stream-has-been-reduced",
+                "text": "Our revenue stream has been reduced."
+            },
+            {
+                "code": "revenue_example_what-is-your-revenue-share",
+                "text": "What is your revenue share?"
+            },
+            {
+                "code": "revenue_example_our-yearly-revenue-has-risen",
+                "text": "Our yearly revenue has risen."
+            },
+            {
+                "code": "revenue_example_what-is-the-projected-revenue",
+                "text": "What is the projected revenue?"
+            },
+            {
+                "code": "revenue_example_where-did-the-additional-revenue-come-from",
+                "text": "Where did the additional revenue come from?"
+            },
+            {
+                "code": "revenue_example_they-heavily-rely-on-federal-revenue",
+                "text": "They heavily rely on federal revenue."
+            },
+            {
+                "code": "revenue_example_we-received-more-revenue-from-sales-this-year",
+                "text": "We received more revenue from sales this year."
+            }
+        ]
+    }
+]

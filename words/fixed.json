@@ -1,0 +1,48 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "set in place; attached; not able to be changed",
+        "examples": [
+            {
+                "code": "fixed_example_the-mirror-is-firmly-fixed-to-the-wall",
+                "text": "The mirror is firmly fixed to the wall."
+            },
+            {
+                "code": "fixed_example_i-put-a-lot-of-glue-so-it-will-stay-fixed",
+                "text": "I put a lot of glue so it will stay fixed."
+            },
+            {
+                "code": "fixed_example_the-handle-was-fixed-firmly-in-place",
+                "text": "The handle was fixed firmly in place."
+            },
+            {
+                "code": "fixed_example_the-picture-is-fixed-permanently-to-the-wall",
+                "text": "The picture is fixed permanently to the wall."
+            },
+            {
+                "code": "fixed_example_they-are-on-a-fixed-income",
+                "text": "They are on a fixed income."
+            },
+            {
+                "code": "fixed_example_the-rental-car-has-a-fixed-rate",
+                "text": "The rental car has a fixed rate."
+            },
+            {
+                "code": "fixed_example_the-satellite-orbits-the-earth-at-a-fixed-distance",
+                "text": "The satellite orbits the earth at a fixed distance."
+            },
+            {
+                "code": "fixed_example_the-contract-is-for-a-fixed-term",
+                "text": "The contract is for a fixed term."
+            },
+            {
+                "code": "fixed_example_the-train-comes-at-fixed-intervals",
+                "text": "The train comes at fixed intervals."
+            },
+            {
+                "code": "fixed_example_he-received-a-fixed-commission-on-sales",
+                "text": "He received a fixed commission on sales."
+            }
+        ]
+    }
+]

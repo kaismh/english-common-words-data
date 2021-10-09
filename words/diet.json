@@ -1,0 +1,76 @@
+[
+    {
+        "type": "(n)",
+        "mean": "food that is eaten regularly; an eating plan for losing weight or for health reasons",
+        "examples": [
+            {
+                "code": "diet_example_i-am-on-a-healthy-diet",
+                "text": "I am on a healthy diet."
+            },
+            {
+                "code": "diet_example_he-has-a-bad-diet",
+                "text": "He has a bad diet."
+            },
+            {
+                "code": "diet_example_a-stable-diet-includes-vegetables-and-fruit",
+                "text": "A stable diet includes vegetables and fruit."
+            },
+            {
+                "code": "diet_example_i-have-oatmeal-for-my-daily-diet",
+                "text": "I have oatmeal for my daily diet."
+            },
+            {
+                "code": "diet_example_she-is-on-a-vegan-diet",
+                "text": "She is on a vegan diet."
+            },
+            {
+                "code": "diet_example_she-follows-a-strict-diet",
+                "text": "She follows a strict diet."
+            },
+            {
+                "code": "diet_example_crash-diets-are-very-unhealthy",
+                "text": "Crash diets are very unhealthy."
+            },
+            {
+                "code": "diet_example_try-to-eat-a-balanced-diet",
+                "text": "Try to eat a balanced diet."
+            },
+            {
+                "code": "diet_example_she-needs-to-change-her-diet",
+                "text": "She needs to change her diet."
+            },
+            {
+                "code": "diet_example_her-diet-consists-of-fruits-and-vegetables",
+                "text": "Her diet consists of fruits and vegetables."
+            },
+            {
+                "code": "diet_example_i-can-t-follow-my-diets",
+                "text": "I can't follow my diets."
+            },
+            {
+                "code": "diet_example_the-athlete-will-start-a-strict-diet-soon",
+                "text": "The athlete will start a strict diet soon."
+            },
+            {
+                "code": "diet_example_limit-the-amount-of-sugar-in-your-diet",
+                "text": "Limit the amount of sugar in your diet."
+            },
+            {
+                "code": "diet_example_we-are-on-a-diet-of-fruits",
+                "text": "We are on a diet of fruits."
+            },
+            {
+                "code": "diet_example_the-dancers-are-on-a-strict-diet",
+                "text": "The dancers are on a strict diet."
+            },
+            {
+                "code": "diet_example_would-you-like-a-diet-drink",
+                "text": "Would you like a diet drink?"
+            },
+            {
+                "code": "diet_example_she-uses-a-diet-plan",
+                "text": "She uses a diet plan."
+            }
+        ]
+    }
+]

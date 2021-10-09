@@ -1,0 +1,104 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a vehicle that travels on water",
+        "examples": [
+            {
+                "code": "boat_example_that-little-boat-isn-t-made-for-the-ocean",
+                "text": "That little boat isn't made for the ocean."
+            },
+            {
+                "code": "boat_example_we-bought-a-speed-boat-for-summer-vacation",
+                "text": "We bought a speed boat for summer vacation."
+            },
+            {
+                "code": "boat_example_you-ll-have-to-take-a-ferry-boat-to-the-island",
+                "text": "You'll have to take a ferry boat to the island."
+            },
+            {
+                "code": "boat_example_she-s-working-on-a-fishing-boat",
+                "text": "She's working on a fishing boat."
+            },
+            {
+                "code": "boat_example_his-gift-for-christmas-was-a-toy-boat",
+                "text": "His gift for Christmas was a toy boat."
+            },
+            {
+                "code": "boat_example_we-found-a-capsized-boat-on-the-beach",
+                "text": "We found a capsized boat on the beach."
+            },
+            {
+                "code": "boat_example_let-s-take-out-the-boat-this-weekend",
+                "text": "Let's take out the boat this weekend."
+            },
+            {
+                "code": "boat_example_they-are-getting-into-the-boat",
+                "text": "They are getting into the boat."
+            },
+            {
+                "code": "boat_example_she-is-about-to-launch-the-boat",
+                "text": "She is about to launch the boat."
+            },
+            {
+                "code": "boat_example_can-i-captain-the-boat",
+                "text": "Can I captain the boat?"
+            },
+            {
+                "code": "boat_example_he-docked-the-boat-in-the-bay",
+                "text": "He docked the boat in the bay."
+            },
+            {
+                "code": "boat_example_they-have-to-load-the-boat",
+                "text": "They have to load the boat."
+            },
+            {
+                "code": "boat_example_if-you-stand-up-you-ll-rock-the-boat",
+                "text": "If you stand up, you'll rock the boat."
+            },
+            {
+                "code": "boat_example_they-caught-the-last-boat",
+                "text": "They caught the last boat."
+            },
+            {
+                "code": "boat_example_the-boat-will-sail-east",
+                "text": "The boat will sail east."
+            },
+            {
+                "code": "boat_example_when-does-the-boat-arrive",
+                "text": "When does the boat arrive?"
+            },
+            {
+                "code": "boat_example_another-boat-drifted-by-us",
+                "text": "Another boat drifted by us."
+            },
+            {
+                "code": "boat_example_the-boat-keeps-rocking-and-it-is-making-me-sick",
+                "text": "The boat keeps rocking and it is making me sick."
+            },
+            {
+                "code": "boat_example_the-storm-caused-the-boat-to-sink",
+                "text": "The storm caused the boat to sink."
+            },
+            {
+                "code": "boat_example_what-is-the-boat-carrying",
+                "text": "What is the boat carrying?"
+            },
+            {
+                "code": "boat_example_we-are-going-on-a-boat-cruise-for-our-anniversary",
+                "text": "We are going on a boat cruise for our anniversary."
+            },
+            {
+                "code": "boat_example_he-watches-boat-races",
+                "text": "He watches boat races."
+            },
+            {
+                "code": "boat_example_it-s-in-the-boat-house",
+                "text": "It's in the boat house."
+            },
+            {
+                "code": "boat_example_he-s-the-boat-operator",
+                "text": "He's the boat operator."
+            }
+        ]
+    }
+]

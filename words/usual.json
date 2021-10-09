@@ -1,0 +1,28 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "normal, happens most of the time",
+        "examples": [
+            {
+                "code": "usual_example_it-is-quite-usual-for-people-to-be-nervous-on-their-first-day-of-work",
+                "text": "It is quite usual for people to be nervous on their first day of work."
+            },
+            {
+                "code": "usual_example_his-behavior-is-far-from-usual-these-days",
+                "text": "His behavior is far from usual these days."
+            },
+            {
+                "code": "usual_example_it-is-usual-for-her-to-lead-the-conversation",
+                "text": "It is usual for her to lead the conversation."
+            },
+            {
+                "code": "usual_example_it-has-become-usual-for-everyone-to-gather-at-his-house",
+                "text": "It has become usual for everyone to gather at his house."
+            },
+            {
+                "code": "usual_example_it-is-usual-for-her-to-be-home-on-the-weekends",
+                "text": "It is usual for her to be home on the weekends."
+            }
+        ]
+    }
+]

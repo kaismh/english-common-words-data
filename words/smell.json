@@ -1,0 +1,58 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to detect the odor of something with your nose",
+        "examples": [
+            {
+                "code": "smell_example_his-clothes-smelled-strongly-of-smoke",
+                "text": "His clothes smelled strongly of smoke."
+            },
+            {
+                "code": "smell_example_i-could-almost-smell-the-smoke-a-mile-away",
+                "text": "I could almost smell the smoke a mile away."
+            },
+            {
+                "code": "smell_example_i-can-smell-her-perfume-from-far-away",
+                "text": "I can smell her perfume from far away."
+            },
+            {
+                "code": "smell_example_it-smells-like-rotten-cheese",
+                "text": "It smells like rotten cheese!"
+            },
+            {
+                "code": "smell_example_the-kitchen-smelled-of-apple-pie",
+                "text": "The kitchen smelled of apple pie."
+            },
+            {
+                "code": "smell_example_the-food-smells-good",
+                "text": "The food smells good."
+            },
+            {
+                "code": "smell_example_i-can-smell-the-fumes-from-inside-the-house",
+                "text": "I can smell the fumes from inside the house."
+            }
+        ]
+    },
+    {
+        "type": "(n)",
+        "mean": "act of smelling; sense of smell; odor; scent",
+        "examples": [
+            {
+                "code": "smell_example_what-is-that-funny-smell",
+                "text": "What is that funny smell?"
+            },
+            {
+                "code": "smell_example_the-lovely-smell-of-roses-filled-the-air",
+                "text": "The lovely smell of roses filled the air."
+            },
+            {
+                "code": "smell_example_curry-has-a-distinct-smell",
+                "text": "Curry has a distinct smell."
+            },
+            {
+                "code": "smell_example_the-garbage-can-in-the-alley-had-an-awful-smell",
+                "text": "The garbage can in the alley had an awful smell."
+            }
+        ]
+    }
+]

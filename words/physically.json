@@ -1,0 +1,40 @@
+[
+    {
+        "type": "(adv)",
+        "mean": "about the body",
+        "examples": [
+            {
+                "code": "physically_example_he-physically-abused-her",
+                "text": "He physically abused her."
+            },
+            {
+                "code": "physically_example_he-physically-destroyed-the-property",
+                "text": "He physically destroyed the property."
+            },
+            {
+                "code": "physically_example_she-had-to-physically-separate-them",
+                "text": "She had to physically separate them."
+            },
+            {
+                "code": "physically_example_are-you-physically-able-to-do-this-work",
+                "text": "Are you physically able to do this work?"
+            },
+            {
+                "code": "physically_example_she-is-physically-fit",
+                "text": "She is physically fit."
+            },
+            {
+                "code": "physically_example_my-brother-is-physically-handicapped",
+                "text": "My brother is physically handicapped."
+            },
+            {
+                "code": "physically_example_it-is-physically-impossible-to-climb-that-mountain",
+                "text": "It is physically impossible to climb that mountain."
+            },
+            {
+                "code": "physically_example_the-hike-was-physically-strenuous",
+                "text": "The hike was physically strenuous."
+            }
+        ]
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "type": "(n)",
+        "mean": "helpful comments about someone or something",
+        "examples": [
+            {
+                "code": "feedback_example_he-gave-me-a-lot-of-helpful-feedback",
+                "text": "He gave me a lot of helpful feedback."
+            },
+            {
+                "code": "feedback_example_so-far-we-ve-received-nothing-but-positive-feedback",
+                "text": "So far we've received nothing but positive feedback."
+            },
+            {
+                "code": "feedback_example_she-always-provides-honest-feedback",
+                "text": "She always provides honest feedback."
+            },
+            {
+                "code": "feedback_example_he-received-some-really-critical-feedback-on-his-proposal",
+                "text": "He received some really critical feedback on his proposal."
+            },
+            {
+                "code": "feedback_example_getting-immediate-feedback-can-be-very-useful",
+                "text": "Getting immediate feedback can be very useful."
+            },
+            {
+                "code": "feedback_example_my-teacher-never-offers-verbal-feedback",
+                "text": "My teacher never offers verbal feedback."
+            },
+            {
+                "code": "feedback_example_they-are-analyzing-student-feedback",
+                "text": "They are analyzing student feedback."
+            },
+            {
+                "code": "feedback_example_she-always-gives-good-feedback",
+                "text": "She always gives good feedback."
+            },
+            {
+                "code": "feedback_example_we-received-a-lot-of-negative-feedback-about-the-story",
+                "text": "We received a lot of negative feedback about the story."
+            },
+            {
+                "code": "feedback_example_she-is-trying-to-collect-feedback-on-the-new-policy",
+                "text": "She is trying to collect feedback on the new policy."
+            },
+            {
+                "code": "feedback_example_he-is-constantly-asking-for-feedback-on-his-work",
+                "text": "He is constantly asking for feedback on his work."
+            },
+            {
+                "code": "feedback_example_i-appreciated-her-feedback",
+                "text": "I appreciated her feedback."
+            },
+            {
+                "code": "feedback_example_she-gave-me-some-feedback-on-my-paper",
+                "text": "She gave me some feedback on my paper."
+            },
+            {
+                "code": "feedback_example_we-have-received-a-lot-of-feedback-about-the-story",
+                "text": "We have received a lot of feedback about the story."
+            },
+            {
+                "code": "feedback_example_she-provides-relevant-feedback-to-her-students",
+                "text": "She provides relevant feedback to her students."
+            }
+        ]
+    }
+]

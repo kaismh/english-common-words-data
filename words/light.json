@@ -1,0 +1,156 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the form of energy that makes it possible to see things; something that produces light",
+        "examples": [
+            {
+                "code": "light_example_the-bright-light-hurt-my-eyes",
+                "text": "The bright light hurt my eyes."
+            },
+            {
+                "code": "light_example_i-was-distracted-by-the-flashing-light",
+                "text": "I was distracted by the flashing light."
+            },
+            {
+                "code": "light_example_the-kitchen-was-filled-with-morning-light",
+                "text": "The kitchen was filled with morning light."
+            },
+            {
+                "code": "light_example_i-need-a-good-light-for-taking-pictures",
+                "text": "I need a good light for taking pictures."
+            },
+            {
+                "code": "light_example_don-t-forget-to-turn-off-the-bathroom-light",
+                "text": "Don't forget to turn off the bathroom light."
+            },
+            {
+                "code": "light_example_he-needs-to-replace-his-brake-lights",
+                "text": "He needs to replace his brake lights."
+            },
+            {
+                "code": "light_example_do-you-have-enough-light-for-reading",
+                "text": "Do you have enough light for reading?"
+            },
+            {
+                "code": "light_example_the-lamp-provided-enough-light",
+                "text": "The lamp provided enough light."
+            },
+            {
+                "code": "light_example_the-light-reflects-off-the-window",
+                "text": "The light reflects off the window."
+            },
+            {
+                "code": "light_example_they-filled-the-stage-with-bright-lights",
+                "text": "They filled the stage with bright lights."
+            },
+            {
+                "code": "light_example_she-was-blinded-by-the-stage-light",
+                "text": "She was blinded by the stage light."
+            },
+            {
+                "code": "light_example_the-brightness-of-the-light-grew-stronger",
+                "text": "The brightness of the light grew stronger."
+            },
+            {
+                "code": "light_example_don-t-forget-to-turn-on-the-lights",
+                "text": "Don't forget to turn on the lights."
+            },
+            {
+                "code": "light_example_she-stood-against-the-light",
+                "text": "She stood against the light."
+            },
+            {
+                "code": "light_example_the-light-from-the-window-was-very-bright",
+                "text": "The light from the window was very bright."
+            },
+            {
+                "code": "light_example_you-can-see-it-better-in-the-light",
+                "text": "You can see it better in the light."
+            },
+            {
+                "code": "light_example_we-need-a-better-light-source-when-camping",
+                "text": "We need a better light source when camping."
+            },
+            {
+                "code": "light_example_please-turn-off-the-light-switch-before-you-leave",
+                "text": "Please turn off the light switch before you leave."
+            },
+            {
+                "code": "light_example_we-need-to-replace-the-light-bulb",
+                "text": "We need to replace the light bulb."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to make something burn; to make something bright",
+        "examples": [
+            {
+                "code": "light_example_he-tried-to-light-the-camp-fire",
+                "text": "He tried to light the camp fire."
+            },
+            {
+                "code": "light_example_she-stopped-to-light-her-cigarette",
+                "text": "She stopped to light her cigarette."
+            },
+            {
+                "code": "light_example_he-was-studying-in-a-well-lit-room",
+                "text": "He was studying in a well lit room."
+            },
+            {
+                "code": "light_example_when-she-saw-him-her-face-immediately-lit-up",
+                "text": "When she saw him, her face immediately lit up."
+            },
+            {
+                "code": "light_example_the-fireworks-lit-up-the-sky",
+                "text": "The fireworks lit up the sky."
+            },
+            {
+                "code": "light_example_the-room-was-lit-by-a-wall-lamp",
+                "text": "The room was lit by a wall lamp."
+            },
+            {
+                "code": "light_example_his-face-lit-up-with-joy",
+                "text": "His face lit up with joy."
+            }
+        ]
+    },
+    {
+        "type": "(adj)",
+        "mean": "not dark; not heavy",
+        "examples": [
+            {
+                "code": "light_example_it-was-starting-to-get-light-outside",
+                "text": "It was starting to get light outside."
+            },
+            {
+                "code": "light_example_it-stays-light-longer-in-the-summer",
+                "text": "It stays light longer in the summer."
+            },
+            {
+                "code": "light_example_it-is-light-outside",
+                "text": "It is light outside."
+            },
+            {
+                "code": "light_example_the-bag-feels-very-light",
+                "text": "The bag feels very light."
+            },
+            {
+                "code": "light_example_it-was-almost-light-outside",
+                "text": "It was almost light outside."
+            },
+            {
+                "code": "light_example_the-field-was-not-light-enough-to-play-baseball",
+                "text": "The field was not light enough to play baseball."
+            },
+            {
+                "code": "light_example_the-bag-is-light-enough-to-carry",
+                "text": "The bag is light enough to carry."
+            },
+            {
+                "code": "light_example_the-big-box-is-extremely-light",
+                "text": "The big box is extremely light."
+            }
+        ]
+    }
+]

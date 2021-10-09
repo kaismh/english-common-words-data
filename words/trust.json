@@ -1,0 +1,98 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the belief that someone is good and honest; a financial agreement where someone legally manages someone else's money for a period of time",
+        "examples": [
+            {
+                "code": "trust_example_do-you-have-complete-trust-in-me",
+                "text": "Do you have complete trust in me?"
+            },
+            {
+                "code": "trust_example_we-need-mutual-trust-in-each-other",
+                "text": "We need mutual trust in each other."
+            },
+            {
+                "code": "trust_example_they-put-great-trust-in-their-lawyer",
+                "text": "They put great trust in their lawyer."
+            },
+            {
+                "code": "trust_example_they-have-little-trust-in-people",
+                "text": "They have little trust in people."
+            },
+            {
+                "code": "trust_example_her-money-will-be-put-into-a-family-trust-until-she-turns-18-years-old",
+                "text": "Her money will be put into a family trust until she turns 18 years old."
+            },
+            {
+                "code": "trust_example_they-put-their-trust-in-the-president",
+                "text": "They put their trust in the president."
+            },
+            {
+                "code": "trust_example_you-and-i-need-to-develop-trust-in-each-other",
+                "text": "You and I need to develop trust in each other."
+            },
+            {
+                "code": "trust_example_how-can-i-earn-your-trust",
+                "text": "How can I earn your trust?"
+            },
+            {
+                "code": "trust_example_you-broke-our-trust-in-you",
+                "text": "You broke our trust in you."
+            },
+            {
+                "code": "trust_example_the-inheritance-will-be-held-in-a-trust-until-he-turns-18-years-old",
+                "text": "The inheritance will be held in a trust until he turns 18 years old."
+            },
+            {
+                "code": "trust_example_the-grandparents-created-a-trust-for-their-grandchildren",
+                "text": "The grandparents created a trust for their grandchildren."
+            },
+            {
+                "code": "trust_example_there-was-no-trust-among-the-employees",
+                "text": "There was no trust among the employees."
+            },
+            {
+                "code": "trust_example_they-lost-their-trust-in-him",
+                "text": "They lost their trust in him."
+            },
+            {
+                "code": "trust_example_they-set-up-a-trust-account-for-their-daughter",
+                "text": "They set up a trust account for their daughter."
+            },
+            {
+                "code": "trust_example_who-is-the-trust-beneficiary",
+                "text": "Who is the trust beneficiary?"
+            },
+            {
+                "code": "trust_example_the-inheritance-will-be-held-by-the-trust-manager",
+                "text": "The inheritance will be held by the trust manager."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to believe that someone or something is good and honest",
+        "examples": [
+            {
+                "code": "trust_example_i-totally-trusted-you-but-you-lied-to-me",
+                "text": "I totally trusted you, but you lied to me."
+            },
+            {
+                "code": "trust_example_she-blindly-trusted-her-friend-and-was-betrayed",
+                "text": "She blindly trusted her friend and was betrayed."
+            },
+            {
+                "code": "trust_example_she-is-unable-to-trust-him",
+                "text": "She is unable to trust him."
+            },
+            {
+                "code": "trust_example_i-would-trust-him-with-my-life",
+                "text": "I would trust him with my life."
+            },
+            {
+                "code": "trust_example_you-have-to-trust-in-her-abilities",
+                "text": "You have to trust in her abilities."
+            }
+        ]
+    }
+]

@@ -1,0 +1,64 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a situation where people have the same opinion or belief",
+        "examples": [
+            {
+                "code": "agreement_example_the-two-countries-have-a-formal-agreement",
+                "text": "The two countries have a formal agreement."
+            },
+            {
+                "code": "agreement_example_my-friend-and-i-have-an-unspoken-agreement-not-to-discuss-politics",
+                "text": "My friend and I have an unspoken agreement not to discuss politics."
+            },
+            {
+                "code": "agreement_example_he-made-a-tentative-agreement-to-buy-my-car",
+                "text": "He made a tentative agreement to buy my car."
+            },
+            {
+                "code": "agreement_example_our-rental-agreement-does-not-allow-pets",
+                "text": "Our rental agreement does not allow pets."
+            },
+            {
+                "code": "agreement_example_she-and-i-are-in-complete-agreement",
+                "text": "She and I are in complete agreement."
+            },
+            {
+                "code": "agreement_example_let-s-discuss-the-agreement",
+                "text": "Let's discuss the agreement."
+            },
+            {
+                "code": "agreement_example_we-need-to-make-an-agreement",
+                "text": "We need to make an agreement."
+            },
+            {
+                "code": "agreement_example_you-must-honor-our-agreement",
+                "text": "You must honor our agreement."
+            },
+            {
+                "code": "agreement_example_she-broke-the-agreement",
+                "text": "She broke the agreement."
+            },
+            {
+                "code": "agreement_example_they-finally-reached-an-agreement",
+                "text": "They finally reached an agreement."
+            },
+            {
+                "code": "agreement_example_they-are-in-an-agreement-to-share-work-responsibilities",
+                "text": "They are in an agreement to share work responsibilities."
+            },
+            {
+                "code": "agreement_example_he-has-finalized-an-agreement-with-the-housing-agent",
+                "text": "He has finalized an agreement with the housing agent."
+            },
+            {
+                "code": "agreement_example_there-is-an-unspoken-agreement-between-them",
+                "text": "There is an unspoken agreement between them."
+            },
+            {
+                "code": "agreement_example_we-reached-an-agreement-on-that-subject",
+                "text": "We reached an agreement on that subject."
+            }
+        ]
+    }
+]

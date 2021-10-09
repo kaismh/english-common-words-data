@@ -1,0 +1,64 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the act of choosing something from a group of things",
+        "examples": [
+            {
+                "code": "selection_example_people-will-be-chosen-by-random-selection",
+                "text": "People will be chosen by random selection."
+            },
+            {
+                "code": "selection_example_the-judges-made-their-final-selection",
+                "text": "The judges made their final selection."
+            },
+            {
+                "code": "selection_example_there-is-a-wide-selection-of-shoes-at-this-store",
+                "text": "There is a wide selection of shoes at this store."
+            },
+            {
+                "code": "selection_example_we-were-not-impressed-by-their-limited-selection-of-food",
+                "text": "We were not impressed by their limited selection of food."
+            },
+            {
+                "code": "selection_example_the-restaurant-has-an-excellent-selection-of-fine-wines",
+                "text": "The restaurant has an excellent selection of fine wines."
+            },
+            {
+                "code": "selection_example_please-make-a-selection-soon",
+                "text": "Please make a selection soon."
+            },
+            {
+                "code": "selection_example_the-restaurant-offers-a-wide-selection-of-seafood",
+                "text": "The restaurant offers a wide selection of seafood."
+            },
+            {
+                "code": "selection_example_his-selection-was-based-on-outside-influences",
+                "text": "His selection was based on outside influences."
+            },
+            {
+                "code": "selection_example_you-ll-find-a-great-selection-of-shoes-here",
+                "text": "You'll find a great selection of shoes here."
+            },
+            {
+                "code": "selection_example_we-have-to-follow-the-selection-process",
+                "text": "We have to follow the selection process."
+            },
+            {
+                "code": "selection_example_the-judges-were-criticized-for-selection-bias",
+                "text": "The judges were criticized for selection bias."
+            },
+            {
+                "code": "selection_example_we-are-part-of-the-selection-committee",
+                "text": "We are part of the selection committee."
+            },
+            {
+                "code": "selection_example_he-is-on-the-selection-committee-for-a-new-manager",
+                "text": "He is on the selection committee for a new manager."
+            },
+            {
+                "code": "selection_example_the-store-has-a-huge-selection-of-furniture",
+                "text": "The store has a huge selection of furniture."
+            }
+        ]
+    }
+]

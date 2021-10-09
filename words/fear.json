@@ -1,0 +1,146 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the feeling of being in danger or of being scared about what might happen",
+        "examples": [
+            {
+                "code": "fear_example_she-has-an-overwhelming-fear-of-flying",
+                "text": "She has an overwhelming fear of flying."
+            },
+            {
+                "code": "fear_example_his-worst-fear-is-failure",
+                "text": "His worst fear is failure."
+            },
+            {
+                "code": "fear_example_there-is-general-fear-of-the-disease",
+                "text": "There is general fear of the disease."
+            },
+            {
+                "code": "fear_example_she-has-a-paralyzing-fear-of-public-speaking",
+                "text": "She has a paralyzing fear of public speaking."
+            },
+            {
+                "code": "fear_example_he-had-a-childhood-fear-of-basements",
+                "text": "He had a childhood fear of basements."
+            },
+            {
+                "code": "fear_example_he-feels-intense-fear-when-he-has-to-fly",
+                "text": "He feels intense fear when he has to fly."
+            },
+            {
+                "code": "fear_example_she-has-a-fear-of-heights",
+                "text": "She has a fear of heights."
+            },
+            {
+                "code": "fear_example_they-were-filled-with-fear-from-the-strange-sounds-outside",
+                "text": "They were filled with fear from the strange sounds outside."
+            },
+            {
+                "code": "fear_example_she-is-trying-to-face-her-fear-of-dogs",
+                "text": "She is trying to face her fear of dogs."
+            },
+            {
+                "code": "fear_example_they-expressed-their-fears-about-marriage",
+                "text": "They expressed their fears about marriage."
+            },
+            {
+                "code": "fear_example_he-showed-no-fear-in-the-face-of-danger",
+                "text": "He showed no fear in the face of danger."
+            },
+            {
+                "code": "fear_example_the-incident-fueled-fears-about-terrorism",
+                "text": "The incident fueled fears about terrorism."
+            },
+            {
+                "code": "fear_example_a-bad-experience-caused-her-fear-of-horses",
+                "text": "A bad experience caused her fear of horses."
+            },
+            {
+                "code": "fear_example_the-doctor-confirmed-my-fears",
+                "text": "The doctor confirmed my fears."
+            },
+            {
+                "code": "fear_example_he-tried-to-calm-her-fear-of-animals",
+                "text": "He tried to calm her fear of animals."
+            },
+            {
+                "code": "fear_example_she-is-trying-to-conquer-her-fear-of-heights",
+                "text": "She is trying to conquer her fear of heights."
+            },
+            {
+                "code": "fear_example_he-hides-his-fears-well",
+                "text": "He hides his fears well."
+            },
+            {
+                "code": "fear_example_she-covered-her-eyes-in-fear",
+                "text": "She covered her eyes in fear."
+            },
+            {
+                "code": "fear_example_he-doesn-t-voice-his-opinions-out-of-a-fear-of-public-speaking",
+                "text": "He doesn't voice his opinions out of a fear of public speaking."
+            },
+            {
+                "code": "fear_example_her-eyes-were-filled-with-fear",
+                "text": "Her eyes were filled with fear."
+            },
+            {
+                "code": "fear_example_she-faced-him-without-fear",
+                "text": "She faced him without fear."
+            },
+            {
+                "code": "fear_example_they-have-a-lot-of-fears-about-what-might-happen-next",
+                "text": "They have a lot of fears about what might happen next."
+            },
+            {
+                "code": "fear_example_she-fears-for-her-safety-in-this-neighborhood",
+                "text": "She fears for her safety in this neighborhood."
+            },
+            {
+                "code": "fear_example_he-has-a-terrible-fear-of-crowds",
+                "text": "He has a terrible fear of crowds."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to feel afraid; to feel worried; to feel that something bad might happen",
+        "examples": [
+            {
+                "code": "fear_example_they-really-feared-for-their-lives-that-night",
+                "text": "They really feared for their lives that night."
+            },
+            {
+                "code": "fear_example_she-seems-to-fear-all-men",
+                "text": "She seems to fear all men."
+            },
+            {
+                "code": "fear_example_he-began-to-fear-driving-after-the-accident",
+                "text": "He began to fear driving after the accident."
+            },
+            {
+                "code": "fear_example_she-feared-for-her-life-in-the-crash",
+                "text": "She feared for her life in the crash."
+            },
+            {
+                "code": "fear_example_she-greatly-fears-death",
+                "text": "She greatly fears death."
+            },
+            {
+                "code": "fear_example_he-fears-the-consequences-for-being-honest",
+                "text": "He fears the consequences for being honest."
+            },
+            {
+                "code": "fear_example_they-always-fear-the-worst",
+                "text": "They always fear the worst."
+            },
+            {
+                "code": "fear_example_she-fears-his-anger",
+                "text": "She fears his anger."
+            },
+            {
+                "code": "fear_example_they-fear-the-effects-of-the-experiment",
+                "text": "They fear the effects of the experiment."
+            }
+        ]
+    }
+]

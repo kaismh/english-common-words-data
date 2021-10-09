@@ -1,0 +1,58 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the subject or idea; the things inside something; the amount of something",
+        "examples": [
+            {
+                "code": "content_example_the-original-content-is-hard-to-understand",
+                "text": "The original content is hard to understand."
+            },
+            {
+                "code": "content_example_this-movie-contains-sexual-content",
+                "text": "This movie contains sexual content."
+            },
+            {
+                "code": "content_example_soda-has-high-sugar-content",
+                "text": "Soda has high sugar content."
+            },
+            {
+                "code": "content_example_can-you-check-the-alcohol-content",
+                "text": "Can you check the alcohol content?"
+            },
+            {
+                "code": "content_example_she-emptied-the-contents-of-her-purse-on-the-table",
+                "text": "She emptied the contents of her purse on the table."
+            },
+            {
+                "code": "content_example_you-must-create-your-own-content-of-the-book",
+                "text": "You must create your own content of the book."
+            },
+            {
+                "code": "content_example_they-delivered-the-contents-of-the-box-to-the-owner",
+                "text": "They delivered the contents of the box to the owner."
+            }
+        ]
+    },
+    {
+        "type": "(adj)",
+        "mean": "happy or satisfied",
+        "examples": [
+            {
+                "code": "content_example_the-boy-appears-content-at-his-new-home",
+                "text": "The boy appears content at his new home."
+            },
+            {
+                "code": "content_example_she-felt-extremely-content-after-the-job-offer",
+                "text": "She felt extremely content after the job offer."
+            },
+            {
+                "code": "content_example_i-am-fairly-content-at-my-new-job",
+                "text": "I am fairly content at my new job."
+            },
+            {
+                "code": "content_example_i-am-content-with-the-plan",
+                "text": "I am content with the plan."
+            }
+        ]
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a careless mistake; a piece of paper",
+        "examples": [
+            {
+                "code": "slip_example_he-made-a-little-slip-during-his-speech",
+                "text": "He made a little slip during his speech."
+            },
+            {
+                "code": "slip_example_she-makes-occasional-slips-at-work",
+                "text": "She makes occasional slips at work."
+            },
+            {
+                "code": "slip_example_his-mother-needs-to-sign-the-permission-slip",
+                "text": "His mother needs to sign the permission slip."
+            },
+            {
+                "code": "slip_example_i-need-to-fill-out-the-deposit-slip",
+                "text": "I need to fill out the deposit slip."
+            },
+            {
+                "code": "slip_example_i-made-a-couple-of-accidental-slips-during-the-interview",
+                "text": "I made a couple of accidental slips during the interview."
+            },
+            {
+                "code": "slip_example_i-cannot-afford-any-slips-today",
+                "text": "I cannot afford any slips today."
+            },
+            {
+                "code": "slip_example_he-forgot-to-sign-the-credit-card-slip",
+                "text": "He forgot to sign the credit card slip."
+            },
+            {
+                "code": "slip_example_please-complete-and-return-the-bottom-slip",
+                "text": "Please complete and return the bottom slip."
+            },
+            {
+                "code": "slip_example_she-wrote-her-phone-number-on-a-slip-of-paper",
+                "text": "She wrote her phone number on a slip of paper."
+            }
+        ]
+    }
+]

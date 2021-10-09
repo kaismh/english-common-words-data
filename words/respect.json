@@ -1,0 +1,74 @@
+[
+    {
+        "type": "(n)",
+        "mean": "admiration; polite consideration",
+        "examples": [
+            {
+                "code": "respect_example_she-gained-the-respect-she-deserved",
+                "text": "She gained the respect she deserved."
+            },
+            {
+                "code": "respect_example_they-lost-all-respect-for-him-when-he-admitted-to-fraud",
+                "text": "They lost all respect for him when he admitted to fraud."
+            },
+            {
+                "code": "respect_example_she-commands-respect-from-her-peers",
+                "text": "She commands respect from her peers."
+            },
+            {
+                "code": "respect_example_i-was-treated-with-respect",
+                "text": "I was treated with respect."
+            },
+            {
+                "code": "respect_example_they-have-respect-for-the-victim-s-privacy",
+                "text": "They have respect for the victim's privacy."
+            },
+            {
+                "code": "respect_example_she-paid-her-respects-to-the-family-of-the-victim",
+                "text": "She paid her respects to the family of the victim."
+            },
+            {
+                "code": "respect_example_we-have-mutual-respect-for-each-other",
+                "text": "We have mutual respect for each other."
+            },
+            {
+                "code": "respect_example_i-have-great-respect-for-them",
+                "text": "I have great respect for them."
+            },
+            {
+                "code": "respect_example_we-have-little-respect-for-him",
+                "text": "We have little respect for him."
+            },
+            {
+                "code": "respect_example_i-met-with-him-out-of-respect",
+                "text": "I met with him out of respect."
+            },
+            {
+                "code": "respect_example_with-respect-to-your-situation-i-am-not-sure-what-to-do",
+                "text": "With respect to your situation, I am not sure what to do."
+            },
+            {
+                "code": "respect_example_i-have-a-lot-of-respect-for-him",
+                "text": "I have a lot of respect for him."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "admire someone or something deeply",
+        "examples": [
+            {
+                "code": "respect_example_she-was-deeply-respected-for-her-hard-work",
+                "text": "She was deeply respected for her hard work."
+            },
+            {
+                "code": "respect_example_my-uncle-is-a-highly-respected-lawyer",
+                "text": "My uncle is a highly respected lawyer."
+            },
+            {
+                "code": "respect_example_unicef-is-internationally-respected-for-the-help-they-give-to-poor-children",
+                "text": "UNICEF is internationally respected for the help they give to poor children."
+            }
+        ]
+    }
+]

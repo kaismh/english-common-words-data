@@ -1,0 +1,84 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a round object used for sport; a party",
+        "examples": [
+            {
+                "code": "ball_example_this-sport-requires-a-tennis-ball",
+                "text": "This sport requires a tennis ball."
+            },
+            {
+                "code": "ball_example_the-baseball-player-used-to-play-college-ball",
+                "text": "The baseball player used to play college ball."
+            },
+            {
+                "code": "ball_example_the-pitcher-has-a-great-curve-ball",
+                "text": "The pitcher has a great curve ball."
+            },
+            {
+                "code": "ball_example_disco-balls-are-shiny",
+                "text": "Disco balls are shiny."
+            },
+            {
+                "code": "ball_example_we-need-to-clean-the-wound-with-cotton-balls",
+                "text": "We need to clean the wound with cotton balls."
+            },
+            {
+                "code": "ball_example_he-throws-the-ball-well",
+                "text": "He throws the ball well."
+            },
+            {
+                "code": "ball_example_kids-like-to-play-with-balls",
+                "text": "Kids like to play with balls."
+            },
+            {
+                "code": "ball_example_pass-the-ball-to-me",
+                "text": "Pass the ball to me."
+            },
+            {
+                "code": "ball_example_the-baseball-player-is-good-at-hitting-the-ball",
+                "text": "The baseball player is good at hitting the ball."
+            },
+            {
+                "code": "ball_example_the-soccer-player-kicked-the-ball-toward-the-goal",
+                "text": "The soccer player kicked the ball toward the goal."
+            },
+            {
+                "code": "ball_example_golfers-are-good-at-putting-the-ball",
+                "text": "Golfers are good at putting the ball."
+            },
+            {
+                "code": "ball_example_we-are-learning-how-to-serve-the-ball-in-tennis-class",
+                "text": "We are learning how to serve the ball in tennis class."
+            },
+            {
+                "code": "ball_example_the-ball-flew-through-the-air",
+                "text": "The ball flew through the air."
+            },
+            {
+                "code": "ball_example_where-did-the-ball-land",
+                "text": "Where did the ball land?"
+            },
+            {
+                "code": "ball_example_we-are-organizing-a-ball",
+                "text": "We are organizing a ball."
+            },
+            {
+                "code": "ball_example_they-have-a-great-ball-team",
+                "text": "They have a great ball team."
+            },
+            {
+                "code": "ball_example_the-basketball-player-has-excellent-ball-control",
+                "text": "The basketball player has excellent ball control."
+            },
+            {
+                "code": "ball_example_cinderella-put-on-her-ball-gown",
+                "text": "Cinderella put on her ball gown."
+            },
+            {
+                "code": "ball_example_we-re-invited-to-a-charity-ball",
+                "text": "We're invited to a charity ball."
+            }
+        ]
+    }
+]

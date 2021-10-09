@@ -1,0 +1,56 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "worth a lot of money; expensive; very important",
+        "examples": [
+            {
+                "code": "valuable_example_her-jewelry-is-very-valuable",
+                "text": "Her jewelry is very valuable."
+            },
+            {
+                "code": "valuable_example_he-s-a-highly-valuable-member-of-our-team",
+                "text": "He's a highly valuable member of our team."
+            },
+            {
+                "code": "valuable_example_she-is-becoming-increasingly-valuable-to-the-company",
+                "text": "She is becoming increasingly valuable to the company."
+            },
+            {
+                "code": "valuable_example_he-gave-us-some-valuable-information",
+                "text": "He gave us some valuable information."
+            },
+            {
+                "code": "valuable_example_he-sold-all-of-his-valuable-belongings",
+                "text": "He sold all of his valuable belongings."
+            },
+            {
+                "code": "valuable_example_they-own-many-valuable-properties",
+                "text": "They own many valuable properties."
+            },
+            {
+                "code": "valuable_example_her-jewelry-is-very-valuable",
+                "text": "Her jewelry is very valuable."
+            },
+            {
+                "code": "valuable_example_she-is-becoming-valuable-to-the-team",
+                "text": "She is becoming valuable to the team."
+            },
+            {
+                "code": "valuable_example_we-all-learned-a-valuable-lesson-today",
+                "text": "We all learned a valuable lesson today."
+            },
+            {
+                "code": "valuable_example_thank-you-for-your-valuable-advice",
+                "text": "Thank you for your valuable advice."
+            },
+            {
+                "code": "valuable_example_he-is-a-valuable-asset-to-the-company",
+                "text": "He is a valuable asset to the company."
+            },
+            {
+                "code": "valuable_example_she-owns-many-valuable-collections",
+                "text": "She owns many valuable collections."
+            }
+        ]
+    }
+]

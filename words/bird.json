@@ -1,0 +1,80 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a feathered animal with wings",
+        "examples": [
+            {
+                "code": "bird_example_he-has-a-pet-bird",
+                "text": "He has a pet bird."
+            },
+            {
+                "code": "bird_example_he-studies-extinct-birds",
+                "text": "He studies extinct birds."
+            },
+            {
+                "code": "bird_example_penguins-are-flightless-birds",
+                "text": "Penguins are flightless birds."
+            },
+            {
+                "code": "bird_example_the-birds-were-circling-their-prey",
+                "text": "The birds were circling their prey."
+            },
+            {
+                "code": "bird_example_some-birds-migrate-south-for-winter",
+                "text": "Some birds migrate south for winter."
+            },
+            {
+                "code": "bird_example_a-bird-landed-in-that-tree",
+                "text": "A bird landed in that tree."
+            },
+            {
+                "code": "bird_example_i-listen-to-the-birds-sing-outside-my-window",
+                "text": "I listen to the birds sing outside my window."
+            },
+            {
+                "code": "bird_example_that-bird-might-peck-you",
+                "text": "That bird might peck you."
+            },
+            {
+                "code": "bird_example_we-saw-a-bird-glide-over-the-water",
+                "text": "We saw a bird glide over the water."
+            },
+            {
+                "code": "bird_example_the-mother-bird-is-laying-eggs",
+                "text": "The mother bird is laying eggs."
+            },
+            {
+                "code": "bird_example_there-is-a-flock-of-birds",
+                "text": "There is a flock of birds."
+            },
+            {
+                "code": "bird_example_we-re-visiting-a-bird-sanctuary",
+                "text": "We're visiting a bird sanctuary."
+            },
+            {
+                "code": "bird_example_they-are-bird-watching-this-weekend",
+                "text": "They are bird watching this weekend."
+            },
+            {
+                "code": "bird_example_how-many-bird-species-are-there",
+                "text": "How many bird species are there?"
+            },
+            {
+                "code": "bird_example_there-is-a-bird-nest-on-the-roof",
+                "text": "There is a bird nest on the roof."
+            },
+            {
+                "code": "bird_example_bird-lovers-often-go-to-the-park",
+                "text": "Bird lovers often go to the park."
+            },
+            {
+                "code": "bird_example_we-put-a-bird-feeder-on-the-patio",
+                "text": "We put a bird feeder on the patio."
+            },
+            {
+                "code": "bird_example_there-are-bird-seeds-all-over-the-ground",
+                "text": "There are bird seeds all over the ground."
+            }
+        ]
+    }
+]

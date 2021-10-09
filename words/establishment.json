@@ -1,0 +1,60 @@
+[
+    {
+        "type": "(n)",
+        "mean": "business or organization",
+        "examples": [
+            {
+                "code": "establishment_example_the-formal-establishment-of-the-organization-occurred-in-1988",
+                "text": "The formal establishment of the organization occurred in 1988."
+            },
+            {
+                "code": "establishment_example_they-proposed-a-gradual-establishment-of-the-new-policy",
+                "text": "They proposed a gradual establishment of the new policy."
+            },
+            {
+                "code": "establishment_example_there-has-been-a-successful-establishment-of-new-standards",
+                "text": "There has been a successful establishment of new standards."
+            },
+            {
+                "code": "establishment_example_she-works-for-a-popular-food-establishment-in-town",
+                "text": "She works for a popular food establishment in town."
+            },
+            {
+                "code": "establishment_example_they-will-sell-their-product-at-licensed-establishments",
+                "text": "They will sell their product at licensed establishments."
+            },
+            {
+                "code": "establishment_example_they-run-a-small-educational-establishment",
+                "text": "They run a small educational establishment."
+            },
+            {
+                "code": "establishment_example_they-proposed-the-establishment-of-an-oversight-committee",
+                "text": "They proposed the establishment of an oversight committee."
+            },
+            {
+                "code": "establishment_example_the-financial-crisis-led-to-the-establishment-of-new-banking-regulations",
+                "text": "The financial crisis led to the establishment of new banking regulations."
+            },
+            {
+                "code": "establishment_example_the-local-government-encourages-the-establishment-of-new-businesses",
+                "text": "The local government encourages the establishment of new businesses."
+            },
+            {
+                "code": "establishment_example_the-school-allows-the-establishment-of-new-student-groups",
+                "text": "The school allows the establishment of new student groups."
+            },
+            {
+                "code": "establishment_example_they-announced-the-establishment-of-a-new-partnership",
+                "text": "They announced the establishment of a new partnership."
+            },
+            {
+                "code": "establishment_example_the-united-states-prevented-the-establishment-of-an-alliance-between-two-dictators",
+                "text": "The United States prevented the establishment of an alliance between two dictators."
+            },
+            {
+                "code": "establishment_example_the-establishment-of-the-school-occurred-in-1893",
+                "text": "The establishment of the school occurred in 1893."
+            }
+        ]
+    }
+]

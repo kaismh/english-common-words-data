@@ -1,0 +1,88 @@
+[
+    {
+        "type": "(n)",
+        "mean": "someone who is paid money for working",
+        "examples": [
+            {
+                "code": "employee_example_he-is-a-salaried-employee",
+                "text": "He is a salaried employee."
+            },
+            {
+                "code": "employee_example_this-company-has-50-full-time-employees",
+                "text": "This company has 50 full-time employees."
+            },
+            {
+                "code": "employee_example_her-boss-thinks-she-is-a-hard-working-employee",
+                "text": "Her boss thinks she is a hard-working employee."
+            },
+            {
+                "code": "employee_example_the-company-held-a-workshop-for-new-employees",
+                "text": "The company held a workshop for new employees."
+            },
+            {
+                "code": "employee_example_this-company-has-many-skilled-employees",
+                "text": "This company has many skilled employees."
+            },
+            {
+                "code": "employee_example_i-asked-my-fellow-employees-about-the-new-policy",
+                "text": "I asked my fellow employees about the new policy."
+            },
+            {
+                "code": "employee_example_public-employees-will-receive-a-raise-this-year",
+                "text": "Public employees will receive a raise this year."
+            },
+            {
+                "code": "employee_example_the-company-has-too-many-employees-in-this-office",
+                "text": "The company has too many employees in this office."
+            },
+            {
+                "code": "employee_example_the-company-wants-to-hire-more-employees",
+                "text": "The company wants to hire more employees."
+            },
+            {
+                "code": "employee_example_i-have-to-train-new-employees-on-the-policies",
+                "text": "I have to train new employees on the policies."
+            },
+            {
+                "code": "employee_example_he-always-pays-the-employees-on-time",
+                "text": "He always pays the employees on time."
+            },
+            {
+                "code": "employee_example_we-may-have-to-fire-a-lot-of-employees-this-year-if-sales-don-t-improve",
+                "text": "We may have to fire a lot of employees this year if sales don't improve."
+            },
+            {
+                "code": "employee_example_the-employees-worked-late-to-finish-the-project",
+                "text": "The employees worked late to finish the project."
+            },
+            {
+                "code": "employee_example_few-employees-perform-this-task-well",
+                "text": "Few employees perform this task well."
+            },
+            {
+                "code": "employee_example_many-employees-quit-recently",
+                "text": "Many employees quit recently."
+            },
+            {
+                "code": "employee_example_the-employees-complained-to-the-company-about-working-conditions",
+                "text": "The employees complained to the company about working conditions."
+            },
+            {
+                "code": "employee_example_this-company-offers-good-employee-benefits",
+                "text": "This company offers good employee benefits."
+            },
+            {
+                "code": "employee_example_the-managers-discussed-ways-to-increase-employee-performance",
+                "text": "The managers discussed ways to increase employee performance."
+            },
+            {
+                "code": "employee_example_the-employee-handbook-contains-many-rules",
+                "text": "The employee handbook contains many rules."
+            },
+            {
+                "code": "employee_example_there-are-many-laws-that-deal-with-employee-rights",
+                "text": "There are many laws that deal with employee rights."
+            }
+        ]
+    }
+]

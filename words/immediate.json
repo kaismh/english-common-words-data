@@ -1,0 +1,48 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "happening instantly; nearest in time, place or relationship",
+        "examples": [
+            {
+                "code": "immediate_example_the-effect-of-the-treatment-was-immediate",
+                "text": "The effect of the treatment was immediate."
+            },
+            {
+                "code": "immediate_example_the-funeral-is-for-the-immediate-family-members",
+                "text": "The funeral is for the immediate family members."
+            },
+            {
+                "code": "immediate_example_the-situation-requires-immediate-action",
+                "text": "The situation requires immediate action."
+            },
+            {
+                "code": "immediate_example_she-suffered-immediate-heartbreak-over-the-loss",
+                "text": "She suffered immediate heartbreak over the loss."
+            },
+            {
+                "code": "immediate_example_the-response-to-her-urgent-request-was-almost-immediate",
+                "text": "The response to her urgent request was almost immediate."
+            },
+            {
+                "code": "immediate_example_he-gained-immediate-acceptance-to-the-club",
+                "text": "He gained immediate acceptance to the club."
+            },
+            {
+                "code": "immediate_example_the-situation-calls-for-immediate-action",
+                "text": "The situation calls for immediate action."
+            },
+            {
+                "code": "immediate_example_there-was-an-immediate-danger-in-the-area",
+                "text": "There was an immediate danger in the area."
+            },
+            {
+                "code": "immediate_example_her-behavior-resulted-in-an-immediate-dismissal",
+                "text": "Her behavior resulted in an immediate dismissal."
+            },
+            {
+                "code": "immediate_example_he-experienced-immediate-relief",
+                "text": "He experienced immediate relief."
+            }
+        ]
+    }
+]

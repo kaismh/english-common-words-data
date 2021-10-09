@@ -1,0 +1,60 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a piece of music with words",
+        "examples": [
+            {
+                "code": "song_example_she-sang-a-beautiful-song-at-the-concert",
+                "text": "She sang a beautiful song at the concert."
+            },
+            {
+                "code": "song_example_he-enjoys-folk-songs",
+                "text": "He enjoys folk songs."
+            },
+            {
+                "code": "song_example_they-were-dancing-to-a-slow-song",
+                "text": "They were dancing to a slow song."
+            },
+            {
+                "code": "song_example_the-family-was-singing-children-s-songs-around-the-campfire",
+                "text": "The family was singing children's songs around the campfire."
+            },
+            {
+                "code": "song_example_he-loves-theme-songs-from-movies",
+                "text": "He loves theme songs from movies."
+            },
+            {
+                "code": "song_example_he-was-famous-for-writing-love-songs",
+                "text": "He was famous for writing love songs."
+            },
+            {
+                "code": "song_example_the-band-performed-their-signature-song",
+                "text": "The band performed their signature song."
+            },
+            {
+                "code": "song_example_we-can-download-songs-from-the-internet-now",
+                "text": "We can download songs from the Internet now."
+            },
+            {
+                "code": "song_example_my-favorite-song-came-on-the-radio",
+                "text": "My favorite song came on the radio."
+            },
+            {
+                "code": "song_example_how-does-his-new-song-go",
+                "text": "How does his new song go?"
+            },
+            {
+                "code": "song_example_she-couldn-t-remember-the-song-title",
+                "text": "She couldn't remember the song title."
+            },
+            {
+                "code": "song_example_his-feelings-toward-his-mother-were-written-in-the-song",
+                "text": "His feelings toward his mother were written in the song."
+            },
+            {
+                "code": "song_example_she-wrote-a-new-song-about-friendship",
+                "text": "She wrote a new song about friendship."
+            }
+        ]
+    }
+]

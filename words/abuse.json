@@ -1,0 +1,50 @@
+[
+    {
+        "type": "(n)",
+        "mean": "bad treatment of someone or something or use of something in a bad way",
+        "examples": [
+            {
+                "code": "abuse_example_he-has-experienced-physical-abuse",
+                "text": "He has experienced physical abuse."
+            },
+            {
+                "code": "abuse_example_the-police-work-to-prevent-abuse",
+                "text": "The police work to prevent abuse."
+            },
+            {
+                "code": "abuse_example_people-are-asked-to-report-abuse",
+                "text": "People are asked to report abuse."
+            },
+            {
+                "code": "abuse_example_he-committed-abuse",
+                "text": "He committed abuse."
+            },
+            {
+                "code": "abuse_example_abuse-takes-place-everywhere",
+                "text": "Abuse takes place everywhere."
+            },
+            {
+                "code": "abuse_example_she-is-an-abuse-victim",
+                "text": "She is an abuse victim."
+            },
+            {
+                "code": "abuse_example_he-has-a-problem-with-alcohol-abuse",
+                "text": "He has a problem with alcohol abuse."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to treat someone or something badly",
+        "examples": [
+            {
+                "code": "abuse_example_he-physically-abuses-her",
+                "text": "He physically abuses her."
+            },
+            {
+                "code": "abuse_example_they-have-been-badly-abusing-the-dog",
+                "text": "They have been badly abusing the dog."
+            }
+        ]
+    }
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to make someone do something by giving good reasons; to make someone believe something is true",
+        "examples": [
+            {
+                "code": "persuade_example_the-lawyer-successfully-persuaded-the-jury",
+                "text": "The lawyer successfully persuaded the jury."
+            },
+            {
+                "code": "persuade_example_we-almost-persuaded-her-to-go-to-the-party",
+                "text": "We almost persuaded her to go to the party."
+            },
+            {
+                "code": "persuade_example_he-easily-persuaded-his-wife-to-take-a-european-vacation",
+                "text": "He easily persuaded his wife to take a European vacation."
+            },
+            {
+                "code": "persuade_example_the-police-quickly-persuaded-the-gunman-to-surrender",
+                "text": "The police quickly persuaded the gunman to surrender."
+            },
+            {
+                "code": "persuade_example_he-tried-to-persuade-me-into-staying",
+                "text": "He tried to persuade me into staying."
+            },
+            {
+                "code": "persuade_example_i-was-unable-to-persuade-her-to-go",
+                "text": "I was unable to persuade her to go."
+            },
+            {
+                "code": "persuade_example_she-failed-to-persuade-us",
+                "text": "She failed to persuade us."
+            },
+            {
+                "code": "persuade_example_we-tried-to-persuade-her-to-visit-us",
+                "text": "We tried to persuade her to visit us."
+            },
+            {
+                "code": "persuade_example_the-lawyer-tried-to-persuade-the-court",
+                "text": "The lawyer tried to persuade the court."
+            },
+            {
+                "code": "persuade_example_the-voters-were-persuaded-by-the-tax-plan",
+                "text": "The voters were persuaded by the tax plan."
+            },
+            {
+                "code": "persuade_example_they-tried-to-persuade-the-shoppers-into-buying-their-products",
+                "text": "They tried to persuade the shoppers into buying their products."
+            }
+        ]
+    }
+]

@@ -1,0 +1,110 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a piece of paper, metal, or wood with writing or symbols on it that gives information about something; a situation that indicates something may happen or is currently happening; a way of communication",
+        "examples": [
+            {
+                "code": "sign_example_there-were-flashing-signs-not-to-go-in-the-water",
+                "text": "There were flashing signs not to go in the water."
+            },
+            {
+                "code": "sign_example_the-kids-made-cardboard-signs-for-their-lemonade-stand",
+                "text": "The kids made cardboard signs for their lemonade stand."
+            },
+            {
+                "code": "sign_example_we-followed-the-exit-signs",
+                "text": "We followed the exit signs."
+            },
+            {
+                "code": "sign_example_he-showed-clear-signs-of-the-chicken-pox",
+                "text": "He showed clear signs of the chicken pox."
+            },
+            {
+                "code": "sign_example_it-s-a-good-sign-when-kids-aren-t-fighting",
+                "text": "It's a good sign when kids aren't fighting."
+            },
+            {
+                "code": "sign_example_the-warm-rain-is-the-first-sign-of-the-storm",
+                "text": "The warm rain is the first sign of the storm."
+            },
+            {
+                "code": "sign_example_the-warning-signs-were-present-from-the-beginning",
+                "text": "The warning signs were present from the beginning."
+            },
+            {
+                "code": "sign_example_he-indicated-a-peace-sign-with-his-hands",
+                "text": "He indicated a peace sign with his hands."
+            },
+            {
+                "code": "sign_example_his-face-showed-no-sign-of-emotion",
+                "text": "His face showed no sign of emotion."
+            },
+            {
+                "code": "sign_example_we-detected-signs-of-depression",
+                "text": "We detected signs of depression."
+            },
+            {
+                "code": "sign_example_the-signs-were-easy-to-read",
+                "text": "The signs were easy to read."
+            },
+            {
+                "code": "sign_example_we-missed-the-warning-signs",
+                "text": "We missed the warning signs."
+            },
+            {
+                "code": "sign_example_he-ran-away-at-the-first-sign-of-trouble",
+                "text": "He ran away at the first sign of trouble."
+            },
+            {
+                "code": "sign_example_the-people-thought-the-earthquake-was-a-sign-from-god",
+                "text": "The people thought the earthquake was a sign from God."
+            },
+            {
+                "code": "sign_example_the-man-showed-many-signs-of-weakness",
+                "text": "The man showed many signs of weakness."
+            },
+            {
+                "code": "sign_example_we-saw-the-sign-to-the-entrance",
+                "text": "We saw the sign to the entrance."
+            },
+            {
+                "code": "sign_example_do-you-know-sign-language",
+                "text": "Do you know sign language?"
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to write your name on something",
+        "examples": [
+            {
+                "code": "sign_example_she-has-officially-signed-the-paperwork",
+                "text": "She has officially signed the paperwork."
+            },
+            {
+                "code": "sign_example_the-author-personally-signed-my-book",
+                "text": "The author personally signed my book."
+            },
+            {
+                "code": "sign_example_i-signed-up-for-evening-classes",
+                "text": "I signed up for evening classes."
+            },
+            {
+                "code": "sign_example_you-will-be-required-to-sign-a-contract",
+                "text": "You will be required to sign a contract."
+            },
+            {
+                "code": "sign_example_he-agreed-to-sign-the-divorce-papers",
+                "text": "He agreed to sign the divorce papers."
+            },
+            {
+                "code": "sign_example_i-m-staying-home-to-sign-for-a-package",
+                "text": "I'm staying home to sign for a package."
+            },
+            {
+                "code": "sign_example_we-signed-the-agreement",
+                "text": "We signed the agreement."
+            }
+        ]
+    }
+]

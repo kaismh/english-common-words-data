@@ -1,0 +1,72 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a hot drink made from roasted coffee beans",
+        "examples": [
+            {
+                "code": "coffee_example_i-like-black-coffee",
+                "text": "I like black coffee."
+            },
+            {
+                "code": "coffee_example_this-coffee-is-hot",
+                "text": "This coffee is hot."
+            },
+            {
+                "code": "coffee_example_this-is-excellent-coffee",
+                "text": "This is excellent coffee."
+            },
+            {
+                "code": "coffee_example_we-buy-organic-coffee",
+                "text": "We buy organic coffee."
+            },
+            {
+                "code": "coffee_example_let-s-have-some-coffee",
+                "text": "Let's have some coffee."
+            },
+            {
+                "code": "coffee_example_do-you-drink-coffee",
+                "text": "Do you drink coffee?"
+            },
+            {
+                "code": "coffee_example_how-do-you-take-your-coffee",
+                "text": "How do you take your coffee?"
+            },
+            {
+                "code": "coffee_example_she-sipped-her-coffee-slowly",
+                "text": "She sipped her coffee slowly."
+            },
+            {
+                "code": "coffee_example_did-you-wash-my-coffee-cup",
+                "text": "Did you wash my coffee cup?"
+            },
+            {
+                "code": "coffee_example_we-broke-the-coffee-pot",
+                "text": "We broke the coffee pot."
+            },
+            {
+                "code": "coffee_example_these-are-excellent-coffee-beans",
+                "text": "These are excellent coffee beans."
+            },
+            {
+                "code": "coffee_example_i-need-a-coffee-break",
+                "text": "I need a coffee break."
+            },
+            {
+                "code": "coffee_example_this-is-my-favorite-coffee-shop",
+                "text": "This is my favorite coffee shop."
+            },
+            {
+                "code": "coffee_example_i-just-love-the-smell-of-coffee",
+                "text": "I just love the smell of coffee."
+            },
+            {
+                "code": "coffee_example_do-you-put-anything-in-your-coffee",
+                "text": "Do you put anything in your coffee?"
+            },
+            {
+                "code": "coffee_example_i-like-toast-with-my-coffee",
+                "text": "I like toast with my coffee."
+            }
+        ]
+    }
+]

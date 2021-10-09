@@ -1,0 +1,44 @@
+[
+    {
+        "type": "(n)",
+        "mean": "part of a person's chest; the upper part of a woman's body that produces milk after having a baby",
+        "examples": [
+            {
+                "code": "breast_example_she-has-big-breasts",
+                "text": "She has big breasts."
+            },
+            {
+                "code": "breast_example_she-was-embarrassed-when-people-saw-her-bare-breasts",
+                "text": "She was embarrassed when people saw her bare breasts."
+            },
+            {
+                "code": "breast_example_she-wanted-firm-breasts",
+                "text": "She wanted firm breasts."
+            },
+            {
+                "code": "breast_example_after-nursing-she-had-tender-breasts",
+                "text": "After nursing, she had tender breasts."
+            },
+            {
+                "code": "breast_example_she-has-breast-cancer",
+                "text": "She has breast cancer."
+            },
+            {
+                "code": "breast_example_the-doctor-is-running-tests-on-the-breast-lump",
+                "text": "The doctor is running tests on the breast lump."
+            },
+            {
+                "code": "breast_example_she-s-having-a-breast-examination",
+                "text": "She's having a breast examination."
+            },
+            {
+                "code": "breast_example_did-she-have-breast-implants",
+                "text": "Did she have breast implants?"
+            },
+            {
+                "code": "breast_example_the-baby-is-only-fed-breast-milk",
+                "text": "The baby is only fed breast milk."
+            }
+        ]
+    }
+]

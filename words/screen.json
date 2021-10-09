@@ -1,0 +1,40 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the front flat part of a television or computer",
+        "examples": [
+            {
+                "code": "screen_example_there-was-a-huge-screen-at-the-theater",
+                "text": "There was a huge screen at the theater."
+            },
+            {
+                "code": "screen_example_i-couldn-t-see-the-computer-screen",
+                "text": "I couldn't see the computer screen."
+            },
+            {
+                "code": "screen_example_this-new-tv-has-a-plasma-screen",
+                "text": "This new TV has a plasma screen."
+            },
+            {
+                "code": "screen_example_we-watched-the-screen-in-amazement",
+                "text": "We watched the screen in amazement."
+            },
+            {
+                "code": "screen_example_the-screen-showed-a-large-airplane",
+                "text": "The screen showed a large airplane."
+            },
+            {
+                "code": "screen_example_the-screen-flickered-and-everything-went-dark",
+                "text": "The screen flickered and everything went dark."
+            },
+            {
+                "code": "screen_example_his-computer-screen-name-is-hard-to-remember",
+                "text": "His computer screen name is hard to remember."
+            },
+            {
+                "code": "screen_example_that-screen-saver-is-beautiful",
+                "text": "That screen saver is beautiful."
+            }
+        ]
+    }
+]

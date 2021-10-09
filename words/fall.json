@@ -1,0 +1,206 @@
+[
+    {
+        "type": "(n)",
+        "mean": "an accident; a decrease; the season between summer and winter; also known as autumn",
+        "examples": [
+            {
+                "code": "fall_example_she-took-a-nasty-fall-off-a-horse",
+                "text": "She took a nasty fall off a horse."
+            },
+            {
+                "code": "fall_example_there-was-a-sharp-fall-in-the-demand-for-oil",
+                "text": "There was a sharp fall in the demand for oil."
+            },
+            {
+                "code": "fall_example_there-was-a-big-fall-in-prices",
+                "text": "There was a big fall in prices."
+            },
+            {
+                "code": "fall_example_there-has-been-a-steady-fall-in-gas-prices",
+                "text": "There has been a steady fall in gas prices."
+            },
+            {
+                "code": "fall_example_this-weather-is-strange-for-late-fall",
+                "text": "This weather is strange for late fall."
+            },
+            {
+                "code": "fall_example_she-went-to-europe-this-past-fall",
+                "text": "She went to Europe this past fall."
+            },
+            {
+                "code": "fall_example_they-are-planning-their-wedding-for-next-fall",
+                "text": "They are planning their wedding for next fall."
+            },
+            {
+                "code": "fall_example_she-had-a-nasty-fall",
+                "text": "She had a nasty fall."
+            },
+            {
+                "code": "fall_example_the-leaves-broke-his-fall-from-the-tree",
+                "text": "The leaves broke his fall from the tree."
+            },
+            {
+                "code": "fall_example_safety-bars-can-help-prevent-falls",
+                "text": "Safety bars can help prevent falls."
+            },
+            {
+                "code": "fall_example_the-economy-caused-the-fall-in-market-prices",
+                "text": "The economy caused the fall in market prices."
+            },
+            {
+                "code": "fall_example_we-saw-a-big-fall-in-demand-for-oil",
+                "text": "We saw a big fall in demand for oil."
+            },
+            {
+                "code": "fall_example_the-poll-showed-a-large-fall-in-his-approval-rating",
+                "text": "The poll showed a large fall in his approval rating."
+            },
+            {
+                "code": "fall_example_the-biggest-fall-in-demand-occurred-after-the-price-went-up",
+                "text": "The biggest fall in demand occurred after the price went up."
+            },
+            {
+                "code": "fall_example_the-economy-contributed-to-the-fall-in-revenue",
+                "text": "The economy contributed to the fall in revenue."
+            },
+            {
+                "code": "fall_example_she-broke-her-leg-in-the-fall",
+                "text": "She broke her leg in the fall."
+            },
+            {
+                "code": "fall_example_she-hurt-her-back-in-a-fall-from-a-tree",
+                "text": "She hurt her back in a fall from a tree."
+            },
+            {
+                "code": "fall_example_the-fall-weather-has-been-beautiful",
+                "text": "The fall weather has been beautiful."
+            },
+            {
+                "code": "fall_example_we-took-a-drive-to-see-the-fall-colors",
+                "text": "We took a drive to see the fall colors."
+            },
+            {
+                "code": "fall_example_the-fall-harvest-is-late-this-year",
+                "text": "The fall harvest is late this year."
+            },
+            {
+                "code": "fall_example_she-is-getting-ready-for-fall-term-to-start",
+                "text": "She is getting ready for fall term to start."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to move downward; to suddenly stop standing; to decrease",
+        "examples": [
+            {
+                "code": "fall_example_the-rain-falls-heavily-onto-the-roof",
+                "text": "The rain falls heavily onto the roof."
+            },
+            {
+                "code": "fall_example_don-t-fall-off-the-ladder",
+                "text": "Don't fall off the ladder."
+            },
+            {
+                "code": "fall_example_be-careful-not-to-fall-down-the-stairs",
+                "text": "Be careful not to fall down the stairs."
+            },
+            {
+                "code": "fall_example_the-cargo-fell-overboard-in-the-storm",
+                "text": "The cargo fell overboard in the storm."
+            },
+            {
+                "code": "fall_example_she-tripped-and-nearly-fell",
+                "text": "She tripped and nearly fell."
+            },
+            {
+                "code": "fall_example_she-fell-forward-into-the-lake",
+                "text": "She fell forward into the lake."
+            },
+            {
+                "code": "fall_example_she-slipped-and-fell-over",
+                "text": "She slipped and fell over."
+            },
+            {
+                "code": "fall_example_their-profits-are-falling-steadily",
+                "text": "Their profits are falling steadily."
+            },
+            {
+                "code": "fall_example_the-stock-market-fell-dramatically",
+                "text": "The stock market fell dramatically."
+            },
+            {
+                "code": "fall_example_he-let-her-fall-to-the-floor",
+                "text": "He let her fall to the floor."
+            },
+            {
+                "code": "fall_example_housing-prices-continue-to-fall",
+                "text": "Housing prices continue to fall."
+            },
+            {
+                "code": "fall_example_he-fell-from-the-second-story-window",
+                "text": "He fell from the second story window."
+            },
+            {
+                "code": "fall_example_she-fell-into-a-puddle",
+                "text": "She fell into a puddle."
+            },
+            {
+                "code": "fall_example_there-was-snow-falling-on-her-face",
+                "text": "There was snow falling on her face."
+            },
+            {
+                "code": "fall_example_the-price-fell-to-50",
+                "text": "The price fell to $50."
+            },
+            {
+                "code": "fall_example_the-price-rarely-falls-below-100",
+                "text": "The price rarely falls below $100."
+            },
+            {
+                "code": "fall_example_their-profits-fell-by-5-last-year",
+                "text": "Their profits fell by 5% last year."
+            },
+            {
+                "code": "fall_example_the-temperature-has-fallen-10-degrees-since-the-beginning-of-the-week",
+                "text": "The temperature has fallen 10 degrees since the beginning of the week."
+            },
+            {
+                "code": "fall_example_attendance-has-fallen-dramatically-this-year",
+                "text": "Attendance has fallen dramatically this year."
+            },
+            {
+                "code": "fall_example_snowflakes-fell-onto-her-face",
+                "text": "Snowflakes fell onto her face."
+            },
+            {
+                "code": "fall_example_rain-fell-steadily-all-day",
+                "text": "Rain fell steadily all day."
+            },
+            {
+                "code": "fall_example_their-supply-fell-greatly-this-month",
+                "text": "Their supply fell greatly this month."
+            },
+            {
+                "code": "fall_example_profits-fell-significantly-last-year",
+                "text": "Profits fell significantly last year."
+            },
+            {
+                "code": "fall_example_unemployment-is-falling-in-that-industry",
+                "text": "Unemployment is falling in that industry."
+            },
+            {
+                "code": "fall_example_the-leaves-fell-from-the-tree",
+                "text": "The leaves fell from the tree."
+            },
+            {
+                "code": "fall_example_confetti-fell-from-the-sky",
+                "text": "Confetti fell from the sky."
+            },
+            {
+                "code": "fall_example_the-tree-fell-in-the-storm",
+                "text": "The tree fell in the storm."
+            }
+        ]
+    }
+]

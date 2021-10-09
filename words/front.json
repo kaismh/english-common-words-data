@@ -1,0 +1,98 @@
+[
+    {
+        "type": "(n)",
+        "mean": "something that faces forward or comes first; the main battlefield of a war; true feelings that are hidden",
+        "examples": [
+            {
+                "code": "front_example_he-was-wounded-on-the-eastern-front",
+                "text": "He was wounded on the eastern front."
+            },
+            {
+                "code": "front_example_they-presented-a-united-front-at-the-meeting",
+                "text": "They presented a united front at the meeting."
+            },
+            {
+                "code": "front_example_she-put-on-a-brave-front-at-the-funeral",
+                "text": "She put on a brave front at the funeral."
+            },
+            {
+                "code": "front_example_they-sent-new-troops-to-the-front",
+                "text": "They sent new troops to the front."
+            },
+            {
+                "code": "front_example_they-put-on-a-brave-front-in-public",
+                "text": "They put on a brave front in public."
+            },
+            {
+                "code": "front_example_the-teachers-formed-a-unified-front-before-the-meeting",
+                "text": "The teachers formed a unified front before the meeting."
+            },
+            {
+                "code": "front_example_he-had-barely-arrived-at-the-front-when-he-was-wounded",
+                "text": "He had barely arrived at the front when he was wounded."
+            },
+            {
+                "code": "front_example_the-battle-on-the-eastern-front-ended-at-dawn",
+                "text": "The battle on the eastern front ended at dawn."
+            },
+            {
+                "code": "front_example_his-dangerous-decisions-are-a-front-for-his-insecurities",
+                "text": "His dangerous decisions are a front for his insecurities."
+            }
+        ]
+    },
+    {
+        "type": "(adj)",
+        "mean": "leading; first",
+        "examples": [
+            {
+                "code": "front_example_put-that-box-in-the-front-bedroom",
+                "text": "Put that box in the front bedroom."
+            },
+            {
+                "code": "front_example_she-always-sits-on-the-front-bench",
+                "text": "She always sits on the front bench."
+            },
+            {
+                "code": "front_example_don-t-use-the-front-entrance",
+                "text": "Don't use the front entrance."
+            },
+            {
+                "code": "front_example_the-front-bumper-on-his-car-needs-repairs",
+                "text": "The front bumper on his car needs repairs."
+            },
+            {
+                "code": "front_example_she-s-working-in-the-front-yard",
+                "text": "She's working in the front yard."
+            },
+            {
+                "code": "front_example_i-thought-i-put-my-keys-in-my-front-pocket",
+                "text": "I thought I put my keys in my front pocket."
+            },
+            {
+                "code": "front_example_the-front-step-is-broken",
+                "text": "The front step is broken."
+            },
+            {
+                "code": "front_example_we-like-to-sit-on-the-front-porch",
+                "text": "We like to sit on the front porch."
+            },
+            {
+                "code": "front_example_the-vet-checked-the-dog-s-front-leg",
+                "text": "The vet checked the dog's front leg."
+            },
+            {
+                "code": "front_example_she-lost-her-front-tooth",
+                "text": "She lost her front tooth."
+            },
+            {
+                "code": "front_example_his-picture-was-on-the-front-page-of-the-newspaper",
+                "text": "His picture was on the front page of the newspaper."
+            },
+            {
+                "code": "front_example_he-was-sent-to-the-front-line",
+                "text": "He was sent to the front line."
+            }
+        ]
+    }
+]

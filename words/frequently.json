@@ -1,0 +1,60 @@
+[
+    {
+        "type": "(adv)",
+        "mean": "often",
+        "examples": [
+            {
+                "code": "frequently_example_this-isn-t-frequently-used",
+                "text": "This isn't frequently used."
+            },
+            {
+                "code": "frequently_example_he-frequently-appears-in-her-office",
+                "text": "He frequently appears in her office."
+            },
+            {
+                "code": "frequently_example_this-situation-occurs-frequently",
+                "text": "This situation occurs frequently."
+            },
+            {
+                "code": "frequently_example_he-frequently-encounters-wild-animals-near-his-house",
+                "text": "He frequently encounters wild animals near his house."
+            },
+            {
+                "code": "frequently_example_she-frequently-cites-the-same-articles",
+                "text": "She frequently cites the same articles."
+            },
+            {
+                "code": "frequently_example_he-frequently-interrupts-me-when-i-speak",
+                "text": "He frequently interrupts me when I speak."
+            },
+            {
+                "code": "frequently_example_she-frequently-complains-about-the-same-problems",
+                "text": "She frequently complains about the same problems."
+            },
+            {
+                "code": "frequently_example_they-frequently-require-extra-help-in-class",
+                "text": "They frequently require extra help in class."
+            },
+            {
+                "code": "frequently_example_she-participates-frequently-in-the-discussion",
+                "text": "She participates frequently in the discussion."
+            },
+            {
+                "code": "frequently_example_make-sure-you-call-your-mom-frequently",
+                "text": "Make sure you call your mom frequently."
+            },
+            {
+                "code": "frequently_example_stir-this-frequently-so-it-doesn-t-burn",
+                "text": "Stir this frequently so it doesn't burn."
+            },
+            {
+                "code": "frequently_example_this-museum-frequently-features-local-artists",
+                "text": "This museum frequently features local artists."
+            },
+            {
+                "code": "frequently_example_the-data-should-be-frequently-updated",
+                "text": "The data should be frequently updated."
+            }
+        ]
+    }
+]

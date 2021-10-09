@@ -1,0 +1,82 @@
+[
+    {
+        "type": "(n)",
+        "mean": "an object that lies over something to protect it; an object that is over or above something; the outer part of a book",
+        "examples": [
+            {
+                "code": "cover_example_the-cell-phone-has-a-leather-cover",
+                "text": "The cell phone has a leather cover."
+            },
+            {
+                "code": "cover_example_the-cushion-cover-is-washable",
+                "text": "The cushion cover is washable."
+            },
+            {
+                "code": "cover_example_there-is-a-picture-on-the-back-cover",
+                "text": "There is a picture on the back cover."
+            },
+            {
+                "code": "cover_example_i-prefer-the-hard-cover",
+                "text": "I prefer the hard cover."
+            },
+            {
+                "code": "cover_example_the-book-cover-is-interesting",
+                "text": "The book cover is interesting."
+            },
+            {
+                "code": "cover_example_don-t-forget-to-put-on-the-cover",
+                "text": "Don't forget to put on the cover."
+            },
+            {
+                "code": "cover_example_we-should-buy-a-cover-for-the-couch",
+                "text": "We should buy a cover for the couch."
+            },
+            {
+                "code": "cover_example_we-found-it-under-the-cover",
+                "text": "We found it under the cover."
+            },
+            {
+                "code": "cover_example_the-cover-photo-is-great",
+                "text": "The cover photo is great."
+            },
+            {
+                "code": "cover_example_everyone-is-talking-about-the-cover-article",
+                "text": "Everyone is talking about the cover article."
+            },
+            {
+                "code": "cover_example_the-model-is-on-the-cover-page",
+                "text": "The model is on the cover page."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to put an object over something; to pay for",
+        "examples": [
+            {
+                "code": "cover_example_please-completely-cover-the-furniture-before-painting",
+                "text": "Please completely cover the furniture before painting."
+            },
+            {
+                "code": "cover_example_they-covered-the-walls-entirely-with-photos",
+                "text": "They covered the walls entirely with photos."
+            },
+            {
+                "code": "cover_example_the-tarp-will-partially-cover-the-boat",
+                "text": "The tarp will partially cover the boat."
+            },
+            {
+                "code": "cover_example_the-money-will-barely-cover-the-bill",
+                "text": "The money will barely cover the bill."
+            },
+            {
+                "code": "cover_example_she-covered-her-baby-with-a-blanket",
+                "text": "She covered her baby with a blanket."
+            },
+            {
+                "code": "cover_example_the-cars-are-covered-in-snow",
+                "text": "The cars are covered in snow."
+            }
+        ]
+    }
+]

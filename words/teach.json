@@ -1,0 +1,32 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to explain something to help someone learn",
+        "examples": [
+            {
+                "code": "teach_example_she-will-teach-math-effectively",
+                "text": "She will teach math effectively."
+            },
+            {
+                "code": "teach_example_foreign-languages-are-commonly-taught-in-schools-today",
+                "text": "Foreign languages are commonly taught in schools today."
+            },
+            {
+                "code": "teach_example_he-will-teach-science-in-the-fall",
+                "text": "He will teach science in the fall."
+            },
+            {
+                "code": "teach_example_she-teaches-yoga",
+                "text": "She teaches yoga."
+            },
+            {
+                "code": "teach_example_he-will-teach-about-his-experiences",
+                "text": "He will teach about his experiences."
+            },
+            {
+                "code": "teach_example_she-teaches-math-to-seventh-graders",
+                "text": "She teaches math to seventh graders."
+            }
+        ]
+    }
+]

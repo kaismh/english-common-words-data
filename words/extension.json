@@ -1,0 +1,40 @@
+[
+    {
+        "type": "(n)",
+        "mean": "extra time; a part that is added to something else",
+        "examples": [
+            {
+                "code": "extension_example_the-teacher-granted-a-longer-extension-on-the-project",
+                "text": "The teacher granted a longer extension on the project."
+            },
+            {
+                "code": "extension_example_they-gave-the-star-player-a-contract-extension",
+                "text": "They gave the star player a contract extension."
+            },
+            {
+                "code": "extension_example_this-policy-is-a-further-extension-of-government-power",
+                "text": "This policy is a further extension of government power."
+            },
+            {
+                "code": "extension_example_he-asked-for-a-project-extension",
+                "text": "He asked for a project extension."
+            },
+            {
+                "code": "extension_example_we-requested-an-extension-of-the-agreement",
+                "text": "We requested an extension of the agreement."
+            },
+            {
+                "code": "extension_example_they-are-negotiating-a-contract-extension",
+                "text": "They are negotiating a contract extension."
+            },
+            {
+                "code": "extension_example_she-received-an-extension-on-her-paper",
+                "text": "She received an extension on her paper."
+            },
+            {
+                "code": "extension_example_the-professor-gave-the-class-an-extension-on-the-assignment",
+                "text": "The professor gave the class an extension on the assignment."
+            }
+        ]
+    }
+]

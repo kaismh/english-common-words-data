@@ -1,0 +1,94 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to lean or fall over; to cause something to lean or fall over; to give extra money for good service",
+        "examples": [
+            {
+                "code": "tip_example_he-clumsily-tipped-over-the-plant",
+                "text": "He clumsily tipped over the plant."
+            },
+            {
+                "code": "tip_example_she-generously-tipped-the-waiter",
+                "text": "She generously tipped the waiter."
+            },
+            {
+                "code": "tip_example_she-tipped-over-the-vase",
+                "text": "She tipped over the vase."
+            },
+            {
+                "code": "tip_example_he-tipped-the-scale-at-300-pounds",
+                "text": "He tipped the scale at 300 pounds."
+            },
+            {
+                "code": "tip_example_he-tipped-under-the-recommended-amount",
+                "text": "He tipped under the recommended amount."
+            }
+        ]
+    },
+    {
+        "type": "(n)",
+        "mean": "money for good service; a pointed end; a piece of advice",
+        "examples": [
+            {
+                "code": "tip_example_the-president-left-a-big-tip",
+                "text": "The president left a big tip."
+            },
+            {
+                "code": "tip_example_he-received-a-small-tip-because-of-bad-service",
+                "text": "He received a small tip because of bad service."
+            },
+            {
+                "code": "tip_example_the-needle-has-a-sharp-tip",
+                "text": "The needle has a sharp tip."
+            },
+            {
+                "code": "tip_example_the-pencil-tip-is-dull",
+                "text": "The pencil tip is dull."
+            },
+            {
+                "code": "tip_example_let-me-give-you-a-helpful-tip",
+                "text": "Let me give you a helpful tip."
+            },
+            {
+                "code": "tip_example_one-simple-tip-made-the-job-easier",
+                "text": "One simple tip made the job easier."
+            },
+            {
+                "code": "tip_example_she-gave-the-pizza-delivery-man-a-good-tip",
+                "text": "She gave the pizza delivery man a good tip."
+            },
+            {
+                "code": "tip_example_he-left-the-waitress-a-big-tip",
+                "text": "He left the waitress a big tip."
+            },
+            {
+                "code": "tip_example_i-have-some-tips-to-help-you-work-faster",
+                "text": "I have some tips to help you work faster."
+            },
+            {
+                "code": "tip_example_use-these-tips-to-get-the-job-done",
+                "text": "Use these tips to get the job done."
+            },
+            {
+                "code": "tip_example_i-can-give-you-some-tips",
+                "text": "I can give you some tips."
+            },
+            {
+                "code": "tip_example_servers-rely-on-tips-to-make-a-living",
+                "text": "Servers rely on tips to make a living."
+            },
+            {
+                "code": "tip_example_she-had-to-stand-on-the-tips-of-her-toes-to-see",
+                "text": "She had to stand on the tips of her toes to see."
+            },
+            {
+                "code": "tip_example_do-you-have-any-tips-for-me",
+                "text": "Do you have any tips for me?"
+            },
+            {
+                "code": "tip_example_do-you-have-some-good-tips-on-getting-a-better-deal",
+                "text": "Do you have some good tips on getting a better deal?"
+            }
+        ]
+    }
+]

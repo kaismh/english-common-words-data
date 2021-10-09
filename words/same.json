@@ -1,0 +1,28 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "not different; exactly like someone or something else",
+        "examples": [
+            {
+                "code": "same_example_he-looks-the-same-to-me",
+                "text": "He looks the same to me."
+            },
+            {
+                "code": "same_example_the-dish-tastes-the-same-as-last-time",
+                "text": "The dish tastes the same as last time."
+            },
+            {
+                "code": "same_example_the-price-will-stay-the-same",
+                "text": "The price will stay the same."
+            },
+            {
+                "code": "same_example_i-had-almost-the-same-experience",
+                "text": "I had almost the same experience."
+            },
+            {
+                "code": "same_example_your-coat-is-exactly-the-same-as-mine",
+                "text": "Your coat is exactly the same as mine."
+            }
+        ]
+    }
+]

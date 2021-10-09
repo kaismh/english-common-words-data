@@ -1,0 +1,32 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "not pretty; bad-looking; unpleasant",
+        "examples": [
+            {
+                "code": "ugly_example_the-wallpaper-is-very-ugly",
+                "text": "The wallpaper is very ugly."
+            },
+            {
+                "code": "ugly_example_the-monster-is-terribly-ugly",
+                "text": "The monster is terribly ugly."
+            },
+            {
+                "code": "ugly_example_she-feels-ugly",
+                "text": "She feels ugly."
+            },
+            {
+                "code": "ugly_example_the-discussion-is-getting-ugly",
+                "text": "The discussion is getting ugly."
+            },
+            {
+                "code": "ugly_example_they-re-going-through-an-ugly-divorce",
+                "text": "They're going through an ugly divorce."
+            },
+            {
+                "code": "ugly_example_who-started-the-ugly-rumor-about-her",
+                "text": "Who started the ugly rumor about her?"
+            }
+        ]
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "type": "(n)",
+        "mean": "an amount of money a company or the government pays on a regular basis to someone who has retired",
+        "examples": [
+            {
+                "code": "pension_example_he-receives-a-decent-pension-for-all-of-his-years-of-hard-work",
+                "text": "He receives a decent pension for all of his years of hard work."
+            },
+            {
+                "code": "pension_example_she-receives-an-employee-pension",
+                "text": "She receives an employee pension."
+            },
+            {
+                "code": "pension_example_he-receives-a-monthly-pension",
+                "text": "He receives a monthly pension."
+            },
+            {
+                "code": "pension_example_he-receives-a-pension-from-his-former-company",
+                "text": "He receives a pension from his former company."
+            },
+            {
+                "code": "pension_example_his-pension-arrives-every-month",
+                "text": "His pension arrives every month."
+            },
+            {
+                "code": "pension_example_many-retired-people-live-off-their-pensions",
+                "text": "Many retired people live off their pensions."
+            },
+            {
+                "code": "pension_example_many-companies-do-not-offer-pension-benefits-anymore",
+                "text": "Many companies do not offer pension benefits anymore."
+            },
+            {
+                "code": "pension_example_her-pension-payments-are-deposited-directly-into-her-bank-account",
+                "text": "Her pension payments are deposited directly into her bank account."
+            },
+            {
+                "code": "pension_example_my-grandfather-lives-on-a-pension",
+                "text": "My grandfather lives on a pension."
+            }
+        ]
+    }
+]

@@ -1,0 +1,94 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to move past someone or something; to hand to someone else; to approve; to succeed on a test; to happen; to go through; to die",
+        "examples": [
+            {
+                "code": "pass_example_i-ll-let-it-pass-this-time-but-don-t-do-it-again",
+                "text": "I'll let it pass this time, but don't do it again."
+            },
+            {
+                "code": "pass_example_i-need-to-pass-this-class-in-order-to-graduate",
+                "text": "I need to pass this class in order to graduate."
+            },
+            {
+                "code": "pass_example_could-you-pass-the-butter-please",
+                "text": "Could you pass the butter, please?"
+            },
+            {
+                "code": "pass_example_congress-passed-the-law-last-february",
+                "text": "Congress passed the law last February."
+            },
+            {
+                "code": "pass_example_how-do-you-normally-pass-the-time",
+                "text": "How do you normally pass the time?"
+            },
+            {
+                "code": "pass_example_the-cars-were-passing-him-on-the-highway",
+                "text": "The cars were passing him on the highway."
+            },
+            {
+                "code": "pass_example_she-quickly-passed-him-in-the-hall",
+                "text": "She quickly passed him in the hall."
+            },
+            {
+                "code": "pass_example_the-bill-was-unanimously-passed-by-the-senate",
+                "text": "The bill was unanimously passed by the Senate."
+            },
+            {
+                "code": "pass_example_the-famous-singer-passed-away-in-her-sleep",
+                "text": "The famous singer passed away in her sleep."
+            },
+            {
+                "code": "pass_example_the-motorcycle-gang-passed-through-the-town",
+                "text": "The motorcycle gang passed through the town."
+            },
+            {
+                "code": "pass_example_the-girls-are-passing-notes-to-each-other",
+                "text": "The girls are passing notes to each other."
+            }
+        ]
+    },
+    {
+        "type": "(n)",
+        "mean": "a narrow road through the mountains; a free ticket; official paper giving permission to do something",
+        "examples": [
+            {
+                "code": "pass_example_the-hiker-came-down-through-the-mountain-pass",
+                "text": "The hiker came down through the mountain pass."
+            },
+            {
+                "code": "pass_example_the-official-asked-to-see-his-boarding-pass",
+                "text": "The official asked to see his boarding pass."
+            },
+            {
+                "code": "pass_example_she-won-a-free-pass-to-the-concert",
+                "text": "She won a free pass to the concert."
+            },
+            {
+                "code": "pass_example_be-careful-when-you-take-the-pass-because-of-snow",
+                "text": "Be careful when you take the pass because of snow."
+            },
+            {
+                "code": "pass_example_she-has-a-free-pass-to-ride-the-train",
+                "text": "She has a free pass to ride the train."
+            },
+            {
+                "code": "pass_example_winners-were-issued-backstage-passes-to-the-concert",
+                "text": "Winners were issued backstage passes to the concert."
+            },
+            {
+                "code": "pass_example_he-was-asked-to-show-his-boarding-pass",
+                "text": "He was asked to show his boarding pass."
+            },
+            {
+                "code": "pass_example_they-are-driving-through-the-mountain-pass",
+                "text": "They are driving through the mountain pass."
+            },
+            {
+                "code": "pass_example_they-have-a-free-pass-to-the-game",
+                "text": "They have a free pass to the game."
+            }
+        ]
+    }
+]

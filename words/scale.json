@@ -1,0 +1,58 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a device used to weigh people or things; the relationship between the size on a map and the actual size of something",
+        "examples": [
+            {
+                "code": "scale_example_the-fisherman-used-a-digital-scale-to-weigh-his-catch",
+                "text": "The fisherman used a digital scale to weigh his catch."
+            },
+            {
+                "code": "scale_example_they-received-a-new-bathroom-scale-as-a-wedding-gift",
+                "text": "They received a new bathroom scale as a wedding gift."
+            },
+            {
+                "code": "scale_example_he-used-the-scale-to-weigh-the-fruit",
+                "text": "He used the scale to weigh the fruit."
+            },
+            {
+                "code": "scale_example_i-got-onto-the-scale-to-check-my-weight",
+                "text": "I got onto the scale to check my weight."
+            },
+            {
+                "code": "scale_example_she-drew-the-space-needle-to-scale",
+                "text": "She drew the Space Needle to scale."
+            },
+            {
+                "code": "scale_example_he-was-shocked-when-he-stepped-on-the-scale",
+                "text": "He was shocked when he stepped on the scale."
+            },
+            {
+                "code": "scale_example_it-was-drawn-to-scale",
+                "text": "It was drawn to scale."
+            },
+            {
+                "code": "scale_example_she-made-a-scale-model-of-the-city-in-her-architecture-class",
+                "text": "She made a scale model of the city in her architecture class."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to climb",
+        "examples": [
+            {
+                "code": "scale_example_i-have-never-seen-anyone-scale-a-mountain-so-quickly",
+                "text": "I have never seen anyone scale a mountain so quickly."
+            },
+            {
+                "code": "scale_example_the-robber-quickly-scaled-the-fence-and-got-away",
+                "text": "The robber quickly scaled the fence and got away."
+            },
+            {
+                "code": "scale_example_the-hikers-slowly-scaled-the-side-of-the-mountain",
+                "text": "The hikers slowly scaled the side of the mountain."
+            }
+        ]
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to find a number by using math; to plan",
+        "examples": [
+            {
+                "code": "calculate_example_he-accurately-calculated-the-amount-of-our-expenses",
+                "text": "He accurately calculated the amount of our expenses."
+            },
+            {
+                "code": "calculate_example_can-you-mentally-calculate-the-restaurant-bill",
+                "text": "Can you mentally calculate the restaurant bill?"
+            },
+            {
+                "code": "calculate_example_she-carefully-calculates-her-every-move",
+                "text": "She carefully calculates her every move."
+            },
+            {
+                "code": "calculate_example_he-calculated-the-exact-amount-according-to-all-of-the-receipts",
+                "text": "He calculated the exact amount according to all of the receipts."
+            },
+            {
+                "code": "calculate_example_it-was-calculated-at-over-10000-in-damages",
+                "text": "It was calculated at over $10,000 in damages."
+            },
+            {
+                "code": "calculate_example_did-you-calculate-the-total",
+                "text": "Did you calculate the total?"
+            },
+            {
+                "code": "calculate_example_please-calculate-the-amount-of-damage-to-the-car",
+                "text": "Please calculate the amount of damage to the car."
+            },
+            {
+                "code": "calculate_example_he-calculated-his-every-move",
+                "text": "He calculated his every move."
+            },
+            {
+                "code": "calculate_example_how-do-you-calculate-the-charges",
+                "text": "How do you calculate the charges?"
+            }
+        ]
+    }
+]

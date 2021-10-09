@@ -1,0 +1,28 @@
+[
+    {
+        "type": "(adv)",
+        "mean": "in a way that cannot be changed or avoided; has to be",
+        "examples": [
+            {
+                "code": "necessarily_example_that-is-not-necessarily-true",
+                "text": "That is not necessarily true."
+            },
+            {
+                "code": "necessarily_example_you-are-not-necessarily-right",
+                "text": "You are not necessarily right."
+            },
+            {
+                "code": "necessarily_example_the-measurements-were-not-necessarily-accurate",
+                "text": "The measurements were not necessarily accurate."
+            },
+            {
+                "code": "necessarily_example_she-is-not-necessarily-involved-but-knows-something",
+                "text": "She is not necessarily involved, but knows something."
+            },
+            {
+                "code": "necessarily_example_she-didn-t-necessarily-say-she-was-guilty-but-she-implied-it",
+                "text": "She didn't necessarily say she was guilty, but she implied it."
+            }
+        ]
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to cause something to happen",
+        "examples": [
+            {
+                "code": "prompt_example_her-behavior-prompted-allegations-of-abuse",
+                "text": "Her behavior prompted allegations of abuse."
+            },
+            {
+                "code": "prompt_example_his-actions-prompted-an-outcry",
+                "text": "His actions prompted an outcry."
+            },
+            {
+                "code": "prompt_example_the-evidence-prompted-a-trial",
+                "text": "The evidence prompted a trial."
+            },
+            {
+                "code": "prompt_example_her-involvement-was-prompted-by-curiosity",
+                "text": "Her involvement was prompted by curiosity."
+            }
+        ]
+    },
+    {
+        "type": "(adj)",
+        "mean": "on time; happening quickly",
+        "examples": [
+            {
+                "code": "prompt_example_we-offer-prompt-service",
+                "text": "We offer prompt service."
+            },
+            {
+                "code": "prompt_example_i-was-surprised-at-the-prompt-arrival-of-the-package",
+                "text": "I was surprised at the prompt arrival of the package."
+            },
+            {
+                "code": "prompt_example_her-reply-was-very-prompt",
+                "text": "Her reply was very prompt."
+            },
+            {
+                "code": "prompt_example_we-appreciate-your-prompt-care-to-this-matter",
+                "text": "We appreciate your prompt care to this matter."
+            }
+        ]
+    }
+]

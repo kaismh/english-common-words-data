@@ -1,0 +1,66 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "sick; not feeling well; poor in quality",
+        "examples": [
+            {
+                "code": "ill_example_my-teacher-appeared-ill",
+                "text": "My teacher appeared ill."
+            },
+            {
+                "code": "ill_example_his-grandfather-remained-ill-for-five-years-before-he-passed-away",
+                "text": "His grandfather remained ill for five years before he passed away."
+            },
+            {
+                "code": "ill_example_john-s-sister-became-ill-after-visiting-her-friend-in-the-hospital",
+                "text": "John's sister became ill after visiting her friend in the hospital."
+            },
+            {
+                "code": "ill_example_the-smell-of-cigarette-smoke-makes-me-ill",
+                "text": "The smell of cigarette smoke makes me ill."
+            },
+            {
+                "code": "ill_example_his-grandmother-is-seriously-ill",
+                "text": "His grandmother is seriously ill."
+            },
+            {
+                "code": "ill_example_dr-johnson-treats-chronically-ill-patients",
+                "text": "Dr. Johnson treats chronically ill patients."
+            },
+            {
+                "code": "ill_example_my-grandfather-had-to-be-placed-in-a-hospice-for-the-terminally-ill",
+                "text": "My grandfather had to be placed in a hospice for the terminally ill."
+            },
+            {
+                "code": "ill_example_i-became-violently-ill-after-eating-undercooked-chicken",
+                "text": "I became violently ill after eating undercooked chicken."
+            },
+            {
+                "code": "ill_example_he-fell-ill-with-the-flu-last-week",
+                "text": "He fell ill with the flu last week."
+            },
+            {
+                "code": "ill_example_she-became-ill-from-food-poisoning",
+                "text": "She became ill from food poisoning."
+            }
+        ]
+    },
+    {
+        "type": "(adv)",
+        "mean": "badly; wrongly",
+        "examples": [
+            {
+                "code": "ill_example_she-could-ill-afford-the-cost-of-a-new-car",
+                "text": "She could ill afford the cost of a new car."
+            },
+            {
+                "code": "ill_example_the-public-is-ill-informed-of-the-danger",
+                "text": "The public is ill-informed of the danger."
+            },
+            {
+                "code": "ill_example_she-was-ill-suited-for-the-job",
+                "text": "She was ill-suited for the job."
+            }
+        ]
+    }
+]

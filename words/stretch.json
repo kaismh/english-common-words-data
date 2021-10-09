@@ -1,0 +1,74 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to make something wider or longer by pulling on it; to extend one's body or body part",
+        "examples": [
+            {
+                "code": "stretch_example_stretch-the-fabric-tightly-over-the-sofa",
+                "text": "Stretch the fabric tightly over the sofa."
+            },
+            {
+                "code": "stretch_example_she-stretched-up-to-reach-the-top-shelf",
+                "text": "She stretched up to reach the top shelf."
+            },
+            {
+                "code": "stretch_example_he-gently-stretched-his-injured-arm",
+                "text": "He gently stretched his injured arm."
+            },
+            {
+                "code": "stretch_example_i-tried-to-stretch-down-to-touch-my-toes",
+                "text": "I tried to stretch down to touch my toes."
+            },
+            {
+                "code": "stretch_example_the-kids-stretched-out-on-the-floor",
+                "text": "The kids stretched out on the floor."
+            }
+        ]
+    },
+    {
+        "type": "(n)",
+        "mean": "the act of stretching one's body; an area of land or water",
+        "examples": [
+            {
+                "code": "stretch_example_she-always-begins-her-workout-with-a-good-stretch",
+                "text": "She always begins her workout with a good stretch."
+            },
+            {
+                "code": "stretch_example_the-long-stretch-of-ocean-was-breathtaking",
+                "text": "The long stretch of ocean was breathtaking."
+            },
+            {
+                "code": "stretch_example_there-is-a-narrow-stretch-of-empty-land-in-our-backyard",
+                "text": "There is a narrow stretch of empty land in our backyard."
+            },
+            {
+                "code": "stretch_example_we-were-the-only-ones-on-the-empty-stretch-of-the-beach",
+                "text": "We were the only ones on the empty stretch of the beach."
+            },
+            {
+                "code": "stretch_example_he-drove-on-a-dangerous-stretch-of-the-highway",
+                "text": "He drove on a dangerous stretch of the highway."
+            },
+            {
+                "code": "stretch_example_let-s-start-by-doing-some-stretches",
+                "text": "Let's start by doing some stretches."
+            },
+            {
+                "code": "stretch_example_hold-the-stretch-for-a-count-of-ten",
+                "text": "Hold the stretch for a count of ten."
+            },
+            {
+                "code": "stretch_example_we-saw-beautiful-flowers-along-the-stretch-of-the-road",
+                "text": "We saw beautiful flowers along the stretch of the road."
+            },
+            {
+                "code": "stretch_example_kids-were-playing-on-an-empty-stretch-of-land",
+                "text": "Kids were playing on an empty stretch of land."
+            },
+            {
+                "code": "stretch_example_we-walked-along-the-long-stretch-of-the-beach",
+                "text": "We walked along the long stretch of the beach."
+            }
+        ]
+    }
+]

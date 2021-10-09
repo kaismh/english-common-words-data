@@ -1,0 +1,36 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to see if two or more things are similar or different from each other",
+        "examples": [
+            {
+                "code": "compare_example_this-restaurant-compares-well-with-other-places-in-the-city",
+                "text": "This restaurant compares well with other places in the city."
+            },
+            {
+                "code": "compare_example_she-will-closely-compare-the-two-houses",
+                "text": "She will closely compare the two houses."
+            },
+            {
+                "code": "compare_example_she-is-constantly-comparing-her-two-children",
+                "text": "She is constantly comparing her two children."
+            },
+            {
+                "code": "compare_example_i-can-easily-compare-the-two-paintings-and-figure-out-which-one-is-authentic",
+                "text": "I can easily compare the two paintings and figure out which one is authentic."
+            },
+            {
+                "code": "compare_example_i-never-compare-my-two-daughters",
+                "text": "I never compare my two daughters."
+            },
+            {
+                "code": "compare_example_there-are-no-basketball-players-that-can-compare-with-michael-jordan",
+                "text": "There are no basketball players that can compare with Michael Jordan."
+            },
+            {
+                "code": "compare_example_i-always-compare-my-mother-in-law-to-my-own-mother",
+                "text": "I always compare my mother-in-law to my own mother."
+            }
+        ]
+    }
+]

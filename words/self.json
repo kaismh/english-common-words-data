@@ -1,0 +1,36 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a person's identity or personality",
+        "examples": [
+            {
+                "code": "self_example_he-puts-his-whole-self-into-his-work",
+                "text": "He puts his whole self into his work."
+            },
+            {
+                "code": "self_example_she-didn-t-want-to-show-her-true-self",
+                "text": "She didn't want to show her true self."
+            },
+            {
+                "code": "self_example_he-was-angry-at-his-own-self",
+                "text": "He was angry at his own self."
+            },
+            {
+                "code": "self_example_he-wasn-t-his-normal-self-today",
+                "text": "He wasn't his normal self today."
+            },
+            {
+                "code": "self_example_will-he-ever-be-back-to-his-former-self",
+                "text": "Will he ever be back to his former self?"
+            },
+            {
+                "code": "self_example_he-revealed-his-true-self-at-the-party",
+                "text": "He revealed his true self at the party."
+            },
+            {
+                "code": "self_example_she-went-on-a-mission-to-discover-her-true-self",
+                "text": "She went on a mission to discover her true self."
+            }
+        ]
+    }
+]

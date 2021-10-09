@@ -1,0 +1,64 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the amount of something not being used or spent",
+        "examples": [
+            {
+                "code": "savings_example_the-company-s-savings-were-huge",
+                "text": "The company's savings were huge."
+            },
+            {
+                "code": "savings_example_the-potential-savings-are-substantial",
+                "text": "The potential savings are substantial."
+            },
+            {
+                "code": "savings_example_we-will-have-to-use-part-of-our-retirement-savings",
+                "text": "We will have to use part of our retirement savings."
+            },
+            {
+                "code": "savings_example_i-don-t-have-any-savings",
+                "text": "I don't have any savings."
+            },
+            {
+                "code": "savings_example_it-is-time-to-invest-our-savings",
+                "text": "It is time to invest our savings."
+            },
+            {
+                "code": "savings_example_the-couple-lost-their-savings-in-the-stock-market",
+                "text": "The couple lost their savings in the stock market."
+            },
+            {
+                "code": "savings_example_the-redesign-can-offer-savings-in-gas-costs",
+                "text": "The redesign can offer savings in gas costs."
+            },
+            {
+                "code": "savings_example_how-can-we-make-additional-savings",
+                "text": "How can we make additional savings?"
+            },
+            {
+                "code": "savings_example_the-major-savings-come-from-reduced-costs",
+                "text": "The major savings come from reduced costs."
+            },
+            {
+                "code": "savings_example_we-have-special-savings-for-our-active-members",
+                "text": "We have special savings for our active members."
+            },
+            {
+                "code": "savings_example_there-were-big-savings-from-reducing-labor-costs",
+                "text": "There were big savings from reducing labor costs."
+            },
+            {
+                "code": "savings_example_our-company-made-major-savings-in-labor-costs",
+                "text": "Our company made major savings in labor costs."
+            },
+            {
+                "code": "savings_example_we-had-an-annual-savings-of-10",
+                "text": "We had an annual savings of 10%."
+            },
+            {
+                "code": "savings_example_do-you-have-a-savings-account",
+                "text": "Do you have a savings account?"
+            }
+        ]
+    }
+]

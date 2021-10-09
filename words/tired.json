@@ -1,0 +1,40 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "needing rest",
+        "examples": [
+            {
+                "code": "tired_example_she-gets-quickly-tired",
+                "text": "She gets quickly tired."
+            },
+            {
+                "code": "tired_example_he-was-extremely-tired-after-the-hike",
+                "text": "He was extremely tired after the hike."
+            },
+            {
+                "code": "tired_example_i-m-just-tired-today",
+                "text": "I'm just tired today."
+            },
+            {
+                "code": "tired_example_she-looked-mentally-tired",
+                "text": "She looked mentally tired."
+            },
+            {
+                "code": "tired_example_he-looks-tired",
+                "text": "He looks tired."
+            },
+            {
+                "code": "tired_example_she-is-getting-tired",
+                "text": "She is getting tired."
+            },
+            {
+                "code": "tired_example_dancing-made-me-tired",
+                "text": "Dancing made me tired."
+            },
+            {
+                "code": "tired_example_i-m-so-tired-from-running-the-marathon",
+                "text": "I'm so tired from running the marathon."
+            }
+        ]
+    }
+]

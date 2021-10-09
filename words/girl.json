@@ -1,0 +1,32 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a female child; a young female",
+        "examples": [
+            {
+                "code": "girl_example_she-had-a-baby-girl",
+                "text": "She had a baby girl."
+            },
+            {
+                "code": "girl_example_he-gave-the-ball-to-a-little-girl",
+                "text": "He gave the ball to a little girl."
+            },
+            {
+                "code": "girl_example_the-shopping-center-was-full-of-teenage-girls",
+                "text": "The shopping center was full of teenage girls."
+            },
+            {
+                "code": "girl_example_she-s-a-really-great-girl",
+                "text": "She's a really great girl."
+            },
+            {
+                "code": "girl_example_he-met-a-pretty-girl-at-the-party",
+                "text": "He met a pretty girl at the party."
+            },
+            {
+                "code": "girl_example_this-event-is-geared-towards-single-girls",
+                "text": "This event is geared towards single girls."
+            }
+        ]
+    }
+]

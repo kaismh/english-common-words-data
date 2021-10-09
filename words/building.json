@@ -1,0 +1,72 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a structure with walls and a roof; the making of something",
+        "examples": [
+            {
+                "code": "building_example_the-city-is-full-of-big-buildings",
+                "text": "The city is full of big buildings."
+            },
+            {
+                "code": "building_example_our-neighborhood-has-mostly-small-buildings",
+                "text": "Our neighborhood has mostly small buildings."
+            },
+            {
+                "code": "building_example_this-is-a-beautiful-building",
+                "text": "This is a beautiful building."
+            },
+            {
+                "code": "building_example_we-live-in-an-apartment-building",
+                "text": "We live in an apartment building."
+            },
+            {
+                "code": "building_example_the-city-is-tearing-down-many-condemned-buildings",
+                "text": "The city is tearing down many condemned buildings."
+            },
+            {
+                "code": "building_example_he-manages-the-church-building",
+                "text": "He manages the church building."
+            },
+            {
+                "code": "building_example_he-designs-government-buildings",
+                "text": "He designs government buildings."
+            },
+            {
+                "code": "building_example_the-construction-workers-completed-the-building",
+                "text": "The construction workers completed the building."
+            },
+            {
+                "code": "building_example_they-demolished-all-of-the-abandoned-buildings",
+                "text": "They demolished all of the abandoned buildings."
+            },
+            {
+                "code": "building_example_the-buildings-were-damaged-in-the-tornado",
+                "text": "The buildings were damaged in the tornado."
+            },
+            {
+                "code": "building_example_they-are-renovating-old-buildings",
+                "text": "They are renovating old buildings."
+            },
+            {
+                "code": "building_example_we-have-occupied-this-building-for-years",
+                "text": "We have occupied this building for years."
+            },
+            {
+                "code": "building_example_we-had-to-evacuate-the-building-because-of-a-fire",
+                "text": "We had to evacuate the building because of a fire."
+            },
+            {
+                "code": "building_example_the-building-collapsed-during-the-earthquake",
+                "text": "The building collapsed during the earthquake."
+            },
+            {
+                "code": "building_example_they-hired-a-building-company",
+                "text": "They hired a building company."
+            },
+            {
+                "code": "building_example_the-building-materials-were-very-expensive",
+                "text": "The building materials were very expensive."
+            }
+        ]
+    }
+]

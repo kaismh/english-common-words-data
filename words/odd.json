@@ -1,0 +1,52 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "strange",
+        "examples": [
+            {
+                "code": "odd_example_he-is-an-odd-guy",
+                "text": "He is an odd guy."
+            },
+            {
+                "code": "odd_example_the-place-looks-odd",
+                "text": "The place looks odd."
+            },
+            {
+                "code": "odd_example_the-food-tastes-odd",
+                "text": "The food tastes odd."
+            },
+            {
+                "code": "odd_example_i-find-it-odd-that-she-didn-t-call-back",
+                "text": "I find it odd that she didn't call back."
+            },
+            {
+                "code": "odd_example_he-has-an-odd-look",
+                "text": "He has an odd look."
+            },
+            {
+                "code": "odd_example_he-is-an-odd-duck",
+                "text": "He is an odd duck."
+            },
+            {
+                "code": "odd_example_i-have-an-odd-feeling-about-this",
+                "text": "I have an odd feeling about this."
+            },
+            {
+                "code": "odd_example_this-is-an-odd-request",
+                "text": "This is an odd request."
+            },
+            {
+                "code": "odd_example_she-made-an-odd-remark",
+                "text": "She made an odd remark."
+            },
+            {
+                "code": "odd_example_she-s-a-little-odd",
+                "text": "She's a little odd."
+            },
+            {
+                "code": "odd_example_he-does-extremely-odd-things-when-the-moon-is-full",
+                "text": "He does extremely odd things when the moon is full."
+            }
+        ]
+    }
+]

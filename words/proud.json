@@ -1,0 +1,40 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "feeling pleased or satisfied with your achievements or someone else's achievements; having self-respect",
+        "examples": [
+            {
+                "code": "proud_example_i-am-so-proud-of-you",
+                "text": "I am so proud of you."
+            },
+            {
+                "code": "proud_example_his-father-feels-so-proud-of-him",
+                "text": "His father feels so proud of him."
+            },
+            {
+                "code": "proud_example_he-really-made-me-proud",
+                "text": "He really made me proud."
+            },
+            {
+                "code": "proud_example_i-am-the-proud-father-of-two-boys",
+                "text": "I am the proud father of two boys."
+            },
+            {
+                "code": "proud_example_we-have-a-proud-family-tradition",
+                "text": "We have a proud family tradition."
+            },
+            {
+                "code": "proud_example_he-is-the-proud-owner-of-a-small-business",
+                "text": "He is the proud owner of a small business."
+            },
+            {
+                "code": "proud_example_we-are-very-proud-of-you",
+                "text": "We are very proud of you."
+            },
+            {
+                "code": "proud_example_she-is-proud-of-her-son",
+                "text": "She is proud of her son."
+            }
+        ]
+    }
+]

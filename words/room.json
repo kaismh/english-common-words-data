@@ -1,0 +1,180 @@
+[
+    {
+        "type": "(n)",
+        "mean": "space; a separate area within a building with its own walls",
+        "examples": [
+            {
+                "code": "room_example_my-room-faces-the-ocean",
+                "text": "My room faces the ocean."
+            },
+            {
+                "code": "room_example_i-found-a-room-near-the-college",
+                "text": "I found a room near the college."
+            },
+            {
+                "code": "room_example_we-shared-a-room-together",
+                "text": "We shared a room together."
+            },
+            {
+                "code": "room_example_i-booked-a-room-at-the-hotel",
+                "text": "I booked a room at the hotel."
+            },
+            {
+                "code": "room_example_the-room-has-a-great-view",
+                "text": "The room has a great view."
+            },
+            {
+                "code": "room_example_the-room-contains-a-bed-and-a-nightstand",
+                "text": "The room contains a bed and a nightstand."
+            },
+            {
+                "code": "room_example_the-room-smells-like-smoke",
+                "text": "The room smells like smoke."
+            },
+            {
+                "code": "room_example_he-looked-around-the-room",
+                "text": "He looked around the room."
+            },
+            {
+                "code": "room_example_the-police-searched-his-room",
+                "text": "The police searched his room."
+            },
+            {
+                "code": "room_example_he-walked-out-of-the-room",
+                "text": "He walked out of the room."
+            },
+            {
+                "code": "room_example_the-room-is-equipped-with-a-refrigerator",
+                "text": "The room is equipped with a refrigerator."
+            },
+            {
+                "code": "room_example_i-don-t-have-room-for-another-pet",
+                "text": "I don't have room for another pet."
+            },
+            {
+                "code": "room_example_i-paced-the-room",
+                "text": "I paced the room."
+            },
+            {
+                "code": "room_example_she-decorated-her-room",
+                "text": "She decorated her room."
+            },
+            {
+                "code": "room_example_the-room-is-filled-with-boxes",
+                "text": "The room is filled with boxes."
+            },
+            {
+                "code": "room_example_the-room-measures-20-by-30-feet",
+                "text": "The room measures 20 by 30 feet."
+            },
+            {
+                "code": "room_example_i-lost-my-room-key",
+                "text": "I lost my room key."
+            },
+            {
+                "code": "room_example_my-roommate-is-moving-out",
+                "text": "My roommate is moving out."
+            },
+            {
+                "code": "room_example_what-is-your-room-number",
+                "text": "What is your room number?"
+            },
+            {
+                "code": "room_example_the-dessert-should-be-at-room-temperature",
+                "text": "The dessert should be at room temperature."
+            },
+            {
+                "code": "room_example_the-room-rates-are-reasonable-here",
+                "text": "The room rates are reasonable here."
+            },
+            {
+                "code": "room_example_i-ordered-room-service-about-an-hour-ago",
+                "text": "I ordered room service about an hour ago."
+            },
+            {
+                "code": "room_example_there-is-no-wiggle-room-on-the-plane",
+                "text": "There is no wiggle room on the plane."
+            },
+            {
+                "code": "room_example_i-am-looking-for-a-motel-room",
+                "text": "I am looking for a motel room."
+            },
+            {
+                "code": "room_example_do-you-have-any-double-rooms-available",
+                "text": "Do you have any double rooms available?"
+            },
+            {
+                "code": "room_example_he-stood-in-the-crowded-room",
+                "text": "He stood in the crowded room."
+            },
+            {
+                "code": "room_example_she-is-standing-in-an-empty-room",
+                "text": "She is standing in an empty room."
+            },
+            {
+                "code": "room_example_you-can-find-me-in-the-rehearsal-room",
+                "text": "You can find me in the rehearsal room."
+            },
+            {
+                "code": "room_example_the-boiler-room-is-in-the-basement",
+                "text": "The boiler room is in the basement."
+            },
+            {
+                "code": "room_example_we-went-into-the-conference-room",
+                "text": "We went into the conference room."
+            },
+            {
+                "code": "room_example_which-floor-is-your-dorm-room-on",
+                "text": "Which floor is your dorm room on?"
+            },
+            {
+                "code": "room_example_he-lives-in-a-cramped-room",
+                "text": "He lives in a cramped room."
+            },
+            {
+                "code": "room_example_we-have-a-furnished-room-for-rent",
+                "text": "We have a furnished room for rent."
+            },
+            {
+                "code": "room_example_where-is-the-laundry-room",
+                "text": "Where is the laundry room?"
+            },
+            {
+                "code": "room_example_we-sat-together-in-the-drawing-room",
+                "text": "We sat together in the drawing room."
+            },
+            {
+                "code": "room_example_she-is-in-the-recovery-room",
+                "text": "She is in the recovery room."
+            },
+            {
+                "code": "room_example_i-will-wait-for-you-in-the-next-room",
+                "text": "I will wait for you in the next room."
+            },
+            {
+                "code": "room_example_he-was-in-the-bedroom",
+                "text": "He was in the bedroom."
+            },
+            {
+                "code": "room_example_i-have-to-go-to-the-emergency-room",
+                "text": "I have to go to the emergency room."
+            },
+            {
+                "code": "room_example_there-is-ample-room-for-all-of-us-here",
+                "text": "There is ample room for all of us here."
+            },
+            {
+                "code": "room_example_we-found-the-book-in-the-room",
+                "text": "We found the book in the room."
+            },
+            {
+                "code": "room_example_she-walked-from-room-to-room",
+                "text": "She walked from room to room."
+            },
+            {
+                "code": "room_example_do-you-have-room-for-me",
+                "text": "Do you have room for me?"
+            }
+        ]
+    }
+]

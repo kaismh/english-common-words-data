@@ -1,0 +1,62 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a long, flat surface usually found in a business, kitchen or bathroom",
+        "examples": [
+            {
+                "code": "counter_example_i-can-help-you-at-the-checkout-counter",
+                "text": "I can help you at the checkout counter."
+            },
+            {
+                "code": "counter_example_we-need-to-clean-the-bathroom-counter",
+                "text": "We need to clean the bathroom counter."
+            },
+            {
+                "code": "counter_example_the-glass-counter-is-beautiful",
+                "text": "The glass counter is beautiful."
+            },
+            {
+                "code": "counter_example_he-works-at-the-counter",
+                "text": "He works at the counter."
+            },
+            {
+                "code": "counter_example_please-wipe-the-counter",
+                "text": "Please wipe the counter."
+            },
+            {
+                "code": "counter_example_she-approached-the-ticket-counter",
+                "text": "She approached the ticket counter."
+            },
+            {
+                "code": "counter_example_i-can-help-you-at-the-counter",
+                "text": "I can help you at the counter."
+            },
+            {
+                "code": "counter_example_the-bartender-slid-the-beer-across-the-counter",
+                "text": "The bartender slid the beer across the counter."
+            },
+            {
+                "code": "counter_example_put-the-food-on-the-counter",
+                "text": "Put the food on the counter."
+            },
+            {
+                "code": "counter_example_we-are-replacing-our-countertops",
+                "text": "We are replacing our countertops."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to stop or reverse",
+        "examples": [
+            {
+                "code": "counter_example_he-will-counter-the-argument",
+                "text": "He will counter the argument."
+            },
+            {
+                "code": "counter_example_the-medication-will-counter-the-effects-of-the-illness",
+                "text": "The medication will counter the effects of the illness."
+            }
+        ]
+    }
+]

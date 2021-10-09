@@ -1,0 +1,44 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a person or business that buys or sells things",
+        "examples": [
+            {
+                "code": "dealer_example_they-are-an-authorized-dealer",
+                "text": "They are an authorized dealer."
+            },
+            {
+                "code": "dealer_example_ford-is-a-reputable-dealer",
+                "text": "Ford is a reputable dealer."
+            },
+            {
+                "code": "dealer_example_he-is-a-private-dealer",
+                "text": "He is a private dealer."
+            },
+            {
+                "code": "dealer_example_the-shady-dealer-could-not-be-trusted",
+                "text": "The shady dealer could not be trusted."
+            },
+            {
+                "code": "dealer_example_the-drug-dealer-got-arrested",
+                "text": "The drug dealer got arrested."
+            },
+            {
+                "code": "dealer_example_she-is-an-antiques-dealer",
+                "text": "She is an antiques dealer."
+            },
+            {
+                "code": "dealer_example_the-car-dealer-offers-used-cars",
+                "text": "The car dealer offers used-cars."
+            },
+            {
+                "code": "dealer_example_most-cars-are-bought-through-a-dealer",
+                "text": "Most cars are bought through a dealer."
+            },
+            {
+                "code": "dealer_example_he-is-a-dealer-of-art",
+                "text": "He is a dealer of art."
+            }
+        ]
+    }
+]

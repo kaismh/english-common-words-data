@@ -1,0 +1,66 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "having a flat, even surface; without bumps; without any problems",
+        "examples": [
+            {
+                "code": "smooth_example_her-skin-feels-very-smooth",
+                "text": "Her skin feels very smooth."
+            },
+            {
+                "code": "smooth_example_my-skin-became-smooth-after-putting-on-lots-of-lotion",
+                "text": "My skin became smooth after putting on lots of lotion."
+            },
+            {
+                "code": "smooth_example_he-made-the-wooden-surface-smooth-with-sandpaper",
+                "text": "He made the wooden surface smooth with sandpaper."
+            },
+            {
+                "code": "smooth_example_the-wooden-table-was-sanded-smooth",
+                "text": "The wooden table was sanded smooth."
+            },
+            {
+                "code": "smooth_example_everyone-was-envious-of-her-beautifully-smooth-complexion",
+                "text": "Everyone was envious of her beautifully smooth complexion."
+            },
+            {
+                "code": "smooth_example_the-event-went-surprisingly-smooth",
+                "text": "The event went surprisingly smooth."
+            },
+            {
+                "code": "smooth_example_the-interview-process-didn-t-go-entirely-smooth",
+                "text": "The interview process didn't go entirely smooth."
+            },
+            {
+                "code": "smooth_example_make-sure-you-have-a-smooth-batter",
+                "text": "Make sure you have a smooth batter."
+            },
+            {
+                "code": "smooth_example_she-has-smooth-cheeks",
+                "text": "She has smooth cheeks."
+            },
+            {
+                "code": "smooth_example_his-face-is-very-smooth",
+                "text": "His face is very smooth."
+            },
+            {
+                "code": "smooth_example_it-was-a-smooth-operation",
+                "text": "It was a smooth operation."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to make something flat and without bumps",
+        "examples": [
+            {
+                "code": "smooth_example_she-gently-smoothed-out-the-wrinkles-on-her-silk-shirt",
+                "text": "She gently smoothed out the wrinkles on her silk shirt."
+            },
+            {
+                "code": "smooth_example_she-used-hair-gel-to-smooth-out-her-hair",
+                "text": "She used hair gel to smooth out her hair."
+            }
+        ]
+    }
+]

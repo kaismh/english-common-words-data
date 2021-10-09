@@ -1,0 +1,40 @@
+[
+    {
+        "type": "(adv)",
+        "mean": "happening in a way that is not made or caused by someone or something; normally",
+        "examples": [
+            {
+                "code": "naturally_example_these-problems-arise-naturally",
+                "text": "These problems arise naturally."
+            },
+            {
+                "code": "naturally_example_the-earth-naturally-produces-chemicals",
+                "text": "The earth naturally produces chemicals."
+            },
+            {
+                "code": "naturally_example_i-tried-to-behave-naturally",
+                "text": "I tried to behave naturally."
+            },
+            {
+                "code": "naturally_example_he-is-naturally-gifted",
+                "text": "He is naturally gifted."
+            },
+            {
+                "code": "naturally_example_we-are-naturally-resistant-to-some-diseases",
+                "text": "We are naturally resistant to some diseases."
+            },
+            {
+                "code": "naturally_example_she-is-naturally-suspicious",
+                "text": "She is naturally suspicious."
+            },
+            {
+                "code": "naturally_example_the-land-here-is-naturally-beautiful",
+                "text": "The land here is naturally beautiful."
+            },
+            {
+                "code": "naturally_example_her-hair-is-naturally-straight",
+                "text": "Her hair is naturally straight."
+            }
+        ]
+    }
+]

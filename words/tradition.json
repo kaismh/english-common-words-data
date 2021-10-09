@@ -1,0 +1,56 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a custom or belief that people of a particular group have used for a long time",
+        "examples": [
+            {
+                "code": "tradition_example_eating-turkey-on-thanksgiving-is-an-age-old-tradition",
+                "text": "Eating turkey on Thanksgiving is an age-old tradition."
+            },
+            {
+                "code": "tradition_example_it-is-our-family-tradition-to-celebrate-the-holidays-at-our-sister-s-house",
+                "text": "It is our family tradition to celebrate the holidays at our sister's house."
+            },
+            {
+                "code": "tradition_example_carving-pumpkins-has-become-an-annual-tradition",
+                "text": "Carving pumpkins has become an annual tradition."
+            },
+            {
+                "code": "tradition_example_please-share-your-cultural-traditions-with-us",
+                "text": "Please share your cultural traditions with us."
+            },
+            {
+                "code": "tradition_example_i-truly-cherish-our-family-traditions",
+                "text": "I truly cherish our family traditions."
+            },
+            {
+                "code": "tradition_example_it-has-become-tradition-to-watch-the-super-bowl-at-our-house",
+                "text": "It has become tradition to watch the Super Bowl at our house."
+            },
+            {
+                "code": "tradition_example_traditions-date-back-to-many-years-ago",
+                "text": "Traditions date back to many years ago."
+            },
+            {
+                "code": "tradition_example_we-follow-time-honored-traditions",
+                "text": "We follow time-honored traditions."
+            },
+            {
+                "code": "tradition_example_they-broke-tradition-this-year-and-wore-a-different-color",
+                "text": "They broke tradition this year and wore a different color."
+            },
+            {
+                "code": "tradition_example_we-want-to-start-a-new-tradition-this-year",
+                "text": "We want to start a new tradition this year."
+            },
+            {
+                "code": "tradition_example_by-tradition-we-open-presents-at-midnight",
+                "text": "By tradition, we open presents at midnight."
+            },
+            {
+                "code": "tradition_example_according-to-tradition-a-man-in-a-red-suit-brings-toys-to-kids-every-year",
+                "text": "According to tradition, a man in a red suit brings toys to kids every year."
+            }
+        ]
+    }
+]

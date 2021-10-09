@@ -1,0 +1,72 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "causing great interest or enthusiasm",
+        "examples": [
+            {
+                "code": "exciting_example_this-movie-is-very-exciting",
+                "text": "This movie is very exciting."
+            },
+            {
+                "code": "exciting_example_the-book-is-becoming-exciting",
+                "text": "The book is becoming exciting."
+            },
+            {
+                "code": "exciting_example_how-can-we-make-the-party-more-exciting",
+                "text": "How can we make the party more exciting?"
+            },
+            {
+                "code": "exciting_example_she-doesn-t-find-sports-exciting",
+                "text": "She doesn't find sports exciting."
+            },
+            {
+                "code": "exciting_example_the-uncertainty-of-the-game-keeps-it-exciting",
+                "text": "The uncertainty of the game keeps it exciting."
+            },
+            {
+                "code": "exciting_example_this-show-is-extremely-exciting",
+                "text": "This show is extremely exciting."
+            },
+            {
+                "code": "exciting_example_this-trip-has-been-incredibly-exciting",
+                "text": "This trip has been incredibly exciting."
+            },
+            {
+                "code": "exciting_example_i-don-t-think-baseball-is-equally-as-exciting-as-football",
+                "text": "I don't think baseball is equally as exciting as football."
+            },
+            {
+                "code": "exciting_example_his-painting-is-visually-exciting",
+                "text": "His painting is visually exciting."
+            },
+            {
+                "code": "exciting_example_they-are-off-on-an-exciting-adventure",
+                "text": "They are off on an exciting adventure."
+            },
+            {
+                "code": "exciting_example_the-scientist-made-a-really-exciting-find",
+                "text": "The scientist made a really exciting find."
+            },
+            {
+                "code": "exciting_example_he-has-an-exciting-future-ahead-of-him",
+                "text": "He has an exciting future ahead of him."
+            },
+            {
+                "code": "exciting_example_this-has-been-a-very-exciting-contest",
+                "text": "This has been a very exciting contest."
+            },
+            {
+                "code": "exciting_example_he-presented-an-exciting-idea",
+                "text": "He presented an exciting idea."
+            },
+            {
+                "code": "exciting_example_they-are-watching-an-exciting-film",
+                "text": "They are watching an exciting film."
+            },
+            {
+                "code": "exciting_example_we-are-making-some-exciting-changes-to-the-program",
+                "text": "We are making some exciting changes to the program."
+            }
+        ]
+    }
+]

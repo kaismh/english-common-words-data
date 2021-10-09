@@ -1,0 +1,48 @@
+[
+    {
+        "type": "(n)",
+        "mean": "an object of faith and worship in religion",
+        "examples": [
+            {
+                "code": "god_example_she-told-us-about-pagan-gods",
+                "text": "She told us about pagan gods."
+            },
+            {
+                "code": "god_example_they-talked-about-the-christian-god",
+                "text": "They talked about the Christian God."
+            },
+            {
+                "code": "god_example_they-think-he-worships-a-false-god",
+                "text": "They think he worships a false god."
+            },
+            {
+                "code": "god_example_they-gave-an-offering-to-the-sun-god",
+                "text": "They gave an offering to the sun god."
+            },
+            {
+                "code": "god_example_she-believes-in-many-gods",
+                "text": "She believes in many gods."
+            },
+            {
+                "code": "god_example_they-have-one-god-in-their-religion",
+                "text": "They have one god in their religion."
+            },
+            {
+                "code": "god_example_they-praised-god-for-their-good-fortune",
+                "text": "They praised God for their good fortune."
+            },
+            {
+                "code": "god_example_he-found-god-after-his-troubles",
+                "text": "He found God after his troubles."
+            },
+            {
+                "code": "god_example_we-were-taught-to-obey-god",
+                "text": "We were taught to obey God."
+            },
+            {
+                "code": "god_example_mars-is-the-roman-god-of-war",
+                "text": "Mars is the Roman god of war."
+            }
+        ]
+    }
+]

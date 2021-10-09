@@ -1,0 +1,68 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "coming right after something else; nearest or closest",
+        "examples": [
+            {
+                "code": "next_example_the-next-thing-i-knew-i-was-waking-up",
+                "text": "The next thing I knew, I was waking up."
+            },
+            {
+                "code": "next_example_in-my-next-life-i-hope-i-am-a-bird",
+                "text": "In my next life, I hope I am a bird."
+            },
+            {
+                "code": "next_example_we-played-the-next-round-of-golf",
+                "text": "We played the next round of golf."
+            },
+            {
+                "code": "next_example_she-left-the-next-day",
+                "text": "She left the next day."
+            },
+            {
+                "code": "next_example_the-next-generation-will-thank-us",
+                "text": "The next generation will thank us."
+            },
+            {
+                "code": "next_example_what-is-the-next-step",
+                "text": "What is the next step?"
+            },
+            {
+                "code": "next_example_take-the-next-turn",
+                "text": "Take the next turn."
+            },
+            {
+                "code": "next_example_she-is-in-the-next-room",
+                "text": "She is in the next room."
+            },
+            {
+                "code": "next_example_i-have-plans-next-weekend",
+                "text": "I have plans next weekend."
+            },
+            {
+                "code": "next_example_i-haven-t-seen-the-next-episode",
+                "text": "I haven't seen the next episode."
+            },
+            {
+                "code": "next_example_i-will-see-you-next-time",
+                "text": "I will see you next time."
+            },
+            {
+                "code": "next_example_we-met-the-next-evening",
+                "text": "We met the next evening."
+            },
+            {
+                "code": "next_example_get-off-at-the-next-station",
+                "text": "Get off at the next station."
+            },
+            {
+                "code": "next_example_i-read-the-next-page",
+                "text": "I read the next page."
+            },
+            {
+                "code": "next_example_we-will-start-again-next-year",
+                "text": "We will start again next year."
+            }
+        ]
+    }
+]

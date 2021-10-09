@@ -1,0 +1,40 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to suggest an idea or plan; to officially ask someone to marry",
+        "examples": [
+            {
+                "code": "propose_example_they-proposed-several-recommendations-in-the-report",
+                "text": "They proposed several recommendations in the report."
+            },
+            {
+                "code": "propose_example_they-proposed-a-new-law-last-week",
+                "text": "They proposed a new law last week."
+            },
+            {
+                "code": "propose_example_he-proposed-marriage-over-a-year-ago",
+                "text": "He proposed marriage over a year ago."
+            },
+            {
+                "code": "propose_example_they-recently-proposed-a-new-school",
+                "text": "They recently proposed a new school."
+            },
+            {
+                "code": "propose_example_the-city-is-seriously-proposing-that-the-old-school-be-closed-down",
+                "text": "The city is seriously proposing that the old school be closed down."
+            },
+            {
+                "code": "propose_example_he-formally-proposed-marriage-to-his-girlfriend",
+                "text": "He formally proposed marriage to his girlfriend."
+            },
+            {
+                "code": "propose_example_they-initially-proposed-a-different-plan",
+                "text": "They initially proposed a different plan."
+            },
+            {
+                "code": "propose_example_we-proposed-that-idea-as-a-short-term-solution",
+                "text": "We proposed that idea as a short-term solution."
+            }
+        ]
+    }
+]

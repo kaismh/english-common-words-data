@@ -1,0 +1,108 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a serious or dangerous situation, a last-minute response",
+        "examples": [
+            {
+                "code": "emergency_example_a-house-fire-is-a-serious-emergency",
+                "text": "A house fire is a serious emergency."
+            },
+            {
+                "code": "emergency_example_in-a-life-threatening-emergency-you-should-call-911",
+                "text": "In a life-threatening emergency, you should call 911."
+            },
+            {
+                "code": "emergency_example_she-missed-work-because-of-a-sudden-emergency",
+                "text": "She missed work because of a sudden emergency."
+            },
+            {
+                "code": "emergency_example_they-declared-a-local-emergency-after-the-hurricane",
+                "text": "They declared a local emergency after the hurricane."
+            },
+            {
+                "code": "emergency_example_he-missed-the-test-because-of-a-medical-emergency",
+                "text": "He missed the test because of a medical emergency."
+            },
+            {
+                "code": "emergency_example_he-had-a-family-emergency-and-needed-to-leave-early",
+                "text": "He had a family emergency and needed to leave early."
+            },
+            {
+                "code": "emergency_example_firefighters-have-to-deal-with-many-emergencies",
+                "text": "Firefighters have to deal with many emergencies."
+            },
+            {
+                "code": "emergency_example_the-red-cross-is-helping-with-the-emergency",
+                "text": "The Red Cross is helping with the emergency."
+            },
+            {
+                "code": "emergency_example_the-president-declared-an-emergency-after-the-hurricane",
+                "text": "The president declared an emergency after the hurricane."
+            },
+            {
+                "code": "emergency_example_a-heart-attack-is-a-medical-emergency",
+                "text": "A heart attack is a medical emergency."
+            },
+            {
+                "code": "emergency_example_call-911-when-an-emergency-happens",
+                "text": "Call 911 when an emergency happens."
+            },
+            {
+                "code": "emergency_example_call-911-in-an-emergency-situation",
+                "text": "Call 911 in an emergency situation."
+            },
+            {
+                "code": "emergency_example_the-emergency-response-happened-quickly",
+                "text": "The emergency response happened quickly."
+            },
+            {
+                "code": "emergency_example_after-the-hurricane-police-put-the-emergency-plan-into-effect",
+                "text": "After the hurricane, police put the emergency plan into effect."
+            },
+            {
+                "code": "emergency_example_police-fire-and-medical-are-types-of-emergency-services",
+                "text": "Police, fire and medical are types of emergency services."
+            },
+            {
+                "code": "emergency_example_they-called-an-emergency-meeting-to-deal-with-the-crisis",
+                "text": "They called an emergency meeting to deal with the crisis."
+            },
+            {
+                "code": "emergency_example_emergency-supplies-have-been-sent-to-the-disaster-zone",
+                "text": "Emergency supplies have been sent to the disaster zone."
+            },
+            {
+                "code": "emergency_example_they-need-a-lot-of-emergency-assistance-to-deal-with-the-crisis",
+                "text": "They need a lot of emergency assistance to deal with the crisis."
+            },
+            {
+                "code": "emergency_example_they-had-to-make-an-emergency-evacuation-when-the-alarm-went-off",
+                "text": "They had to make an emergency evacuation when the alarm went off."
+            },
+            {
+                "code": "emergency_example_put-your-emergency-kit-where-it-can-be-easily-found",
+                "text": "Put your emergency kit where it can be easily found."
+            },
+            {
+                "code": "emergency_example_she-went-to-the-emergency-room-when-she-burned-her-hand",
+                "text": "She went to the emergency room when she burned her hand."
+            },
+            {
+                "code": "emergency_example_the-red-cross-has-opened-an-emergency-shelter-for-the-victims",
+                "text": "The Red Cross has opened an emergency shelter for the victims."
+            },
+            {
+                "code": "emergency_example_the-airplane-had-to-make-an-emergency-landing",
+                "text": "The airplane had to make an emergency landing."
+            },
+            {
+                "code": "emergency_example_the-emergency-exits-should-be-marked",
+                "text": "The emergency exits should be marked."
+            },
+            {
+                "code": "emergency_example_we-have-to-evacuate-the-building-in-an-emergency",
+                "text": "We have to evacuate the building in an emergency."
+            }
+        ]
+    }
+]

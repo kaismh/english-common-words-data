@@ -1,0 +1,86 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to handle someone or something in a certain way; to give medical care",
+        "examples": [
+            {
+                "code": "treat_example_the-teacher-treats-each-student-equally",
+                "text": "The teacher treats each student equally."
+            },
+            {
+                "code": "treat_example_he-treats-his-dog-badly",
+                "text": "He treats his dog badly."
+            },
+            {
+                "code": "treat_example_she-has-been-treated-well",
+                "text": "She has been treated well."
+            },
+            {
+                "code": "treat_example_they-were-treated-unfairly-by-the-police",
+                "text": "They were treated unfairly by the police."
+            },
+            {
+                "code": "treat_example_the-doctor-successfully-treated-the-patient",
+                "text": "The doctor successfully treated the patient."
+            },
+            {
+                "code": "treat_example_the-cut-on-her-finger-had-to-be-medically-treated",
+                "text": "The cut on her finger had to be medically treated."
+            },
+            {
+                "code": "treat_example_if-you-do-not-properly-treat-that-wound-it-will-get-infected",
+                "text": "If you do not properly treat that wound, it will get infected."
+            },
+            {
+                "code": "treat_example_she-is-treated-like-a-queen",
+                "text": "She is treated like a queen."
+            },
+            {
+                "code": "treat_example_he-treats-her-with-care",
+                "text": "He treats her with care."
+            },
+            {
+                "code": "treat_example_i-will-treat-the-infection-with-strong-antibiotics",
+                "text": "I will treat the infection with strong antibiotics."
+            },
+            {
+                "code": "treat_example_he-was-treated-for-a-broken-arm",
+                "text": "He was treated for a broken arm."
+            }
+        ]
+    },
+    {
+        "type": "(n)",
+        "mean": "a gift that makes someone happy",
+        "examples": [
+            {
+                "code": "treat_example_i-have-a-special-treat-for-you",
+                "text": "I have a special treat for you."
+            },
+            {
+                "code": "treat_example_dining-out-is-a-rare-treat-these-days",
+                "text": "Dining out is a rare treat these days."
+            },
+            {
+                "code": "treat_example_this-is-a-tasty-treat-from-the-bakery",
+                "text": "This is a tasty treat from the bakery."
+            },
+            {
+                "code": "treat_example_you-deserve-a-treat-for-being-good-at-the-doctor-s-office",
+                "text": "You deserve a treat for being good at the doctor's office."
+            },
+            {
+                "code": "treat_example_i-like-to-hand-out-treats-during-the-holidays",
+                "text": "I like to hand out treats during the holidays."
+            },
+            {
+                "code": "treat_example_they-get-treats-at-their-grandmother-s-house",
+                "text": "They get treats at their grandmother's house."
+            },
+            {
+                "code": "treat_example_they-took-the-kids-to-the-amusement-park-for-a-special-treat",
+                "text": "They took the kids to the amusement park for a special treat."
+            }
+        ]
+    }
+]

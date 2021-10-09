@@ -1,0 +1,68 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a person's choice or determination to do something; a legal document that says what happens to someone's money and property after he or she dies",
+        "examples": [
+            {
+                "code": "will_example_she-has-a-strong-will-to-survive",
+                "text": "She has a strong will to survive."
+            },
+            {
+                "code": "will_example_it-was-his-pure-will-to-survive-out-in-the-snow",
+                "text": "It was his pure will to survive out in the snow."
+            },
+            {
+                "code": "will_example_you-are-here-on-your-own-free-will-so-you-can-leave-anytime",
+                "text": "You are here on your own free will, so you can leave anytime."
+            },
+            {
+                "code": "will_example_he-wishes-no-ill-will-on-his-enemies",
+                "text": "He wishes no ill will on his enemies."
+            },
+            {
+                "code": "will_example_it-was-the-goodwill-of-all-who-donated-that-made-the-charity-successful",
+                "text": "It was the goodwill of all who donated that made the charity successful."
+            },
+            {
+                "code": "will_example_the-patient-has-a-strong-will-to-live",
+                "text": "The patient has a strong will to live."
+            },
+            {
+                "code": "will_example_he-lacks-the-will-to-continue",
+                "text": "He lacks the will to continue."
+            },
+            {
+                "code": "will_example_the-abuse-broke-her-will-to-live",
+                "text": "The abuse broke her will to live."
+            },
+            {
+                "code": "will_example_his-father-made-a-will",
+                "text": "His father made a will."
+            },
+            {
+                "code": "will_example_the-lawyer-read-the-will-to-the-family",
+                "text": "The lawyer read the will to the family."
+            },
+            {
+                "code": "will_example_she-changed-her-will-to-include-her-new-grandchild",
+                "text": "She changed her will to include her new grandchild."
+            },
+            {
+                "code": "will_example_the-children-challenged-their-father-s-will",
+                "text": "The children challenged their father's will."
+            },
+            {
+                "code": "will_example_he-held-her-against-her-will",
+                "text": "He held her against her will."
+            },
+            {
+                "code": "will_example_you-should-be-able-to-come-and-go-at-your-own-will",
+                "text": "You should be able to come and go at your own will."
+            },
+            {
+                "code": "will_example_she-didn-t-leave-anything-to-her-children-in-her-will",
+                "text": "She didn't leave anything to her children in her will."
+            }
+        ]
+    }
+]

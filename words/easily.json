@@ -1,0 +1,52 @@
+[
+    {
+        "type": "(adv)",
+        "mean": "without problems or difficulty",
+        "examples": [
+            {
+                "code": "easily_example_the-homework-was-easily-understandable",
+                "text": "The homework was easily understandable."
+            },
+            {
+                "code": "easily_example_the-puppy-was-easily-excitable",
+                "text": "The puppy was easily excitable."
+            },
+            {
+                "code": "easily_example_the-book-is-easily-available-in-the-library",
+                "text": "The book is easily available in the library."
+            },
+            {
+                "code": "easily_example_the-results-were-easily-comparable",
+                "text": "The results were easily comparable."
+            },
+            {
+                "code": "easily_example_the-accident-was-easily-preventable",
+                "text": "The accident was easily preventable."
+            },
+            {
+                "code": "easily_example_paper-easily-burns",
+                "text": "Paper easily burns."
+            },
+            {
+                "code": "easily_example_this-problem-can-be-resolved-easily",
+                "text": "This problem can be resolved easily."
+            },
+            {
+                "code": "easily_example_she-easily-forgave-her-friend-s-mistake",
+                "text": "She easily forgave her friend's mistake."
+            },
+            {
+                "code": "easily_example_we-removed-the-stain-easily-from-the-carpet",
+                "text": "We removed the stain easily from the carpet."
+            },
+            {
+                "code": "easily_example_my-sister-laughs-easily",
+                "text": "My sister laughs easily."
+            },
+            {
+                "code": "easily_example_you-can-easily-compare-the-two-words",
+                "text": "You can easily compare the two words."
+            }
+        ]
+    }
+]

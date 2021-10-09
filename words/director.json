@@ -1,0 +1,40 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a person who runs a department of a company; a person who is in charge of a film, movie, or play; a person who is in charge of an organization",
+        "examples": [
+            {
+                "code": "director_example_this-woman-is-the-company-director",
+                "text": "This woman is the company director."
+            },
+            {
+                "code": "director_example_we-need-to-hire-an-art-director",
+                "text": "We need to hire an art director."
+            },
+            {
+                "code": "director_example_our-school-needs-an-athletic-director",
+                "text": "Our school needs an athletic director."
+            },
+            {
+                "code": "director_example_she-was-named-the-museum-director",
+                "text": "She was named the museum director."
+            },
+            {
+                "code": "director_example_they-fired-the-film-director",
+                "text": "They fired the film director."
+            },
+            {
+                "code": "director_example_his-brother-is-the-theater-director",
+                "text": "His brother is the theater director."
+            },
+            {
+                "code": "director_example_we-were-thrilled-to-meet-the-hollywood-director",
+                "text": "We were thrilled to meet the Hollywood director."
+            },
+            {
+                "code": "director_example_she-is-the-artistic-director",
+                "text": "She is the artistic director."
+            }
+        ]
+    }
+]

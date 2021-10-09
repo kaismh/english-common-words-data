@@ -1,0 +1,166 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a set of movements or activities to make or keep the body healthy; a set of questions in school or work that practices skills; the activity of the police or military",
+        "examples": [
+            {
+                "code": "exercise_example_climbing-the-mountain-was-good-exercise",
+                "text": "Climbing the mountain was good exercise."
+            },
+            {
+                "code": "exercise_example_he-does-an-hour-of-hard-exercise-every-day",
+                "text": "He does an hour of hard exercise every day."
+            },
+            {
+                "code": "exercise_example_she-starts-her-day-with-gentle-exercise",
+                "text": "She starts her day with gentle exercise."
+            },
+            {
+                "code": "exercise_example_they-try-to-get-regular-exercise",
+                "text": "They try to get regular exercise."
+            },
+            {
+                "code": "exercise_example_she-prefers-outdoor-exercise",
+                "text": "She prefers outdoor exercise."
+            },
+            {
+                "code": "exercise_example_this-is-a-good-mental-exercise",
+                "text": "This is a good mental exercise."
+            },
+            {
+                "code": "exercise_example_she-learned-some-new-breathing-exercises",
+                "text": "She learned some new breathing exercises."
+            },
+            {
+                "code": "exercise_example_these-are-really-easy-exercises",
+                "text": "These are really easy exercises."
+            },
+            {
+                "code": "exercise_example_my-teacher-assigns-many-written-exercises",
+                "text": "My teacher assigns many written exercises."
+            },
+            {
+                "code": "exercise_example_we-will-be-doing-some-team-building-exercises-at-work-today",
+                "text": "We will be doing some team-building exercises at work today."
+            },
+            {
+                "code": "exercise_example_they-did-two-hours-of-training-exercises-today",
+                "text": "They did two hours of training exercises today."
+            },
+            {
+                "code": "exercise_example_they-watched-the-naval-exercises",
+                "text": "They watched the naval exercises."
+            },
+            {
+                "code": "exercise_example_did-you-do-your-exercises",
+                "text": "Did you do your exercises?"
+            },
+            {
+                "code": "exercise_example_i-need-exercise",
+                "text": "I need exercise."
+            },
+            {
+                "code": "exercise_example_her-doctor-recommends-20-minutes-of-gentle-exercise-daily",
+                "text": "Her doctor recommends 20 minutes of gentle exercise daily."
+            },
+            {
+                "code": "exercise_example_it-might-be-easier-to-do-this-exercise-while-sitting",
+                "text": "It might be easier to do this exercise while sitting."
+            },
+            {
+                "code": "exercise_example_they-tried-some-relaxation-exercises-before-the-test",
+                "text": "They tried some relaxation exercises before the test."
+            },
+            {
+                "code": "exercise_example_i-have-to-repeat-this-exercise-three-times",
+                "text": "I have to repeat this exercise three times."
+            },
+            {
+                "code": "exercise_example_we-completed-the-exercises-before-class",
+                "text": "We completed the exercises before class."
+            },
+            {
+                "code": "exercise_example_the-navy-conducted-training-exercises-this-morning",
+                "text": "The Navy conducted training exercises this morning."
+            },
+            {
+                "code": "exercise_example_she-is-trying-a-new-exercise-routine",
+                "text": "She is trying a new exercise routine."
+            },
+            {
+                "code": "exercise_example_she-likes-to-use-an-exercise-bike",
+                "text": "She likes to use an exercise bike."
+            },
+            {
+                "code": "exercise_example_can-you-show-me-how-to-use-this-exercise-equipment",
+                "text": "Can you show me how to use this exercise equipment?"
+            },
+            {
+                "code": "exercise_example_you-should-drink-plenty-of-water-during-exercise",
+                "text": "You should drink plenty of water during exercise."
+            },
+            {
+                "code": "exercise_example_this-has-been-a-valuable-exercise-in-self-control",
+                "text": "This has been a valuable exercise in self-control."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to do physical activity; to act or use",
+        "examples": [
+            {
+                "code": "exercise_example_they-are-trying-to-fully-exercise-their-rights",
+                "text": "They are trying to fully exercise their rights."
+            },
+            {
+                "code": "exercise_example_she-lawfully-exercised-her-right-to-free-speech",
+                "text": "She lawfully exercised her right to free speech."
+            },
+            {
+                "code": "exercise_example_in-some-places-people-cannot-freely-exercise-the-religion-of-their-choice",
+                "text": "In some places, people cannot freely exercise the religion of their choice."
+            },
+            {
+                "code": "exercise_example_she-was-unable-to-exercise-while-her-foot-was-hurt",
+                "text": "She was unable to exercise while her foot was hurt."
+            },
+            {
+                "code": "exercise_example_i-need-to-exercise-more-as-i-grow-older",
+                "text": "I need to exercise more as I grow older."
+            },
+            {
+                "code": "exercise_example_they-were-able-to-exercise-their-right-to-vote",
+                "text": "They were able to exercise their right to vote."
+            },
+            {
+                "code": "exercise_example_they-needed-to-exercise-self-control-in-this-situation",
+                "text": "They needed to exercise self-control in this situation."
+            },
+            {
+                "code": "exercise_example_the-king-exercised-his-authority-over-the-citizens",
+                "text": "The king exercised his authority over the citizens."
+            },
+            {
+                "code": "exercise_example_he-exercised-good-judgment-in-the-crisis",
+                "text": "He exercised good judgment in the crisis."
+            },
+            {
+                "code": "exercise_example_they-need-to-exercise-caution-to-be-successful",
+                "text": "They need to exercise caution to be successful."
+            },
+            {
+                "code": "exercise_example_we-should-exercise-care-when-dealing-with-this-situation",
+                "text": "We should exercise care when dealing with this situation."
+            },
+            {
+                "code": "exercise_example_she-always-exercises-her-right-to-vote",
+                "text": "She always exercises her right to vote."
+            },
+            {
+                "code": "exercise_example_his-job-requires-him-to-exercise-a-lot-of-patience",
+                "text": "His job requires him to exercise a lot of patience."
+            }
+        ]
+    }
+]

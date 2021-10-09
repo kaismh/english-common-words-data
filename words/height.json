@@ -1,0 +1,60 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the measurement of how tall someone or something is; distance above land",
+        "examples": [
+            {
+                "code": "height_example_the-tree-hasn-t-reached-its-full-height-yet",
+                "text": "The tree hasn't reached its full height yet."
+            },
+            {
+                "code": "height_example_he-is-about-average-height-for-his-age",
+                "text": "He is about average height for his age."
+            },
+            {
+                "code": "height_example_these-plants-grow-to-a-low-height",
+                "text": "These plants grow to a low height."
+            },
+            {
+                "code": "height_example_the-balloon-reached-a-considerable-height",
+                "text": "The balloon reached a considerable height."
+            },
+            {
+                "code": "height_example_the-plant-comes-up-to-chest-height",
+                "text": "The plant comes up to chest height."
+            },
+            {
+                "code": "height_example_i-need-a-ceiling-height-bookcase",
+                "text": "I need a ceiling height bookcase."
+            },
+            {
+                "code": "height_example_we-need-to-measure-its-height",
+                "text": "We need to measure its height."
+            },
+            {
+                "code": "height_example_the-shelf-has-a-height-of-36-inches",
+                "text": "The shelf has a height of 36 inches."
+            },
+            {
+                "code": "height_example_these-plants-will-grow-to-a-height-of-two-feet",
+                "text": "These plants will grow to a height of two feet."
+            },
+            {
+                "code": "height_example_we-are-trying-to-increase-the-height-of-the-platform",
+                "text": "We are trying to increase the height of the platform."
+            },
+            {
+                "code": "height_example_you-should-adjust-the-height-of-your-monitor",
+                "text": "You should adjust the height of your monitor."
+            },
+            {
+                "code": "height_example_the-kite-is-gaining-height",
+                "text": "The kite is gaining height."
+            },
+            {
+                "code": "height_example_the-airplane-climbed-to-a-height-of-35000-feet",
+                "text": "The airplane climbed to a height of 35,000 feet."
+            }
+        ]
+    }
+]

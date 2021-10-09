@@ -1,0 +1,44 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a suggestion about what someone should do in a certain situation",
+        "examples": [
+            {
+                "code": "advice_example_thank-you-for-the-excellent-advice",
+                "text": "Thank you for the excellent advice!"
+            },
+            {
+                "code": "advice_example_she-gave-me-bad-advice",
+                "text": "She gave me bad advice."
+            },
+            {
+                "code": "advice_example_i-received-advice-from-my-professor",
+                "text": "I received advice from my professor."
+            },
+            {
+                "code": "advice_example_he-wanted-me-to-give-him-advice",
+                "text": "He wanted me to give him advice."
+            },
+            {
+                "code": "advice_example_i-did-not-take-his-advice",
+                "text": "I did not take his advice."
+            },
+            {
+                "code": "advice_example_she-went-against-my-advice",
+                "text": "She went against my advice."
+            },
+            {
+                "code": "advice_example_i-took-a-vacation-on-your-advice",
+                "text": "I took a vacation on your advice."
+            },
+            {
+                "code": "advice_example_can-you-give-me-advice-about-parenting",
+                "text": "Can you give me advice about parenting?"
+            },
+            {
+                "code": "advice_example_that-is-my-advice-to-you",
+                "text": "That is my advice to you."
+            }
+        ]
+    }
+]

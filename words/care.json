@@ -1,0 +1,134 @@
+[
+    {
+        "type": "(n)",
+        "mean": "special attention or protection for something",
+        "examples": [
+            {
+                "code": "care_example_he-takes-good-care-of-his-car",
+                "text": "He takes good care of his car."
+            },
+            {
+                "code": "care_example_children-need-proper-care",
+                "text": "Children need proper care."
+            },
+            {
+                "code": "care_example_who-is-responsible-for-the-short-term-care-of-those-children",
+                "text": "Who is responsible for the short-term care of those children?"
+            },
+            {
+                "code": "care_example_she-is-in-intensive-care-at-the-hospital",
+                "text": "She is in intensive care at the hospital."
+            },
+            {
+                "code": "care_example_she-needs-maternity-care",
+                "text": "She needs maternity care."
+            },
+            {
+                "code": "care_example_your-grandmother-will-need-clinical-care",
+                "text": "Your grandmother will need clinical care."
+            },
+            {
+                "code": "care_example_i-m-his-primary-care-provider",
+                "text": "I'm his primary care provider."
+            },
+            {
+                "code": "care_example_this-doctor-focuses-on-preventative-care",
+                "text": "This doctor focuses on preventative care."
+            },
+            {
+                "code": "care_example_the-boy-will-be-put-in-foster-care",
+                "text": "The boy will be put in foster care."
+            },
+            {
+                "code": "care_example_he-is-also-responsible-for-pastoral-care",
+                "text": "He is also responsible for pastoral care."
+            },
+            {
+                "code": "care_example_they-want-to-improve-the-company-s-customer-care",
+                "text": "They want to improve the company's customer care."
+            },
+            {
+                "code": "care_example_do-you-sell-skin-care-products",
+                "text": "Do you sell skin care products?"
+            },
+            {
+                "code": "care_example_please-take-special-care-with-this-project",
+                "text": "Please take special care with this project."
+            },
+            {
+                "code": "care_example_he-does-his-job-with-meticulous-care",
+                "text": "He does his job with meticulous care."
+            },
+            {
+                "code": "care_example_will-you-take-care-of-our-dog-while-we-are-on-vacation",
+                "text": "Will you take care of our dog while we are on vacation?"
+            },
+            {
+                "code": "care_example_are-you-happy-with-the-care-provided-by-your-doctor",
+                "text": "Are you happy with the care provided by your doctor?"
+            },
+            {
+                "code": "care_example_i-think-my-father-will-require-special-care",
+                "text": "I think my father will require special care."
+            },
+            {
+                "code": "care_example_i-ll-have-to-exercise-care-to-avoid-offending-anyone",
+                "text": "I'll have to exercise care to avoid offending anyone."
+            },
+            {
+                "code": "care_example_we-should-respect-health-care-workers",
+                "text": "We should respect health care workers."
+            },
+            {
+                "code": "care_example_we-are-impressed-with-this-medical-care-center",
+                "text": "We are impressed with this medical care center."
+            },
+            {
+                "code": "care_example_she-sent-me-a-care-package-when-i-went-to-college",
+                "text": "She sent me a care package when I went to college."
+            },
+            {
+                "code": "care_example_the-children-are-now-under-our-care",
+                "text": "The children are now under our care."
+            },
+            {
+                "code": "care_example_the-accident-happened-in-the-babysitter-s-care",
+                "text": "The accident happened in the babysitter's care."
+            },
+            {
+                "code": "care_example_you-must-handle-this-with-care",
+                "text": "You must handle this with care."
+            },
+            {
+                "code": "care_example_without-care-the-plants-will-die",
+                "text": "Without care, the plants will die."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to offer special attention or protection for something",
+        "examples": [
+            {
+                "code": "care_example_she-cares-deeply-about-the-environment",
+                "text": "She cares deeply about the environment."
+            },
+            {
+                "code": "care_example_i-really-care-about-what-you-think",
+                "text": "I really care about what you think."
+            },
+            {
+                "code": "care_example_he-hardly-cares-about-what-will-happen",
+                "text": "He hardly cares about what will happen."
+            },
+            {
+                "code": "care_example_i-don-t-think-you-care-enough-about-me",
+                "text": "I don't think you care enough about me."
+            },
+            {
+                "code": "care_example_do-you-care-about-anything",
+                "text": "Do you care about anything?"
+            }
+        ]
+    }
+]

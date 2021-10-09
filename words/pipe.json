@@ -1,0 +1,86 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to move something through a tube",
+        "examples": [
+            {
+                "code": "pipe_example_the-company-pipes-water-across-the-country",
+                "text": "The company pipes water across the country."
+            },
+            {
+                "code": "pipe_example_the-baker-piped-the-frosting-onto-the-cupcakes",
+                "text": "The baker piped the frosting onto the cupcakes."
+            },
+            {
+                "code": "pipe_example_they-piped-the-water-into-the-building",
+                "text": "They piped the water into the building."
+            },
+            {
+                "code": "pipe_example_the-water-is-piped-in-from-the-basement",
+                "text": "The water is piped in from the basement."
+            },
+            {
+                "code": "pipe_example_oil-is-piped-across-the-country",
+                "text": "Oil is piped across the country."
+            }
+        ]
+    },
+    {
+        "type": "(n)",
+        "mean": "a tube that carries a liquid or gas; a narrow tube used for smoking",
+        "examples": [
+            {
+                "code": "pipe_example_they-ran-the-pipes-under-the-house",
+                "text": "They ran the pipes under the house."
+            },
+            {
+                "code": "pipe_example_the-plumber-connected-the-pipes",
+                "text": "The plumber connected the pipes."
+            },
+            {
+                "code": "pipe_example_these-pipes-carry-clean-air",
+                "text": "These pipes carry clean air."
+            },
+            {
+                "code": "pipe_example_the-pipes-are-leaking",
+                "text": "The pipes are leaking."
+            },
+            {
+                "code": "pipe_example_he-smokes-a-pipe",
+                "text": "He smokes a pipe."
+            },
+            {
+                "code": "pipe_example_the-water-pipes-are-leaking",
+                "text": "The water pipes are leaking."
+            },
+            {
+                "code": "pipe_example_the-exhaust-pipe-fell-off-of-my-car",
+                "text": "The exhaust pipe fell off of my car."
+            },
+            {
+                "code": "pipe_example_i-saw-him-smoking-a-tobacco-pipe",
+                "text": "I saw him smoking a tobacco pipe."
+            },
+            {
+                "code": "pipe_example_they-installed-steel-pipes",
+                "text": "They installed steel pipes."
+            },
+            {
+                "code": "pipe_example_can-you-fix-that-leaky-pipe",
+                "text": "Can you fix that leaky pipe?"
+            },
+            {
+                "code": "pipe_example_we-just-hit-an-underground-pipe",
+                "text": "We just hit an underground pipe."
+            },
+            {
+                "code": "pipe_example_i-used-a-pipe-cleaner-to-remove-the-dirt",
+                "text": "I used a pipe cleaner to remove the dirt."
+            },
+            {
+                "code": "pipe_example_water-is-carried-through-the-pipe",
+                "text": "Water is carried through the pipe."
+            }
+        ]
+    }
+]

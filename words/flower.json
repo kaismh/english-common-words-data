@@ -1,0 +1,90 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the colored part of a plant that produces seeds and fruit",
+        "examples": [
+            {
+                "code": "flower_example_she-bought-some-bright-flowers-at-the-market",
+                "text": "She bought some bright flowers at the market."
+            },
+            {
+                "code": "flower_example_these-are-delicate-flowers",
+                "text": "These are delicate flowers."
+            },
+            {
+                "code": "flower_example_she-is-interested-in-exotic-flowers",
+                "text": "She is interested in exotic flowers."
+            },
+            {
+                "code": "flower_example_he-bought-me-beautiful-flowers-for-my-birthday",
+                "text": "He bought me beautiful flowers for my birthday."
+            },
+            {
+                "code": "flower_example_she-is-using-pressed-flowers-for-an-art-project",
+                "text": "She is using pressed flowers for an art project."
+            },
+            {
+                "code": "flower_example_throw-out-those-dead-flowers",
+                "text": "Throw out those dead flowers."
+            },
+            {
+                "code": "flower_example_that-plant-has-pink-flowers-in-the-summer",
+                "text": "That plant has pink flowers in the summer."
+            },
+            {
+                "code": "flower_example_she-always-gets-flowers-on-her-birthday",
+                "text": "She always gets flowers on her birthday."
+            },
+            {
+                "code": "flower_example_he-sent-her-flowers-for-mother-s-day",
+                "text": "He sent her flowers for Mother's Day."
+            },
+            {
+                "code": "flower_example_the-flowers-haven-t-appeared-yet",
+                "text": "The flowers haven't appeared yet."
+            },
+            {
+                "code": "flower_example_she-grew-different-kinds-of-flowers-last-year",
+                "text": "She grew different kinds of flowers last year."
+            },
+            {
+                "code": "flower_example_the-flowers-were-delivered-to-the-hospital",
+                "text": "The flowers were delivered to the hospital."
+            },
+            {
+                "code": "flower_example_she-got-a-bouquet-of-flowers-after-the-show",
+                "text": "She got a bouquet of flowers after the show."
+            },
+            {
+                "code": "flower_example_there-were-flower-petals-all-over-the-yard-after-the-storm",
+                "text": "There were flower petals all over the yard after the storm."
+            },
+            {
+                "code": "flower_example_they-sent-a-huge-flower-arrangement",
+                "text": "They sent a huge flower arrangement."
+            },
+            {
+                "code": "flower_example_she-has-a-flower-garden-in-front-of-the-house",
+                "text": "She has a flower garden in front of the house."
+            },
+            {
+                "code": "flower_example_they-went-to-a-flower-shop",
+                "text": "They went to a flower shop."
+            },
+            {
+                "code": "flower_example_they-planted-some-flower-bulbs",
+                "text": "They planted some flower bulbs."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to bloom",
+        "examples": [
+            {
+                "code": "flower_example_these-bulbs-should-flower-in-may",
+                "text": "These bulbs should flower in May."
+            }
+        ]
+    }
+]

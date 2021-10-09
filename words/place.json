@@ -1,0 +1,150 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to put something somewhere carefully",
+        "examples": [
+            {
+                "code": "place_example_he-carefully-placed-the-vase-on-the-table",
+                "text": "He carefully placed the vase on the table."
+            },
+            {
+                "code": "place_example_she-placed-the-books-neatly-in-the-shelf",
+                "text": "She placed the books neatly in the shelf."
+            },
+            {
+                "code": "place_example_she-placed-her-hand-firmly-on-his-shoulder",
+                "text": "She placed her hand firmly on his shoulder."
+            },
+            {
+                "code": "place_example_the-blame-was-placed-directly-on-her-parents",
+                "text": "The blame was placed directly on her parents."
+            },
+            {
+                "code": "place_example_his-keys-and-wallet-were-placed-conveniently-by-the-door",
+                "text": "His keys and wallet were placed conveniently by the door."
+            },
+            {
+                "code": "place_example_she-placed-the-napkin-on-her-lap",
+                "text": "She placed the napkin on her lap."
+            },
+            {
+                "code": "place_example_she-placed-the-baby-in-the-crib",
+                "text": "She placed the baby in the crib."
+            },
+            {
+                "code": "place_example_he-placed-his-foot-between-the-door-and-the-jamb",
+                "text": "He placed his foot between the door and the jamb."
+            },
+            {
+                "code": "place_example_she-placed-her-book-beside-the-clock",
+                "text": "She placed her book beside the clock."
+            },
+            {
+                "code": "place_example_she-placed-her-hand-over-mine",
+                "text": "She placed her hand over mine."
+            },
+            {
+                "code": "place_example_he-placed-the-bag-under-the-table",
+                "text": "He placed the bag under the table."
+            },
+            {
+                "code": "place_example_he-placed-the-keys-down-on-the-table",
+                "text": "He placed the keys down on the table."
+            }
+        ]
+    },
+    {
+        "type": "(n)",
+        "mean": "a particular location; a particular position",
+        "examples": [
+            {
+                "code": "place_example_we-got-a-place-downtown",
+                "text": "We got a place downtown."
+            },
+            {
+                "code": "place_example_i-use-this-bookmark-to-keep-my-place",
+                "text": "I use this bookmark to keep my place."
+            },
+            {
+                "code": "place_example_don-t-lose-your-place-in-line",
+                "text": "Don't lose your place in line."
+            },
+            {
+                "code": "place_example_return-to-your-original-place",
+                "text": "Return to your original place."
+            },
+            {
+                "code": "place_example_please-take-your-place-on-stage",
+                "text": "Please take your place on stage."
+            },
+            {
+                "code": "place_example_can-we-switch-places",
+                "text": "Can we switch places?"
+            },
+            {
+                "code": "place_example_we-set-an-extra-place-for-her-at-the-dinner-table",
+                "text": "We set an extra place for her at the dinner table."
+            },
+            {
+                "code": "place_example_she-finished-the-race-in-first-place",
+                "text": "She finished the race in first place."
+            },
+            {
+                "code": "place_example_this-is-a-great-gathering-place-for-a-picnic",
+                "text": "This is a great gathering place for a picnic."
+            },
+            {
+                "code": "place_example_this-is-a-nice-place",
+                "text": "This is a nice place."
+            },
+            {
+                "code": "place_example_the-airport-is-a-busy-place",
+                "text": "The airport is a busy place."
+            },
+            {
+                "code": "place_example_the-library-is-a-quiet-place",
+                "text": "The library is a quiet place."
+            },
+            {
+                "code": "place_example_the-kids-were-playing-in-a-secret-place",
+                "text": "The kids were playing in a secret place."
+            },
+            {
+                "code": "place_example_this-is-the-best-place-to-be-right-now",
+                "text": "This is the best place to be right now."
+            },
+            {
+                "code": "place_example_please-set-six-place-mats-for-dinner",
+                "text": "Please set six place mats for dinner?"
+            },
+            {
+                "code": "place_example_he-broke-his-leg-in-four-places",
+                "text": "He broke his leg in four places."
+            },
+            {
+                "code": "place_example_we-like-to-eat-at-that-place",
+                "text": "We like to eat at that place."
+            },
+            {
+                "code": "place_example_i-walked-into-a-strange-place",
+                "text": "I walked into a strange place."
+            },
+            {
+                "code": "place_example_he-lives-in-a-small-place-on-the-corner",
+                "text": "He lives in a small place on the corner."
+            },
+            {
+                "code": "place_example_this-is-my-place-of-business",
+                "text": "This is my place of business."
+            },
+            {
+                "code": "place_example_let-me-take-you-to-the-place",
+                "text": "Let me take you to the place."
+            },
+            {
+                "code": "place_example_he-came-from-that-place",
+                "text": "He came from that place."
+            }
+        ]
+    }
+]

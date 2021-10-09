@@ -1,0 +1,32 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a business or office that provides a specific service",
+        "examples": [
+            {
+                "code": "agency_example_i-work-for-a-government-agency",
+                "text": "I work for a government agency."
+            },
+            {
+                "code": "agency_example_i-m-looking-for-work-through-a-temporary-agency",
+                "text": "I'm looking for work through a temporary agency."
+            },
+            {
+                "code": "agency_example_his-background-is-working-with-intelligence-agencies",
+                "text": "His background is working with intelligence agencies."
+            },
+            {
+                "code": "agency_example_i-found-work-with-a-modeling-agency",
+                "text": "I found work with a modeling agency."
+            },
+            {
+                "code": "agency_example_i-found-a-job-through-a-recruiting-agency",
+                "text": "I found a job through a recruiting agency."
+            },
+            {
+                "code": "agency_example_i-got-a-call-from-a-talent-agency",
+                "text": "I got a call from a talent agency."
+            }
+        ]
+    }
+]

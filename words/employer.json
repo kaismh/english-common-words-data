@@ -1,0 +1,40 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a person or company that pays people to work for them",
+        "examples": [
+            {
+                "code": "employer_example_this-company-is-a-major-employer-in-the-state",
+                "text": "This company is a major employer in the state."
+            },
+            {
+                "code": "employer_example_she-works-for-a-small-employer",
+                "text": "She works for a small employer."
+            },
+            {
+                "code": "employer_example_she-isn-t-happy-at-her-current-employer",
+                "text": "She isn't happy at her current employer."
+            },
+            {
+                "code": "employer_example_they-called-her-former-employer-for-a-reference",
+                "text": "They called her former employer for a reference."
+            },
+            {
+                "code": "employer_example_she-hopes-her-internship-will-impress-future-employers",
+                "text": "She hopes her internship will impress future employers."
+            },
+            {
+                "code": "employer_example_he-has-worked-for-this-employer-for-many-years",
+                "text": "He has worked for this employer for many years."
+            },
+            {
+                "code": "employer_example_the-new-law-requires-employers-to-offer-sick-time",
+                "text": "The new law requires employers to offer sick time."
+            },
+            {
+                "code": "employer_example_she-sued-her-former-employer-for-harassment",
+                "text": "She sued her former employer for harassment."
+            }
+        ]
+    }
+]

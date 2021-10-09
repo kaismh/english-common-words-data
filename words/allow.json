@@ -1,0 +1,48 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to let someone do something or let something happen",
+        "examples": [
+            {
+                "code": "allow_example_the-security-guard-would-not-allow-entrance-to-the-building",
+                "text": "The security guard would not allow entrance to the building."
+            },
+            {
+                "code": "allow_example_the-dormitory-does-not-allow-smoking",
+                "text": "The dormitory does not allow smoking."
+            },
+            {
+                "code": "allow_example_loose-clothing-allows-more-comfort",
+                "text": "Loose clothing allows more comfort."
+            },
+            {
+                "code": "allow_example_her-schedule-does-not-allow-time-for-fun",
+                "text": "Her schedule does not allow time for fun."
+            },
+            {
+                "code": "allow_example_do-not-allow-them-inside",
+                "text": "Do not allow them inside."
+            },
+            {
+                "code": "allow_example_you-are-not-allowed-to-see-him-anymore",
+                "text": "You are not allowed to see him anymore."
+            },
+            {
+                "code": "allow_example_i-cannot-allow-that-to-happen",
+                "text": "I cannot allow that to happen."
+            },
+            {
+                "code": "allow_example_who-allowed-this",
+                "text": "Who allowed this?"
+            },
+            {
+                "code": "allow_example_are-you-allowed-in-here",
+                "text": "Are you allowed in here?"
+            },
+            {
+                "code": "allow_example_they-aren-t-allowed-to-do-anything",
+                "text": "They aren't allowed to do anything."
+            }
+        ]
+    }
+]

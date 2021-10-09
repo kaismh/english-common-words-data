@@ -1,0 +1,52 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "not changing; happening all the time",
+        "examples": [
+            {
+                "code": "constant_example_the-rain-is-constant",
+                "text": "The rain is constant."
+            },
+            {
+                "code": "constant_example_the-temperature-must-be-held-constant",
+                "text": "The temperature must be held constant."
+            },
+            {
+                "code": "constant_example_the-weather-is-fairly-constant",
+                "text": "The weather is fairly constant."
+            },
+            {
+                "code": "constant_example_the-schedule-is-almost-constant",
+                "text": "The schedule is almost constant."
+            },
+            {
+                "code": "constant_example_taxes-have-remained-constant-over-the-last-ten-years",
+                "text": "Taxes have remained constant over the last ten years."
+            },
+            {
+                "code": "constant_example_the-baby-must-be-given-constant-attention",
+                "text": "The baby must be given constant attention."
+            },
+            {
+                "code": "constant_example_it-must-be-in-constant-movement",
+                "text": "It must be in constant movement."
+            },
+            {
+                "code": "constant_example_they-are-in-constant-conflict-with-each-other",
+                "text": "They are in constant conflict with each other."
+            },
+            {
+                "code": "constant_example_the-doctor-will-ask-if-you-have-constant-pain",
+                "text": "The doctor will ask if you have constant pain."
+            },
+            {
+                "code": "constant_example_she-feels-constant-worry",
+                "text": "She feels constant worry."
+            },
+            {
+                "code": "constant_example_i-have-a-constant-headache",
+                "text": "I have a constant headache."
+            }
+        ]
+    }
+]

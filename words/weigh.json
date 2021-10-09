@@ -1,0 +1,32 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to measure how heavy someone or something is; to think about something carefully",
+        "examples": [
+            {
+                "code": "weigh_example_she-constantly-weighs-herself",
+                "text": "She constantly weighs herself."
+            },
+            {
+                "code": "weigh_example_the-jury-carefully-weighed-all-of-the-evidence",
+                "text": "The jury carefully weighed all of the evidence."
+            },
+            {
+                "code": "weigh_example_he-will-heavily-weigh-his-options-before-making-a-decision",
+                "text": "He will heavily weigh his options before making a decision."
+            },
+            {
+                "code": "weigh_example_the-evidence-weighed-against-him",
+                "text": "The evidence weighed against him."
+            },
+            {
+                "code": "weigh_example_her-credibility-weighed-in-her-favor",
+                "text": "Her credibility weighed in her favor."
+            },
+            {
+                "code": "weigh_example_let-s-weigh-the-options-before-making-a-decision",
+                "text": "Let's weigh the options before making a decision."
+            }
+        ]
+    }
+]

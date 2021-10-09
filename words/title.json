@@ -1,0 +1,76 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the name of a movie, book or publication; the name of a job position; a championship",
+        "examples": [
+            {
+                "code": "title_example_that-is-a-great-title-for-the-book",
+                "text": "That is a great title for the book."
+            },
+            {
+                "code": "title_example_what-an-original-title-for-the-film",
+                "text": "What an original title for the film!"
+            },
+            {
+                "code": "title_example_what-is-the-album-title",
+                "text": "What is the album title?"
+            },
+            {
+                "code": "title_example_what-is-your-job-title",
+                "text": "What is your job title?"
+            },
+            {
+                "code": "title_example_what-is-the-official-title-for-this-position",
+                "text": "What is the official title for this position?"
+            },
+            {
+                "code": "title_example_who-won-the-world-title",
+                "text": "Who won the world title?"
+            },
+            {
+                "code": "title_example_who-picked-the-title-for-the-movie",
+                "text": "Who picked the title for the movie?"
+            },
+            {
+                "code": "title_example_he-did-not-deserve-that-title",
+                "text": "He did not deserve that title."
+            },
+            {
+                "code": "title_example_she-was-awarded-that-title-for-great-service",
+                "text": "She was awarded that title for great service."
+            },
+            {
+                "code": "title_example_he-claimed-the-title-for-five-consecutive-years",
+                "text": "He claimed the title for five consecutive years."
+            },
+            {
+                "code": "title_example_she-is-defending-her-world-title",
+                "text": "She is defending her world title."
+            },
+            {
+                "code": "title_example_she-lost-her-title",
+                "text": "She lost her title."
+            },
+            {
+                "code": "title_example_the-story-title-has-been-used-before",
+                "text": "The story title has been used before."
+            },
+            {
+                "code": "title_example_the-movie-title-has-been-changed-many-times",
+                "text": "The movie title has been changed many times."
+            },
+            {
+                "code": "title_example_what-is-the-title-page-called",
+                "text": "What is the title page called?"
+            },
+            {
+                "code": "title_example_who-will-play-the-title-role",
+                "text": "Who will play the title role?"
+            },
+            {
+                "code": "title_example_who-sings-the-title-song",
+                "text": "Who sings the title song?"
+            }
+        ]
+    }
+]

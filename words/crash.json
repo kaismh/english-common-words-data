@@ -1,0 +1,104 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a loud and sudden sound; an accident where two vehicles hit each other; failure in business",
+        "examples": [
+            {
+                "code": "crash_example_there-was-a-deafening-crash",
+                "text": "There was a deafening crash."
+            },
+            {
+                "code": "crash_example_the-news-showed-a-horrific-crash",
+                "text": "The news showed a horrific crash."
+            },
+            {
+                "code": "crash_example_two-people-were-killed-in-the-fatal-crash",
+                "text": "Two people were killed in the fatal crash."
+            },
+            {
+                "code": "crash_example_people-died-in-the-airplane-crash",
+                "text": "People died in the airplane crash."
+            },
+            {
+                "code": "crash_example_many-people-lost-money-in-the-financial-crash",
+                "text": "Many people lost money in the financial crash."
+            },
+            {
+                "code": "crash_example_she-heard-a-crash-in-the-kitchen",
+                "text": "She heard a crash in the kitchen."
+            },
+            {
+                "code": "crash_example_what-caused-the-crash",
+                "text": "What caused the crash?"
+            },
+            {
+                "code": "crash_example_how-did-he-survive-that-crash",
+                "text": "How did he survive that crash?"
+            },
+            {
+                "code": "crash_example_how-can-we-prevent-crashes",
+                "text": "How can we prevent crashes?"
+            },
+            {
+                "code": "crash_example_a-car-crash-happens-often-on-that-street",
+                "text": "A car crash happens often on that street."
+            },
+            {
+                "code": "crash_example_the-crash-involved-a-car-and-a-pedestrian",
+                "text": "The crash involved a car and a pedestrian."
+            },
+            {
+                "code": "crash_example_the-crash-killed-the-driver",
+                "text": "The crash killed the driver."
+            },
+            {
+                "code": "crash_example_the-window-broke-with-a-loud-crash",
+                "text": "The window broke with a loud crash."
+            },
+            {
+                "code": "crash_example_i-love-listening-to-the-crash-of-the-waves",
+                "text": "I love listening to the crash of the waves."
+            },
+            {
+                "code": "crash_example_he-was-hurt-in-the-crash",
+                "text": "He was hurt in the crash."
+            },
+            {
+                "code": "crash_example_the-crash-victim-is-in-the-hospital",
+                "text": "The crash victim is in the hospital."
+            },
+            {
+                "code": "crash_example_the-police-are-investigating-the-crash-site",
+                "text": "The police are investigating the crash site."
+            },
+            {
+                "code": "crash_example_the-airplane-made-a-crash-landing",
+                "text": "The airplane made a crash landing."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to run into something and cause damage",
+        "examples": [
+            {
+                "code": "crash_example_he-crashed-the-aircraft",
+                "text": "He crashed the aircraft."
+            }
+        ]
+    },
+    {
+        "type": "(adj)",
+        "mean": "trying to achieve something very quickly",
+        "examples": [
+            {
+                "code": "crash_example_she-is-taking-a-crash-course",
+                "text": "She is taking a crash course."
+            },
+            {
+                "code": "crash_example_the-man-is-on-a-crash-diet",
+                "text": "The man is on a crash diet."
+            }
+        ]
+    }
+]

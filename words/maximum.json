@@ -1,0 +1,102 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the greatest amount possible or allowed",
+        "examples": [
+            {
+                "code": "maximum_example_the-dial-reached-maximum-quickly",
+                "text": "The dial reached maximum quickly."
+            },
+            {
+                "code": "maximum_example_the-headcount-reached-the-maximum-of-400-guests-for-the-wedding",
+                "text": "The headcount reached the maximum of 400 guests for the wedding."
+            },
+            {
+                "code": "maximum_example_we-are-allowing-a-maximum-of-20-children-at-the-birthday-party",
+                "text": "We are allowing a maximum of 20 children at the birthday party."
+            },
+            {
+                "code": "maximum_example_the-venue-restricted-the-maximum-to-500-people",
+                "text": "The venue restricted the maximum to 500 people."
+            },
+            {
+                "code": "maximum_example_what-is-the-legal-maximum-number-of-fishes-i-can-catch-with-this-license",
+                "text": "What is the legal maximum number of fishes I can catch with this license?"
+            },
+            {
+                "code": "maximum_example_what-is-the-absolute-maximum-the-hotel-can-accommodate",
+                "text": "What is the absolute maximum the hotel can accommodate?"
+            },
+            {
+                "code": "maximum_example_do-not-exceed-the-recommended-maximum-of-medication-a-day",
+                "text": "Do not exceed the recommended maximum of medication a day."
+            },
+            {
+                "code": "maximum_example_the-party-exceeded-the-agreed-maximum",
+                "text": "The party exceeded the agreed maximum."
+            },
+            {
+                "code": "maximum_example_the-arena-is-filled-above-maximum",
+                "text": "The arena is filled above maximum."
+            },
+            {
+                "code": "maximum_example_i-can-get-a-maximum-of-five-books-at-the-library",
+                "text": "I can get a maximum of five books at the library."
+            },
+            {
+                "code": "maximum_example_the-room-can-accommodate-fifty-people-at-maximum",
+                "text": "The room can accommodate fifty people at maximum."
+            }
+        ]
+    },
+    {
+        "type": "(adj)",
+        "mean": "most possible or allowed",
+        "examples": [
+            {
+                "code": "maximum_example_the-bank-is-under-maximum-security",
+                "text": "The bank is under maximum security."
+            },
+            {
+                "code": "maximum_example_i-took-the-maximum-dose",
+                "text": "I took the maximum dose."
+            },
+            {
+                "code": "maximum_example_we-reached-maximum-efficiency",
+                "text": "We reached maximum efficiency."
+            },
+            {
+                "code": "maximum_example_the-maximum-fine-is-fifty-dollars",
+                "text": "The maximum fine is fifty dollars."
+            },
+            {
+                "code": "maximum_example_we-felt-the-maximum-impact",
+                "text": "We felt the maximum impact."
+            },
+            {
+                "code": "maximum_example_we-reached-the-maximum-threshold",
+                "text": "We reached the maximum threshold."
+            },
+            {
+                "code": "maximum_example_the-maximum-height-allowed-is-five-feet",
+                "text": "The maximum height allowed is five feet."
+            },
+            {
+                "code": "maximum_example_what-is-the-maximum-load",
+                "text": "What is the maximum load?"
+            },
+            {
+                "code": "maximum_example_the-maximum-duration-is-three-hours",
+                "text": "The maximum duration is three hours."
+            },
+            {
+                "code": "maximum_example_he-received-the-maximum-sentence-for-his-crime",
+                "text": "He received the maximum sentence for his crime."
+            },
+            {
+                "code": "maximum_example_we-reached-maximum-speed",
+                "text": "We reached maximum speed."
+            }
+        ]
+    }
+]

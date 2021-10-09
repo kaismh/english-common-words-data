@@ -1,0 +1,36 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "very bad",
+        "examples": [
+            {
+                "code": "terrible_example_he-looks-terrible",
+                "text": "He looks terrible."
+            },
+            {
+                "code": "terrible_example_the-movie-is-terrible",
+                "text": "The movie is terrible."
+            },
+            {
+                "code": "terrible_example_i-have-a-terrible-cold",
+                "text": "I have a terrible cold."
+            },
+            {
+                "code": "terrible_example_i-feel-truly-terrible-about-what-happened",
+                "text": "I feel truly terrible about what happened."
+            },
+            {
+                "code": "terrible_example_the-accident-was-absolutely-terrible",
+                "text": "The accident was absolutely terrible."
+            },
+            {
+                "code": "terrible_example_i-feel-terrible-for-the-victims",
+                "text": "I feel terrible for the victims."
+            },
+            {
+                "code": "terrible_example_that-was-a-terrible-accident",
+                "text": "That was a terrible accident."
+            }
+        ]
+    }
+]

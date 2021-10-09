@@ -1,0 +1,40 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a paragraph or essay; a path; movement",
+        "examples": [
+            {
+                "code": "passage_example_read-the-passage-and-answer-the-questions",
+                "text": "Read the passage and answer the questions."
+            },
+            {
+                "code": "passage_example_she-cites-passages-from-the-book",
+                "text": "She cites passages from the book."
+            },
+            {
+                "code": "passage_example_policemen-are-blocking-the-passage-of-cars-near-the-accident",
+                "text": "Policemen are blocking the passage of cars near the accident."
+            },
+            {
+                "code": "passage_example_the-opening-passage-of-her-novel-is-boring",
+                "text": "The opening passage of her novel is boring."
+            },
+            {
+                "code": "passage_example_she-wrote-a-short-passage-at-the-beginning-of-her-first-novel",
+                "text": "She wrote a short passage at the beginning of her first novel."
+            },
+            {
+                "code": "passage_example_they-found-a-hidden-passage-to-the-forest",
+                "text": "They found a hidden passage to the forest."
+            },
+            {
+                "code": "passage_example_she-quoted-a-passage-from-the-book",
+                "text": "She quoted a passage from the book."
+            },
+            {
+                "code": "passage_example_they-are-looking-for-a-passage-through-the-mountains",
+                "text": "They are looking for a passage through the mountains."
+            }
+        ]
+    }
+]

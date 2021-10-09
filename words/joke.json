@@ -1,0 +1,90 @@
+[
+    {
+        "type": "(n)",
+        "mean": "something said or done to cause laughter",
+        "examples": [
+            {
+                "code": "joke_example_he-tells-funny-jokes-that-make-people-laugh",
+                "text": "He tells funny jokes that make people laugh."
+            },
+            {
+                "code": "joke_example_i-didn-t-find-her-joke-amusing",
+                "text": "I didn't find her joke amusing."
+            },
+            {
+                "code": "joke_example_that-was-an-old-joke",
+                "text": "That was an old joke."
+            },
+            {
+                "code": "joke_example_he-is-always-playing-practical-jokes-on-his-friends",
+                "text": "He is always playing practical jokes on his friends."
+            },
+            {
+                "code": "joke_example_everything-is-a-huge-joke-to-him",
+                "text": "Everything is a huge joke to him."
+            },
+            {
+                "code": "joke_example_he-s-great-at-telling-jokes",
+                "text": "He's great at telling jokes."
+            },
+            {
+                "code": "joke_example_my-brother-is-always-playing-jokes-on-people",
+                "text": "My brother is always playing jokes on people."
+            },
+            {
+                "code": "joke_example_she-likes-to-share-jokes-with-her-friends",
+                "text": "She likes to share jokes with her friends."
+            },
+            {
+                "code": "joke_example_he-likes-a-good-joke",
+                "text": "He likes a good joke."
+            },
+            {
+                "code": "joke_example_did-you-understand-the-joke",
+                "text": "Did you understand the joke?"
+            },
+            {
+                "code": "joke_example_you-totally-spoiled-the-joke",
+                "text": "You totally spoiled the joke."
+            },
+            {
+                "code": "joke_example_some-people-cannot-take-a-joke",
+                "text": "Some people cannot take a joke."
+            },
+            {
+                "code": "joke_example_don-t-be-upset-i-said-it-as-a-joke",
+                "text": "Don't be upset, I said it as a joke."
+            },
+            {
+                "code": "joke_example_he-told-a-joke-about-his-family",
+                "text": "He told a joke about his family."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to say something to cause laughter",
+        "examples": [
+            {
+                "code": "joke_example_they-were-joking-around-all-evening",
+                "text": "They were joking around all evening."
+            },
+            {
+                "code": "joke_example_kids-were-playfully-joking-with-each-other",
+                "text": "Kids were playfully joking with each other."
+            },
+            {
+                "code": "joke_example_he-was-half-joking-about-quitting-his-job",
+                "text": "He was half joking about quitting his job."
+            },
+            {
+                "code": "joke_example_he-joked-about-his-own-hair",
+                "text": "He joked about his own hair."
+            },
+            {
+                "code": "joke_example_she-is-always-joking-with-her-friends",
+                "text": "She is always joking with her friends."
+            }
+        ]
+    }
+]

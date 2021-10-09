@@ -1,0 +1,56 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to give an answer; to react",
+        "examples": [
+            {
+                "code": "respond_example_the-audience-responded-well",
+                "text": "The audience responded well."
+            },
+            {
+                "code": "respond_example_the-police-responded-right-away",
+                "text": "The police responded right away."
+            },
+            {
+                "code": "respond_example_the-patient-is-not-responding-to-the-medication",
+                "text": "The patient is not responding to the medication."
+            },
+            {
+                "code": "respond_example_she-immediately-responded-to-him",
+                "text": "She immediately responded to him."
+            },
+            {
+                "code": "respond_example_they-responded-eagerly-to-the-news",
+                "text": "They responded eagerly to the news."
+            },
+            {
+                "code": "respond_example_she-politely-responded-to-his-angry-question",
+                "text": "She politely responded to his angry question."
+            },
+            {
+                "code": "respond_example_he-responds-instantly-to-emails",
+                "text": "He responds instantly to emails."
+            },
+            {
+                "code": "respond_example_she-is-responding-well-to-medication",
+                "text": "She is responding well to medication."
+            },
+            {
+                "code": "respond_example_how-should-i-respond-to-him",
+                "text": "How should I respond to him?"
+            },
+            {
+                "code": "respond_example_he-responded-by-writing-a-long-email",
+                "text": "He responded by writing a long email."
+            },
+            {
+                "code": "respond_example_he-responded-with-a-smile",
+                "text": "He responded with a smile."
+            },
+            {
+                "code": "respond_example_he-responded-via-email",
+                "text": "He responded via email."
+            }
+        ]
+    }
+]

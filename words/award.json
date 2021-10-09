@@ -1,0 +1,78 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a prize that is given to someone for winning a contest or doing a good thing",
+        "examples": [
+            {
+                "code": "award_example_the-school-gives-out-an-annual-award-for-outstanding-performance",
+                "text": "The school gives out an annual award for outstanding performance."
+            },
+            {
+                "code": "award_example_the-school-won-a-national-award-for-having-the-highest-student-test-scores",
+                "text": "The school won a national award for having the highest student test scores."
+            },
+            {
+                "code": "award_example_he-won-a-cash-award-for-building-the-best-treehouse",
+                "text": "He won a cash award for building the best treehouse."
+            },
+            {
+                "code": "award_example_he-is-the-winner-of-a-lifetime-achievement-award",
+                "text": "He is the winner of a lifetime achievement award."
+            },
+            {
+                "code": "award_example_the-awards-will-be-announced-tomorrow",
+                "text": "The awards will be announced tomorrow."
+            },
+            {
+                "code": "award_example_the-movie-earned-many-awards",
+                "text": "The movie earned many awards."
+            },
+            {
+                "code": "award_example_i-m-very-proud-to-accept-this-award",
+                "text": "I'm very proud to accept this award."
+            },
+            {
+                "code": "award_example_the-award-went-to-the-best-student",
+                "text": "The award went to the best student."
+            },
+            {
+                "code": "award_example_our-company-grants-awards-every-year",
+                "text": "Our company grants awards every year."
+            },
+            {
+                "code": "award_example_he-s-excited-for-the-awards-ceremony",
+                "text": "He's excited for the awards ceremony."
+            },
+            {
+                "code": "award_example_the-author-is-an-award-recipient",
+                "text": "The author is an award recipient."
+            },
+            {
+                "code": "award_example_she-received-an-award-for-best-actress",
+                "text": "She received an award for best actress."
+            },
+            {
+                "code": "award_example_he-received-an-award-from-school",
+                "text": "He received an award from school."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to give a prize for winning a contest or doing a good thing",
+        "examples": [
+            {
+                "code": "award_example_the-prize-is-automatically-awarded-to-the-first-ten-contestants",
+                "text": "The prize is automatically awarded to the first ten contestants."
+            },
+            {
+                "code": "award_example_they-award-the-nobel-prize-annually",
+                "text": "They award the Nobel Prize annually."
+            },
+            {
+                "code": "award_example_the-prize-money-was-awarded-to-the-youngest-person-in-the-history-of-the-contest",
+                "text": "The prize money was awarded to the youngest person in the history of the contest."
+            }
+        ]
+    }
+]

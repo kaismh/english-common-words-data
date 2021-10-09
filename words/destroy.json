@@ -1,0 +1,52 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to completely damage something beyond repair",
+        "examples": [
+            {
+                "code": "destroy_example_the-soldiers-completely-destroyed-the-enemy",
+                "text": "The soldiers completely destroyed the enemy."
+            },
+            {
+                "code": "destroy_example_the-scientists-effectively-destroyed-the-virus",
+                "text": "The scientists effectively destroyed the virus."
+            },
+            {
+                "code": "destroy_example_did-you-almost-destroy-it",
+                "text": "Did you almost destroy it?"
+            },
+            {
+                "code": "destroy_example_humans-will-eventually-destroy-the-planet",
+                "text": "Humans will eventually destroy the planet."
+            },
+            {
+                "code": "destroy_example_drugs-are-easily-destroying-her-life",
+                "text": "Drugs are easily destroying her life."
+            },
+            {
+                "code": "destroy_example_fires-immediately-destroy-dry-lands",
+                "text": "Fires immediately destroy dry lands."
+            },
+            {
+                "code": "destroy_example_they-deliberately-destroyed-public-property",
+                "text": "They deliberately destroyed public property."
+            },
+            {
+                "code": "destroy_example_earthquakes-can-destroy-buildings",
+                "text": "Earthquakes can destroy buildings."
+            },
+            {
+                "code": "destroy_example_the-captain-was-ordered-to-destroy-the-aircraft",
+                "text": "The captain was ordered to destroy the aircraft."
+            },
+            {
+                "code": "destroy_example_fires-can-destroy-houses",
+                "text": "Fires can destroy houses."
+            },
+            {
+                "code": "destroy_example_pollution-will-destroy-the-crops",
+                "text": "Pollution will destroy the crops."
+            }
+        ]
+    }
+]

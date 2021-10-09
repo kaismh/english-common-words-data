@@ -1,0 +1,38 @@
+[
+    {
+        "type": "(n)",
+        "mean": "someone who writes books, poems, or articles",
+        "examples": [
+            {
+                "code": "author_example_he-is-a-best-selling-author",
+                "text": "He is a best-selling author."
+            },
+            {
+                "code": "author_example_ernest-hemingway-is-my-favorite-author",
+                "text": "Ernest Hemingway is my favorite author."
+            },
+            {
+                "code": "author_example_we-have-never-identified-the-anonymous-author-of-the-famous-poem",
+                "text": "We have never identified the anonymous author of the famous poem."
+            },
+            {
+                "code": "author_example_do-you-read-this-author",
+                "text": "Do you read this author?"
+            },
+            {
+                "code": "author_example_he-often-quotes-that-author",
+                "text": "He often quotes that author."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to write something, usually a book, poem, or article",
+        "examples": [
+            {
+                "code": "author_example_i-authored-that-article",
+                "text": "I authored that article."
+            }
+        ]
+    }
+]

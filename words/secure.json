@@ -1,0 +1,86 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "protected from danger or harm; safe; feeling good about yourself",
+        "examples": [
+            {
+                "code": "secure_example_we-installed-an-alarm-to-keep-the-house-secure",
+                "text": "We installed an alarm to keep the house secure."
+            },
+            {
+                "code": "secure_example_she-feels-secure-at-her-job",
+                "text": "She feels secure at her job."
+            },
+            {
+                "code": "secure_example_the-building-became-more-secure-with-recent-improvements",
+                "text": "The building became more secure with recent improvements."
+            },
+            {
+                "code": "secure_example_this-building-is-extremely-secure",
+                "text": "This building is extremely secure."
+            },
+            {
+                "code": "secure_example_your-job-is-absolutely-secure",
+                "text": "Your job is absolutely secure."
+            },
+            {
+                "code": "secure_example_she-s-secure-enough-with-herself",
+                "text": "She's secure enough with herself."
+            },
+            {
+                "code": "secure_example_my-parents-are-financially-secure-to-retire",
+                "text": "My parents are financially secure to retire."
+            },
+            {
+                "code": "secure_example_the-building-was-made-secure-against-earthquakes",
+                "text": "The building was made secure against earthquakes."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to make something safe; to attach something; to achieve something",
+        "examples": [
+            {
+                "code": "secure_example_the-picture-frame-was-not-properly-secured-to-the-wall",
+                "text": "The picture frame was not properly secured to the wall."
+            },
+            {
+                "code": "secure_example_the-player-finally-secured-a-win-for-his-team",
+                "text": "The player finally secured a win for his team."
+            },
+            {
+                "code": "secure_example_the-furniture-was-safely-secured-to-the-truck",
+                "text": "The furniture was safely secured to the truck."
+            },
+            {
+                "code": "secure_example_the-driver-secured-his-load-to-the-truck",
+                "text": "The driver secured his load to the truck."
+            },
+            {
+                "code": "secure_example_she-secured-the-mirror-with-heavy-nails",
+                "text": "She secured the mirror with heavy nails."
+            },
+            {
+                "code": "secure_example_he-managed-to-secure-a-job",
+                "text": "He managed to secure a job."
+            },
+            {
+                "code": "secure_example_they-failed-to-secure-a-deal-with-the-bank",
+                "text": "They failed to secure a deal with the bank."
+            },
+            {
+                "code": "secure_example_we-are-hoping-to-secure-a-deal-with-the-bank",
+                "text": "We are hoping to secure a deal with the bank."
+            },
+            {
+                "code": "secure_example_i-am-hoping-to-secure-employment-with-the-company",
+                "text": "I am hoping to secure employment with the company."
+            },
+            {
+                "code": "secure_example_the-president-secured-the-prisoner-s-release",
+                "text": "The president secured the prisoner's release."
+            }
+        ]
+    }
+]

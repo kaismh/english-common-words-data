@@ -1,0 +1,74 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a period of time when something stops before starting again",
+        "examples": [
+            {
+                "code": "pause_example_there-was-a-brief-pause-before-the-music-started-again",
+                "text": "There was a brief pause before the music started again."
+            },
+            {
+                "code": "pause_example_there-was-a-long-pause-during-her-heartbreaking-speech",
+                "text": "There was a long pause during her heartbreaking speech."
+            },
+            {
+                "code": "pause_example_she-makes-frequent-pauses-during-her-walks",
+                "text": "She makes frequent pauses during her walks."
+            },
+            {
+                "code": "pause_example_there-was-an-awkward-pause-when-his-ex-wife-walked-into-the-room",
+                "text": "There was an awkward pause when his ex-wife walked into the room."
+            },
+            {
+                "code": "pause_example_let-s-take-a-quick-pause-between-shows",
+                "text": "Let's take a quick pause between shows."
+            },
+            {
+                "code": "pause_example_a-long-pause-followed-the-awkward-comment",
+                "text": "A long pause followed the awkward comment."
+            },
+            {
+                "code": "pause_example_please-press-the-pause-button-on-the-dvd-player",
+                "text": "Please press the pause button on the DVD player."
+            },
+            {
+                "code": "pause_example_after-a-brief-pause-she-continued-her-speech",
+                "text": "After a brief pause, she continued her speech."
+            },
+            {
+                "code": "pause_example_there-was-a-short-pause-between-people-s-laughter",
+                "text": "There was a short pause between people's laughter."
+            },
+            {
+                "code": "pause_example_she-read-the-long-poem-with-few-pauses",
+                "text": "She read the long poem with few pauses."
+            },
+            {
+                "code": "pause_example_there-was-a-long-pause-before-they-continued-their-discussion",
+                "text": "There was a long pause before they continued their discussion."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to stop for a short time",
+        "examples": [
+            {
+                "code": "pause_example_we-paused-briefly-to-watch-the-sunset",
+                "text": "We paused briefly to watch the sunset."
+            },
+            {
+                "code": "pause_example_she-occasionally-pauses-to-smell-the-flowers",
+                "text": "She occasionally pauses to smell the flowers."
+            },
+            {
+                "code": "pause_example_she-barely-paused-during-her-speech",
+                "text": "She barely paused during her speech."
+            },
+            {
+                "code": "pause_example_she-paused-the-movie-for-a-bathroom-break",
+                "text": "She paused the movie for a bathroom break."
+            }
+        ]
+    }
+]

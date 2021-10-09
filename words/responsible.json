@@ -1,0 +1,64 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "to have a duty of taking care of someone or something; trustworthy; being the cause of something",
+        "examples": [
+            {
+                "code": "responsible_example_i-am-holding-her-responsible",
+                "text": "I am holding her responsible."
+            },
+            {
+                "code": "responsible_example_i-feel-responsible-for-what-happened",
+                "text": "I feel responsible for what happened."
+            },
+            {
+                "code": "responsible_example_i-hired-our-babysitter-because-she-is-very-responsible",
+                "text": "I hired our babysitter because she is very responsible."
+            },
+            {
+                "code": "responsible_example_he-is-becoming-a-very-responsible-young-man",
+                "text": "He is becoming a very responsible young man."
+            },
+            {
+                "code": "responsible_example_he-is-a-responsible-person",
+                "text": "He is a responsible person."
+            },
+            {
+                "code": "responsible_example_i-m-not-legally-responsible-for-them",
+                "text": "I'm not legally responsible for them."
+            },
+            {
+                "code": "responsible_example_she-is-completely-responsible-for-the-project-s-failure",
+                "text": "She is completely responsible for the project's failure."
+            },
+            {
+                "code": "responsible_example_we-are-all-equally-responsible-for-what-happened",
+                "text": "We are all equally responsible for what happened."
+            },
+            {
+                "code": "responsible_example_he-is-not-entirely-responsible-for-the-incident",
+                "text": "He is not entirely responsible for the incident."
+            },
+            {
+                "code": "responsible_example_he-was-solely-responsible-for-the-accident",
+                "text": "He was solely responsible for the accident."
+            },
+            {
+                "code": "responsible_example_she-is-a-very-responsible-student",
+                "text": "She is a very responsible student."
+            },
+            {
+                "code": "responsible_example_our-son-has-become-financially-responsible-after-getting-his-first-job",
+                "text": "Our son has become financially responsible after getting his first job."
+            },
+            {
+                "code": "responsible_example_i-m-not-responsible-for-her-actions",
+                "text": "I'm not responsible for her actions."
+            },
+            {
+                "code": "responsible_example_they-are-very-responsible-with-their-money",
+                "text": "They are very responsible with their money."
+            }
+        ]
+    }
+]

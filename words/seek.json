@@ -1,0 +1,36 @@
+[
+    {
+        "type": "(n)",
+        "mean": "to look for something",
+        "examples": [
+            {
+                "code": "seek_example_she-is-actively-seeking-work",
+                "text": "She is actively seeking work."
+            },
+            {
+                "code": "seek_example_he-is-always-seeking-attention",
+                "text": "He is always seeking attention."
+            },
+            {
+                "code": "seek_example_you-should-continue-to-seek-medical-help",
+                "text": "You should continue to seek medical help."
+            },
+            {
+                "code": "seek_example_we-have-been-seeking-help-in-the-wrong-places",
+                "text": "We have been seeking help in the wrong places."
+            },
+            {
+                "code": "seek_example_the-company-seeks-to-find-more-customers",
+                "text": "The company seeks to find more customers."
+            },
+            {
+                "code": "seek_example_the-group-is-seeking-an-answer-to-a-rise-in-crime-rates",
+                "text": "The group is seeking an answer to a rise in crime rates."
+            },
+            {
+                "code": "seek_example_we-are-seeking-a-reply-from-the-mayor",
+                "text": "We are seeking a reply from the mayor."
+            }
+        ]
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "relating to religion or religious belief; having to do with the soul and not the physical body",
+        "examples": [
+            {
+                "code": "spiritual_example_my-grandmother-is-very-spiritual",
+                "text": "My grandmother is very spiritual."
+            },
+            {
+                "code": "spiritual_example_she-is-a-deeply-spiritual-person",
+                "text": "She is a deeply spiritual person."
+            },
+            {
+                "code": "spiritual_example_the-painting-had-an-almost-spiritual-perspective",
+                "text": "The painting had an almost spiritual perspective."
+            },
+            {
+                "code": "spiritual_example_he-had-a-spiritual-awakening-during-college",
+                "text": "He had a spiritual awakening during college."
+            },
+            {
+                "code": "spiritual_example_what-are-you-spiritual-beliefs",
+                "text": "What are you spiritual beliefs?"
+            },
+            {
+                "code": "spiritual_example_we-have-a-spiritual-connection",
+                "text": "We have a spiritual connection."
+            },
+            {
+                "code": "spiritual_example_i-need-spiritual-discipline",
+                "text": "I need spiritual discipline."
+            },
+            {
+                "code": "spiritual_example_we-re-going-through-a-spiritual-evolution",
+                "text": "We're going through a spiritual evolution."
+            }
+        ]
+    }
+]

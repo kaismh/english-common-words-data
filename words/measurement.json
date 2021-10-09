@@ -1,0 +1,56 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the process of determining the size or amount of something",
+        "examples": [
+            {
+                "code": "measurement_example_he-made-a-few-measurements-before-cutting-the-wood",
+                "text": "He made a few measurements before cutting the wood."
+            },
+            {
+                "code": "measurement_example_i-need-to-get-your-measurements",
+                "text": "I need to get your measurements."
+            },
+            {
+                "code": "measurement_example_she-took-my-measurements-to-make-a-coat",
+                "text": "She took my measurements to make a coat."
+            },
+            {
+                "code": "measurement_example_i-calculated-the-measurement-of-the-room",
+                "text": "I calculated the measurement of the room."
+            },
+            {
+                "code": "measurement_example_we-need-to-convert-the-measurements-to-ounces",
+                "text": "We need to convert the measurements to ounces."
+            },
+            {
+                "code": "measurement_example_what-unit-of-measurement-do-they-use-in-your-country",
+                "text": "What unit of measurement do they use in your country?"
+            },
+            {
+                "code": "measurement_example_there-are-many-different-measurement-tools",
+                "text": "There are many different measurement tools."
+            },
+            {
+                "code": "measurement_example_he-is-trying-a-new-measurement-technique",
+                "text": "He is trying a new measurement technique."
+            },
+            {
+                "code": "measurement_example_there-were-too-many-measurement-errors-in-the-drawing",
+                "text": "There were too many measurement errors in the drawing."
+            },
+            {
+                "code": "measurement_example_we-need-to-take-accurate-measurements",
+                "text": "We need to take accurate measurements."
+            },
+            {
+                "code": "measurement_example_he-used-scientific-measurements",
+                "text": "He used scientific measurements."
+            },
+            {
+                "code": "measurement_example_what-s-your-waist-measurement",
+                "text": "What's your waist measurement?"
+            }
+        ]
+    }
+]

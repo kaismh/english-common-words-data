@@ -1,0 +1,92 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to go into a place; to input information or data; to join in an activity",
+        "examples": [
+            {
+                "code": "enter_example_they-illegally-entered-the-building-and-were-arrested",
+                "text": "They illegally entered the building and were arrested."
+            },
+            {
+                "code": "enter_example_he-slowly-entered-the-dark-room",
+                "text": "He slowly entered the dark room."
+            },
+            {
+                "code": "enter_example_she-quickly-entered-the-classroom",
+                "text": "She quickly entered the classroom."
+            },
+            {
+                "code": "enter_example_this-information-needs-to-be-manually-entered-into-the-computer",
+                "text": "This information needs to be manually entered into the computer."
+            },
+            {
+                "code": "enter_example_the-data-is-automatically-entered-into-the-file",
+                "text": "The data is automatically entered into the file."
+            },
+            {
+                "code": "enter_example_he-opened-the-door-to-allow-me-to-enter-the-secured-building",
+                "text": "He opened the door to allow me to enter the secured building."
+            },
+            {
+                "code": "enter_example_she-forbid-him-to-enter-the-room-until-his-surprise-was-ready",
+                "text": "She forbid him to enter the room until his surprise was ready."
+            },
+            {
+                "code": "enter_example_he-entered-the-building-through-the-back-door",
+                "text": "He entered the building through the back door."
+            },
+            {
+                "code": "enter_example_they-entered-from-the-other-room",
+                "text": "They entered from the other room."
+            },
+            {
+                "code": "enter_example_she-entered-the-data-into-the-file",
+                "text": "She entered the data into the file."
+            },
+            {
+                "code": "enter_example_he-entered-his-information-on-the-form",
+                "text": "He entered his information on the form."
+            },
+            {
+                "code": "enter_example_he-entered-the-army-after-high-school",
+                "text": "He entered the army after high school."
+            },
+            {
+                "code": "enter_example_a-dog-entered-the-yard",
+                "text": "A dog entered the yard."
+            },
+            {
+                "code": "enter_example_she-entered-kindergarten-early",
+                "text": "She entered kindergarten early."
+            },
+            {
+                "code": "enter_example_he-entered-his-name-into-the-computer",
+                "text": "He entered his name into the computer."
+            },
+            {
+                "code": "enter_example_they-entered-into-a-debate",
+                "text": "They entered into a debate."
+            },
+            {
+                "code": "enter_example_the-teams-entered-the-arena",
+                "text": "The teams entered the arena."
+            },
+            {
+                "code": "enter_example_he-entered-the-country-as-a-child",
+                "text": "He entered the country as a child."
+            },
+            {
+                "code": "enter_example_he-entered-a-tournament-at-school",
+                "text": "He entered a tournament at school."
+            },
+            {
+                "code": "enter_example_the-army-entered-the-war-cautiously",
+                "text": "The army entered the war cautiously."
+            },
+            {
+                "code": "enter_example_he-entered-a-plea-with-the-judge",
+                "text": "He entered a plea with the judge."
+            }
+        ]
+    }
+]

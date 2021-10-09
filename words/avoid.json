@@ -1,0 +1,48 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to stay away from someone or something",
+        "examples": [
+            {
+                "code": "avoid_example_i-try-to-avoid-alcohol-completely",
+                "text": "I try to avoid alcohol completely."
+            },
+            {
+                "code": "avoid_example_we-intentionally-avoid-that-street",
+                "text": "We intentionally avoid that street."
+            },
+            {
+                "code": "avoid_example_she-carefully-avoided-the-angry-stranger",
+                "text": "She carefully avoided the angry stranger."
+            },
+            {
+                "code": "avoid_example_our-team-barely-avoided-defeat",
+                "text": "Our team barely avoided defeat."
+            },
+            {
+                "code": "avoid_example_we-generally-avoid-junk-food",
+                "text": "We generally avoid junk food."
+            },
+            {
+                "code": "avoid_example_i-wish-to-avoid-too-much-work",
+                "text": "I wish to avoid too much work."
+            },
+            {
+                "code": "avoid_example_she-will-attempt-to-avoid-sleeping-too-long",
+                "text": "She will attempt to avoid sleeping too long."
+            },
+            {
+                "code": "avoid_example_exercise-helps-us-to-avoid-getting-sick",
+                "text": "Exercise helps us to avoid getting sick."
+            },
+            {
+                "code": "avoid_example_the-car-stopped-to-avoid-the-bicycle",
+                "text": "The car stopped to avoid the bicycle."
+            },
+            {
+                "code": "avoid_example_he-ducked-to-avoid-the-baseball",
+                "text": "He ducked to avoid the baseball."
+            }
+        ]
+    }
+]

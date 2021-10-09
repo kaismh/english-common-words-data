@@ -1,0 +1,28 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a friend; a spouse",
+        "examples": [
+            {
+                "code": "mate_example_you-should-find-a-mate",
+                "text": "You should find a mate."
+            },
+            {
+                "code": "mate_example_she-couldn-t-attract-a-suitable-mate",
+                "text": "She couldn't attract a suitable mate."
+            },
+            {
+                "code": "mate_example_he-doesn-t-have-a-mate",
+                "text": "He doesn't have a mate."
+            },
+            {
+                "code": "mate_example_she-has-a-suitable-mate",
+                "text": "She has a suitable mate."
+            },
+            {
+                "code": "mate_example_they-have-been-best-mates-since-college",
+                "text": "They have been best mates since college."
+            }
+        ]
+    }
+]

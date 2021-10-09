@@ -1,0 +1,84 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a statement saying that you are not happy about something",
+        "examples": [
+            {
+                "code": "complaint_example_noise-is-a-common-complaint-around-here",
+                "text": "Noise is a common complaint around here."
+            },
+            {
+                "code": "complaint_example_his-only-complaint-about-dinner-was-the-dessert",
+                "text": "His only complaint about dinner was the dessert."
+            },
+            {
+                "code": "complaint_example_she-made-a-small-complaint-about-the-noise-level",
+                "text": "She made a small complaint about the noise level."
+            },
+            {
+                "code": "complaint_example_his-biggest-complaint-was-the-lack-of-service",
+                "text": "His biggest complaint was the lack of service."
+            },
+            {
+                "code": "complaint_example_he-filed-a-formal-complaint-against-his-boss",
+                "text": "He filed a formal complaint against his boss."
+            },
+            {
+                "code": "complaint_example_that-s-a-valid-complaint",
+                "text": "That's a valid complaint."
+            },
+            {
+                "code": "complaint_example_there-have-been-many-customer-complaints-at-that-hotel",
+                "text": "There have been many customer complaints at that hotel."
+            },
+            {
+                "code": "complaint_example_they-have-a-complaint-about-the-food",
+                "text": "They have a complaint about the food."
+            },
+            {
+                "code": "complaint_example_she-is-planning-to-bring-a-complaint-against-her-workplace",
+                "text": "She is planning to bring a complaint against her workplace."
+            },
+            {
+                "code": "complaint_example_the-business-gets-complaints-often",
+                "text": "The business gets complaints often."
+            },
+            {
+                "code": "complaint_example_the-human-resources-department-deals-with-complaints-frequently",
+                "text": "The human resources department deals with complaints frequently."
+            },
+            {
+                "code": "complaint_example_i-hope-the-court-ignores-that-ridiculous-complaint",
+                "text": "I hope the court ignores that ridiculous complaint."
+            },
+            {
+                "code": "complaint_example_please-fill-out-a-complaint-form-if-you-have-a-problem",
+                "text": "Please fill out a complaint form if you have a problem."
+            },
+            {
+                "code": "complaint_example_please-write-a-complaint-letter-if-you-are-unhappy",
+                "text": "Please write a complaint letter if you are unhappy."
+            },
+            {
+                "code": "complaint_example_they-made-a-complaint-about-the-fireworks-and-noise",
+                "text": "They made a complaint about the fireworks and noise."
+            },
+            {
+                "code": "complaint_example_he-filed-a-complaint-against-his-school",
+                "text": "He filed a complaint against his school."
+            },
+            {
+                "code": "complaint_example_she-never-gets-a-complaint-from-customers",
+                "text": "She never gets a complaint from customers."
+            },
+            {
+                "code": "complaint_example_she-filed-a-noise-complaint-to-the-police",
+                "text": "She filed a noise complaint to the police."
+            },
+            {
+                "code": "complaint_example_she-filed-a-complaint-of-harassment-at-work",
+                "text": "She filed a complaint of harassment at work."
+            }
+        ]
+    }
+]

@@ -1,0 +1,182 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to move a door, window, or lid so it is no longer closed; to begin something",
+        "examples": [
+            {
+                "code": "open_example_we-plan-to-open-a-cafe",
+                "text": "We plan to open a café."
+            },
+            {
+                "code": "open_example_he-opened-the-parachute-too-early",
+                "text": "He opened the parachute too early."
+            },
+            {
+                "code": "open_example_i-opened-all-of-the-mail",
+                "text": "I opened all of the mail."
+            },
+            {
+                "code": "open_example_did-you-open-the-box",
+                "text": "Did you open the box?"
+            },
+            {
+                "code": "open_example_can-you-open-the-door",
+                "text": "Can you open the door?"
+            },
+            {
+                "code": "open_example_i-opened-my-mouth-to-speak",
+                "text": "I opened my mouth to speak."
+            },
+            {
+                "code": "open_example_please-open-your-books-to-page-34",
+                "text": "Please open your books to page 34."
+            },
+            {
+                "code": "open_example_she-tried-to-open-the-meeting",
+                "text": "She tried to open the meeting."
+            },
+            {
+                "code": "open_example_i-couldn-t-open-the-attachment",
+                "text": "I couldn't open the attachment."
+            },
+            {
+                "code": "open_example_the-museum-opened-yesterday",
+                "text": "The museum opened yesterday."
+            },
+            {
+                "code": "open_example_she-opened-her-presents",
+                "text": "She opened her presents."
+            },
+            {
+                "code": "open_example_he-opened-the-safe",
+                "text": "He opened the safe."
+            },
+            {
+                "code": "open_example_you-should-open-your-eyes",
+                "text": "You should open your eyes."
+            },
+            {
+                "code": "open_example_i-opened-a-new-account",
+                "text": "I opened a new account."
+            },
+            {
+                "code": "open_example_the-key-won-t-open-the-door",
+                "text": "The key won't open the door."
+            },
+            {
+                "code": "open_example_the-bird-opened-its-wings",
+                "text": "The bird opened its wings."
+            },
+            {
+                "code": "open_example_the-door-suddenly-opened",
+                "text": "The door suddenly opened."
+            },
+            {
+                "code": "open_example_let-s-open-up-all-of-the-windows-to-get-some-fresh-air",
+                "text": "Let's open up all of the windows to get some fresh air."
+            },
+            {
+                "code": "open_example_the-new-library-formally-opened-last-week",
+                "text": "The new library formally opened last week."
+            },
+            {
+                "code": "open_example_the-store-is-scheduled-to-open-soon",
+                "text": "The store is scheduled to open soon."
+            }
+        ]
+    },
+    {
+        "type": "(adj)",
+        "mean": "not closed; honest; available",
+        "examples": [
+            {
+                "code": "open_example_i-left-the-door-open",
+                "text": "I left the door open."
+            },
+            {
+                "code": "open_example_he-threw-the-window-open",
+                "text": "He threw the window open."
+            },
+            {
+                "code": "open_example_the-door-flew-open",
+                "text": "The door flew open."
+            },
+            {
+                "code": "open_example_he-is-open-with-his-feelings",
+                "text": "He is open with his feelings."
+            },
+            {
+                "code": "open_example_he-has-an-open-mind",
+                "text": "He has an open mind."
+            },
+            {
+                "code": "open_example_she-wrote-an-open-letter-to-her-family",
+                "text": "She wrote an open letter to her family."
+            },
+            {
+                "code": "open_example_we-had-an-open-bar-at-the-wedding",
+                "text": "We had an open bar at the wedding."
+            },
+            {
+                "code": "open_example_be-careful-with-the-open-flame",
+                "text": "Be careful with the open flame."
+            },
+            {
+                "code": "open_example_she-stood-there-with-open-arms",
+                "text": "She stood there with open arms."
+            },
+            {
+                "code": "open_example_my-schedule-is-open",
+                "text": "My schedule is open."
+            },
+            {
+                "code": "open_example_the-school-has-open-enrollment-this-week",
+                "text": "The school has open enrollment this week."
+            },
+            {
+                "code": "open_example_we-looked-out-at-the-open-sea",
+                "text": "We looked out at the open sea."
+            },
+            {
+                "code": "open_example_we-have-an-open-marriage",
+                "text": "We have an open marriage."
+            },
+            {
+                "code": "open_example_we-are-having-an-open-talk",
+                "text": "We are having an open talk."
+            },
+            {
+                "code": "open_example_the-window-is-open",
+                "text": "The window is open."
+            },
+            {
+                "code": "open_example_we-saw-an-open-gate",
+                "text": "We saw an open gate."
+            },
+            {
+                "code": "open_example_the-door-was-wide-open-when-we-got-home",
+                "text": "The door was wide open when we got home."
+            },
+            {
+                "code": "open_example_my-mom-has-a-very-open-mind",
+                "text": "My mom has a very open mind."
+            },
+            {
+                "code": "open_example_the-restaurant-is-officially-open",
+                "text": "The restaurant is officially open."
+            },
+            {
+                "code": "open_example_he-is-open-to-all-ideas",
+                "text": "He is open to all ideas."
+            },
+            {
+                "code": "open_example_he-is-very-open-with-me",
+                "text": "He is very open with me."
+            },
+            {
+                "code": "open_example_she-is-open-about-her-feelings",
+                "text": "She is open about her feelings."
+            }
+        ]
+    }
+]

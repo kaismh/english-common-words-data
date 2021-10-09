@@ -1,0 +1,36 @@
+[
+    {
+        "type": "(adv)",
+        "mean": "to one side; out of the way",
+        "examples": [
+            {
+                "code": "aside_example_she-took-me-aside-for-a-private-talk",
+                "text": "She took me aside for a private talk."
+            },
+            {
+                "code": "aside_example_lay-the-books-aside-that-you-aren-t-reading",
+                "text": "Lay the books aside that you aren't reading."
+            },
+            {
+                "code": "aside_example_she-shoved-us-aside-as-she-walked-through-the-crowd",
+                "text": "She shoved us aside as she walked through the crowd."
+            },
+            {
+                "code": "aside_example_please-step-aside-to-make-room-for-the-police",
+                "text": "Please step aside to make room for the police."
+            },
+            {
+                "code": "aside_example_they-put-aside-some-savings-just-in-case-of-an-emergency",
+                "text": "They put aside some savings just in case of an emergency."
+            },
+            {
+                "code": "aside_example_can-you-set-aside-some-time-for-this-project",
+                "text": "Can you set aside some time for this project?"
+            },
+            {
+                "code": "aside_example_they-set-aside-their-differences-and-tried-to-work-together",
+                "text": "They set aside their differences and tried to work together."
+            }
+        ]
+    }
+]

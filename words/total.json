@@ -1,0 +1,78 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "complete",
+        "examples": [
+            {
+                "code": "total_example_how-did-you-calculate-the-total-amount",
+                "text": "How did you calculate the total amount?"
+            },
+            {
+                "code": "total_example_she-paid-the-total-bill",
+                "text": "She paid the total bill."
+            },
+            {
+                "code": "total_example_she-has-total-faith-in-him",
+                "text": "She has total faith in him."
+            },
+            {
+                "code": "total_example_what-is-the-total-amount",
+                "text": "What is the total amount?"
+            },
+            {
+                "code": "total_example_we-are-in-total-agreement",
+                "text": "We are in total agreement."
+            },
+            {
+                "code": "total_example_it-was-a-total-catastrophe",
+                "text": "It was a total catastrophe."
+            }
+        ]
+    },
+    {
+        "type": "(n)",
+        "mean": "the final number after everything has been counted",
+        "examples": [
+            {
+                "code": "total_example_what-is-the-grand-total",
+                "text": "What is the grand total?"
+            },
+            {
+                "code": "total_example_keep-track-of-your-daily-totals",
+                "text": "Keep track of your daily totals."
+            },
+            {
+                "code": "total_example_the-estimated-total-is-more-than-we-expected",
+                "text": "The estimated total is more than we expected."
+            },
+            {
+                "code": "total_example_he-worked-a-total-of-40-hours-a-week",
+                "text": "He worked a total of 40 hours a week."
+            },
+            {
+                "code": "total_example_this-year-s-donations-top-last-year-s-totals",
+                "text": "This year's donations top last year's totals."
+            },
+            {
+                "code": "total_example_add-up-the-totals",
+                "text": "Add up the totals."
+            },
+            {
+                "code": "total_example_he-spent-a-total-of-1000-on-new-clothes",
+                "text": "He spent a total of $1000 on new clothes."
+            },
+            {
+                "code": "total_example_he-earned-a-total-of-200-doing-yard-work",
+                "text": "He earned a total of $200 doing yard work."
+            },
+            {
+                "code": "total_example_in-total-they-spent-over-500-of-their-own-money",
+                "text": "In total, they spent over $500 of their own money."
+            },
+            {
+                "code": "total_example_she-received-a-total-of-95-points-out-of-100",
+                "text": "She received a total of 95 points out of 100."
+            }
+        ]
+    }
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "large in amount, size, or importance",
+        "examples": [
+            {
+                "code": "substantial_example_his-family-has-a-substantial-amount-of-money",
+                "text": "His family has a substantial amount of money."
+            },
+            {
+                "code": "substantial_example_there-were-substantial-changes-made-to-the-company",
+                "text": "There were substantial changes made to the company."
+            },
+            {
+                "code": "substantial_example_he-has-a-substantial-collection-of-fine-wines",
+                "text": "He has a substantial collection of fine wines."
+            },
+            {
+                "code": "substantial_example_he-made-substantial-contributions-to-charity",
+                "text": "He made substantial contributions to charity."
+            },
+            {
+                "code": "substantial_example_there-was-substantial-damage-to-the-car",
+                "text": "There was substantial damage to the car."
+            },
+            {
+                "code": "substantial_example_the-company-is-in-substantial-debt",
+                "text": "The company is in substantial debt."
+            },
+            {
+                "code": "substantial_example_there-has-been-a-substantial-decline-in-sales",
+                "text": "There has been a substantial decline in sales."
+            },
+            {
+                "code": "substantial_example_there-is-substantial-evidence-against-him",
+                "text": "There is substantial evidence against him."
+            },
+            {
+                "code": "substantial_example_she-has-a-substantial-lead-from-her-opponent",
+                "text": "She has a substantial lead from her opponent."
+            },
+            {
+                "code": "substantial_example_there-is-a-substantial-penalty-for-breaking-the-contract",
+                "text": "There is a substantial penalty for breaking the contract."
+            },
+            {
+                "code": "substantial_example_they-are-offering-a-substantial-reward-for-finding-their-lost-dog",
+                "text": "They are offering a substantial reward for finding their lost dog."
+            }
+        ]
+    }
+]

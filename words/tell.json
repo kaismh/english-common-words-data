@@ -1,0 +1,56 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to say something",
+        "examples": [
+            {
+                "code": "tell_example_they-will-honestly-tell-her-what-happened",
+                "text": "They will honestly tell her what happened."
+            },
+            {
+                "code": "tell_example_he-needs-to-carefully-tell-them-the-truth",
+                "text": "He needs to carefully tell them the truth."
+            },
+            {
+                "code": "tell_example_he-will-quietly-tell-them-the-news",
+                "text": "He will quietly tell them the news."
+            },
+            {
+                "code": "tell_example_he-will-firmly-tell-his-daughter-that-she-cannot-go-to-the-party",
+                "text": "He will firmly tell his daughter that she cannot go to the party."
+            },
+            {
+                "code": "tell_example_she-will-tell-them-about-the-situation",
+                "text": "She will tell them about the situation."
+            },
+            {
+                "code": "tell_example_he-will-tell-his-side-to-the-jury",
+                "text": "He will tell his side to the jury."
+            },
+            {
+                "code": "tell_example_my-common-sense-tells-me-not-to-believe-him",
+                "text": "My common sense tells me not to believe him."
+            },
+            {
+                "code": "tell_example_the-document-tells-us-everything-we-need-to-know",
+                "text": "The document tells us everything we need to know."
+            },
+            {
+                "code": "tell_example_please-tell-the-court-everything-you-witnessed",
+                "text": "Please tell the court everything you witnessed."
+            },
+            {
+                "code": "tell_example_he-told-the-interviewer-everything-that-happened",
+                "text": "He told the interviewer everything that happened."
+            },
+            {
+                "code": "tell_example_can-you-tell-the-difference",
+                "text": "Can you tell the difference?"
+            },
+            {
+                "code": "tell_example_she-tells-a-great-lie",
+                "text": "She tells a great lie."
+            }
+        ]
+    }
+]

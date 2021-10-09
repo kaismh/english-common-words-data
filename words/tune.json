@@ -1,0 +1,62 @@
+[
+    {
+        "type": "(n)",
+        "mean": "music",
+        "examples": [
+            {
+                "code": "tune_example_i-listen-to-happy-tunes-to-brighten-my-day",
+                "text": "I listen to happy tunes to brighten my day."
+            },
+            {
+                "code": "tune_example_what-a-catchy-tune",
+                "text": "What a catchy tune."
+            },
+            {
+                "code": "tune_example_that-s-a-nice-tune",
+                "text": "That's a nice tune."
+            },
+            {
+                "code": "tune_example_he-played-a-little-tune-on-the-piano-for-us",
+                "text": "He played a little tune on the piano for us."
+            },
+            {
+                "code": "tune_example_everyone-knows-that-old-tune",
+                "text": "Everyone knows that old tune."
+            },
+            {
+                "code": "tune_example_she-writes-show-tunes",
+                "text": "She writes show tunes."
+            },
+            {
+                "code": "tune_example_she-played-a-tune-on-her-flute",
+                "text": "She played a tune on her flute."
+            },
+            {
+                "code": "tune_example_she-sings-a-short-tune-to-her-children-before-bedtime",
+                "text": "She sings a short tune to her children before bedtime."
+            },
+            {
+                "code": "tune_example_he-didn-t-get-a-part-in-the-musical-because-he-couldn-t-carry-a-tune",
+                "text": "He didn't get a part in the musical because he couldn't carry a tune."
+            },
+            {
+                "code": "tune_example_he-writes-show-tunes",
+                "text": "He writes show tunes."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to adjust the sound of a musical instrument",
+        "examples": [
+            {
+                "code": "tune_example_she-needs-to-perfectly-tune-her-piano-before-the-concert",
+                "text": "She needs to perfectly tune her piano before the concert."
+            },
+            {
+                "code": "tune_example_i-need-to-tune-my-guitar",
+                "text": "I need to tune my guitar."
+            }
+        ]
+    }
+]

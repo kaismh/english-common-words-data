@@ -1,0 +1,58 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a round, citrus fruit with orange skin that grows on trees",
+        "examples": [
+            {
+                "code": "orange_example_i-ate-an-orange-for-breakfast",
+                "text": "I ate an orange for breakfast."
+            },
+            {
+                "code": "orange_example_i-peeled-the-orange",
+                "text": "I peeled the orange."
+            },
+            {
+                "code": "orange_example_i-drank-a-glass-of-orange-juice",
+                "text": "I drank a glass of orange juice."
+            },
+            {
+                "code": "orange_example_i-added-orange-slices-to-the-dessert",
+                "text": "I added orange slices to the dessert."
+            },
+            {
+                "code": "orange_example_the-orange-peel-is-not-edible",
+                "text": "The orange peel is not edible."
+            },
+            {
+                "code": "orange_example_that-s-a-juicy-orange",
+                "text": "That's a juicy orange."
+            },
+            {
+                "code": "orange_example_i-like-navel-oranges",
+                "text": "I like navel oranges."
+            }
+        ]
+    },
+    {
+        "type": "(adj)",
+        "mean": "having the color when red and yellow are mixed",
+        "examples": [
+            {
+                "code": "orange_example_i-like-drinking-orange-soda",
+                "text": "I like drinking orange soda."
+            },
+            {
+                "code": "orange_example_look-at-the-orange-sunset",
+                "text": "Look at the orange sunset."
+            },
+            {
+                "code": "orange_example_i-bought-an-orange-jacket",
+                "text": "I bought an orange jacket."
+            },
+            {
+                "code": "orange_example_he-has-orange-hair",
+                "text": "He has orange hair."
+            }
+        ]
+    }
+]

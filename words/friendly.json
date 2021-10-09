@@ -1,0 +1,80 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "behaving in a kind or pleasant way; being friends; not harmful",
+        "examples": [
+            {
+                "code": "friendly_example_her-dog-seems-friendly",
+                "text": "Her dog seems friendly."
+            },
+            {
+                "code": "friendly_example_our-neighbor-became-friendly-over-time",
+                "text": "Our neighbor became friendly over time."
+            },
+            {
+                "code": "friendly_example_she-remains-friendly-with-her-ex-husband",
+                "text": "She remains friendly with her ex-husband."
+            },
+            {
+                "code": "friendly_example_they-got-friendly-when-their-kids-played-baseball-together",
+                "text": "They got friendly when their kids played baseball together."
+            },
+            {
+                "code": "friendly_example_his-dog-is-extremely-friendly",
+                "text": "His dog is extremely friendly."
+            },
+            {
+                "code": "friendly_example_she-is-genuinely-friendly",
+                "text": "She is genuinely friendly."
+            },
+            {
+                "code": "friendly_example_he-was-not-exactly-friendly-the-first-time-i-met-him",
+                "text": "He was not exactly friendly the first time I met him."
+            },
+            {
+                "code": "friendly_example_they-always-use-environmentally-friendly-cleaning-products",
+                "text": "They always use environmentally friendly cleaning products."
+            },
+            {
+                "code": "friendly_example_he-has-always-been-friendly-toward-me",
+                "text": "He has always been friendly toward me."
+            },
+            {
+                "code": "friendly_example_she-is-friendly-with-her-neighbors",
+                "text": "She is friendly with her neighbors."
+            },
+            {
+                "code": "friendly_example_she-tries-to-create-a-friendly-atmosphere-in-the-classroom",
+                "text": "She tries to create a friendly atmosphere in the classroom."
+            },
+            {
+                "code": "friendly_example_there-s-nothing-wrong-with-a-little-friendly-competition",
+                "text": "There's nothing wrong with a little friendly competition."
+            },
+            {
+                "code": "friendly_example_she-greeted-me-with-a-friendly-hug",
+                "text": "She greeted me with a friendly hug."
+            },
+            {
+                "code": "friendly_example_he-had-a-friendly-chat-with-his-neighbor",
+                "text": "He had a friendly chat with his neighbor."
+            },
+            {
+                "code": "friendly_example_he-has-a-friendly-relationship-with-his-boss",
+                "text": "He has a friendly relationship with his boss."
+            },
+            {
+                "code": "friendly_example_we-had-a-very-friendly-waiter-at-dinner",
+                "text": "We had a very friendly waiter at dinner."
+            },
+            {
+                "code": "friendly_example_she-tries-to-have-a-friendly-attitude",
+                "text": "She tries to have a friendly attitude."
+            },
+            {
+                "code": "friendly_example_this-is-just-a-friendly-reminder-that-payment-is-due",
+                "text": "This is just a friendly reminder that payment is due."
+            }
+        ]
+    }
+]

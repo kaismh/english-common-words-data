@@ -1,0 +1,40 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to be unable to find something; to fail to hold onto something; to be defeated",
+        "examples": [
+            {
+                "code": "lose_example_the-company-is-going-to-lose-everything",
+                "text": "The company is going to lose everything."
+            },
+            {
+                "code": "lose_example_you-have-nothing-to-lose",
+                "text": "You have nothing to lose."
+            },
+            {
+                "code": "lose_example_she-began-to-lose-her-influence-in-the-company",
+                "text": "She began to lose her influence in the company."
+            },
+            {
+                "code": "lose_example_he-doesn-t-want-to-lose-her",
+                "text": "He doesn't want to lose her."
+            },
+            {
+                "code": "lose_example_they-deserved-to-lose-the-game",
+                "text": "They deserved to lose the game."
+            },
+            {
+                "code": "lose_example_no-one-likes-to-lose",
+                "text": "No one likes to lose."
+            },
+            {
+                "code": "lose_example_we-lost-against-our-rival-school",
+                "text": "We lost against our rival school."
+            },
+            {
+                "code": "lose_example_they-lost-by-five-points",
+                "text": "They lost by five points."
+            }
+        ]
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a story; a series of events told",
+        "examples": [
+            {
+                "code": "tale_example_my-grandfather-told-us-an-amazing-tale",
+                "text": "My grandfather told us an amazing tale."
+            },
+            {
+                "code": "tale_example_that-is-a-classic-tale-about-friendship",
+                "text": "That is a classic tale about friendship."
+            },
+            {
+                "code": "tale_example_that-was-such-a-sad-tale",
+                "text": "That was such a sad tale!"
+            },
+            {
+                "code": "tale_example_the-kids-love-listening-to-funny-tales",
+                "text": "The kids love listening to funny tales."
+            },
+            {
+                "code": "tale_example_my-uncle-tells-fairy-tales",
+                "text": "My uncle tells fairy tales."
+            },
+            {
+                "code": "tale_example_this-tale-concerns-my-family",
+                "text": "This tale concerns my family."
+            },
+            {
+                "code": "tale_example_have-you-heard-this-tale-before",
+                "text": "Have you heard this tale before?"
+            },
+            {
+                "code": "tale_example_these-are-tales-about-adventures-in-africa",
+                "text": "These are tales about adventures in Africa."
+            }
+        ]
+    }
+]

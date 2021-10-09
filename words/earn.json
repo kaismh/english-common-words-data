@@ -1,0 +1,64 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to get money for work; to gain something for one's actions",
+        "examples": [
+            {
+                "code": "earn_example_i-need-to-earn-enough-money-to-pay-my-rent",
+                "text": "I need to earn enough money to pay my rent."
+            },
+            {
+                "code": "earn_example_she-expects-to-earn-40-for-babysitting",
+                "text": "She expects to earn $40 for babysitting."
+            },
+            {
+                "code": "earn_example_i-have-to-earn-a-place-on-the-team",
+                "text": "I have to earn a place on the team."
+            },
+            {
+                "code": "earn_example_he-tries-to-earn-the-respect-of-his-students",
+                "text": "He tries to earn the respect of his students."
+            },
+            {
+                "code": "earn_example_i-consistently-earn-enough-money-to-put-some-into-a-savings-account",
+                "text": "I consistently earn enough money to put some into a savings account."
+            },
+            {
+                "code": "earn_example_he-quickly-earned-his-students-respect",
+                "text": "He quickly earned his students' respect."
+            },
+            {
+                "code": "earn_example_she-rightfully-earned-that-award",
+                "text": "She rightfully earned that award."
+            },
+            {
+                "code": "earn_example_i-bought-a-new-shirt-with-money-i-earned-from-babysitting",
+                "text": "I bought a new shirt with money I earned from babysitting."
+            },
+            {
+                "code": "earn_example_she-earned-approval-for-the-job-she-did",
+                "text": "She earned approval for the job she did."
+            },
+            {
+                "code": "earn_example_the-stock-earned-profits-this-year",
+                "text": "The stock earned profits this year."
+            },
+            {
+                "code": "earn_example_she-earns-a-high-salary-at-her-job",
+                "text": "She earns a high salary at her job."
+            },
+            {
+                "code": "earn_example_he-earned-a-degree-from-a-good-school",
+                "text": "He earned a degree from a good school."
+            },
+            {
+                "code": "earn_example_she-earned-credits-for-college",
+                "text": "She earned credits for college."
+            },
+            {
+                "code": "earn_example_her-actions-earned-her-fame",
+                "text": "Her actions earned her fame."
+            }
+        ]
+    }
+]

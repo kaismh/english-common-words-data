@@ -1,0 +1,52 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the measurement of how hot or cold a place or thing is",
+        "examples": [
+            {
+                "code": "temperature_example_the-weather-forecast-shows-high-temperatures-this-week",
+                "text": "The weather forecast shows high temperatures this week."
+            },
+            {
+                "code": "temperature_example_the-weather-forecast-shows-low-temperatures-this-week",
+                "text": "The weather forecast shows low temperatures this week."
+            },
+            {
+                "code": "temperature_example_what-is-the-daytime-temperature-for-monday",
+                "text": "What is the daytime temperature for Monday?"
+            },
+            {
+                "code": "temperature_example_the-indoor-temperature-was-cooler-yesterday",
+                "text": "The indoor temperature was cooler yesterday."
+            },
+            {
+                "code": "temperature_example_we-increased-the-temperature-of-the-oven",
+                "text": "We increased the temperature of the oven."
+            },
+            {
+                "code": "temperature_example_how-do-you-reduce-the-temperature-of-the-room",
+                "text": "How do you reduce the temperature of the room?"
+            },
+            {
+                "code": "temperature_example_we-maintained-the-temperature-of-the-pool",
+                "text": "We maintained the temperature of the pool."
+            },
+            {
+                "code": "temperature_example_there-was-a-temperature-drop-in-the-mountains",
+                "text": "There was a temperature drop in the mountains."
+            },
+            {
+                "code": "temperature_example_we-installed-a-temperature-gauge-in-the-steam-room",
+                "text": "We installed a temperature gauge in the steam room."
+            },
+            {
+                "code": "temperature_example_we-need-to-keep-the-temperature-between-40-and-50-degrees",
+                "text": "We need to keep the temperature between 40 and 50 degrees."
+            },
+            {
+                "code": "temperature_example_please-serve-the-appetizers-at-room-temperature",
+                "text": "Please serve the appetizers at room temperature."
+            }
+        ]
+    }
+]

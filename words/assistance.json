@@ -1,0 +1,48 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the act of helping or supporting",
+        "examples": [
+            {
+                "code": "assistance_example_they-received-considerable-assistance-from-their-parents",
+                "text": "They received considerable assistance from their parents."
+            },
+            {
+                "code": "assistance_example_the-city-received-emergency-assistance-after-the-earthquake",
+                "text": "The city received emergency assistance after the earthquake."
+            },
+            {
+                "code": "assistance_example_the-city-gave-assistance-to-the-fire-victims",
+                "text": "The city gave assistance to the fire victims."
+            },
+            {
+                "code": "assistance_example_she-s-hoping-to-obtain-assistance",
+                "text": "She's hoping to obtain assistance."
+            },
+            {
+                "code": "assistance_example_we-require-assistance",
+                "text": "We require assistance."
+            },
+            {
+                "code": "assistance_example_i-would-appreciate-some-assistance",
+                "text": "I would appreciate some assistance."
+            },
+            {
+                "code": "assistance_example_she-changed-her-tire-with-assistance",
+                "text": "She changed her tire with assistance."
+            },
+            {
+                "code": "assistance_example_there-was-assistance-for-the-hurricane-victims",
+                "text": "There was assistance for the hurricane victims."
+            },
+            {
+                "code": "assistance_example_they-received-assistance-from-their-families",
+                "text": "They received assistance from their families."
+            },
+            {
+                "code": "assistance_example_i-need-assistance-in-figuring-out-this-math-problem",
+                "text": "I need assistance in figuring out this math problem."
+            }
+        ]
+    }
+]

@@ -1,0 +1,90 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a piece of jewelry worn around the finger; a circle; a telephone call; an arena for athletes or performers",
+        "examples": [
+            {
+                "code": "ring_example_i-usually-wear-my-ring-to-sleep",
+                "text": "I usually wear my ring to sleep."
+            },
+            {
+                "code": "ring_example_i-put-on-my-wedding-ring",
+                "text": "I put on my wedding ring."
+            },
+            {
+                "code": "ring_example_they-exchanged-rings",
+                "text": "They exchanged rings."
+            },
+            {
+                "code": "ring_example_he-gave-her-a-ring",
+                "text": "He gave her a ring."
+            },
+            {
+                "code": "ring_example_the-children-formed-a-ring-around-the-desks",
+                "text": "The children formed a ring around the desks."
+            },
+            {
+                "code": "ring_example_the-wrestlers-entered-the-ring",
+                "text": "The wrestlers entered the ring."
+            },
+            {
+                "code": "ring_example_i-ll-give-her-a-ring-later",
+                "text": "I'll give her a ring later."
+            },
+            {
+                "code": "ring_example_i-lost-my-wedding-ring",
+                "text": "I lost my wedding ring."
+            },
+            {
+                "code": "ring_example_he-blew-smoke-rings",
+                "text": "He blew smoke rings."
+            },
+            {
+                "code": "ring_example_i-ordered-onion-rings",
+                "text": "I ordered onion rings."
+            },
+            {
+                "code": "ring_example_pandas-have-black-rings-around-their-eyes",
+                "text": "Pandas have black rings around their eyes."
+            },
+            {
+                "code": "ring_example_they-are-practicing-in-the-boxing-ring",
+                "text": "They are practicing in the boxing ring."
+            },
+            {
+                "code": "ring_example_he-measured-her-ring-finger",
+                "text": "He measured her ring finger."
+            },
+            {
+                "code": "ring_example_she-found-the-ring-box-in-her-boyfriend-s-pocket",
+                "text": "She found the ring box in her boyfriend's pocket."
+            },
+            {
+                "code": "ring_example_he-puffed-a-ring-of-smoke-with-his-cigarette",
+                "text": "He puffed a ring of smoke with his cigarette."
+            },
+            {
+                "code": "ring_example_the-struggling-boxer-got-back-in-the-ring",
+                "text": "The struggling boxer got back in the ring."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to make a clear sound",
+        "examples": [
+            {
+                "code": "ring_example_i-rang-your-number-a-few-times",
+                "text": "I rang your number a few times."
+            },
+            {
+                "code": "ring_example_his-voice-rang-out",
+                "text": "His voice rang out."
+            },
+            {
+                "code": "ring_example_ring-the-buzzer-when-you-get-here",
+                "text": "Ring the buzzer when you get here."
+            }
+        ]
+    }
+]

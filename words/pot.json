@@ -1,0 +1,56 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a container for cooking; a container for flowers or plants",
+        "examples": [
+            {
+                "code": "pot_example_she-planted-herbs-in-the-flower-pot",
+                "text": "She planted herbs in the flower pot."
+            },
+            {
+                "code": "pot_example_don-t-forget-to-cover-the-pot",
+                "text": "Don't forget to cover the pot."
+            },
+            {
+                "code": "pot_example_he-brewed-a-pot-of-coffee",
+                "text": "He brewed a pot of coffee."
+            },
+            {
+                "code": "pot_example_that-pot-contains-rice",
+                "text": "That pot contains rice."
+            },
+            {
+                "code": "pot_example_fill-the-pot-with-water",
+                "text": "Fill the pot with water."
+            },
+            {
+                "code": "pot_example_i-made-a-pot-pie-for-dinner",
+                "text": "I made a pot pie for dinner."
+            },
+            {
+                "code": "pot_example_i-always-cook-with-copper-pots",
+                "text": "I always cook with copper pots."
+            },
+            {
+                "code": "pot_example_the-coffee-pot-is-hot",
+                "text": "The coffee pot is hot."
+            },
+            {
+                "code": "pot_example_i-will-brew-a-fresh-pot-of-coffee-for-you",
+                "text": "I will brew a fresh pot of coffee for you."
+            },
+            {
+                "code": "pot_example_i-broke-her-flower-pot",
+                "text": "I broke her flower pot."
+            },
+            {
+                "code": "pot_example_she-served-a-pot-of-coffee",
+                "text": "She served a pot of coffee."
+            },
+            {
+                "code": "pot_example_put-the-beans-in-the-pot",
+                "text": "Put the beans in the pot."
+            }
+        ]
+    }
+]

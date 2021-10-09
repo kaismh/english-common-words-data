@@ -1,0 +1,100 @@
+[
+    {
+        "type": "(n)",
+        "mean": "things that people wear",
+        "examples": [
+            {
+                "code": "clothes_example_you-have-such-beautiful-clothes",
+                "text": "You have such beautiful clothes!"
+            },
+            {
+                "code": "clothes_example_she-prefers-to-buy-cheap-clothes",
+                "text": "She prefers to buy cheap clothes."
+            },
+            {
+                "code": "clothes_example_he-is-wearing-wet-clothes",
+                "text": "He is wearing wet clothes."
+            },
+            {
+                "code": "clothes_example_he-wasn-t-treated-well-because-of-his-ragged-clothes",
+                "text": "He wasn't treated well because of his ragged clothes."
+            },
+            {
+                "code": "clothes_example_she-was-sent-home-for-wearing-skimpy-clothes",
+                "text": "She was sent home for wearing skimpy clothes."
+            },
+            {
+                "code": "clothes_example_designer-clothes-are-a-waste-of-money",
+                "text": "Designer clothes are a waste of money."
+            },
+            {
+                "code": "clothes_example_my-grandparents-wear-old-fashioned-clothes",
+                "text": "My grandparents wear old-fashioned clothes."
+            },
+            {
+                "code": "clothes_example_i-prefer-comfortable-clothes",
+                "text": "I prefer comfortable clothes."
+            },
+            {
+                "code": "clothes_example_be-sure-to-bring-warm-clothes",
+                "text": "Be sure to bring warm clothes."
+            },
+            {
+                "code": "clothes_example_she-is-shopping-for-baby-clothes",
+                "text": "She is shopping for baby clothes."
+            },
+            {
+                "code": "clothes_example_the-officer-wore-civilian-clothes",
+                "text": "The officer wore civilian clothes."
+            },
+            {
+                "code": "clothes_example_he-put-on-his-new-clothes-for-school",
+                "text": "He put on his new clothes for school."
+            },
+            {
+                "code": "clothes_example_the-doctor-told-her-to-remove-her-clothes",
+                "text": "The doctor told her to remove her clothes."
+            },
+            {
+                "code": "clothes_example_i-ll-change-my-clothes-before-my-date",
+                "text": "I'll change my clothes before my date."
+            },
+            {
+                "code": "clothes_example_she-makes-her-own-clothes",
+                "text": "She makes her own clothes."
+            },
+            {
+                "code": "clothes_example_have-you-dried-your-clothes-yet",
+                "text": "Have you dried your clothes yet?"
+            },
+            {
+                "code": "clothes_example_pick-out-your-clothes-for-tomorrow",
+                "text": "Pick out your clothes for tomorrow."
+            },
+            {
+                "code": "clothes_example_can-i-borrow-some-clothes",
+                "text": "Can I borrow some clothes?"
+            },
+            {
+                "code": "clothes_example_let-s-stop-by-the-clothes-store",
+                "text": "Let's stop by the clothes store."
+            },
+            {
+                "code": "clothes_example_are-you-a-clothes-designer",
+                "text": "Are you a clothes designer?"
+            },
+            {
+                "code": "clothes_example_my-pants-are-in-the-clothes-dryer",
+                "text": "My pants are in the clothes dryer."
+            },
+            {
+                "code": "clothes_example_the-shirt-is-on-the-clothes-hanger",
+                "text": "The shirt is on the clothes hanger."
+            },
+            {
+                "code": "clothes_example_i-like-him-in-his-military-clothes",
+                "text": "I like him in his military clothes."
+            }
+        ]
+    }
+]

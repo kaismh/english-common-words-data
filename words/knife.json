@@ -1,0 +1,56 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a sharp blade used for cutting",
+        "examples": [
+            {
+                "code": "knife_example_he-used-a-sharp-knife-to-carve-out-the-wood",
+                "text": "He used a sharp knife to carve out the wood."
+            },
+            {
+                "code": "knife_example_he-was-having-a-hard-time-using-the-dull-knife-on-his-steak",
+                "text": "He was having a hard time using the dull knife on his steak."
+            },
+            {
+                "code": "knife_example_she-bought-a-set-of-kitchen-knives",
+                "text": "She bought a set of kitchen knives."
+            },
+            {
+                "code": "knife_example_the-police-told-the-man-to-lay-down-his-knife",
+                "text": "The police told the man to lay down his knife."
+            },
+            {
+                "code": "knife_example_i-need-to-sharpen-my-knife",
+                "text": "I need to sharpen my knife."
+            },
+            {
+                "code": "knife_example_this-knife-doesn-t-cut-well",
+                "text": "This knife doesn't cut well."
+            },
+            {
+                "code": "knife_example_he-was-armed-with-a-hunting-knife",
+                "text": "He was armed with a hunting knife."
+            },
+            {
+                "code": "knife_example_he-was-arrested-for-pointing-his-knife-at-police-officers",
+                "text": "He was arrested for pointing his knife at police officers."
+            },
+            {
+                "code": "knife_example_his-knife-block-sits-on-the-counter",
+                "text": "His knife block sits on the counter."
+            },
+            {
+                "code": "knife_example_the-knife-handle-broke-when-he-dropped-it",
+                "text": "The knife handle broke when he dropped it."
+            },
+            {
+                "code": "knife_example_he-was-injured-in-a-knife-attack",
+                "text": "He was injured in a knife attack."
+            },
+            {
+                "code": "knife_example_he-can-cut-the-rope-with-his-pocket-knife",
+                "text": "He can cut the rope with his pocket knife."
+            }
+        ]
+    }
+]

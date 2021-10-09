@@ -1,0 +1,60 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to get something",
+        "examples": [
+            {
+                "code": "obtain_example_i-need-to-obtain-funding",
+                "text": "I need to obtain funding."
+            },
+            {
+                "code": "obtain_example_we-obtained-a-conviction",
+                "text": "We obtained a conviction."
+            },
+            {
+                "code": "obtain_example_she-obtained-a-great-education",
+                "text": "She obtained a great education."
+            },
+            {
+                "code": "obtain_example_the-police-obtained-a-confession",
+                "text": "The police obtained a confession."
+            },
+            {
+                "code": "obtain_example_she-obtained-her-degree-last-year",
+                "text": "She obtained her degree last year."
+            },
+            {
+                "code": "obtain_example_how-can-i-obtain-a-visa",
+                "text": "How can I obtain a visa?"
+            },
+            {
+                "code": "obtain_example_i-finally-obtained-consent",
+                "text": "I finally obtained consent."
+            },
+            {
+                "code": "obtain_example_he-wasn-t-able-to-obtain-employment",
+                "text": "He wasn't able to obtain employment."
+            },
+            {
+                "code": "obtain_example_we-obtained-evidence",
+                "text": "We obtained evidence."
+            },
+            {
+                "code": "obtain_example_she-illegally-obtained-a-credit-card",
+                "text": "She illegally obtained a credit card."
+            },
+            {
+                "code": "obtain_example_they-recently-obtained-a-marriage-license",
+                "text": "They recently obtained a marriage license."
+            },
+            {
+                "code": "obtain_example_this-was-obtained-by-force",
+                "text": "This was obtained by force."
+            },
+            {
+                "code": "obtain_example_i-obtained-a-copy-from-her",
+                "text": "I obtained a copy from her."
+            }
+        ]
+    }
+]

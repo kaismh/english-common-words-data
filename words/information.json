@@ -1,0 +1,76 @@
+[
+    {
+        "type": "(n)",
+        "mean": "facts or details about something",
+        "examples": [
+            {
+                "code": "information_example_the-police-asked-for-accurate-information",
+                "text": "The police asked for accurate information."
+            },
+            {
+                "code": "information_example_he-gave-false-information-to-the-police",
+                "text": "He gave false information to the police."
+            },
+            {
+                "code": "information_example_she-gave-me-helpful-information",
+                "text": "She gave me helpful information."
+            },
+            {
+                "code": "information_example_we-received-new-information-from-the-doctor",
+                "text": "We received new information from the doctor."
+            },
+            {
+                "code": "information_example_he-had-classified-information",
+                "text": "He had classified information."
+            },
+            {
+                "code": "information_example_i-have-the-information-you-requested",
+                "text": "I have the information you requested."
+            },
+            {
+                "code": "information_example_she-asked-for-more-information",
+                "text": "She asked for more information."
+            },
+            {
+                "code": "information_example_he-tried-to-download-the-information",
+                "text": "He tried to download the information."
+            },
+            {
+                "code": "information_example_john-disclosed-the-information-to-his-manager",
+                "text": "John disclosed the information to his manager."
+            },
+            {
+                "code": "information_example_she-shared-the-information-with-me",
+                "text": "She shared the information with me."
+            },
+            {
+                "code": "information_example_we-must-protect-this-information",
+                "text": "We must protect this information."
+            },
+            {
+                "code": "information_example_the-email-contains-important-information",
+                "text": "The email contains important information."
+            },
+            {
+                "code": "information_example_where-is-the-information-booth",
+                "text": "Where is the information booth?"
+            },
+            {
+                "code": "information_example_do-you-have-an-information-packet",
+                "text": "Do you have an information packet?"
+            },
+            {
+                "code": "information_example_this-information-is-for-our-members-only",
+                "text": "This information is for our members only."
+            },
+            {
+                "code": "information_example_according-to-the-latest-information-the-accident-was-his-fault",
+                "text": "According to the latest information, the accident was his fault."
+            },
+            {
+                "code": "information_example_he-wanted-more-information-about-her-family",
+                "text": "He wanted more information about her family."
+            }
+        ]
+    }
+]

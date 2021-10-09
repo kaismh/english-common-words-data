@@ -1,0 +1,110 @@
+[
+    {
+        "type": "(n)",
+        "mean": "an official promise; a promise that something will be done or happen",
+        "examples": [
+            {
+                "code": "guarantee_example_they-offer-a-full-guarantee-on-their-products",
+                "text": "They offer a full guarantee on their products."
+            },
+            {
+                "code": "guarantee_example_she-wants-an-absolute-guarantee-that-this-will-be-finished-today",
+                "text": "She wants an absolute guarantee that this will be finished today."
+            },
+            {
+                "code": "guarantee_example_he-gave-me-a-personal-guarantee-that-it-will-happen",
+                "text": "He gave me a personal guarantee that it will happen."
+            },
+            {
+                "code": "guarantee_example_there-is-a-constitutional-guarantee-of-free-speech",
+                "text": "There is a constitutional guarantee of free speech."
+            },
+            {
+                "code": "guarantee_example_this-camera-comes-with-a-one-year-guarantee",
+                "text": "This camera comes with a one-year guarantee."
+            },
+            {
+                "code": "guarantee_example_they-offered-a-lifetime-guarantee",
+                "text": "They offered a lifetime guarantee."
+            },
+            {
+                "code": "guarantee_example_he-provided-an-absolute-guarantee",
+                "text": "He provided an absolute guarantee."
+            },
+            {
+                "code": "guarantee_example_they-demanded-a-personal-guarantee",
+                "text": "They demanded a personal guarantee."
+            },
+            {
+                "code": "guarantee_example_he-got-a-money-back-guarantee",
+                "text": "He got a money-back guarantee."
+            },
+            {
+                "code": "guarantee_example_these-products-have-a-lifetime-guarantee-against-defects",
+                "text": "These products have a lifetime guarantee against defects."
+            },
+            {
+                "code": "guarantee_example_they-offer-a-money-back-guarantee-on-their-services",
+                "text": "They offer a money-back guarantee on their services."
+            },
+            {
+                "code": "guarantee_example_there-is-no-guarantee-of-success",
+                "text": "There is no guarantee of success."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to promise something; to make sure something happens",
+        "examples": [
+            {
+                "code": "guarantee_example_i-absolutely-guarantee-you-ll-have-a-good-time",
+                "text": "I absolutely guarantee you'll have a good time."
+            },
+            {
+                "code": "guarantee_example_i-personally-guarantee-it-will-be-fixed-today",
+                "text": "I personally guarantee it will be fixed today."
+            },
+            {
+                "code": "guarantee_example_americans-are-constitutionally-guaranteed-freedom-of-religion",
+                "text": "Americans are constitutionally guaranteed freedom of religion."
+            },
+            {
+                "code": "guarantee_example_he-is-almost-guaranteed-to-fail",
+                "text": "He is almost guaranteed to fail."
+            },
+            {
+                "code": "guarantee_example_admission-is-automatically-guaranteed-for-those-who-meet-certain-qualifications",
+                "text": "Admission is automatically guaranteed for those who meet certain qualifications."
+            },
+            {
+                "code": "guarantee_example_he-guaranteed-me-confidentiality",
+                "text": "He guaranteed me confidentiality."
+            },
+            {
+                "code": "guarantee_example_public-workers-are-guaranteed-a-pension",
+                "text": "Public workers are guaranteed a pension."
+            },
+            {
+                "code": "guarantee_example_they-guarantee-their-workers-equality",
+                "text": "They guarantee their workers equality."
+            },
+            {
+                "code": "guarantee_example_they-guaranteed-delivery-today",
+                "text": "They guaranteed delivery today."
+            },
+            {
+                "code": "guarantee_example_your-rights-are-guaranteed-under-the-law",
+                "text": "Your rights are guaranteed under the law."
+            },
+            {
+                "code": "guarantee_example_interns-are-guaranteed-employment-after-graduation",
+                "text": "Interns are guaranteed employment after graduation."
+            },
+            {
+                "code": "guarantee_example_your-future-is-not-guaranteed",
+                "text": "Your future is not guaranteed."
+            }
+        ]
+    }
+]

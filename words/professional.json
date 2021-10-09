@@ -1,0 +1,70 @@
+[
+    {
+        "type": "(n)",
+        "mean": "someone who has a job that requires special training or education",
+        "examples": [
+            {
+                "code": "professional_example_i-should-get-advice-from-a-professional",
+                "text": "I should get advice from a professional."
+            },
+            {
+                "code": "professional_example_he-is-a-medical-professional",
+                "text": "He is a medical professional."
+            },
+            {
+                "code": "professional_example_you-should-look-for-a-licensed-professional",
+                "text": "You should look for a licensed professional."
+            },
+            {
+                "code": "professional_example_this-was-done-by-a-real-professional",
+                "text": "This was done by a real professional."
+            },
+            {
+                "code": "professional_example_she-is-a-senior-professional-at-the-office",
+                "text": "She is a senior professional at the office."
+            }
+        ]
+    },
+    {
+        "type": "(adj)",
+        "mean": "related to a job that requires special training or education; appropriate for a working environment",
+        "examples": [
+            {
+                "code": "professional_example_she-is-a-professional-artist",
+                "text": "She is a professional artist."
+            },
+            {
+                "code": "professional_example_i-got-a-professional-opinion",
+                "text": "I got a professional opinion."
+            },
+            {
+                "code": "professional_example_he-plays-professional-baseball",
+                "text": "He plays professional baseball."
+            },
+            {
+                "code": "professional_example_she-needs-professional-help",
+                "text": "She needs professional help."
+            },
+            {
+                "code": "professional_example_their-relationship-is-purely-professional",
+                "text": "Their relationship is purely professional."
+            },
+            {
+                "code": "professional_example_she-behaves-very-professional-at-work",
+                "text": "She behaves very professional at work."
+            },
+            {
+                "code": "professional_example_he-is-very-professional",
+                "text": "He is very professional."
+            },
+            {
+                "code": "professional_example_let-s-keep-things-professional",
+                "text": "Let's keep things professional."
+            },
+            {
+                "code": "professional_example_we-must-remain-professional-about-this",
+                "text": "We must remain professional about this."
+            }
+        ]
+    }
+]

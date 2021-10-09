@@ -1,0 +1,24 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "already in place; found",
+        "examples": [
+            {
+                "code": "existing_example_the-existing-building-needs-a-lot-of-work",
+                "text": "The existing building needs a lot of work."
+            },
+            {
+                "code": "existing_example_the-existing-technology-needs-to-be-upgraded-for-this-project",
+                "text": "The existing technology needs to be upgraded for this project."
+            },
+            {
+                "code": "existing_example_they-are-assessing-the-needs-of-existing-customers",
+                "text": "They are assessing the needs of existing customers."
+            },
+            {
+                "code": "existing_example_the-existing-rules-need-updating",
+                "text": "The existing rules need updating."
+            }
+        ]
+    }
+]

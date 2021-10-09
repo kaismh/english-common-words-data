@@ -1,0 +1,32 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to pay close attention to something",
+        "examples": [
+            {
+                "code": "concentrate_example_she-was-concentrating-hard-on-her-homework",
+                "text": "She was concentrating hard on her homework."
+            },
+            {
+                "code": "concentrate_example_it-was-hard-to-concentrate-properly-with-music-playing",
+                "text": "It was hard to concentrate properly with music playing."
+            },
+            {
+                "code": "concentrate_example_her-boys-mainly-concentrate-on-comic-books",
+                "text": "Her boys mainly concentrate on comic books."
+            },
+            {
+                "code": "concentrate_example_patrick-is-unable-to-concentrate-in-a-noisy-place",
+                "text": "Patrick is unable to concentrate in a noisy place."
+            },
+            {
+                "code": "concentrate_example_she-was-trying-to-concentrate-on-her-work",
+                "text": "She was trying to concentrate on her work."
+            },
+            {
+                "code": "concentrate_example_the-hairdresser-will-concentrate-on-cutting-hair",
+                "text": "The hairdresser will concentrate on cutting hair."
+            }
+        ]
+    }
+]

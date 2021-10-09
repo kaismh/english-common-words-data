@@ -1,0 +1,40 @@
+[
+    {
+        "type": "(n)",
+        "mean": "someone you work with or are in a relationship with",
+        "examples": [
+            {
+                "code": "partner_example_i-need-to-find-a-partner-for-the-event",
+                "text": "I need to find a partner for the event."
+            },
+            {
+                "code": "partner_example_i-am-looking-for-a-business-partner",
+                "text": "I am looking for a business partner."
+            },
+            {
+                "code": "partner_example_can-we-switch-partners",
+                "text": "Can we switch partners?"
+            },
+            {
+                "code": "partner_example_i-finally-married-my-lifelong-partner",
+                "text": "I finally married my lifelong partner."
+            },
+            {
+                "code": "partner_example_i-bumped-into-my-former-partner-at-the-party",
+                "text": "I bumped into my former partner at the party."
+            },
+            {
+                "code": "partner_example_we-are-romantic-partners",
+                "text": "We are romantic partners."
+            },
+            {
+                "code": "partner_example_we-are-equal-partners-in-this-endeavor",
+                "text": "We are equal partners in this endeavor."
+            },
+            {
+                "code": "partner_example_i-hope-you-can-be-my-dancing-partner-on-friday",
+                "text": "I hope you can be my dancing partner on Friday."
+            }
+        ]
+    }
+]

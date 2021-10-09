@@ -1,0 +1,36 @@
+[
+    {
+        "type": "(adv)",
+        "mean": "in an important or basic way; truly",
+        "examples": [
+            {
+                "code": "essentially_example_the-project-is-essentially-finished",
+                "text": "The project is essentially finished."
+            },
+            {
+                "code": "essentially_example_his-argument-is-essentially-meaningless",
+                "text": "His argument is essentially meaningless."
+            },
+            {
+                "code": "essentially_example_the-data-from-the-two-research-projects-is-essentially-equal",
+                "text": "The data from the two research projects is essentially equal."
+            },
+            {
+                "code": "essentially_example_the-group-s-decisions-are-essentially-conservative",
+                "text": "The group's decisions are essentially conservative."
+            },
+            {
+                "code": "essentially_example_pandas-have-essentially-disappeared-from-the-wild",
+                "text": "Pandas have essentially disappeared from the wild."
+            },
+            {
+                "code": "essentially_example_he-essentially-ignored-everything-i-had-to-say",
+                "text": "He essentially ignored everything I had to say."
+            },
+            {
+                "code": "essentially_example_the-ocean-essentially-consists-of-water",
+                "text": "The ocean essentially consists of water."
+            }
+        ]
+    }
+]

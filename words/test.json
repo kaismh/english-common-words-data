@@ -1,0 +1,118 @@
+[
+    {
+        "type": "(n)",
+        "mean": "an examination of someone's knowledge; a medical examination; an experiment",
+        "examples": [
+            {
+                "code": "test_example_she-said-the-test-was-hard",
+                "text": "She said the test was hard."
+            },
+            {
+                "code": "test_example_that-was-an-easy-test",
+                "text": "That was an easy test."
+            },
+            {
+                "code": "test_example_we-were-given-a-multiple-choice-test",
+                "text": "We were given a multiple-choice test."
+            },
+            {
+                "code": "test_example_i-don-t-like-oral-tests",
+                "text": "I don't like oral tests."
+            },
+            {
+                "code": "test_example_she-went-to-the-doctor-for-a-routine-test",
+                "text": "She went to the doctor for a routine test."
+            },
+            {
+                "code": "test_example_the-initial-test-showed-an-abnormality",
+                "text": "The initial test showed an abnormality."
+            },
+            {
+                "code": "test_example_she-received-a-positive-test",
+                "text": "She received a positive test."
+            },
+            {
+                "code": "test_example_he-was-put-through-an-extensive-test",
+                "text": "He was put through an extensive test."
+            },
+            {
+                "code": "test_example_the-car-company-conducts-many-crash-tests",
+                "text": "The car company conducts many crash tests."
+            },
+            {
+                "code": "test_example_the-scientist-is-busy-with-the-lab-test",
+                "text": "The scientist is busy with the lab test."
+            },
+            {
+                "code": "test_example_i-finished-the-test",
+                "text": "I finished the test."
+            },
+            {
+                "code": "test_example_the-teacher-gives-the-test",
+                "text": "The teacher gives the test."
+            },
+            {
+                "code": "test_example_he-is-having-another-test",
+                "text": "He is having another test."
+            },
+            {
+                "code": "test_example_they-are-conducting-more-tests",
+                "text": "They are conducting more tests."
+            },
+            {
+                "code": "test_example_he-received-a-good-grade-on-the-test",
+                "text": "He received a good grade on the test."
+            },
+            {
+                "code": "test_example_she-cried-during-the-test",
+                "text": "She cried during the test."
+            },
+            {
+                "code": "test_example_they-are-testing-for-cancer",
+                "text": "They are testing for cancer."
+            },
+            {
+                "code": "test_example_the-scientists-are-running-tests-on-animals",
+                "text": "The scientists are running tests on animals."
+            },
+            {
+                "code": "test_example_she-received-her-test-scores",
+                "text": "She received her test scores."
+            },
+            {
+                "code": "test_example_the-hospital-must-clean-all-test-equipment",
+                "text": "The hospital must clean all test equipment."
+            },
+            {
+                "code": "test_example_he-must-make-sure-all-test-procedures-are-in-place",
+                "text": "He must make sure all test procedures are in place."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to examine something to see if it works or to see its function",
+        "examples": [
+            {
+                "code": "test_example_companies-should-thoroughly-test-their-products-before-selling-them",
+                "text": "Companies should thoroughly test their products before selling them."
+            },
+            {
+                "code": "test_example_the-building-manager-routinely-tests-the-elevators",
+                "text": "The building manager routinely tests the elevators."
+            },
+            {
+                "code": "test_example_he-did-not-properly-test-the-brakes-after-installing-them",
+                "text": "He did not properly test the brakes after installing them."
+            },
+            {
+                "code": "test_example_the-doctor-will-test-for-pregnancy",
+                "text": "The doctor will test for pregnancy."
+            },
+            {
+                "code": "test_example_we-do-not-test-on-animals",
+                "text": "We do not test on animals."
+            }
+        ]
+    }
+]

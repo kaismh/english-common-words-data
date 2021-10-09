@@ -1,0 +1,56 @@
+[
+    {
+        "type": "(adv)",
+        "mean": "in a powerful way; in a firm way",
+        "examples": [
+            {
+                "code": "strongly_example_it-was-strongly-apparent-that-she-was-not-going-to-leave-him",
+                "text": "It was strongly apparent that she was not going to leave him."
+            },
+            {
+                "code": "strongly_example_she-is-strongly-attached-to-her-house",
+                "text": "She is strongly attached to her house."
+            },
+            {
+                "code": "strongly_example_i-am-strongly-committed-to-my-marriage",
+                "text": "I am strongly committed to my marriage."
+            },
+            {
+                "code": "strongly_example_he-is-strongly-motivated-to-sell-his-house",
+                "text": "He is strongly motivated to sell his house."
+            },
+            {
+                "code": "strongly_example_she-is-strongly-opposed-to-closing-the-business",
+                "text": "She is strongly opposed to closing the business."
+            },
+            {
+                "code": "strongly_example_i-strongly-advise-you-to-get-a-lawyer",
+                "text": "I strongly advise you to get a lawyer."
+            },
+            {
+                "code": "strongly_example_i-strongly-agree-with-your-decision",
+                "text": "I strongly agree with your decision."
+            },
+            {
+                "code": "strongly_example_i-strongly-disagree-with-your-decision",
+                "text": "I strongly disagree with your decision."
+            },
+            {
+                "code": "strongly_example_he-strongly-defended-his-wife",
+                "text": "He strongly defended his wife."
+            },
+            {
+                "code": "strongly_example_i-strongly-encourage-you-to-go-to-college",
+                "text": "I strongly encourage you to go to college."
+            },
+            {
+                "code": "strongly_example_she-strongly-feels-she-made-the-right-choice",
+                "text": "She strongly feels she made the right choice."
+            },
+            {
+                "code": "strongly_example_he-strongly-suspects-his-wife-is-having-an-affair",
+                "text": "He strongly suspects his wife is having an affair."
+            }
+        ]
+    }
+]

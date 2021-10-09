@@ -1,0 +1,48 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a part of the year when something happens; one of the four parts of the year that usually has a change in the weather",
+        "examples": [
+            {
+                "code": "season_example_we-arrived-during-the-rainy-season",
+                "text": "We arrived during the rainy season."
+            },
+            {
+                "code": "season_example_i-enjoy-the-summer-season-most",
+                "text": "I enjoy the summer season most."
+            },
+            {
+                "code": "season_example_this-holiday-season-will-be-good-for-business",
+                "text": "This holiday season will be good for business."
+            },
+            {
+                "code": "season_example_johnny-loves-basketball-season",
+                "text": "Johnny loves basketball season."
+            },
+            {
+                "code": "season_example_sailing-season-will-open-in-july",
+                "text": "Sailing season will open in July!"
+            },
+            {
+                "code": "season_example_fishing-season-ended-in-september",
+                "text": "Fishing season ended in September."
+            },
+            {
+                "code": "season_example_watermelons-are-in-season",
+                "text": "Watermelons are in season."
+            },
+            {
+                "code": "season_example_we-are-entering-a-wet-season",
+                "text": "We are entering a wet season."
+            },
+            {
+                "code": "season_example_they-have-season-tickets-to-the-theater",
+                "text": "They have season tickets to the theater."
+            },
+            {
+                "code": "season_example_the-rival-teams-played-against-each-other-in-the-season-opener",
+                "text": "The rival teams played against each other in the season opener."
+            }
+        ]
+    }
+]

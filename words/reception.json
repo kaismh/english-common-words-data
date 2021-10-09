@@ -1,0 +1,72 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a formal party; the act of greeting or welcoming; radio or television signal",
+        "examples": [
+            {
+                "code": "reception_example_i-was-invited-to-her-wedding-reception",
+                "text": "I was invited to her wedding reception."
+            },
+            {
+                "code": "reception_example_i-had-a-small-reception",
+                "text": "I had a small reception."
+            },
+            {
+                "code": "reception_example_they-got-a-warm-reception-from-the-audience",
+                "text": "They got a warm reception from the audience."
+            },
+            {
+                "code": "reception_example_we-decorated-the-reception-room",
+                "text": "We decorated the reception room."
+            },
+            {
+                "code": "reception_example_we-went-to-their-wedding-reception",
+                "text": "We went to their wedding reception."
+            },
+            {
+                "code": "reception_example_they-threw-their-daughter-a-big-reception",
+                "text": "They threw their daughter a big reception."
+            },
+            {
+                "code": "reception_example_they-were-given-a-warm-reception-when-they-arrived",
+                "text": "They were given a warm reception when they arrived."
+            },
+            {
+                "code": "reception_example_the-album-received-good-reception",
+                "text": "The album received good reception."
+            },
+            {
+                "code": "reception_example_the-public-reception-to-the-movie-was-not-favorable",
+                "text": "The public reception to the movie was not favorable."
+            },
+            {
+                "code": "reception_example_our-television-is-getting-poor-reception",
+                "text": "Our television is getting poor reception."
+            },
+            {
+                "code": "reception_example_the-radio-reception-in-this-area-is-poor",
+                "text": "The radio reception in this area is poor."
+            },
+            {
+                "code": "reception_example_we-had-our-wedding-reception-at-a-hotel",
+                "text": "We had our wedding reception at a hotel."
+            },
+            {
+                "code": "reception_example_there-was-a-warm-reception-for-the-visitors",
+                "text": "There was a warm reception for the visitors."
+            },
+            {
+                "code": "reception_example_the-visitors-were-greeted-with-a-warm-reception",
+                "text": "The visitors were greeted with a warm reception."
+            },
+            {
+                "code": "reception_example_we-had-a-good-reception-from-critics",
+                "text": "We had a good reception from critics."
+            },
+            {
+                "code": "reception_example_there-was-positive-reception-to-the-book",
+                "text": "There was positive reception to the book."
+            }
+        ]
+    }
+]

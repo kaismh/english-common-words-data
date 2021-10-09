@@ -1,0 +1,48 @@
+[
+    {
+        "type": "(adv)",
+        "mean": "lately",
+        "examples": [
+            {
+                "code": "recently_example_the-project-was-recently-completed",
+                "text": "The project was recently completed."
+            },
+            {
+                "code": "recently_example_i-recently-returned-the-book",
+                "text": "I recently returned the book."
+            },
+            {
+                "code": "recently_example_he-retired-recently",
+                "text": "He retired recently."
+            },
+            {
+                "code": "recently_example_he-recently-returned-from-the-army",
+                "text": "He recently returned from the army."
+            },
+            {
+                "code": "recently_example_my-mom-recently-had-surgery",
+                "text": "My mom recently had surgery."
+            },
+            {
+                "code": "recently_example_they-recently-became-parents",
+                "text": "They recently became parents."
+            },
+            {
+                "code": "recently_example_we-recently-moved-here",
+                "text": "We recently moved here."
+            },
+            {
+                "code": "recently_example_we-recently-traveled-to-europe",
+                "text": "We recently traveled to Europe."
+            },
+            {
+                "code": "recently_example_we-are-testing-recently-developed-software",
+                "text": "We are testing recently developed software."
+            },
+            {
+                "code": "recently_example_she-is-a-recently-divorced-woman",
+                "text": "She is a recently divorced woman."
+            }
+        ]
+    }
+]

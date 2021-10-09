@@ -1,0 +1,40 @@
+[
+    {
+        "type": "(adv)",
+        "mean": "out; away; forward; toward something; onward in time",
+        "examples": [
+            {
+                "code": "forth_example_the-cheetah-burst-forth-and-attacked-the-zebra",
+                "text": "The cheetah burst forth and attacked the zebra."
+            },
+            {
+                "code": "forth_example_today-we-will-venture-forth-from-the-hotel",
+                "text": "Today we will venture forth from the hotel."
+            },
+            {
+                "code": "forth_example_the-protestors-marched-forth-through-the-streets",
+                "text": "The protestors marched forth through the streets."
+            },
+            {
+                "code": "forth_example_if-you-have-any-knowledge-of-what-happened-please-come-forth",
+                "text": "If you have any knowledge of what happened, please come forth."
+            },
+            {
+                "code": "forth_example_he-s-going-to-go-forth-with-his-idea",
+                "text": "He's going to go forth with his idea."
+            },
+            {
+                "code": "forth_example_he-put-forth-much-effort-in-the-project",
+                "text": "He put forth much effort in the project."
+            },
+            {
+                "code": "forth_example_don-t-forget-to-pack-your-pajamas-toothbrush-and-so-forth",
+                "text": "Don't forget to pack your pajamas, toothbrush, and so forth."
+            },
+            {
+                "code": "forth_example_she-never-trusted-him-from-that-day-forth",
+                "text": "She never trusted him from that day forth."
+            }
+        ]
+    }
+]

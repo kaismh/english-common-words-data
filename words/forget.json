@@ -1,0 +1,64 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to be unable to remember",
+        "examples": [
+            {
+                "code": "forget_example_i-completely-forgot-about-my-appointment",
+                "text": "I completely forgot about my appointment."
+            },
+            {
+                "code": "forget_example_she-will-never-forget-the-advice-he-gave-her",
+                "text": "She will never forget the advice he gave her."
+            },
+            {
+                "code": "forget_example_she-quickly-forgot-about-the-promises-she-made",
+                "text": "She quickly forgot about the promises she made."
+            },
+            {
+                "code": "forget_example_i-can-t-just-easily-forget-what-you-did-to-me",
+                "text": "I can't just easily forget what you did to me."
+            },
+            {
+                "code": "forget_example_she-seems-to-forget-about-our-plans",
+                "text": "She seems to forget about our plans."
+            },
+            {
+                "code": "forget_example_he-really-wants-to-forget-about-what-happened",
+                "text": "He really wants to forget about what happened."
+            },
+            {
+                "code": "forget_example_i-forgot-all-about-that-assignment",
+                "text": "I forgot all about that assignment."
+            },
+            {
+                "code": "forget_example_she-completely-forgot-about-her-appointment",
+                "text": "She completely forgot about her appointment."
+            },
+            {
+                "code": "forget_example_i-would-really-like-to-forget-that-incident",
+                "text": "I would really like to forget that incident."
+            },
+            {
+                "code": "forget_example_he-was-able-to-forget-his-worries-for-one-night-and-have-fun",
+                "text": "He was able to forget his worries for one night and have fun."
+            },
+            {
+                "code": "forget_example_i-can-t-believe-he-forgot-your-birthday",
+                "text": "I can't believe he forgot your birthday."
+            },
+            {
+                "code": "forget_example_he-always-forgets-his-manners-when-he-drinks",
+                "text": "He always forgets his manners when he drinks."
+            },
+            {
+                "code": "forget_example_i-feel-so-bad-that-i-forgot-your-name",
+                "text": "I feel so bad that I forgot your name."
+            },
+            {
+                "code": "forget_example_he-forgot-most-of-the-facts-immediately",
+                "text": "He forgot most of the facts immediately."
+            }
+        ]
+    }
+]

@@ -1,0 +1,36 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "having the darkest color; having no light",
+        "examples": [
+            {
+                "code": "black_example_the-night-sky-looked-completely-black",
+                "text": "The night sky looked completely black."
+            },
+            {
+                "code": "black_example_that-paint-is-jet-black",
+                "text": "That paint is jet black."
+            },
+            {
+                "code": "black_example_do-you-drink-black-coffee",
+                "text": "Do you drink black coffee?"
+            },
+            {
+                "code": "black_example_i-love-black-cherries",
+                "text": "I love black cherries."
+            },
+            {
+                "code": "black_example_the-movie-has-black-comedy",
+                "text": "The movie has black comedy."
+            },
+            {
+                "code": "black_example_don-t-buy-things-on-the-black-market",
+                "text": "Don't buy things on the black market."
+            },
+            {
+                "code": "black_example_have-you-tasted-black-beans",
+                "text": "Have you tasted black beans?"
+            }
+        ]
+    }
+]

@@ -1,0 +1,114 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a liquid that is used to color a wall or surface",
+        "examples": [
+            {
+                "code": "paint_example_it-was-very-difficult-to-remove-the-paint",
+                "text": "It was very difficult to remove the paint."
+            },
+            {
+                "code": "paint_example_pour-the-paint-carefully",
+                "text": "Pour the paint carefully."
+            },
+            {
+                "code": "paint_example_we-have-to-wait-for-the-paint-to-dry",
+                "text": "We have to wait for the paint to dry."
+            },
+            {
+                "code": "paint_example_the-old-paint-is-chipping",
+                "text": "The old paint is chipping."
+            },
+            {
+                "code": "paint_example_there-are-five-or-six-paint-cans-in-the-garage",
+                "text": "There are five or six paint cans in the garage."
+            },
+            {
+                "code": "paint_example_be-careful-with-paint-thinner-because-the-fumes-are-toxic",
+                "text": "Be careful with paint thinner because the fumes are toxic."
+            },
+            {
+                "code": "paint_example_i-love-the-new-paint-color-of-your-house",
+                "text": "I love the new paint color of your house."
+            },
+            {
+                "code": "paint_example_he-used-a-paint-brush-on-the-cabinets",
+                "text": "He used a paint brush on the cabinets."
+            },
+            {
+                "code": "paint_example_fill-up-the-paint-tray-before-starting",
+                "text": "Fill up the paint tray before starting."
+            },
+            {
+                "code": "paint_example_i-picked-up-a-few-paint-samples-from-the-store",
+                "text": "I picked up a few paint samples from the store."
+            },
+            {
+                "code": "paint_example_that-s-a-great-paint-job-on-the-car",
+                "text": "That's a great paint job on the car."
+            },
+            {
+                "code": "paint_example_you-can-buy-watercolor-paint-at-most-art-supply-stores",
+                "text": "You can buy watercolor paint at most art supply stores."
+            },
+            {
+                "code": "paint_example_there-s-a-layer-of-thick-paint-on-the-window-sill",
+                "text": "There's a layer of thick paint on the window sill."
+            },
+            {
+                "code": "paint_example_be-careful-not-to-touch-the-wet-paint",
+                "text": "Be careful not to touch the wet paint."
+            },
+            {
+                "code": "paint_example_exterior-paint-usually-comes-in-neutral-colors",
+                "text": "Exterior paint usually comes in neutral colors."
+            },
+            {
+                "code": "paint_example_we-need-to-cover-the-old-paint",
+                "text": "We need to cover the old paint."
+            },
+            {
+                "code": "paint_example_make-sure-to-use-non-toxic-paint-in-the-kids-room",
+                "text": "Make sure to use non-toxic paint in the kids' room."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to apply a colorful liquid to a surface",
+        "examples": [
+            {
+                "code": "paint_example_it-took-me-all-summer-to-paint-my-parent-s-house",
+                "text": "It took me all summer to paint my parent's house."
+            },
+            {
+                "code": "paint_example_we-are-painting-the-ceiling-next",
+                "text": "We are painting the ceiling next."
+            },
+            {
+                "code": "paint_example_i-painted-this-painting-last-year",
+                "text": "I painted this painting last year."
+            },
+            {
+                "code": "paint_example_their-house-is-newly-painted",
+                "text": "Their house is newly painted."
+            },
+            {
+                "code": "paint_example_he-carefully-painted-around-the-door-frames",
+                "text": "He carefully painted around the door frames."
+            },
+            {
+                "code": "paint_example_we-painted-the-house-with-a-professional-spray-gun",
+                "text": "We painted the house with a professional spray gun."
+            },
+            {
+                "code": "paint_example_we-painted-the-house-in-less-than-five-days",
+                "text": "We painted the house in less than five days."
+            },
+            {
+                "code": "paint_example_he-painted-a-picture-on-the-wall",
+                "text": "He painted a picture on the wall."
+            }
+        ]
+    }
+]

@@ -1,0 +1,84 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a group of managers; the act of running a company or business",
+        "examples": [
+            {
+                "code": "management_example_he-applied-for-the-management-role",
+                "text": "He applied for the management role."
+            },
+            {
+                "code": "management_example_management-personnel-are-aware-of-his-issues",
+                "text": "Management personnel are aware of his issues."
+            },
+            {
+                "code": "management_example_that-s-a-management-decision",
+                "text": "That's a management decision."
+            },
+            {
+                "code": "management_example_there-was-a-management-buyout",
+                "text": "There was a management buyout."
+            },
+            {
+                "code": "management_example_we-need-to-hire-a-management-company",
+                "text": "We need to hire a management company."
+            },
+            {
+                "code": "management_example_we-need-someone-with-management-skills",
+                "text": "We need someone with management skills."
+            },
+            {
+                "code": "management_example_what-are-the-management-guidelines",
+                "text": "What are the management guidelines?"
+            },
+            {
+                "code": "management_example_i-don-t-agree-with-her-management-approach",
+                "text": "I don't agree with her management approach."
+            },
+            {
+                "code": "management_example_he-is-studying-project-management",
+                "text": "He is studying project management."
+            },
+            {
+                "code": "management_example_he-works-in-hotel-management",
+                "text": "He works in hotel management."
+            },
+            {
+                "code": "management_example_i-am-not-good-at-time-management",
+                "text": "I am not good at time management."
+            },
+            {
+                "code": "management_example_the-hotel-is-under-new-management",
+                "text": "The hotel is under new management."
+            },
+            {
+                "code": "management_example_she-is-in-top-management",
+                "text": "She is in top management."
+            },
+            {
+                "code": "management_example_they-have-good-management",
+                "text": "They have good management."
+            },
+            {
+                "code": "management_example_the-company-needs-better-management",
+                "text": "The company needs better management."
+            },
+            {
+                "code": "management_example_management-handles-all-of-the-personnel-issues",
+                "text": "Management handles all of the personnel issues."
+            },
+            {
+                "code": "management_example_management-should-provide-support-to-its-employees",
+                "text": "Management should provide support to its employees."
+            },
+            {
+                "code": "management_example_the-store-is-under-new-management",
+                "text": "The store is under new management."
+            },
+            {
+                "code": "management_example_she-has-a-job-in-management",
+                "text": "She has a job in management."
+            }
+        ]
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "being part of a custom or belief that is handed down through time",
+        "examples": [
+            {
+                "code": "traditional_example_she-comes-from-a-very-traditional-family",
+                "text": "She comes from a very traditional family."
+            },
+            {
+                "code": "traditional_example_he-has-become-very-traditional-since-getting-married",
+                "text": "He has become very traditional since getting married."
+            },
+            {
+                "code": "traditional_example_she-is-very-traditional",
+                "text": "She is very traditional."
+            },
+            {
+                "code": "traditional_example_she-wants-a-traditional-wedding",
+                "text": "She wants a traditional wedding."
+            },
+            {
+                "code": "traditional_example_he-is-bringing-some-traditional-dishes-to-the-potluck",
+                "text": "He is bringing some traditional dishes to the potluck."
+            },
+            {
+                "code": "traditional_example_the-students-will-be-displaying-traditional-clothing-to-the-audience",
+                "text": "The students will be displaying traditional clothing to the audience."
+            },
+            {
+                "code": "traditional_example_there-is-a-traditional-saying",
+                "text": "There is a traditional saying."
+            },
+            {
+                "code": "traditional_example_we-are-using-a-traditional-approach",
+                "text": "We are using a traditional approach."
+            }
+        ]
+    }
+]

@@ -1,0 +1,92 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a disease where cells grow abnormally and attack healthy cells",
+        "examples": [
+            {
+                "code": "cancer_example_breast-cancer-runs-in-my-family",
+                "text": "Breast cancer runs in my family."
+            },
+            {
+                "code": "cancer_example_she-was-diagnosed-with-incurable-cancer",
+                "text": "She was diagnosed with incurable cancer."
+            },
+            {
+                "code": "cancer_example_he-is-suffering-from-lung-cancer",
+                "text": "He is suffering from lung cancer."
+            },
+            {
+                "code": "cancer_example_she-developed-a-rare-form-of-cancer",
+                "text": "She developed a rare form of cancer."
+            },
+            {
+                "code": "cancer_example_her-cancer-was-caused-by-smoking-for-many-years",
+                "text": "Her cancer was caused by smoking for many years."
+            },
+            {
+                "code": "cancer_example_how-can-we-prevent-cancer",
+                "text": "How can we prevent cancer?"
+            },
+            {
+                "code": "cancer_example_women-should-be-screened-for-various-types-of-cancer",
+                "text": "Women should be screened for various types of cancer."
+            },
+            {
+                "code": "cancer_example_he-was-diagnosed-with-colon-cancer",
+                "text": "He was diagnosed with colon cancer."
+            },
+            {
+                "code": "cancer_example_they-detected-some-cancer-cells-in-his-lungs",
+                "text": "They detected some cancer cells in his lungs."
+            },
+            {
+                "code": "cancer_example_can-this-cancer-be-cured",
+                "text": "Can this cancer be cured?"
+            },
+            {
+                "code": "cancer_example_how-many-people-die-from-this-type-of-cancer",
+                "text": "How many people die from this type of cancer?"
+            },
+            {
+                "code": "cancer_example_she-beat-cancer",
+                "text": "She beat cancer."
+            },
+            {
+                "code": "cancer_example_he-has-been-battling-cancer",
+                "text": "He has been battling cancer."
+            },
+            {
+                "code": "cancer_example_her-cancer-spread-to-other-parts-of-her-body",
+                "text": "Her cancer spread to other parts of her body."
+            },
+            {
+                "code": "cancer_example_the-doctor-found-cancer-cells",
+                "text": "The doctor found cancer cells."
+            },
+            {
+                "code": "cancer_example_she-is-a-cancer-patient",
+                "text": "She is a cancer patient."
+            },
+            {
+                "code": "cancer_example_there-is-a-greater-cancer-risk-in-smokers",
+                "text": "There is a greater cancer risk in smokers."
+            },
+            {
+                "code": "cancer_example_scientists-are-concerned-with-the-increase-in-cancer-deaths",
+                "text": "Scientists are concerned with the increase in cancer deaths."
+            },
+            {
+                "code": "cancer_example_he-works-in-cancer-research",
+                "text": "He works in cancer research."
+            },
+            {
+                "code": "cancer_example_the-cancer-drug-is-too-expensive",
+                "text": "The cancer drug is too expensive."
+            },
+            {
+                "code": "cancer_example_did-you-see-a-cancer-specialist",
+                "text": "Did you see a cancer specialist?"
+            }
+        ]
+    }
+]

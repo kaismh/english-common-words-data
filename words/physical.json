@@ -1,0 +1,138 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "something that is seen or felt",
+        "examples": [
+            {
+                "code": "physical_example_most-students-have-to-take-physical-education-in-high-school",
+                "text": "Most students have to take physical education in high school."
+            },
+            {
+                "code": "physical_example_i-had-a-lot-of-physical-pain-after-the-accident",
+                "text": "I had a lot of physical pain after the accident."
+            },
+            {
+                "code": "physical_example_daily-physical-activity-keeps-you-healthy",
+                "text": "Daily physical activity keeps you healthy."
+            },
+            {
+                "code": "physical_example_i-have-to-go-to-physical-therapy-three-times-a-week",
+                "text": "I have to go to physical therapy three times a week."
+            },
+            {
+                "code": "physical_example_she-is-studying-to-become-a-physical-therapist",
+                "text": "She is studying to become a physical therapist."
+            },
+            {
+                "code": "physical_example_before-you-travel-you-need-a-physical-exam",
+                "text": "Before you travel, you need a physical exam."
+            },
+            {
+                "code": "physical_example_physical-appearance-doesn-t-matter-as-much-as-personality",
+                "text": "Physical appearance doesn't matter as much as personality."
+            },
+            {
+                "code": "physical_example_they-buried-his-physical-remains",
+                "text": "They buried his physical remains."
+            },
+            {
+                "code": "physical_example_there-is-no-physical-evidence-that-he-killed-her",
+                "text": "There is no physical evidence that he killed her."
+            },
+            {
+                "code": "physical_example_physical-health-is-the-most-important-thing",
+                "text": "Physical health is the most important thing."
+            },
+            {
+                "code": "physical_example_scientists-study-the-physical-world",
+                "text": "Scientists study the physical world."
+            },
+            {
+                "code": "physical_example_he-is-studying-physical-fitness-in-school",
+                "text": "He is studying physical fitness in school."
+            },
+            {
+                "code": "physical_example_we-have-not-had-any-physical-contact",
+                "text": "We have not had any physical contact."
+            },
+            {
+                "code": "physical_example_am-i-in-physical-danger",
+                "text": "Am I in physical danger?"
+            },
+            {
+                "code": "physical_example_it-s-only-physical-attraction",
+                "text": "It's only physical attraction."
+            },
+            {
+                "code": "physical_example_your-physical-surroundings-are-important",
+                "text": "Your physical surroundings are important."
+            },
+            {
+                "code": "physical_example_physical-violence-is-a-serious-problem",
+                "text": "Physical violence is a serious problem."
+            },
+            {
+                "code": "physical_example_my-physical-ability-is-limited-by-my-height",
+                "text": "My physical ability is limited by my height."
+            },
+            {
+                "code": "physical_example_his-physical-presence-makes-me-nervous",
+                "text": "His physical presence makes me nervous."
+            },
+            {
+                "code": "physical_example_she-is-in-great-physical-condition",
+                "text": "She is in great physical condition."
+            },
+            {
+                "code": "physical_example_you-will-not-experience-any-physical-sensations",
+                "text": "You will not experience any physical sensations."
+            },
+            {
+                "code": "physical_example_we-may-need-to-use-physical-restraint",
+                "text": "We may need to use physical restraint."
+            },
+            {
+                "code": "physical_example_she-is-risking-her-physical-safety",
+                "text": "She is risking her physical safety."
+            },
+            {
+                "code": "physical_example_the-attraction-is-strictly-physical",
+                "text": "The attraction is strictly physical."
+            },
+            {
+                "code": "physical_example_it-was-getting-too-physical",
+                "text": "It was getting too physical."
+            },
+            {
+                "code": "physical_example_their-attraction-is-purely-physical",
+                "text": "Their attraction is purely physical."
+            },
+            {
+                "code": "physical_example_the-fight-turned-almost-physical",
+                "text": "The fight turned almost physical."
+            }
+        ]
+    },
+    {
+        "type": "(n)",
+        "mean": "a medical examination of a person's body",
+        "examples": [
+            {
+                "code": "physical_example_i-got-a-physical-last-month",
+                "text": "I got a physical last month."
+            },
+            {
+                "code": "physical_example_i-failed-my-physical",
+                "text": "I failed my physical."
+            },
+            {
+                "code": "physical_example_he-needs-to-have-a-complete-physical-to-play-football",
+                "text": "He needs to have a complete physical to play football."
+            },
+            {
+                "code": "physical_example_baseball-players-undergo-annual-physicals",
+                "text": "Baseball players undergo annual physicals."
+            }
+        ]
+    }
+]

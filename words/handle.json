@@ -1,0 +1,102 @@
+[
+    {
+        "type": "(n)",
+        "mean": "something you hold with your hands to carry or move; something used to open a door or cabinet",
+        "examples": [
+            {
+                "code": "handle_example_i-need-a-box-with-a-long-handle",
+                "text": "I need a box with a long handle."
+            },
+            {
+                "code": "handle_example_i-can-t-reach-the-door-handle",
+                "text": "I can't reach the door handle."
+            },
+            {
+                "code": "handle_example_the-broom-handle-broke",
+                "text": "The broom handle broke."
+            },
+            {
+                "code": "handle_example_we-re-installing-brass-handles-on-the-cabinet-doors",
+                "text": "We're installing brass handles on the cabinet doors."
+            },
+            {
+                "code": "handle_example_just-push-the-handle",
+                "text": "Just push the handle."
+            },
+            {
+                "code": "handle_example_she-gripped-the-handle-on-her-suitcase",
+                "text": "She gripped the handle on her suitcase."
+            },
+            {
+                "code": "handle_example_does-it-have-a-handle",
+                "text": "Does it have a handle?"
+            },
+            {
+                "code": "handle_example_he-wrote-his-name-on-the-handle",
+                "text": "He wrote his name on the handle."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to touch with your hands; to manage or deal with",
+        "examples": [
+            {
+                "code": "handle_example_please-handle-the-antique-vase-carefully",
+                "text": "Please handle the antique vase carefully."
+            },
+            {
+                "code": "handle_example_the-movers-handled-her-items-carelessly-and-broke-her-furniture",
+                "text": "The movers handled her items carelessly and broke her furniture."
+            },
+            {
+                "code": "handle_example_he-handled-the-crisis-successfully",
+                "text": "He handled the crisis successfully."
+            },
+            {
+                "code": "handle_example_she-handled-the-situation-badly",
+                "text": "She handled the situation badly."
+            },
+            {
+                "code": "handle_example_she-routinely-handles-many-projects-at-the-same-time",
+                "text": "She routinely handles many projects at the same time."
+            },
+            {
+                "code": "handle_example_she-was-able-to-handle-the-pressure",
+                "text": "She was able to handle the pressure."
+            },
+            {
+                "code": "handle_example_the-machine-is-designed-to-handle-heavy-use",
+                "text": "The machine is designed to handle heavy use."
+            },
+            {
+                "code": "handle_example_she-is-learning-how-to-handle-difficult-situations",
+                "text": "She is learning how to handle difficult situations."
+            },
+            {
+                "code": "handle_example_he-handled-her-requests-with-ease",
+                "text": "He handled her requests with ease."
+            },
+            {
+                "code": "handle_example_he-can-handle-a-lot-of-challenges",
+                "text": "He can handle a lot of challenges."
+            },
+            {
+                "code": "handle_example_she-handled-the-crisis-well",
+                "text": "She handled the crisis well."
+            },
+            {
+                "code": "handle_example_the-system-is-designed-to-handle-a-lot-of-demand",
+                "text": "The system is designed to handle a lot of demand."
+            },
+            {
+                "code": "handle_example_he-was-unable-to-handle-the-responsibility",
+                "text": "He was unable to handle the responsibility."
+            },
+            {
+                "code": "handle_example_she-knows-how-to-handle-her-emotions",
+                "text": "She knows how to handle her emotions."
+            }
+        ]
+    }
+]

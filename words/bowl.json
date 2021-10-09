@@ -1,0 +1,56 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a deep, round dish used for holding food or liquids",
+        "examples": [
+            {
+                "code": "bowl_example_she-served-her-food-in-ceramic-bowls",
+                "text": "She served her food in ceramic bowls."
+            },
+            {
+                "code": "bowl_example_she-has-a-great-variety-of-food-bowls",
+                "text": "She has a great variety of food bowls."
+            },
+            {
+                "code": "bowl_example_his-chore-was-to-clean-the-toilet-bowl",
+                "text": "His chore was to clean the toilet bowl."
+            },
+            {
+                "code": "bowl_example_the-dog-s-water-bowl-is-empty",
+                "text": "The dog's water bowl is empty."
+            },
+            {
+                "code": "bowl_example_the-water-in-the-fish-bowl-needs-changing",
+                "text": "The water in the fish bowl needs changing."
+            },
+            {
+                "code": "bowl_example_she-is-filling-everyone-s-bowls",
+                "text": "She is filling everyone's bowls."
+            },
+            {
+                "code": "bowl_example_he-is-eating-a-bowl-of-cereal",
+                "text": "He is eating a bowl of cereal."
+            },
+            {
+                "code": "bowl_example_the-toilet-bowl-is-overflowing",
+                "text": "The toilet bowl is overflowing."
+            },
+            {
+                "code": "bowl_example_this-bowl-contains-many-fruits",
+                "text": "This bowl contains many fruits."
+            },
+            {
+                "code": "bowl_example_my-daughter-likes-to-drink-soup-from-a-bowl",
+                "text": "My daughter likes to drink soup from a bowl."
+            },
+            {
+                "code": "bowl_example_pour-water-into-the-bowl",
+                "text": "Pour water into the bowl."
+            },
+            {
+                "code": "bowl_example_i-ate-a-bowl-of-cereal",
+                "text": "I ate a bowl of cereal."
+            }
+        ]
+    }
+]

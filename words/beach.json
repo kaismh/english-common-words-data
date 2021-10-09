@@ -1,0 +1,44 @@
+[
+    {
+        "type": "(n)",
+        "mean": "an area of sand or small rocks next to the ocean or lake",
+        "examples": [
+            {
+                "code": "beach_example_we-like-to-vacation-near-a-beautiful-beach",
+                "text": "We like to vacation near a beautiful beach."
+            },
+            {
+                "code": "beach_example_there-is-a-family-beach-near-our-home",
+                "text": "There is a family beach near our home."
+            },
+            {
+                "code": "beach_example_our-hotel-overlooks-the-beach",
+                "text": "Our hotel overlooks the beach."
+            },
+            {
+                "code": "beach_example_we-need-to-bring-a-beach-towel",
+                "text": "We need to bring a beach towel."
+            },
+            {
+                "code": "beach_example_she-stayed-at-a-beach-resort",
+                "text": "She stayed at a beach resort."
+            },
+            {
+                "code": "beach_example_he-loves-playing-beach-volleyball",
+                "text": "He loves playing beach volleyball."
+            },
+            {
+                "code": "beach_example_we-re-going-on-a-beach-vacation",
+                "text": "We're going on a beach vacation."
+            },
+            {
+                "code": "beach_example_we-walked-along-the-beach-at-sunset",
+                "text": "We walked along the beach at sunset."
+            },
+            {
+                "code": "beach_example_we-had-a-campfire-at-the-beach",
+                "text": "We had a campfire at the beach."
+            }
+        ]
+    }
+]

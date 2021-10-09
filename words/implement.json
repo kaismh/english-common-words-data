@@ -1,0 +1,58 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a tool, utensil or another small piece of equipment",
+        "examples": [
+            {
+                "code": "implement_example_the-gardening-implements-are-in-the-garage",
+                "text": "The gardening implements are in the garage."
+            },
+            {
+                "code": "implement_example_keep-all-the-sharp-implements-away-from-children",
+                "text": "Keep all the sharp implements away from children."
+            },
+            {
+                "code": "implement_example_make-sure-all-surgical-implements-have-been-sterilized",
+                "text": "Make sure all surgical implements have been sterilized."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to put a plan into action",
+        "examples": [
+            {
+                "code": "implement_example_the-new-plan-was-not-fully-implemented",
+                "text": "The new plan was not fully implemented."
+            },
+            {
+                "code": "implement_example_we-must-implement-the-plan-immediately",
+                "text": "We must implement the plan immediately."
+            },
+            {
+                "code": "implement_example_the-changes-were-successfully-implemented",
+                "text": "The changes were successfully implemented."
+            },
+            {
+                "code": "implement_example_the-changes-were-never-actually-implemented",
+                "text": "The changes were never actually implemented."
+            },
+            {
+                "code": "implement_example_we-agreed-to-implement-the-new-plan",
+                "text": "We agreed to implement the new plan."
+            },
+            {
+                "code": "implement_example_the-government-failed-to-implement-the-proposed-plan",
+                "text": "The government failed to implement the proposed plan."
+            },
+            {
+                "code": "implement_example_our-company-is-implementing-a-new-approach",
+                "text": "Our company is implementing a new approach."
+            },
+            {
+                "code": "implement_example_the-government-is-implementing-a-new-initiative",
+                "text": "The government is implementing a new initiative."
+            }
+        ]
+    }
+]

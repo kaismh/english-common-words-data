@@ -1,0 +1,86 @@
+[
+    {
+        "type": "(n)",
+        "mean": "reaction to a question, letter or call; solution",
+        "examples": [
+            {
+                "code": "answer_example_he-only-gives-brief-answers",
+                "text": "He only gives brief answers."
+            },
+            {
+                "code": "answer_example_i-need-an-immediate-answer",
+                "text": "I need an immediate answer."
+            },
+            {
+                "code": "answer_example_i-thought-it-was-a-reasonable-answer",
+                "text": "I thought it was a reasonable answer."
+            },
+            {
+                "code": "answer_example_he-gave-a-clear-answer",
+                "text": "He gave a clear answer."
+            },
+            {
+                "code": "answer_example_the-problem-was-solved-with-an-easy-answer",
+                "text": "The problem was solved with an easy answer."
+            },
+            {
+                "code": "answer_example_did-you-receive-an-answer",
+                "text": "Did you receive an answer?"
+            },
+            {
+                "code": "answer_example_she-demanded-an-answer",
+                "text": "She demanded an answer."
+            },
+            {
+                "code": "answer_example_we-finally-gave-our-answer",
+                "text": "We finally gave our answer."
+            },
+            {
+                "code": "answer_example_i-feared-the-answer",
+                "text": "I feared the answer."
+            },
+            {
+                "code": "answer_example_he-guessed-the-final-answer-and-won-the-game",
+                "text": "He guessed the final answer and won the game."
+            },
+            {
+                "code": "answer_example_we-finally-discovered-the-answer",
+                "text": "We finally discovered the answer."
+            },
+            {
+                "code": "answer_example_he-waited-for-an-answer-to-his-proposal",
+                "text": "He waited for an answer to his proposal."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to give a reaction to a question, letter or call; to solve",
+        "examples": [
+            {
+                "code": "answer_example_i-was-able-to-correctly-answer-the-test-questions",
+                "text": "I was able to correctly answer the test questions."
+            },
+            {
+                "code": "answer_example_after-thinking-for-a-long-time-he-finally-answered",
+                "text": "After thinking for a long time, he finally answered."
+            },
+            {
+                "code": "answer_example_she-slowly-answered-the-policeman-s-questions",
+                "text": "She slowly answered the policeman's questions."
+            },
+            {
+                "code": "answer_example_we-will-need-you-to-answer-immediately",
+                "text": "We will need you to answer immediately."
+            },
+            {
+                "code": "answer_example_she-politely-answered-all-of-his-questions",
+                "text": "She politely answered all of his questions."
+            },
+            {
+                "code": "answer_example_he-answered-the-telephone",
+                "text": "He answered the telephone."
+            }
+        ]
+    }
+]

@@ -1,0 +1,202 @@
+[
+    {
+        "type": "(n)",
+        "mean": "flames and heat produced when something burns; burning fuel for cooking or heating; shots from guns",
+        "examples": [
+            {
+                "code": "fire_example_there-is-a-huge-fire-in-the-building",
+                "text": "There is a huge fire in the building."
+            },
+            {
+                "code": "fire_example_they-are-fighting-a-house-fire",
+                "text": "They are fighting a house fire."
+            },
+            {
+                "code": "fire_example_they-gathered-around-a-warm-fire",
+                "text": "They gathered around a warm fire."
+            },
+            {
+                "code": "fire_example_he-cooked-the-food-over-a-charcoal-fire",
+                "text": "He cooked the food over a charcoal fire."
+            },
+            {
+                "code": "fire_example_the-forest-rangers-banned-open-fires-during-the-drought",
+                "text": "The forest rangers banned open fires during the drought."
+            },
+            {
+                "code": "fire_example_they-were-in-the-middle-of-heavy-fire",
+                "text": "They were in the middle of heavy fire."
+            },
+            {
+                "code": "fire_example_the-building-is-on-fire",
+                "text": "The building is on fire."
+            },
+            {
+                "code": "fire_example_lightning-started-the-fire",
+                "text": "Lightning started the fire."
+            },
+            {
+                "code": "fire_example_the-firefighters-are-trying-to-contain-the-fire",
+                "text": "The firefighters are trying to contain the fire."
+            },
+            {
+                "code": "fire_example_being-careful-can-prevent-forest-fires",
+                "text": "Being careful can prevent forest fires."
+            },
+            {
+                "code": "fire_example_three-people-were-killed-in-the-fire",
+                "text": "Three people were killed in the fire."
+            },
+            {
+                "code": "fire_example_everyone-survived-the-fire",
+                "text": "Everyone survived the fire."
+            },
+            {
+                "code": "fire_example_the-school-was-damaged-by-a-fire",
+                "text": "The school was damaged by a fire."
+            },
+            {
+                "code": "fire_example_a-huge-fire-occurred-overnight",
+                "text": "A huge fire occurred overnight."
+            },
+            {
+                "code": "fire_example_the-fire-burned-for-hours",
+                "text": "The fire burned for hours."
+            },
+            {
+                "code": "fire_example_a-huge-fire-consumed-the-downtown-area",
+                "text": "A huge fire consumed the downtown area."
+            },
+            {
+                "code": "fire_example_they-built-a-fire-for-warmth",
+                "text": "They built a fire for warmth."
+            },
+            {
+                "code": "fire_example_we-cooked-on-the-fire-while-camping",
+                "text": "We cooked on the fire while camping."
+            },
+            {
+                "code": "fire_example_someone-needs-to-stay-awake-to-tend-the-fire",
+                "text": "Someone needs to stay awake to tend the fire."
+            },
+            {
+                "code": "fire_example_the-police-exchanged-fire-with-the-suspect",
+                "text": "The police exchanged fire with the suspect."
+            },
+            {
+                "code": "fire_example_he-opened-fire-on-the-room",
+                "text": "He opened fire on the room."
+            },
+            {
+                "code": "fire_example_they-were-under-heavy-fire",
+                "text": "They were under heavy fire."
+            },
+            {
+                "code": "fire_example_they-tried-to-dodge-enemy-fire",
+                "text": "They tried to dodge enemy fire."
+            },
+            {
+                "code": "fire_example_they-are-trying-to-improve-fire-safety",
+                "text": "They are trying to improve fire safety."
+            },
+            {
+                "code": "fire_example_this-mess-is-a-fire-hazard",
+                "text": "This mess is a fire hazard."
+            },
+            {
+                "code": "fire_example_we-had-a-fire-drill-at-school-today",
+                "text": "We had a fire drill at school today."
+            },
+            {
+                "code": "fire_example_the-fire-department-responded-to-the-crash-scene",
+                "text": "The fire department responded to the crash scene."
+            },
+            {
+                "code": "fire_example_the-class-visited-the-fire-station",
+                "text": "The class visited the fire station."
+            },
+            {
+                "code": "fire_example_they-tested-the-fire-hydrant",
+                "text": "They tested the fire hydrant."
+            },
+            {
+                "code": "fire_example_the-fire-escape-is-broken",
+                "text": "The fire escape is broken."
+            },
+            {
+                "code": "fire_example_they-are-assessing-the-fire-damage",
+                "text": "They are assessing the fire damage."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to shoot with a gun; to terminate someone from a job",
+        "examples": [
+            {
+                "code": "fire_example_he-fired-blindly-into-the-crowded-room",
+                "text": "He fired blindly into the crowded room."
+            },
+            {
+                "code": "fire_example_they-fired-directly-at-the-enemy",
+                "text": "They fired directly at the enemy."
+            },
+            {
+                "code": "fire_example_he-accidentally-fired-at-his-friend-while-hunting",
+                "text": "He accidentally fired at his friend while hunting."
+            },
+            {
+                "code": "fire_example_he-fired-accurately-at-the-target",
+                "text": "He fired accurately at the target."
+            },
+            {
+                "code": "fire_example_he-was-suddenly-fired-from-his-job",
+                "text": "He was suddenly fired from his job."
+            },
+            {
+                "code": "fire_example_she-was-immediately-fired-for-failing-a-drug-test",
+                "text": "She was immediately fired for failing a drug test."
+            },
+            {
+                "code": "fire_example_he-ordered-them-to-fire-at-the-crowd",
+                "text": "He ordered them to fire at the crowd."
+            },
+            {
+                "code": "fire_example_he-fired-at-the-intruder",
+                "text": "He fired at the intruder."
+            },
+            {
+                "code": "fire_example_they-fired-into-the-air-as-a-warning",
+                "text": "They fired into the air as a warning."
+            },
+            {
+                "code": "fire_example_they-fired-on-the-crowd",
+                "text": "They fired on the crowd."
+            },
+            {
+                "code": "fire_example_the-helicopter-fired-at-the-enemy",
+                "text": "The helicopter fired at the enemy."
+            },
+            {
+                "code": "fire_example_they-fired-a-cannon-at-the-enemy",
+                "text": "They fired a cannon at the enemy."
+            },
+            {
+                "code": "fire_example_she-fired-her-assistant",
+                "text": "She fired her assistant."
+            },
+            {
+                "code": "fire_example_he-practiced-firing-a-shotgun",
+                "text": "He practiced firing a shotgun."
+            },
+            {
+                "code": "fire_example_he-fired-arrows-at-a-target",
+                "text": "He fired arrows at a target."
+            },
+            {
+                "code": "fire_example_this-gun-only-fires-blanks",
+                "text": "This gun only fires blanks."
+            }
+        ]
+    }
+]

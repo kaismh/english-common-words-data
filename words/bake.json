@@ -1,0 +1,52 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to cook or heat using an oven",
+        "examples": [
+            {
+                "code": "bake_example_the-bakery-freshly-bakes-bread-every-morning",
+                "text": "The bakery freshly bakes bread every morning."
+            },
+            {
+                "code": "bake_example_convection-ovens-quickly-bake-bread-in-a-short-amount-of-time",
+                "text": "Convection ovens quickly bake bread in a short amount of time."
+            },
+            {
+                "code": "bake_example_my-oven-does-not-evenly-bake-cakes",
+                "text": "My oven does not evenly bake cakes."
+            },
+            {
+                "code": "bake_example_my-mother-bakes-biscuits",
+                "text": "My mother bakes biscuits."
+            },
+            {
+                "code": "bake_example_the-artist-is-baking-the-clay",
+                "text": "The artist is baking the clay."
+            },
+            {
+                "code": "bake_example_i-baked-a-batch-of-cookies-today",
+                "text": "I baked a batch of cookies today."
+            },
+            {
+                "code": "bake_example_do-you-know-how-to-bake",
+                "text": "Do you know how to bake?"
+            },
+            {
+                "code": "bake_example_what-are-you-going-to-bake-for-dessert",
+                "text": "What are you going to bake for dessert?"
+            },
+            {
+                "code": "bake_example_i-am-baking-a-cake",
+                "text": "I am baking a cake."
+            },
+            {
+                "code": "bake_example_i-love-to-bake",
+                "text": "I love to bake."
+            },
+            {
+                "code": "bake_example_our-clay-pots-are-baking-in-the-sun",
+                "text": "Our clay pots are baking in the sun."
+            }
+        ]
+    }
+]

@@ -1,0 +1,90 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "easy to understand, see or hear; certain; being able to see-through something; having nothing in the way",
+        "examples": [
+            {
+                "code": "clear_example_she-is-clear-about-what-she-wants",
+                "text": "She is clear about what she wants."
+            },
+            {
+                "code": "clear_example_his-demands-became-clear",
+                "text": "His demands became clear."
+            },
+            {
+                "code": "clear_example_let-me-make-this-clear",
+                "text": "Let me make this clear."
+            },
+            {
+                "code": "clear_example_i-found-her-instructions-clear",
+                "text": "I found her instructions clear."
+            },
+            {
+                "code": "clear_example_she-was-extremely-clear-about-who-she-wanted-to-invite",
+                "text": "She was extremely clear about who she wanted to invite."
+            },
+            {
+                "code": "clear_example_it-was-not-entirely-clear-what-he-wanted-from-us",
+                "text": "It was not entirely clear what he wanted from us."
+            },
+            {
+                "code": "clear_example_her-explanations-were-relatively-clear",
+                "text": "Her explanations were relatively clear."
+            },
+            {
+                "code": "clear_example_it-was-painfully-clear-to-everyone-that-she-was-not-happy",
+                "text": "It was painfully clear to everyone that she was not happy."
+            },
+            {
+                "code": "clear_example_it-became-increasingly-clear-that-i-was-not-going-to-get-the-promotion",
+                "text": "It became increasingly clear that I was not going to get the promotion."
+            },
+            {
+                "code": "clear_example_it-was-clear-to-him-that-she-was-not-interested",
+                "text": "It was clear to him that she was not interested."
+            },
+            {
+                "code": "clear_example_it-was-clear-to-us-that-she-didn-t-want-to-be-there",
+                "text": "It was clear to us that she didn't want to be there."
+            },
+            {
+                "code": "clear_example_he-was-very-clear-about-his-decision",
+                "text": "He was very clear about his decision."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to remove something that is blocking the way; to prove that someone is innocent of a crime or wrongdoing",
+        "examples": [
+            {
+                "code": "clear_example_the-land-must-be-completely-cleared-before-the-houses-can-be-built",
+                "text": "The land must be completely cleared before the houses can be built."
+            },
+            {
+                "code": "clear_example_we-quickly-cleared-the-table-after-dinner",
+                "text": "We quickly cleared the table after dinner."
+            },
+            {
+                "code": "clear_example_i-need-to-clear-away-the-mess-from-the-table",
+                "text": "I need to clear away the mess from the table."
+            },
+            {
+                "code": "clear_example_the-sky-suddenly-cleared-up",
+                "text": "The sky suddenly cleared up."
+            },
+            {
+                "code": "clear_example_she-was-formally-cleared-of-the-crime",
+                "text": "She was formally cleared of the crime."
+            },
+            {
+                "code": "clear_example_please-clear-the-toys-off-the-floor",
+                "text": "Please clear the toys off the floor."
+            },
+            {
+                "code": "clear_example_the-road-was-cleared-of-fallen-trees",
+                "text": "The road was cleared of fallen trees."
+            }
+        ]
+    }
+]

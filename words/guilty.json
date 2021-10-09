@@ -1,0 +1,88 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "feeling responsible or bad about having done something wrong; responsible for committing a crime",
+        "examples": [
+            {
+                "code": "guilty_example_he-feels-really-guilty-about-that",
+                "text": "He feels really guilty about that."
+            },
+            {
+                "code": "guilty_example_the-dog-looks-guilty",
+                "text": "The dog looks guilty."
+            },
+            {
+                "code": "guilty_example_he-pleaded-guilty-to-murder",
+                "text": "He pleaded guilty to murder."
+            },
+            {
+                "code": "guilty_example_she-is-guilty-of-lying",
+                "text": "She is guilty of lying."
+            },
+            {
+                "code": "guilty_example_everyone-believes-that-he-is-guilty",
+                "text": "Everyone believes that he is guilty."
+            },
+            {
+                "code": "guilty_example_they-were-found-guilty",
+                "text": "They were found guilty."
+            },
+            {
+                "code": "guilty_example_the-jury-voted-him-not-guilty",
+                "text": "The jury voted him not guilty."
+            },
+            {
+                "code": "guilty_example_she-feels-extremely-guilty-about-what-she-said",
+                "text": "She feels extremely guilty about what she said."
+            },
+            {
+                "code": "guilty_example_i-feel-almost-guilty-about-being-the-lone-survivor",
+                "text": "I feel almost guilty about being the lone survivor."
+            },
+            {
+                "code": "guilty_example_the-dog-looks-a-little-guilty",
+                "text": "The dog looks a little guilty."
+            },
+            {
+                "code": "guilty_example_they-feel-equally-guilty-for-the-accident",
+                "text": "They feel equally guilty for the accident."
+            },
+            {
+                "code": "guilty_example_he-was-certainly-guilty",
+                "text": "He was certainly guilty."
+            },
+            {
+                "code": "guilty_example_he-feels-guilty-about-the-project-s-failure",
+                "text": "He feels guilty about the project's failure."
+            },
+            {
+                "code": "guilty_example_he-was-found-guilty-of-fraud",
+                "text": "He was found guilty of fraud."
+            },
+            {
+                "code": "guilty_example_she-has-a-guilty-conscience",
+                "text": "She has a guilty conscience."
+            },
+            {
+                "code": "guilty_example_baking-is-his-guilty-pleasure",
+                "text": "Baking is his guilty pleasure."
+            },
+            {
+                "code": "guilty_example_the-guilty-party-will-be-held-responsible",
+                "text": "The guilty party will be held responsible."
+            },
+            {
+                "code": "guilty_example_they-handcuffed-the-guilty-defendant",
+                "text": "They handcuffed the guilty defendant."
+            },
+            {
+                "code": "guilty_example_the-jury-came-back-with-a-guilty-verdict",
+                "text": "The jury came back with a guilty verdict."
+            },
+            {
+                "code": "guilty_example_he-entered-a-guilty-plea",
+                "text": "He entered a guilty plea."
+            }
+        ]
+    }
+]

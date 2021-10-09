@@ -1,0 +1,36 @@
+[
+    {
+        "type": "(n)",
+        "mean": "something extra that is desirable; extra money from work",
+        "examples": [
+            {
+                "code": "bonus_example_she-will-get-a-huge-bonus-from-work",
+                "text": "She will get a huge bonus from work."
+            },
+            {
+                "code": "bonus_example_as-an-extra-bonus-i-received-a-company-car",
+                "text": "As an extra bonus, I received a company car."
+            },
+            {
+                "code": "bonus_example_this-is-quite-an-unexpected-bonus",
+                "text": "This is quite an unexpected bonus."
+            },
+            {
+                "code": "bonus_example_they-will-award-a-special-bonus-to-the-best-salesperson",
+                "text": "They will award a special bonus to the best salesperson."
+            },
+            {
+                "code": "bonus_example_i-m-hoping-to-receive-a-large-bonus-this-year",
+                "text": "I'm hoping to receive a large bonus this year."
+            },
+            {
+                "code": "bonus_example_he-received-a-cash-bonus-of-5000",
+                "text": "He received a cash bonus of $5000."
+            },
+            {
+                "code": "bonus_example_the-extra-feature-was-a-bonus-for-the-first-time-home-owner",
+                "text": "The extra feature was a bonus for the first-time home owner."
+            }
+        ]
+    }
+]

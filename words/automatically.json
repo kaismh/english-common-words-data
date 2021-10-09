@@ -1,0 +1,40 @@
+[
+    {
+        "type": "(adv)",
+        "mean": "having to do with working by itself without anyone operating it; just happening without thinking about it",
+        "examples": [
+            {
+                "code": "automatically_example_the-camera-automatically-adjusts-the-brightness",
+                "text": "The camera automatically adjusts the brightness."
+            },
+            {
+                "code": "automatically_example_we-automatically-assumed-you-wanted-to-go-with-us",
+                "text": "We automatically assumed you wanted to go with us."
+            },
+            {
+                "code": "automatically_example_our-payments-are-automatically-deducted-from-our-bank-account-each-month",
+                "text": "Our payments are automatically deducted from our bank account each month."
+            },
+            {
+                "code": "automatically_example_the-door-automatically-locks-without-a-remote-control",
+                "text": "The door automatically locks without a remote control."
+            },
+            {
+                "code": "automatically_example_we-are-automatically-notified-if-someone-tries-to-enter-the-house-without-a-key",
+                "text": "We are automatically notified if someone tries to enter the house without a key."
+            },
+            {
+                "code": "automatically_example_the-computer-automatically-deletes-junk-emails",
+                "text": "The computer automatically deletes junk emails."
+            },
+            {
+                "code": "automatically_example_your-subscription-will-automatically-renew-every-year",
+                "text": "Your subscription will automatically renew every year."
+            },
+            {
+                "code": "automatically_example_the-computer-will-automatically-update-the-operating-system",
+                "text": "The computer will automatically update the operating system."
+            }
+        ]
+    }
+]

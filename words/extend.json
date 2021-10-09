@@ -1,0 +1,68 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to make something longer or larger",
+        "examples": [
+            {
+                "code": "extend_example_the-school-hopes-to-greatly-extend-their-course-options-next-year",
+                "text": "The school hopes to greatly extend their course options next year."
+            },
+            {
+                "code": "extend_example_they-want-to-extend-the-capacity-beyond-its-current-limit",
+                "text": "They want to extend the capacity beyond its current limit."
+            },
+            {
+                "code": "extend_example_the-pole-extends-5-feet-from-the-side-of-the-building",
+                "text": "The pole extends 5 feet from the side of the building."
+            },
+            {
+                "code": "extend_example_he-extended-the-ladder-to-12-feet",
+                "text": "He extended the ladder to 12 feet."
+            },
+            {
+                "code": "extend_example_he-is-trying-to-extend-his-influence-in-the-workplace",
+                "text": "He is trying to extend his influence in the workplace."
+            },
+            {
+                "code": "extend_example_the-red-cross-is-extending-aid-to-those-affected-by-the-disaster",
+                "text": "The Red Cross is extending aid to those affected by the disaster."
+            },
+            {
+                "code": "extend_example_she-extended-her-congratulations-upon-hearing-the-news",
+                "text": "She extended her congratulations upon hearing the news."
+            },
+            {
+                "code": "extend_example_he-extended-his-thanks-for-the-help-we-gave-him",
+                "text": "He extended his thanks for the help we gave him."
+            },
+            {
+                "code": "extend_example_the-company-extended-the-warranty-on-their-products",
+                "text": "The company extended the warranty on their products."
+            },
+            {
+                "code": "extend_example_they-extended-the-deadline-for-submissions",
+                "text": "They extended the deadline for submissions."
+            },
+            {
+                "code": "extend_example_he-extended-an-invitation-for-dinner",
+                "text": "He extended an invitation for dinner."
+            },
+            {
+                "code": "extend_example_she-always-extends-her-hospitality-when-we-re-in-town",
+                "text": "She always extends her hospitality when we're in town."
+            },
+            {
+                "code": "extend_example_they-are-having-a-good-time-and-will-extend-their-stay",
+                "text": "They are having a good time and will extend their stay."
+            },
+            {
+                "code": "extend_example_she-s-working-to-extend-her-cooking-knowledge",
+                "text": "She's working to extend her cooking knowledge."
+            },
+            {
+                "code": "extend_example_he-chose-to-extend-his-education-with-graduate-school",
+                "text": "He chose to extend his education with graduate school."
+            }
+        ]
+    }
+]

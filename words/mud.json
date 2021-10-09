@@ -1,0 +1,60 @@
+[
+    {
+        "type": "(n)",
+        "mean": "wet dirt",
+        "examples": [
+            {
+                "code": "mud_example_the-children-were-covered-in-mud",
+                "text": "The children were covered in mud."
+            },
+            {
+                "code": "mud_example_the-dirt-road-turned-into-mud-after-the-heavy-rainfall",
+                "text": "The dirt road turned into mud after the heavy rainfall."
+            },
+            {
+                "code": "mud_example_the-dried-mud-was-starting-to-crack",
+                "text": "The dried mud was starting to crack."
+            },
+            {
+                "code": "mud_example_the-house-is-made-of-mud-bricks",
+                "text": "The house is made of mud bricks."
+            },
+            {
+                "code": "mud_example_people-were-injured-in-a-mud-slide",
+                "text": "People were injured in a mud slide."
+            },
+            {
+                "code": "mud_example_they-live-in-a-mud-hut",
+                "text": "They live in a mud hut."
+            },
+            {
+                "code": "mud_example_she-is-wearing-a-mud-mask",
+                "text": "She is wearing a mud mask."
+            },
+            {
+                "code": "mud_example_my-house-has-a-mud-floor",
+                "text": "My house has a mud floor."
+            },
+            {
+                "code": "mud_example_the-spa-offers-a-mud-bath",
+                "text": "The spa offers a mud bath."
+            },
+            {
+                "code": "mud_example_we-like-to-watch-mud-fights",
+                "text": "We like to watch mud fights."
+            },
+            {
+                "code": "mud_example_kids-like-to-make-mud-pies",
+                "text": "Kids like to make mud pies."
+            },
+            {
+                "code": "mud_example_the-dog-was-covered-with-wet-mud",
+                "text": "The dog was covered with wet mud."
+            },
+            {
+                "code": "mud_example_children-like-to-play-in-the-mud",
+                "text": "Children like to play in the mud."
+            }
+        ]
+    }
+]

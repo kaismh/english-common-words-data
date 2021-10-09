@@ -1,0 +1,44 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "specific",
+        "examples": [
+            {
+                "code": "particular_example_there-is-one-particular-thing-you-should-know",
+                "text": "There is one particular thing you should know."
+            },
+            {
+                "code": "particular_example_that-particular-kind-of-bird-eats-small-insects",
+                "text": "That particular kind of bird eats small insects."
+            },
+            {
+                "code": "particular_example_that-project-needs-particular-attention",
+                "text": "That project needs particular attention."
+            },
+            {
+                "code": "particular_example_i-like-that-particular-brand-of-clothes",
+                "text": "I like that particular brand of clothes."
+            },
+            {
+                "code": "particular_example_i-need-a-particular-example-of-what-you-are-talking-about",
+                "text": "I need a particular example of what you are talking about."
+            },
+            {
+                "code": "particular_example_she-has-a-particular-fascination-for-cats",
+                "text": "She has a particular fascination for cats."
+            },
+            {
+                "code": "particular_example_what-is-the-particular-function-of-this-machine",
+                "text": "What is the particular function of this machine?"
+            },
+            {
+                "code": "particular_example_what-is-the-particular-reason-you-came-here",
+                "text": "What is the particular reason you came here?"
+            },
+            {
+                "code": "particular_example_i-don-t-want-to-be-picky-but-i-have-a-particular-request",
+                "text": "I don't want to be picky, but I have a particular request."
+            }
+        ]
+    }
+]

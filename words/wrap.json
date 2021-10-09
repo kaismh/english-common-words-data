@@ -1,0 +1,62 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to cover something with paper or fabric; to put your arms around something",
+        "examples": [
+            {
+                "code": "wrap_example_she-securely-wrapped-her-baby-in-a-blanket",
+                "text": "She securely wrapped her baby in a blanket."
+            },
+            {
+                "code": "wrap_example_she-wrapped-a-sweater-loosely-around-her-shoulders",
+                "text": "She wrapped a sweater loosely around her shoulders."
+            },
+            {
+                "code": "wrap_example_he-carefully-wrapped-his-wife-s-anniversary-present",
+                "text": "He carefully wrapped his wife's anniversary present."
+            },
+            {
+                "code": "wrap_example_each-chocolate-piece-was-wrapped-individually",
+                "text": "Each chocolate piece was wrapped individually."
+            },
+            {
+                "code": "wrap_example_he-wrapped-his-arms-tightly-around-his-mother",
+                "text": "He wrapped his arms tightly around his mother."
+            },
+            {
+                "code": "wrap_example_she-securely-wrapped-her-baby-in-a-blanket",
+                "text": "She securely wrapped her baby in a blanket."
+            }
+        ]
+    },
+    {
+        "type": "(n)",
+        "mean": "a decorative paper to cover a gift; a piece of outer clothing usually worn to keep warm",
+        "examples": [
+            {
+                "code": "wrap_example_that-is-beautiful-gift-wrap",
+                "text": "That is beautiful gift wrap."
+            },
+            {
+                "code": "wrap_example_she-put-her-baby-in-a-warm-wrap",
+                "text": "She put her baby in a warm wrap."
+            },
+            {
+                "code": "wrap_example_my-grandmother-knitted-me-a-shoulder-wrap-for-my-birthday",
+                "text": "My grandmother knitted me a shoulder wrap for my birthday."
+            },
+            {
+                "code": "wrap_example_i-put-plastic-wrap-on-the-food-containers",
+                "text": "I put plastic wrap on the food containers."
+            },
+            {
+                "code": "wrap_example_she-put-on-a-wrap-to-stay-warm",
+                "text": "She put on a wrap to stay warm."
+            },
+            {
+                "code": "wrap_example_i-unrolled-the-gift-wrap",
+                "text": "I unrolled the gift wrap."
+            }
+        ]
+    }
+]

@@ -1,0 +1,48 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to like one thing better than another",
+        "examples": [
+            {
+                "code": "prefer_example_they-tend-to-prefer-rainy-weather",
+                "text": "They tend to prefer rainy weather."
+            },
+            {
+                "code": "prefer_example_i-would-prefer-to-go-out-tonight",
+                "text": "I would prefer to go out tonight."
+            },
+            {
+                "code": "prefer_example_i-happen-to-prefer-spicier-foods",
+                "text": "I happen to prefer spicier foods."
+            },
+            {
+                "code": "prefer_example_she-usually-prefers-to-go-alone",
+                "text": "She usually prefers to go alone."
+            },
+            {
+                "code": "prefer_example_i-would-greatly-prefer-a-longer-vacation",
+                "text": "I would greatly prefer a longer vacation."
+            },
+            {
+                "code": "prefer_example_i-certainly-prefer-warmer-weather",
+                "text": "I certainly prefer warmer weather."
+            },
+            {
+                "code": "prefer_example_i-just-prefer-to-be-alone",
+                "text": "I just prefer to be alone."
+            },
+            {
+                "code": "prefer_example_he-apparently-prefers-younger-women",
+                "text": "He apparently prefers younger women."
+            },
+            {
+                "code": "prefer_example_i-prefer-to-go-swimming",
+                "text": "I prefer to go swimming."
+            },
+            {
+                "code": "prefer_example_i-prefer-oranges-over-pears",
+                "text": "I prefer oranges over pears."
+            }
+        ]
+    }
+]

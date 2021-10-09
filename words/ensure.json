@@ -1,0 +1,48 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to make certain that something happens",
+        "examples": [
+            {
+                "code": "ensure_example_he-practically-ensured-the-success-of-the-project",
+                "text": "He practically ensured the success of the project."
+            },
+            {
+                "code": "ensure_example_this-repair-only-ensures-that-the-machine-will-work-until-the-new-part-arrives",
+                "text": "This repair only ensures that the machine will work until the new part arrives."
+            },
+            {
+                "code": "ensure_example_we-must-ensure-that-all-students-are-safe-in-their-dormitories",
+                "text": "We must ensure that all students are safe in their dormitories."
+            },
+            {
+                "code": "ensure_example_he-tried-to-ensure-the-success-of-the-project",
+                "text": "He tried to ensure the success of the project."
+            },
+            {
+                "code": "ensure_example_this-machine-is-designed-to-ensure-higher-production",
+                "text": "This machine is designed to ensure higher production."
+            },
+            {
+                "code": "ensure_example_the-school-ensures-employment-for-all-graduates",
+                "text": "The school ensures employment for all graduates."
+            },
+            {
+                "code": "ensure_example_he-ensures-the-accuracy-of-the-data",
+                "text": "He ensures the accuracy of the data."
+            },
+            {
+                "code": "ensure_example_they-are-working-to-ensure-cooperation-on-this-project",
+                "text": "They are working to ensure cooperation on this project."
+            },
+            {
+                "code": "ensure_example_the-postal-service-ensures-delivery-even-during-bad-weather",
+                "text": "The postal service ensures delivery even during bad weather."
+            },
+            {
+                "code": "ensure_example_the-college-ensures-fairness-in-the-application-process",
+                "text": "The college ensures fairness in the application process."
+            }
+        ]
+    }
+]

@@ -1,0 +1,104 @@
+[
+    {
+        "type": "(adv)",
+        "mean": "very; actually",
+        "examples": [
+            {
+                "code": "really_example_i-really-admire-your-work",
+                "text": "I really admire your work."
+            },
+            {
+                "code": "really_example_i-really-think-you-should-call-him",
+                "text": "I really think you should call him."
+            },
+            {
+                "code": "really_example_i-really-miss-him",
+                "text": "I really miss him."
+            },
+            {
+                "code": "really_example_we-really-struggle-to-get-along",
+                "text": "We really struggle to get along."
+            },
+            {
+                "code": "really_example_i-really-wish-this-would-stop",
+                "text": "I really wish this would stop."
+            },
+            {
+                "code": "really_example_he-really-worries-about-you",
+                "text": "He really worries about you."
+            },
+            {
+                "code": "really_example_none-of-this-really-matters",
+                "text": "None of this really matters."
+            },
+            {
+                "code": "really_example_i-really-want-to-go-home",
+                "text": "I really want to go home."
+            },
+            {
+                "code": "really_example_i-really-trusted-him",
+                "text": "I really trusted him."
+            },
+            {
+                "code": "really_example_i-think-she-really-feared-him",
+                "text": "I think she really feared him."
+            },
+            {
+                "code": "really_example_i-really-regret-what-i-did",
+                "text": "I really regret what I did."
+            },
+            {
+                "code": "really_example_i-really-hope-it-works-out",
+                "text": "I really hope it works out."
+            },
+            {
+                "code": "really_example_he-is-really-wonderful",
+                "text": "He is really wonderful."
+            },
+            {
+                "code": "really_example_this-city-is-really-huge",
+                "text": "This city is really huge."
+            },
+            {
+                "code": "really_example_this-was-a-really-good-day",
+                "text": "This was a really good day."
+            },
+            {
+                "code": "really_example_she-is-a-really-remarkable-teacher",
+                "text": "She is a really remarkable teacher."
+            },
+            {
+                "code": "really_example_she-is-really-sick",
+                "text": "She is really sick."
+            },
+            {
+                "code": "really_example_i-was-really-impressed-by-her-speech",
+                "text": "I was really impressed by her speech."
+            },
+            {
+                "code": "really_example_this-food-is-really-delicious",
+                "text": "This food is really delicious."
+            },
+            {
+                "code": "really_example_i-m-really-okay",
+                "text": "I'm really okay."
+            },
+            {
+                "code": "really_example_we-were-all-really-thankful",
+                "text": "We were all really thankful."
+            },
+            {
+                "code": "really_example_is-this-really-necessary",
+                "text": "Is this really necessary?"
+            },
+            {
+                "code": "really_example_they-are-really-nice-people",
+                "text": "They are really nice people."
+            },
+            {
+                "code": "really_example_this-test-is-really-tough",
+                "text": "This test is really tough."
+            }
+        ]
+    }
+]

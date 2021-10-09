@@ -1,0 +1,78 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the act of cutting with teeth; a wound from an animal or insect making a mark on the skin; something to eat",
+        "examples": [
+            {
+                "code": "bite_example_her-dog-bite-got-infected",
+                "text": "Her dog bite got infected."
+            },
+            {
+                "code": "bite_example_he-suffered-a-snake-bite",
+                "text": "He suffered a snake bite."
+            },
+            {
+                "code": "bite_example_the-dog-left-a-nasty-bite-on-my-leg",
+                "text": "The dog left a nasty bite on my leg."
+            },
+            {
+                "code": "bite_example_let-s-grab-a-quick-bite-before-the-movie",
+                "text": "Let's grab a quick bite before the movie."
+            },
+            {
+                "code": "bite_example_he-took-a-bite-of-food",
+                "text": "He took a bite of food."
+            },
+            {
+                "code": "bite_example_i-d-like-to-grab-a-bite-before-we-leave",
+                "text": "I'd like to grab a bite before we leave."
+            },
+            {
+                "code": "bite_example_we-get-too-many-bug-bites-when-we-go-camping",
+                "text": "We get too many bug bites when we go camping."
+            },
+            {
+                "code": "bite_example_snow-white-took-a-bite-from-the-apple",
+                "text": "Snow White took a bite from the apple."
+            },
+            {
+                "code": "bite_example_my-kids-always-talk-between-bites",
+                "text": "My kids always talk between bites."
+            },
+            {
+                "code": "bite_example_she-got-a-bite-from-a-strange-dog",
+                "text": "She got a bite from a strange dog."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to cut with teeth",
+        "examples": [
+            {
+                "code": "bite_example_she-was-badly-bitten-by-a-shark",
+                "text": "She was badly bitten by a shark."
+            },
+            {
+                "code": "bite_example_the-wolf-bit-down-hard",
+                "text": "The wolf bit down hard."
+            },
+            {
+                "code": "bite_example_she-bit-off-more-than-she-could-chew",
+                "text": "She bit off more than she could chew."
+            },
+            {
+                "code": "bite_example_i-can-t-wait-to-bite-into-that-cheeseburger",
+                "text": "I can't wait to bite into that cheeseburger."
+            },
+            {
+                "code": "bite_example_the-shark-was-able-to-bite-through-the-net",
+                "text": "The shark was able to bite through the net."
+            },
+            {
+                "code": "bite_example_the-child-bit-down-on-the-dentist-s-finger",
+                "text": "The child bit down on the dentist's finger."
+            }
+        ]
+    }
+]

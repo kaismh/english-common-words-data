@@ -1,0 +1,102 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to come to an end; to put an end to something",
+        "examples": [
+            {
+                "code": "stop_example_as-i-was-driving-home-my-car-suddenly-stopped",
+                "text": "As I was driving home, my car suddenly stopped."
+            },
+            {
+                "code": "stop_example_laughter-stopped-momentarily",
+                "text": "Laughter stopped momentarily."
+            },
+            {
+                "code": "stop_example_she-never-stops-talking-about-her-children",
+                "text": "She never stops talking about her children."
+            },
+            {
+                "code": "stop_example_he-could-not-stop-smiling",
+                "text": "He could not stop smiling."
+            },
+            {
+                "code": "stop_example_she-tried-to-stop-laughing",
+                "text": "She tried to stop laughing."
+            },
+            {
+                "code": "stop_example_we-have-to-stop-making-excuses",
+                "text": "We have to stop making excuses."
+            },
+            {
+                "code": "stop_example_i-didn-t-want-to-stop-eating-this-pie",
+                "text": "I didn't want to stop eating this pie."
+            },
+            {
+                "code": "stop_example_when-is-the-rain-going-to-stop",
+                "text": "When is the rain going to stop?"
+            },
+            {
+                "code": "stop_example_you-can-t-stop-me-from-going-to-the-party",
+                "text": "You can't stop me from going to the party."
+            },
+            {
+                "code": "stop_example_the-car-stopped-in-front-of-my-house",
+                "text": "The car stopped in front of my house."
+            },
+            {
+                "code": "stop_example_the-clock-stopped-because-it-ran-out-of-battery",
+                "text": "The clock stopped because it ran out of battery."
+            },
+            {
+                "code": "stop_example_they-stopped-their-conversation-when-i-walked-in-the-room",
+                "text": "They stopped their conversation when I walked in the room."
+            },
+            {
+                "code": "stop_example_the-elevator-stopped-on-the-10th-floor",
+                "text": "The elevator stopped on the 10th floor."
+            },
+            {
+                "code": "stop_example_i-hope-the-pain-stops",
+                "text": "I hope the pain stops."
+            }
+        ]
+    },
+    {
+        "type": "(n)",
+        "mean": "the act of making something come to an end",
+        "examples": [
+            {
+                "code": "stop_example_we-made-a-brief-stop-in-san-francisco",
+                "text": "We made a brief stop in San Francisco."
+            },
+            {
+                "code": "stop_example_the-train-made-an-emergency-stop",
+                "text": "The train made an emergency stop."
+            },
+            {
+                "code": "stop_example_we-had-to-take-several-bathroom-stops-on-our-trip",
+                "text": "We had to take several bathroom stops on our trip."
+            },
+            {
+                "code": "stop_example_the-police-arrested-a-drunk-driver-during-a-traffic-stop",
+                "text": "The police arrested a drunk driver during a traffic stop."
+            },
+            {
+                "code": "stop_example_we-made-a-stop-in-los-angeles",
+                "text": "We made a stop in Los Angeles."
+            },
+            {
+                "code": "stop_example_he-accidently-ran-a-stop-sign",
+                "text": "He accidently ran a stop sign."
+            },
+            {
+                "code": "stop_example_we-stopped-for-a-quick-lunch",
+                "text": "We stopped for a quick lunch."
+            },
+            {
+                "code": "stop_example_we-will-make-a-stop-at-the-next-exit",
+                "text": "We will make a stop at the next exit."
+            }
+        ]
+    }
+]

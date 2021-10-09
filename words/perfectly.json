@@ -1,0 +1,68 @@
+[
+    {
+        "type": "(adv)",
+        "mean": "completely without mistakes",
+        "examples": [
+            {
+                "code": "perfectly_example_i-am-perfectly-able-to-handle-the-situation",
+                "text": "I am perfectly able to handle the situation."
+            },
+            {
+                "code": "perfectly_example_he-is-perfectly-aware-of-the-situation",
+                "text": "He is perfectly aware of the situation."
+            },
+            {
+                "code": "perfectly_example_have-i-made-myself-perfectly-clear",
+                "text": "Have I made myself perfectly clear?"
+            },
+            {
+                "code": "perfectly_example_please-do-not-worry-about-me-i-am-perfectly-fine",
+                "text": "Please do not worry about me, I am perfectly fine."
+            },
+            {
+                "code": "perfectly_example_the-dog-is-perfectly-harmless",
+                "text": "The dog is perfectly harmless."
+            },
+            {
+                "code": "perfectly_example_to-be-perfectly-honest-i-do-not-like-you",
+                "text": "To be perfectly honest, I do not like you."
+            },
+            {
+                "code": "perfectly_example_i-am-perfectly-capable-of-carrying-my-own-luggage",
+                "text": "I am perfectly capable of carrying my own luggage."
+            },
+            {
+                "code": "perfectly_example_i-feel-perfectly-safe-here",
+                "text": "I feel perfectly safe here."
+            },
+            {
+                "code": "perfectly_example_please-stand-perfectly-still",
+                "text": "Please stand perfectly still."
+            },
+            {
+                "code": "perfectly_example_she-arranged-the-flowers-perfectly",
+                "text": "She arranged the flowers perfectly."
+            },
+            {
+                "code": "perfectly_example_he-behaves-perfectly-around-strangers",
+                "text": "He behaves perfectly around strangers."
+            },
+            {
+                "code": "perfectly_example_she-captured-the-moment-perfectly-on-camera",
+                "text": "She captured the moment perfectly on camera."
+            },
+            {
+                "code": "perfectly_example_she-cooked-the-chicken-perfectly",
+                "text": "She cooked the chicken perfectly."
+            },
+            {
+                "code": "perfectly_example_he-timed-the-occasion-perfectly",
+                "text": "He timed the occasion perfectly."
+            },
+            {
+                "code": "perfectly_example_i-understand-your-concerns-perfectly",
+                "text": "I understand your concerns perfectly."
+            }
+        ]
+    }
+]

@@ -1,0 +1,70 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the regular way of doing things; a performance",
+        "examples": [
+            {
+                "code": "routine_example_i-established-a-morning-routine",
+                "text": "I established a morning routine."
+            },
+            {
+                "code": "routine_example_i-have-a-normal-routine-that-i-follow",
+                "text": "I have a normal routine that I follow."
+            },
+            {
+                "code": "routine_example_he-tried-to-break-the-routine",
+                "text": "He tried to break the routine."
+            },
+            {
+                "code": "routine_example_do-you-know-the-daily-routine",
+                "text": "Do you know the daily routine?"
+            },
+            {
+                "code": "routine_example_he-performed-the-routine-perfectly",
+                "text": "He performed the routine perfectly."
+            },
+            {
+                "code": "routine_example_i-have-a-daily-routine",
+                "text": "I have a daily routine."
+            },
+            {
+                "code": "routine_example_i-follow-the-same-routine-every-day",
+                "text": "I follow the same routine every day."
+            },
+            {
+                "code": "routine_example_we-have-a-strict-routine",
+                "text": "We have a strict routine."
+            },
+            {
+                "code": "routine_example_i-need-a-break-from-my-normal-routine",
+                "text": "I need a break from my normal routine."
+            },
+            {
+                "code": "routine_example_i-have-an-exercise-routine",
+                "text": "I have an exercise routine."
+            },
+            {
+                "code": "routine_example_we-watched-the-dance-routine",
+                "text": "We watched the dance routine."
+            }
+        ]
+    },
+    {
+        "type": "(adj)",
+        "mean": "normal; happening on a regular basis",
+        "examples": [
+            {
+                "code": "routine_example_this-is-just-a-routine-visit",
+                "text": "This is just a routine visit."
+            },
+            {
+                "code": "routine_example_i-have-a-routine-procedure-coming-up",
+                "text": "I have a routine procedure coming up."
+            },
+            {
+                "code": "routine_example_we-did-our-routine-patrol",
+                "text": "We did our routine patrol."
+            }
+        ]
+    }
+]

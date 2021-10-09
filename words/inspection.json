@@ -1,0 +1,76 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a careful examination to make sure everything is in good condition",
+        "examples": [
+            {
+                "code": "inspection_example_the-mechanic-did-a-thorough-inspection-of-the-car",
+                "text": "The mechanic did a thorough inspection of the car."
+            },
+            {
+                "code": "inspection_example_a-routine-inspection-must-be-done-on-all-machines",
+                "text": "A routine inspection must be done on all machines."
+            },
+            {
+                "code": "inspection_example_we-did-a-safety-inspection-of-all-the-rooms",
+                "text": "We did a safety inspection of all the rooms."
+            },
+            {
+                "code": "inspection_example_we-found-many-problems-during-the-home-inspection",
+                "text": "We found many problems during the home inspection."
+            },
+            {
+                "code": "inspection_example_they-were-not-expecting-a-surprise-inspection-from-the-company-president",
+                "text": "They were not expecting a surprise inspection from the company president."
+            },
+            {
+                "code": "inspection_example_all-packages-must-undergo-a-thorough-inspection",
+                "text": "All packages must undergo a thorough inspection."
+            },
+            {
+                "code": "inspection_example_the-manager-carried-out-a-thorough-inspection-of-the-building",
+                "text": "The manager carried out a thorough inspection of the building."
+            },
+            {
+                "code": "inspection_example_always-be-prepared-for-a-surprise-inspection",
+                "text": "Always be prepared for a surprise inspection."
+            },
+            {
+                "code": "inspection_example_the-restaurant-passed-the-health-inspection",
+                "text": "The restaurant passed the health inspection."
+            },
+            {
+                "code": "inspection_example_the-article-requires-close-inspection-by-the-editor",
+                "text": "The article requires close inspection by the editor."
+            },
+            {
+                "code": "inspection_example_the-inspection-revealed-many-problems",
+                "text": "The inspection revealed many problems."
+            },
+            {
+                "code": "inspection_example_he-was-on-an-inspection-visit",
+                "text": "He was on an inspection visit."
+            },
+            {
+                "code": "inspection_example_she-demanded-a-copy-of-the-inspection-report",
+                "text": "She demanded a copy of the inspection report."
+            },
+            {
+                "code": "inspection_example_he-did-not-follow-the-inspection-process",
+                "text": "He did not follow the inspection process."
+            },
+            {
+                "code": "inspection_example_she-is-a-member-of-the-inspection-team",
+                "text": "She is a member of the inspection team."
+            },
+            {
+                "code": "inspection_example_he-opened-his-room-for-inspection",
+                "text": "He opened his room for inspection."
+            },
+            {
+                "code": "inspection_example_the-inspection-was-done-by-the-manager",
+                "text": "The inspection was done by the manager."
+            }
+        ]
+    }
+]

@@ -1,0 +1,36 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "not treating people equally",
+        "examples": [
+            {
+                "code": "unfair_example_his-decision-was-very-unfair-to-the-whole-class",
+                "text": "His decision was very unfair to the whole class."
+            },
+            {
+                "code": "unfair_example_she-is-being-a-little-unfair-to-her-sister",
+                "text": "She is being a little unfair to her sister."
+            },
+            {
+                "code": "unfair_example_it-is-unfair-to-let-one-child-stay-out-later-than-the-other",
+                "text": "It is unfair to let one child stay out later than the other."
+            },
+            {
+                "code": "unfair_example_she-is-so-unfair-to-her-sister",
+                "text": "She is so unfair to her sister."
+            },
+            {
+                "code": "unfair_example_he-has-an-unfair-advantage",
+                "text": "He has an unfair advantage."
+            },
+            {
+                "code": "unfair_example_she-received-unfair-treatment",
+                "text": "She received unfair treatment."
+            },
+            {
+                "code": "unfair_example_that-was-an-unfair-comparison",
+                "text": "That was an unfair comparison."
+            }
+        ]
+    }
+]

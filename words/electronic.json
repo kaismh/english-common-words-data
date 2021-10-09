@@ -1,0 +1,28 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "using many small electrical parts",
+        "examples": [
+            {
+                "code": "electronic_example_you-can-now-vote-with-an-electronic-ballot",
+                "text": "You can now vote with an electronic ballot."
+            },
+            {
+                "code": "electronic_example_he-used-an-electronic-dictionary",
+                "text": "He used an electronic dictionary."
+            },
+            {
+                "code": "electronic_example_she-likes-electronic-music",
+                "text": "She likes electronic music."
+            },
+            {
+                "code": "electronic_example_the-device-emits-an-electronic-signal",
+                "text": "The device emits an electronic signal."
+            },
+            {
+                "code": "electronic_example_electronic-equipment-can-be-expensive",
+                "text": "Electronic equipment can be expensive."
+            }
+        ]
+    }
+]

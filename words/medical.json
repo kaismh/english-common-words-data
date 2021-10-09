@@ -1,0 +1,80 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "relating to medicine",
+        "examples": [
+            {
+                "code": "medical_example_he-went-to-medical-school",
+                "text": "He went to medical school."
+            },
+            {
+                "code": "medical_example_she-is-a-medical-doctor",
+                "text": "She is a medical doctor."
+            },
+            {
+                "code": "medical_example_she-needs-medical-treatment",
+                "text": "She needs medical treatment."
+            },
+            {
+                "code": "medical_example_we-asked-for-medical-advice",
+                "text": "We asked for medical advice."
+            },
+            {
+                "code": "medical_example_the-medical-procedure-took-three-hours",
+                "text": "The medical procedure took three hours."
+            },
+            {
+                "code": "medical_example_there-has-been-a-medical-breakthrough",
+                "text": "There has been a medical breakthrough."
+            },
+            {
+                "code": "medical_example_he-is-having-medical-problems",
+                "text": "He is having medical problems."
+            },
+            {
+                "code": "medical_example_the-medical-establishment-does-not-agree-with-the-recent-findings",
+                "text": "The medical establishment does not agree with the recent findings."
+            },
+            {
+                "code": "medical_example_we-have-a-medical-appointment-tomorrow",
+                "text": "We have a medical appointment tomorrow."
+            },
+            {
+                "code": "medical_example_our-medical-costs-are-too-high",
+                "text": "Our medical costs are too high."
+            },
+            {
+                "code": "medical_example_can-i-see-his-medical-chart",
+                "text": "Can I see his medical chart?"
+            },
+            {
+                "code": "medical_example_he-studies-medical-science",
+                "text": "He studies medical science."
+            },
+            {
+                "code": "medical_example_medical-terminology-is-sometimes-confusing",
+                "text": "Medical terminology is sometimes confusing."
+            },
+            {
+                "code": "medical_example_what-s-his-medical-condition",
+                "text": "What's his medical condition?"
+            },
+            {
+                "code": "medical_example_i-entered-the-medical-facility",
+                "text": "I entered the medical facility."
+            },
+            {
+                "code": "medical_example_there-was-a-medical-emergency",
+                "text": "There was a medical emergency."
+            },
+            {
+                "code": "medical_example_she-s-on-medical-leave",
+                "text": "She's on medical leave."
+            },
+            {
+                "code": "medical_example_do-you-know-this-medical-term",
+                "text": "Do you know this medical term?"
+            }
+        ]
+    }
+]

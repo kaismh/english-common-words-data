@@ -1,0 +1,74 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "not bent or curved; honest and truthful",
+        "examples": [
+            {
+                "code": "straight_example_the-line-looks-straight",
+                "text": "The line looks straight."
+            },
+            {
+                "code": "straight_example_keep-your-back-straight",
+                "text": "Keep your back straight."
+            },
+            {
+                "code": "straight_example_hold-the-rope-straight",
+                "text": "Hold the rope straight."
+            },
+            {
+                "code": "straight_example_please-be-straight-with-me-and-give-me-an-honest-answer",
+                "text": "Please be straight with me and give me an honest answer."
+            },
+            {
+                "code": "straight_example_her-teeth-are-now-perfectly-straight",
+                "text": "Her teeth are now perfectly straight."
+            },
+            {
+                "code": "straight_example_her-hair-is-naturally-straight",
+                "text": "Her hair is naturally straight."
+            },
+            {
+                "code": "straight_example_i-m-going-to-be-absolutely-straight-with-you",
+                "text": "I'm going to be absolutely straight with you."
+            },
+            {
+                "code": "straight_example_please-be-totally-straight-with-me",
+                "text": "Please be totally straight with me."
+            },
+            {
+                "code": "straight_example_he-has-a-straight-back",
+                "text": "He has a straight back."
+            },
+            {
+                "code": "straight_example_please-give-me-a-straight-answer",
+                "text": "Please give me a straight answer."
+            },
+            {
+                "code": "straight_example_she-made-straight-cuts-in-the-paper",
+                "text": "She made straight cuts in the paper."
+            },
+            {
+                "code": "straight_example_she-has-beautiful-straight-hair",
+                "text": "She has beautiful straight hair."
+            }
+        ]
+    },
+    {
+        "type": "(adv)",
+        "mean": "in a vertical position; directly",
+        "examples": [
+            {
+                "code": "straight_example_try-to-aim-straight-for-the-target",
+                "text": "Try to aim straight for the target."
+            },
+            {
+                "code": "straight_example_my-mother-always-told-me-to-stand-up-straight",
+                "text": "My mother always told me to stand up straight."
+            },
+            {
+                "code": "straight_example_he-had-so-much-to-drink-he-couldn-t-walk-straight",
+                "text": "He had so much to drink, he couldn't walk straight."
+            }
+        ]
+    }
+]

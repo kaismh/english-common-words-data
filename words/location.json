@@ -1,0 +1,44 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a particular place or position",
+        "examples": [
+            {
+                "code": "location_example_do-you-know-his-exact-location",
+                "text": "Do you know his exact location?"
+            },
+            {
+                "code": "location_example_he-met-his-client-in-a-secret-location",
+                "text": "He met his client in a secret location."
+            },
+            {
+                "code": "location_example_let-s-meet-at-a-convenient-location-for-both-of-us",
+                "text": "Let's meet at a convenient location for both of us."
+            },
+            {
+                "code": "location_example_they-filmed-the-movie-at-an-exotic-location",
+                "text": "They filmed the movie at an exotic location."
+            },
+            {
+                "code": "location_example_please-show-me-the-precise-location-on-the-map",
+                "text": "Please show me the precise location on the map."
+            },
+            {
+                "code": "location_example_he-couldn-t-find-the-exact-location-on-the-map",
+                "text": "He couldn't find the exact location on the map."
+            },
+            {
+                "code": "location_example_we-selected-two-possible-locations-for-our-vacation",
+                "text": "We selected two possible locations for our vacation."
+            },
+            {
+                "code": "location_example_i-will-meet-you-tomorrow-at-the-same-location",
+                "text": "I will meet you tomorrow at the same location."
+            },
+            {
+                "code": "location_example_the-documentary-is-being-filmed-on-location-in-mexico",
+                "text": "The documentary is being filmed on location in Mexico."
+            }
+        ]
+    }
+]

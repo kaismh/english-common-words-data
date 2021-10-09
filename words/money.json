@@ -1,0 +1,136 @@
+[
+    {
+        "type": "(n)",
+        "mean": "currency; coins or paper bills used for buying things",
+        "examples": [
+            {
+                "code": "money_example_they-refunded-my-money-for-the-broken-item",
+                "text": "They refunded my money for the broken item."
+            },
+            {
+                "code": "money_example_i-bet-money-on-the-game",
+                "text": "I bet money on the game."
+            },
+            {
+                "code": "money_example_he-comes-from-money",
+                "text": "He comes from money."
+            },
+            {
+                "code": "money_example_the-money-went-to-pay-her-medical-bills",
+                "text": "The money went to pay her medical bills."
+            },
+            {
+                "code": "money_example_i-counted-the-money-in-the-cash-register",
+                "text": "I counted the money in the cash register."
+            },
+            {
+                "code": "money_example_he-got-caught-embezzling-money-from-the-company",
+                "text": "He got caught embezzling money from the company."
+            },
+            {
+                "code": "money_example_i-need-to-pay-him-money-for-the-bike",
+                "text": "I need to pay him money for the bike."
+            },
+            {
+                "code": "money_example_he-earns-a-lot-of-money",
+                "text": "He earns a lot of money."
+            },
+            {
+                "code": "money_example_she-is-collecting-money-to-buy-a-gift-for-the-teacher",
+                "text": "She is collecting money to buy a gift for the teacher."
+            },
+            {
+                "code": "money_example_he-invested-his-money-in-the-stock-market",
+                "text": "He invested his money in the stock market."
+            },
+            {
+                "code": "money_example_i-spent-all-my-money-on-gambling",
+                "text": "I spent all my money on gambling."
+            },
+            {
+                "code": "money_example_we-need-to-exchange-money",
+                "text": "We need to exchange money."
+            },
+            {
+                "code": "money_example_this-doesn-t-cost-much-money",
+                "text": "This doesn't cost much money."
+            },
+            {
+                "code": "money_example_i-owe-him-money",
+                "text": "I owe him money."
+            },
+            {
+                "code": "money_example_i-received-some-money-from-her-parents",
+                "text": "I received some money from her parents."
+            },
+            {
+                "code": "money_example_we-are-saving-money-for-a-new-house",
+                "text": "We are saving money for a new house."
+            },
+            {
+                "code": "money_example_i-ve-been-having-money-problems",
+                "text": "I've been having money problems."
+            },
+            {
+                "code": "money_example_i-paid-with-a-money-order",
+                "text": "I paid with a money order."
+            },
+            {
+                "code": "money_example_she-was-arrested-for-money-laundering",
+                "text": "She was arrested for money laundering."
+            },
+            {
+                "code": "money_example_he-is-not-good-at-money-management",
+                "text": "He is not good at money management."
+            },
+            {
+                "code": "money_example_i-received-grant-money-from-school",
+                "text": "I received grant money from school."
+            },
+            {
+                "code": "money_example_how-can-i-make-some-easy-money",
+                "text": "How can I make some easy money?"
+            },
+            {
+                "code": "money_example_the-kidnappers-are-demanding-ransom-money",
+                "text": "The kidnappers are demanding ransom money."
+            },
+            {
+                "code": "money_example_she-won-prize-money",
+                "text": "She won prize money."
+            },
+            {
+                "code": "money_example_this-city-was-built-with-oil-money",
+                "text": "This city was built with oil money."
+            },
+            {
+                "code": "money_example_the-company-president-took-bribe-money",
+                "text": "The company president took bribe money."
+            },
+            {
+                "code": "money_example_this-money-is-dirty",
+                "text": "This money is dirty."
+            },
+            {
+                "code": "money_example_i-lost-my-rent-money",
+                "text": "I lost my rent money."
+            },
+            {
+                "code": "money_example_we-discovered-it-was-fake-money",
+                "text": "We discovered it was fake money."
+            },
+            {
+                "code": "money_example_i-need-retirement-money",
+                "text": "I need retirement money."
+            },
+            {
+                "code": "money_example_i-need-money-for-groceries",
+                "text": "I need money for groceries."
+            },
+            {
+                "code": "money_example_he-will-do-crazy-things-for-money",
+                "text": "He will do crazy things for money."
+            }
+        ]
+    }
+]

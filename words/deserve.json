@@ -1,0 +1,44 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to be worthy of",
+        "examples": [
+            {
+                "code": "deserve_example_the-workers-definitely-deserve-a-break",
+                "text": "The workers definitely deserve a break."
+            },
+            {
+                "code": "deserve_example_our-dogs-hardly-deserve-treats",
+                "text": "Our dogs hardly deserve treats."
+            },
+            {
+                "code": "deserve_example_you-deserve-a-raise-for-your-work",
+                "text": "You deserve a raise for your work."
+            },
+            {
+                "code": "deserve_example_i-deserve-an-answer",
+                "text": "I deserve an answer."
+            },
+            {
+                "code": "deserve_example_you-don-t-deserve-that",
+                "text": "You don't deserve that."
+            },
+            {
+                "code": "deserve_example_you-deserve-everything-you-get",
+                "text": "You deserve everything you get."
+            },
+            {
+                "code": "deserve_example_nobody-deserves-this-more-than-you",
+                "text": "Nobody deserves this more than you."
+            },
+            {
+                "code": "deserve_example_who-deserves-such-a-punishment",
+                "text": "Who deserves such a punishment?"
+            },
+            {
+                "code": "deserve_example_those-criminals-deserve-worse",
+                "text": "Those criminals deserve worse."
+            }
+        ]
+    }
+]

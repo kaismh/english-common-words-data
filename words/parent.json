@@ -1,0 +1,48 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a mother or father",
+        "examples": [
+            {
+                "code": "parent_example_it-is-important-to-listen-to-your-parents",
+                "text": "It is important to listen to your parents."
+            },
+            {
+                "code": "parent_example_we-became-parents-in-1989",
+                "text": "We became parents in 1989."
+            },
+            {
+                "code": "parent_example_this-year-they-became-new-parents",
+                "text": "This year they became new parents."
+            },
+            {
+                "code": "parent_example_he-s-a-divorced-parent-of-two-children",
+                "text": "He's a divorced parent of two children."
+            },
+            {
+                "code": "parent_example_she-is-an-abusive-parent",
+                "text": "She is an abusive parent."
+            },
+            {
+                "code": "parent_example_her-biological-parents-live-in-romania",
+                "text": "Her biological parents live in Romania."
+            },
+            {
+                "code": "parent_example_it-is-very-difficult-to-be-a-single-parent",
+                "text": "It is very difficult to be a single parent."
+            },
+            {
+                "code": "parent_example_i-only-have-one-surviving-parent-now",
+                "text": "I only have one surviving parent now."
+            },
+            {
+                "code": "parent_example_they-are-the-proud-parents-of-twins",
+                "text": "They are the proud parents of twins."
+            },
+            {
+                "code": "parent_example_he-is-lucky-to-have-very-supportive-parents",
+                "text": "He is lucky to have very supportive parents."
+            }
+        ]
+    }
+]

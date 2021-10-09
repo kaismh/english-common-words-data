@@ -1,0 +1,60 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "not nice; very bad; unpleasant",
+        "examples": [
+            {
+                "code": "nasty_example_the-weather-is-starting-to-turn-nasty",
+                "text": "The weather is starting to turn nasty."
+            },
+            {
+                "code": "nasty_example_he-sounds-like-a-nasty-person",
+                "text": "He sounds like a nasty person."
+            },
+            {
+                "code": "nasty_example_this-chicken-soup-tastes-nasty",
+                "text": "This chicken soup tastes nasty."
+            },
+            {
+                "code": "nasty_example_what-a-nasty-person",
+                "text": "What a nasty person."
+            },
+            {
+                "code": "nasty_example_my-friend-is-going-through-a-nasty-divorce",
+                "text": "My friend is going through a nasty divorce."
+            },
+            {
+                "code": "nasty_example_smoking-is-a-nasty-habit",
+                "text": "Smoking is a nasty habit."
+            },
+            {
+                "code": "nasty_example_i-have-had-some-nasty-side-effects-from-the-medication",
+                "text": "I have had some nasty side effects from the medication."
+            },
+            {
+                "code": "nasty_example_there-was-a-nasty-accident-on-the-freeway",
+                "text": "There was a nasty accident on the freeway."
+            },
+            {
+                "code": "nasty_example_she-has-a-nasty-cold",
+                "text": "She has a nasty cold."
+            },
+            {
+                "code": "nasty_example_i-heard-a-nasty-rumor-about-them",
+                "text": "I heard a nasty rumor about them."
+            },
+            {
+                "code": "nasty_example_the-weather-is-really-nasty-today",
+                "text": "The weather is really nasty today."
+            },
+            {
+                "code": "nasty_example_i-have-a-nasty-scar-from-the-accident",
+                "text": "I have a nasty scar from the accident."
+            },
+            {
+                "code": "nasty_example_she-is-really-nasty-to-her-kids",
+                "text": "She is really nasty to her kids."
+            }
+        ]
+    }
+]

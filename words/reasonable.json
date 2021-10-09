@@ -1,0 +1,56 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "making sense; practical; not too expensive",
+        "examples": [
+            {
+                "code": "reasonable_example_his-explanation-doesn-t-sound-reasonable",
+                "text": "His explanation doesn't sound reasonable."
+            },
+            {
+                "code": "reasonable_example_the-place-looks-reasonable",
+                "text": "The place looks reasonable."
+            },
+            {
+                "code": "reasonable_example_is-there-a-reasonable-explanation-for-this",
+                "text": "Is there a reasonable explanation for this?"
+            },
+            {
+                "code": "reasonable_example_he-gave-us-a-reasonable-price",
+                "text": "He gave us a reasonable price."
+            },
+            {
+                "code": "reasonable_example_the-car-is-in-reasonable-condition",
+                "text": "The car is in reasonable condition."
+            },
+            {
+                "code": "reasonable_example_we-have-reasonable-cause-to-search-your-house",
+                "text": "We have reasonable cause to search your house."
+            },
+            {
+                "code": "reasonable_example_this-house-is-a-reasonable-size",
+                "text": "This house is a reasonable size."
+            },
+            {
+                "code": "reasonable_example_she-made-a-number-of-reasonable-arguments",
+                "text": "She made a number of reasonable arguments."
+            },
+            {
+                "code": "reasonable_example_this-is-not-a-reasonable-hour",
+                "text": "This is not a reasonable hour."
+            },
+            {
+                "code": "reasonable_example_her-excuse-for-not-going-is-very-reasonable",
+                "text": "Her excuse for not going is very reasonable."
+            },
+            {
+                "code": "reasonable_example_the-cost-of-the-hotel-room-is-extremely-reasonable",
+                "text": "The cost of the hotel room is extremely reasonable."
+            },
+            {
+                "code": "reasonable_example_his-wishes-sounded-reasonable-enough",
+                "text": "His wishes sounded reasonable enough."
+            }
+        ]
+    }
+]

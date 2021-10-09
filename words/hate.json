@@ -1,0 +1,70 @@
+[
+    {
+        "type": "(n)",
+        "mean": "strong feeling of dislike",
+        "examples": [
+            {
+                "code": "hate_example_she-could-hear-the-absolute-hate-in-his-voice",
+                "text": "She could hear the absolute hate in his voice."
+            },
+            {
+                "code": "hate_example_he-was-filled-with-hate-as-he-talked-to-her",
+                "text": "He was filled with hate as he talked to her."
+            },
+            {
+                "code": "hate_example_she-was-the-victim-of-a-hate-crime",
+                "text": "She was the victim of a hate crime."
+            },
+            {
+                "code": "hate_example_he-receives-a-lot-of-hate-mail",
+                "text": "He receives a lot of hate mail."
+            },
+            {
+                "code": "hate_example_his-opponent-started-a-hate-campaign-against-him",
+                "text": "His opponent started a hate campaign against him."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to strongly dislike someone or something",
+        "examples": [
+            {
+                "code": "hate_example_he-particularly-hates-mushrooms",
+                "text": "He particularly hates mushrooms."
+            },
+            {
+                "code": "hate_example_i-always-hate-cleaning-the-bathroom",
+                "text": "I always hate cleaning the bathroom."
+            },
+            {
+                "code": "hate_example_she-still-hates-her-ex-husband",
+                "text": "She still hates her ex-husband."
+            },
+            {
+                "code": "hate_example_i-almost-hate-you-right-now",
+                "text": "I almost hate you right now."
+            },
+            {
+                "code": "hate_example_he-began-to-hate-his-job",
+                "text": "He began to hate his job."
+            },
+            {
+                "code": "hate_example_he-really-hated-her-for-pointing-out-he-was-wrong",
+                "text": "He really hated her for pointing out he was wrong."
+            },
+            {
+                "code": "hate_example_he-hates-the-fact-that-i-was-right",
+                "text": "He hates the fact that I was right."
+            },
+            {
+                "code": "hate_example_she-really-hates-that-nickname",
+                "text": "She really hates that nickname."
+            },
+            {
+                "code": "hate_example_they-hate-violence",
+                "text": "They hate violence."
+            }
+        ]
+    }
+]

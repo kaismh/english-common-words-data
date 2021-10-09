@@ -1,0 +1,32 @@
+[
+    {
+        "type": "(n)",
+        "mean": "an advertisement; a notice shown to the public in a newspaper, magazine, television, radio or internet to sell a product or make an announcement",
+        "examples": [
+            {
+                "code": "ad_example_we-should-put-out-a-classified-ad",
+                "text": "We should put out a classified ad."
+            },
+            {
+                "code": "ad_example_we-should-place-an-ad-in-the-local-newspaper",
+                "text": "We should place an ad in the local newspaper."
+            },
+            {
+                "code": "ad_example_she-answered-our-ad-looking-for-a-housekeeper",
+                "text": "She answered our ad looking for a housekeeper."
+            },
+            {
+                "code": "ad_example_the-ad-appeared-on-television",
+                "text": "The ad appeared on television."
+            },
+            {
+                "code": "ad_example_i-work-for-an-ad-agency",
+                "text": "I work for an ad agency."
+            },
+            {
+                "code": "ad_example_did-you-like-the-ad-campaign",
+                "text": "Did you like the ad campaign?"
+            }
+        ]
+    }
+]

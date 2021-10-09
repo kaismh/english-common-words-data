@@ -1,0 +1,36 @@
+[
+    {
+        "type": "(n)",
+        "mean": "someone who takes parts in a game or sport; someone who makes music with an instrument; a machine that recreates sounds or images",
+        "examples": [
+            {
+                "code": "player_example_she-is-an-accomplished-piano-player",
+                "text": "She is an accomplished piano player."
+            },
+            {
+                "code": "player_example_he-is-a-great-soccer-player",
+                "text": "He is a great soccer player."
+            },
+            {
+                "code": "player_example_the-star-player-was-injured-during-the-game",
+                "text": "The star player was injured during the game."
+            },
+            {
+                "code": "player_example_he-is-a-professional-baseball-player",
+                "text": "He is a professional baseball player."
+            },
+            {
+                "code": "player_example_she-has-to-perform-better-than-the-average-player",
+                "text": "She has to perform better than the average player."
+            },
+            {
+                "code": "player_example_the-team-signed-a-well-known-player",
+                "text": "The team signed a well-known player."
+            },
+            {
+                "code": "player_example_he-s-a-star-player-on-their-team",
+                "text": "He's a star player on their team."
+            }
+        ]
+    }
+]

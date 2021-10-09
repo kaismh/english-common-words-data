@@ -1,0 +1,110 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a plan on how money will be spent",
+        "examples": [
+            {
+                "code": "budget_example_our-family-lives-on-a-fixed-budget",
+                "text": "Our family lives on a fixed budget."
+            },
+            {
+                "code": "budget_example_the-business-has-a-large-budget",
+                "text": "The business has a large budget."
+            },
+            {
+                "code": "budget_example_we-re-planning-the-annual-budget",
+                "text": "We're planning the annual budget."
+            },
+            {
+                "code": "budget_example_how-much-is-the-entire-budget",
+                "text": "How much is the entire budget?"
+            },
+            {
+                "code": "budget_example_most-of-our-personal-budget-goes-toward-rent",
+                "text": "Most of our personal budget goes toward rent."
+            },
+            {
+                "code": "budget_example_taxes-pay-for-the-government-budget",
+                "text": "Taxes pay for the government budget."
+            },
+            {
+                "code": "budget_example_let-s-plan-our-budget",
+                "text": "Let's plan our budget."
+            },
+            {
+                "code": "budget_example_they-have-a-large-budget-for-the-project",
+                "text": "They have a large budget for the project."
+            },
+            {
+                "code": "budget_example_we-are-going-to-present-our-budget-ideas",
+                "text": "We are going to present our budget ideas."
+            },
+            {
+                "code": "budget_example_they-need-to-balance-the-budget",
+                "text": "They need to balance the budget."
+            },
+            {
+                "code": "budget_example_she-went-over-the-budget",
+                "text": "She went over the budget."
+            },
+            {
+                "code": "budget_example_my-boss-has-reduced-our-budget",
+                "text": "My boss has reduced our budget."
+            },
+            {
+                "code": "budget_example_we-can-t-fit-a-new-car-into-the-budget",
+                "text": "We can't fit a new car into the budget."
+            },
+            {
+                "code": "budget_example_we-have-a-budget-surplus",
+                "text": "We have a budget surplus."
+            },
+            {
+                "code": "budget_example_i-lost-my-job-because-of-budget-cuts",
+                "text": "I lost my job because of budget cuts."
+            },
+            {
+                "code": "budget_example_this-is-the-new-budget-proposal",
+                "text": "This is the new budget proposal."
+            },
+            {
+                "code": "budget_example_the-project-is-over-budget",
+                "text": "The project is over budget."
+            },
+            {
+                "code": "budget_example_is-this-in-the-budget",
+                "text": "Is this in the budget?"
+            },
+            {
+                "code": "budget_example_we-re-on-a-tight-budget",
+                "text": "We're on a tight budget."
+            },
+            {
+                "code": "budget_example_we-re-working-on-the-budget-for-next-year",
+                "text": "We're working on the budget for next year."
+            },
+            {
+                "code": "budget_example_we-have-a-budget-of-1-million-to-complete-the-project",
+                "text": "We have a budget of $1 million to complete the project."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to create a plan on how money will be spent",
+        "examples": [
+            {
+                "code": "budget_example_we-have-carefully-budgeted-for-a-new-house",
+                "text": "We have carefully budgeted for a new house."
+            },
+            {
+                "code": "budget_example_you-need-to-budget-sensibly",
+                "text": "You need to budget sensibly."
+            },
+            {
+                "code": "budget_example_we-have-budgeted-for-a-new-building",
+                "text": "We have budgeted for a new building."
+            }
+        ]
+    }
+]

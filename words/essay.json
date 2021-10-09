@@ -1,0 +1,72 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a short piece of writing about a specific subject",
+        "examples": [
+            {
+                "code": "essay_example_our-class-is-reading-a-famous-essay-by-mark-twain",
+                "text": "Our class is reading a famous essay by Mark Twain."
+            },
+            {
+                "code": "essay_example_he-is-writing-an-essay-on-abraham-lincoln",
+                "text": "He is writing an essay on Abraham Lincoln."
+            },
+            {
+                "code": "essay_example_she-barely-finished-her-essay-in-time",
+                "text": "She barely finished her essay in time."
+            },
+            {
+                "code": "essay_example_they-turned-in-their-essays-at-the-beginning-of-class",
+                "text": "They turned in their essays at the beginning of class."
+            },
+            {
+                "code": "essay_example_she-submitted-her-essay-to-a-popular-magazine",
+                "text": "She submitted her essay to a popular magazine."
+            },
+            {
+                "code": "essay_example_the-teacher-collected-the-essays-at-the-end-of-class",
+                "text": "The teacher collected the essays at the end of class."
+            },
+            {
+                "code": "essay_example_this-essay-addresses-the-causes-of-the-economic-crisis",
+                "text": "This essay addresses the causes of the economic crisis."
+            },
+            {
+                "code": "essay_example_this-essay-provides-an-overview-of-the-presidential-election-process",
+                "text": "This essay provides an overview of the presidential election process."
+            },
+            {
+                "code": "essay_example_his-essay-argues-for-increased-bilingual-education",
+                "text": "His essay argues for increased bilingual education."
+            },
+            {
+                "code": "essay_example_the-teacher-assigned-three-essay-questions-for-the-take-home-exam",
+                "text": "The teacher assigned three essay questions for the take-home exam."
+            },
+            {
+                "code": "essay_example_the-final-is-an-essay-exam",
+                "text": "The final is an essay exam."
+            },
+            {
+                "code": "essay_example_she-will-submit-her-work-into-an-essay-contest",
+                "text": "She will submit her work into an essay contest."
+            },
+            {
+                "code": "essay_example_she-received-a-collection-of-famous-essays-for-her-birthday",
+                "text": "She received a collection of famous essays for her birthday."
+            },
+            {
+                "code": "essay_example_the-assignment-is-an-essay-on-current-events",
+                "text": "The assignment is an essay on current events."
+            },
+            {
+                "code": "essay_example_she-made-a-lot-of-errors-in-her-essay",
+                "text": "She made a lot of errors in her essay."
+            },
+            {
+                "code": "essay_example_i-am-reading-an-essay-by-benjamin-franklin",
+                "text": "I am reading an essay by Benjamin Franklin."
+            }
+        ]
+    }
+]

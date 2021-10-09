@@ -1,0 +1,56 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the relationship between production, trade and finance; a careful use of money and resources",
+        "examples": [
+            {
+                "code": "economy_example_our-country-has-a-strong-economy",
+                "text": "Our country has a strong economy."
+            },
+            {
+                "code": "economy_example_people-can-t-find-jobs-in-this-bad-economy",
+                "text": "People can't find jobs in this bad economy."
+            },
+            {
+                "code": "economy_example_the-global-economy-is-growing",
+                "text": "The global economy is growing."
+            },
+            {
+                "code": "economy_example_new-businesses-may-struggle-in-a-competitive-economy",
+                "text": "New businesses may struggle in a competitive economy."
+            },
+            {
+                "code": "economy_example_every-year-cars-have-better-fuel-economy",
+                "text": "Every year, cars have better fuel economy."
+            },
+            {
+                "code": "economy_example_new-industries-will-help-build-the-economy",
+                "text": "New industries will help build the economy."
+            },
+            {
+                "code": "economy_example_bad-weather-could-threaten-the-local-economy",
+                "text": "Bad weather could threaten the local economy."
+            },
+            {
+                "code": "economy_example_tourism-drives-the-country-s-economy",
+                "text": "Tourism drives the country's economy."
+            },
+            {
+                "code": "economy_example_the-local-economy-is-performing-poorly",
+                "text": "The local economy is performing poorly."
+            },
+            {
+                "code": "economy_example_this-economy-developed-very-quickly",
+                "text": "This economy developed very quickly."
+            },
+            {
+                "code": "economy_example_the-government-has-to-make-careful-decisions-or-the-economy-will-collapse",
+                "text": "The government has to make careful decisions or the economy will collapse."
+            },
+            {
+                "code": "economy_example_the-local-economy-is-based-on-building-cars",
+                "text": "The local economy is based on building cars."
+            }
+        ]
+    }
+]

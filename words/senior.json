@@ -1,0 +1,78 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "older in age; higher in rank or status",
+        "examples": [
+            {
+                "code": "senior_example_he-is-a-senior-officer-in-our-company",
+                "text": "He is a senior officer in our company."
+            },
+            {
+                "code": "senior_example_we-will-send-our-book-to-the-senior-editor",
+                "text": "We will send our book to the senior editor."
+            },
+            {
+                "code": "senior_example_the-senior-policeman-helped-us",
+                "text": "The senior policeman helped us."
+            },
+            {
+                "code": "senior_example_i-am-now-in-senior-high-school",
+                "text": "I am now in senior high school."
+            },
+            {
+                "code": "senior_example_he-is-a-senior-advisor-to-the-president",
+                "text": "He is a senior advisor to the president."
+            },
+            {
+                "code": "senior_example_we-are-meeting-with-the-senior-commander",
+                "text": "We are meeting with the senior commander."
+            },
+            {
+                "code": "senior_example_senior-citizens-get-first-priority",
+                "text": "Senior citizens get first priority."
+            },
+            {
+                "code": "senior_example_the-problem-has-reached-senior-level",
+                "text": "The problem has reached senior level."
+            },
+            {
+                "code": "senior_example_he-is-a-senior-citizen",
+                "text": "He is a senior citizen."
+            },
+            {
+                "code": "senior_example_he-is-senior-to-her",
+                "text": "He is senior to her."
+            }
+        ]
+    },
+    {
+        "type": "(n)",
+        "mean": "a student in the fourth year of high school or college; an elderly person; someone older or higher in rank",
+        "examples": [
+            {
+                "code": "senior_example_my-son-is-a-college-senior",
+                "text": "My son is a college senior."
+            },
+            {
+                "code": "senior_example_he-attends-college-as-a-senior",
+                "text": "He attends college as a senior."
+            },
+            {
+                "code": "senior_example_as-her-senior-she-was-able-to-tell-people-what-to-do",
+                "text": "As her senior, she was able to tell people what to do."
+            },
+            {
+                "code": "senior_example_there-are-many-discounts-for-seniors",
+                "text": "There are many discounts for seniors."
+            },
+            {
+                "code": "senior_example_my-parents-live-in-an-apartment-for-seniors",
+                "text": "My parents live in an apartment for seniors."
+            },
+            {
+                "code": "senior_example_he-seems-to-communicate-well-with-seniors",
+                "text": "He seems to communicate well with seniors."
+            }
+        ]
+    }
+]

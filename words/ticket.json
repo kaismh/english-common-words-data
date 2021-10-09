@@ -1,0 +1,76 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a piece of paper showing you paid for travel or an event; a written order to pay money for breaking the law",
+        "examples": [
+            {
+                "code": "ticket_example_he-bought-a-one-way-ticket-to-hawaii",
+                "text": "He bought a one-way ticket to Hawaii."
+            },
+            {
+                "code": "ticket_example_the-ticket-is-non-refundable",
+                "text": "The ticket is non-refundable."
+            },
+            {
+                "code": "ticket_example_she-received-free-tickets-to-the-movies",
+                "text": "She received free tickets to the movies."
+            },
+            {
+                "code": "ticket_example_she-has-front-row-tickets-to-the-concert",
+                "text": "She has front-row tickets to the concert."
+            },
+            {
+                "code": "ticket_example_he-received-a-parking-ticket",
+                "text": "He received a parking ticket."
+            },
+            {
+                "code": "ticket_example_he-must-buy-four-tickets-for-his-family",
+                "text": "He must buy four tickets for his family."
+            },
+            {
+                "code": "ticket_example_please-show-your-tickets-to-the-usher",
+                "text": "Please show your tickets to the usher."
+            },
+            {
+                "code": "ticket_example_she-reserved-her-tickets-online",
+                "text": "She reserved her tickets online."
+            },
+            {
+                "code": "ticket_example_tickets-are-needed-to-enter-the-game",
+                "text": "Tickets are needed to enter the game."
+            },
+            {
+                "code": "ticket_example_he-gave-his-friend-movie-tickets-as-a-birthday-gift",
+                "text": "He gave his friend movie tickets as a birthday gift."
+            },
+            {
+                "code": "ticket_example_he-got-a-traffic-ticket",
+                "text": "He got a traffic ticket."
+            },
+            {
+                "code": "ticket_example_the-tickets-cost-a-lot-of-money",
+                "text": "The tickets cost a lot of money."
+            },
+            {
+                "code": "ticket_example_we-stood-in-line-at-the-ticket-counter",
+                "text": "We stood in line at the ticket counter."
+            },
+            {
+                "code": "ticket_example_they-told-us-to-go-to-the-ticket-agency",
+                "text": "They told us to go to the ticket agency."
+            },
+            {
+                "code": "ticket_example_they-raised-the-ticket-prices",
+                "text": "They raised the ticket prices."
+            },
+            {
+                "code": "ticket_example_i-have-an-extra-ticket-to-the-game",
+                "text": "I have an extra ticket to the game."
+            },
+            {
+                "code": "ticket_example_he-received-a-ticket-for-reckless-driving",
+                "text": "He received a ticket for reckless driving."
+            }
+        ]
+    }
+]

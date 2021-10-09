@@ -1,0 +1,36 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a specific part or feature of something",
+        "examples": [
+            {
+                "code": "aspect_example_studying-is-an-important-aspect-of-school",
+                "text": "Studying is an important aspect of school."
+            },
+            {
+                "code": "aspect_example_an-attractive-aspect-of-this-apartment-is-the-view",
+                "text": "An attractive aspect of this apartment is the view."
+            },
+            {
+                "code": "aspect_example_this-is-the-controversial-aspect-of-the-story",
+                "text": "This is the controversial aspect of the story."
+            },
+            {
+                "code": "aspect_example_we-re-studying-the-environmental-aspects-of-this-issue",
+                "text": "We're studying the environmental aspects of this issue."
+            },
+            {
+                "code": "aspect_example_this-problem-has-several-aspects",
+                "text": "This problem has several aspects."
+            },
+            {
+                "code": "aspect_example_we-need-to-address-all-aspects",
+                "text": "We need to address all aspects."
+            },
+            {
+                "code": "aspect_example_we-cannot-ignore-this-aspect",
+                "text": "We cannot ignore this aspect."
+            }
+        ]
+    }
+]

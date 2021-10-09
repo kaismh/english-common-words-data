@@ -1,0 +1,56 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to make something work; to work a machine or device; to manage a business; to medically repair a person's body by opening it up",
+        "examples": [
+            {
+                "code": "operate_example_he-is-continuing-to-operate-his-business-while-under-investigation",
+                "text": "He is continuing to operate his business while under investigation."
+            },
+            {
+                "code": "operate_example_the-surgeon-operated-on-him-already",
+                "text": "The surgeon operated on him already."
+            },
+            {
+                "code": "operate_example_he-operated-the-vehicle-himself",
+                "text": "He operated the vehicle himself."
+            },
+            {
+                "code": "operate_example_i-know-how-to-operate-the-machinery",
+                "text": "I know how to operate the machinery."
+            },
+            {
+                "code": "operate_example_the-system-operates-fine",
+                "text": "The system operates fine."
+            },
+            {
+                "code": "operate_example_we-successfully-operate-the-business-together",
+                "text": "We successfully operate the business together."
+            },
+            {
+                "code": "operate_example_the-device-operates-electrically",
+                "text": "The device operates electrically."
+            },
+            {
+                "code": "operate_example_we-operated-the-machine-manually",
+                "text": "We operated the machine manually."
+            },
+            {
+                "code": "operate_example_the-store-operates-under-a-new-name",
+                "text": "The store operates under a new name."
+            },
+            {
+                "code": "operate_example_we-are-operating-with-a-small-budget",
+                "text": "We are operating with a small budget."
+            },
+            {
+                "code": "operate_example_the-doctor-operated-on-the-patient",
+                "text": "The doctor operated on the patient."
+            },
+            {
+                "code": "operate_example_i-operated-within-the-law",
+                "text": "I operated within the law."
+            }
+        ]
+    }
+]

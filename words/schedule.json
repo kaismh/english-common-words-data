@@ -1,0 +1,82 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a plan when things will be done",
+        "examples": [
+            {
+                "code": "schedule_example_we-revised-our-daily-schedule-at-work",
+                "text": "We revised our daily schedule at work."
+            },
+            {
+                "code": "schedule_example_the-class-took-a-look-at-the-course-schedule",
+                "text": "The class took a look at the course schedule."
+            },
+            {
+                "code": "schedule_example_i-have-such-a-busy-schedule",
+                "text": "I have such a busy schedule."
+            },
+            {
+                "code": "schedule_example_my-schedule-is-flexible",
+                "text": "My schedule is flexible."
+            },
+            {
+                "code": "schedule_example_connor-checked-the-bus-schedule-for-the-afternoon",
+                "text": "Connor checked the bus schedule for the afternoon."
+            },
+            {
+                "code": "schedule_example_she-has-a-very-full-schedule",
+                "text": "She has a very full schedule."
+            },
+            {
+                "code": "schedule_example_we-need-to-design-a-schedule-of-activities-for-the-summer",
+                "text": "We need to design a schedule of activities for the summer."
+            },
+            {
+                "code": "schedule_example_john-keeps-a-tight-schedule",
+                "text": "John keeps a tight schedule."
+            },
+            {
+                "code": "schedule_example_let-me-check-my-schedule",
+                "text": "Let me check my schedule."
+            },
+            {
+                "code": "schedule_example_everything-is-going-according-to-schedule",
+                "text": "Everything is going according to schedule."
+            },
+            {
+                "code": "schedule_example_we-are-five-days-behind-schedule",
+                "text": "We are five days behind schedule."
+            },
+            {
+                "code": "schedule_example_please-allow-time-in-your-busy-schedule-for-lunch",
+                "text": "Please allow time in your busy schedule for lunch."
+            },
+            {
+                "code": "schedule_example_the-other-team-is-right-on-schedule",
+                "text": "The other team is right on schedule."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to plan something at a certain time",
+        "examples": [
+            {
+                "code": "schedule_example_her-appointments-are-currently-scheduled-for-mondays",
+                "text": "Her appointments are currently scheduled for Mondays."
+            },
+            {
+                "code": "schedule_example_the-weekly-meeting-was-originally-scheduled-on-mondays",
+                "text": "The weekly meeting was originally scheduled on Mondays."
+            },
+            {
+                "code": "schedule_example_her-dentist-appointment-is-scheduled-for-next-week",
+                "text": "Her dentist appointment is scheduled for next week."
+            },
+            {
+                "code": "schedule_example_she-scheduled-the-appointment-for-next-thursday",
+                "text": "She scheduled the appointment for next Thursday."
+            }
+        ]
+    }
+]

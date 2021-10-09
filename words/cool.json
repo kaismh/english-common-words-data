@@ -1,0 +1,86 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to make colder",
+        "examples": [
+            {
+                "code": "cool_example_the-water-needs-to-cool-a-little",
+                "text": "The water needs to cool a little."
+            },
+            {
+                "code": "cool_example_the-evening-cools-quickly",
+                "text": "The evening cools quickly."
+            },
+            {
+                "code": "cool_example_the-soup-cools-slowly",
+                "text": "The soup cools slowly."
+            },
+            {
+                "code": "cool_example_wait-until-it-completely-cools",
+                "text": "Wait until it completely cools."
+            }
+        ]
+    },
+    {
+        "type": "(adj)",
+        "mean": "not cold or hot; calm; interesting",
+        "examples": [
+            {
+                "code": "cool_example_the-weather-is-cool-today",
+                "text": "The weather is cool today."
+            },
+            {
+                "code": "cool_example_the-night-will-become-cool",
+                "text": "The night will become cool."
+            },
+            {
+                "code": "cool_example_you-can-keep-cool-under-the-tree",
+                "text": "You can keep cool under the tree."
+            },
+            {
+                "code": "cool_example_he-is-cool",
+                "text": "He is cool."
+            },
+            {
+                "code": "cool_example_winters-in-canada-are-very-cool",
+                "text": "Winters in Canada are very cool."
+            },
+            {
+                "code": "cool_example_the-house-is-a-little-cool",
+                "text": "The house is a little cool."
+            },
+            {
+                "code": "cool_example_the-park-was-pleasantly-cool",
+                "text": "The park was pleasantly cool."
+            },
+            {
+                "code": "cool_example_i-found-it-surprisingly-cool",
+                "text": "I found it surprisingly cool."
+            },
+            {
+                "code": "cool_example_your-sister-is-so-cool",
+                "text": "Your sister is so cool."
+            },
+            {
+                "code": "cool_example_he-was-completely-cool-about-what-happened",
+                "text": "He was completely cool about what happened."
+            },
+            {
+                "code": "cool_example_he-is-a-cool-kid",
+                "text": "He is a cool kid."
+            },
+            {
+                "code": "cool_example_there-was-a-cool-breeze",
+                "text": "There was a cool breeze."
+            },
+            {
+                "code": "cool_example_we-re-having-a-cool-summer",
+                "text": "We're having a cool summer."
+            },
+            {
+                "code": "cool_example_that-is-a-cool-look-on-you",
+                "text": "That is a cool look on you."
+            }
+        ]
+    }
+]

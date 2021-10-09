@@ -1,0 +1,60 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a machine that moves people or things up and down between different levels of a building",
+        "examples": [
+            {
+                "code": "elevator_example_the-view-from-the-glass-elevator-was-impressive",
+                "text": "The view from the glass elevator was impressive."
+            },
+            {
+                "code": "elevator_example_the-hotel-elevator-was-crowded",
+                "text": "The hotel elevator was crowded."
+            },
+            {
+                "code": "elevator_example_the-office-tower-has-an-express-elevator",
+                "text": "The office tower has an express elevator."
+            },
+            {
+                "code": "elevator_example_they-moved-large-furniture-in-the-freight-elevator",
+                "text": "They moved large furniture in the freight elevator."
+            },
+            {
+                "code": "elevator_example_he-rode-the-elevator-to-the-top-floor",
+                "text": "He rode the elevator to the top floor."
+            },
+            {
+                "code": "elevator_example_he-boarded-the-elevator-on-the-ground-floor",
+                "text": "He boarded the elevator on the ground floor."
+            },
+            {
+                "code": "elevator_example_push-the-button-to-call-the-elevator",
+                "text": "Push the button to call the elevator."
+            },
+            {
+                "code": "elevator_example_the-elevator-went-up-quickly",
+                "text": "The elevator went up quickly."
+            },
+            {
+                "code": "elevator_example_the-elevator-stopped-on-the-ground-floor",
+                "text": "The elevator stopped on the ground floor."
+            },
+            {
+                "code": "elevator_example_the-elevator-doors-won-t-close-if-you-stand-too-close",
+                "text": "The elevator doors won't close if you stand too close."
+            },
+            {
+                "code": "elevator_example_elevator-music-makes-me-sleepy",
+                "text": "Elevator music makes me sleepy."
+            },
+            {
+                "code": "elevator_example_push-the-elevator-button-to-close-the-door",
+                "text": "Push the elevator button to close the door."
+            },
+            {
+                "code": "elevator_example_the-thieves-climbed-up-the-elevator-shaft",
+                "text": "The thieves climbed up the elevator shaft."
+            }
+        ]
+    }
+]

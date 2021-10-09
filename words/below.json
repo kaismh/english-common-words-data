@@ -1,0 +1,42 @@
+[
+    {
+        "type": "(adv)",
+        "mean": "at a lower level or place",
+        "examples": [
+            {
+                "code": "below_example_he-slipped-on-the-trail-and-fell-on-the-rocks-below",
+                "text": "He slipped on the trail and fell on the rocks below."
+            },
+            {
+                "code": "below_example_we-looked-in-the-water-and-saw-sea-animals-below",
+                "text": "We looked in the water and saw sea animals below."
+            }
+        ]
+    },
+    {
+        "type": "(adv)",
+        "mean": "at a lower level or place; less than something in amount or size",
+        "examples": [
+            {
+                "code": "below_example_they-live-in-the-apartment-below-ours",
+                "text": "They live in the apartment below ours."
+            },
+            {
+                "code": "below_example_the-temperature-is-below-average-today",
+                "text": "The temperature is below average today."
+            },
+            {
+                "code": "below_example_she-gets-paid-below-minimum-wage",
+                "text": "She gets paid below minimum wage."
+            },
+            {
+                "code": "below_example_the-kids-were-looking-for-fish-below-the-water",
+                "text": "The kids were looking for fish below the water."
+            },
+            {
+                "code": "below_example_he-was-hiding-below-the-dock",
+                "text": "He was hiding below the dock."
+            }
+        ]
+    }
+]

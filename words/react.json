@@ -1,0 +1,36 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to act in a particular way when something happens",
+        "examples": [
+            {
+                "code": "react_example_he-reacted-slowly-to-the-situation",
+                "text": "He reacted slowly to the situation."
+            },
+            {
+                "code": "react_example_they-did-not-react-rationally-to-the-announcement",
+                "text": "They did not react rationally to the announcement."
+            },
+            {
+                "code": "react_example_i-reacted-instinctively-when-the-fire-started",
+                "text": "I reacted instinctively when the fire started."
+            },
+            {
+                "code": "react_example_people-react-differently-in-certain-situations",
+                "text": "People react differently in certain situations."
+            },
+            {
+                "code": "react_example_they-reacted-against-the-decision",
+                "text": "They reacted against the decision."
+            },
+            {
+                "code": "react_example_the-city-reacted-with-violence",
+                "text": "The city reacted with violence."
+            },
+            {
+                "code": "react_example_she-reacted-by-slapping-him",
+                "text": "She reacted by slapping him."
+            }
+        ]
+    }
+]

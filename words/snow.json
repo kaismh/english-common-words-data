@@ -1,0 +1,110 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to fall from the sky as snow",
+        "examples": [
+            {
+                "code": "snow_example_it-s-been-snowing-heavily-all-day",
+                "text": "It's been snowing heavily all day."
+            },
+            {
+                "code": "snow_example_it-looks-like-it-s-beginning-to-snow-outside",
+                "text": "It looks like it's beginning to snow outside."
+            },
+            {
+                "code": "snow_example_the-kids-were-happy-to-see-that-it-snowed-overnight",
+                "text": "The kids were happy to see that it snowed overnight."
+            },
+            {
+                "code": "snow_example_it-began-snowing-last-night",
+                "text": "It began snowing last night."
+            }
+        ]
+    },
+    {
+        "type": "(n)",
+        "mean": "small white flakes of frozen water that fall from the sky in very cold weather",
+        "examples": [
+            {
+                "code": "snow_example_the-trees-were-covered-in-thick-snow",
+                "text": "The trees were covered in thick snow."
+            },
+            {
+                "code": "snow_example_it-s-really-hard-to-walk-on-frozen-snow",
+                "text": "It's really hard to walk on frozen snow."
+            },
+            {
+                "code": "snow_example_the-children-were-playing-in-the-melting-snow",
+                "text": "The children were playing in the melting snow."
+            },
+            {
+                "code": "snow_example_we-celebrated-the-first-snow-of-the-winter",
+                "text": "We celebrated the first snow of the winter."
+            },
+            {
+                "code": "snow_example_the-ski-resort-had-to-use-artificial-snow-for-skiing",
+                "text": "The ski resort had to use artificial snow for skiing."
+            },
+            {
+                "code": "snow_example_our-cars-were-completely-covered-in-snow",
+                "text": "Our cars were completely covered in snow."
+            },
+            {
+                "code": "snow_example_i-told-my-son-to-shovel-the-snow",
+                "text": "I told my son to shovel the snow."
+            },
+            {
+                "code": "snow_example_all-the-snow-started-to-melt-when-the-sun-came-out",
+                "text": "All the snow started to melt when the sun came out."
+            },
+            {
+                "code": "snow_example_we-are-expecting-snow-tomorrow",
+                "text": "We are expecting snow tomorrow."
+            },
+            {
+                "code": "snow_example_southern-california-never-gets-snow",
+                "text": "Southern California never gets snow."
+            },
+            {
+                "code": "snow_example_i-walked-through-the-snow-in-the-mountain",
+                "text": "I walked through the snow in the mountain."
+            },
+            {
+                "code": "snow_example_the-snow-is-coming-down-hard",
+                "text": "The snow is coming down hard."
+            },
+            {
+                "code": "snow_example_we-ve-had-snow-flurries-all-day",
+                "text": "We've had snow flurries all day."
+            },
+            {
+                "code": "snow_example_the-snow-conditions-were-excellent-for-skiing",
+                "text": "The snow conditions were excellent for skiing."
+            },
+            {
+                "code": "snow_example_he-used-a-snow-shovel-to-clear-the-way",
+                "text": "He used a snow shovel to clear the way."
+            },
+            {
+                "code": "snow_example_you-need-snow-chains-to-go-up-the-mountain",
+                "text": "You need snow chains to go up the mountain."
+            },
+            {
+                "code": "snow_example_we-walked-across-the-snow-to-their-house",
+                "text": "We walked across the snow to their house."
+            },
+            {
+                "code": "snow_example_the-children-love-playing-in-the-snow",
+                "text": "The children love playing in the snow."
+            },
+            {
+                "code": "snow_example_we-hiked-through-the-heavy-snow",
+                "text": "We hiked through the heavy snow."
+            },
+            {
+                "code": "snow_example_our-cars-were-buried-under-the-snow",
+                "text": "Our cars were buried under the snow."
+            }
+        ]
+    }
+]

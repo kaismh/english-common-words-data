@@ -1,0 +1,28 @@
+[
+    {
+        "type": "(n)",
+        "mean": "something you throw away",
+        "examples": [
+            {
+                "code": "trash_example_please-take-out-the-trash",
+                "text": "Please take out the trash."
+            },
+            {
+                "code": "trash_example_the-garbage-man-collected-the-trash-this-morning",
+                "text": "The garbage man collected the trash this morning."
+            },
+            {
+                "code": "trash_example_the-trash-can-is-full",
+                "text": "The trash can is full."
+            },
+            {
+                "code": "trash_example_he-put-all-of-the-garbage-in-trash-bags",
+                "text": "He put all of the garbage in trash bags."
+            },
+            {
+                "code": "trash_example_we-put-the-trash-into-recyclable-bags",
+                "text": "We put the trash into recyclable bags."
+            }
+        ]
+    }
+]

@@ -1,0 +1,110 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the act of touching someone; the act of communicating with someone; someone who can be helpful",
+        "examples": [
+            {
+                "code": "contact_example_the-two-people-are-in-close-contact",
+                "text": "The two people are in close contact."
+            },
+            {
+                "code": "contact_example_we-have-constant-contact-with-our-daughter",
+                "text": "We have constant contact with our daughter."
+            },
+            {
+                "code": "contact_example_she-has-not-had-direct-contact-with-him",
+                "text": "She has not had direct contact with him."
+            },
+            {
+                "code": "contact_example_i-miss-having-face-to-face-contact",
+                "text": "I miss having face-to-face contact."
+            },
+            {
+                "code": "contact_example_i-prefer-email-contact",
+                "text": "I prefer email contact."
+            },
+            {
+                "code": "contact_example_he-made-physical-contact-with-her",
+                "text": "He made physical contact with her."
+            },
+            {
+                "code": "contact_example_she-is-a-good-contact",
+                "text": "She is a good contact."
+            },
+            {
+                "code": "contact_example_do-you-have-a-business-contact",
+                "text": "Do you have a business contact?"
+            },
+            {
+                "code": "contact_example_i-will-be-in-contact-with-you-next-week",
+                "text": "I will be in contact with you next week."
+            },
+            {
+                "code": "contact_example_they-will-come-into-contact-with-the-boss-soon",
+                "text": "They will come into contact with the boss soon."
+            },
+            {
+                "code": "contact_example_let-s-keep-in-contact",
+                "text": "Let's keep in contact."
+            },
+            {
+                "code": "contact_example_we-lost-contact-over-time",
+                "text": "We lost contact over time."
+            },
+            {
+                "code": "contact_example_try-to-avoid-contact-with-water",
+                "text": "Try to avoid contact with water."
+            },
+            {
+                "code": "contact_example_do-you-have-any-business-contacts",
+                "text": "Do you have any business contacts?"
+            },
+            {
+                "code": "contact_example_did-you-make-any-contacts-before-you-quit-your-job",
+                "text": "Did you make any contacts before you quit your job?"
+            },
+            {
+                "code": "contact_example_please-provide-us-a-list-of-your-professional-contacts",
+                "text": "Please provide us a list of your professional contacts."
+            },
+            {
+                "code": "contact_example_she-used-her-contacts-to-find-this-job",
+                "text": "She used her contacts to find this job."
+            },
+            {
+                "code": "contact_example_there-has-been-contact-between-them",
+                "text": "There has been contact between them."
+            },
+            {
+                "code": "contact_example_they-were-in-contact-with-each-other",
+                "text": "They were in contact with each other."
+            },
+            {
+                "code": "contact_example_it-will-dissolve-on-contact-with-water",
+                "text": "It will dissolve on contact with water."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to communicate with someone",
+        "examples": [
+            {
+                "code": "contact_example_please-contact-me-immediately",
+                "text": "Please contact me immediately!"
+            },
+            {
+                "code": "contact_example_you-can-contact-her-directly",
+                "text": "You can contact her directly."
+            },
+            {
+                "code": "contact_example_try-to-contact-him-by-email",
+                "text": "Try to contact him by email."
+            },
+            {
+                "code": "contact_example_contact-the-police",
+                "text": "Contact the police."
+            }
+        ]
+    }
+]

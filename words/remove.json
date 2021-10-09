@@ -1,0 +1,84 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to take away from a place; to cut out; to pull out",
+        "examples": [
+            {
+                "code": "remove_example_the-doctor-successfully-removed-the-tumor",
+                "text": "The doctor successfully removed the tumor."
+            },
+            {
+                "code": "remove_example_she-removed-the-old-paint-from-the-furniture-easily",
+                "text": "She removed the old paint from the furniture easily."
+            },
+            {
+                "code": "remove_example_the-bartender-physically-removed-the-drunk-customer-from-the-bar",
+                "text": "The bartender physically removed the drunk customer from the bar."
+            },
+            {
+                "code": "remove_example_the-politician-was-permanently-removed-from-office",
+                "text": "The politician was permanently removed from office."
+            },
+            {
+                "code": "remove_example_the-city-is-working-to-remove-the-graffiti-from-the-walls-completely",
+                "text": "The city is working to remove the graffiti from the walls completely."
+            },
+            {
+                "code": "remove_example_they-quickly-removed-their-shoes",
+                "text": "They quickly removed their shoes."
+            },
+            {
+                "code": "remove_example_the-teacher-removed-the-student-from-class",
+                "text": "The teacher removed the student from class."
+            },
+            {
+                "code": "remove_example_i-removed-it-with-tweezers",
+                "text": "I removed it with tweezers."
+            },
+            {
+                "code": "remove_example_please-remove-your-shoes-before-entering",
+                "text": "Please remove your shoes before entering."
+            },
+            {
+                "code": "remove_example_she-removed-her-clothes-in-the-bathroom",
+                "text": "She removed her clothes in the bathroom."
+            },
+            {
+                "code": "remove_example_the-man-removed-his-helmet",
+                "text": "The man removed his helmet."
+            },
+            {
+                "code": "remove_example_she-removed-the-cover-from-the-box",
+                "text": "She removed the cover from the box."
+            },
+            {
+                "code": "remove_example_we-have-to-remove-the-old-paint-first",
+                "text": "We have to remove the old paint first."
+            },
+            {
+                "code": "remove_example_don-t-forget-to-remove-the-tags-from-your-dress",
+                "text": "Don't forget to remove the tags from your dress."
+            },
+            {
+                "code": "remove_example_i-have-to-get-my-appendix-removed",
+                "text": "I have to get my appendix removed."
+            },
+            {
+                "code": "remove_example_she-removes-her-makeup-each-night",
+                "text": "She removes her makeup each night."
+            },
+            {
+                "code": "remove_example_he-removed-his-hood",
+                "text": "He removed his hood."
+            },
+            {
+                "code": "remove_example_the-doctor-removed-the-bullet",
+                "text": "The doctor removed the bullet."
+            },
+            {
+                "code": "remove_example_i-removed-the-wrapper-from-the-candy",
+                "text": "I removed the wrapper from the candy."
+            }
+        ]
+    }
+]

@@ -1,0 +1,70 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a building or counter where food or drinks are served",
+        "examples": [
+            {
+                "code": "bar_example_we-are-drinking-at-a-crowded-bar",
+                "text": "We are drinking at a crowded bar."
+            },
+            {
+                "code": "bar_example_there-are-many-choices-at-the-juice-bar",
+                "text": "There are many choices at the juice bar."
+            },
+            {
+                "code": "bar_example_this-is-our-favorite-bar",
+                "text": "This is our favorite bar."
+            },
+            {
+                "code": "bar_example_there-will-be-an-open-bar-at-the-wedding",
+                "text": "There will be an open bar at the wedding."
+            },
+            {
+                "code": "bar_example_we-had-to-sit-on-bar-stools",
+                "text": "We had to sit on bar stools."
+            },
+            {
+                "code": "bar_example_they-only-serve-bar-food-at-this-time",
+                "text": "They only serve bar food at this time."
+            },
+            {
+                "code": "bar_example_where-is-the-bar-manager",
+                "text": "Where is the bar manager?"
+            },
+            {
+                "code": "bar_example_minors-are-not-allowed-in-the-bar-area",
+                "text": "Minors are not allowed in the bar area."
+            },
+            {
+                "code": "bar_example_we-met-at-a-local-bar",
+                "text": "We met at a local bar."
+            },
+            {
+                "code": "bar_example_there-weren-t-many-customers-in-the-bar",
+                "text": "There weren't many customers in the bar."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to block someone or something from entering",
+        "examples": [
+            {
+                "code": "bar_example_they-effectively-barred-the-protestors-from-entering-the-building",
+                "text": "They effectively barred the protestors from entering the building."
+            },
+            {
+                "code": "bar_example_she-legally-barred-her-ex-husband-from-seeing-their-children",
+                "text": "She legally barred her ex-husband from seeing their children."
+            },
+            {
+                "code": "bar_example_they-permanently-barred-trespassers-from-entering-through-the-private-road",
+                "text": "They permanently barred trespassers from entering through the private road."
+            },
+            {
+                "code": "bar_example_she-was-barred-from-entering-her-former-workplace",
+                "text": "She was barred from entering her former workplace."
+            }
+        ]
+    }
+]

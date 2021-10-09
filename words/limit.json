@@ -1,0 +1,110 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a point where one cannot go beyond",
+        "examples": [
+            {
+                "code": "limit_example_three-cups-of-coffee-is-my-daily-limit",
+                "text": "Three cups of coffee is my daily limit."
+            },
+            {
+                "code": "limit_example_i-really-want-the-car-but-this-is-my-absolute-limit",
+                "text": "I really want the car, but this is my absolute limit."
+            },
+            {
+                "code": "limit_example_he-had-to-finish-the-project-within-a-strict-time-limit",
+                "text": "He had to finish the project within a strict time limit."
+            },
+            {
+                "code": "limit_example_is-there-a-weight-limit-on-this-amusement-park-ride",
+                "text": "Is there a weight limit on this amusement park ride?"
+            },
+            {
+                "code": "limit_example_i-don-t-want-to-go-over-my-credit-limit",
+                "text": "I don't want to go over my credit limit."
+            },
+            {
+                "code": "limit_example_we-need-to-establish-clear-limits-with-our-children",
+                "text": "We need to establish clear limits with our children."
+            },
+            {
+                "code": "limit_example_the-new-policy-has-its-limits",
+                "text": "The new policy has its limits."
+            },
+            {
+                "code": "limit_example_there-are-limits-to-what-can-be-done",
+                "text": "There are limits to what can be done."
+            },
+            {
+                "code": "limit_example_we-had-to-follow-the-strict-limits-defined-by-the-teacher",
+                "text": "We had to follow the strict limits defined by the teacher."
+            },
+            {
+                "code": "limit_example_they-recognized-the-limits-of-their-plan",
+                "text": "They recognized the limits of their plan."
+            },
+            {
+                "code": "limit_example_he-got-a-ticket-for-breaking-the-speed-limit",
+                "text": "He got a ticket for breaking the speed limit."
+            },
+            {
+                "code": "limit_example_they-pushed-the-limits-of-the-equipment",
+                "text": "They pushed the limits of the equipment."
+            },
+            {
+                "code": "limit_example_she-drove-10-miles-above-the-speed-limit",
+                "text": "She drove 10 miles above the speed limit."
+            },
+            {
+                "code": "limit_example_this-area-is-off-limits-to-children",
+                "text": "This area is off limits to children."
+            },
+            {
+                "code": "limit_example_he-was-arrested-within-the-city-limits",
+                "text": "He was arrested within the city limits."
+            },
+            {
+                "code": "limit_example_there-is-a-limit-on-the-number-of-tickets-you-can-buy",
+                "text": "There is a limit on the number of tickets you can buy."
+            },
+            {
+                "code": "limit_example_there-is-a-limit-to-how-much-we-can-help",
+                "text": "There is a limit to how much we can help."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to set a point where one cannot go beyond",
+        "examples": [
+            {
+                "code": "limit_example_the-restrictions-drastically-limit-our-creativity",
+                "text": "The restrictions drastically limit our creativity."
+            },
+            {
+                "code": "limit_example_we-are-hoping-new-regulations-will-effectively-limit-fraud",
+                "text": "We are hoping new regulations will effectively limit fraud."
+            },
+            {
+                "code": "limit_example_he-agreed-to-limit-the-usage-of-his-cell-phone",
+                "text": "He agreed to limit the usage of his cell phone."
+            },
+            {
+                "code": "limit_example_they-are-trying-to-limit-oil-drilling-in-their-city",
+                "text": "They are trying to limit oil drilling in their city."
+            },
+            {
+                "code": "limit_example_bad-company-morale-tends-to-limit-productivity",
+                "text": "Bad company morale tends to limit productivity."
+            },
+            {
+                "code": "limit_example_he-refuses-to-limit-himself-as-an-athlete",
+                "text": "He refuses to limit himself as an athlete."
+            },
+            {
+                "code": "limit_example_don-t-place-a-limit-to-what-you-can-do",
+                "text": "Don't place a limit to what you can do."
+            }
+        ]
+    }
+]

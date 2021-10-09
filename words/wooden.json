@@ -1,0 +1,24 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "made of the hard material that tree trunks and branches are made of; showing no facial expression or emotion",
+        "examples": [
+            {
+                "code": "wooden_example_they-filled-up-wooden-barrels-with-water",
+                "text": "They filled up wooden barrels with water."
+            },
+            {
+                "code": "wooden_example_a-mouse-was-running-across-the-wooden-beam-on-the-ceiling",
+                "text": "A mouse was running across the wooden beam on the ceiling."
+            },
+            {
+                "code": "wooden_example_he-built-a-wooden-bench",
+                "text": "He built a wooden bench."
+            },
+            {
+                "code": "wooden_example_the-pirate-has-a-wooden-leg",
+                "text": "The pirate has a wooden leg."
+            }
+        ]
+    }
+]

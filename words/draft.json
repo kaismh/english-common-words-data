@@ -1,0 +1,62 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a piece of writing that is not the final version; a flow of cool air",
+        "examples": [
+            {
+                "code": "draft_example_the-early-draft-is-due-tomorrow",
+                "text": "The early draft is due tomorrow."
+            },
+            {
+                "code": "draft_example_there-is-a-cold-draft-coming-from-the-window",
+                "text": "There is a cold draft coming from the window."
+            },
+            {
+                "code": "draft_example_he-will-write-a-draft-of-the-screenplay",
+                "text": "He will write a draft of the screenplay."
+            },
+            {
+                "code": "draft_example_when-will-you-complete-the-final-draft",
+                "text": "When will you complete the final draft?"
+            },
+            {
+                "code": "draft_example_they-will-send-him-the-rough-draft",
+                "text": "They will send him the rough draft."
+            },
+            {
+                "code": "draft_example_the-editor-will-issue-the-final-draft",
+                "text": "The editor will issue the final draft."
+            },
+            {
+                "code": "draft_example_they-blocked-the-draft-coming-from-the-door",
+                "text": "They blocked the draft coming from the door."
+            },
+            {
+                "code": "draft_example_it-is-not-in-the-draft-agreement",
+                "text": "It is not in the draft agreement."
+            },
+            {
+                "code": "draft_example_can-you-put-the-changes-in-the-final-draft",
+                "text": "Can you put the changes in the final draft?"
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to write a rough or early version",
+        "examples": [
+            {
+                "code": "draft_example_the-business-contract-was-carefully-drafted-by-the-company-s-attorney",
+                "text": "The business contract was carefully drafted by the company's attorney."
+            },
+            {
+                "code": "draft_example_the-report-was-poorly-drafted",
+                "text": "The report was poorly drafted."
+            },
+            {
+                "code": "draft_example_he-drafted-the-contract",
+                "text": "He drafted the contract."
+            }
+        ]
+    }
+]

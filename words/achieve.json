@@ -1,0 +1,36 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to succeed in reaching a goal or accomplishment",
+        "examples": [
+            {
+                "code": "achieve_example_he-failed-to-achieve-the-success-he-desired",
+                "text": "He failed to achieve the success he desired."
+            },
+            {
+                "code": "achieve_example_the-scientists-achieved-a-breakthrough-in-their-research",
+                "text": "The scientists achieved a breakthrough in their research."
+            },
+            {
+                "code": "achieve_example_he-achieved-his-dream-of-climbing-mount-everest",
+                "text": "He achieved his dream of climbing Mount Everest."
+            },
+            {
+                "code": "achieve_example_she-will-not-stop-until-she-achieves-perfection",
+                "text": "She will not stop until she achieves perfection."
+            },
+            {
+                "code": "achieve_example_she-never-achieved-her-dreams",
+                "text": "She never achieved her dreams."
+            },
+            {
+                "code": "achieve_example_she-rarely-achieved-what-she-wants",
+                "text": "She rarely achieved what she wants."
+            },
+            {
+                "code": "achieve_example_he-often-achieves-his-goals",
+                "text": "He often achieves his goals."
+            }
+        ]
+    }
+]

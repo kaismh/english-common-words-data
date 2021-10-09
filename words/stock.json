@@ -1,0 +1,74 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a supply of something that is available for sale or use; a financial share in an investment of a company",
+        "examples": [
+            {
+                "code": "stock_example_they-carry-a-large-stock-of-computer-software",
+                "text": "They carry a large stock of computer software."
+            },
+            {
+                "code": "stock_example_the-fish-market-had-a-fresh-stock-of-seafood",
+                "text": "The fish market had a fresh stock of seafood."
+            },
+            {
+                "code": "stock_example_he-invested-in-domestic-stocks",
+                "text": "He invested in domestic stocks."
+            },
+            {
+                "code": "stock_example_the-store-carries-a-huge-stock-of-camping-gear",
+                "text": "The store carries a huge stock of camping gear."
+            },
+            {
+                "code": "stock_example_we-purchased-stocks-in-a-technology-company",
+                "text": "We purchased stocks in a technology company."
+            },
+            {
+                "code": "stock_example_she-had-to-sell-her-stocks",
+                "text": "She had to sell her stocks."
+            },
+            {
+                "code": "stock_example_the-stocks-are-valued-at-50000",
+                "text": "The stocks are valued at $50,000."
+            },
+            {
+                "code": "stock_example_our-financial-stocks-dropped-by-20-percent-this-year",
+                "text": "Our financial stocks dropped by 20 percent this year."
+            },
+            {
+                "code": "stock_example_he-is-busy-tracking-his-stocks",
+                "text": "He is busy tracking his stocks."
+            },
+            {
+                "code": "stock_example_have-you-been-checking-the-stock-market",
+                "text": "Have you been checking the stock market."
+            },
+            {
+                "code": "stock_example_the-new-job-included-a-stock-option",
+                "text": "The new job included a stock option."
+            },
+            {
+                "code": "stock_example_the-camera-i-want-is-out-of-stock",
+                "text": "The camera I want is out of stock."
+            },
+            {
+                "code": "stock_example_she-has-about-25000-in-stocks",
+                "text": "She has about $25,000 in stocks."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to keep a supply of something that will be available for sale or use",
+        "examples": [
+            {
+                "code": "stock_example_he-fully-stocks-the-refrigerator-with-healthy-foods",
+                "text": "He fully stocks the refrigerator with healthy foods."
+            },
+            {
+                "code": "stock_example_she-stocked-her-pantry-with-canned-foods",
+                "text": "She stocked her pantry with canned foods."
+            }
+        ]
+    }
+]

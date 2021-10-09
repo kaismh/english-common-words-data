@@ -1,0 +1,44 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a child or young person",
+        "examples": [
+            {
+                "code": "kid_example_she-treated-him-like-a-little-kid",
+                "text": "She treated him like a little kid."
+            },
+            {
+                "code": "kid_example_he-likes-to-play-with-older-kids",
+                "text": "He likes to play with older kids."
+            },
+            {
+                "code": "kid_example_she-was-a-normal-kid",
+                "text": "She was a normal kid."
+            },
+            {
+                "code": "kid_example_there-are-many-poor-kids-who-need-help",
+                "text": "There are many poor kids who need help."
+            },
+            {
+                "code": "kid_example_they-have-three-kids",
+                "text": "They have three kids."
+            },
+            {
+                "code": "kid_example_she-offered-to-take-care-of-my-kids",
+                "text": "She offered to take care of my kids."
+            },
+            {
+                "code": "kid_example_we-need-to-teach-our-kids-about-fire-safety",
+                "text": "We need to teach our kids about fire safety."
+            },
+            {
+                "code": "kid_example_parents-need-to-protect-their-kids",
+                "text": "Parents need to protect their kids."
+            },
+            {
+                "code": "kid_example_that-s-my-kid-brother",
+                "text": "That's my kid brother."
+            }
+        ]
+    }
+]

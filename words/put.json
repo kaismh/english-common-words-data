@@ -1,0 +1,92 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to move or place something in a particular position; to say something",
+        "examples": [
+            {
+                "code": "put_example_they-put-the-blame-on-him",
+                "text": "They put the blame on him."
+            },
+            {
+                "code": "put_example_we-put-an-ad-in-the-newspaper",
+                "text": "We put an ad in the newspaper."
+            },
+            {
+                "code": "put_example_the-witch-put-a-spell-on-her",
+                "text": "The witch put a spell on her."
+            },
+            {
+                "code": "put_example_you-need-to-put-your-foot-down",
+                "text": "You need to put your foot down."
+            },
+            {
+                "code": "put_example_i-put-my-ring-on-before-i-left",
+                "text": "I put my ring on before I left."
+            },
+            {
+                "code": "put_example_just-put-your-signature-here",
+                "text": "Just put your signature here."
+            },
+            {
+                "code": "put_example_he-puts-a-lot-of-energy-into-his-work",
+                "text": "He puts a lot of energy into his work."
+            },
+            {
+                "code": "put_example_she-puts-too-much-pressure-on-her-son",
+                "text": "She puts too much pressure on her son."
+            },
+            {
+                "code": "put_example_he-put-a-dent-in-my-car",
+                "text": "He put a dent in my car."
+            },
+            {
+                "code": "put_example_she-put-an-end-to-the-bullying",
+                "text": "She put an end to the bullying."
+            },
+            {
+                "code": "put_example_i-put-my-trust-in-you",
+                "text": "I put my trust in you."
+            },
+            {
+                "code": "put_example_she-put-on-weight",
+                "text": "She put on weight."
+            },
+            {
+                "code": "put_example_put-a-stamp-on-the-envelope-before-you-mail-it",
+                "text": "Put a stamp on the envelope before you mail it."
+            },
+            {
+                "code": "put_example_we-need-to-put-a-limit-on-television-time",
+                "text": "We need to put a limit on television time."
+            },
+            {
+                "code": "put_example_we-put-a-lot-of-money-into-fixing-our-house",
+                "text": "We put a lot of money into fixing our house."
+            },
+            {
+                "code": "put_example_his-response-was-well-put",
+                "text": "His response was well put."
+            },
+            {
+                "code": "put_example_to-put-it-bluntly-i-think-we-should-leave",
+                "text": "To put it bluntly, I think we should leave."
+            },
+            {
+                "code": "put_example_please-put-away-your-toys",
+                "text": "Please put away your toys."
+            },
+            {
+                "code": "put_example_we-put-together-a-proposal",
+                "text": "We put together a proposal."
+            },
+            {
+                "code": "put_example_i-put-the-dishes-into-the-sink",
+                "text": "I put the dishes into the sink."
+            },
+            {
+                "code": "put_example_he-put-his-hat-on-his-head",
+                "text": "He put his hat on his head."
+            }
+        ]
+    }
+]

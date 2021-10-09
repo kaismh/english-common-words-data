@@ -1,0 +1,74 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to have or use something with others",
+        "examples": [
+            {
+                "code": "share_example_we-shared-the-money-equally",
+                "text": "We shared the money equally."
+            },
+            {
+                "code": "share_example_reference-material-is-shared-freely-among-the-students",
+                "text": "Reference material is shared freely among the students."
+            },
+            {
+                "code": "share_example_the-information-cannot-be-fully-shared-with-everyone",
+                "text": "The information cannot be fully shared with everyone."
+            },
+            {
+                "code": "share_example_they-want-to-share-their-experience-with-others",
+                "text": "They want to share their experience with others."
+            },
+            {
+                "code": "share_example_the-waiters-have-to-share-their-tips-with-other-staff-members",
+                "text": "The waiters have to share their tips with other staff members."
+            },
+            {
+                "code": "share_example_house-work-is-shared-between-the-roommates",
+                "text": "House work is shared between the roommates."
+            },
+            {
+                "code": "share_example_he-has-to-share-his-toys-with-his-younger-brother",
+                "text": "He has to share his toys with his younger brother."
+            },
+            {
+                "code": "share_example_they-share-an-apartment",
+                "text": "They share an apartment."
+            },
+            {
+                "code": "share_example_they-share-the-same-opinion",
+                "text": "They share the same opinion."
+            },
+            {
+                "code": "share_example_he-shared-the-information-with-them",
+                "text": "He shared the information with them."
+            }
+        ]
+    },
+    {
+        "type": "(n)",
+        "mean": "a part of something that has been divided and given to others",
+        "examples": [
+            {
+                "code": "share_example_she-received-a-higher-share-of-the-profits",
+                "text": "She received a higher share of the profits."
+            },
+            {
+                "code": "share_example_he-is-becoming-upset-with-his-increasing-share-of-work",
+                "text": "He is becoming upset with his increasing share of work."
+            },
+            {
+                "code": "share_example_he-will-receive-a-large-share-of-the-profits",
+                "text": "He will receive a large share of the profits."
+            },
+            {
+                "code": "share_example_he-never-does-his-share-of-the-work",
+                "text": "He never does his share of the work."
+            },
+            {
+                "code": "share_example_she-increased-her-share-of-the-earnings",
+                "text": "She increased her share of the earnings."
+            }
+        ]
+    }
+]

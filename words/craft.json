@@ -1,0 +1,34 @@
+[
+    {
+        "type": "(n)",
+        "mean": "skill using the hands",
+        "examples": [
+            {
+                "code": "craft_example_basket-making-is-a-skilled-craft",
+                "text": "Basket making is a skilled craft."
+            },
+            {
+                "code": "craft_example_we-practice-our-craft-every-day",
+                "text": "We practice our craft every day."
+            },
+            {
+                "code": "craft_example_are-you-going-to-the-craft-fair",
+                "text": "Are you going to the craft fair?"
+            },
+            {
+                "code": "craft_example_we-have-to-complete-the-craft-project",
+                "text": "We have to complete the craft project."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to make something using your hands and special skills",
+        "examples": [
+            {
+                "code": "craft_example_he-will-craft-a-toy-out-of-milk-cartons",
+                "text": "He will craft a toy out of milk cartons."
+            }
+        ]
+    }
+]

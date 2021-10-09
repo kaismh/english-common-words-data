@@ -1,0 +1,64 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to keep someone or something safe; to guard from harm or injury",
+        "examples": [
+            {
+                "code": "protect_example_these-shoes-are-designed-to-protect-you-from-the-cold",
+                "text": "These shoes are designed to protect you from the cold."
+            },
+            {
+                "code": "protect_example_i-tried-to-protect-him",
+                "text": "I tried to protect him."
+            },
+            {
+                "code": "protect_example_i-will-fight-to-protect-my-family",
+                "text": "I will fight to protect my family."
+            },
+            {
+                "code": "protect_example_sunscreen-is-supposed-to-protect-your-skin",
+                "text": "Sunscreen is supposed to protect your skin."
+            },
+            {
+                "code": "protect_example_she-felt-she-had-to-protect-her-family",
+                "text": "She felt she had to protect her family."
+            },
+            {
+                "code": "protect_example_we-need-to-protect-our-interests",
+                "text": "We need to protect our interests."
+            },
+            {
+                "code": "protect_example_the-tablecloth-will-protect-the-paint-on-the-table",
+                "text": "The tablecloth will protect the paint on the table."
+            },
+            {
+                "code": "protect_example_this-is-protected-by-law",
+                "text": "This is protected by law."
+            },
+            {
+                "code": "protect_example_i-will-always-protect-my-family",
+                "text": "I will always protect my family."
+            },
+            {
+                "code": "protect_example_large-hats-and-gloves-completely-protect-your-skin-from-the-sun",
+                "text": "Large hats and gloves completely protect your skin from the sun."
+            },
+            {
+                "code": "protect_example_was-the-witness-protected-properly",
+                "text": "Was the witness protected properly?"
+            },
+            {
+                "code": "protect_example_i-will-protect-you-from-him",
+                "text": "I will protect you from him."
+            },
+            {
+                "code": "protect_example_umbrellas-protect-people-against-the-rain",
+                "text": "Umbrellas protect people against the rain."
+            },
+            {
+                "code": "protect_example_he-protected-me-with-his-umbrella",
+                "text": "He protected me with his umbrella."
+            }
+        ]
+    }
+]

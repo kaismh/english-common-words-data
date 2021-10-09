@@ -1,0 +1,84 @@
+[
+    {
+        "type": "(n)",
+        "mean": "one of the twelve time periods that make up a year",
+        "examples": [
+            {
+                "code": "month_example_the-past-month-has-been-very-busy-for-me",
+                "text": "The past month has been very busy for me."
+            },
+            {
+                "code": "month_example_it-s-going-to-be-very-busy-in-the-coming-months",
+                "text": "It's going to be very busy in the coming months."
+            },
+            {
+                "code": "month_example_violence-has-increased-in-recent-months",
+                "text": "Violence has increased in recent months."
+            },
+            {
+                "code": "month_example_i-visited-him-last-month",
+                "text": "I visited him last month."
+            },
+            {
+                "code": "month_example_we-ll-be-in-school-for-nine-calendar-months",
+                "text": "We'll be in school for nine calendar months."
+            },
+            {
+                "code": "month_example_we-come-here-every-month",
+                "text": "We come here every month."
+            },
+            {
+                "code": "month_example_i-will-call-you-next-month",
+                "text": "I will call you next month."
+            },
+            {
+                "code": "month_example_i-like-the-summer-months",
+                "text": "I like the summer months."
+            },
+            {
+                "code": "month_example_we-were-on-vacation-for-the-entire-month",
+                "text": "We were on vacation for the entire month."
+            },
+            {
+                "code": "month_example_our-store-has-had-a-busy-month",
+                "text": "Our store has had a busy month."
+            },
+            {
+                "code": "month_example_we-spent-a-month-in-hawaii",
+                "text": "We spent a month in Hawaii."
+            },
+            {
+                "code": "month_example_it-took-months-to-find-the-perfect-home",
+                "text": "It took months to find the perfect home."
+            },
+            {
+                "code": "month_example_we-waited-six-months-for-his-return",
+                "text": "We waited six months for his return."
+            },
+            {
+                "code": "month_example_i-pay-for-the-place-by-the-month",
+                "text": "I pay for the place by the month."
+            },
+            {
+                "code": "month_example_i-stayed-at-home-during-the-month-of-january",
+                "text": "I stayed at home during the month of January."
+            },
+            {
+                "code": "month_example_i-will-be-leaving-for-college-in-over-a-month",
+                "text": "I will be leaving for college in over a month."
+            },
+            {
+                "code": "month_example_we-have-not-practiced-in-a-month",
+                "text": "We have not practiced in a month."
+            },
+            {
+                "code": "month_example_my-rent-is-200-per-month",
+                "text": "My rent is $200 per month."
+            },
+            {
+                "code": "month_example_the-month-of-august-is-the-busiest-for-me",
+                "text": "The month of August is the busiest for me."
+            }
+        ]
+    }
+]

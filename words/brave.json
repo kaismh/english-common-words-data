@@ -1,0 +1,46 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to deal with something dangerous",
+        "examples": [
+            {
+                "code": "brave_example_the-hiker-had-to-brave-the-storm",
+                "text": "The hiker had to brave the storm."
+            }
+        ]
+    },
+    {
+        "type": "(adj)",
+        "mean": "not afraid; willing to do dangerous things",
+        "examples": [
+            {
+                "code": "brave_example_the-soldier-is-very-brave",
+                "text": "The soldier is very brave."
+            },
+            {
+                "code": "brave_example_he-looks-like-a-very-brave-person",
+                "text": "He looks like a very brave person."
+            },
+            {
+                "code": "brave_example_the-child-was-very-brave-before-surgery",
+                "text": "The child was very brave before surgery."
+            },
+            {
+                "code": "brave_example_you-are-incredibly-brave",
+                "text": "You are incredibly brave."
+            },
+            {
+                "code": "brave_example_that-was-a-brave-attempt-to-catch-the-robbers",
+                "text": "That was a brave attempt to catch the robbers."
+            },
+            {
+                "code": "brave_example_he-won-his-brave-fight-against-cancer",
+                "text": "He won his brave fight against cancer."
+            },
+            {
+                "code": "brave_example_the-town-honored-the-brave-man",
+                "text": "The town honored the brave man."
+            }
+        ]
+    }
+]

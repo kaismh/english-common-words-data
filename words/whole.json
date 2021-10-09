@@ -1,0 +1,50 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "complete, full",
+        "examples": [
+            {
+                "code": "whole_example_my-whole-body-hurts",
+                "text": "My whole body hurts."
+            },
+            {
+                "code": "whole_example_we-saw-the-whole-family-at-the-reunion",
+                "text": "We saw the whole family at the reunion."
+            },
+            {
+                "code": "whole_example_i-ve-been-dieting-my-whole-life",
+                "text": "I've been dieting my whole life."
+            },
+            {
+                "code": "whole_example_he-read-the-whole-book-in-one-day",
+                "text": "He read the whole book in one day."
+            },
+            {
+                "code": "whole_example_we-heard-the-whole-story-again",
+                "text": "We heard the whole story again."
+            },
+            {
+                "code": "whole_example_we-want-the-whole-truth",
+                "text": "We want the whole truth."
+            },
+            {
+                "code": "whole_example_i-want-the-whole-world-to-know-how-happy-i-am",
+                "text": "I want the whole world to know how happy I am."
+            }
+        ]
+    },
+    {
+        "type": "(n)",
+        "mean": "something that is complete or full",
+        "examples": [
+            {
+                "code": "whole_example_that-small-picture-is-part-of-a-larger-whole",
+                "text": "That small picture is part of a larger whole."
+            },
+            {
+                "code": "whole_example_many-different-races-make-up-this-country-as-a-whole",
+                "text": "Many different races make up this country as a whole."
+            }
+        ]
+    }
+]

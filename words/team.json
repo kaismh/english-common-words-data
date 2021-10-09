@@ -1,0 +1,86 @@
+[
+    {
+        "type": "(n)",
+        "mean": "group of people who play sports or work together",
+        "examples": [
+            {
+                "code": "team_example_the-stronger-team-will-win",
+                "text": "The stronger team will win."
+            },
+            {
+                "code": "team_example_the-winning-team-will-go-to-the-next-round",
+                "text": "The winning team will go to the next round."
+            },
+            {
+                "code": "team_example_the-losing-team-will-have-to-go-home",
+                "text": "The losing team will have to go home."
+            },
+            {
+                "code": "team_example_the-medical-team-will-go-to-the-emergency-site",
+                "text": "The medical team will go to the emergency site."
+            },
+            {
+                "code": "team_example_the-hard-working-team-will-be-given-a-new-project",
+                "text": "The hard-working team will be given a new project."
+            },
+            {
+                "code": "team_example_they-make-a-great-team",
+                "text": "They make a great team!"
+            },
+            {
+                "code": "team_example_our-team-is-going-to-the-super-bowl",
+                "text": "Our team is going to the Super Bowl!"
+            },
+            {
+                "code": "team_example_the-team-is-exhausted",
+                "text": "The team is exhausted."
+            },
+            {
+                "code": "team_example_the-team-competes-every-weekend",
+                "text": "The team competes every weekend."
+            },
+            {
+                "code": "team_example_it-takes-team-effort-to-get-the-job-done",
+                "text": "It takes team effort to get the job done."
+            },
+            {
+                "code": "team_example_we-are-working-on-team-building-in-the-office",
+                "text": "We are working on team building in the office."
+            },
+            {
+                "code": "team_example_we-will-make-our-teammates-proud",
+                "text": "We will make our teammates proud."
+            },
+            {
+                "code": "team_example_i-want-my-child-to-play-a-team-sport",
+                "text": "I want my child to play a team sport."
+            },
+            {
+                "code": "team_example_are-you-a-team-player",
+                "text": "Are you a team player?"
+            },
+            {
+                "code": "team_example_whose-team-are-you-on",
+                "text": "Whose team are you on?"
+            },
+            {
+                "code": "team_example_are-you-rooting-for-the-home-team",
+                "text": "Are you rooting for the home team?"
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to put together into a group",
+        "examples": [
+            {
+                "code": "team_example_they-cleverly-teamed-people-according-to-ability",
+                "text": "They cleverly teamed people according to ability."
+            },
+            {
+                "code": "team_example_they-bravely-teamed-up-against-the-bully",
+                "text": "They bravely teamed up against the bully."
+            }
+        ]
+    }
+]

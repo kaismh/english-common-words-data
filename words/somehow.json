@@ -1,0 +1,40 @@
+[
+    {
+        "type": "(adv)",
+        "mean": "in a way that is not certain or known",
+        "examples": [
+            {
+                "code": "somehow_example_he-was-somehow-responsible-for-the-accident",
+                "text": "He was somehow responsible for the accident."
+            },
+            {
+                "code": "somehow_example_she-is-somehow-familiar-with-that-family",
+                "text": "She is somehow familiar with that family."
+            },
+            {
+                "code": "somehow_example_he-is-somehow-immune-to-getting-colds",
+                "text": "He is somehow immune to getting colds."
+            },
+            {
+                "code": "somehow_example_he-somehow-escaped-from-his-kidnappers",
+                "text": "He somehow escaped from his kidnappers."
+            },
+            {
+                "code": "somehow_example_he-is-somehow-linked-to-the-royal-family",
+                "text": "He is somehow linked to the royal family."
+            },
+            {
+                "code": "somehow_example_she-somehow-persuaded-him-to-go-to-the-party",
+                "text": "She somehow persuaded him to go to the party."
+            },
+            {
+                "code": "somehow_example_the-problem-was-somehow-solved",
+                "text": "The problem was somehow solved."
+            },
+            {
+                "code": "somehow_example_she-somehow-managed-to-finish-the-project",
+                "text": "She somehow managed to finish the project."
+            }
+        ]
+    }
+]

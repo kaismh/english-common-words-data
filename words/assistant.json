@@ -1,0 +1,32 @@
+[
+    {
+        "type": "(n)",
+        "mean": "someone who helps or supports someone else",
+        "examples": [
+            {
+                "code": "assistant_example_this-is-my-chief-assistant",
+                "text": "This is my chief assistant."
+            },
+            {
+                "code": "assistant_example_she-s-a-teaching-assistant",
+                "text": "She's a teaching assistant."
+            },
+            {
+                "code": "assistant_example_we-re-looking-to-hire-a-new-assistant",
+                "text": "We're looking to hire a new assistant."
+            },
+            {
+                "code": "assistant_example_the-company-has-a-new-assistant",
+                "text": "The company has a new assistant."
+            },
+            {
+                "code": "assistant_example_he-s-fired-his-assistant",
+                "text": "He's fired his assistant."
+            },
+            {
+                "code": "assistant_example_he-is-the-assistant-to-the-general-manager",
+                "text": "He is the assistant to the general manager."
+            }
+        ]
+    }
+]

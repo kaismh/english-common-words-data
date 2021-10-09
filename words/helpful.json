@@ -1,0 +1,56 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "making things easier for someone",
+        "examples": [
+            {
+                "code": "helpful_example_his-advice-proved-helpful",
+                "text": "His advice proved helpful."
+            },
+            {
+                "code": "helpful_example_i-considered-them-very-helpful",
+                "text": "I considered them very helpful."
+            },
+            {
+                "code": "helpful_example_she-has-been-extremely-helpful",
+                "text": "She has been extremely helpful."
+            },
+            {
+                "code": "helpful_example_the-study-guide-was-incredibly-helpful",
+                "text": "The study guide was incredibly helpful."
+            },
+            {
+                "code": "helpful_example_the-salesperson-was-not-at-all-helpful",
+                "text": "The salesperson was not at all helpful."
+            },
+            {
+                "code": "helpful_example_she-was-genuinely-helpful",
+                "text": "She was genuinely helpful."
+            },
+            {
+                "code": "helpful_example_this-treatment-is-potentially-helpful",
+                "text": "This treatment is potentially helpful."
+            },
+            {
+                "code": "helpful_example_this-information-would-be-helpful-for-new-students",
+                "text": "This information would be helpful for new students."
+            },
+            {
+                "code": "helpful_example_he-gave-me-some-helpful-advice",
+                "text": "He gave me some helpful advice."
+            },
+            {
+                "code": "helpful_example_i-made-myself-a-helpful-reminder",
+                "text": "I made myself a helpful reminder."
+            },
+            {
+                "code": "helpful_example_this-is-helpful-information",
+                "text": "This is helpful information."
+            },
+            {
+                "code": "helpful_example_we-had-a-helpful-discussion",
+                "text": "We had a helpful discussion."
+            }
+        ]
+    }
+]

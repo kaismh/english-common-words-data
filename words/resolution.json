@@ -1,0 +1,52 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the act of settling a disagreement or problem",
+        "examples": [
+            {
+                "code": "resolution_example_we-finally-reached-a-resolution",
+                "text": "We finally reached a resolution."
+            },
+            {
+                "code": "resolution_example_we-need-a-resolution-soon",
+                "text": "We need a resolution soon."
+            },
+            {
+                "code": "resolution_example_the-company-offered-a-reasonable-resolution",
+                "text": "The company offered a reasonable resolution."
+            },
+            {
+                "code": "resolution_example_we-are-seeking-a-common-resolution",
+                "text": "We are seeking a common resolution."
+            },
+            {
+                "code": "resolution_example_the-union-backed-the-resolution",
+                "text": "The union backed the resolution."
+            },
+            {
+                "code": "resolution_example_we-opposed-the-resolution",
+                "text": "We opposed the resolution."
+            },
+            {
+                "code": "resolution_example_the-panel-has-reached-a-unanimous-resolution",
+                "text": "The panel has reached a unanimous resolution."
+            },
+            {
+                "code": "resolution_example_we-are-looking-for-a-quick-resolution-to-the-problem",
+                "text": "We are looking for a quick resolution to the problem."
+            },
+            {
+                "code": "resolution_example_there-was-a-peaceful-resolution",
+                "text": "There was a peaceful resolution."
+            },
+            {
+                "code": "resolution_example_she-works-at-conflict-resolution",
+                "text": "She works at conflict resolution."
+            },
+            {
+                "code": "resolution_example_we-need-to-seek-a-resolution-to-the-problem",
+                "text": "We need to seek a resolution to the problem."
+            }
+        ]
+    }
+]

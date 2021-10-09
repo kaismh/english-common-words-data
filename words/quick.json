@@ -1,0 +1,96 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "fast",
+        "examples": [
+            {
+                "code": "quick_example_she-seems-very-quick-at-her-job",
+                "text": "She seems very quick at her job."
+            },
+            {
+                "code": "quick_example_he-has-a-quick-wit",
+                "text": "He has a quick wit."
+            },
+            {
+                "code": "quick_example_i-gave-her-a-quick-kiss",
+                "text": "I gave her a quick kiss."
+            },
+            {
+                "code": "quick_example_she-made-a-quick-exit",
+                "text": "She made a quick exit."
+            },
+            {
+                "code": "quick_example_i-have-a-few-quick-questions",
+                "text": "I have a few quick questions."
+            },
+            {
+                "code": "quick_example_this-is-a-very-quick-tempo",
+                "text": "This is a very quick tempo."
+            },
+            {
+                "code": "quick_example_she-is-a-quick-learner",
+                "text": "She is a quick learner."
+            },
+            {
+                "code": "quick_example_that-book-was-a-quick-read",
+                "text": "That book was a quick read."
+            },
+            {
+                "code": "quick_example_this-is-only-a-quick-fix",
+                "text": "This is only a quick fix."
+            },
+            {
+                "code": "quick_example_let-me-give-you-a-quick-summary",
+                "text": "Let me give you a quick summary."
+            },
+            {
+                "code": "quick_example_i-want-to-make-some-quick-cash",
+                "text": "I want to make some quick cash."
+            },
+            {
+                "code": "quick_example_let-s-have-a-quick-lunch",
+                "text": "Let's have a quick lunch."
+            },
+            {
+                "code": "quick_example_don-t-make-any-quick-movements",
+                "text": "Don't make any quick movements."
+            },
+            {
+                "code": "quick_example_he-took-a-quick-nap",
+                "text": "He took a quick nap."
+            },
+            {
+                "code": "quick_example_they-made-a-quick-trip",
+                "text": "They made a quick trip."
+            },
+            {
+                "code": "quick_example_that-was-some-quick-thinking",
+                "text": "That was some quick thinking."
+            },
+            {
+                "code": "quick_example_she-gave-me-a-quick-glance",
+                "text": "She gave me a quick glance."
+            },
+            {
+                "code": "quick_example_i-made-a-quick-note",
+                "text": "I made a quick note."
+            },
+            {
+                "code": "quick_example_he-is-fairly-quick-at-math",
+                "text": "He is fairly quick at math."
+            },
+            {
+                "code": "quick_example_my-grandmother-moves-relatively-quick",
+                "text": "My grandmother moves relatively quick."
+            },
+            {
+                "code": "quick_example_he-made-a-remarkably-quick-recovery",
+                "text": "He made a remarkably quick recovery."
+            },
+            {
+                "code": "quick_example_she-is-quick-at-math",
+                "text": "She is quick at math."
+            }
+        ]
+    }
+]

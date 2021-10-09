@@ -1,0 +1,56 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a small room used for storing clothing and household items",
+        "examples": [
+            {
+                "code": "closet_example_the-house-has-huge-closets",
+                "text": "The house has huge closets."
+            },
+            {
+                "code": "closet_example_i-ve-always-wanted-a-walk-in-closet",
+                "text": "I've always wanted a walk-in closet."
+            },
+            {
+                "code": "closet_example_there-are-towels-in-the-bedroom-closet",
+                "text": "There are towels in the bedroom closet."
+            },
+            {
+                "code": "closet_example_you-can-find-tools-in-the-storage-closet",
+                "text": "You can find tools in the storage closet."
+            },
+            {
+                "code": "closet_example_shut-the-closet",
+                "text": "Shut the closet."
+            },
+            {
+                "code": "closet_example_my-sister-often-raids-my-closet",
+                "text": "My sister often raids my closet."
+            },
+            {
+                "code": "closet_example_it-is-time-to-clean-my-closet",
+                "text": "It is time to clean my closet."
+            },
+            {
+                "code": "closet_example_this-closet-is-filled-with-clothes",
+                "text": "This closet is filled with clothes."
+            },
+            {
+                "code": "closet_example_we-need-to-replace-the-closet-door",
+                "text": "We need to replace the closet door."
+            },
+            {
+                "code": "closet_example_is-there-enough-closet-space",
+                "text": "Is there enough closet space?"
+            },
+            {
+                "code": "closet_example_there-s-a-monster-in-my-closet",
+                "text": "There's a monster in my closet."
+            },
+            {
+                "code": "closet_example_i-ll-get-a-shirt-from-the-closet",
+                "text": "I'll get a shirt from the closet."
+            }
+        ]
+    }
+]

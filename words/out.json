@@ -1,0 +1,96 @@
+[
+    {
+        "type": "(adv)",
+        "mean": "not in; away from home",
+        "examples": [
+            {
+                "code": "out_example_he-went-out-last-night",
+                "text": "He went out last night."
+            },
+            {
+                "code": "out_example_let-s-go-out-to-eat",
+                "text": "Let's go out to eat."
+            },
+            {
+                "code": "out_example_she-called-out-for-help",
+                "text": "She called out for help."
+            },
+            {
+                "code": "out_example_has-the-new-book-come-out-yet",
+                "text": "Has the new book come out yet?"
+            },
+            {
+                "code": "out_example_he-spread-out-a-picnic-blanket-under-the-oak-tree",
+                "text": "He spread out a picnic blanket under the oak tree."
+            },
+            {
+                "code": "out_example_he-jumped-out-from-behind-the-bush-and-scared-us",
+                "text": "He jumped out from behind the bush and scared us."
+            },
+            {
+                "code": "out_example_the-dog-s-tongue-is-hanging-out",
+                "text": "The dog's tongue is hanging out."
+            },
+            {
+                "code": "out_example_she-threw-the-spoiled-food-out",
+                "text": "She threw the spoiled food out."
+            },
+            {
+                "code": "out_example_he-emptied-his-desk-out",
+                "text": "He emptied his desk out."
+            }
+        ]
+    },
+    {
+        "type": "(prep)",
+        "mean": "used when saying someone or something is moving from inside to outside or going away from home",
+        "examples": [
+            {
+                "code": "out_example_the-dog-ran-out-the-door",
+                "text": "The dog ran out the door."
+            },
+            {
+                "code": "out_example_she-jumped-out-the-window",
+                "text": "She jumped out the window."
+            },
+            {
+                "code": "out_example_he-walked-out-the-back-door",
+                "text": "He walked out the back door."
+            },
+            {
+                "code": "out_example_please-take-out-the-trash",
+                "text": "Please take out the trash."
+            }
+        ]
+    },
+    {
+        "type": "(adj)",
+        "mean": "not at home; when a baseball player does not make it on base",
+        "examples": [
+            {
+                "code": "out_example_she-is-out-every-night",
+                "text": "She is out every night."
+            },
+            {
+                "code": "out_example_he-is-out-at-the-moment",
+                "text": "He is out at the moment."
+            },
+            {
+                "code": "out_example_they-are-always-out",
+                "text": "They are always out."
+            },
+            {
+                "code": "out_example_tell-them-i-m-out",
+                "text": "Tell them I'm out."
+            },
+            {
+                "code": "out_example_he-is-out-again",
+                "text": "He is out again."
+            },
+            {
+                "code": "out_example_he-was-out-at-home-plate",
+                "text": "He was out at home plate."
+            }
+        ]
+    }
+]

@@ -1,0 +1,76 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a medical treatment that involves cutting open a person's body and repairing parts of the inside",
+        "examples": [
+            {
+                "code": "surgery_example_she-is-having-major-surgery-on-her-back",
+                "text": "She is having major surgery on her back."
+            },
+            {
+                "code": "surgery_example_he-is-having-minor-surgery-on-his-foot",
+                "text": "He is having minor surgery on his foot."
+            },
+            {
+                "code": "surgery_example_her-surgery-was-unsuccessful",
+                "text": "Her surgery was unsuccessful."
+            },
+            {
+                "code": "surgery_example_he-is-having-laser-surgery-on-his-eyes",
+                "text": "He is having laser surgery on his eyes."
+            },
+            {
+                "code": "surgery_example_he-is-having-emergency-surgery-on-his-knee",
+                "text": "He is having emergency surgery on his knee."
+            },
+            {
+                "code": "surgery_example_she-has-had-lots-of-plastic-surgery",
+                "text": "She has had lots of plastic surgery."
+            },
+            {
+                "code": "surgery_example_he-needs-to-have-knee-surgery",
+                "text": "He needs to have knee surgery."
+            },
+            {
+                "code": "surgery_example_i-am-having-heart-surgery-today",
+                "text": "I am having heart surgery today."
+            },
+            {
+                "code": "surgery_example_the-doctor-is-performing-his-first-surgery",
+                "text": "The doctor is performing his first surgery."
+            },
+            {
+                "code": "surgery_example_he-needs-surgery-on-his-back",
+                "text": "He needs surgery on his back."
+            },
+            {
+                "code": "surgery_example_the-doctor-recommends-surgery-as-soon-as-possible",
+                "text": "The doctor recommends surgery as soon as possible."
+            },
+            {
+                "code": "surgery_example_i-am-considering-weight-loss-surgery",
+                "text": "I am considering weight loss surgery."
+            },
+            {
+                "code": "surgery_example_she-didn-t-have-any-more-pain-after-the-surgery",
+                "text": "She didn't have any more pain after the surgery."
+            },
+            {
+                "code": "surgery_example_she-was-in-too-much-pain-before-the-surgery",
+                "text": "She was in too much pain before the surgery."
+            },
+            {
+                "code": "surgery_example_her-heart-stopped-during-the-surgery",
+                "text": "Her heart stopped during the surgery."
+            },
+            {
+                "code": "surgery_example_he-is-having-surgery-on-his-back",
+                "text": "He is having surgery on his back."
+            },
+            {
+                "code": "surgery_example_she-is-having-surgery-for-kidney-stones",
+                "text": "She is having surgery for kidney stones."
+            }
+        ]
+    }
+]

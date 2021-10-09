@@ -1,0 +1,44 @@
+[
+    {
+        "type": "(n)",
+        "mean": "an unorganized or unclean condition",
+        "examples": [
+            {
+                "code": "mess_example_please-clean-up-this-mess",
+                "text": "Please clean up this mess."
+            },
+            {
+                "code": "mess_example_you-leave-a-mess-wherever-you-go",
+                "text": "You leave a mess wherever you go."
+            },
+            {
+                "code": "mess_example_we-need-to-sort-out-this-mess",
+                "text": "We need to sort out this mess."
+            },
+            {
+                "code": "mess_example_you-have-made-a-complete-mess",
+                "text": "You have made a complete mess."
+            },
+            {
+                "code": "mess_example_you-created-this-entire-mess",
+                "text": "You created this entire mess!"
+            },
+            {
+                "code": "mess_example_the-country-is-in-a-financial-mess",
+                "text": "The country is in a financial mess."
+            },
+            {
+                "code": "mess_example_she-is-an-emotional-mess",
+                "text": "She is an emotional mess."
+            },
+            {
+                "code": "mess_example_he-lives-in-a-giant-mess",
+                "text": "He lives in a giant mess."
+            },
+            {
+                "code": "mess_example_we-found-it-under-the-mess-of-papers",
+                "text": "We found it under the mess of papers."
+            }
+        ]
+    }
+]

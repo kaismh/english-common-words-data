@@ -1,0 +1,80 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a main road, especially one that connects towns",
+        "examples": [
+            {
+                "code": "highway_example_they-want-to-build-a-new-four-lane-highway",
+                "text": "They want to build a new four-lane highway."
+            },
+            {
+                "code": "highway_example_he-lives-near-a-main-highway",
+                "text": "He lives near a main highway."
+            },
+            {
+                "code": "highway_example_she-loves-driving-along-coastal-highways",
+                "text": "She loves driving along coastal highways."
+            },
+            {
+                "code": "highway_example_their-car-broke-down-on-a-deserted-highway",
+                "text": "Their car broke down on a deserted highway."
+            },
+            {
+                "code": "highway_example_i-drive-that-highway-all-the-time",
+                "text": "I drive that highway all the time."
+            },
+            {
+                "code": "highway_example_go-south-when-you-reach-the-highway",
+                "text": "Go south when you reach the highway."
+            },
+            {
+                "code": "highway_example_they-finally-exited-the-highway-at-midnight",
+                "text": "They finally exited the highway at midnight."
+            },
+            {
+                "code": "highway_example_a-major-accident-blocked-the-highway",
+                "text": "A major accident blocked the highway."
+            },
+            {
+                "code": "highway_example_they-are-building-a-new-highway-between-the-cities",
+                "text": "They are building a new highway between the cities."
+            },
+            {
+                "code": "highway_example_the-state-hasn-t-maintained-the-highways-well",
+                "text": "The state hasn't maintained the highways well."
+            },
+            {
+                "code": "highway_example_highway-traffic-is-bad-in-the-afternoons",
+                "text": "Highway traffic is bad in the afternoons."
+            },
+            {
+                "code": "highway_example_they-are-repairing-the-highway-bridge-near-my-house",
+                "text": "They are repairing the highway bridge near my house."
+            },
+            {
+                "code": "highway_example_the-highway-system-in-that-area-is-too-crowded",
+                "text": "The highway system in that area is too crowded."
+            },
+            {
+                "code": "highway_example_they-are-replacing-the-highway-signs",
+                "text": "They are replacing the highway signs."
+            },
+            {
+                "code": "highway_example_she-was-stopped-by-the-highway-patrol",
+                "text": "She was stopped by the highway patrol."
+            },
+            {
+                "code": "highway_example_they-are-discussing-highway-safety-at-the-meeting",
+                "text": "They are discussing highway safety at the meeting."
+            },
+            {
+                "code": "highway_example_she-got-onto-the-highway",
+                "text": "She got onto the highway."
+            },
+            {
+                "code": "highway_example_they-sped-along-the-highway",
+                "text": "They sped along the highway."
+            }
+        ]
+    }
+]

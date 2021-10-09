@@ -1,0 +1,114 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a person or group who protects people, places, or things from danger or attack; a cover that prevents injury",
+        "examples": [
+            {
+                "code": "guard_example_the-vault-is-protected-by-armed-guards",
+                "text": "The vault is protected by armed guards."
+            },
+            {
+                "code": "guard_example_he-was-questioned-by-border-guards",
+                "text": "He was questioned by border guards."
+            },
+            {
+                "code": "guard_example_he-employs-personal-guards",
+                "text": "He employs personal guards."
+            },
+            {
+                "code": "guard_example_the-plane-was-met-by-military-guards",
+                "text": "The plane was met by military guards."
+            },
+            {
+                "code": "guard_example_the-building-is-under-close-guard",
+                "text": "The building is under close guard."
+            },
+            {
+                "code": "guard_example_he-is-under-police-guard",
+                "text": "He is under police guard."
+            },
+            {
+                "code": "guard_example_she-joined-the-national-guard",
+                "text": "She joined the national guard."
+            },
+            {
+                "code": "guard_example_make-sure-you-use-a-trigger-guard",
+                "text": "Make sure you use a trigger guard."
+            },
+            {
+                "code": "guard_example_i-need-to-buy-new-shin-guards",
+                "text": "I need to buy new shin guards."
+            },
+            {
+                "code": "guard_example_she-has-to-wear-a-wrist-guard",
+                "text": "She has to wear a wrist guard."
+            },
+            {
+                "code": "guard_example_guards-are-stationed-at-all-exits",
+                "text": "Guards are stationed at all exits."
+            },
+            {
+                "code": "guard_example_guards-are-patrolling-the-grounds",
+                "text": "Guards are patrolling the grounds."
+            },
+            {
+                "code": "guard_example_a-guard-will-escort-you-to-the-gate",
+                "text": "A guard will escort you to the gate."
+            },
+            {
+                "code": "guard_example_extra-guards-are-on-duty-tonight",
+                "text": "Extra guards are on duty tonight."
+            },
+            {
+                "code": "guard_example_they-called-out-the-national-guard-to-deal-with-the-crisis",
+                "text": "They called out the national guard to deal with the crisis."
+            },
+            {
+                "code": "guard_example_the-guard-changes-every-hour",
+                "text": "The guard changes every hour."
+            },
+            {
+                "code": "guard_example_he-has-guard-duty-tonight",
+                "text": "He has guard duty tonight."
+            },
+            {
+                "code": "guard_example_they-got-a-guard-dog",
+                "text": "They got a guard dog."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to protect people, places, or things from danger or attack",
+        "examples": [
+            {
+                "code": "guard_example_the-museum-artifacts-are-well-guarded",
+                "text": "The museum artifacts are well guarded."
+            },
+            {
+                "code": "guard_example_she-fiercely-guarded-her-children",
+                "text": "She fiercely guarded her children."
+            },
+            {
+                "code": "guard_example_the-security-officers-guarded-the-bank-against-thieves",
+                "text": "The security officers guarded the bank against thieves."
+            },
+            {
+                "code": "guard_example_the-movie-star-had-to-be-guarded-from-a-stalker",
+                "text": "The movie star had to be guarded from a stalker."
+            },
+            {
+                "code": "guard_example_the-soldiers-guarded-their-posts",
+                "text": "The soldiers guarded their posts."
+            },
+            {
+                "code": "guard_example_the-military-guarded-the-border-from-terrorists",
+                "text": "The military guarded the border from terrorists."
+            },
+            {
+                "code": "guard_example_the-security-guards-guarded-the-museum-entrance",
+                "text": "The security guards guarded the museum entrance."
+            }
+        ]
+    }
+]

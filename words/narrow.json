@@ -1,0 +1,82 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "not wide; measuring at a short distance for one side to another side",
+        "examples": [
+            {
+                "code": "narrow_example_the-street-is-narrow",
+                "text": "The street is narrow."
+            },
+            {
+                "code": "narrow_example_we-took-a-narrow-path-to-the-waterfront",
+                "text": "We took a narrow path to the waterfront."
+            },
+            {
+                "code": "narrow_example_he-walked-through-a-narrow-doorway",
+                "text": "He walked through a narrow doorway."
+            },
+            {
+                "code": "narrow_example_the-sidewalk-is-very-narrow",
+                "text": "The sidewalk is very narrow."
+            },
+            {
+                "code": "narrow_example_there-is-a-narrow-space-ahead",
+                "text": "There is a narrow space ahead."
+            },
+            {
+                "code": "narrow_example_we-made-a-narrow-escape",
+                "text": "We made a narrow escape."
+            },
+            {
+                "code": "narrow_example_it-was-a-narrow-victory",
+                "text": "It was a narrow victory."
+            },
+            {
+                "code": "narrow_example_she-had-narrow-shoulders",
+                "text": "She had narrow shoulders."
+            },
+            {
+                "code": "narrow_example_there-are-narrow-stripes-on-her-shirt",
+                "text": "There are narrow stripes on her shirt."
+            },
+            {
+                "code": "narrow_example_i-stood-on-a-narrow-ledge",
+                "text": "I stood on a narrow ledge."
+            },
+            {
+                "code": "narrow_example_the-street-is-very-narrow",
+                "text": "The street is very narrow."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "become less wide",
+        "examples": [
+            {
+                "code": "narrow_example_the-road-narrowed-ahead",
+                "text": "The road narrowed ahead."
+            },
+            {
+                "code": "narrow_example_we-are-narrowing-the-search",
+                "text": "We are narrowing the search."
+            },
+            {
+                "code": "narrow_example_his-eyes-narrowed",
+                "text": "His eyes narrowed."
+            },
+            {
+                "code": "narrow_example_her-eyes-narrowed-suspiciously",
+                "text": "Her eyes narrowed suspiciously."
+            },
+            {
+                "code": "narrow_example_the-path-gradually-narrowed",
+                "text": "The path gradually narrowed."
+            },
+            {
+                "code": "narrow_example_her-eyes-narrowed-with-suspicion",
+                "text": "Her eyes narrowed with suspicion."
+            }
+        ]
+    }
+]

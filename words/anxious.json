@@ -1,0 +1,28 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "feeling worried or nervous",
+        "examples": [
+            {
+                "code": "anxious_example_he-appeared-anxious-during-the-interview",
+                "text": "He appeared anxious during the interview."
+            },
+            {
+                "code": "anxious_example_after-losing-my-job-i-became-anxious",
+                "text": "After losing my job, I became anxious."
+            },
+            {
+                "code": "anxious_example_flying-makes-him-extremely-anxious",
+                "text": "Flying makes him extremely anxious."
+            },
+            {
+                "code": "anxious_example_you-shouldn-t-be-overly-anxious",
+                "text": "You shouldn't be overly anxious."
+            },
+            {
+                "code": "anxious_example_they-are-getting-anxious-about-their-test-scores",
+                "text": "They are getting anxious about their test scores."
+            }
+        ]
+    }
+]

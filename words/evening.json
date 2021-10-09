@@ -1,0 +1,120 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the part of the day after the late afternoon; an event that takes place in the evening",
+        "examples": [
+            {
+                "code": "evening_example_we-are-going-to-the-movies-tomorrow-evening",
+                "text": "We are going to the movies tomorrow evening."
+            },
+            {
+                "code": "evening_example_we-had-dinner-with-my-parents-yesterday-evening",
+                "text": "We had dinner with my parents yesterday evening."
+            },
+            {
+                "code": "evening_example_it-s-such-a-beautiful-summer-evening",
+                "text": "It's such a beautiful summer evening."
+            },
+            {
+                "code": "evening_example_there-are-long-evenings-in-the-winter",
+                "text": "There are long evenings in the winter."
+            },
+            {
+                "code": "evening_example_they-spent-a-quiet-evening-at-home",
+                "text": "They spent a quiet evening at home."
+            },
+            {
+                "code": "evening_example_it-is-such-a-warm-evening",
+                "text": "It is such a warm evening."
+            },
+            {
+                "code": "evening_example_many-animals-came-out-in-the-early-evening",
+                "text": "Many animals came out in the early evening."
+            },
+            {
+                "code": "evening_example_can-we-meet-tomorrow-i-m-busy-the-next-evening",
+                "text": "Can we meet tomorrow? I'm busy the next evening."
+            },
+            {
+                "code": "evening_example_he-spent-the-entire-evening-doing-homework",
+                "text": "He spent the entire evening doing homework."
+            },
+            {
+                "code": "evening_example_we-had-an-enjoyable-evening-at-a-concert",
+                "text": "We had an enjoyable evening at a concert."
+            },
+            {
+                "code": "evening_example_we-spent-the-evening-watching-a-movie",
+                "text": "We spent the evening watching a movie."
+            },
+            {
+                "code": "evening_example_they-started-their-evening-with-dinner",
+                "text": "They started their evening with dinner."
+            },
+            {
+                "code": "evening_example_i-enjoy-a-quiet-evening-at-home",
+                "text": "I enjoy a quiet evening at home."
+            },
+            {
+                "code": "evening_example_the-bad-weather-spoiled-their-evening",
+                "text": "The bad weather spoiled their evening."
+            },
+            {
+                "code": "evening_example_as-the-evening-wore-on-he-found-it-harder-to-stay-awake",
+                "text": "As the evening wore on, he found it harder to stay awake."
+            },
+            {
+                "code": "evening_example_they-opened-the-evening-with-some-music",
+                "text": "They opened the evening with some music."
+            },
+            {
+                "code": "evening_example_we-were-enjoying-the-evening-moon",
+                "text": "We were enjoying the evening moon."
+            },
+            {
+                "code": "evening_example_the-evening-light-was-beautiful",
+                "text": "The evening light was beautiful."
+            },
+            {
+                "code": "evening_example_they-went-for-an-evening-walk-around-the-lake",
+                "text": "They went for an evening walk around the lake."
+            },
+            {
+                "code": "evening_example_he-has-to-work-the-evening-shift-today",
+                "text": "He has to work the evening shift today."
+            },
+            {
+                "code": "evening_example_i-am-taking-an-evening-class",
+                "text": "I am taking an evening class."
+            },
+            {
+                "code": "evening_example_an-accident-affected-the-evening-rush-hour",
+                "text": "An accident affected the evening rush hour."
+            },
+            {
+                "code": "evening_example_the-story-was-on-the-evening-news",
+                "text": "The story was on the evening news."
+            },
+            {
+                "code": "evening_example_i-bought-a-new-evening-gown-for-the-opera",
+                "text": "I bought a new evening gown for the opera."
+            },
+            {
+                "code": "evening_example_i-m-busy-in-the-evening",
+                "text": "I'm busy in the evening."
+            },
+            {
+                "code": "evening_example_we-dressed-up-for-our-evening-out",
+                "text": "We dressed up for our evening out."
+            },
+            {
+                "code": "evening_example_we-can-meet-on-friday-evening",
+                "text": "We can meet on Friday evening."
+            },
+            {
+                "code": "evening_example_it-s-scheduled-for-the-evening-of-may-12",
+                "text": "It's scheduled for the evening of May 12."
+            }
+        ]
+    }
+]

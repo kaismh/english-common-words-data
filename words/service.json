@@ -1,0 +1,114 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the business of providing useful or necessary help for the public; a religious ceremony; the act of serving in the military",
+        "examples": [
+            {
+                "code": "service_example_the-hospital-provides-excellent-service",
+                "text": "The hospital provides excellent service."
+            },
+            {
+                "code": "service_example_the-soup-kitchen-provides-free-service",
+                "text": "The soup kitchen provides free service."
+            },
+            {
+                "code": "service_example_we-offer-specialized-services-for-the-blind",
+                "text": "We offer specialized services for the blind."
+            },
+            {
+                "code": "service_example_we-received-terrible-service-at-the-restaurant",
+                "text": "We received terrible service at the restaurant."
+            },
+            {
+                "code": "service_example_please-call-customer-service-if-you-need-anything",
+                "text": "Please call customer service if you need anything."
+            },
+            {
+                "code": "service_example_we-attended-morning-service",
+                "text": "We attended morning service."
+            },
+            {
+                "code": "service_example_i-have-to-go-to-a-funeral-service-this-weekend",
+                "text": "I have to go to a funeral service this weekend."
+            },
+            {
+                "code": "service_example_we-thank-you-for-your-faithful-service",
+                "text": "We thank you for your faithful service."
+            },
+            {
+                "code": "service_example_we-offer-excellent-service-to-all-customers",
+                "text": "We offer excellent service to all customers."
+            },
+            {
+                "code": "service_example_the-company-can-guarantee-service-within-one-hour",
+                "text": "The company can guarantee service within one hour."
+            },
+            {
+                "code": "service_example_we-need-to-improve-our-services-before-our-business-loses-customers",
+                "text": "We need to improve our services before our business loses customers."
+            },
+            {
+                "code": "service_example_we-got-terrible-service-from-that-hotel",
+                "text": "We got terrible service from that hotel."
+            },
+            {
+                "code": "service_example_our-family-attends-morning-service-at-the-local-church",
+                "text": "Our family attends morning service at the local church."
+            },
+            {
+                "code": "service_example_our-church-held-a-funeral-service-today",
+                "text": "Our church held a funeral service today."
+            },
+            {
+                "code": "service_example_the-cable-service-provider-was-helpful",
+                "text": "The cable service provider was helpful."
+            },
+            {
+                "code": "service_example_the-social-service-organizations-in-seattle-are-great",
+                "text": "The social service organizations in Seattle are great."
+            },
+            {
+                "code": "service_example_is-there-a-service-fee",
+                "text": "Is there a service fee?"
+            },
+            {
+                "code": "service_example_the-shelter-provides-basic-services-to-homeless-people",
+                "text": "The shelter provides basic services to homeless people."
+            },
+            {
+                "code": "service_example_there-will-be-memorial-service-for-vietnam-veterans",
+                "text": "There will be memorial service for Vietnam veterans."
+            },
+            {
+                "code": "service_example_the-front-desk-is-at-your-service-day-or-night",
+                "text": "The front desk is at your service day or night."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to take care of something so it stays in good condition; to provide something that is needed or wanted",
+        "examples": [
+            {
+                "code": "service_example_the-furnace-was-fully-serviced-last-year",
+                "text": "The furnace was fully serviced last year."
+            },
+            {
+                "code": "service_example_we-regularly-service-our-car-every-six-months",
+                "text": "We regularly service our car every six months."
+            },
+            {
+                "code": "service_example_you-should-continue-to-service-your-car-in-the-future",
+                "text": "You should continue to service your car in the future."
+            },
+            {
+                "code": "service_example_people-should-service-their-engines-often",
+                "text": "People should service their engines often."
+            },
+            {
+                "code": "service_example_how-can-we-better-service-our-customers",
+                "text": "How can we better service our customers?"
+            }
+        ]
+    }
+]

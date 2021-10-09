@@ -1,0 +1,32 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "very small; thin",
+        "examples": [
+            {
+                "code": "slight_example_the-injury-was-slight",
+                "text": "The injury was slight."
+            },
+            {
+                "code": "slight_example_the-mistake-was-very-slight",
+                "text": "The mistake was very slight."
+            },
+            {
+                "code": "slight_example_she-has-a-slight-accent",
+                "text": "She has a slight accent."
+            },
+            {
+                "code": "slight_example_there-was-a-slight-accident",
+                "text": "There was a slight accident."
+            },
+            {
+                "code": "slight_example_we-made-a-slight-adjustment",
+                "text": "We made a slight adjustment."
+            },
+            {
+                "code": "slight_example_we-had-a-slight-disagreement",
+                "text": "We had a slight disagreement."
+            }
+        ]
+    }
+]

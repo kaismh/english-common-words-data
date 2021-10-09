@@ -1,0 +1,24 @@
+[
+    {
+        "type": "(adv)",
+        "mean": "in a way that is not true or real",
+        "examples": [
+            {
+                "code": "falsely_example_she-falsely-accused-the-wrong-man-of-the-crime",
+                "text": "She falsely accused the wrong man of the crime."
+            },
+            {
+                "code": "falsely_example_he-falsely-claimed-that-he-was-injured-on-the-job",
+                "text": "He falsely claimed that he was injured on the job."
+            },
+            {
+                "code": "falsely_example_the-farmer-falsely-labeled-his-fruits-and-vegetables-as-organic",
+                "text": "The farmer falsely labeled his fruits and vegetables as organic."
+            },
+            {
+                "code": "falsely_example_he-falsely-reported-a-theft-that-didn-t-happen",
+                "text": "He falsely reported a theft that didn't happen."
+            }
+        ]
+    }
+]

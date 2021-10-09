@@ -1,0 +1,56 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a baked dessert",
+        "examples": [
+            {
+                "code": "cake_example_is-that-a-homemade-cake",
+                "text": "Is that a homemade cake?"
+            },
+            {
+                "code": "cake_example_this-cake-is-moist",
+                "text": "This cake is moist."
+            },
+            {
+                "code": "cake_example_he-is-making-carrot-cake",
+                "text": "He is making carrot cake."
+            },
+            {
+                "code": "cake_example_we-saved-you-some-birthday-cake",
+                "text": "We saved you some birthday cake."
+            },
+            {
+                "code": "cake_example_let-s-eat-cake",
+                "text": "Let's eat cake."
+            },
+            {
+                "code": "cake_example_we-are-baking-a-cake",
+                "text": "We are baking a cake."
+            },
+            {
+                "code": "cake_example_you-can-cut-the-cake",
+                "text": "You can cut the cake."
+            },
+            {
+                "code": "cake_example_please-clean-up-the-cake-crumbs",
+                "text": "Please clean up the cake crumbs."
+            },
+            {
+                "code": "cake_example_may-i-have-your-cake-recipe",
+                "text": "May I have your cake recipe?"
+            },
+            {
+                "code": "cake_example_we-need-to-buy-some-cake-mix",
+                "text": "We need to buy some cake mix."
+            },
+            {
+                "code": "cake_example_i-need-a-cake-pan",
+                "text": "I need a cake pan."
+            },
+            {
+                "code": "cake_example_i-bought-it-from-a-cake-shop",
+                "text": "I bought it from a cake shop."
+            }
+        ]
+    }
+]

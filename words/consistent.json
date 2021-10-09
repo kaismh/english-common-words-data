@@ -1,0 +1,48 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "always acting or happening in the same way; in agreement",
+        "examples": [
+            {
+                "code": "consistent_example_try-to-be-consistent",
+                "text": "Try to be consistent."
+            },
+            {
+                "code": "consistent_example_the-information-appears-consistent",
+                "text": "The information appears consistent."
+            },
+            {
+                "code": "consistent_example_the-workers-do-an-extremely-consistent-job",
+                "text": "The workers do an extremely consistent job."
+            },
+            {
+                "code": "consistent_example_his-actions-are-completely-consistent-with-his-words",
+                "text": "His actions are completely consistent with his words."
+            },
+            {
+                "code": "consistent_example_the-company-creates-fairly-consistent-products",
+                "text": "The company creates fairly consistent products."
+            },
+            {
+                "code": "consistent_example_the-results-were-surprisingly-consistent",
+                "text": "The results were surprisingly consistent."
+            },
+            {
+                "code": "consistent_example_his-police-statement-is-consistent-with-the-evidence",
+                "text": "His police statement is consistent with the evidence."
+            },
+            {
+                "code": "consistent_example_the-results-are-consistent-among-the-age-groups",
+                "text": "The results are consistent among the age groups."
+            },
+            {
+                "code": "consistent_example_please-come-to-work-on-a-consistent-basis",
+                "text": "Please come to work on a consistent basis."
+            },
+            {
+                "code": "consistent_example_she-behaves-in-a-consistent-manner",
+                "text": "She behaves in a consistent manner."
+            }
+        ]
+    }
+]

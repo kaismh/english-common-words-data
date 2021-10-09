@@ -1,0 +1,72 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a substance in the form of white or brown crystals made from plants to make food and drinks sweeter",
+        "examples": [
+            {
+                "code": "sugar_example_do-you-prefer-raw-sugar",
+                "text": "Do you prefer raw sugar?"
+            },
+            {
+                "code": "sugar_example_there-is-processed-sugar-in-many-foods-these-days",
+                "text": "There is processed sugar in many foods these days."
+            },
+            {
+                "code": "sugar_example_i-like-white-sugar-in-my-coffee",
+                "text": "I like white sugar in my coffee."
+            },
+            {
+                "code": "sugar_example_the-recipe-calls-for-granulated-sugar",
+                "text": "The recipe calls for granulated sugar."
+            },
+            {
+                "code": "sugar_example_fruits-contain-natural-sugar",
+                "text": "Fruits contain natural sugar."
+            },
+            {
+                "code": "sugar_example_i-put-one-teaspoon-of-sugar-in-my-coffee",
+                "text": "I put one teaspoon of sugar in my coffee."
+            },
+            {
+                "code": "sugar_example_she-sprinkles-sugar-on-her-buttered-toast",
+                "text": "She sprinkles sugar on her buttered toast."
+            },
+            {
+                "code": "sugar_example_the-cookies-contain-a-lot-of-sugar",
+                "text": "The cookies contain a lot of sugar."
+            },
+            {
+                "code": "sugar_example_brazil-produces-the-most-amount-of-sugar-in-the-world",
+                "text": "Brazil produces the most amount of sugar in the world."
+            },
+            {
+                "code": "sugar_example_to-make-simple-syrup-dissolve-sugar-in-water",
+                "text": "To make simple syrup, dissolve sugar in water."
+            },
+            {
+                "code": "sugar_example_i-would-like-a-cube-of-sugar-in-my-tea",
+                "text": "I would like a cube of sugar in my tea."
+            },
+            {
+                "code": "sugar_example_artificial-sweetener-is-a-sugar-substitute",
+                "text": "Artificial sweetener is a sugar substitute."
+            },
+            {
+                "code": "sugar_example_we-make-sugar-cookies-during-the-holidays",
+                "text": "We make sugar cookies during the holidays."
+            },
+            {
+                "code": "sugar_example_he-watches-his-sugar-intake-because-of-diabetes",
+                "text": "He watches his sugar intake because of diabetes."
+            },
+            {
+                "code": "sugar_example_kids-get-a-sugar-high-after-halloween",
+                "text": "Kids get a sugar high after Halloween."
+            },
+            {
+                "code": "sugar_example_sugar-is-made-from-sugar-beets-and-sugar-canes",
+                "text": "Sugar is made from sugar beets and sugar canes."
+            }
+        ]
+    }
+]

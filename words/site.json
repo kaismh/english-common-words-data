@@ -1,0 +1,72 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a location of a building or an event",
+        "examples": [
+            {
+                "code": "site_example_where-is-the-designated-site-of-the-new-school",
+                "text": "Where is the designated site of the new school?"
+            },
+            {
+                "code": "site_example_this-is-a-great-site-for-camping",
+                "text": "This is a great site for camping."
+            },
+            {
+                "code": "site_example_we-can-t-play-near-the-demolition-site",
+                "text": "We can't play near the demolition site."
+            },
+            {
+                "code": "site_example_the-archaeological-site-is-an-amazing-discovery",
+                "text": "The archaeological site is an amazing discovery!"
+            },
+            {
+                "code": "site_example_this-is-a-holy-site-for-my-people",
+                "text": "This is a holy site for my people."
+            },
+            {
+                "code": "site_example_the-police-blocked-off-the-emergency-site",
+                "text": "The police blocked off the emergency site."
+            },
+            {
+                "code": "site_example_i-m-working-at-that-excavation-site",
+                "text": "I'm working at that excavation site."
+            },
+            {
+                "code": "site_example_we-ll-eat-at-the-camping-site",
+                "text": "We'll eat at the camping site."
+            },
+            {
+                "code": "site_example_we-chose-this-site-for-our-house-because-of-the-nearby-lake",
+                "text": "We chose this site for our house because of the nearby lake."
+            },
+            {
+                "code": "site_example_how-did-you-find-this-site",
+                "text": "How did you find this site?"
+            },
+            {
+                "code": "site_example_they-must-inspect-the-site-before-we-can-build",
+                "text": "They must inspect the site before we can build."
+            },
+            {
+                "code": "site_example_we-will-visit-the-site-of-the-bombing",
+                "text": "We will visit the site of the bombing."
+            },
+            {
+                "code": "site_example_please-don-t-disturb-that-site",
+                "text": "Please don't disturb that site."
+            },
+            {
+                "code": "site_example_her-dog-was-found-at-the-crash-site",
+                "text": "Her dog was found at the crash site."
+            },
+            {
+                "code": "site_example_i-placed-flowers-on-my-mother-s-grave-site",
+                "text": "I placed flowers on my mother's grave site."
+            },
+            {
+                "code": "site_example_the-restaurant-is-located-in-a-perfect-site-downtown",
+                "text": "The restaurant is located in a perfect site downtown."
+            }
+        ]
+    }
+]

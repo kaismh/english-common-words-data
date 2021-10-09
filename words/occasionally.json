@@ -1,0 +1,48 @@
+[
+    {
+        "type": "(adv)",
+        "mean": "sometimes; not often",
+        "examples": [
+            {
+                "code": "occasionally_example_i-visit-them-occasionally",
+                "text": "I visit them occasionally."
+            },
+            {
+                "code": "occasionally_example_mix-the-ingredients-and-stir-occasionally",
+                "text": "Mix the ingredients and stir occasionally."
+            },
+            {
+                "code": "occasionally_example_he-paused-occasionally",
+                "text": "He paused occasionally."
+            },
+            {
+                "code": "occasionally_example_strange-things-occasionally-occur-in-that-house",
+                "text": "Strange things occasionally occur in that house."
+            },
+            {
+                "code": "occasionally_example_he-occasionally-goes-to-church",
+                "text": "He occasionally goes to church."
+            },
+            {
+                "code": "occasionally_example_she-occasionally-eats-alone",
+                "text": "She occasionally eats alone."
+            },
+            {
+                "code": "occasionally_example_she-occasionally-misses-tennis-practice",
+                "text": "She occasionally misses tennis practice."
+            },
+            {
+                "code": "occasionally_example_he-is-occasionally-absent-from-school",
+                "text": "He is occasionally absent from school."
+            },
+            {
+                "code": "occasionally_example_they-are-occasionally-late-to-parties",
+                "text": "They are occasionally late to parties."
+            },
+            {
+                "code": "occasionally_example_she-is-occasionally-frustrated-with-her-brother",
+                "text": "She is occasionally frustrated with her brother."
+            }
+        ]
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a general increase in prices and a decrease in the value of money",
+        "examples": [
+            {
+                "code": "inflation_example_the-country-is-currently-experiencing-high-inflation",
+                "text": "The country is currently experiencing high inflation."
+            },
+            {
+                "code": "inflation_example_everyone-will-be-affected-by-rising-inflation",
+                "text": "Everyone will be affected by rising inflation."
+            },
+            {
+                "code": "inflation_example_what-causes-inflation",
+                "text": "What causes inflation?"
+            },
+            {
+                "code": "inflation_example_how-can-we-control-inflation",
+                "text": "How can we control inflation?"
+            },
+            {
+                "code": "inflation_example_wages-need-to-keep-up-with-inflation",
+                "text": "Wages need to keep up with inflation."
+            },
+            {
+                "code": "inflation_example_inflation-exceeded-the-projected-rate",
+                "text": "Inflation exceeded the projected rate."
+            },
+            {
+                "code": "inflation_example_inflation-is-finally-falling",
+                "text": "Inflation is finally falling."
+            },
+            {
+                "code": "inflation_example_the-inflation-rate-is-not-good",
+                "text": "The inflation rate is not good."
+            },
+            {
+                "code": "inflation_example_inflation-expectations-are-very-hopeful",
+                "text": "Inflation expectations are very hopeful."
+            }
+        ]
+    }
+]

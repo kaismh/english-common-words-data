@@ -1,0 +1,40 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to put food in your mouth, then chew and swallow it",
+        "examples": [
+            {
+                "code": "eat_example_they-ate-well-on-vacation",
+                "text": "They ate well on vacation."
+            },
+            {
+                "code": "eat_example_i-barely-eat-when-i-m-sick",
+                "text": "I barely eat when I'm sick."
+            },
+            {
+                "code": "eat_example_i-ate-poorly-yesterday-at-the-fair",
+                "text": "I ate poorly yesterday at the fair."
+            },
+            {
+                "code": "eat_example_i-try-to-eat-properly-whenever-possible",
+                "text": "I try to eat properly whenever possible."
+            },
+            {
+                "code": "eat_example_we-ate-dinner-happily",
+                "text": "We ate dinner happily."
+            },
+            {
+                "code": "eat_example_she-doesn-t-like-to-eat-alone-at-a-restaurant",
+                "text": "She doesn't like to eat alone at a restaurant."
+            },
+            {
+                "code": "eat_example_i-ate-that-dish",
+                "text": "I ate that dish."
+            },
+            {
+                "code": "eat_example_do-you-want-to-eat-lunch",
+                "text": "Do you want to eat lunch?"
+            }
+        ]
+    }
+]

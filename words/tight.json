@@ -1,0 +1,46 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "fitting securely, not loose",
+        "examples": [
+            {
+                "code": "tight_example_his-pants-are-very-tight",
+                "text": "His pants are very tight."
+            },
+            {
+                "code": "tight_example_she-loosened-her-tight-grip",
+                "text": "She loosened her tight grip."
+            },
+            {
+                "code": "tight_example_her-dress-is-tight",
+                "text": "Her dress is tight."
+            },
+            {
+                "code": "tight_example_my-pants-are-getting-too-tight",
+                "text": "My pants are getting too tight."
+            }
+        ]
+    },
+    {
+        "type": "(adv)",
+        "mean": "closely; firmly",
+        "examples": [
+            {
+                "code": "tight_example_hold-on-tight",
+                "text": "Hold on tight!"
+            },
+            {
+                "code": "tight_example_shut-your-eyes-tight",
+                "text": "Shut your eyes tight."
+            },
+            {
+                "code": "tight_example_squeeze-the-wet-towel-tight",
+                "text": "Squeeze the wet towel tight."
+            },
+            {
+                "code": "tight_example_make-sure-to-tie-the-laces-tight",
+                "text": "Make sure to tie the laces tight."
+            }
+        ]
+    }
+]

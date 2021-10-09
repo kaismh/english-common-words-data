@@ -1,0 +1,48 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the act of washing the body; the water for washing the body; a container for washing the body",
+        "examples": [
+            {
+                "code": "bath_example_our-house-has-a-ceramic-bath",
+                "text": "Our house has a ceramic bath."
+            },
+            {
+                "code": "bath_example_i-enjoy-a-warm-bath-after-work",
+                "text": "I enjoy a warm bath after work."
+            },
+            {
+                "code": "bath_example_i-like-having-a-nice-bath-after-a-long-day",
+                "text": "I like having a nice bath after a long day."
+            },
+            {
+                "code": "bath_example_will-you-fill-the-bath",
+                "text": "Will you fill the bath?"
+            },
+            {
+                "code": "bath_example_i-m-going-to-lie-in-the-bath",
+                "text": "I'm going to lie in the bath."
+            },
+            {
+                "code": "bath_example_she-gives-her-baby-a-bath",
+                "text": "She gives her baby a bath."
+            },
+            {
+                "code": "bath_example_my-dog-needs-a-bath",
+                "text": "My dog needs a bath."
+            },
+            {
+                "code": "bath_example_we-re-going-shopping-for-new-bath-towels",
+                "text": "We're going shopping for new bath towels."
+            },
+            {
+                "code": "bath_example_my-kids-love-bath-time",
+                "text": "My kids love bath time."
+            },
+            {
+                "code": "bath_example_please-don-t-bother-me-while-i-m-in-the-bath",
+                "text": "Please don't bother me while I'm in the bath."
+            }
+        ]
+    }
+]

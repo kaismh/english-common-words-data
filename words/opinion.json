@@ -1,0 +1,88 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a person's own feeling or thought about something",
+        "examples": [
+            {
+                "code": "opinion_example_you-should-voice-your-opinion-more-often",
+                "text": "You should voice your opinion more often."
+            },
+            {
+                "code": "opinion_example_we-sought-another-opinion",
+                "text": "We sought another opinion."
+            },
+            {
+                "code": "opinion_example_he-shared-his-opinion-with-me",
+                "text": "He shared his opinion with me."
+            },
+            {
+                "code": "opinion_example_she-asked-for-my-opinion",
+                "text": "She asked for my opinion."
+            },
+            {
+                "code": "opinion_example_my-family-has-shaped-my-opinions",
+                "text": "My family has shaped my opinions."
+            },
+            {
+                "code": "opinion_example_she-holds-a-high-opinion-of-you",
+                "text": "She holds a high opinion of you."
+            },
+            {
+                "code": "opinion_example_our-opinions-differ",
+                "text": "Our opinions differ."
+            },
+            {
+                "code": "opinion_example_i-formed-my-opinion-early",
+                "text": "I formed my opinion early."
+            },
+            {
+                "code": "opinion_example_do-you-want-my-honest-opinion",
+                "text": "Do you want my honest opinion?"
+            },
+            {
+                "code": "opinion_example_they-took-an-opinion-poll",
+                "text": "They took an opinion poll."
+            },
+            {
+                "code": "opinion_example_she-writes-an-opinion-piece-for-the-sunday-paper",
+                "text": "She writes an opinion piece for the Sunday paper."
+            },
+            {
+                "code": "opinion_example_her-personal-opinion-is-important-to-me",
+                "text": "Her personal opinion is important to me."
+            },
+            {
+                "code": "opinion_example_public-opinion-is-in-his-favor",
+                "text": "Public opinion is in his favor."
+            },
+            {
+                "code": "opinion_example_there-is-a-divided-opinion-in-the-city",
+                "text": "There is a divided opinion in the city."
+            },
+            {
+                "code": "opinion_example_in-my-honest-opinion-she-s-right",
+                "text": "In my honest opinion, she's right."
+            },
+            {
+                "code": "opinion_example_she-has-a-low-opinion-of-me",
+                "text": "She has a low opinion of me."
+            },
+            {
+                "code": "opinion_example_the-popular-opinion-has-changed",
+                "text": "The popular opinion has changed."
+            },
+            {
+                "code": "opinion_example_you-should-get-a-second-opinion",
+                "text": "You should get a second opinion."
+            },
+            {
+                "code": "opinion_example_in-my-opinion-you-were-wrong",
+                "text": "In my opinion, you were wrong."
+            },
+            {
+                "code": "opinion_example_what-is-your-opinion-of-her",
+                "text": "What is your opinion of her?"
+            }
+        ]
+    }
+]

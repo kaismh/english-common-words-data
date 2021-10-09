@@ -1,0 +1,64 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a list of food choices at a restaurant",
+        "examples": [
+            {
+                "code": "menu_example_i-haven-t-looked-at-the-menu-yet",
+                "text": "I haven't looked at the menu yet."
+            },
+            {
+                "code": "menu_example_i-just-opened-the-menu",
+                "text": "I just opened the menu."
+            },
+            {
+                "code": "menu_example_the-menu-changes-daily",
+                "text": "The menu changes daily."
+            },
+            {
+                "code": "menu_example_he-studied-the-menu-carefully",
+                "text": "He studied the menu carefully."
+            },
+            {
+                "code": "menu_example_i-don-t-have-a-menu-yet",
+                "text": "I don't have a menu yet."
+            },
+            {
+                "code": "menu_example_the-menu-features-seasonal-fruit",
+                "text": "The menu features seasonal fruit."
+            },
+            {
+                "code": "menu_example_choose-from-the-lunch-menu",
+                "text": "Choose from the lunch menu."
+            },
+            {
+                "code": "menu_example_i-can-t-see-the-menu-board",
+                "text": "I can't see the menu board."
+            },
+            {
+                "code": "menu_example_menu-choices-are-limited",
+                "text": "Menu choices are limited."
+            },
+            {
+                "code": "menu_example_would-you-like-the-dinner-menu",
+                "text": "Would you like the dinner menu?"
+            },
+            {
+                "code": "menu_example_we-have-a-full-menu",
+                "text": "We have a full menu."
+            },
+            {
+                "code": "menu_example_there-is-a-limited-menu",
+                "text": "There is a limited menu."
+            },
+            {
+                "code": "menu_example_can-we-see-the-dessert-menu",
+                "text": "Can we see the dessert menu?"
+            },
+            {
+                "code": "menu_example_what-s-on-the-menu-today",
+                "text": "What's on the menu today?"
+            }
+        ]
+    }
+]

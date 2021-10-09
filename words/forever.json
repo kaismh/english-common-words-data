@@ -1,0 +1,44 @@
+[
+    {
+        "type": "(adv)",
+        "mean": "a very long time; never ending",
+        "examples": [
+            {
+                "code": "forever_example_she-will-be-forever-grateful-for-the-help-she-received",
+                "text": "She will be forever grateful for the help she received."
+            },
+            {
+                "code": "forever_example_the-local-environment-was-forever-changed-by-development",
+                "text": "The local environment was forever changed by development."
+            },
+            {
+                "code": "forever_example_no-one-lives-forever",
+                "text": "No one lives forever."
+            },
+            {
+                "code": "forever_example_the-smell-seemed-to-last-forever",
+                "text": "The smell seemed to last forever."
+            },
+            {
+                "code": "forever_example_that-sight-will-haunt-him-forever",
+                "text": "That sight will haunt him forever."
+            },
+            {
+                "code": "forever_example_dinosaurs-have-disappeared-forever",
+                "text": "Dinosaurs have disappeared forever."
+            },
+            {
+                "code": "forever_example_i-feel-like-i-have-been-waiting-forever",
+                "text": "I feel like I have been waiting forever."
+            },
+            {
+                "code": "forever_example_i-think-i-lost-it-forever",
+                "text": "I think I lost it forever."
+            },
+            {
+                "code": "forever_example_he-will-remember-this-night-forever",
+                "text": "He will remember this night forever."
+            }
+        ]
+    }
+]

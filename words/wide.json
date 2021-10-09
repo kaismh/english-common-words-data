@@ -1,0 +1,58 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "big from side to side; fully open",
+        "examples": [
+            {
+                "code": "wide_example_the-river-is-very-wide",
+                "text": "The river is very wide."
+            },
+            {
+                "code": "wide_example_the-room-is-unusually-wide",
+                "text": "The room is unusually wide."
+            },
+            {
+                "code": "wide_example_the-parking-spaces-are-reasonably-wide-for-large-cars",
+                "text": "The parking spaces are reasonably wide for large cars."
+            },
+            {
+                "code": "wide_example_the-street-is-wide",
+                "text": "The street is wide."
+            },
+            {
+                "code": "wide_example_the-little-girl-s-eyes-grew-wide-after-hearing-the-story",
+                "text": "The little girl's eyes grew wide after hearing the story."
+            },
+            {
+                "code": "wide_example_her-grandmother-spread-her-arms-wide-for-a-big-hug",
+                "text": "Her grandmother spread her arms wide for a big hug."
+            },
+            {
+                "code": "wide_example_the-child-s-eyes-got-wide-with-excitement",
+                "text": "The child's eyes got wide with excitement."
+            }
+        ]
+    },
+    {
+        "type": "(adv)",
+        "mean": "as far as possible",
+        "examples": [
+            {
+                "code": "wide_example_she-was-wide-awake-from-drinking-too-much-coffee",
+                "text": "She was wide awake from drinking too much coffee."
+            },
+            {
+                "code": "wide_example_the-freeway-was-wide-open",
+                "text": "The freeway was wide open."
+            },
+            {
+                "code": "wide_example_open-your-mouth-wide",
+                "text": "Open your mouth wide."
+            },
+            {
+                "code": "wide_example_the-eagle-spreads-his-wings-wide",
+                "text": "The eagle spreads his wings wide."
+            }
+        ]
+    }
+]

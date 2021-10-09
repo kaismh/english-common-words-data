@@ -1,0 +1,202 @@
+[
+    {
+        "type": "(n)",
+        "mean": "something that is morally right; a benefit or advantage",
+        "examples": [
+            {
+                "code": "good_example_his-plan-benefits-the-common-good",
+                "text": "His plan benefits the common good."
+            },
+            {
+                "code": "good_example_he-kept-his-opinion-to-himself-for-the-good-of-the-group",
+                "text": "He kept his opinion to himself for the good of the group."
+            }
+        ]
+    },
+    {
+        "type": "(adj)",
+        "mean": "pleasant; having high quality",
+        "examples": [
+            {
+                "code": "good_example_that-smells-so-good",
+                "text": "That smells so good."
+            },
+            {
+                "code": "good_example_her-food-is-really-good",
+                "text": "Her food is really good."
+            },
+            {
+                "code": "good_example_he-is-becoming-really-good-at-golf",
+                "text": "He is becoming really good at golf."
+            },
+            {
+                "code": "good_example_she-seems-good-at-math",
+                "text": "She seems good at math."
+            },
+            {
+                "code": "good_example_she-is-really-good-at-singing",
+                "text": "She is really good at singing."
+            },
+            {
+                "code": "good_example_his-performance-was-especially-good",
+                "text": "His performance was especially good."
+            },
+            {
+                "code": "good_example_he-gave-a-reasonably-good-explanation",
+                "text": "He gave a reasonably good explanation."
+            },
+            {
+                "code": "good_example_he-is-really-good-at-sports",
+                "text": "He is really good at sports."
+            },
+            {
+                "code": "good_example_too-much-sugar-is-not-good-for-you",
+                "text": "Too much sugar is not good for you."
+            },
+            {
+                "code": "good_example_that-looks-good-to-me",
+                "text": "That looks good to me."
+            },
+            {
+                "code": "good_example_she-s-very-good-with-children",
+                "text": "She's very good with children."
+            },
+            {
+                "code": "good_example_i-want-to-be-a-good-actor",
+                "text": "I want to be a good actor."
+            },
+            {
+                "code": "good_example_she-always-gives-good-advice",
+                "text": "She always gives good advice."
+            },
+            {
+                "code": "good_example_i-finally-got-a-good-answer",
+                "text": "I finally got a good answer."
+            },
+            {
+                "code": "good_example_that-s-a-really-good-book",
+                "text": "That's a really good book."
+            },
+            {
+                "code": "good_example_he-has-a-good-appetite",
+                "text": "He has a good appetite."
+            },
+            {
+                "code": "good_example_he-had-a-good-meal",
+                "text": "He had a good meal."
+            },
+            {
+                "code": "good_example_she-got-a-good-bargain",
+                "text": "She got a good bargain."
+            },
+            {
+                "code": "good_example_she-rewarded-them-for-good-behavior",
+                "text": "She rewarded them for good behavior."
+            },
+            {
+                "code": "good_example_he-made-a-good-comeback",
+                "text": "He made a good comeback."
+            },
+            {
+                "code": "good_example_he-lacks-good-common-sense",
+                "text": "He lacks good common sense."
+            },
+            {
+                "code": "good_example_he-s-a-good-candidate-for-the-job",
+                "text": "He's a good candidate for the job."
+            },
+            {
+                "code": "good_example_the-library-has-a-good-collection-of-books-on-this-topic",
+                "text": "The library has a good collection of books on this topic."
+            },
+            {
+                "code": "good_example_peanut-butter-and-chocolate-is-a-good-combination",
+                "text": "Peanut butter and chocolate is a good combination."
+            },
+            {
+                "code": "good_example_we-haven-t-had-good-communication-with-them",
+                "text": "We haven't had good communication with them."
+            },
+            {
+                "code": "good_example_he-has-been-a-good-customer",
+                "text": "He has been a good customer."
+            },
+            {
+                "code": "good_example_she-has-good-qualifications",
+                "text": "She has good qualifications."
+            },
+            {
+                "code": "good_example_i-don-t-know-if-that-s-a-good-question",
+                "text": "I don't know if that's a good question."
+            },
+            {
+                "code": "good_example_she-received-a-good-education-before-moving-here",
+                "text": "She received a good education before moving here."
+            },
+            {
+                "code": "good_example_can-you-recommend-a-good-doctor",
+                "text": "Can you recommend a good doctor?"
+            },
+            {
+                "code": "good_example_we-don-t-have-good-evidence",
+                "text": "We don't have good evidence."
+            },
+            {
+                "code": "good_example_i-have-a-good-feeling-about-this",
+                "text": "I have a good feeling about this."
+            },
+            {
+                "code": "good_example_he-has-good-grammar",
+                "text": "He has good grammar."
+            },
+            {
+                "code": "good_example_she-s-trying-to-maintain-her-good-health",
+                "text": "She's trying to maintain her good health."
+            },
+            {
+                "code": "good_example_he-earns-a-good-salary",
+                "text": "He earns a good salary."
+            },
+            {
+                "code": "good_example_they-make-a-good-product",
+                "text": "They make a good product."
+            },
+            {
+                "code": "good_example_they-have-a-good-marriage",
+                "text": "They have a good marriage."
+            },
+            {
+                "code": "good_example_that-was-a-good-lesson",
+                "text": "That was a good lesson."
+            },
+            {
+                "code": "good_example_he-s-in-a-good-position-for-a-promotion",
+                "text": "He's in a good position for a promotion."
+            },
+            {
+                "code": "good_example_i-try-to-be-a-good-parent",
+                "text": "I try to be a good parent."
+            },
+            {
+                "code": "good_example_that-s-a-good-plan",
+                "text": "That's a good plan."
+            },
+            {
+                "code": "good_example_he-put-together-a-good-presentation",
+                "text": "He put together a good presentation."
+            },
+            {
+                "code": "good_example_she-s-a-good-teacher",
+                "text": "She's a good teacher."
+            },
+            {
+                "code": "good_example_that-was-a-good-turnout-at-the-event",
+                "text": "That was a good turnout at the event."
+            },
+            {
+                "code": "good_example_we-ve-had-good-weather-this-year",
+                "text": "We've had good weather this year."
+            }
+        ]
+    }
+]

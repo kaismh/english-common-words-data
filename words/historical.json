@@ -1,0 +1,60 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "concerning past events",
+        "examples": [
+            {
+                "code": "historical_example_there-are-many-historical-accounts-of-that-event",
+                "text": "There are many historical accounts of that event."
+            },
+            {
+                "code": "historical_example_we-re-going-through-the-historical-archives",
+                "text": "We're going through the historical archives."
+            },
+            {
+                "code": "historical_example_they-are-concerned-with-historical-accuracy",
+                "text": "They are concerned with historical accuracy."
+            },
+            {
+                "code": "historical_example_they-met-with-representatives-from-the-historical-association",
+                "text": "They met with representatives from the historical association."
+            },
+            {
+                "code": "historical_example_she-likes-to-read-historical-fiction",
+                "text": "She likes to read historical fiction."
+            },
+            {
+                "code": "historical_example_that-event-has-great-historical-importance",
+                "text": "That event has great historical importance."
+            },
+            {
+                "code": "historical_example_they-are-looking-at-the-historical-framework-of-the-law",
+                "text": "They are looking at the historical framework of the law."
+            },
+            {
+                "code": "historical_example_what-is-the-historical-basis-for-his-claim",
+                "text": "What is the historical basis for his claim?"
+            },
+            {
+                "code": "historical_example_they-are-investigating-from-a-historical-perspective",
+                "text": "They are investigating from a historical perspective."
+            },
+            {
+                "code": "historical_example_there-is-little-historical-understanding-of-that-event",
+                "text": "There is little historical understanding of that event."
+            },
+            {
+                "code": "historical_example_he-is-an-important-historical-figure",
+                "text": "He is an important historical figure."
+            },
+            {
+                "code": "historical_example_they-will-visit-many-historical-monuments-on-their-trip",
+                "text": "They will visit many historical monuments on their trip."
+            },
+            {
+                "code": "historical_example_they-are-looking-at-the-historical-data",
+                "text": "They are looking at the historical data."
+            }
+        ]
+    }
+]

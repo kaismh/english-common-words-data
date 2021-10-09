@@ -1,0 +1,60 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "sure; good; hopeful; showing that something is present",
+        "examples": [
+            {
+                "code": "positive_example_she-is-positive-of-her-answers",
+                "text": "She is positive of her answers."
+            },
+            {
+                "code": "positive_example_they-remained-positive-that-their-dog-would-be-found",
+                "text": "They remained positive that their dog would be found."
+            },
+            {
+                "code": "positive_example_he-tested-positive-for-the-disease",
+                "text": "He tested positive for the disease."
+            },
+            {
+                "code": "positive_example_always-keep-a-positive-attitude",
+                "text": "Always keep a positive attitude."
+            },
+            {
+                "code": "positive_example_giving-positive-reinforcement-is-the-best-way-to-teach-children",
+                "text": "Giving positive reinforcement is the best way to teach children."
+            },
+            {
+                "code": "positive_example_she-has-had-a-positive-impact-on-the-community",
+                "text": "She has had a positive impact on the community."
+            },
+            {
+                "code": "positive_example_keep-up-the-positive-thinking",
+                "text": "Keep up the positive thinking."
+            },
+            {
+                "code": "positive_example_she-is-a-really-positive-person",
+                "text": "She is a really positive person."
+            },
+            {
+                "code": "positive_example_it-turned-out-to-be-a-positive-experience",
+                "text": "It turned out to be a positive experience."
+            },
+            {
+                "code": "positive_example_he-received-a-positive-result",
+                "text": "He received a positive result."
+            },
+            {
+                "code": "positive_example_i-am-absolutely-positive-that-i-saw-her-there",
+                "text": "I am absolutely positive that I saw her there."
+            },
+            {
+                "code": "positive_example_he-is-a-very-positive-person",
+                "text": "He is a very positive person."
+            },
+            {
+                "code": "positive_example_are-you-positive-about-that",
+                "text": "Are you positive about that?"
+            }
+        ]
+    }
+]

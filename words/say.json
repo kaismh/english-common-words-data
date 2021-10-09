@@ -1,0 +1,68 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to speak; to express something using words",
+        "examples": [
+            {
+                "code": "say_example_please-do-not-say-that-aloud",
+                "text": "Please do not say that aloud."
+            },
+            {
+                "code": "say_example_he-says-things-quietly",
+                "text": "He says things quietly."
+            },
+            {
+                "code": "say_example_he-quickly-says-what-he-needs-and-hangs-up-the-phone",
+                "text": "He quickly says what he needs and hangs up the phone."
+            },
+            {
+                "code": "say_example_he-rudely-said-what-was-on-his-mind",
+                "text": "He rudely said what was on his mind."
+            },
+            {
+                "code": "say_example_how-can-you-honestly-say-that",
+                "text": "How can you honestly say that?"
+            },
+            {
+                "code": "say_example_i-forgot-what-i-was-going-to-say",
+                "text": "I forgot what I was going to say."
+            },
+            {
+                "code": "say_example_i-want-to-say-that-i-really-enjoyed-this-evening",
+                "text": "I want to say that I really enjoyed this evening."
+            },
+            {
+                "code": "say_example_i-hate-to-say-it-but-i-think-allie-may-be-right",
+                "text": "I hate to say it, but I think Allie may be right."
+            },
+            {
+                "code": "say_example_he-had-nothing-to-say-about-the-party",
+                "text": "He had nothing to say about the party."
+            },
+            {
+                "code": "say_example_i-heard-him-say-they-are-leaving-monday",
+                "text": "I heard him say they are leaving Monday."
+            },
+            {
+                "code": "say_example_what-do-you-have-to-say-about-this",
+                "text": "What do you have to say about this?"
+            },
+            {
+                "code": "say_example_that-s-what-john-said-to-me",
+                "text": "That's what John said to me."
+            },
+            {
+                "code": "say_example_the-article-says-the-war-stories-are-true",
+                "text": "The article says the war stories are true."
+            },
+            {
+                "code": "say_example_the-forecast-says-it-might-be-80-degrees-on-sunday",
+                "text": "The forecast says it might be 80 degrees on Sunday."
+            },
+            {
+                "code": "say_example_amanda-said-goodbye-to-her-grandmother",
+                "text": "Amanda said goodbye to her grandmother."
+            }
+        ]
+    }
+]

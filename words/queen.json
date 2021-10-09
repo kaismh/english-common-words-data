@@ -1,0 +1,36 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a female ruler of a royal family; the wife of a king",
+        "examples": [
+            {
+                "code": "queen_example_the-queen-ruled-for-30-years",
+                "text": "The queen ruled for 30 years."
+            },
+            {
+                "code": "queen_example_the-queen-ruled-over-all-of-the-land",
+                "text": "The queen ruled over all of the land."
+            },
+            {
+                "code": "queen_example_she-was-crowned-queen-in-1832",
+                "text": "She was crowned queen in 1832."
+            },
+            {
+                "code": "queen_example_she-is-our-future-queen",
+                "text": "She is our future queen."
+            },
+            {
+                "code": "queen_example_she-was-prom-queen",
+                "text": "She was prom queen."
+            },
+            {
+                "code": "queen_example_she-will-be-the-queen-of-spain",
+                "text": "She will be the Queen of Spain."
+            },
+            {
+                "code": "queen_example_she-is-the-servant-under-the-queen-of-england",
+                "text": "She is the servant under the Queen of England."
+            }
+        ]
+    }
+]

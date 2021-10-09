@@ -1,0 +1,94 @@
+[
+    {
+        "type": "(n)",
+        "mean": "an important topic or problem; a topic used for debate or discussion",
+        "examples": [
+            {
+                "code": "issue_example_the-economy-is-the-main-issue-in-the-election",
+                "text": "The economy is the main issue in the election."
+            },
+            {
+                "code": "issue_example_the-problem-raised-wider-issues-of-poverty",
+                "text": "The problem raised wider issues of poverty."
+            },
+            {
+                "code": "issue_example_they-are-debating-on-the-controversial-issue-of-gun-control",
+                "text": "They are debating on the controversial issue of gun control."
+            },
+            {
+                "code": "issue_example_the-meeting-was-focused-on-economic-issues",
+                "text": "The meeting was focused on economic issues."
+            },
+            {
+                "code": "issue_example_he-raised-the-issue-during-the-meeting",
+                "text": "He raised the issue during the meeting."
+            },
+            {
+                "code": "issue_example_they-held-a-meeting-to-settle-the-issue",
+                "text": "They held a meeting to settle the issue."
+            },
+            {
+                "code": "issue_example_they-discussed-the-issue-for-3-hours",
+                "text": "They discussed the issue for 3 hours."
+            },
+            {
+                "code": "issue_example_let-s-focus-on-the-main-issue",
+                "text": "Let's focus on the main issue."
+            },
+            {
+                "code": "issue_example_safety-became-the-real-issue",
+                "text": "Safety became the real issue."
+            },
+            {
+                "code": "issue_example_she-tried-to-avoid-the-key-issue",
+                "text": "She tried to avoid the key issue."
+            },
+            {
+                "code": "issue_example_do-you-understand-their-issues",
+                "text": "Do you understand their issues?"
+            },
+            {
+                "code": "issue_example_these-issues-affect-the-workers-in-the-factory",
+                "text": "These issues affect the workers in the factory."
+            },
+            {
+                "code": "issue_example_she-spoke-on-the-issue-of-immigration-reform",
+                "text": "She spoke on the issue of immigration reform."
+            },
+            {
+                "code": "issue_example_she-addressed-few-issues-concerning-the-environment",
+                "text": "She addressed few issues concerning the environment."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to supply or distribute",
+        "examples": [
+            {
+                "code": "issue_example_an-official-statement-was-issued-directly-by-the-victim-s-family",
+                "text": "An official statement was issued directly by the victim's family."
+            },
+            {
+                "code": "issue_example_the-bank-immediately-issued-a-replacement-credit-card",
+                "text": "The bank immediately issued a replacement credit card."
+            },
+            {
+                "code": "issue_example_this-report-was-issued-jointly-by-the-two-departments",
+                "text": "This report was issued jointly by the two departments."
+            },
+            {
+                "code": "issue_example_he-read-the-statement-issued-on-behalf-of-the-mayor",
+                "text": "He read the statement issued on behalf of the mayor."
+            },
+            {
+                "code": "issue_example_the-new-information-has-to-be-issued-to-all-patients",
+                "text": "The new information has to be issued to all patients."
+            },
+            {
+                "code": "issue_example_the-team-was-issued-with-new-equipment",
+                "text": "The team was issued with new equipment."
+            }
+        ]
+    }
+]

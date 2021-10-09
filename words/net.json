@@ -1,0 +1,46 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the Internet; a type of material that is made of many strings or wires that are tied together with holes in between",
+        "examples": [
+            {
+                "code": "net_example_i-surfed-the-internet-all-evening",
+                "text": "I surfed the Internet all evening."
+            },
+            {
+                "code": "net_example_i-spread-out-the-fishing-net",
+                "text": "I spread out the fishing net."
+            },
+            {
+                "code": "net_example_we-have-a-couple-of-butterfly-nets",
+                "text": "We have a couple of butterfly nets."
+            },
+            {
+                "code": "net_example_he-caught-many-fish-with-his-fishing-net",
+                "text": "He caught many fish with his fishing net."
+            },
+            {
+                "code": "net_example_she-hit-the-tennis-ball-over-the-net",
+                "text": "She hit the tennis ball over the net."
+            }
+        ]
+    },
+    {
+        "type": "(adj)",
+        "mean": "after all charges and deductions are taken out; the final and total amount",
+        "examples": [
+            {
+                "code": "net_example_how-much-is-the-billionaire-s-net-worth",
+                "text": "How much is the billionaire's net worth?"
+            },
+            {
+                "code": "net_example_the-company-increased-its-net-earnings-last-quarter",
+                "text": "The company increased its net earnings last quarter."
+            },
+            {
+                "code": "net_example_what-is-the-net-result",
+                "text": "What is the net result?"
+            }
+        ]
+    }
+]

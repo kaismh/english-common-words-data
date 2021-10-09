@@ -1,0 +1,118 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to begin doing something",
+        "examples": [
+            {
+                "code": "start_example_she-suddenly-started-running-in-the-opposite-direction",
+                "text": "She suddenly started running in the opposite direction."
+            },
+            {
+                "code": "start_example_he-just-started-a-new-job",
+                "text": "He just started a new job."
+            },
+            {
+                "code": "start_example_she-started-off-as-the-company-secretary",
+                "text": "She started off as the company secretary."
+            },
+            {
+                "code": "start_example_we-are-going-to-have-to-start-over",
+                "text": "We are going to have to start over."
+            },
+            {
+                "code": "start_example_she-decided-to-start-looking-for-a-new-job",
+                "text": "She decided to start looking for a new job."
+            },
+            {
+                "code": "start_example_he-is-due-to-start-next-week",
+                "text": "He is due to start next week."
+            },
+            {
+                "code": "start_example_i-have-to-start-packing-for-my-trip",
+                "text": "I have to start packing for my trip."
+            },
+            {
+                "code": "start_example_i-started-as-a-dishwasher-and-worked-my-way-up",
+                "text": "I started as a dishwasher and worked my way up."
+            },
+            {
+                "code": "start_example_let-s-start-by-introducing-ourselves",
+                "text": "Let's start by introducing ourselves."
+            },
+            {
+                "code": "start_example_can-you-start-from-the-beginning-again",
+                "text": "Can you start from the beginning again?"
+            },
+            {
+                "code": "start_example_let-s-start-dinner-with-an-appetizer",
+                "text": "Let's start dinner with an appetizer."
+            }
+        ]
+    },
+    {
+        "type": "(n)",
+        "mean": "the beginning of something",
+        "examples": [
+            {
+                "code": "start_example_she-had-a-great-start-to-her-dancing-career",
+                "text": "She had a great start to her dancing career."
+            },
+            {
+                "code": "start_example_our-soccer-team-had-a-terrible-start-to-the-game",
+                "text": "Our soccer team had a terrible start to the game."
+            },
+            {
+                "code": "start_example_she-wanted-a-new-start-after-her-divorce",
+                "text": "She wanted a new start after her divorce."
+            },
+            {
+                "code": "start_example_we-got-a-late-start-to-our-trip",
+                "text": "We got a late start to our trip."
+            },
+            {
+                "code": "start_example_i-didn-t-trust-him-from-the-very-start",
+                "text": "I didn't trust him from the very start."
+            },
+            {
+                "code": "start_example_my-favorite-basketball-team-got-off-to-a-great-start",
+                "text": "My favorite basketball team got off to a great start."
+            },
+            {
+                "code": "start_example_let-s-make-a-fresh-start-in-a-new-city",
+                "text": "Let's make a fresh start in a new city."
+            },
+            {
+                "code": "start_example_music-signals-the-start-of-the-ceremony",
+                "text": "Music signals the start of the ceremony."
+            },
+            {
+                "code": "start_example_the-contestants-walked-up-to-the-starting-line",
+                "text": "The contestants walked up to the starting line."
+            },
+            {
+                "code": "start_example_my-start-date-for-the-new-job-is-january-3rd",
+                "text": "My start date for the new job is January 3rd."
+            },
+            {
+                "code": "start_example_we-have-different-start-times-at-school",
+                "text": "We have different start times at school."
+            },
+            {
+                "code": "start_example_push-the-start-button-to-begin-the-wash-cycle",
+                "text": "Push the start button to begin the wash cycle."
+            },
+            {
+                "code": "start_example_she-didn-t-trust-him-from-the-start",
+                "text": "She didn't trust him from the start."
+            },
+            {
+                "code": "start_example_she-needs-a-fresh-start-in-life",
+                "text": "She needs a fresh start in life."
+            },
+            {
+                "code": "start_example_everyone-was-hopeful-at-the-start-of-the-game",
+                "text": "Everyone was hopeful at the start of the game."
+            }
+        ]
+    }
+]

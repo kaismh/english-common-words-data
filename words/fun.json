@@ -1,0 +1,70 @@
+[
+    {
+        "type": "(n)",
+        "mean": "enjoyment or pleasure; a good time",
+        "examples": [
+            {
+                "code": "fun_example_going-to-the-beach-was-good-fun",
+                "text": "Going to the beach was good fun."
+            },
+            {
+                "code": "fun_example_the-carnival-was-just-pure-fun",
+                "text": "The carnival was just pure fun."
+            },
+            {
+                "code": "fun_example_it-started-out-as-innocent-fun",
+                "text": "It started out as innocent fun."
+            },
+            {
+                "code": "fun_example_this-is-a-good-place-for-family-fun",
+                "text": "This is a good place for family fun."
+            },
+            {
+                "code": "fun_example_this-is-a-lot-of-fun",
+                "text": "This is a lot of fun."
+            },
+            {
+                "code": "fun_example_he-seems-to-be-having-fun",
+                "text": "He seems to be having fun."
+            },
+            {
+                "code": "fun_example_we-are-having-a-lot-of-fun-on-vacation",
+                "text": "We are having a lot of fun on vacation."
+            },
+            {
+                "code": "fun_example_his-bad-attitude-ruined-their-fun",
+                "text": "His bad attitude ruined their fun."
+            },
+            {
+                "code": "fun_example_i-play-sports-for-fun-not-because-i-have-to-win",
+                "text": "I play sports for fun, not because I have to win."
+            },
+            {
+                "code": "fun_example_i-m-sorry-i-hurt-your-feelings-i-only-said-it-in-fun",
+                "text": "I'm sorry I hurt your feelings, I only said it in fun."
+            }
+        ]
+    },
+    {
+        "type": "(adj)",
+        "mean": "enjoyable, amusing, or entertaining",
+        "examples": [
+            {
+                "code": "fun_example_we-had-a-fun-day-at-the-zoo",
+                "text": "We had a fun day at the zoo."
+            },
+            {
+                "code": "fun_example_we-played-a-fun-game",
+                "text": "We played a fun game."
+            },
+            {
+                "code": "fun_example_now-it-s-time-for-the-fun-part",
+                "text": "Now it's time for the fun part."
+            },
+            {
+                "code": "fun_example_that-was-a-fun-evening",
+                "text": "That was a fun evening."
+            }
+        ]
+    }
+]

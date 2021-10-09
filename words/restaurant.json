@@ -1,0 +1,104 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a place where you pay to eat a meal",
+        "examples": [
+            {
+                "code": "restaurant_example_we-went-to-a-restaurant",
+                "text": "We went to a restaurant."
+            },
+            {
+                "code": "restaurant_example_the-restaurant-serves-bad-food",
+                "text": "The restaurant serves bad food."
+            },
+            {
+                "code": "restaurant_example_the-restaurant-caters-to-our-community",
+                "text": "The restaurant caters to our community."
+            },
+            {
+                "code": "restaurant_example_i-recommend-this-restaurant",
+                "text": "I recommend this restaurant."
+            },
+            {
+                "code": "restaurant_example_the-restaurant-closed-late",
+                "text": "The restaurant closed late."
+            },
+            {
+                "code": "restaurant_example_they-finally-opened-a-restaurant",
+                "text": "They finally opened a restaurant."
+            },
+            {
+                "code": "restaurant_example_they-closed-their-struggling-restaurant",
+                "text": "They closed their struggling restaurant."
+            },
+            {
+                "code": "restaurant_example_the-restaurant-specializes-in-seafood",
+                "text": "The restaurant specializes in seafood."
+            },
+            {
+                "code": "restaurant_example_she-owns-the-restaurant",
+                "text": "She owns the restaurant."
+            },
+            {
+                "code": "restaurant_example_i-tried-the-new-restaurant",
+                "text": "I tried the new restaurant."
+            },
+            {
+                "code": "restaurant_example_she-is-a-restaurant-owner",
+                "text": "She is a restaurant owner."
+            },
+            {
+                "code": "restaurant_example_mcdonald-s-is-a-famous-restaurant-chain",
+                "text": "McDonald's is a famous restaurant chain."
+            },
+            {
+                "code": "restaurant_example_he-works-in-the-restaurant-industry",
+                "text": "He works in the restaurant industry."
+            },
+            {
+                "code": "restaurant_example_the-restaurant-staff-is-great",
+                "text": "The restaurant staff is great."
+            },
+            {
+                "code": "restaurant_example_my-kids-love-restaurant-food",
+                "text": "My kids love restaurant food."
+            },
+            {
+                "code": "restaurant_example_he-s-a-famous-restaurant-critic",
+                "text": "He's a famous restaurant critic."
+            },
+            {
+                "code": "restaurant_example_we-need-to-make-a-restaurant-reservation",
+                "text": "We need to make a restaurant reservation."
+            },
+            {
+                "code": "restaurant_example_we-went-to-a-good-chinese-restaurant",
+                "text": "We went to a good Chinese restaurant."
+            },
+            {
+                "code": "restaurant_example_this-is-a-five-star-restaurant",
+                "text": "This is a five-star restaurant."
+            },
+            {
+                "code": "restaurant_example_there-are-a-lot-of-chain-restaurants-in-this-area",
+                "text": "There are a lot of chain restaurants in this area."
+            },
+            {
+                "code": "restaurant_example_we-ate-at-an-expensive-restaurant",
+                "text": "We ate at an expensive restaurant."
+            },
+            {
+                "code": "restaurant_example_he-owns-a-gourmet-restaurant",
+                "text": "He owns a gourmet restaurant."
+            },
+            {
+                "code": "restaurant_example_do-you-want-to-go-to-the-new-seafood-restaurant",
+                "text": "Do you want to go to the new seafood restaurant?"
+            },
+            {
+                "code": "restaurant_example_we-ate-at-a-restaurant",
+                "text": "We ate at a restaurant."
+            }
+        ]
+    }
+]

@@ -1,0 +1,36 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "useful; realistic; sensible",
+        "examples": [
+            {
+                "code": "practical_example_she-is-very-practical",
+                "text": "She is very practical."
+            },
+            {
+                "code": "practical_example_the-plan-didn-t-seem-practical",
+                "text": "The plan didn't seem practical."
+            },
+            {
+                "code": "practical_example_my-friend-is-not-a-very-practical-person",
+                "text": "My friend is not a very practical person."
+            },
+            {
+                "code": "practical_example_let-me-give-you-some-practical-advice",
+                "text": "Let me give you some practical advice."
+            },
+            {
+                "code": "practical_example_this-theory-has-no-practical-use",
+                "text": "This theory has no practical use."
+            },
+            {
+                "code": "practical_example_is-there-a-practical-alternative",
+                "text": "Is there a practical alternative?"
+            },
+            {
+                "code": "practical_example_he-doesn-t-have-any-practical-skills",
+                "text": "He doesn't have any practical skills."
+            }
+        ]
+    }
+]

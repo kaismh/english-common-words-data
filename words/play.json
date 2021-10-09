@@ -1,0 +1,150 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to take part in a fun activity or game; to perform; to use a musical instrument",
+        "examples": [
+            {
+                "code": "play_example_i-play-the-violin",
+                "text": "I play the violin."
+            },
+            {
+                "code": "play_example_we-play-chess-every-friday-night",
+                "text": "We play chess every Friday night."
+            },
+            {
+                "code": "play_example_i-want-to-play-an-instrument",
+                "text": "I want to play an instrument."
+            },
+            {
+                "code": "play_example_we-play-baseball",
+                "text": "We play baseball."
+            },
+            {
+                "code": "play_example_the-band-played-a-song",
+                "text": "The band played a song."
+            },
+            {
+                "code": "play_example_he-plays-the-lottery-every-week",
+                "text": "He plays the lottery every week."
+            },
+            {
+                "code": "play_example_he-played-the-video",
+                "text": "He played the video."
+            },
+            {
+                "code": "play_example_the-band-played-well",
+                "text": "The band played well."
+            },
+            {
+                "code": "play_example_the-actor-played-an-interesting-character",
+                "text": "The actor played an interesting character."
+            },
+            {
+                "code": "play_example_i-played-a-chord-on-the-piano",
+                "text": "I played a chord on the piano."
+            },
+            {
+                "code": "play_example_she-played-a-trick-on-me",
+                "text": "She played a trick on me."
+            },
+            {
+                "code": "play_example_they-played-a-game",
+                "text": "They played a game."
+            },
+            {
+                "code": "play_example_our-team-played-yesterday",
+                "text": "Our team played yesterday."
+            },
+            {
+                "code": "play_example_he-plays-defense-on-the-football-team",
+                "text": "He plays defense on the football team."
+            },
+            {
+                "code": "play_example_the-children-play-together",
+                "text": "The children play together."
+            },
+            {
+                "code": "play_example_she-played-badly-today",
+                "text": "She played badly today."
+            },
+            {
+                "code": "play_example_he-plays-alone",
+                "text": "He plays alone."
+            },
+            {
+                "code": "play_example_the-band-played-live",
+                "text": "The band played live."
+            },
+            {
+                "code": "play_example_i-want-to-play-with-my-friends",
+                "text": "I want to play with my friends."
+            },
+            {
+                "code": "play_example_he-played-a-song-on-the-piano",
+                "text": "He played a song on the piano."
+            },
+            {
+                "code": "play_example_we-played-at-the-park",
+                "text": "We played at the park."
+            },
+            {
+                "code": "play_example_our-team-played-against-them",
+                "text": "Our team played against them."
+            },
+            {
+                "code": "play_example_he-is-playing-in-the-sand",
+                "text": "He is playing in the sand."
+            },
+            {
+                "code": "play_example_he-plays-for-our-team",
+                "text": "He plays for our team."
+            }
+        ]
+    },
+    {
+        "type": "(n)",
+        "mean": "a fun activity; a story acted out on stage or in a theater; an action in a sports game",
+        "examples": [
+            {
+                "code": "play_example_we-saw-the-new-play",
+                "text": "We saw the new play."
+            },
+            {
+                "code": "play_example_she-is-performing-in-the-play",
+                "text": "She is performing in the play."
+            },
+            {
+                "code": "play_example_the-famous-critic-is-reviewing-the-play",
+                "text": "The famous critic is reviewing the play."
+            },
+            {
+                "code": "play_example_the-referee-stopped-the-play",
+                "text": "The referee stopped the play."
+            },
+            {
+                "code": "play_example_my-kids-love-outdoor-play",
+                "text": "My kids love outdoor play."
+            },
+            {
+                "code": "play_example_he-starred-in-a-broadway-play",
+                "text": "He starred in a Broadway play."
+            },
+            {
+                "code": "play_example_that-was-a-bad-play-by-the-defense",
+                "text": "That was a bad play by the defense."
+            },
+            {
+                "code": "play_example_the-play-is-about-a-family",
+                "text": "The play is about a family."
+            },
+            {
+                "code": "play_example_the-play-is-at-the-local-theater",
+                "text": "The play is at the local theater."
+            },
+            {
+                "code": "play_example_the-ball-is-in-play",
+                "text": "The ball is in play."
+            }
+        ]
+    }
+]

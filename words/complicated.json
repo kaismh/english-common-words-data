@@ -1,0 +1,60 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "hard to understand",
+        "examples": [
+            {
+                "code": "complicated_example_she-is-a-complicated-person",
+                "text": "She is a complicated person."
+            },
+            {
+                "code": "complicated_example_the-math-problem-sounds-complicated",
+                "text": "The math problem sounds complicated."
+            },
+            {
+                "code": "complicated_example_their-relationship-became-complicated",
+                "text": "Their relationship became complicated."
+            },
+            {
+                "code": "complicated_example_the-math-problem-is-extremely-complicated",
+                "text": "The math problem is extremely complicated."
+            },
+            {
+                "code": "complicated_example_my-homework-is-fairly-complicated",
+                "text": "My homework is fairly complicated."
+            },
+            {
+                "code": "complicated_example_the-situation-is-highly-complicated",
+                "text": "The situation is highly complicated."
+            },
+            {
+                "code": "complicated_example_she-is-making-things-too-complicated",
+                "text": "She is making things too complicated."
+            },
+            {
+                "code": "complicated_example_her-cell-phone-is-a-little-complicated",
+                "text": "Her cell phone is a little complicated."
+            },
+            {
+                "code": "complicated_example_the-teacher-gave-us-a-complicated-equation",
+                "text": "The teacher gave us a complicated equation."
+            },
+            {
+                "code": "complicated_example_he-is-in-a-complicated-situation",
+                "text": "He is in a complicated situation."
+            },
+            {
+                "code": "complicated_example_farming-can-be-complicated-work",
+                "text": "Farming can be complicated work."
+            },
+            {
+                "code": "complicated_example_we-followed-the-complicated-recipe",
+                "text": "We followed the complicated recipe."
+            },
+            {
+                "code": "complicated_example_she-and-her-father-have-a-complicated-relationship",
+                "text": "She and her father have a complicated relationship."
+            }
+        ]
+    }
+]

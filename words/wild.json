@@ -1,0 +1,36 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "out of control; not tamed by humans",
+        "examples": [
+            {
+                "code": "wild_example_her-child-is-very-wild",
+                "text": "Her child is very wild."
+            },
+            {
+                "code": "wild_example_she-is-a-little-wild-for-him",
+                "text": "She is a little wild for him."
+            },
+            {
+                "code": "wild_example_his-hair-is-absolutely-wild",
+                "text": "His hair is absolutely wild."
+            },
+            {
+                "code": "wild_example_that-child-is-very-wild",
+                "text": "That child is very wild."
+            },
+            {
+                "code": "wild_example_animals-roam-wild-in-the-forest",
+                "text": "Animals roam wild in the forest."
+            },
+            {
+                "code": "wild_example_fans-went-wild-when-they-saw-the-movie-star",
+                "text": "Fans went wild when they saw the movie star."
+            },
+            {
+                "code": "wild_example_her-boyfriend-was-wild-with-jealousy",
+                "text": "Her boyfriend was wild with jealousy."
+            }
+        ]
+    }
+]

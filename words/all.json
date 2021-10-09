@@ -1,0 +1,94 @@
+[
+    {
+        "type": "(adv)",
+        "mean": "completely or entirely",
+        "examples": [
+            {
+                "code": "all_example_my-parents-left-me-all-alone",
+                "text": "My parents left me all alone."
+            },
+            {
+                "code": "all_example_things-felt-all-wrong",
+                "text": "Things felt all wrong."
+            },
+            {
+                "code": "all_example_it-was-all-quiet-in-the-house",
+                "text": "It was all quiet in the house."
+            },
+            {
+                "code": "all_example_she-tries-to-act-all-innocent-but-we-know-she-was-involved",
+                "text": "She tries to act all innocent, but we know she was involved."
+            }
+        ]
+    },
+    {
+        "type": "(n)",
+        "mean": "everything",
+        "examples": [
+            {
+                "code": "all_example_is-this-all-that-is-left",
+                "text": "Is this all that is left?"
+            },
+            {
+                "code": "all_example_is-this-all-you-want-me-to-do-today",
+                "text": "Is this all you want me to do today?"
+            },
+            {
+                "code": "all_example_i-did-all-that-you-asked",
+                "text": "I did all that you asked."
+            },
+            {
+                "code": "all_example_that-is-all-i-know",
+                "text": "That is all I know."
+            }
+        ]
+    },
+    {
+        "type": "(pro)",
+        "mean": "everyone",
+        "examples": [
+            {
+                "code": "all_example_all-are-going-to-the-movies-but-i-have-to-do-homework",
+                "text": "All are going to the movies, but I have to do homework."
+            },
+            {
+                "code": "all_example_all-must-attend-the-meeting",
+                "text": "All must attend the meeting."
+            },
+            {
+                "code": "all_example_all-are-invited-to-the-party",
+                "text": "All are invited to the party."
+            }
+        ]
+    },
+    {
+        "type": "(adj)",
+        "mean": "the whole amount; every part of something",
+        "examples": [
+            {
+                "code": "all_example_all-the-food-was-gone-at-the-potluck",
+                "text": "All the food was gone at the potluck."
+            },
+            {
+                "code": "all_example_i-waited-all-day-for-the-mailman",
+                "text": "I waited all day for the mailman."
+            },
+            {
+                "code": "all_example_he-was-gone-all-week-on-a-business-trip",
+                "text": "He was gone all week on a business trip."
+            },
+            {
+                "code": "all_example_he-walked-me-all-the-way-home",
+                "text": "He walked me all the way home."
+            },
+            {
+                "code": "all_example_the-new-mom-needs-all-the-help-she-can-get",
+                "text": "The new mom needs all the help she can get."
+            },
+            {
+                "code": "all_example_he-is-all-talk-and-no-action",
+                "text": "He is all talk and no action."
+            }
+        ]
+    }
+]

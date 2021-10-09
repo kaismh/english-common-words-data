@@ -1,0 +1,68 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a bird raised on a farm for its meat and eggs",
+        "examples": [
+            {
+                "code": "chicken_example_i-only-have-corn-fed-chickens",
+                "text": "I only have corn-fed chickens."
+            },
+            {
+                "code": "chicken_example_i-ll-buy-some-frozen-chicken-at-the-supermarket",
+                "text": "I'll buy some frozen chicken at the supermarket."
+            },
+            {
+                "code": "chicken_example_this-chicken-is-juicy",
+                "text": "This chicken is juicy."
+            },
+            {
+                "code": "chicken_example_i-like-cold-chicken",
+                "text": "I like cold chicken."
+            },
+            {
+                "code": "chicken_example_this-farm-keeps-chickens",
+                "text": "This farm keeps chickens."
+            },
+            {
+                "code": "chicken_example_if-you-show-fear-the-chicken-will-peck-you",
+                "text": "If you show fear, the chicken will peck you."
+            },
+            {
+                "code": "chicken_example_can-you-hear-the-chickens-cluck",
+                "text": "Can you hear the chickens cluck?"
+            },
+            {
+                "code": "chicken_example_he-loves-to-eat-chicken",
+                "text": "He loves to eat chicken."
+            },
+            {
+                "code": "chicken_example_she-wants-to-be-a-chicken-farmer",
+                "text": "She wants to be a chicken farmer."
+            },
+            {
+                "code": "chicken_example_let-s-build-a-chicken-coop",
+                "text": "Let's build a chicken coop."
+            },
+            {
+                "code": "chicken_example_i-need-to-buy-some-chicken-wire",
+                "text": "I need to buy some chicken wire."
+            },
+            {
+                "code": "chicken_example_the-restaurant-sells-chicken-strips",
+                "text": "The restaurant sells chicken strips."
+            },
+            {
+                "code": "chicken_example_give-me-a-chicken-breast",
+                "text": "Give me a chicken breast."
+            },
+            {
+                "code": "chicken_example_i-ordered-a-chicken-sandwich",
+                "text": "I ordered a chicken sandwich."
+            },
+            {
+                "code": "chicken_example_we-re-making-chicken-soup",
+                "text": "We're making chicken soup."
+            }
+        ]
+    }
+]

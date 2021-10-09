@@ -1,0 +1,52 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "sad, not glad",
+        "examples": [
+            {
+                "code": "unhappy_example_she-was-very-unhappy-with-their-decision",
+                "text": "She was very unhappy with their decision."
+            },
+            {
+                "code": "unhappy_example_he-was-a-little-unhappy-with-the-results",
+                "text": "He was a little unhappy with the results."
+            },
+            {
+                "code": "unhappy_example_he-was-equally-unhappy-with-the-second-choice",
+                "text": "He was equally unhappy with the second choice."
+            },
+            {
+                "code": "unhappy_example_she-is-unhappy",
+                "text": "She is unhappy."
+            },
+            {
+                "code": "unhappy_example_he-is-becoming-unhappy-with-his-boss",
+                "text": "He is becoming unhappy with his boss."
+            },
+            {
+                "code": "unhappy_example_she-remained-unhappy-for-the-rest-of-her-life",
+                "text": "She remained unhappy for the rest of her life."
+            },
+            {
+                "code": "unhappy_example_she-makes-him-so-unhappy",
+                "text": "She makes him so unhappy."
+            },
+            {
+                "code": "unhappy_example_he-was-very-unhappy-with-their-choice",
+                "text": "He was very unhappy with their choice."
+            },
+            {
+                "code": "unhappy_example_he-is-an-unhappy-customer",
+                "text": "He is an unhappy customer."
+            },
+            {
+                "code": "unhappy_example_she-is-in-an-unhappy-marriage",
+                "text": "She is in an unhappy marriage."
+            },
+            {
+                "code": "unhappy_example_he-s-had-an-unhappy-life",
+                "text": "He's had an unhappy life."
+            }
+        ]
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a unit for weight; a unit of money in some countries; a place that holds homeless animals",
+        "examples": [
+            {
+                "code": "pound_example_she-weighs-300-pounds",
+                "text": "She weighs 300 pounds."
+            },
+            {
+                "code": "pound_example_it-cost-50-pounds",
+                "text": "It cost 50 pounds."
+            },
+            {
+                "code": "pound_example_it-costs-45-british-pounds",
+                "text": "It costs 45 British Pounds."
+            },
+            {
+                "code": "pound_example_we-got-our-dog-from-the-city-pound",
+                "text": "We got our dog from the city pound."
+            },
+            {
+                "code": "pound_example_we-got-the-dog-at-the-pound",
+                "text": "We got the dog at the pound."
+            },
+            {
+                "code": "pound_example_they-took-the-stray-dog-to-the-pound",
+                "text": "They took the stray dog to the pound."
+            },
+            {
+                "code": "pound_example_we-bought-50-pounds-of-rice",
+                "text": "We bought 50 pounds of rice."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to hit something with force",
+        "examples": [
+            {
+                "code": "pound_example_my-heart-was-pounding",
+                "text": "My heart was pounding."
+            },
+            {
+                "code": "pound_example_he-pounded-his-fist-on-the-table",
+                "text": "He pounded his fist on the table."
+            },
+            {
+                "code": "pound_example_the-waves-pounded-the-boat",
+                "text": "The waves pounded the boat."
+            },
+            {
+                "code": "pound_example_i-pounded-the-nail-into-the-wall",
+                "text": "I pounded the nail into the wall."
+            },
+            {
+                "code": "pound_example_he-pounded-at-the-door",
+                "text": "He pounded at the door."
+            }
+        ]
+    }
+]

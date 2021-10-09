@@ -1,0 +1,44 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a way of thinking; the study of the meaning of life",
+        "examples": [
+            {
+                "code": "philosophy_example_i-share-your-philosophy",
+                "text": "I share your philosophy."
+            },
+            {
+                "code": "philosophy_example_his-philosophy-is-based-on-buddhism",
+                "text": "His philosophy is based on Buddhism."
+            },
+            {
+                "code": "philosophy_example_he-has-developed-his-own-philosophy-on-life",
+                "text": "He has developed his own philosophy on life."
+            },
+            {
+                "code": "philosophy_example_i-am-studying-greek-philosophy",
+                "text": "I am studying Greek philosophy."
+            },
+            {
+                "code": "philosophy_example_our-guiding-philosophy-is-to-do-no-harm",
+                "text": "Our guiding philosophy is to do no harm."
+            },
+            {
+                "code": "philosophy_example_my-personal-philosophy-is-to-be-honest-at-all-times",
+                "text": "My personal philosophy is to be honest at all times."
+            },
+            {
+                "code": "philosophy_example_they-have-differing-philosophies",
+                "text": "They have differing philosophies."
+            },
+            {
+                "code": "philosophy_example_they-cannot-agree-on-a-design-philosophy",
+                "text": "They cannot agree on a design philosophy."
+            },
+            {
+                "code": "philosophy_example_the-philosophy-behind-our-business-is-caring-for-our-community",
+                "text": "The philosophy behind our business is caring for our community."
+            }
+        ]
+    }
+]

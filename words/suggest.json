@@ -1,0 +1,52 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to give an idea or advice for people to think about; to say or show something in an indirect way",
+        "examples": [
+            {
+                "code": "suggest_example_i-strongly-suggest-you-wait-until-you-have-all-of-the-facts",
+                "text": "I strongly suggest you wait until you have all of the facts."
+            },
+            {
+                "code": "suggest_example_she-clearly-suggested-that-we-attend-the-meeting",
+                "text": "She clearly suggested that we attend the meeting."
+            },
+            {
+                "code": "suggest_example_he-politely-suggested-that-we-take-the-screaming-child-outside",
+                "text": "He politely suggested that we take the screaming child outside."
+            },
+            {
+                "code": "suggest_example_she-initially-suggested-another-restaurant",
+                "text": "She initially suggested another restaurant."
+            },
+            {
+                "code": "suggest_example_he-got-upset-when-i-merely-suggested-that-he-change-his-shirt",
+                "text": "He got upset when I merely suggested that he change his shirt."
+            },
+            {
+                "code": "suggest_example_she-seems-to-suggest-that-we-not-attend-the-party",
+                "text": "She seems to suggest that we not attend the party."
+            },
+            {
+                "code": "suggest_example_i-am-tempted-to-suggest-another-movie",
+                "text": "I am tempted to suggest another movie."
+            },
+            {
+                "code": "suggest_example_how-dare-you-suggest-that-she-lied-about-her-illness",
+                "text": "How dare you suggest that she lied about her illness."
+            },
+            {
+                "code": "suggest_example_i-suggested-a-tropical-island-for-our-next-vacation",
+                "text": "I suggested a tropical island for our next vacation."
+            },
+            {
+                "code": "suggest_example_the-school-suggested-to-the-boy-s-parents-that-he-receive-counseling",
+                "text": "The school suggested to the boy's parents that he receive counseling."
+            },
+            {
+                "code": "suggest_example_someone-suggested-him-as-the-new-club-president",
+                "text": "Someone suggested him as the new club president."
+            }
+        ]
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a block of baked clay used for building",
+        "examples": [
+            {
+                "code": "brick_example_the-house-is-made-of-red-bricks",
+                "text": "The house is made of red bricks."
+            },
+            {
+                "code": "brick_example_they-are-building-a-brick-house",
+                "text": "They are building a brick house."
+            },
+            {
+                "code": "brick_example_he-is-laying-bricks",
+                "text": "He is laying bricks."
+            },
+            {
+                "code": "brick_example_he-is-carrying-bricks-from-the-truck-to-the-house",
+                "text": "He is carrying bricks from the truck to the house."
+            },
+            {
+                "code": "brick_example_angry-protestors-began-throwing-bricks",
+                "text": "Angry protestors began throwing bricks."
+            },
+            {
+                "code": "brick_example_they-built-a-house-of-bricks",
+                "text": "They built a house of bricks."
+            }
+        ]
+    }
+]

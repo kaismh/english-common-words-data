@@ -1,0 +1,208 @@
+[
+    {
+        "type": "(n)",
+        "mean": "top level; a feeling of great pleasure or happiness",
+        "examples": [
+            {
+                "code": "high_example_profits-reached-a-historic-high",
+                "text": "Profits reached a historic high."
+            },
+            {
+                "code": "high_example_they-beat-the-previous-high-by-10-points",
+                "text": "They beat the previous high by 10 points."
+            },
+            {
+                "code": "high_example_gas-prices-are-at-a-five-year-high",
+                "text": "Gas prices are at a five-year high."
+            },
+            {
+                "code": "high_example_he-beat-his-idol-s-career-high",
+                "text": "He beat his idol's career high."
+            },
+            {
+                "code": "high_example_he-felt-an-emotional-high-after-skydiving",
+                "text": "He felt an emotional high after skydiving."
+            },
+            {
+                "code": "high_example_running-gives-him-a-natural-high",
+                "text": "Running gives him a natural high."
+            },
+            {
+                "code": "high_example_she-is-on-such-a-caffeine-high-right-now",
+                "text": "She is on such a caffeine high right now."
+            },
+            {
+                "code": "high_example_sales-hit-a-record-high",
+                "text": "Sales hit a record high."
+            },
+            {
+                "code": "high_example_he-experiences-a-real-high-when-he-goes-skydiving",
+                "text": "He experiences a real high when he goes skydiving."
+            },
+            {
+                "code": "high_example_exercise-gives-her-a-natural-high",
+                "text": "Exercise gives her a natural high."
+            },
+            {
+                "code": "high_example_she-s-on-a-high-from-all-the-compliments-she-received",
+                "text": "She's on a high from all the compliments she received."
+            }
+        ]
+    },
+    {
+        "type": "(adj)",
+        "mean": "great or greater than normal",
+        "examples": [
+            {
+                "code": "high_example_he-s-suffering-from-high-blood-pressure",
+                "text": "He's suffering from high blood pressure."
+            },
+            {
+                "code": "high_example_he-strives-for-high-achievement",
+                "text": "He strives for high achievement."
+            },
+            {
+                "code": "high_example_she-feels-dizzy-at-high-altitudes",
+                "text": "She feels dizzy at high altitudes."
+            },
+            {
+                "code": "high_example_the-military-is-on-high-alert-for-an-attack",
+                "text": "The military is on high alert for an attack."
+            },
+            {
+                "code": "high_example_that-was-a-really-high-bill",
+                "text": "That was a really high bill."
+            },
+            {
+                "code": "high_example_this-room-has-a-high-capacity",
+                "text": "This room has a high capacity."
+            },
+            {
+                "code": "high_example_there-is-a-high-chance-of-failure-in-this-project",
+                "text": "There is a high chance of failure in this project."
+            },
+            {
+                "code": "high_example_they-looked-up-at-a-high-cliff",
+                "text": "They looked up at a high cliff."
+            },
+            {
+                "code": "high_example_we-re-worried-about-the-high-cost",
+                "text": "We're worried about the high cost."
+            },
+            {
+                "code": "high_example_he-has-high-debt",
+                "text": "He has high debt."
+            },
+            {
+                "code": "high_example_there-is-high-demand-for-their-product",
+                "text": "There is high demand for their product."
+            },
+            {
+                "code": "high_example_they-gave-him-a-high-dose-of-the-medication",
+                "text": "They gave him a high dose of the medication."
+            },
+            {
+                "code": "high_example_she-went-to-the-hospital-with-a-high-fever",
+                "text": "She went to the hospital with a high fever."
+            },
+            {
+                "code": "high_example_the-program-has-high-enrollment-this-year",
+                "text": "The program has high enrollment this year."
+            },
+            {
+                "code": "high_example_they-enjoy-high-earnings",
+                "text": "They enjoy high earnings."
+            },
+            {
+                "code": "high_example_this-issue-is-of-high-importance",
+                "text": "This issue is of high importance."
+            },
+            {
+                "code": "high_example_high-inflation-is-hurting-the-economy",
+                "text": "High inflation is hurting the economy."
+            },
+            {
+                "code": "high_example_the-car-has-high-mileage",
+                "text": "The car has high mileage."
+            },
+            {
+                "code": "high_example_there-is-a-high-percentage-of-students-here",
+                "text": "There is a high percentage of students here."
+            },
+            {
+                "code": "high_example_the-gas-is-under-high-pressure",
+                "text": "The gas is under high pressure."
+            },
+            {
+                "code": "high_example_there-is-a-high-number-of-problems-we-need-to-fix",
+                "text": "There is a high number of problems we need to fix."
+            },
+            {
+                "code": "high_example_we-ve-received-high-rainfall-this-spring",
+                "text": "We've received high rainfall this spring."
+            },
+            {
+                "code": "high_example_the-company-has-high-productivity",
+                "text": "The company has high productivity."
+            },
+            {
+                "code": "high_example_they-received-a-high-rating",
+                "text": "They received a high rating."
+            },
+            {
+                "code": "high_example_she-is-in-high-school",
+                "text": "She is in high school."
+            },
+            {
+                "code": "high_example_there-is-really-high-unemployment-right-now",
+                "text": "There is really high unemployment right now."
+            },
+            {
+                "code": "high_example_there-are-high-winds-today",
+                "text": "There are high winds today."
+            },
+            {
+                "code": "high_example_he-has-a-high-tolerance-for-pain",
+                "text": "He has a high tolerance for pain."
+            },
+            {
+                "code": "high_example_that-s-a-high-score",
+                "text": "That's a high score."
+            },
+            {
+                "code": "high_example_there-s-high-risk-from-this-plan",
+                "text": "There's high risk from this plan."
+            },
+            {
+                "code": "high_example_don-t-go-on-the-beach-at-high-tide",
+                "text": "Don't go on the beach at high tide."
+            }
+        ]
+    },
+    {
+        "type": "(adv)",
+        "mean": "at a great distance from the ground",
+        "examples": [
+            {
+                "code": "high_example_the-airplane-was-high-overhead",
+                "text": "The airplane was high overhead."
+            },
+            {
+                "code": "high_example_the-ball-bounced-high",
+                "text": "The ball bounced high."
+            },
+            {
+                "code": "high_example_the-eagle-soared-high-over-the-mountains",
+                "text": "The eagle soared high over the mountains."
+            },
+            {
+                "code": "high_example_they-climbed-high-up-the-hill",
+                "text": "They climbed high up the hill."
+            },
+            {
+                "code": "high_example_this-school-is-ranked-high",
+                "text": "This school is ranked high."
+            }
+        ]
+    }
+]

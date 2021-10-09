@@ -1,0 +1,32 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a period of time",
+        "examples": [
+            {
+                "code": "while_example_they-stayed-at-the-party-for-a-short-while",
+                "text": "They stayed at the party for a short while."
+            },
+            {
+                "code": "while_example_it-has-been-a-long-while-since-i-have-seen-them",
+                "text": "It has been a long while since I have seen them."
+            },
+            {
+                "code": "while_example_it-takes-quite-a-while-to-get-back-home",
+                "text": "It takes quite a while to get back home."
+            },
+            {
+                "code": "while_example_they-will-be-gone-for-a-while",
+                "text": "They will be gone for a while."
+            },
+            {
+                "code": "while_example_the-lost-campers-got-scared-after-a-while",
+                "text": "The lost campers got scared after a while."
+            },
+            {
+                "code": "while_example_she-will-be-back-in-a-while",
+                "text": "She will be back in a while."
+            }
+        ]
+    }
+]

@@ -1,0 +1,82 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to hit with the foot",
+        "examples": [
+            {
+                "code": "kick_example_he-kicked-the-ball-too-hard-and-it-went-over-the-fence",
+                "text": "He kicked the ball too hard and it went over the fence."
+            },
+            {
+                "code": "kick_example_he-violently-kicked-the-door",
+                "text": "He violently kicked the door."
+            },
+            {
+                "code": "kick_example_he-was-arrested-for-deliberately-kicking-a-person",
+                "text": "He was arrested for deliberately kicking a person."
+            },
+            {
+                "code": "kick_example_she-accidentally-kicked-her-brother",
+                "text": "She accidentally kicked her brother."
+            },
+            {
+                "code": "kick_example_the-boys-were-kicking-a-ball-around-in-the-backyard",
+                "text": "The boys were kicking a ball around in the backyard."
+            },
+            {
+                "code": "kick_example_my-son-accidently-kicked-me-in-the-leg",
+                "text": "My son accidently kicked me in the leg."
+            },
+            {
+                "code": "kick_example_she-kicked-at-the-sand-on-the-beach",
+                "text": "She kicked at the sand on the beach."
+            }
+        ]
+    },
+    {
+        "type": "(n)",
+        "mean": "the act of hitting with the foot; a great feeling",
+        "examples": [
+            {
+                "code": "kick_example_she-gave-him-a-hard-kick-to-the-stomach",
+                "text": "She gave him a hard kick to the stomach."
+            },
+            {
+                "code": "kick_example_he-learned-to-do-a-high-kick-yesterday",
+                "text": "He learned to do a high kick yesterday."
+            },
+            {
+                "code": "kick_example_she-got-a-real-kick-out-of-seeing-old-pictures-of-her-family",
+                "text": "She got a real kick out of seeing old pictures of her family."
+            },
+            {
+                "code": "kick_example_he-gave-the-door-a-good-kick",
+                "text": "He gave the door a good kick."
+            },
+            {
+                "code": "kick_example_he-delivered-a-strong-kick-to-his-opponent",
+                "text": "He delivered a strong kick to his opponent."
+            },
+            {
+                "code": "kick_example_she-received-a-kick-in-the-knee-for-saying-something-inappropriate",
+                "text": "She received a kick in the knee for saying something inappropriate."
+            },
+            {
+                "code": "kick_example_he-gets-a-big-kick-out-of-seeing-his-children-play-sports",
+                "text": "He gets a big kick out of seeing his children play sports."
+            },
+            {
+                "code": "kick_example_he-landed-a-kick-to-the-ribs",
+                "text": "He landed a kick to the ribs."
+            },
+            {
+                "code": "kick_example_she-got-a-kick-on-the-leg",
+                "text": "She got a kick on the leg."
+            },
+            {
+                "code": "kick_example_he-does-silly-things-just-for-kicks",
+                "text": "He does silly things just for kicks."
+            }
+        ]
+    }
+]

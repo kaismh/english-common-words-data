@@ -1,0 +1,40 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "related to the organization of a business or office",
+        "examples": [
+            {
+                "code": "administrative_example_we-need-to-hire-a-new-administrative-assistant-to-help-organize-the-office",
+                "text": "We need to hire a new administrative assistant to help organize the office."
+            },
+            {
+                "code": "administrative_example_the-passport-agency-is-located-in-the-administrative-building",
+                "text": "The passport agency is located in the administrative building."
+            },
+            {
+                "code": "administrative_example_his-administrative-duties-include-answering-phones-and-filing-paperwork",
+                "text": "His administrative duties include answering phones and filing paperwork."
+            },
+            {
+                "code": "administrative_example_he-was-placed-on-administrative-leave-during-the-investigation",
+                "text": "He was placed on administrative leave during the investigation."
+            },
+            {
+                "code": "administrative_example_the-managers-were-discussing-administrative-matters-during-the-meeting",
+                "text": "The managers were discussing administrative matters during the meeting."
+            },
+            {
+                "code": "administrative_example_she-got-an-administrative-job-at-her-father-s-company",
+                "text": "She got an administrative job at her father's company."
+            },
+            {
+                "code": "administrative_example_he-does-clerical-work-in-the-administrative-office",
+                "text": "He does clerical work in the administrative office."
+            },
+            {
+                "code": "administrative_example_he-doesn-t-do-anything-technical-his-job-is-strictly-administrative",
+                "text": "He doesn't do anything technical. His job is strictly administrative."
+            }
+        ]
+    }
+]

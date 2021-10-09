@@ -1,0 +1,88 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a 24 hour period; period while the sun is shining; period while working",
+        "examples": [
+            {
+                "code": "day_example_i-saw-him-the-next-day",
+                "text": "I saw him the next day."
+            },
+            {
+                "code": "day_example_he-will-agree-with-me-one-day",
+                "text": "He will agree with me one day."
+            },
+            {
+                "code": "day_example_it-s-a-big-day-for-her",
+                "text": "It's a big day for her."
+            },
+            {
+                "code": "day_example_it-was-just-another-normal-day",
+                "text": "It was just another normal day."
+            },
+            {
+                "code": "day_example_election-day-is-next-week",
+                "text": "Election day is next week."
+            },
+            {
+                "code": "day_example_she-can-t-wait-for-her-wedding-day",
+                "text": "She can't wait for her wedding day."
+            },
+            {
+                "code": "day_example_what-a-beautiful-day",
+                "text": "What a beautiful day!"
+            },
+            {
+                "code": "day_example_i-love-autumn-days",
+                "text": "I love autumn days."
+            },
+            {
+                "code": "day_example_today-was-a-fun-day",
+                "text": "Today was a fun day."
+            },
+            {
+                "code": "day_example_we-had-a-busy-day",
+                "text": "We had a busy day."
+            },
+            {
+                "code": "day_example_it-is-the-first-day-of-school",
+                "text": "It is the first day of school."
+            },
+            {
+                "code": "day_example_the-day-has-come-for-you-to-leave",
+                "text": "The day has come for you to leave."
+            },
+            {
+                "code": "day_example_we-will-spend-the-day-at-the-beach",
+                "text": "We will spend the day at the beach."
+            },
+            {
+                "code": "day_example_how-is-your-day",
+                "text": "How is your day?"
+            },
+            {
+                "code": "day_example_she-is-getting-bigger-by-the-day",
+                "text": "She is getting bigger by the day."
+            },
+            {
+                "code": "day_example_they-stayed-in-hawaii-for-ten-days",
+                "text": "They stayed in Hawaii for ten days."
+            },
+            {
+                "code": "day_example_he-can-do-it-in-a-day",
+                "text": "He can do it in a day."
+            },
+            {
+                "code": "day_example_the-dog-sleeps-during-the-day",
+                "text": "The dog sleeps during the day."
+            },
+            {
+                "code": "day_example_he-was-nervous-on-his-wedding-day",
+                "text": "He was nervous on his wedding day."
+            },
+            {
+                "code": "day_example_it-is-the-last-day-of-school",
+                "text": "It is the last day of school."
+            }
+        ]
+    }
+]

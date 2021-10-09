@@ -1,0 +1,56 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a room with a sink and toilet and sometimes a bathtub or shower",
+        "examples": [
+            {
+                "code": "bathroom_example_the-bathroom-is-steamy",
+                "text": "The bathroom is steamy."
+            },
+            {
+                "code": "bathroom_example_we-have-a-tiny-bathroom",
+                "text": "We have a tiny bathroom."
+            },
+            {
+                "code": "bathroom_example_the-bedroom-has-an-adjoining-bathroom",
+                "text": "The bedroom has an adjoining bathroom."
+            },
+            {
+                "code": "bathroom_example_do-you-have-a-public-bathroom",
+                "text": "Do you have a public bathroom?"
+            },
+            {
+                "code": "bathroom_example_where-s-the-men-s-bathroom",
+                "text": "Where's the men's bathroom?"
+            },
+            {
+                "code": "bathroom_example_she-needs-to-go-to-the-bathroom",
+                "text": "She needs to go to the bathroom."
+            },
+            {
+                "code": "bathroom_example_i-need-a-bathroom",
+                "text": "I need a bathroom."
+            },
+            {
+                "code": "bathroom_example_it-s-time-to-clean-the-bathroom",
+                "text": "It's time to clean the bathroom."
+            },
+            {
+                "code": "bathroom_example_we-are-hoping-to-decorate-the-bathroom",
+                "text": "We are hoping to decorate the bathroom."
+            },
+            {
+                "code": "bathroom_example_don-t-hog-the-bathroom",
+                "text": "Don't hog the bathroom!"
+            },
+            {
+                "code": "bathroom_example_the-bathroom-has-new-cabinets",
+                "text": "The bathroom has new cabinets."
+            },
+            {
+                "code": "bathroom_example_we-re-installing-the-bathroom-mirror",
+                "text": "We're installing the bathroom mirror."
+            }
+        ]
+    }
+]

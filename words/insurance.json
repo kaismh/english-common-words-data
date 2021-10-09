@@ -1,0 +1,92 @@
+[
+    {
+        "type": "(n)",
+        "mean": "an agreement in which you make monthly payments to a company and that company pays you money in the event of a sickness, death, or accident.",
+        "examples": [
+            {
+                "code": "insurance_example_she-had-to-get-additional-insurance-for-her-house",
+                "text": "She had to get additional insurance for her house."
+            },
+            {
+                "code": "insurance_example_he-signed-up-for-private-insurance",
+                "text": "He signed up for private insurance."
+            },
+            {
+                "code": "insurance_example_all-doctors-should-have-liability-insurance",
+                "text": "All doctors should have liability insurance."
+            },
+            {
+                "code": "insurance_example_he-does-not-have-comprehensive-insurance",
+                "text": "He does not have comprehensive insurance."
+            },
+            {
+                "code": "insurance_example_she-does-not-have-flood-insurance",
+                "text": "She does not have flood insurance."
+            },
+            {
+                "code": "insurance_example_he-applied-for-medical-insurance",
+                "text": "He applied for medical insurance."
+            },
+            {
+                "code": "insurance_example_my-father-bought-life-insurance",
+                "text": "My father bought life insurance."
+            },
+            {
+                "code": "insurance_example_i-haven-t-paid-the-insurance-yet",
+                "text": "I haven't paid the insurance yet."
+            },
+            {
+                "code": "insurance_example_our-insurance-will-pay-for-the-damage",
+                "text": "Our insurance will pay for the damage."
+            },
+            {
+                "code": "insurance_example_we-cannot-afford-medical-insurance",
+                "text": "We cannot afford medical insurance."
+            },
+            {
+                "code": "insurance_example_my-brother-sells-life-insurance",
+                "text": "My brother sells life insurance."
+            },
+            {
+                "code": "insurance_example_the-rising-insurance-costs-are-hurting-the-company",
+                "text": "The rising insurance costs are hurting the company."
+            },
+            {
+                "code": "insurance_example_he-had-insurance-coverage-for-his-boat",
+                "text": "He had insurance coverage for his boat."
+            },
+            {
+                "code": "insurance_example_our-insurance-policy-has-expired",
+                "text": "Our insurance policy has expired."
+            },
+            {
+                "code": "insurance_example_she-was-late-paying-the-insurance-premium",
+                "text": "She was late paying the insurance premium."
+            },
+            {
+                "code": "insurance_example_mr-johnson-is-an-insurance-agent",
+                "text": "Mr. Johnson is an insurance agent."
+            },
+            {
+                "code": "insurance_example_he-filed-an-insurance-claim",
+                "text": "He filed an insurance claim."
+            },
+            {
+                "code": "insurance_example_she-received-insurance-money",
+                "text": "She received insurance money."
+            },
+            {
+                "code": "insurance_example_he-won-a-huge-insurance-payout",
+                "text": "He won a huge insurance payout."
+            },
+            {
+                "code": "insurance_example_his-medical-insurance-is-with-blue-cross",
+                "text": "His medical insurance is with Blue Cross."
+            },
+            {
+                "code": "insurance_example_he-got-additional-insurance-for-his-employees",
+                "text": "He got additional insurance for his employees."
+            }
+        ]
+    }
+]

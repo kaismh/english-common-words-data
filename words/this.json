@@ -1,0 +1,70 @@
+[
+    {
+        "type": "(pro)",
+        "mean": "a person or thing here or nearby; a recent or current situation]",
+        "examples": [
+            {
+                "code": "this_example_this-is-my-mother",
+                "text": "This is my mother."
+            },
+            {
+                "code": "this_example_this-seems-to-be-new",
+                "text": "This seems to be new."
+            },
+            {
+                "code": "this_example_this-will-change-everything",
+                "text": "This will change everything."
+            },
+            {
+                "code": "this_example_this-makes-me-sad",
+                "text": "This makes me sad."
+            },
+            {
+                "code": "this_example_this-must-stay-here",
+                "text": "This must stay here."
+            },
+            {
+                "code": "this_example_this-happens-every-year",
+                "text": "This happens every year."
+            },
+            {
+                "code": "this_example_this-brings-us-much-happiness",
+                "text": "This brings us much happiness."
+            }
+        ]
+    },
+    {
+        "type": "(adj)",
+        "mean": "used to indicate a person or thing nearby; used to indicate a recent situation",
+        "examples": [
+            {
+                "code": "this_example_we-are-going-on-a-trip-this-summer",
+                "text": "We are going on a trip this summer."
+            },
+            {
+                "code": "this_example_i-saw-them-this-morning",
+                "text": "I saw them this morning."
+            },
+            {
+                "code": "this_example_this-box-is-not-big-enough",
+                "text": "This box is not big enough."
+            },
+            {
+                "code": "this_example_do-you-believe-this-person",
+                "text": "Do you believe this person?"
+            },
+            {
+                "code": "this_example_i-need-to-replace-this-computer",
+                "text": "I need to replace this computer."
+            },
+            {
+                "code": "this_example_this-restaurant-is-always-busy",
+                "text": "This restaurant is always busy."
+            },
+            {
+                "code": "this_example_this-situation-is-serious",
+                "text": "This situation is serious."
+            }
+        ]
+    }
+]

@@ -1,0 +1,114 @@
+[
+    {
+        "type": "(n)",
+        "mean": "things that happen in your mind while you are asleep; a wish that is difficult to get or achieve",
+        "examples": [
+            {
+                "code": "dream_example_he-woke-from-an-awful-dream",
+                "text": "He woke from an awful dream."
+            },
+            {
+                "code": "dream_example_she-has-recurrent-dreams",
+                "text": "She has recurrent dreams."
+            },
+            {
+                "code": "dream_example_she-had-a-pleasant-dream",
+                "text": "She had a pleasant dream."
+            },
+            {
+                "code": "dream_example_she-has-big-dreams-of-becoming-a-famous-singer",
+                "text": "She has big dreams of becoming a famous singer."
+            },
+            {
+                "code": "dream_example_she-never-achieved-her-lifelong-dreams",
+                "text": "She never achieved her lifelong dreams."
+            },
+            {
+                "code": "dream_example_his-plan-is-now-a-distant-dream",
+                "text": "His plan is now a distant dream."
+            },
+            {
+                "code": "dream_example_i-had-a-bad-dream",
+                "text": "I had a bad dream."
+            },
+            {
+                "code": "dream_example_he-awoke-from-a-weird-dream",
+                "text": "He awoke from a weird dream."
+            },
+            {
+                "code": "dream_example_do-you-remember-your-dream",
+                "text": "Do you remember your dream?"
+            },
+            {
+                "code": "dream_example_we-have-big-dreams-to-go-to-hawaii",
+                "text": "We have big dreams to go to Hawaii."
+            },
+            {
+                "code": "dream_example_when-will-i-achieve-my-dream",
+                "text": "When will I achieve my dream?"
+            },
+            {
+                "code": "dream_example_he-is-chasing-his-dream",
+                "text": "He is chasing his dream."
+            },
+            {
+                "code": "dream_example_please-don-t-abandon-your-dream",
+                "text": "Please don't abandon your dream."
+            },
+            {
+                "code": "dream_example_the-economy-crushed-her-dream",
+                "text": "The economy crushed her dream."
+            },
+            {
+                "code": "dream_example_i-hope-your-dreams-come-true",
+                "text": "I hope your dreams come true."
+            },
+            {
+                "code": "dream_example_your-friend-was-in-my-dream",
+                "text": "Your friend was in my dream."
+            },
+            {
+                "code": "dream_example_the-girl-had-a-dream-about-flying",
+                "text": "The girl had a dream about flying."
+            },
+            {
+                "code": "dream_example_i-have-dreams-of-fame-and-fortune",
+                "text": "I have dreams of fame and fortune."
+            },
+            {
+                "code": "dream_example_tell-me-about-your-dream-home",
+                "text": "Tell me about your dream home."
+            },
+            {
+                "code": "dream_example_she-lives-in-a-dream-world",
+                "text": "She lives in a dream world."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to experience things in your mind while you are asleep; to wish for something that is difficult to get or achieve",
+        "examples": [
+            {
+                "code": "dream_example_most-people-just-dream-of-being-rich",
+                "text": "Most people just dream of being rich."
+            },
+            {
+                "code": "dream_example_she-always-dreams-of-a-better-life",
+                "text": "She always dreams of a better life."
+            },
+            {
+                "code": "dream_example_i-never-dream-about-anything",
+                "text": "I never dream about anything."
+            },
+            {
+                "code": "dream_example_i-still-dream-about-my-ex-husband",
+                "text": "I still dream about my ex-husband."
+            },
+            {
+                "code": "dream_example_she-does-dream-about-you",
+                "text": "She does dream about you."
+            }
+        ]
+    }
+]

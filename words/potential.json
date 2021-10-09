@@ -1,0 +1,78 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "possible",
+        "examples": [
+            {
+                "code": "potential_example_there-is-one-potential-problem-here",
+                "text": "There is one potential problem here."
+            },
+            {
+                "code": "potential_example_there-are-many-potential-impacts-of-his-decision",
+                "text": "There are many potential impacts of his decision."
+            },
+            {
+                "code": "potential_example_one-potential-advantage-of-going-to-church-is-meeting-people",
+                "text": "One potential advantage of going to church is meeting people."
+            },
+            {
+                "code": "potential_example_she-is-a-potential-client",
+                "text": "She is a potential client."
+            },
+            {
+                "code": "potential_example_there-are-some-potential-disadvantages",
+                "text": "There are some potential disadvantages."
+            }
+        ]
+    },
+    {
+        "type": "(n)",
+        "mean": "the possibility of something developing into something better",
+        "examples": [
+            {
+                "code": "potential_example_this-city-has-the-potential-to-be-better",
+                "text": "This city has the potential to be better."
+            },
+            {
+                "code": "potential_example_he-showed-potential-at-a-young-age",
+                "text": "He showed potential at a young age."
+            },
+            {
+                "code": "potential_example_i-see-a-lot-of-potential-in-you",
+                "text": "I see a lot of potential in you."
+            },
+            {
+                "code": "potential_example_i-am-trying-to-realize-my-full-potential",
+                "text": "I am trying to realize my full potential."
+            },
+            {
+                "code": "potential_example_he-has-great-potential",
+                "text": "He has great potential."
+            },
+            {
+                "code": "potential_example_you-are-not-being-used-to-your-full-potential",
+                "text": "You are not being used to your full potential."
+            },
+            {
+                "code": "potential_example_does-it-have-future-potential",
+                "text": "Does it have future potential?"
+            },
+            {
+                "code": "potential_example_this-kid-is-full-of-potential",
+                "text": "This kid is full of potential."
+            },
+            {
+                "code": "potential_example_he-shows-potential-as-a-musician",
+                "text": "He shows potential as a musician."
+            },
+            {
+                "code": "potential_example_our-potential-for-growth-is-huge",
+                "text": "Our potential for growth is huge."
+            },
+            {
+                "code": "potential_example_she-is-a-person-with-potential",
+                "text": "She is a person with potential."
+            }
+        ]
+    }
+]

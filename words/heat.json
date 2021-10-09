@@ -1,0 +1,126 @@
+[
+    {
+        "type": "(n)",
+        "mean": "warmth; hot weather; high temperature; cooking source",
+        "examples": [
+            {
+                "code": "heat_example_he-s-quickly-losing-body-heat",
+                "text": "He's quickly losing body heat."
+            },
+            {
+                "code": "heat_example_they-moved-away-from-the-intense-heat-of-the-fire",
+                "text": "They moved away from the intense heat of the fire."
+            },
+            {
+                "code": "heat_example_there-is-gentle-heat-coming-from-the-floors",
+                "text": "There is gentle heat coming from the floors."
+            },
+            {
+                "code": "heat_example_i-can-t-handle-this-extreme-heat",
+                "text": "I can't handle this extreme heat."
+            },
+            {
+                "code": "heat_example_she-s-getting-used-to-the-dry-heat",
+                "text": "She's getting used to the dry heat."
+            },
+            {
+                "code": "heat_example_i-try-to-stay-out-of-the-afternoon-heat",
+                "text": "I try to stay out of the afternoon heat."
+            },
+            {
+                "code": "heat_example_cook-this-over-low-heat",
+                "text": "Cook this over low heat."
+            },
+            {
+                "code": "heat_example_don-t-cook-that-over-direct-heat",
+                "text": "Don't cook that over direct heat."
+            },
+            {
+                "code": "heat_example_their-house-has-electric-heat",
+                "text": "Their house has electric heat."
+            },
+            {
+                "code": "heat_example_i-can-feel-the-heat",
+                "text": "I can feel the heat."
+            },
+            {
+                "code": "heat_example_this-heater-produces-a-lot-of-heat",
+                "text": "This heater produces a lot of heat."
+            },
+            {
+                "code": "heat_example_the-fire-will-lose-heat-quickly-once-it-s-out",
+                "text": "The fire will lose heat quickly once it's out."
+            },
+            {
+                "code": "heat_example_the-cover-helps-it-retain-heat",
+                "text": "The cover helps it retain heat."
+            },
+            {
+                "code": "heat_example_they-re-trying-to-create-a-material-that-absorbs-heat-well",
+                "text": "They're trying to create a material that absorbs heat well."
+            },
+            {
+                "code": "heat_example_the-heat-is-really-building-up-in-here",
+                "text": "The heat is really building up in here."
+            },
+            {
+                "code": "heat_example_can-you-turn-up-the-heat",
+                "text": "Can you turn up the heat?"
+            },
+            {
+                "code": "heat_example_they-have-electric-heat",
+                "text": "They have electric heat."
+            },
+            {
+                "code": "heat_example_we-are-trying-to-reduce-heat-loss",
+                "text": "We are trying to reduce heat loss."
+            },
+            {
+                "code": "heat_example_she-is-suffering-from-heat-exhaustion",
+                "text": "She is suffering from heat exhaustion."
+            },
+            {
+                "code": "heat_example_i-can-t-do-anything-in-the-heat",
+                "text": "I can't do anything in the heat."
+            },
+            {
+                "code": "heat_example_make-sure-that-s-off-the-heat",
+                "text": "Make sure that's off the heat."
+            },
+            {
+                "code": "heat_example_cook-on-high-heat-for-five-minutes",
+                "text": "Cook on high heat for five minutes."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to make warm",
+        "examples": [
+            {
+                "code": "heat_example_slowly-heat-the-soup-so-you-don-t-burn-it",
+                "text": "Slowly heat the soup so you don't burn it."
+            },
+            {
+                "code": "heat_example_is-the-swimming-pool-well-heated",
+                "text": "Is the swimming pool well heated?"
+            },
+            {
+                "code": "heat_example_make-sure-the-dish-is-heated-up-before-serving",
+                "text": "Make sure the dish is heated up before serving."
+            },
+            {
+                "code": "heat_example_the-oven-heats-up-quickly",
+                "text": "The oven heats up quickly."
+            },
+            {
+                "code": "heat_example_can-you-heat-some-milk",
+                "text": "Can you heat some milk?"
+            },
+            {
+                "code": "heat_example_did-you-heat-the-pan",
+                "text": "Did you heat the pan?"
+            }
+        ]
+    }
+]

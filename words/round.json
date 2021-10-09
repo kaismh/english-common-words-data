@@ -1,0 +1,104 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "shaped like a circle or a ball",
+        "examples": [
+            {
+                "code": "round_example_we-sat-at-a-round-table",
+                "text": "We sat at a round table."
+            },
+            {
+                "code": "round_example_she-has-a-round-belly",
+                "text": "She has a round belly."
+            },
+            {
+                "code": "round_example_i-bought-a-round-trip-ticket",
+                "text": "I bought a round trip ticket."
+            },
+            {
+                "code": "round_example_he-wears-round-glasses",
+                "text": "He wears round glasses."
+            },
+            {
+                "code": "round_example_i-cut-out-a-round-hole-in-the-paper",
+                "text": "I cut out a round hole in the paper."
+            }
+        ]
+    },
+    {
+        "type": "(n)",
+        "mean": "a regular series of events; drinks; a period in a competition; bullets",
+        "examples": [
+            {
+                "code": "round_example_let-s-begin-the-first-round-of-interviews",
+                "text": "Let's begin the first round of interviews."
+            },
+            {
+                "code": "round_example_let-s-hold-another-round-of-talks",
+                "text": "Let's hold another round of talks."
+            },
+            {
+                "code": "round_example_the-doctor-does-his-rounds-at-noon",
+                "text": "The doctor does his rounds at noon."
+            },
+            {
+                "code": "round_example_the-struggling-team-finally-made-the-second-round",
+                "text": "The struggling team finally made the second round."
+            },
+            {
+                "code": "round_example_i-won-the-round-of-golf",
+                "text": "I won the round of golf."
+            },
+            {
+                "code": "round_example_i-shot-a-round-of-ammunition",
+                "text": "I shot a round of ammunition."
+            },
+            {
+                "code": "round_example_we-ordered-another-round-of-drinks",
+                "text": "We ordered another round of drinks."
+            },
+            {
+                "code": "round_example_we-played-a-final-round-of-golf",
+                "text": "We played a final round of golf."
+            },
+            {
+                "code": "round_example_they-fired-a-mortar-round",
+                "text": "They fired a mortar round."
+            },
+            {
+                "code": "round_example_i-won-the-latest-round-of-the-tournament",
+                "text": "I won the latest round of the tournament."
+            },
+            {
+                "code": "round_example_he-lost-in-the-qualifying-round",
+                "text": "He lost in the qualifying round."
+            },
+            {
+                "code": "round_example_my-team-was-eliminated-in-the-first-round",
+                "text": "My team was eliminated in the first round."
+            },
+            {
+                "code": "round_example_my-team-made-it-to-the-next-round",
+                "text": "My team made it to the next round."
+            },
+            {
+                "code": "round_example_let-s-play-another-round-of-golf",
+                "text": "Let's play another round of golf."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to go around a corner; to adjust to the nearest whole number",
+        "examples": [
+            {
+                "code": "round_example_we-rounded-the-corner-too-fast",
+                "text": "We rounded the corner too fast."
+            },
+            {
+                "code": "round_example_round-the-number-up",
+                "text": "Round the number up."
+            }
+        ]
+    }
+]

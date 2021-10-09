@@ -1,0 +1,40 @@
+[
+    {
+        "type": "(n)",
+        "mean": "something that is considered more important than other things",
+        "examples": [
+            {
+                "code": "priority_example_his-main-priority-is-keeping-his-family-safe",
+                "text": "His main priority is keeping his family safe."
+            },
+            {
+                "code": "priority_example_helping-the-hurricane-victims-is-first-priority",
+                "text": "Helping the hurricane victims is first priority."
+            },
+            {
+                "code": "priority_example_she-will-get-to-the-low-priority-tasks-later",
+                "text": "She will get to the low priority tasks later."
+            },
+            {
+                "code": "priority_example_he-needs-to-determine-his-priorities-before-finding-another-job",
+                "text": "He needs to determine his priorities before finding another job."
+            },
+            {
+                "code": "priority_example_children-take-first-priority-in-times-of-crisis",
+                "text": "Children take first priority in times of crisis."
+            },
+            {
+                "code": "priority_example_the-hospital-gives-priority-to-emergency-patients",
+                "text": "The hospital gives priority to emergency patients."
+            },
+            {
+                "code": "priority_example_please-re-evaluate-your-priorities",
+                "text": "Please re-evaluate your priorities."
+            },
+            {
+                "code": "priority_example_children-take-priority-over-adults-in-emergencies",
+                "text": "Children take priority over adults in emergencies."
+            }
+        ]
+    }
+]

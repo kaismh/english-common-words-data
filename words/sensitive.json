@@ -1,0 +1,72 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "easily upset; having an understanding or awareness of someone's feelings; painful",
+        "examples": [
+            {
+                "code": "sensitive_example_james-seems-sensitive-to-being-called-fat",
+                "text": "James seems sensitive to being called fat."
+            },
+            {
+                "code": "sensitive_example_jordan-has-become-sensitive-about-that-topic",
+                "text": "Jordan has become sensitive about that topic."
+            },
+            {
+                "code": "sensitive_example_the-eye-drops-made-him-sensitive-to-light",
+                "text": "The eye drops made him sensitive to light."
+            },
+            {
+                "code": "sensitive_example_we-try-to-remain-sensitive-to-other-cultures",
+                "text": "We try to remain sensitive to other cultures."
+            },
+            {
+                "code": "sensitive_example_baxter-is-extremely-sensitive-to-criticism",
+                "text": "Baxter is extremely sensitive to criticism."
+            },
+            {
+                "code": "sensitive_example_she-is-highly-sensitive-when-discussing-her-family-situation",
+                "text": "She is highly sensitive when discussing her family situation."
+            },
+            {
+                "code": "sensitive_example_mark-is-a-deeply-sensitive-man",
+                "text": "Mark is a deeply sensitive man."
+            },
+            {
+                "code": "sensitive_example_she-has-become-increasingly-sensitive-since-the-accident",
+                "text": "She has become increasingly sensitive since the accident."
+            },
+            {
+                "code": "sensitive_example_a-dog-s-ears-are-sensitive-enough-to-hear-the-smallest-sounds",
+                "text": "A dog's ears are sensitive enough to hear the smallest sounds."
+            },
+            {
+                "code": "sensitive_example_teenagers-are-often-sensitive-about-their-appearance",
+                "text": "Teenagers are often sensitive about their appearance."
+            },
+            {
+                "code": "sensitive_example_he-was-sensitive-to-criticism",
+                "text": "He was sensitive to criticism."
+            },
+            {
+                "code": "sensitive_example_she-is-sensitive-with-children",
+                "text": "She is sensitive with children."
+            },
+            {
+                "code": "sensitive_example_that-s-a-very-sensitive-issue-for-her",
+                "text": "That's a very sensitive issue for her."
+            },
+            {
+                "code": "sensitive_example_please-handle-the-sensitive-equipment-gently",
+                "text": "Please handle the sensitive equipment gently."
+            },
+            {
+                "code": "sensitive_example_the-report-contains-sensitive-information",
+                "text": "The report contains sensitive information."
+            },
+            {
+                "code": "sensitive_example_she-has-very-sensitive-ears",
+                "text": "She has very sensitive ears."
+            }
+        ]
+    }
+]

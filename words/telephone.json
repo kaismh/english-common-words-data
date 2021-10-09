@@ -1,0 +1,70 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a device that sends communication by voice or sound to someone who is somewhere else; also known as a phone",
+        "examples": [
+            {
+                "code": "telephone_example_everyone-uses-a-cellular-telephone-these-days",
+                "text": "Everyone uses a cellular telephone these days."
+            },
+            {
+                "code": "telephone_example_young-kids-have-never-seen-a-pay-telephone",
+                "text": "Young kids have never seen a pay telephone."
+            },
+            {
+                "code": "telephone_example_rotary-telephones-are-considered-antiques",
+                "text": "Rotary telephones are considered antiques."
+            },
+            {
+                "code": "telephone_example_please-answer-the-telephone",
+                "text": "Please answer the telephone."
+            },
+            {
+                "code": "telephone_example_he-hung-up-the-telephone",
+                "text": "He hung up the telephone."
+            },
+            {
+                "code": "telephone_example_i-am-talking-on-the-telephone",
+                "text": "I am talking on the telephone."
+            },
+            {
+                "code": "telephone_example_they-installed-a-telephone-line",
+                "text": "They installed a telephone line."
+            },
+            {
+                "code": "telephone_example_i-found-her-number-in-the-telephone-book",
+                "text": "I found her number in the telephone book."
+            },
+            {
+                "code": "telephone_example_he-conducted-a-telephone-survey",
+                "text": "He conducted a telephone survey."
+            },
+            {
+                "code": "telephone_example_the-telephone-charges-were-high",
+                "text": "The telephone charges were high."
+            },
+            {
+                "code": "telephone_example_can-i-reach-you-by-telephone",
+                "text": "Can I reach you by telephone?"
+            },
+            {
+                "code": "telephone_example_let-s-not-discuss-this-over-the-telephone",
+                "text": "Let's not discuss this over the telephone."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to use a device to communicate by voice or sound to someone who is somewhere else",
+        "examples": [
+            {
+                "code": "telephone_example_he-quickly-telephoned-the-police",
+                "text": "He quickly telephoned the police."
+            },
+            {
+                "code": "telephone_example_she-happily-telephoned-her-mother-on-mother-s-day",
+                "text": "She happily telephoned her mother on Mother's Day."
+            }
+        ]
+    }
+]

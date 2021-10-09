@@ -1,0 +1,64 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "the answer to a problem or a difficult situation; a solid matter that has been dissolved into liquid",
+        "examples": [
+            {
+                "code": "solution_example_we-were-unable-to-provide-a-real-solution-to-the-problem",
+                "text": "We were unable to provide a real solution to the problem."
+            },
+            {
+                "code": "solution_example_there-is-an-easy-solution-to-your-situation",
+                "text": "There is an easy solution to your situation."
+            },
+            {
+                "code": "solution_example_she-found-the-right-solution",
+                "text": "She found the right solution."
+            },
+            {
+                "code": "solution_example_we-were-all-trying-to-come-up-with-a-creative-solution",
+                "text": "We were all trying to come up with a creative solution."
+            },
+            {
+                "code": "solution_example_he-needs-an-immediate-solution",
+                "text": "He needs an immediate solution."
+            },
+            {
+                "code": "solution_example_we-were-hoping-for-a-diplomatic-solution",
+                "text": "We were hoping for a diplomatic solution."
+            },
+            {
+                "code": "solution_example_the-scientist-produced-a-concentrated-solution",
+                "text": "The scientist produced a concentrated solution."
+            },
+            {
+                "code": "solution_example_we-have-been-looking-for-a-solution-for-five-hours",
+                "text": "We have been looking for a solution for five hours."
+            },
+            {
+                "code": "solution_example_they-couldn-t-agree-on-a-solution-for-the-crisis",
+                "text": "They couldn't agree on a solution for the crisis."
+            },
+            {
+                "code": "solution_example_he-proposed-a-good-solution-for-the-problem",
+                "text": "He proposed a good solution for the problem."
+            },
+            {
+                "code": "solution_example_the-solution-contains-salt",
+                "text": "The solution contains salt."
+            },
+            {
+                "code": "solution_example_he-gave-a-quick-solution-for-getting-out-of-debt",
+                "text": "He gave a quick solution for getting out of debt."
+            },
+            {
+                "code": "solution_example_we-need-to-find-a-good-solution-to-the-city-s-crime-problems",
+                "text": "We need to find a good solution to the city's crime problems."
+            },
+            {
+                "code": "solution_example_there-are-dangerous-chemicals-in-the-solution",
+                "text": "There are dangerous chemicals in the solution."
+            }
+        ]
+    }
+]

@@ -1,0 +1,92 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the location for law trials; a place for sports;",
+        "examples": [
+            {
+                "code": "court_example_the-trial-will-take-place-in-a-civil-court",
+                "text": "The trial will take place in a civil court."
+            },
+            {
+                "code": "court_example_the-basketball-court-is-large",
+                "text": "The basketball court is large."
+            },
+            {
+                "code": "court_example_he-might-take-him-to-court",
+                "text": "He might take him to court."
+            },
+            {
+                "code": "court_example_lawyers-try-to-convince-the-court",
+                "text": "Lawyers try to convince the court."
+            },
+            {
+                "code": "court_example_they-settled-out-of-court",
+                "text": "They settled out of court."
+            },
+            {
+                "code": "court_example_i-have-to-attend-court",
+                "text": "I have to attend court."
+            },
+            {
+                "code": "court_example_please-tell-the-court-what-happened",
+                "text": "Please tell the court what happened."
+            },
+            {
+                "code": "court_example_the-court-heard-both-sides",
+                "text": "The court heard both sides."
+            },
+            {
+                "code": "court_example_the-court-dismissed-the-case",
+                "text": "The court dismissed the case."
+            },
+            {
+                "code": "court_example_the-court-issued-her-a-restraining-order",
+                "text": "The court issued her a restraining order."
+            },
+            {
+                "code": "court_example_the-court-case-was-closed",
+                "text": "The court case was closed."
+            },
+            {
+                "code": "court_example_they-are-trying-to-overturn-the-court-decision",
+                "text": "They are trying to overturn the court decision."
+            },
+            {
+                "code": "court_example_when-is-your-court-date",
+                "text": "When is your court date?"
+            },
+            {
+                "code": "court_example_where-is-the-court-building",
+                "text": "Where is the court building?"
+            },
+            {
+                "code": "court_example_she-made-a-court-appearance",
+                "text": "She made a court appearance."
+            },
+            {
+                "code": "court_example_they-are-facing-a-long-court-battle",
+                "text": "They are facing a long court battle."
+            },
+            {
+                "code": "court_example_she-is-suing-for-court-costs",
+                "text": "She is suing for court costs."
+            },
+            {
+                "code": "court_example_court-documents-are-sealed",
+                "text": "Court documents are sealed."
+            },
+            {
+                "code": "court_example_the-man-stood-before-the-court",
+                "text": "The man stood before the court."
+            },
+            {
+                "code": "court_example_i-ll-see-you-in-court",
+                "text": "I'll see you in court."
+            },
+            {
+                "code": "court_example_he-is-powerful-on-the-court",
+                "text": "He is powerful on the court."
+            }
+        ]
+    }
+]

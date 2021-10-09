@@ -1,0 +1,62 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "belonging to someone",
+        "examples": [
+            {
+                "code": "own_example_he-lives-in-his-own-world",
+                "text": "He lives in his own world."
+            },
+            {
+                "code": "own_example_these-are-my-own-affairs",
+                "text": "These are my own affairs."
+            },
+            {
+                "code": "own_example_do-you-have-your-own-copy",
+                "text": "Do you have your own copy?"
+            },
+            {
+                "code": "own_example_this-is-my-own-work",
+                "text": "This is my own work."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to have something that belongs to oneself",
+        "examples": [
+            {
+                "code": "own_example_he-owns-a-lot-of-property",
+                "text": "He owns a lot of property."
+            },
+            {
+                "code": "own_example_she-owns-the-business",
+                "text": "She owns the business."
+            },
+            {
+                "code": "own_example_they-own-the-company",
+                "text": "They own the company."
+            },
+            {
+                "code": "own_example_i-own-several-shares",
+                "text": "I own several shares."
+            },
+            {
+                "code": "own_example_he-owns-the-copyright",
+                "text": "He owns the copyright."
+            },
+            {
+                "code": "own_example_we-own-that-truck",
+                "text": "We own that truck."
+            },
+            {
+                "code": "own_example_the-house-was-formerly-owned-by-him",
+                "text": "The house was formerly owned by him."
+            },
+            {
+                "code": "own_example_the-business-is-publicly-owned",
+                "text": "The business is publicly owned."
+            }
+        ]
+    }
+]

@@ -1,0 +1,90 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a crease or wrinkle in something; a group who share the same beliefs or ideals",
+        "examples": [
+            {
+                "code": "fold_example_the-curtains-hung-in-loose-folds",
+                "text": "The curtains hung in loose folds."
+            },
+            {
+                "code": "fold_example_she-made-neat-folds-in-the-paper",
+                "text": "She made neat folds in the paper."
+            },
+            {
+                "code": "fold_example_her-dress-fell-in-loose-folds",
+                "text": "Her dress fell in loose folds."
+            },
+            {
+                "code": "fold_example_the-attacker-hid-behind-the-folds-of-the-curtains",
+                "text": "The attacker hid behind the folds of the curtains."
+            },
+            {
+                "code": "fold_example_they-joined-the-fold",
+                "text": "They joined the fold."
+            },
+            {
+                "code": "fold_example_they-welcomed-her-into-the-fold",
+                "text": "They welcomed her into the fold."
+            },
+            {
+                "code": "fold_example_she-hid-the-ring-in-the-folds-of-the-paper",
+                "text": "She hid the ring in the folds of the paper."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to bend something over on itself; to crease or wrinkle; to bring together or cross",
+        "examples": [
+            {
+                "code": "fold_example_he-carefully-folded-the-letter",
+                "text": "He carefully folded the letter."
+            },
+            {
+                "code": "fold_example_she-gently-folded-the-antique-quilt",
+                "text": "She gently folded the antique quilt."
+            },
+            {
+                "code": "fold_example_fold-the-paper-in-half",
+                "text": "Fold the paper in half."
+            },
+            {
+                "code": "fold_example_she-folded-back-the-blankets",
+                "text": "She folded back the blankets."
+            },
+            {
+                "code": "fold_example_he-folded-up-the-blanket-and-put-it-away",
+                "text": "He folded up the blanket and put it away."
+            },
+            {
+                "code": "fold_example_he-folded-the-paper-into-an-airplane",
+                "text": "He folded the paper into an airplane."
+            },
+            {
+                "code": "fold_example_he-folded-his-laundry",
+                "text": "He folded his laundry."
+            },
+            {
+                "code": "fold_example_she-folded-her-arms-across-her-body",
+                "text": "She folded her arms across her body."
+            },
+            {
+                "code": "fold_example_she-folded-her-hands-in-her-lap",
+                "text": "She folded her hands in her lap."
+            },
+            {
+                "code": "fold_example_he-tried-to-fold-up-the-map",
+                "text": "He tried to fold up the map."
+            },
+            {
+                "code": "fold_example_she-folded-the-papers-to-make-a-card",
+                "text": "She folded the papers to make a card."
+            },
+            {
+                "code": "fold_example_they-folded-the-napkins-and-set-the-table",
+                "text": "They folded the napkins and set the table."
+            }
+        ]
+    }
+]

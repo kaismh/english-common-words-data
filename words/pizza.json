@@ -1,0 +1,44 @@
+[
+    {
+        "type": "(n)",
+        "mean": "an Italian pie baked with toppings of tomato sauce, cheese, vegetables, and meat",
+        "examples": [
+            {
+                "code": "pizza_example_we-ordered-a-pizza",
+                "text": "We ordered a pizza."
+            },
+            {
+                "code": "pizza_example_he-delivered-the-pizza-late",
+                "text": "He delivered the pizza late."
+            },
+            {
+                "code": "pizza_example_we-live-near-a-good-pizza-restaurant",
+                "text": "We live near a good pizza restaurant."
+            },
+            {
+                "code": "pizza_example_they-have-free-pizza-delivery",
+                "text": "They have free pizza delivery."
+            },
+            {
+                "code": "pizza_example_could-i-have-another-slice-of-pizza",
+                "text": "Could I have another slice of pizza?"
+            },
+            {
+                "code": "pizza_example_what-is-your-favorite-pizza-topping",
+                "text": "What is your favorite pizza topping?"
+            },
+            {
+                "code": "pizza_example_we-ordered-a-cheese-pizza",
+                "text": "We ordered a cheese pizza."
+            },
+            {
+                "code": "pizza_example_we-have-cold-pizza",
+                "text": "We have cold pizza."
+            },
+            {
+                "code": "pizza_example_what-would-you-like-on-your-pizza",
+                "text": "What would you like on your pizza?"
+            }
+        ]
+    }
+]

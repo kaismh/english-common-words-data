@@ -1,0 +1,36 @@
+[
+    {
+        "type": "(adv)",
+        "mean": "at the beginning",
+        "examples": [
+            {
+                "code": "originally_example_the-newspaper-originally-reported-an-error",
+                "text": "The newspaper originally reported an error."
+            },
+            {
+                "code": "originally_example_he-originally-appeared-on-a-television-show",
+                "text": "He originally appeared on a television show."
+            },
+            {
+                "code": "originally_example_she-was-originally-named-after-her-grandmother",
+                "text": "She was originally named after her grandmother."
+            },
+            {
+                "code": "originally_example_i-originally-suggested-that-she-go-alone",
+                "text": "I originally suggested that she go alone."
+            },
+            {
+                "code": "originally_example_she-originally-expected-a-nicer-car",
+                "text": "She originally expected a nicer car."
+            },
+            {
+                "code": "originally_example_we-originally-used-a-different-storyline",
+                "text": "We originally used a different storyline."
+            },
+            {
+                "code": "originally_example_i-originally-owned-a-motorcycle",
+                "text": "I originally owned a motorcycle."
+            }
+        ]
+    }
+]

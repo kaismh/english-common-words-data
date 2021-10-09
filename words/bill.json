@@ -1,0 +1,100 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a piece of paper that shows how much money is owed for products or services; paper money; an idea for a new law",
+        "examples": [
+            {
+                "code": "bill_example_we-received-a-huge-bill-for-the-car-repairs",
+                "text": "We received a huge bill for the car repairs."
+            },
+            {
+                "code": "bill_example_my-phone-company-sent-me-an-outstanding-bill",
+                "text": "My phone company sent me an outstanding bill."
+            },
+            {
+                "code": "bill_example_after-the-accident-her-medical-bills-were-huge",
+                "text": "After the accident, her medical bills were huge."
+            },
+            {
+                "code": "bill_example_may-i-have-an-itemized-bill-of-our-hotel-charges",
+                "text": "May I have an itemized bill of our hotel charges?"
+            },
+            {
+                "code": "bill_example_she-can-t-afford-her-hotel-bill",
+                "text": "She can't afford her hotel bill."
+            },
+            {
+                "code": "bill_example_the-machine-only-takes-one-dollar-bills",
+                "text": "The machine only takes one-dollar bills."
+            },
+            {
+                "code": "bill_example_the-new-budget-bill-should-be-passed-soon",
+                "text": "The new budget bill should be passed soon."
+            },
+            {
+                "code": "bill_example_the-proposed-bill-will-create-jobs",
+                "text": "The proposed bill will create jobs."
+            },
+            {
+                "code": "bill_example_we-received-the-bill-in-the-mail",
+                "text": "We received the bill in the mail."
+            },
+            {
+                "code": "bill_example_i-had-to-pay-the-bill-since-no-one-else-had-any-money",
+                "text": "I had to pay the bill since no one else had any money."
+            },
+            {
+                "code": "bill_example_when-we-go-out-we-usually-share-the-bill",
+                "text": "When we go out, we usually share the bill."
+            },
+            {
+                "code": "bill_example_the-hotel-sent-me-a-bill-for-the-broken-items",
+                "text": "The hotel sent me a bill for the broken items."
+            },
+            {
+                "code": "bill_example_we-ran-up-a-large-hotel-bill",
+                "text": "We ran up a large hotel bill."
+            },
+            {
+                "code": "bill_example_shorter-showers-will-cut-our-water-bill",
+                "text": "Shorter showers will cut our water bill."
+            },
+            {
+                "code": "bill_example_i-asked-for-the-bill",
+                "text": "I asked for the bill."
+            },
+            {
+                "code": "bill_example_the-bill-came-before-dessert",
+                "text": "The bill came before dessert."
+            },
+            {
+                "code": "bill_example_he-is-drafting-a-bill-for-congress",
+                "text": "He is drafting a bill for congress."
+            },
+            {
+                "code": "bill_example_they-are-debating-the-bill",
+                "text": "They are debating the bill."
+            },
+            {
+                "code": "bill_example_he-thinks-the-bill-will-be-blocked",
+                "text": "He thinks the bill will be blocked."
+            },
+            {
+                "code": "bill_example_she-opposed-the-new-bill",
+                "text": "She opposed the new bill."
+            },
+            {
+                "code": "bill_example_who-is-going-to-pay-the-bill-for-car-damages",
+                "text": "Who is going to pay the bill for car damages?"
+            },
+            {
+                "code": "bill_example_when-was-your-last-bill-payment",
+                "text": "When was your last bill payment?"
+            },
+            {
+                "code": "bill_example_he-keeps-getting-calls-from-a-bill-collector",
+                "text": "He keeps getting calls from a bill collector."
+            }
+        ]
+    }
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to know what something means or how something works; to know how something feels",
+        "examples": [
+            {
+                "code": "understand_example_he-fully-understands-what-is-going-on",
+                "text": "He fully understands what is going on."
+            },
+            {
+                "code": "understand_example_he-barely-understands-what-the-teacher-is-saying",
+                "text": "He barely understands what the teacher is saying."
+            },
+            {
+                "code": "understand_example_she-finally-understood-the-directions",
+                "text": "She finally understood the directions."
+            },
+            {
+                "code": "understand_example_he-immediately-understood-the-danger-he-was-in",
+                "text": "He immediately understood the danger he was in."
+            },
+            {
+                "code": "understand_example_help-me-to-better-understand-the-situation",
+                "text": "Help me to better understand the situation."
+            },
+            {
+                "code": "understand_example_he-does-not-really-understand-why-she-is-so-mad",
+                "text": "He does not really understand why she is so mad."
+            },
+            {
+                "code": "understand_example_he-seems-to-understand-english",
+                "text": "He seems to understand English."
+            },
+            {
+                "code": "understand_example_can-you-understand-the-question",
+                "text": "Can you understand the question?"
+            },
+            {
+                "code": "understand_example_you-have-to-understand-that-i-had-no-choice",
+                "text": "You have to understand that I had no choice."
+            },
+            {
+                "code": "understand_example_she-does-not-understand-much-about-politics",
+                "text": "She does not understand much about politics."
+            },
+            {
+                "code": "understand_example_he-doesn-t-understand-the-business",
+                "text": "He doesn't understand the business."
+            }
+        ]
+    }
+]

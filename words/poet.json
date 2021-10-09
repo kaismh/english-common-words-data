@@ -1,0 +1,28 @@
+[
+    {
+        "type": "(n)",
+        "mean": "someone who writes poems",
+        "examples": [
+            {
+                "code": "poet_example_he-is-a-famous-poet",
+                "text": "He is a famous poet."
+            },
+            {
+                "code": "poet_example_emily-dickinson-is-my-favorite-poet",
+                "text": "Emily Dickinson is my favorite poet."
+            },
+            {
+                "code": "poet_example_i-like-reading-poems-from-modern-poets",
+                "text": "I like reading poems from modern poets."
+            },
+            {
+                "code": "poet_example_the-famous-poet-wrote-many-poems-during-the-last-years-of-his-life",
+                "text": "The famous poet wrote many poems during the last years of his life."
+            },
+            {
+                "code": "poet_example_personal-experiences-inspire-some-poets",
+                "text": "Personal experiences inspire some poets."
+            }
+        ]
+    }
+]

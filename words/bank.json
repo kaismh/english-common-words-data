@@ -1,0 +1,72 @@
+[
+    {
+        "type": "(n)",
+        "mean": "an organization that provides financial services of holding people's money or loaning people money; raised land along a river; row of similar things",
+        "examples": [
+            {
+                "code": "bank_example_i-work-in-a-large-bank",
+                "text": "I work in a large bank."
+            },
+            {
+                "code": "bank_example_we-keep-our-money-in-an-international-bank",
+                "text": "We keep our money in an international bank."
+            },
+            {
+                "code": "bank_example_let-s-swim-to-the-opposite-bank",
+                "text": "Let's swim to the opposite bank."
+            },
+            {
+                "code": "bank_example_we-re-camping-near-the-river-bank",
+                "text": "We're camping near the river bank."
+            },
+            {
+                "code": "bank_example_the-river-bank-is-grassy",
+                "text": "The river bank is grassy."
+            },
+            {
+                "code": "bank_example_i-need-to-go-to-the-bank",
+                "text": "I need to go to the bank."
+            },
+            {
+                "code": "bank_example_the-bank-will-lend-us-money",
+                "text": "The bank will lend us money."
+            },
+            {
+                "code": "bank_example_he-robbed-a-bank",
+                "text": "He robbed a bank."
+            },
+            {
+                "code": "bank_example_she-has-to-check-her-bank-account",
+                "text": "She has to check her bank account."
+            },
+            {
+                "code": "bank_example_let-s-talk-to-the-bank-manager",
+                "text": "Let's talk to the bank manager."
+            },
+            {
+                "code": "bank_example_the-police-caught-the-bank-robber",
+                "text": "The police caught the bank robber."
+            },
+            {
+                "code": "bank_example_the-police-are-investigating-the-bank-robbery",
+                "text": "The police are investigating the bank robbery."
+            },
+            {
+                "code": "bank_example_we-got-a-loan-from-the-bank",
+                "text": "We got a loan from the bank."
+            },
+            {
+                "code": "bank_example_he-deposited-his-paycheck-in-the-bank",
+                "text": "He deposited his paycheck in the bank."
+            },
+            {
+                "code": "bank_example_i-need-to-take-money-out-of-the-bank",
+                "text": "I need to take money out of the bank."
+            },
+            {
+                "code": "bank_example_we-are-sitting-on-the-bank-of-the-river",
+                "text": "We are sitting on the bank of the river."
+            }
+        ]
+    }
+]

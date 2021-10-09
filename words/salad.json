@@ -1,0 +1,40 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a mixture of raw vegetables or fruits",
+        "examples": [
+            {
+                "code": "salad_example_the-meal-is-served-with-a-green-salad",
+                "text": "The meal is served with a green salad."
+            },
+            {
+                "code": "salad_example_this-afternoon-s-salad-was-delicious",
+                "text": "This afternoon's salad was delicious."
+            },
+            {
+                "code": "salad_example_he-prepared-a-salad-for-lunch",
+                "text": "He prepared a salad for lunch."
+            },
+            {
+                "code": "salad_example_the-salad-comes-with-dressing-on-the-side",
+                "text": "The salad comes with dressing on the side."
+            },
+            {
+                "code": "salad_example_i-always-ask-for-the-salad-dressing-on-the-side",
+                "text": "I always ask for the salad dressing on the side."
+            },
+            {
+                "code": "salad_example_please-pass-the-salad-bowl",
+                "text": "Please pass the salad bowl."
+            },
+            {
+                "code": "salad_example_i-use-a-salad-spinner-to-dry-my-lettuce",
+                "text": "I use a salad spinner to dry my lettuce."
+            },
+            {
+                "code": "salad_example_the-salad-bar-has-many-options",
+                "text": "The salad bar has many options."
+            }
+        ]
+    }
+]

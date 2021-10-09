@@ -1,0 +1,158 @@
+[
+    {
+        "type": "(n)",
+        "mean": "an open area of land used for growing crops or raising livestock; an open area of land used for playing sports; a particular area of work, sports, or study",
+        "examples": [
+            {
+                "code": "field_example_we-walked-between-the-cultivated-fields",
+                "text": "We walked between the cultivated fields."
+            },
+            {
+                "code": "field_example_their-house-is-surrounded-by-grassy-fields",
+                "text": "Their house is surrounded by grassy fields."
+            },
+            {
+                "code": "field_example_the-animals-struggled-to-cross-the-muddy-field",
+                "text": "The animals struggled to cross the muddy field."
+            },
+            {
+                "code": "field_example_the-cows-stayed-in-an-enclosed-field-during-the-day",
+                "text": "The cows stayed in an enclosed field during the day."
+            },
+            {
+                "code": "field_example_they-toured-the-neighboring-fields",
+                "text": "They toured the neighboring fields."
+            },
+            {
+                "code": "field_example_the-children-like-to-play-in-the-wheat-field",
+                "text": "The children like to play in the wheat field."
+            },
+            {
+                "code": "field_example_they-are-both-well-known-in-their-chosen-fields",
+                "text": "They are both well-known in their chosen fields."
+            },
+            {
+                "code": "field_example_he-works-in-a-specialized-field-of-math",
+                "text": "He works in a specialized field of math."
+            },
+            {
+                "code": "field_example_she-works-in-the-medical-field",
+                "text": "She works in the medical field."
+            },
+            {
+                "code": "field_example_alternative-energy-is-a-rapidly-growing-field",
+                "text": "Alternative energy is a rapidly growing field."
+            },
+            {
+                "code": "field_example_the-playing-field-was-too-wet-to-use",
+                "text": "The playing field was too wet to use."
+            },
+            {
+                "code": "field_example_the-school-has-a-nice-football-field",
+                "text": "The school has a nice football field."
+            },
+            {
+                "code": "field_example_the-tournament-has-a-very-strong-field-this-year",
+                "text": "The tournament has a very strong field this year."
+            },
+            {
+                "code": "field_example_they-are-researching-the-energy-field",
+                "text": "They are researching the energy field."
+            },
+            {
+                "code": "field_example_not-many-women-work-in-this-field",
+                "text": "Not many women work in this field."
+            },
+            {
+                "code": "field_example_he-plows-the-fields-every-spring",
+                "text": "He plows the fields every spring."
+            },
+            {
+                "code": "field_example_it-is-important-to-irrigate-the-fields-because-of-the-dry-climate",
+                "text": "It is important to irrigate the fields because of the dry climate."
+            },
+            {
+                "code": "field_example_they-fertilized-the-fields-so-the-crops-will-grow",
+                "text": "They fertilized the fields so the crops will grow."
+            },
+            {
+                "code": "field_example_they-are-clearing-a-new-field",
+                "text": "They are clearing a new field."
+            },
+            {
+                "code": "field_example_the-cows-graze-in-the-field-all-day",
+                "text": "The cows graze in the field all day."
+            },
+            {
+                "code": "field_example_new-fields-in-science-are-opening-up-constantly",
+                "text": "New fields in science are opening up constantly."
+            },
+            {
+                "code": "field_example_he-dominated-the-field-and-finished-first",
+                "text": "He dominated the field and finished first."
+            },
+            {
+                "code": "field_example_companies-are-always-entering-different-fields",
+                "text": "Companies are always entering different fields."
+            },
+            {
+                "code": "field_example_they-walked-across-a-huge-field",
+                "text": "They walked across a huge field."
+            },
+            {
+                "code": "field_example_he-is-studying-in-the-field-of-computer-science",
+                "text": "He is studying in the field of computer science."
+            },
+            {
+                "code": "field_example_she-works-in-the-medical-field",
+                "text": "She works in the medical field."
+            },
+            {
+                "code": "field_example_a-dog-ran-on-the-field",
+                "text": "A dog ran on the field."
+            },
+            {
+                "code": "field_example_the-players-need-to-behave-off-the-field-as-well",
+                "text": "The players need to behave off the field as well."
+            },
+            {
+                "code": "field_example_their-innovations-put-them-ahead-of-their-chosen-field",
+                "text": "Their innovations put them ahead of their chosen field."
+            },
+            {
+                "code": "field_example_she-is-conducting-a-field-experiment",
+                "text": "She is conducting a field experiment."
+            },
+            {
+                "code": "field_example_he-is-doing-field-research",
+                "text": "He is doing field research."
+            },
+            {
+                "code": "field_example_they-questioned-his-field-methods",
+                "text": "They questioned his field methods."
+            },
+            {
+                "code": "field_example_we-are-taking-a-field-trip-to-the-science-museum",
+                "text": "We are taking a field trip to the science museum."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to answer; to provide someone to be a representative in an election or competition",
+        "examples": [
+            {
+                "code": "field_example_he-spent-all-day-fielding-questions",
+                "text": "He spent all day fielding questions."
+            },
+            {
+                "code": "field_example_they-will-field-a-candidate-in-the-local-election",
+                "text": "They will field a candidate in the local election."
+            },
+            {
+                "code": "field_example_the-school-is-fielding-a-team-in-the-tournament-for-the-first-time",
+                "text": "The school is fielding a team in the tournament for the first time."
+            }
+        ]
+    }
+]

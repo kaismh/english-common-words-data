@@ -1,0 +1,44 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to take something that belongs to someone else usually with the promise of returning it at a later time",
+        "examples": [
+            {
+                "code": "borrow_example_we-had-to-borrow-heavily-from-the-bank-to-buy-this-house",
+                "text": "We had to borrow heavily from the bank to buy this house."
+            },
+            {
+                "code": "borrow_example_our-neighbors-often-borrow-things-from-us",
+                "text": "Our neighbors often borrow things from us."
+            },
+            {
+                "code": "borrow_example_the-author-borrowed-ideas-freely-from-other-writers",
+                "text": "The author borrowed ideas freely from other writers."
+            },
+            {
+                "code": "borrow_example_you-already-borrowed-some-money-from-me",
+                "text": "You already borrowed some money from me."
+            },
+            {
+                "code": "borrow_example_she-always-borrows-my-car",
+                "text": "She always borrows my car."
+            },
+            {
+                "code": "borrow_example_he-had-to-borrow-money-from-his-parents",
+                "text": "He had to borrow money from his parents."
+            },
+            {
+                "code": "borrow_example_may-i-borrow-your-car",
+                "text": "May I borrow your car?"
+            },
+            {
+                "code": "borrow_example_stop-borrowing-money-from-people-and-get-a-job",
+                "text": "Stop borrowing money from people and get a job."
+            },
+            {
+                "code": "borrow_example_how-much-do-you-need-to-borrow",
+                "text": "How much do you need to borrow?"
+            }
+        ]
+    }
+]

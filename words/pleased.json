@@ -1,0 +1,36 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "satisfied; happy",
+        "examples": [
+            {
+                "code": "pleased_example_she-looks-pleased",
+                "text": "She looks pleased."
+            },
+            {
+                "code": "pleased_example_i-am-very-pleased-with-your-work",
+                "text": "I am very pleased with your work."
+            },
+            {
+                "code": "pleased_example_he-was-especially-pleased-to-see-her",
+                "text": "He was especially pleased to see her."
+            },
+            {
+                "code": "pleased_example_i-am-always-pleased-to-see-you",
+                "text": "I am always pleased to see you."
+            },
+            {
+                "code": "pleased_example_are-you-pleased-with-the-service",
+                "text": "Are you pleased with the service?"
+            },
+            {
+                "code": "pleased_example_i-was-pleased-about-the-situation",
+                "text": "I was pleased about the situation."
+            },
+            {
+                "code": "pleased_example_she-was-pleased-at-the-way-it-turned-out",
+                "text": "She was pleased at the way it turned out."
+            }
+        ]
+    }
+]

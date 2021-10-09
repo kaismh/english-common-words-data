@@ -1,0 +1,90 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a device that sprays water for washing your body; rain or snow; a party",
+        "examples": [
+            {
+                "code": "shower_example_he-wanted-to-take-a-cold-shower-after-exercising",
+                "text": "He wanted to take a cold shower after exercising."
+            },
+            {
+                "code": "shower_example_i-only-like-taking-warm-showers",
+                "text": "I only like taking warm showers."
+            },
+            {
+                "code": "shower_example_i-need-to-take-a-quick-shower-before-we-go",
+                "text": "I need to take a quick shower before we go."
+            },
+            {
+                "code": "shower_example_i-don-t-like-using-locker-room-showers",
+                "text": "I don't like using locker-room showers."
+            },
+            {
+                "code": "shower_example_were-you-here-during-the-snow-showers-last-winter",
+                "text": "Were you here during the snow showers last winter?"
+            },
+            {
+                "code": "shower_example_we-re-expecting-heavy-showers-this-week",
+                "text": "We're expecting heavy showers this week."
+            },
+            {
+                "code": "shower_example_we-re-having-a-baby-shower-for-my-sister",
+                "text": "We're having a baby shower for my sister."
+            },
+            {
+                "code": "shower_example_i-ll-take-a-shower-after-dinner",
+                "text": "I'll take a shower after dinner."
+            },
+            {
+                "code": "shower_example_let-s-hit-the-showers",
+                "text": "Let's hit the showers."
+            },
+            {
+                "code": "shower_example_the-shower-was-running-in-the-bathroom",
+                "text": "The shower was running in the bathroom."
+            },
+            {
+                "code": "shower_example_they-braved-the-heavy-showers-and-drove-a-few-more-hours",
+                "text": "They braved the heavy showers and drove a few more hours."
+            },
+            {
+                "code": "shower_example_we-need-to-replace-the-shower-door",
+                "text": "We need to replace the shower door."
+            },
+            {
+                "code": "shower_example_we-need-new-shower-gel",
+                "text": "We need new shower gel."
+            },
+            {
+                "code": "shower_example_i-don-t-like-to-wear-a-shower-cap",
+                "text": "I don't like to wear a shower cap."
+            },
+            {
+                "code": "shower_example_there-was-only-one-shower-stall-available",
+                "text": "There was only one shower stall available."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to wash yourself by using a shower; to drop a lot of things onto something",
+        "examples": [
+            {
+                "code": "shower_example_he-showered-in-the-bathroom",
+                "text": "He showered in the bathroom."
+            },
+            {
+                "code": "shower_example_the-audience-was-showered-with-confetti",
+                "text": "The audience was showered with confetti."
+            },
+            {
+                "code": "shower_example_the-teacher-showered-the-child-with-praise",
+                "text": "The teacher showered the child with praise."
+            },
+            {
+                "code": "shower_example_he-showered-her-with-kisses",
+                "text": "He showered her with kisses."
+            }
+        ]
+    }
+]

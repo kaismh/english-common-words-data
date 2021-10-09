@@ -1,0 +1,118 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a statement that asks for an answer; doubt or uncertainty",
+        "examples": [
+            {
+                "code": "question_example_how-can-i-ask-this-question-without-sounding-rude",
+                "text": "How can I ask this question without sounding rude?"
+            },
+            {
+                "code": "question_example_i-have-some-serious-questions",
+                "text": "I have some serious questions."
+            },
+            {
+                "code": "question_example_he-ignored-my-questions",
+                "text": "He ignored my questions."
+            },
+            {
+                "code": "question_example_she-answered-many-questions-at-the-crime-scene",
+                "text": "She answered many questions at the crime scene."
+            },
+            {
+                "code": "question_example_i-have-many-unanswered-questions",
+                "text": "I have many unanswered questions."
+            },
+            {
+                "code": "question_example_the-test-is-made-up-of-multiple-choice-questions",
+                "text": "The test is made up of multiple-choice questions."
+            },
+            {
+                "code": "question_example_she-asked-some-good-questions",
+                "text": "She asked some good questions."
+            },
+            {
+                "code": "question_example_i-had-to-ask-a-few-embarrassing-questions",
+                "text": "I had to ask a few embarrassing questions."
+            },
+            {
+                "code": "question_example_let-me-ask-you-a-quick-question",
+                "text": "Let me ask you a quick question."
+            },
+            {
+                "code": "question_example_these-are-all-relevant-questions",
+                "text": "These are all relevant questions."
+            },
+            {
+                "code": "question_example_i-have-one-question-for-you",
+                "text": "I have one question for you."
+            },
+            {
+                "code": "question_example_without-question-she-is-a-good-friend",
+                "text": "Without question, she is a good friend."
+            },
+            {
+                "code": "question_example_that-is-the-issue-in-question",
+                "text": "That is the issue in question."
+            },
+            {
+                "code": "question_example_her-ethics-are-beyond-question",
+                "text": "Her ethics are beyond question."
+            },
+            {
+                "code": "question_example_he-was-asked-questions-concerning-his-role-in-the-scandal",
+                "text": "He was asked questions concerning his role in the scandal."
+            },
+            {
+                "code": "question_example_there-was-a-trick-question-on-the-test",
+                "text": "There was a trick question on the test."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to ask something; to express doubt",
+        "examples": [
+            {
+                "code": "question_example_he-questions-authority-too-much",
+                "text": "He questions authority too much."
+            },
+            {
+                "code": "question_example_the-police-are-questioning-a-suspect",
+                "text": "The police are questioning a suspect."
+            },
+            {
+                "code": "question_example_don-t-question-my-ability",
+                "text": "Don't question my ability."
+            },
+            {
+                "code": "question_example_i-am-beginning-to-question-your-loyalty",
+                "text": "I am beginning to question your loyalty."
+            },
+            {
+                "code": "question_example_they-questioned-the-accuracy-of-the-report",
+                "text": "They questioned the accuracy of the report."
+            },
+            {
+                "code": "question_example_the-police-questioned-the-witnesses",
+                "text": "The police questioned the witnesses."
+            },
+            {
+                "code": "question_example_we-seriously-question-if-she-is-ready-for-the-commitment",
+                "text": "We seriously question if she is ready for the commitment."
+            },
+            {
+                "code": "question_example_they-openly-questioned-her-about-her-involvement",
+                "text": "They openly questioned her about her involvement."
+            },
+            {
+                "code": "question_example_i-was-questioned-about-the-robbery",
+                "text": "I was questioned about the robbery."
+            },
+            {
+                "code": "question_example_we-questioned-him-on-the-topic",
+                "text": "We questioned him on the topic."
+            }
+        ]
+    }
+]

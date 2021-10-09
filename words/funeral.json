@@ -1,0 +1,92 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a ceremony held after someone dies",
+        "examples": [
+            {
+                "code": "funeral_example_there-will-be-a-family-funeral-this-weekend",
+                "text": "There will be a family funeral this weekend."
+            },
+            {
+                "code": "funeral_example_he-wanted-a-church-funeral",
+                "text": "He wanted a church funeral."
+            },
+            {
+                "code": "funeral_example_there-was-an-elaborate-funeral-for-the-former-president",
+                "text": "There was an elaborate funeral for the former president."
+            },
+            {
+                "code": "funeral_example_the-soldier-was-given-a-military-funeral",
+                "text": "The soldier was given a military funeral."
+            },
+            {
+                "code": "funeral_example_they-can-barely-afford-a-proper-funeral",
+                "text": "They can barely afford a proper funeral."
+            },
+            {
+                "code": "funeral_example_they-attended-a-mass-funeral-for-the-disaster-victims",
+                "text": "They attended a mass funeral for the disaster victims."
+            },
+            {
+                "code": "funeral_example_many-people-attended-his-funeral-on-saturday",
+                "text": "Many people attended his funeral on Saturday."
+            },
+            {
+                "code": "funeral_example_he-arranged-his-own-funeral-before-he-died",
+                "text": "He arranged his own funeral before he died."
+            },
+            {
+                "code": "funeral_example_the-priest-performed-the-funeral",
+                "text": "The priest performed the funeral."
+            },
+            {
+                "code": "funeral_example_they-had-a-small-private-funeral-for-their-father",
+                "text": "They had a small private funeral for their father."
+            },
+            {
+                "code": "funeral_example_the-funeral-will-be-held-on-thursday",
+                "text": "The funeral will be held on Thursday."
+            },
+            {
+                "code": "funeral_example_the-funeral-ceremony-is-on-friday",
+                "text": "The funeral ceremony is on Friday."
+            },
+            {
+                "code": "funeral_example_the-pastor-gave-the-funeral-sermon",
+                "text": "The pastor gave the funeral sermon."
+            },
+            {
+                "code": "funeral_example_the-funeral-music-was-very-sad",
+                "text": "The funeral music was very sad."
+            },
+            {
+                "code": "funeral_example_many-people-watched-the-funeral-procession",
+                "text": "Many people watched the funeral procession."
+            },
+            {
+                "code": "funeral_example_they-met-with-the-funeral-director",
+                "text": "They met with the funeral director."
+            },
+            {
+                "code": "funeral_example_they-arrived-at-the-funeral-chapel",
+                "text": "They arrived at the funeral chapel."
+            },
+            {
+                "code": "funeral_example_the-funeral-arrangements-are-being-made",
+                "text": "The funeral arrangements are being made."
+            },
+            {
+                "code": "funeral_example_there-is-a-fundraiser-to-help-with-funeral-costs",
+                "text": "There is a fundraiser to help with funeral costs."
+            },
+            {
+                "code": "funeral_example_he-is-in-the-funeral-business",
+                "text": "He is in the funeral business."
+            },
+            {
+                "code": "funeral_example_they-sang-her-favorite-song-at-the-funeral",
+                "text": "They sang her favorite song at the funeral."
+            }
+        ]
+    }
+]

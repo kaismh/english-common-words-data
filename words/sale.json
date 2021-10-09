@@ -1,0 +1,56 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the act of selling something; an occasion when products are sold at a lower price",
+        "examples": [
+            {
+                "code": "sale_example_the-house-is-priced-for-a-quick-sale",
+                "text": "The house is priced for a quick sale."
+            },
+            {
+                "code": "sale_example_the-store-is-having-a-large-sale",
+                "text": "The store is having a large sale."
+            },
+            {
+                "code": "sale_example_let-s-have-a-garage-sale",
+                "text": "Let's have a garage sale."
+            },
+            {
+                "code": "sale_example_we-are-looking-forward-to-their-summer-sale",
+                "text": "We are looking forward to their summer sale."
+            },
+            {
+                "code": "sale_example_our-garage-sale-made-600",
+                "text": "Our garage sale made $600."
+            },
+            {
+                "code": "sale_example_the-family-is-trying-to-block-the-sale-of-their-grandfather-s-property",
+                "text": "The family is trying to block the sale of their grandfather's property."
+            },
+            {
+                "code": "sale_example_the-sale-ended-in-march",
+                "text": "The sale ended in March."
+            },
+            {
+                "code": "sale_example_that-company-will-try-to-improve-sales",
+                "text": "That company will try to improve sales."
+            },
+            {
+                "code": "sale_example_what-is-the-sale-price",
+                "text": "What is the sale price?"
+            },
+            {
+                "code": "sale_example_he-bought-it-at-the-spring-sale",
+                "text": "He bought it at the spring sale."
+            },
+            {
+                "code": "sale_example_my-house-is-for-sale",
+                "text": "My house is for sale."
+            },
+            {
+                "code": "sale_example_the-shoes-are-finally-on-sale",
+                "text": "The shoes are finally on sale."
+            }
+        ]
+    }
+]

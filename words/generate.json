@@ -1,0 +1,64 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to create or cause",
+        "examples": [
+            {
+                "code": "generate_example_they-quickly-generated-the-necessary-paperwork",
+                "text": "They quickly generated the necessary paperwork."
+            },
+            {
+                "code": "generate_example_this-program-automatically-generates-numbers",
+                "text": "This program automatically generates numbers."
+            },
+            {
+                "code": "generate_example_the-plant-spontaneously-generated-new-growth",
+                "text": "The plant spontaneously generated new growth."
+            },
+            {
+                "code": "generate_example_the-power-is-locally-generated",
+                "text": "The power is locally generated."
+            },
+            {
+                "code": "generate_example_we-used-randomly-generated-data-for-practice",
+                "text": "We used randomly generated data for practice."
+            },
+            {
+                "code": "generate_example_the-students-helped-generate-new-ideas",
+                "text": "The students helped generate new ideas."
+            },
+            {
+                "code": "generate_example_plants-generate-food-from-the-sun",
+                "text": "Plants generate food from the sun."
+            },
+            {
+                "code": "generate_example_the-economy-is-generating-a-lot-of-profits",
+                "text": "The economy is generating a lot of profits."
+            },
+            {
+                "code": "generate_example_the-plan-is-generating-a-lot-of-confusion",
+                "text": "The plan is generating a lot of confusion."
+            },
+            {
+                "code": "generate_example_the-machine-generates-a-lot-of-pressure",
+                "text": "The machine generates a lot of pressure."
+            },
+            {
+                "code": "generate_example_they-are-generating-a-lot-of-cash",
+                "text": "They are generating a lot of cash."
+            },
+            {
+                "code": "generate_example_the-dam-generates-a-lot-of-electricity",
+                "text": "The dam generates a lot of electricity."
+            },
+            {
+                "code": "generate_example_the-performance-generated-a-lot-of-enthusiasm",
+                "text": "The performance generated a lot of enthusiasm."
+            },
+            {
+                "code": "generate_example_this-process-generates-a-lot-of-waste",
+                "text": "This process generates a lot of waste."
+            }
+        ]
+    }
+]

@@ -1,0 +1,90 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the bad or good condition of something; the traits or characteristics of someone",
+        "examples": [
+            {
+                "code": "quality_example_we-will-determine-the-quality-of-their-work",
+                "text": "We will determine the quality of their work."
+            },
+            {
+                "code": "quality_example_their-clothes-lack-quality",
+                "text": "Their clothes lack quality."
+            },
+            {
+                "code": "quality_example_how-can-we-maintain-the-quality-of-our-products",
+                "text": "How can we maintain the quality of our products?"
+            },
+            {
+                "code": "quality_example_the-water-quality-impacts-us",
+                "text": "The water quality impacts us."
+            },
+            {
+                "code": "quality_example_we-never-compromise-on-quality",
+                "text": "We never compromise on quality."
+            },
+            {
+                "code": "quality_example_she-has-the-qualities-we-re-looking-for",
+                "text": "She has the qualities we're looking for."
+            },
+            {
+                "code": "quality_example_he-displays-unusual-qualities",
+                "text": "He displays unusual qualities."
+            },
+            {
+                "code": "quality_example_she-has-a-rare-quality",
+                "text": "She has a rare quality."
+            },
+            {
+                "code": "quality_example_the-sound-quality-is-great",
+                "text": "The sound quality is great."
+            },
+            {
+                "code": "quality_example_this-is-excellent-quality-fabric",
+                "text": "This is excellent quality fabric."
+            },
+            {
+                "code": "quality_example_the-air-quality-is-poor",
+                "text": "The air quality is poor."
+            },
+            {
+                "code": "quality_example_he-has-leadership-qualities",
+                "text": "He has leadership qualities."
+            },
+            {
+                "code": "quality_example_this-place-has-some-negative-qualities",
+                "text": "This place has some negative qualities."
+            },
+            {
+                "code": "quality_example_we-need-someone-with-strong-physical-qualities",
+                "text": "We need someone with strong physical qualities."
+            },
+            {
+                "code": "quality_example_she-is-in-charge-of-quality-control",
+                "text": "She is in charge of quality control."
+            },
+            {
+                "code": "quality_example_the-company-needs-to-improve-quality-standards",
+                "text": "The company needs to improve quality standards."
+            },
+            {
+                "code": "quality_example_the-quality-of-his-work-is-very-high",
+                "text": "The quality of his work is very high."
+            }
+        ]
+    },
+    {
+        "type": "(adj)",
+        "mean": "having good characteristics; very good",
+        "examples": [
+            {
+                "code": "quality_example_this-is-quality-work",
+                "text": "This is quality work."
+            },
+            {
+                "code": "quality_example_let-s-spend-some-quality-time-together",
+                "text": "Let's spend some quality time together."
+            }
+        ]
+    }
+]

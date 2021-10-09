@@ -1,0 +1,54 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the lowest part of something; main place where a person or business is located; the main part of something",
+        "examples": [
+            {
+                "code": "base_example_this-building-has-a-firm-base",
+                "text": "This building has a firm base."
+            },
+            {
+                "code": "base_example_his-ideas-have-a-solid-base",
+                "text": "His ideas have a solid base."
+            },
+            {
+                "code": "base_example_the-politician-has-a-strong-democratic-base",
+                "text": "The politician has a strong Democratic base."
+            },
+            {
+                "code": "base_example_we-must-protect-the-military-base",
+                "text": "We must protect the military base."
+            },
+            {
+                "code": "base_example_we-created-a-concrete-base-for-the-tower",
+                "text": "We created a concrete base for the tower."
+            },
+            {
+                "code": "base_example_he-established-a-solid-customer-base",
+                "text": "He established a solid customer base."
+            },
+            {
+                "code": "base_example_our-company-is-trying-to-grow-its-customer-base",
+                "text": "Our company is trying to grow its customer base."
+            },
+            {
+                "code": "base_example_the-enemy-soldiers-are-attacking-the-base",
+                "text": "The enemy soldiers are attacking the base."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to use something specific as a starting point",
+        "examples": [
+            {
+                "code": "base_example_his-ideas-are-entirely-based-on-facts",
+                "text": "His ideas are entirely based on facts."
+            },
+            {
+                "code": "base_example_the-movie-was-closely-based-on-a-true-story",
+                "text": "The movie was closely based on a true story."
+            }
+        ]
+    }
+]

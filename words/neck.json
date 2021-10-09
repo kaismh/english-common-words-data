@@ -1,0 +1,48 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the part of the body that connects the head to the shoulders",
+        "examples": [
+            {
+                "code": "neck_example_will-you-rub-my-neck",
+                "text": "Will you rub my neck?"
+            },
+            {
+                "code": "neck_example_she-craned-her-neck-to-see",
+                "text": "She craned her neck to see."
+            },
+            {
+                "code": "neck_example_the-murderer-strangled-the-victim-s-neck",
+                "text": "The murderer strangled the victim's neck."
+            },
+            {
+                "code": "neck_example_he-broke-his-neck-after-falling-off-the-horse",
+                "text": "He broke his neck after falling off the horse."
+            },
+            {
+                "code": "neck_example_i-have-neck-pain-in-the-mornings",
+                "text": "I have neck pain in the mornings."
+            },
+            {
+                "code": "neck_example_she-is-having-surgery-for-a-neck-injury",
+                "text": "She is having surgery for a neck injury."
+            },
+            {
+                "code": "neck_example_he-strained-his-neck-muscle",
+                "text": "He strained his neck muscle."
+            },
+            {
+                "code": "neck_example_she-has-a-long-neck",
+                "text": "She has a long neck."
+            },
+            {
+                "code": "neck_example_the-shirt-has-an-open-neck",
+                "text": "The shirt has an open neck."
+            },
+            {
+                "code": "neck_example_she-wore-a-scarf-around-her-neck",
+                "text": "She wore a scarf around her neck."
+            }
+        ]
+    }
+]

@@ -1,0 +1,96 @@
+[
+    {
+        "type": "(n)",
+        "mean": "an air-like substance; a substance used for heating or cooking; fuel for cars",
+        "examples": [
+            {
+                "code": "gas_example_they-were-sickened-by-toxic-gas",
+                "text": "They were sickened by toxic gas."
+            },
+            {
+                "code": "gas_example_the-truck-contains-explosive-gas",
+                "text": "The truck contains explosive gas."
+            },
+            {
+                "code": "gas_example_it-is-a-colorless-gas",
+                "text": "It is a colorless gas."
+            },
+            {
+                "code": "gas_example_the-police-used-tear-gas-to-break-up-the-riot",
+                "text": "The police used tear gas to break up the riot."
+            },
+            {
+                "code": "gas_example_they-heat-their-house-with-natural-gas",
+                "text": "They heat their house with natural gas."
+            },
+            {
+                "code": "gas_example_they-bought-bottled-gas-for-emergency-use",
+                "text": "They bought bottled gas for emergency use."
+            },
+            {
+                "code": "gas_example_the-truck-is-giving-off-toxic-gases",
+                "text": "The truck is giving off toxic gases."
+            },
+            {
+                "code": "gas_example_that-plant-can-produce-a-poisonous-gas",
+                "text": "That plant can produce a poisonous gas."
+            },
+            {
+                "code": "gas_example_toxic-gases-have-built-up-in-the-building",
+                "text": "Toxic gases have built up in the building."
+            },
+            {
+                "code": "gas_example_gas-escaped-from-the-tank",
+                "text": "Gas escaped from the tank."
+            },
+            {
+                "code": "gas_example_many-chefs-prefer-to-cook-with-gas",
+                "text": "Many chefs prefer to cook with gas."
+            },
+            {
+                "code": "gas_example_can-you-turn-on-the-gas",
+                "text": "Can you turn on the gas?"
+            },
+            {
+                "code": "gas_example_a-gas-leak-caused-the-explosion",
+                "text": "A gas leak caused the explosion."
+            },
+            {
+                "code": "gas_example_they-used-gas-masks-when-evacuating-the-building",
+                "text": "They used gas masks when evacuating the building."
+            },
+            {
+                "code": "gas_example_she-has-a-gas-stove",
+                "text": "She has a gas stove."
+            },
+            {
+                "code": "gas_example_i-need-to-replace-the-gas-canister",
+                "text": "I need to replace the gas canister."
+            },
+            {
+                "code": "gas_example_the-gas-tank-is-full",
+                "text": "The gas tank is full."
+            },
+            {
+                "code": "gas_example_the-gas-pipeline-is-damaged",
+                "text": "The gas pipeline is damaged."
+            },
+            {
+                "code": "gas_example_he-works-in-the-gas-industry",
+                "text": "He works in the gas industry."
+            },
+            {
+                "code": "gas_example_the-gas-supply-is-low-right-now",
+                "text": "The gas supply is low right now."
+            },
+            {
+                "code": "gas_example_we-need-to-stop-at-the-gas-station",
+                "text": "We need to stop at the gas station."
+            },
+            {
+                "code": "gas_example_he-accidentally-hit-the-gas-pedal-and-crashed-into-the-building",
+                "text": "He accidentally hit the gas pedal and crashed into the building."
+            }
+        ]
+    }
+]

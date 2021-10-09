@@ -1,0 +1,54 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to tear a piece of paper or fabric",
+        "examples": [
+            {
+                "code": "rip_example_she-ripped-her-stocking",
+                "text": "She ripped her stocking."
+            },
+            {
+                "code": "rip_example_i-ripped-a-hole-in-my-jeans",
+                "text": "I ripped a hole in my jeans."
+            },
+            {
+                "code": "rip_example_i-accidentally-ripped-the-fabric",
+                "text": "I accidentally ripped the fabric."
+            },
+            {
+                "code": "rip_example_he-angrily-ripped-up-the-contract",
+                "text": "He angrily ripped up the contract."
+            },
+            {
+                "code": "rip_example_she-accidentally-ripped-her-dress-on-the-corner-of-the-table",
+                "text": "She accidentally ripped her dress on the corner of the table."
+            }
+        ]
+    },
+    {
+        "type": "(n)",
+        "mean": "a tear in a piece of paper or fabric",
+        "examples": [
+            {
+                "code": "rip_example_there-is-a-small-rip-in-her-blouse",
+                "text": "There is a small rip in her blouse."
+            },
+            {
+                "code": "rip_example_there-was-a-small-rip-in-the-fabric",
+                "text": "There was a small rip in the fabric."
+            },
+            {
+                "code": "rip_example_she-made-a-rip-in-the-shirt",
+                "text": "She made a rip in the shirt."
+            },
+            {
+                "code": "rip_example_the-rip-in-his-pants-is-getting-bigger",
+                "text": "The rip in his pants is getting bigger."
+            },
+            {
+                "code": "rip_example_i-have-a-rip-in-my-stockings",
+                "text": "I have a rip in my stockings."
+            }
+        ]
+    }
+]

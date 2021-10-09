@@ -1,0 +1,50 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the shape and size of something",
+        "examples": [
+            {
+                "code": "build_example_she-has-an-average-build",
+                "text": "She has an average build."
+            },
+            {
+                "code": "build_example_the-boxer-has-a-muscular-build",
+                "text": "The boxer has a muscular build."
+            },
+            {
+                "code": "build_example_my-wife-is-smaller-in-build-than-me",
+                "text": "My wife is smaller in build than me."
+            },
+            {
+                "code": "build_example_the-police-are-looking-for-a-man-with-a-large-build",
+                "text": "The police are looking for a man with a large build."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to make something by putting parts together",
+        "examples": [
+            {
+                "code": "build_example_we-are-building-an-addition-to-the-house",
+                "text": "We are building an addition to the house."
+            },
+            {
+                "code": "build_example_we-want-to-build-awareness-of-the-dangers-of-drunk-driving",
+                "text": "We want to build awareness of the dangers of drunk driving."
+            },
+            {
+                "code": "build_example_the-city-is-building-a-bridge",
+                "text": "The city is building a bridge."
+            },
+            {
+                "code": "build_example_he-has-been-building-a-dynasty-for-many-years",
+                "text": "He has been building a dynasty for many years."
+            },
+            {
+                "code": "build_example_we-want-to-build-our-own-home",
+                "text": "We want to build our own home."
+            }
+        ]
+    }
+]

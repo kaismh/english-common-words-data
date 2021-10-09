@@ -1,0 +1,54 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a feeling of guilt or regret",
+        "examples": [
+            {
+                "code": "shame_example_he-had-deep-shame-for-his-actions",
+                "text": "He had deep shame for his actions."
+            },
+            {
+                "code": "shame_example_i-have-been-hiding-a-secret-shame-for-many-years",
+                "text": "I have been hiding a secret shame for many years."
+            },
+            {
+                "code": "shame_example_the-mayor-risked-public-shame",
+                "text": "The mayor risked public shame."
+            },
+            {
+                "code": "shame_example_the-child-was-filled-with-shame-for-lying-to-his-parents",
+                "text": "The child was filled with shame for lying to his parents."
+            },
+            {
+                "code": "shame_example_her-arrest-brought-shame-on-the-family",
+                "text": "Her arrest brought shame on the family."
+            },
+            {
+                "code": "shame_example_he-cried-from-shame",
+                "text": "He cried from shame."
+            },
+            {
+                "code": "shame_example_i-felt-shame-about-what-happened",
+                "text": "I felt shame about what happened."
+            },
+            {
+                "code": "shame_example_she-feels-great-shame-for-saying-cruel-things",
+                "text": "She feels great shame for saying cruel things."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to make someone feel ashamed",
+        "examples": [
+            {
+                "code": "shame_example_he-was-publicly-shamed-for-his-involvement-in-the-scandal",
+                "text": "He was publicly shamed for his involvement in the scandal."
+            },
+            {
+                "code": "shame_example_the-public-has-shamed-the-mayor-into-resigning-from-his-job",
+                "text": "The public has shamed the mayor into resigning from his job."
+            }
+        ]
+    }
+]

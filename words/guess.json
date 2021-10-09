@@ -1,0 +1,66 @@
+[
+    {
+        "type": "(n)",
+        "mean": "an estimated idea; an unsure answer",
+        "examples": [
+            {
+                "code": "guess_example_he-made-a-reasonable-guess",
+                "text": "He made a reasonable guess."
+            },
+            {
+                "code": "guess_example_i-can-only-make-an-educated-guess",
+                "text": "I can only make an educated guess."
+            },
+            {
+                "code": "guess_example_that-was-just-a-wild-guess",
+                "text": "That was just a wild guess."
+            },
+            {
+                "code": "guess_example_what-s-your-first-guess",
+                "text": "What's your first guess?"
+            },
+            {
+                "code": "guess_example_he-should-just-take-a-guess",
+                "text": "He should just take a guess."
+            },
+            {
+                "code": "guess_example_i-ll-give-you-two-guesses",
+                "text": "I'll give you two guesses."
+            },
+            {
+                "code": "guess_example_he-took-a-wild-guess-at-the-answer",
+                "text": "He took a wild guess at the answer."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to estimate or form an opinion without being sure or certain",
+        "examples": [
+            {
+                "code": "guess_example_she-guessed-correctly",
+                "text": "She guessed correctly."
+            },
+            {
+                "code": "guess_example_he-easily-guessed-the-right-answer",
+                "text": "He easily guessed the right answer."
+            },
+            {
+                "code": "guess_example_can-you-guess-where-i-am",
+                "text": "Can you guess where I am?"
+            },
+            {
+                "code": "guess_example_he-tried-to-guess-her-age",
+                "text": "He tried to guess her age."
+            },
+            {
+                "code": "guess_example_i-can-only-guess-at-his-intentions",
+                "text": "I can only guess at his intentions."
+            },
+            {
+                "code": "guess_example_he-guessed-from-the-pictures-that-she-was-married",
+                "text": "He guessed from the pictures that she was married."
+            }
+        ]
+    }
+]

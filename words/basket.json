@@ -1,0 +1,36 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a container made of plastic, wire, or wicker; basketball hoop",
+        "examples": [
+            {
+                "code": "basket_example_we-have-a-wicker-basket",
+                "text": "We have a wicker basket."
+            },
+            {
+                "code": "basket_example_put-the-dirty-clothing-in-the-laundry-basket",
+                "text": "Put the dirty clothing in the laundry basket."
+            },
+            {
+                "code": "basket_example_put-the-items-in-the-shopping-basket",
+                "text": "Put the items in the shopping basket."
+            },
+            {
+                "code": "basket_example_she-weaves-baskets-as-a-hobby",
+                "text": "She weaves baskets as a hobby."
+            },
+            {
+                "code": "basket_example_fill-the-picnic-basket",
+                "text": "Fill the picnic basket."
+            },
+            {
+                "code": "basket_example_the-basket-is-filled-with-apples",
+                "text": "The basket is filled with apples."
+            },
+            {
+                "code": "basket_example_the-basketball-player-made-a-basket",
+                "text": "The basketball player made a basket."
+            }
+        ]
+    }
+]

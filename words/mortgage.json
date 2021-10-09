@@ -1,0 +1,56 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a loan given by the bank to buy a house",
+        "examples": [
+            {
+                "code": "mortgage_example_i-have-a-30-year-mortgage-on-my-house",
+                "text": "I have a 30-year mortgage on my house."
+            },
+            {
+                "code": "mortgage_example_we-cannot-pay-off-the-mortgage-this-month",
+                "text": "We cannot pay off the mortgage this month."
+            },
+            {
+                "code": "mortgage_example_we-have-a-high-mortgage-payment",
+                "text": "We have a high mortgage payment."
+            },
+            {
+                "code": "mortgage_example_we-filled-out-a-mortgage-application",
+                "text": "We filled out a mortgage application."
+            },
+            {
+                "code": "mortgage_example_she-is-a-mortgage-broker",
+                "text": "She is a mortgage broker."
+            },
+            {
+                "code": "mortgage_example_she-works-for-a-mortgage-company",
+                "text": "She works for a mortgage company."
+            },
+            {
+                "code": "mortgage_example_we-are-getting-a-mortgage-loan-on-the-house",
+                "text": "We are getting a mortgage loan on the house."
+            },
+            {
+                "code": "mortgage_example_we-have-a-monthly-mortgage",
+                "text": "We have a monthly mortgage."
+            },
+            {
+                "code": "mortgage_example_i-took-out-a-second-mortgage",
+                "text": "I took out a second mortgage."
+            },
+            {
+                "code": "mortgage_example_she-got-an-adjustable-rate-mortgage",
+                "text": "She got an adjustable-rate mortgage."
+            },
+            {
+                "code": "mortgage_example_we-put-a-mortgage-on-our-house",
+                "text": "We put a mortgage on our house."
+            },
+            {
+                "code": "mortgage_example_we-pay-a-mortgage-of-3000-each-month",
+                "text": "We pay a mortgage of $3,000 each month."
+            }
+        ]
+    }
+]

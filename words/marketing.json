@@ -1,0 +1,28 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the activity of advertising a product for sale",
+        "examples": [
+            {
+                "code": "marketing_example_they-have-a-great-marketing-campaign",
+                "text": "They have a great marketing campaign."
+            },
+            {
+                "code": "marketing_example_we-need-to-hire-a-new-marketing-consultant",
+                "text": "We need to hire a new marketing consultant."
+            },
+            {
+                "code": "marketing_example_she-works-in-the-marketing-department",
+                "text": "She works in the marketing department."
+            },
+            {
+                "code": "marketing_example_he-owns-a-marketing-agency",
+                "text": "He owns a marketing agency."
+            },
+            {
+                "code": "marketing_example_the-advertising-company-uses-direct-marketing",
+                "text": "The advertising company uses direct marketing."
+            }
+        ]
+    }
+]

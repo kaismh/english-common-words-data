@@ -1,0 +1,86 @@
+[
+    {
+        "type": "(n)",
+        "mean": "having no difficulty; the feeling of having no worries or problems",
+        "examples": [
+            {
+                "code": "ease_example_despite-only-studying-english-for-two-years-she-spoke-with-surprising-ease",
+                "text": "Despite only studying English for two years, she spoke with surprising ease."
+            },
+            {
+                "code": "ease_example_she-passed-the-exam-with-great-ease",
+                "text": "She passed the exam with great ease."
+            },
+            {
+                "code": "ease_example_instructions-were-given-to-her-for-ease-of-understanding",
+                "text": "Instructions were given to her for ease of understanding."
+            },
+            {
+                "code": "ease_example_instructions-were-given-to-her-for-ease-in-understanding",
+                "text": "Instructions were given to her for ease in understanding."
+            },
+            {
+                "code": "ease_example_she-got-a-perfect-score-with-ease",
+                "text": "She got a perfect score with ease."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to make something less serious or difficult; to make something less painful; to move something or someone carefully",
+        "examples": [
+            {
+                "code": "ease_example_his-fear-of-heights-gradually-eased-as-he-stood-at-the-top-of-the-mountain",
+                "text": "His fear of heights gradually eased as he stood at the top of the mountain."
+            },
+            {
+                "code": "ease_example_putting-something-on-the-cut-should-greatly-ease-the-bleeding",
+                "text": "Putting something on the cut should greatly ease the bleeding."
+            },
+            {
+                "code": "ease_example_the-hikers-eased-down-the-steep-hill",
+                "text": "The hikers eased down the steep hill."
+            },
+            {
+                "code": "ease_example_she-eased-slowly-off-the-chair",
+                "text": "She eased slowly off the chair."
+            },
+            {
+                "code": "ease_example_this-cream-should-help-to-ease-the-itching",
+                "text": "This cream should help to ease the itching."
+            },
+            {
+                "code": "ease_example_my-teacher-tried-to-ease-my-fears-about-speaking-english",
+                "text": "My teacher tried to ease my fears about speaking English."
+            },
+            {
+                "code": "ease_example_my-worries-about-school-began-to-ease-once-i-got-there",
+                "text": "My worries about school began to ease once I got there."
+            },
+            {
+                "code": "ease_example_this-medicine-eases-the-pain",
+                "text": "This medicine eases the pain."
+            },
+            {
+                "code": "ease_example_her-friend-s-kind-words-eased-her-anxiety",
+                "text": "Her friend's kind words eased her anxiety."
+            },
+            {
+                "code": "ease_example_getting-a-cat-helped-ease-her-loneliness",
+                "text": "Getting a cat helped ease her loneliness."
+            },
+            {
+                "code": "ease_example_the-view-from-the-tower-helped-ease-her-fear-of-heights",
+                "text": "The view from the tower helped ease her fear of heights."
+            },
+            {
+                "code": "ease_example_i-eased-away-from-the-snake-so-i-wouldn-t-surprise-it",
+                "text": "I eased away from the snake so I wouldn't surprise it."
+            },
+            {
+                "code": "ease_example_he-eased-into-his-seat",
+                "text": "He eased into his seat."
+            }
+        ]
+    }
+]

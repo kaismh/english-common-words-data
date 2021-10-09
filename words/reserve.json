@@ -1,0 +1,102 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to hold or keep for future use",
+        "examples": [
+            {
+                "code": "reserve_example_this-seat-is-specifically-reserved-for-the-movie-star",
+                "text": "This seat is specifically reserved for the movie star."
+            },
+            {
+                "code": "reserve_example_the-parking-spot-is-typically-reserved-for-the-principal",
+                "text": "The parking spot is typically reserved for the principal."
+            },
+            {
+                "code": "reserve_example_that-table-was-previously-reserved-for-the-company-president-but-it-s-available-now",
+                "text": "That table was previously reserved for the company president, but it's available now."
+            },
+            {
+                "code": "reserve_example_try-to-reserve-judgment",
+                "text": "Try to reserve judgment."
+            },
+            {
+                "code": "reserve_example_can-i-reserve-a-table-for-four",
+                "text": "Can I reserve a table for four?"
+            },
+            {
+                "code": "reserve_example_i-reserved-a-seat-for-you",
+                "text": "I reserved a seat for you."
+            },
+            {
+                "code": "reserve_example_this-table-is-reserved-for-the-bride-and-groom",
+                "text": "This table is reserved for the bride and groom."
+            }
+        ]
+    },
+    {
+        "type": "(n)",
+        "mean": "something set aside for future use; extra military officers available if needed; a protected area of land for animals",
+        "examples": [
+            {
+                "code": "reserve_example_i-have-a-small-reserve-of-canned-foods-in-case-of-an-emergency",
+                "text": "I have a small reserve of canned foods in case of an emergency."
+            },
+            {
+                "code": "reserve_example_we-depleted-all-of-our-reserves",
+                "text": "We depleted all of our reserves."
+            },
+            {
+                "code": "reserve_example_our-reserves-are-falling",
+                "text": "Our reserves are falling."
+            },
+            {
+                "code": "reserve_example_we-need-to-maintain-our-small-reserve",
+                "text": "We need to maintain our small reserve."
+            },
+            {
+                "code": "reserve_example_the-city-created-a-natural-reserve-for-animals",
+                "text": "The city created a natural reserve for animals."
+            },
+            {
+                "code": "reserve_example_she-has-a-reserve-tank-of-gas",
+                "text": "She has a reserve tank of gas."
+            },
+            {
+                "code": "reserve_example_i-have-a-reserve-account-for-financial-emergencies",
+                "text": "I have a reserve account for financial emergencies."
+            },
+            {
+                "code": "reserve_example_the-company-has-set-aside-reserve-assets",
+                "text": "The company has set aside reserve assets."
+            },
+            {
+                "code": "reserve_example_we-have-many-reserve-troops",
+                "text": "We have many reserve troops."
+            },
+            {
+                "code": "reserve_example_they-are-on-reserve-duty",
+                "text": "They are on reserve duty."
+            },
+            {
+                "code": "reserve_example_the-company-has-huge-reserves",
+                "text": "The company has huge reserves."
+            },
+            {
+                "code": "reserve_example_we-have-to-dip-into-our-small-reserve",
+                "text": "We have to dip into our small reserve."
+            },
+            {
+                "code": "reserve_example_we-have-a-large-energy-reserve",
+                "text": "We have a large energy reserve."
+            },
+            {
+                "code": "reserve_example_he-joined-the-army-reserve",
+                "text": "He joined the army reserve."
+            },
+            {
+                "code": "reserve_example_we-visited-an-animal-reserve",
+                "text": "We visited an animal reserve."
+            }
+        ]
+    }
+]

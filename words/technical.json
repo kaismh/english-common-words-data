@@ -1,0 +1,24 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "relating to science or machines and how they work",
+        "examples": [
+            {
+                "code": "technical_example_that-sounds-too-technical-for-me",
+                "text": "That sounds too technical for me."
+            },
+            {
+                "code": "technical_example_the-job-position-requires-technical-skills",
+                "text": "The job position requires technical skills."
+            },
+            {
+                "code": "technical_example_you-are-getting-extremely-technical-about-the-issue",
+                "text": "You are getting extremely technical about the issue."
+            },
+            {
+                "code": "technical_example_do-you-have-any-technical-skills",
+                "text": "Do you have any technical skills?"
+            }
+        ]
+    }
+]

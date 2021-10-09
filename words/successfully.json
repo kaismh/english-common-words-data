@@ -1,0 +1,36 @@
+[
+    {
+        "type": "(adv)",
+        "mean": "in way of having desired results",
+        "examples": [
+            {
+                "code": "successfully_example_he-successfully-accomplished-getting-his-master-s-degree",
+                "text": "He successfully accomplished getting his master's degree."
+            },
+            {
+                "code": "successfully_example_she-successfully-competed-in-the-marathon",
+                "text": "She successfully competed in the marathon."
+            },
+            {
+                "code": "successfully_example_he-successfully-completed-the-project",
+                "text": "He successfully completed the project."
+            },
+            {
+                "code": "successfully_example_she-successfully-identified-the-problem",
+                "text": "She successfully identified the problem."
+            },
+            {
+                "code": "successfully_example_the-union-workers-successfully-negotiated-a-new-contract-with-the-company",
+                "text": "The union workers successfully negotiated a new contract with the company."
+            },
+            {
+                "code": "successfully_example_the-doctor-successfully-prevented-the-spread-of-the-virus",
+                "text": "The doctor successfully prevented the spread of the virus."
+            },
+            {
+                "code": "successfully_example_the-doctor-successfully-repaired-the-athlete-s-injured-knee",
+                "text": "The doctor successfully repaired the athlete's injured knee."
+            }
+        ]
+    }
+]

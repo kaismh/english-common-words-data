@@ -1,0 +1,70 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a round object on a car or bicycle that turns when it moves; a round object that is used to steer a car or ship",
+        "examples": [
+            {
+                "code": "wheel_example_the-rear-wheels-were-spinning-in-the-snow",
+                "text": "The rear wheels were spinning in the snow."
+            },
+            {
+                "code": "wheel_example_the-bicycle-wheels-were-damaged-in-the-crash",
+                "text": "The bicycle wheels were damaged in the crash."
+            },
+            {
+                "code": "wheel_example_he-turned-the-steering-wheel-to-the-left",
+                "text": "He turned the steering wheel to the left."
+            },
+            {
+                "code": "wheel_example_the-wheels-were-spinning-in-the-snow",
+                "text": "The wheels were spinning in the snow."
+            },
+            {
+                "code": "wheel_example_we-need-to-replace-the-wheel",
+                "text": "We need to replace the wheel."
+            },
+            {
+                "code": "wheel_example_she-gripped-the-steering-wheel-in-fear",
+                "text": "She gripped the steering wheel in fear."
+            },
+            {
+                "code": "wheel_example_he-turns-the-wheel-too-hard",
+                "text": "He turns the wheel too hard."
+            },
+            {
+                "code": "wheel_example_he-grabbed-the-wheel-from-her-after-she-started-falling-asleep",
+                "text": "He grabbed the wheel from her after she started falling asleep."
+            },
+            {
+                "code": "wheel_example_the-sea-captain-steered-the-wheel-to-avoid-the-iceberg",
+                "text": "The sea captain steered the wheel to avoid the iceberg."
+            },
+            {
+                "code": "wheel_example_the-wheel-came-off-after-the-accident",
+                "text": "The wheel came off after the accident."
+            },
+            {
+                "code": "wheel_example_he-was-behind-the-wheel-when-the-accident-happened",
+                "text": "He was behind the wheel when the accident happened."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to steer or push something that is on wheels",
+        "examples": [
+            {
+                "code": "wheel_example_the-mother-wheeled-the-baby-stroller-around-the-park",
+                "text": "The mother wheeled the baby stroller around the park."
+            },
+            {
+                "code": "wheel_example_the-nurse-wheeled-his-wheelchair-around-the-hospital",
+                "text": "The nurse wheeled his wheelchair around the hospital."
+            },
+            {
+                "code": "wheel_example_the-flight-attendant-wheels-a-drink-cart-down-the-aisle",
+                "text": "The flight attendant wheels a drink cart down the aisle."
+            }
+        ]
+    }
+]

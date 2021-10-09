@@ -1,0 +1,88 @@
+[
+    {
+        "type": "(n)",
+        "mean": "silence",
+        "examples": [
+            {
+                "code": "quiet_example_the-quiet-was-shattered-by-the-crash",
+                "text": "The quiet was shattered by the crash."
+            },
+            {
+                "code": "quiet_example_i-look-forward-to-periods-of-relative-quiet",
+                "text": "I look forward to periods of relative quiet."
+            },
+            {
+                "code": "quiet_example_there-was-a-sudden-quiet-in-the-house",
+                "text": "There was a sudden quiet in the house."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to make silent",
+        "examples": [
+            {
+                "code": "quiet_example_i-tried-to-quiet-my-mind",
+                "text": "I tried to quiet my mind."
+            }
+        ]
+    },
+    {
+        "type": "(adj)",
+        "mean": "silent; without noise or sound",
+        "examples": [
+            {
+                "code": "quiet_example_she-is-very-quiet-right-now",
+                "text": "She is very quiet right now."
+            },
+            {
+                "code": "quiet_example_the-room-fell-quiet",
+                "text": "The room fell quiet."
+            },
+            {
+                "code": "quiet_example_we-kept-quiet-about-the-surprise-party",
+                "text": "We kept quiet about the surprise party."
+            },
+            {
+                "code": "quiet_example_it-seemed-quiet-in-the-neighborhood",
+                "text": "It seemed quiet in the neighborhood."
+            },
+            {
+                "code": "quiet_example_we-live-in-a-quiet-suburb",
+                "text": "We live in a quiet suburb."
+            },
+            {
+                "code": "quiet_example_let-s-have-a-moment-of-quiet-reflection",
+                "text": "Let's have a moment of quiet reflection."
+            },
+            {
+                "code": "quiet_example_it-has-been-a-quiet-evening",
+                "text": "It has been a quiet evening."
+            },
+            {
+                "code": "quiet_example_he-is-a-quiet-man",
+                "text": "He is a quiet man."
+            },
+            {
+                "code": "quiet_example_he-lives-a-quiet-existence",
+                "text": "He lives a quiet existence."
+            },
+            {
+                "code": "quiet_example_she-spoke-in-a-quiet-voice",
+                "text": "She spoke in a quiet voice."
+            },
+            {
+                "code": "quiet_example_her-daughter-is-very-quiet",
+                "text": "Her daughter is very quiet."
+            },
+            {
+                "code": "quiet_example_the-room-was-oddly-quiet",
+                "text": "The room was oddly quiet."
+            },
+            {
+                "code": "quiet_example_be-quiet-about-what-happened",
+                "text": "Be quiet about what happened."
+            }
+        ]
+    }
+]

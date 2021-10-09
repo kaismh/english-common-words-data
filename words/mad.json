@@ -1,0 +1,40 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "angry; crazy",
+        "examples": [
+            {
+                "code": "mad_example_she-seemed-really-mad-at-me",
+                "text": "She seemed really mad at me."
+            },
+            {
+                "code": "mad_example_i-am-going-mad-from-all-of-this-noise",
+                "text": "I am going mad from all of this noise."
+            },
+            {
+                "code": "mad_example_the-street-noise-is-driving-me-mad",
+                "text": "The street noise is driving me mad."
+            },
+            {
+                "code": "mad_example_she-made-me-so-mad",
+                "text": "She made me so mad."
+            },
+            {
+                "code": "mad_example_i-was-in-a-mad-rush-to-get-there-on-time",
+                "text": "I was in a mad rush to get there on time."
+            },
+            {
+                "code": "mad_example_his-hair-makes-him-look-like-a-mad-scientist",
+                "text": "His hair makes him look like a mad scientist."
+            },
+            {
+                "code": "mad_example_i-am-mad-at-her",
+                "text": "I am mad at her."
+            },
+            {
+                "code": "mad_example_she-is-mad-with-envy",
+                "text": "She is mad with envy."
+            }
+        ]
+    }
+]

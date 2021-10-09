@@ -1,0 +1,48 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the feeling of not being able to relax; bad feelings between people",
+        "examples": [
+            {
+                "code": "tension_example_she-must-get-over-that-nervous-tension",
+                "text": "She must get over that nervous tension."
+            },
+            {
+                "code": "tension_example_there-is-increasing-tension-at-the-united-nations-meeting",
+                "text": "There is increasing tension at the United Nations meeting."
+            },
+            {
+                "code": "tension_example_we-are-fighting-political-tension-around-the-world",
+                "text": "We are fighting political tension around the world."
+            },
+            {
+                "code": "tension_example_do-you-feel-the-tension-in-the-room",
+                "text": "Do you feel the tension in the room?"
+            },
+            {
+                "code": "tension_example_you-can-cut-the-tension-with-a-knife",
+                "text": "You can cut the tension with a knife."
+            },
+            {
+                "code": "tension_example_the-diplomat-resolved-the-tension-between-the-countries",
+                "text": "The diplomat resolved the tension between the countries."
+            },
+            {
+                "code": "tension_example_tensions-have-been-building-up",
+                "text": "Tensions have been building up."
+            },
+            {
+                "code": "tension_example_tension-exists-between-the-former-married-couple",
+                "text": "Tension exists between the former married couple."
+            },
+            {
+                "code": "tension_example_i-felt-tension-during-the-meeting",
+                "text": "I felt tension during the meeting."
+            },
+            {
+                "code": "tension_example_there-is-tension-between-the-two-countries",
+                "text": "There is tension between the two countries."
+            }
+        ]
+    }
+]

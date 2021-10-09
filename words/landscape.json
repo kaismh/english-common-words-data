@@ -1,0 +1,36 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a large area of land that can be seen from one place",
+        "examples": [
+            {
+                "code": "landscape_example_we-were-surprised-by-the-rugged-landscape-of-the-desert",
+                "text": "We were surprised by the rugged landscape of the desert."
+            },
+            {
+                "code": "landscape_example_i-was-amazed-at-the-mountain-landscape",
+                "text": "I was amazed at the mountain landscape."
+            },
+            {
+                "code": "landscape_example_she-paints-rural-landscapes",
+                "text": "She paints rural landscapes."
+            },
+            {
+                "code": "landscape_example_we-need-to-preserve-the-rural-landscape",
+                "text": "We need to preserve the rural landscape."
+            },
+            {
+                "code": "landscape_example_the-neat-row-of-trees-created-a-beautiful-landscape",
+                "text": "The neat row of trees created a beautiful landscape."
+            },
+            {
+                "code": "landscape_example_he-always-wanted-to-be-a-landscape-photographer",
+                "text": "He always wanted to be a landscape photographer."
+            },
+            {
+                "code": "landscape_example_she-is-learning-about-landscape-design",
+                "text": "She is learning about landscape design."
+            }
+        ]
+    }
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "often; in a steady pattern; normal",
+        "examples": [
+            {
+                "code": "regular_example_she-is-a-fairly-regular-customer",
+                "text": "She is a fairly regular customer."
+            },
+            {
+                "code": "regular_example_his-visits-are-becoming-very-regular",
+                "text": "His visits are becoming very regular."
+            },
+            {
+                "code": "regular_example_his-heartbeat-is-regular",
+                "text": "His heartbeat is regular."
+            },
+            {
+                "code": "regular_example_her-visits-are-becoming-more-regular",
+                "text": "Her visits are becoming more regular."
+            },
+            {
+                "code": "regular_example_i-don-t-have-a-regular-job",
+                "text": "I don't have a regular job."
+            },
+            {
+                "code": "regular_example_he-is-a-regular-smoker",
+                "text": "He is a regular smoker."
+            },
+            {
+                "code": "regular_example_she-is-one-of-our-regular-customers",
+                "text": "She is one of our regular customers."
+            },
+            {
+                "code": "regular_example_the-car-needs-regular-maintenance",
+                "text": "The car needs regular maintenance."
+            },
+            {
+                "code": "regular_example_we-have-regular-contact",
+                "text": "We have regular contact."
+            },
+            {
+                "code": "regular_example_his-breathing-is-regular",
+                "text": "His breathing is regular."
+            },
+            {
+                "code": "regular_example_she-needs-regular-supervision",
+                "text": "She needs regular supervision."
+            }
+        ]
+    }
+]

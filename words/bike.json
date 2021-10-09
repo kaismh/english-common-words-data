@@ -1,0 +1,68 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a bicycle; a two-wheeled vehicle with pedals; a motorcycle",
+        "examples": [
+            {
+                "code": "bike_example_i-got-a-dirt-bike-for-my-birthday",
+                "text": "I got a dirt bike for my birthday."
+            },
+            {
+                "code": "bike_example_we-are-taking-mountain-bikes-on-our-vacation",
+                "text": "We are taking mountain bikes on our vacation."
+            },
+            {
+                "code": "bike_example_she-rides-her-bike-around-the-neighborhood",
+                "text": "She rides her bike around the neighborhood."
+            },
+            {
+                "code": "bike_example_we-got-on-our-bikes-when-we-crossed-the-street",
+                "text": "We got on our bikes when we crossed the street."
+            },
+            {
+                "code": "bike_example_she-pedals-her-bike-quickly",
+                "text": "She pedals her bike quickly."
+            },
+            {
+                "code": "bike_example_did-you-get-hurt-when-you-fell-off-your-bike",
+                "text": "Did you get hurt when you fell off your bike?"
+            },
+            {
+                "code": "bike_example_we-are-going-to-rent-bikes-for-our-trip",
+                "text": "We are going to rent bikes for our trip."
+            },
+            {
+                "code": "bike_example_we-can-park-our-bikes-here",
+                "text": "We can park our bikes here."
+            },
+            {
+                "code": "bike_example_we-had-to-push-our-bikes-up-the-steep-hill",
+                "text": "We had to push our bikes up the steep hill."
+            },
+            {
+                "code": "bike_example_they-went-on-a-bike-ride",
+                "text": "They went on a bike ride."
+            },
+            {
+                "code": "bike_example_i-need-to-buy-a-new-bike-chain",
+                "text": "I need to buy a new bike chain."
+            },
+            {
+                "code": "bike_example_let-s-use-this-bike-path",
+                "text": "Let's use this bike path."
+            },
+            {
+                "code": "bike_example_i-was-in-a-bike-accident",
+                "text": "I was in a bike accident."
+            },
+            {
+                "code": "bike_example_did-you-go-to-school-by-bike",
+                "text": "Did you go to school by bike?"
+            },
+            {
+                "code": "bike_example_she-likes-doing-tricks-on-her-bike",
+                "text": "She likes doing tricks on her bike."
+            }
+        ]
+    }
+]

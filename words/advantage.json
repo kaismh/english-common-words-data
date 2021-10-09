@@ -1,0 +1,52 @@
+[
+    {
+        "type": "(n)",
+        "mean": "something that helps",
+        "examples": [
+            {
+                "code": "advantage_example_the-taller-basketball-player-had-a-clear-advantage",
+                "text": "The taller basketball player had a clear advantage."
+            },
+            {
+                "code": "advantage_example_there-are-clear-advantages-of-learning-another-language",
+                "text": "There are clear advantages of learning another language."
+            },
+            {
+                "code": "advantage_example_the-added-advantage-of-living-here-is-the-excellent-school-system",
+                "text": "The added advantage of living here is the excellent school system."
+            },
+            {
+                "code": "advantage_example_some-cities-have-an-academic-advantage",
+                "text": "Some cities have an academic advantage."
+            },
+            {
+                "code": "advantage_example_he-has-an-advantage-over-me",
+                "text": "He has an advantage over me."
+            },
+            {
+                "code": "advantage_example_the-advantages-outweigh-the-disadvantages",
+                "text": "The advantages outweigh the disadvantages."
+            },
+            {
+                "code": "advantage_example_a-new-job-can-bring-certain-advantages",
+                "text": "A new job can bring certain advantages."
+            },
+            {
+                "code": "advantage_example_i-have-an-advantage-over-you-in-terms-of-height",
+                "text": "I have an advantage over you in terms of height."
+            },
+            {
+                "code": "advantage_example_there-are-certain-advantages-in-going-back-to-school",
+                "text": "There are certain advantages in going back to school."
+            },
+            {
+                "code": "advantage_example_an-alliance-might-create-an-advantage-for-both-countries",
+                "text": "An alliance might create an advantage for both countries."
+            },
+            {
+                "code": "advantage_example_that-idea-could-give-an-advantage-to-all-of-us",
+                "text": "That idea could give an advantage to all of us."
+            }
+        ]
+    }
+]

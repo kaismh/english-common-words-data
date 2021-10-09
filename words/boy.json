@@ -1,0 +1,52 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a male child; a young male",
+        "examples": [
+            {
+                "code": "boy_example_he-is-a-big-boy",
+                "text": "He is a big boy."
+            },
+            {
+                "code": "boy_example_they-have-three-young-boys",
+                "text": "They have three young boys."
+            },
+            {
+                "code": "boy_example_she-gave-birth-to-a-baby-boy",
+                "text": "She gave birth to a baby boy."
+            },
+            {
+                "code": "boy_example_he-is-a-good-boy",
+                "text": "He is a good boy."
+            },
+            {
+                "code": "boy_example_they-have-two-boys",
+                "text": "They have two boys."
+            },
+            {
+                "code": "boy_example_it-s-a-boy",
+                "text": "It's a boy!"
+            },
+            {
+                "code": "boy_example_that-s-my-boy",
+                "text": "That's my boy."
+            },
+            {
+                "code": "boy_example_i-met-a-nice-boy",
+                "text": "I met a nice boy."
+            },
+            {
+                "code": "boy_example_there-are-twelve-boys-in-my-class",
+                "text": "There are twelve boys in my class."
+            },
+            {
+                "code": "boy_example_boys-will-be-boys",
+                "text": "Boys will be boys."
+            },
+            {
+                "code": "boy_example_he-doesn-t-understand-what-happened-he-s-just-a-boy",
+                "text": "He doesn't understand what happened. He's just a boy."
+            }
+        ]
+    }
+]

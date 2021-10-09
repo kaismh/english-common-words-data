@@ -1,0 +1,58 @@
+[
+    {
+        "type": "(n)",
+        "mean": "description of an event; an arrangement with the bank to keep record of how much money a person puts in and takes out; an arrangement with a business showing how much something is owed or was paid for services",
+        "examples": [
+            {
+                "code": "account_example_the-woman-gave-an-eyewitness-account-of-the-crime",
+                "text": "The woman gave an eyewitness account of the crime."
+            },
+            {
+                "code": "account_example_the-book-gives-a-fictional-account-of-history",
+                "text": "The book gives a fictional account of history."
+            },
+            {
+                "code": "account_example_i-would-like-to-open-a-bank-account",
+                "text": "I would like to open a bank account."
+            },
+            {
+                "code": "account_example_she-gave-her-account-of-the-accident",
+                "text": "She gave her account of the accident."
+            },
+            {
+                "code": "account_example_they-signed-up-for-a-new-account",
+                "text": "They signed up for a new account."
+            },
+            {
+                "code": "account_example_he-finally-paid-off-his-account",
+                "text": "He finally paid off his account."
+            },
+            {
+                "code": "account_example_she-emptied-her-bank-account",
+                "text": "She emptied her bank account."
+            },
+            {
+                "code": "account_example_please-charge-my-account",
+                "text": "Please charge my account."
+            },
+            {
+                "code": "account_example_what-is-your-account-number",
+                "text": "What is your account number?"
+            },
+            {
+                "code": "account_example_who-is-the-account-holder",
+                "text": "Who is the account holder?"
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to explain",
+        "examples": [
+            {
+                "code": "account_example_has-the-money-been-fully-accounted-for",
+                "text": "Has the money been fully accounted for?"
+            }
+        ]
+    }
+]

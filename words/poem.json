@@ -1,0 +1,36 @@
+[
+    {
+        "type": "(n)",
+        "mean": "an artistic piece of writing written in separate lines and has a repeated rhythm and sometimes rhymes",
+        "examples": [
+            {
+                "code": "poem_example_he-writes-poems",
+                "text": "He writes poems."
+            },
+            {
+                "code": "poem_example_she-read-her-poem-to-her-family",
+                "text": "She read her poem to her family."
+            },
+            {
+                "code": "poem_example_they-are-publishing-her-poems",
+                "text": "They are publishing her poems."
+            },
+            {
+                "code": "poem_example_i-like-to-read-classic-poems",
+                "text": "I like to read classic poems."
+            },
+            {
+                "code": "poem_example_she-wrote-a-new-poem",
+                "text": "She wrote a new poem."
+            },
+            {
+                "code": "poem_example_the-poem-is-about-summer",
+                "text": "The poem is about summer."
+            },
+            {
+                "code": "poem_example_the-poem-is-written-in-chinese",
+                "text": "The poem is written in Chinese."
+            }
+        ]
+    }
+]

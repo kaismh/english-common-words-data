@@ -1,0 +1,56 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the amount of space or sound; the amount of something",
+        "examples": [
+            {
+                "code": "volume_example_we-were-surprised-by-the-sheer-volume-of-books-at-the-library",
+                "text": "We were surprised by the sheer volume of books at the library."
+            },
+            {
+                "code": "volume_example_the-local-bookstore-carries-a-small-volume-of-cookbooks",
+                "text": "The local bookstore carries a small volume of cookbooks."
+            },
+            {
+                "code": "volume_example_the-music-is-on-at-full-volume",
+                "text": "The music is on at full volume."
+            },
+            {
+                "code": "volume_example_traffic-volume-is-very-high-during-rush-hour",
+                "text": "Traffic volume is very high during rush hour."
+            },
+            {
+                "code": "volume_example_our-goal-is-to-increase-the-sales-volume",
+                "text": "Our goal is to increase the sales volume."
+            },
+            {
+                "code": "volume_example_please-turn-up-the-volume",
+                "text": "Please turn up the volume."
+            },
+            {
+                "code": "volume_example_please-turn-down-the-volume",
+                "text": "Please turn down the volume."
+            },
+            {
+                "code": "volume_example_the-volume-of-sales-increased-this-quarter",
+                "text": "The volume of sales increased this quarter."
+            },
+            {
+                "code": "volume_example_the-volume-of-holiday-shoppers-greatly-decreased-from-last-year",
+                "text": "The volume of holiday shoppers greatly decreased from last year."
+            },
+            {
+                "code": "volume_example_my-boss-wants-me-to-estimate-the-volume-of-shoppers-during-the-weekend",
+                "text": "My boss wants me to estimate the volume of shoppers during the weekend."
+            },
+            {
+                "code": "volume_example_the-speakers-were-on-at-maximum-volume",
+                "text": "The speakers were on at maximum volume."
+            },
+            {
+                "code": "volume_example_use-the-volume-control-on-the-television-to-adjust-the-sound",
+                "text": "Use the volume control on the television to adjust the sound."
+            }
+        ]
+    }
+]

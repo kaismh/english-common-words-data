@@ -1,0 +1,78 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a desire to want to know or learn",
+        "examples": [
+            {
+                "code": "interest_example_he-always-had-a-great-interest-in-music",
+                "text": "He always had a great interest in music."
+            },
+            {
+                "code": "interest_example_she-began-to-have-a-growing-interest-in-football",
+                "text": "She began to have a growing interest in football."
+            },
+            {
+                "code": "interest_example_they-ve-had-a-shared-interest-in-classical-music",
+                "text": "They've had a shared interest in classical music."
+            },
+            {
+                "code": "interest_example_he-s-never-shown-the-slightest-interest-in-her",
+                "text": "He's never shown the slightest interest in her."
+            },
+            {
+                "code": "interest_example_he-has-little-interest-in-the-ballet",
+                "text": "He has little interest in the ballet."
+            },
+            {
+                "code": "interest_example_there-was-sudden-interest-in-her-artwork",
+                "text": "There was sudden interest in her artwork."
+            },
+            {
+                "code": "interest_example_she-has-always-had-an-interest-in-learning-new-languages",
+                "text": "She has always had an interest in learning new languages."
+            },
+            {
+                "code": "interest_example_while-studying-in-italy-he-developed-an-interest-in-cooking",
+                "text": "While studying in Italy he developed an interest in cooking."
+            },
+            {
+                "code": "interest_example_the-movie-kept-my-interest-for-the-full-three-hours",
+                "text": "The movie kept my interest for the full three hours."
+            },
+            {
+                "code": "interest_example_the-commercial-caught-my-interest",
+                "text": "The commercial caught my interest."
+            },
+            {
+                "code": "interest_example_the-boy-s-interest-in-reading-grew-as-he-got-older",
+                "text": "The boy's interest in reading grew as he got older."
+            },
+            {
+                "code": "interest_example_they-listened-with-interest",
+                "text": "They listened with interest."
+            },
+            {
+                "code": "interest_example_i-saw-a-growing-interest-from-the-teenagers",
+                "text": "I saw a growing interest from the teenagers."
+            },
+            {
+                "code": "interest_example_she-has-an-active-interest-in-helping-others",
+                "text": "She has an active interest in helping others."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to want to learn more about something",
+        "examples": [
+            {
+                "code": "interest_example_charity-work-really-interests-me",
+                "text": "Charity work really interests me."
+            },
+            {
+                "code": "interest_example_she-tried-to-interest-the-children-with-puppets",
+                "text": "She tried to interest the children with puppets."
+            }
+        ]
+    }
+]

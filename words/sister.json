@@ -1,0 +1,40 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a female sibling",
+        "examples": [
+            {
+                "code": "sister_example_she-is-my-older-sister",
+                "text": "She is my older sister."
+            },
+            {
+                "code": "sister_example_do-you-have-a-twin-sister",
+                "text": "Do you have a twin sister?"
+            },
+            {
+                "code": "sister_example_this-is-my-annoying-sister",
+                "text": "This is my annoying sister."
+            },
+            {
+                "code": "sister_example_i-can-t-wait-to-see-my-beloved-sister",
+                "text": "I can't wait to see my beloved sister."
+            },
+            {
+                "code": "sister_example_kate-and-jane-are-sorority-sisters",
+                "text": "Kate and Jane are sorority sisters."
+            },
+            {
+                "code": "sister_example_she-looks-like-my-sister",
+                "text": "She looks like my sister."
+            },
+            {
+                "code": "sister_example_she-is-my-sister",
+                "text": "She is my sister."
+            },
+            {
+                "code": "sister_example_i-have-three-sisters",
+                "text": "I have three sisters."
+            }
+        ]
+    }
+]

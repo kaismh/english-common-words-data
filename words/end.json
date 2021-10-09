@@ -1,0 +1,182 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the furthest or last and final part of something",
+        "examples": [
+            {
+                "code": "end_example_he-held-the-bottom-end-of-the-board",
+                "text": "He held the bottom end of the board."
+            },
+            {
+                "code": "end_example_she-sat-at-the-opposite-end-of-the-table",
+                "text": "She sat at the opposite end of the table."
+            },
+            {
+                "code": "end_example_the-house-is-at-the-very-end-of-the-street",
+                "text": "The house is at the very end of the street."
+            },
+            {
+                "code": "end_example_i-need-the-tool-with-the-square-end",
+                "text": "I need the tool with the square end."
+            },
+            {
+                "code": "end_example_he-jumped-into-the-shallow-end-of-the-pool",
+                "text": "He jumped into the shallow end of the pool."
+            },
+            {
+                "code": "end_example_their-house-is-on-the-west-end-of-town",
+                "text": "Their house is on the west end of town."
+            },
+            {
+                "code": "end_example_the-game-came-to-a-sudden-end",
+                "text": "The game came to a sudden end."
+            },
+            {
+                "code": "end_example_the-movie-came-to-a-dramatic-end",
+                "text": "The movie came to a dramatic end."
+            },
+            {
+                "code": "end_example_she-walked-until-she-reached-the-end-of-the-path",
+                "text": "She walked until she reached the end of the path."
+            },
+            {
+                "code": "end_example_i-just-cut-the-ends-of-my-hair",
+                "text": "I just cut the ends of my hair."
+            },
+            {
+                "code": "end_example_can-you-tie-the-ends-of-the-string-together",
+                "text": "Can you tie the ends of the string together?"
+            },
+            {
+                "code": "end_example_he-grabbed-both-ends-and-pulled",
+                "text": "He grabbed both ends and pulled."
+            },
+            {
+                "code": "end_example_i-need-to-attach-this-end-to-something",
+                "text": "I need to attach this end to something."
+            },
+            {
+                "code": "end_example_we-were-very-tired-as-we-approached-the-end-of-the-trip",
+                "text": "We were very tired as we approached the end of the trip."
+            },
+            {
+                "code": "end_example_i-cannot-see-the-end-of-this-movie-because-it-is-too-scary",
+                "text": "I cannot see the end of this movie because it is too scary."
+            },
+            {
+                "code": "end_example_the-teachers-want-to-put-an-end-to-cheating-on-tests",
+                "text": "The teachers want to put an end to cheating on tests."
+            },
+            {
+                "code": "end_example_they-announced-an-end-to-the-war",
+                "text": "They announced an end to the war."
+            },
+            {
+                "code": "end_example_the-students-celebrated-the-end-of-the-school-year",
+                "text": "The students celebrated the end of the school year."
+            },
+            {
+                "code": "end_example_the-bell-marked-the-end-of-the-school-day",
+                "text": "The bell marked the end of the school day."
+            },
+            {
+                "code": "end_example_we-got-a-new-end-table-for-the-living-room",
+                "text": "We got a new end table for the living room."
+            },
+            {
+                "code": "end_example_i-need-to-find-the-end-part-of-this-tool",
+                "text": "I need to find the end part of this tool."
+            },
+            {
+                "code": "end_example_he-ran-the-ball-into-the-end-zone",
+                "text": "He ran the ball into the end zone."
+            },
+            {
+                "code": "end_example_the-owners-were-happy-with-the-end-result",
+                "text": "The owners were happy with the end result."
+            },
+            {
+                "code": "end_example_she-lives-at-the-end-of-a-dirt-road",
+                "text": "She lives at the end of a dirt road."
+            },
+            {
+                "code": "end_example_she-made-a-mark-on-the-end-of-the-board",
+                "text": "She made a mark on the end of the board."
+            },
+            {
+                "code": "end_example_i-have-to-finish-this-assignment-by-the-end-of-class",
+                "text": "I have to finish this assignment by the end of class."
+            },
+            {
+                "code": "end_example_i-got-bored-toward-the-end-of-the-lecture",
+                "text": "I got bored toward the end of the lecture."
+            },
+            {
+                "code": "end_example_he-won-t-get-paid-until-the-end-of-the-week",
+                "text": "He won't get paid until the end of the week."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to stop or finish",
+        "examples": [
+            {
+                "code": "end_example_class-suddenly-ended-when-the-fire-alarm-went-off",
+                "text": "Class suddenly ended when the fire alarm went off."
+            },
+            {
+                "code": "end_example_the-rain-eventually-ended",
+                "text": "The rain eventually ended."
+            },
+            {
+                "code": "end_example_this-will-probably-end-badly",
+                "text": "This will probably end badly."
+            },
+            {
+                "code": "end_example_the-movie-ended-happily",
+                "text": "The movie ended happily."
+            },
+            {
+                "code": "end_example_they-quickly-ended-the-game-when-it-got-dark",
+                "text": "They quickly ended the game when it got dark."
+            },
+            {
+                "code": "end_example_the-plan-ended-in-disaster",
+                "text": "The plan ended in disaster."
+            },
+            {
+                "code": "end_example_the-movie-ended-with-an-explosion",
+                "text": "The movie ended with an explosion."
+            },
+            {
+                "code": "end_example_their-marriage-ended-badly",
+                "text": "Their marriage ended badly."
+            },
+            {
+                "code": "end_example_the-sale-ends-tomorrow",
+                "text": "The sale ends tomorrow."
+            },
+            {
+                "code": "end_example_the-year-ended-quietly",
+                "text": "The year ended quietly."
+            },
+            {
+                "code": "end_example_the-fighting-ended-suddenly",
+                "text": "The fighting ended suddenly."
+            },
+            {
+                "code": "end_example_they-are-working-to-end-poverty",
+                "text": "They are working to end poverty."
+            },
+            {
+                "code": "end_example_the-meeting-ended-late",
+                "text": "The meeting ended late."
+            },
+            {
+                "code": "end_example_he-ended-the-call-abruptly",
+                "text": "He ended the call abruptly."
+            }
+        ]
+    }
+]

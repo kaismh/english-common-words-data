@@ -1,0 +1,36 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a connection; a family member",
+        "examples": [
+            {
+                "code": "relation_example_we-established-good-relations-with-our-neighboring-country",
+                "text": "We established good relations with our neighboring country."
+            },
+            {
+                "code": "relation_example_we-need-to-sever-our-relations-with-them",
+                "text": "We need to sever our relations with them."
+            },
+            {
+                "code": "relation_example_how-can-we-strengthen-our-relations",
+                "text": "How can we strengthen our relations?"
+            },
+            {
+                "code": "relation_example_there-is-a-direct-relation-between-smoking-and-lung-cancer",
+                "text": "There is a direct relation between smoking and lung cancer."
+            },
+            {
+                "code": "relation_example_he-studies-international-relations",
+                "text": "He studies international relations."
+            },
+            {
+                "code": "relation_example_they-have-poor-relations",
+                "text": "They have poor relations."
+            },
+            {
+                "code": "relation_example_what-is-the-relation-between-them",
+                "text": "What is the relation between them?"
+            }
+        ]
+    }
+]

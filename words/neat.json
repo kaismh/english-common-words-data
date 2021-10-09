@@ -1,0 +1,40 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "clean; not messy; done in a clever way",
+        "examples": [
+            {
+                "code": "neat_example_i-keep-my-house-neat",
+                "text": "I keep my house neat."
+            },
+            {
+                "code": "neat_example_the-room-looks-neat",
+                "text": "The room looks neat."
+            },
+            {
+                "code": "neat_example_she-has-a-very-neat-room",
+                "text": "She has a very neat room."
+            },
+            {
+                "code": "neat_example_he-did-a-neat-job-of-painting-the-walls",
+                "text": "He did a neat job of painting the walls."
+            },
+            {
+                "code": "neat_example_he-has-such-neat-handwriting",
+                "text": "He has such neat handwriting."
+            },
+            {
+                "code": "neat_example_you-re-neat-person",
+                "text": "You're neat person."
+            },
+            {
+                "code": "neat_example_it-was-a-neat-performance",
+                "text": "It was a neat performance."
+            },
+            {
+                "code": "neat_example_that-is-a-neat-way-of-thinking",
+                "text": "That is a neat way of thinking."
+            }
+        ]
+    }
+]

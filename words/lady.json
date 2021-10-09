@@ -1,0 +1,24 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a woman",
+        "examples": [
+            {
+                "code": "lady_example_his-mother-was-a-sweet-lady",
+                "text": "His mother was a sweet lady."
+            },
+            {
+                "code": "lady_example_the-cleaning-lady-did-a-great-job",
+                "text": "The cleaning lady did a great job."
+            },
+            {
+                "code": "lady_example_the-old-lady-reminds-me-of-my-grandmother",
+                "text": "The old lady reminds me of my grandmother."
+            },
+            {
+                "code": "lady_example_he-is-bringing-his-new-lady-friend-to-the-party",
+                "text": "He is bringing his new lady friend to the party."
+            }
+        ]
+    }
+]

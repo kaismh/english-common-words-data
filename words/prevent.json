@@ -1,0 +1,40 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to stop something from happening",
+        "examples": [
+            {
+                "code": "prevent_example_this-helps-to-prevent-disease",
+                "text": "This helps to prevent disease."
+            },
+            {
+                "code": "prevent_example_he-wears-a-mask-to-prevent-contamination",
+                "text": "He wears a mask to prevent contamination."
+            },
+            {
+                "code": "prevent_example_we-want-to-prevent-conflict",
+                "text": "We want to prevent conflict."
+            },
+            {
+                "code": "prevent_example_video-games-prevent-boredom",
+                "text": "Video games prevent boredom."
+            },
+            {
+                "code": "prevent_example_how-can-we-prevent-pregnancy",
+                "text": "How can we prevent pregnancy?"
+            },
+            {
+                "code": "prevent_example_how-can-we-possibly-prevent-another-accident",
+                "text": "How can we possibly prevent another accident?"
+            },
+            {
+                "code": "prevent_example_he-physically-prevented-the-robbers-from-entering-the-house",
+                "text": "He physically prevented the robbers from entering the house."
+            },
+            {
+                "code": "prevent_example_he-tried-to-prevent-her-from-leaving",
+                "text": "He tried to prevent her from leaving."
+            }
+        ]
+    }
+]

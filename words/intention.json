@@ -1,0 +1,44 @@
+[
+    {
+        "type": "(n)",
+        "mean": "something that you have planned to do",
+        "examples": [
+            {
+                "code": "intention_example_my-original-intention-was-to-study-all-day",
+                "text": "My original intention was to study all day."
+            },
+            {
+                "code": "intention_example_she-may-never-reveal-her-true-intentions",
+                "text": "She may never reveal her true intentions."
+            },
+            {
+                "code": "intention_example_no-one-knew-he-had-bad-intentions-toward-the-company",
+                "text": "No one knew he had bad intentions toward the company."
+            },
+            {
+                "code": "intention_example_he-stated-his-intention-to-run-for-governor",
+                "text": "He stated his intention to run for governor."
+            },
+            {
+                "code": "intention_example_i-have-no-intention-of-changing-jobs",
+                "text": "I have no intention of changing jobs."
+            },
+            {
+                "code": "intention_example_i-know-his-true-intentions",
+                "text": "I know his true intentions."
+            },
+            {
+                "code": "intention_example_he-left-with-the-intentions-of-never-coming-back",
+                "text": "He left with the intentions of never coming back."
+            },
+            {
+                "code": "intention_example_her-intention-in-inviting-us-to-dinner-was-to-ask-for-money",
+                "text": "Her intention in inviting us to dinner was to ask for money."
+            },
+            {
+                "code": "intention_example_the-overall-intention-behind-the-project-was-good",
+                "text": "The overall intention behind the project was good."
+            }
+        ]
+    }
+]

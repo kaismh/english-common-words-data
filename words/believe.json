@@ -1,0 +1,56 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to feel sure that something is true; to have faith",
+        "examples": [
+            {
+                "code": "believe_example_she-believes-deeply-that-god-exists",
+                "text": "She believes deeply that God exists."
+            },
+            {
+                "code": "believe_example_i-truly-believe-this-is-the-best-choice",
+                "text": "I truly believe this is the best choice."
+            },
+            {
+                "code": "believe_example_you-don-t-seriously-believe-that-do-you",
+                "text": "You don't seriously believe that, do you?"
+            },
+            {
+                "code": "believe_example_i-have-long-believed-we-were-meant-to-be-together",
+                "text": "I have long believed we were meant to be together."
+            },
+            {
+                "code": "believe_example_he-wrongly-believed-everything-would-be-ok",
+                "text": "He wrongly believed everything would be ok."
+            },
+            {
+                "code": "believe_example_despite-your-argument-i-still-believe-otherwise",
+                "text": "Despite your argument, I still believe otherwise."
+            },
+            {
+                "code": "believe_example_after-all-the-lies-i-cannot-believe-you-anymore",
+                "text": "After all the lies, I cannot believe you anymore."
+            },
+            {
+                "code": "believe_example_you-led-me-to-believe-you-knew-what-you-were-doing",
+                "text": "You led me to believe you knew what you were doing."
+            },
+            {
+                "code": "believe_example_i-tend-to-believe-the-expert-on-this-issue",
+                "text": "I tend to believe the expert on this issue."
+            },
+            {
+                "code": "believe_example_do-not-believe-his-lies",
+                "text": "Do not believe his lies!"
+            },
+            {
+                "code": "believe_example_we-believed-his-claim",
+                "text": "We believed his claim."
+            },
+            {
+                "code": "believe_example_we-were-starting-to-believe-the-worst",
+                "text": "We were starting to believe the worst."
+            }
+        ]
+    }
+]

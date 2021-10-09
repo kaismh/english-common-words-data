@@ -1,0 +1,66 @@
+[
+    {
+        "type": "(n)",
+        "mean": "something that is added to the normal or usual thing",
+        "examples": [
+            {
+                "code": "extra_example_she-tries-to-budget-for-some-little-extras-every-month",
+                "text": "She tries to budget for some little extras every month."
+            },
+            {
+                "code": "extra_example_this-package-has-some-added-extras",
+                "text": "This package has some added extras."
+            },
+            {
+                "code": "extra_example_the-price-includes-many-extras",
+                "text": "The price includes many extras."
+            }
+        ]
+    },
+    {
+        "type": "(adj)",
+        "mean": "more than usual; additional",
+        "examples": [
+            {
+                "code": "extra_example_she-tries-to-give-extra-attention-to-the-students-who-are-struggling",
+                "text": "She tries to give extra attention to the students who are struggling."
+            },
+            {
+                "code": "extra_example_i-need-some-extra-motivation-to-finish-this-project",
+                "text": "I need some extra motivation to finish this project."
+            },
+            {
+                "code": "extra_example_the-award-gave-him-some-extra-confidence",
+                "text": "The award gave him some extra confidence."
+            },
+            {
+                "code": "extra_example_he-earned-some-extra-money-by-working-on-the-weekends",
+                "text": "He earned some extra money by working on the weekends."
+            },
+            {
+                "code": "extra_example_i-added-some-extra-ingredients-to-the-recipe",
+                "text": "I added some extra ingredients to the recipe."
+            },
+            {
+                "code": "extra_example_there-was-an-extra-charge-for-the-options-he-wanted",
+                "text": "There was an extra charge for the options he wanted."
+            },
+            {
+                "code": "extra_example_she-s-trying-to-find-some-extra-room-for-the-boxes",
+                "text": "She's trying to find some extra room for the boxes."
+            },
+            {
+                "code": "extra_example_she-is-trying-to-receive-extra-credit-by-doing-more-classwork",
+                "text": "She is trying to receive extra credit by doing more classwork."
+            },
+            {
+                "code": "extra_example_he-s-trying-to-find-the-extra-strength-to-finish-the-race",
+                "text": "He's trying to find the extra strength to finish the race."
+            },
+            {
+                "code": "extra_example_she-took-on-some-extra-work",
+                "text": "She took on some extra work."
+            }
+        ]
+    }
+]

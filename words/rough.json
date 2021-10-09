@@ -1,0 +1,52 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "not smooth; difficult; not exact",
+        "examples": [
+            {
+                "code": "rough_example_they-traveled-through-rough-terrain",
+                "text": "They traveled through rough terrain."
+            },
+            {
+                "code": "rough_example_it-has-a-rough-texture",
+                "text": "It has a rough texture."
+            },
+            {
+                "code": "rough_example_she-had-a-rough-childhood",
+                "text": "She had a rough childhood."
+            },
+            {
+                "code": "rough_example_this-is-only-a-rough-translation",
+                "text": "This is only a rough translation."
+            },
+            {
+                "code": "rough_example_people-are-afraid-of-him-because-of-his-rough-nature",
+                "text": "People are afraid of him because of his rough nature."
+            },
+            {
+                "code": "rough_example_he-was-fired-for-the-rough-treatment-of-his-employees",
+                "text": "He was fired for the rough treatment of his employees."
+            },
+            {
+                "code": "rough_example_she-was-scolded-for-the-rough-handling-of-the-delicate-machinery",
+                "text": "She was scolded for the rough handling of the delicate machinery."
+            },
+            {
+                "code": "rough_example_her-sons-engage-in-rough-play",
+                "text": "Her sons engage in rough play."
+            },
+            {
+                "code": "rough_example_it-looks-rough-on-the-outside",
+                "text": "It looks rough on the outside."
+            },
+            {
+                "code": "rough_example_he-acts-rough-but-he-s-actually-really-nice",
+                "text": "He acts rough, but he's actually really nice."
+            },
+            {
+                "code": "rough_example_her-sons-play-rough",
+                "text": "Her sons play rough."
+            }
+        ]
+    }
+]

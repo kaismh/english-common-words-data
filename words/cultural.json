@@ -1,0 +1,24 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "having to do with the customs or traditions of a certain country or group",
+        "examples": [
+            {
+                "code": "cultural_example_the-cultural-festival-is-an-annual-event",
+                "text": "The cultural festival is an annual event."
+            },
+            {
+                "code": "cultural_example_we-are-learning-about-cultural-attitude",
+                "text": "We are learning about cultural attitude."
+            },
+            {
+                "code": "cultural_example_we-should-be-sensitive-to-all-cultural-backgrounds",
+                "text": "We should be sensitive to all cultural backgrounds."
+            },
+            {
+                "code": "cultural_example_my-husband-and-i-often-discuss-our-cultural-differences",
+                "text": "My husband and I often discuss our cultural differences."
+            }
+        ]
+    }
+]

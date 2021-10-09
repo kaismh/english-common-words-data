@@ -1,0 +1,60 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a group of people who meet regularly who have the same interests; a place for entertainment; a stick used for hitting",
+        "examples": [
+            {
+                "code": "club_example_they-are-members-of-a-country-club",
+                "text": "They are members of a country club."
+            },
+            {
+                "code": "club_example_what-local-clubs-are-available-in-this-area",
+                "text": "What local clubs are available in this area?"
+            },
+            {
+                "code": "club_example_the-los-angeles-dodgers-are-my-favorite-sports-club",
+                "text": "The Los Angeles Dodgers are my favorite sports club."
+            },
+            {
+                "code": "club_example_she-joined-the-school-chess-club",
+                "text": "She joined the school chess club."
+            },
+            {
+                "code": "club_example_which-golf-club-should-i-use",
+                "text": "Which golf club should I use?"
+            },
+            {
+                "code": "club_example_i-love-comedy-clubs",
+                "text": "I love comedy clubs."
+            },
+            {
+                "code": "club_example_she-belongs-to-many-school-clubs",
+                "text": "She belongs to many school clubs."
+            },
+            {
+                "code": "club_example_the-thief-hit-me-with-a-club",
+                "text": "The thief hit me with a club."
+            },
+            {
+                "code": "club_example_the-golfer-swung-his-club",
+                "text": "The golfer swung his club."
+            },
+            {
+                "code": "club_example_he-is-a-club-member",
+                "text": "He is a club member."
+            },
+            {
+                "code": "club_example_i-m-not-a-fan-of-the-club-scene",
+                "text": "I'm not a fan of the club scene."
+            },
+            {
+                "code": "club_example_how-many-members-do-you-have-in-your-club",
+                "text": "How many members do you have in your club?"
+            },
+            {
+                "code": "club_example_are-you-a-member-of-the-club",
+                "text": "Are you a member of the club?"
+            }
+        ]
+    }
+]

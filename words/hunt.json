@@ -1,0 +1,62 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the act of capturing or killing wild animals; the search for something",
+        "examples": [
+            {
+                "code": "hunt_example_they-are-going-on-a-bear-hunt-this-weekend",
+                "text": "They are going on a bear hunt this weekend."
+            },
+            {
+                "code": "hunt_example_there-is-a-massive-hunt-underway-for-the-killer",
+                "text": "There is a massive hunt underway for the killer."
+            },
+            {
+                "code": "hunt_example_they-are-having-a-treasure-hunt-this-weekend",
+                "text": "They are having a treasure hunt this weekend."
+            },
+            {
+                "code": "hunt_example_he-is-on-a-job-hunt",
+                "text": "He is on a job hunt."
+            },
+            {
+                "code": "hunt_example_she-will-go-on-a-deer-hunt-with-them",
+                "text": "She will go on a deer hunt with them."
+            },
+            {
+                "code": "hunt_example_many-people-joined-the-hunt-for-the-killer",
+                "text": "Many people joined the hunt for the killer."
+            },
+            {
+                "code": "hunt_example_they-will-begin-the-hunt-for-clues-in-the-morning",
+                "text": "They will begin the hunt for clues in the morning."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to search for someone or something; to pursue for capturing and killing",
+        "examples": [
+            {
+                "code": "hunt_example_the-cat-hunted-for-the-mouse-in-the-barn",
+                "text": "The cat hunted for the mouse in the barn."
+            },
+            {
+                "code": "hunt_example_the-animal-hunted-its-prey",
+                "text": "The animal hunted its prey."
+            },
+            {
+                "code": "hunt_example_the-police-hunted-for-the-burglar",
+                "text": "The police hunted for the burglar."
+            },
+            {
+                "code": "hunt_example_they-are-hunting-wild-animals",
+                "text": "They are hunting wild animals."
+            },
+            {
+                "code": "hunt_example_we-are-hunting-ducks",
+                "text": "We are hunting ducks."
+            }
+        ]
+    }
+]

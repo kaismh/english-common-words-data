@@ -1,0 +1,40 @@
+[
+    {
+        "type": "(adv)",
+        "mean": "for a short time",
+        "examples": [
+            {
+                "code": "briefly_example_the-president-briefly-appeared-before-leaving",
+                "text": "The president briefly appeared before leaving."
+            },
+            {
+                "code": "briefly_example_i-briefly-glanced-through-the-book",
+                "text": "I briefly glanced through the book."
+            },
+            {
+                "code": "briefly_example_can-you-briefly-describe-the-movie",
+                "text": "Can you briefly describe the movie?"
+            },
+            {
+                "code": "briefly_example_the-power-outage-happened-briefly-in-the-morning",
+                "text": "The power outage happened briefly in the morning."
+            },
+            {
+                "code": "briefly_example_we-briefly-considered-moving-out-of-the-country",
+                "text": "We briefly considered moving out of the country."
+            },
+            {
+                "code": "briefly_example_it-was-briefly-mentioned-in-the-article",
+                "text": "It was briefly mentioned in the article."
+            },
+            {
+                "code": "briefly_example_could-you-briefly-explain-what-happened",
+                "text": "Could you briefly explain what happened?"
+            },
+            {
+                "code": "briefly_example_she-stopped-by-briefly",
+                "text": "She stopped by briefly."
+            }
+        ]
+    }
+]

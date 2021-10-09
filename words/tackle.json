@@ -1,0 +1,50 @@
+[
+    {
+        "type": "(n)",
+        "mean": "taking hold of someone and pulling him to the ground",
+        "examples": [
+            {
+                "code": "tackle_example_the-football-player-was-knocked-down-with-a-hard-tackle",
+                "text": "The football player was knocked down with a hard tackle."
+            },
+            {
+                "code": "tackle_example_the-security-guard-made-a-brave-tackle-on-the-robber",
+                "text": "The security guard made a brave tackle on the robber."
+            },
+            {
+                "code": "tackle_example_he-made-the-game-winning-tackle",
+                "text": "He made the game-winning tackle!"
+            },
+            {
+                "code": "tackle_example_he-missed-the-tackle",
+                "text": "He missed the tackle."
+            },
+            {
+                "code": "tackle_example_he-made-a-huge-tackle-against-the-other-team",
+                "text": "He made a huge tackle against the other team."
+            },
+            {
+                "code": "tackle_example_she-dropped-the-ball-in-the-tackle",
+                "text": "She dropped the ball in the tackle."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to deal with; to face and grab hold of",
+        "examples": [
+            {
+                "code": "tackle_example_the-drug-problem-has-to-be-tackled-effectively",
+                "text": "The drug problem has to be tackled effectively."
+            },
+            {
+                "code": "tackle_example_we-must-properly-tackle-this-challenge",
+                "text": "We must properly tackle this challenge."
+            },
+            {
+                "code": "tackle_example_he-failed-to-tackle-the-key-issues",
+                "text": "He failed to tackle the key issues."
+            }
+        ]
+    }
+]

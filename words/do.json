@@ -1,0 +1,108 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to perform an action; to complete or finish",
+        "examples": [
+            {
+                "code": "do_example_the-car-can-do-60-miles-per-hour",
+                "text": "The car can do 60 miles per hour."
+            },
+            {
+                "code": "do_example_he-will-do-the-activity",
+                "text": "He will do the activity."
+            },
+            {
+                "code": "do_example_she-can-do-the-project",
+                "text": "She can do the project."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "perform; take action",
+        "examples": [
+            {
+                "code": "do_example_do-it-this-way",
+                "text": "Do it this way."
+            },
+            {
+                "code": "do_example_do-it-the-right-way",
+                "text": "Do it the right way."
+            },
+            {
+                "code": "do_example_do-what-is-best-for-you",
+                "text": "Do what is best for you."
+            },
+            {
+                "code": "do_example_make-sure-you-do-it-soon",
+                "text": "Make sure you do it soon."
+            },
+            {
+                "code": "do_example_please-do-what-i-say",
+                "text": "Please do what I say."
+            },
+            {
+                "code": "do_example_do-what-you-are-told",
+                "text": "Do what you are told."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "used when asking a question",
+        "examples": [
+            {
+                "code": "do_example_do-you-have-the-time",
+                "text": "Do you have the time?"
+            },
+            {
+                "code": "do_example_do-you-have-any-money",
+                "text": "Do you have any money?"
+            },
+            {
+                "code": "do_example_do-you-know-the-answer",
+                "text": "Do you know the answer?"
+            },
+            {
+                "code": "do_example_do-you-know-my-brother",
+                "text": "Do you know my brother?"
+            },
+            {
+                "code": "do_example_do-you-like-me",
+                "text": "Do you like me?"
+            },
+            {
+                "code": "do_example_do-you-like-to-watch-tv",
+                "text": "Do you like to watch TV?"
+            },
+            {
+                "code": "do_example_do-you-eat-spicy-food",
+                "text": "Do you eat spicy food?"
+            },
+            {
+                "code": "do_example_do-you-understand-chinese",
+                "text": "Do you understand Chinese?"
+            },
+            {
+                "code": "do_example_do-you-care-about-the-environment",
+                "text": "Do you care about the environment?"
+            },
+            {
+                "code": "do_example_do-you-buy-organic-fruits",
+                "text": "Do you buy organic fruits?"
+            },
+            {
+                "code": "do_example_do-you-cook-at-home",
+                "text": "Do you cook at home?"
+            },
+            {
+                "code": "do_example_do-you-live-in-the-area",
+                "text": "Do you live in the area?"
+            },
+            {
+                "code": "do_example_do-you-walk-to-school",
+                "text": "Do you walk to school?"
+            }
+        ]
+    }
+]

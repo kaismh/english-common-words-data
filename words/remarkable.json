@@ -1,0 +1,40 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "amazing",
+        "examples": [
+            {
+                "code": "remarkable_example_she-is-a-remarkable-person",
+                "text": "She is a remarkable person."
+            },
+            {
+                "code": "remarkable_example_he-is-a-remarkable-man",
+                "text": "He is a remarkable man."
+            },
+            {
+                "code": "remarkable_example_she-made-a-remarkable-discovery",
+                "text": "She made a remarkable discovery."
+            },
+            {
+                "code": "remarkable_example_he-has-a-remarkable-ability",
+                "text": "He has a remarkable ability."
+            },
+            {
+                "code": "remarkable_example_they-accomplished-a-remarkable-achievement",
+                "text": "They accomplished a remarkable achievement."
+            },
+            {
+                "code": "remarkable_example_their-country-has-made-remarkable-progress",
+                "text": "Their country has made remarkable progress."
+            },
+            {
+                "code": "remarkable_example_this-place-is-truly-remarkable",
+                "text": "This place is truly remarkable."
+            },
+            {
+                "code": "remarkable_example_the-view-is-remarkable",
+                "text": "The view is remarkable."
+            }
+        ]
+    }
+]

@@ -1,0 +1,54 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to indicate; to try to express or show",
+        "examples": [
+            {
+                "code": "mean_example_her-name-means-peace",
+                "text": "Her name means peace."
+            },
+            {
+                "code": "mean_example_this-symbol-means-to-be-careful",
+                "text": "This symbol means to be careful."
+            },
+            {
+                "code": "mean_example_this-usually-means-trouble",
+                "text": "This usually means trouble."
+            }
+        ]
+    },
+    {
+        "type": "(adj)",
+        "mean": "cruel; not nice",
+        "examples": [
+            {
+                "code": "mean_example_she-s-a-mean-person",
+                "text": "She's a mean person."
+            },
+            {
+                "code": "mean_example_he-s-got-a-mean-streak",
+                "text": "He's got a mean streak."
+            },
+            {
+                "code": "mean_example_that-was-a-mean-trick",
+                "text": "That was a mean trick."
+            },
+            {
+                "code": "mean_example_he-is-extremely-mean-to-his-little-sister",
+                "text": "He is extremely mean to his little sister."
+            },
+            {
+                "code": "mean_example_she-is-mean-to-the-kids-in-her-neighborhood",
+                "text": "She is mean to the kids in her neighborhood."
+            },
+            {
+                "code": "mean_example_he-has-become-very-mean-to-his-family",
+                "text": "He has become very mean to his family."
+            },
+            {
+                "code": "mean_example_you-are-so-mean-to-him",
+                "text": "You are so mean to him."
+            }
+        ]
+    }
+]

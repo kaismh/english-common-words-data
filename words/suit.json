@@ -1,0 +1,102 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a set of clothes made with the same fabric consisting of a man's jacket and pants or a woman's jacket and skirt/pants; type of clothes for a specific activity; a legal case",
+        "examples": [
+            {
+                "code": "suit_example_he-only-owns-designer-suits",
+                "text": "He only owns designer suits."
+            },
+            {
+                "code": "suit_example_she-wears-only-the-best-suits-from-italy",
+                "text": "She wears only the best suits from Italy."
+            },
+            {
+                "code": "suit_example_he-wears-wool-suits-all-year-round",
+                "text": "He wears wool suits all year round."
+            },
+            {
+                "code": "suit_example_she-changed-into-a-bathing-suit",
+                "text": "She changed into a bathing suit."
+            },
+            {
+                "code": "suit_example_he-bought-a-jogging-suit-at-the-sports-store",
+                "text": "He bought a jogging suit at the sports store."
+            },
+            {
+                "code": "suit_example_the-hazard-team-wore-hazmat-suits-before-entering-the-building",
+                "text": "The hazard team wore hazmat suits before entering the building."
+            },
+            {
+                "code": "suit_example_she-won-millions-of-dollars-in-a-civil-suit-against-the-hospital",
+                "text": "She won millions of dollars in a civil suit against the hospital."
+            },
+            {
+                "code": "suit_example_there-is-a-paternity-suit-filed-against-him",
+                "text": "There is a paternity suit filed against him."
+            },
+            {
+                "code": "suit_example_she-wears-the-best-suits-made-in-france",
+                "text": "She wears the best suits made in France."
+            },
+            {
+                "code": "suit_example_he-filed-a-suit-against-the-car-manufacturer",
+                "text": "He filed a suit against the car manufacturer."
+            },
+            {
+                "code": "suit_example_she-dropped-the-paternity-suit-against-her-ex-boyfriend",
+                "text": "She dropped the paternity suit against her ex-boyfriend."
+            },
+            {
+                "code": "suit_example_she-won-the-suit-against-her-former-employer",
+                "text": "She won the suit against her former employer."
+            },
+            {
+                "code": "suit_example_they-settled-the-suit-outside-of-court",
+                "text": "They settled the suit outside of court."
+            },
+            {
+                "code": "suit_example_the-judge-dismissed-the-suit-for-lack-of-evidence",
+                "text": "The judge dismissed the suit for lack of evidence."
+            },
+            {
+                "code": "suit_example_a-man-in-a-blue-suit-was-seen-running-out-of-the-building",
+                "text": "A man in a blue suit was seen running out of the building."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to be convenient or useful; to make someone look good; to be proper or good for someone or something",
+        "examples": [
+            {
+                "code": "suit_example_your-new-outfit-suits-you-nicely",
+                "text": "Your new outfit suits you nicely."
+            },
+            {
+                "code": "suit_example_it-would-suit-you-perfectly-to-find-a-job-as-a-manager",
+                "text": "It would suit you perfectly to find a job as a manager."
+            },
+            {
+                "code": "suit_example_he-is-best-suited-for-technical-work",
+                "text": "He is best suited for technical work."
+            },
+            {
+                "code": "suit_example_she-appears-well-suited-for-teaching",
+                "text": "She appears well suited for teaching."
+            },
+            {
+                "code": "suit_example_they-make-clothes-to-suit-all-age-groups",
+                "text": "They make clothes to suit all age groups."
+            },
+            {
+                "code": "suit_example_those-clothes-suit-his-taste",
+                "text": "Those clothes suit his taste."
+            },
+            {
+                "code": "suit_example_that-job-suits-her-needs-right-now",
+                "text": "That job suits her needs right now."
+            }
+        ]
+    }
+]

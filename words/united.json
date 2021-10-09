@@ -1,0 +1,36 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "joined together",
+        "examples": [
+            {
+                "code": "united_example_they-are-firmly-united-to-fight-the-problem",
+                "text": "They are firmly united to fight the problem."
+            },
+            {
+                "code": "united_example_the-family-members-were-totally-united-to-keep-things-peaceful",
+                "text": "The family members were totally united to keep things peaceful."
+            },
+            {
+                "code": "united_example_they-have-stayed-legally-united-throughout-this-whole-ordeal",
+                "text": "They have stayed legally united throughout this whole ordeal."
+            },
+            {
+                "code": "united_example_our-country-stands-united-after-the-attack",
+                "text": "Our country stands united after the attack."
+            },
+            {
+                "code": "united_example_they-stand-united-against-drunk-driving",
+                "text": "They stand united against drunk driving."
+            },
+            {
+                "code": "united_example_they-stayed-united-with-each-other",
+                "text": "They stayed united with each other."
+            },
+            {
+                "code": "united_example_they-stand-united-in-their-decision",
+                "text": "They stand united in their decision."
+            }
+        ]
+    }
+]

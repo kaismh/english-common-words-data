@@ -1,0 +1,48 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "having to do with the mind",
+        "examples": [
+            {
+                "code": "psychological_example_her-worries-are-purely-psychological",
+                "text": "Her worries are purely psychological."
+            },
+            {
+                "code": "psychological_example_fear-is-a-psychological-condition",
+                "text": "Fear is a psychological condition."
+            },
+            {
+                "code": "psychological_example_she-suffers-from-psychological-problems",
+                "text": "She suffers from psychological problems."
+            },
+            {
+                "code": "psychological_example_he-suffered-from-psychological-abuse-as-a-child",
+                "text": "He suffered from psychological abuse as a child."
+            },
+            {
+                "code": "psychological_example_he-was-given-a-psychological-assessment-before-returning-to-the-military",
+                "text": "He was given a psychological assessment before returning to the military."
+            },
+            {
+                "code": "psychological_example_she-has-the-psychological-characteristics-of-a-sociopath",
+                "text": "She has the psychological characteristics of a sociopath."
+            },
+            {
+                "code": "psychological_example_she-is-receiving-psychological-counseling",
+                "text": "She is receiving psychological counseling."
+            },
+            {
+                "code": "psychological_example_we-are-studying-many-psychological-disorders-in-class",
+                "text": "We are studying many psychological disorders in class."
+            },
+            {
+                "code": "psychological_example_is-there-a-psychological-explanation-for-his-behavior",
+                "text": "Is there a psychological explanation for his behavior?"
+            },
+            {
+                "code": "psychological_example_she-has-psychological-problems-from-years-of-child-abuse",
+                "text": "She has psychological problems from years of child abuse."
+            }
+        ]
+    }
+]

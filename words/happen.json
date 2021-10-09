@@ -1,0 +1,68 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to occur or take place",
+        "examples": [
+            {
+                "code": "happen_example_i-can-t-believe-that-really-happened",
+                "text": "I can't believe that really happened."
+            },
+            {
+                "code": "happen_example_that-never-happens",
+                "text": "That never happens."
+            },
+            {
+                "code": "happen_example_did-that-happen-again",
+                "text": "Did that happen again?"
+            },
+            {
+                "code": "happen_example_the-changes-will-happen-overnight",
+                "text": "The changes will happen overnight."
+            },
+            {
+                "code": "happen_example_what-is-going-to-happen",
+                "text": "What is going to happen?"
+            },
+            {
+                "code": "happen_example_change-tends-to-happen-slowly",
+                "text": "Change tends to happen slowly."
+            },
+            {
+                "code": "happen_example_you-have-to-just-make-it-happen-rather-than-wait-for-someone-else-to-do-it",
+                "text": "You have to just make it happen rather than wait for someone else to do it."
+            },
+            {
+                "code": "happen_example_i-can-t-believe-how-many-people-just-let-that-happen",
+                "text": "I can't believe how many people just let that happen."
+            },
+            {
+                "code": "happen_example_what-happened-to-your-car",
+                "text": "What happened to your car?"
+            },
+            {
+                "code": "happen_example_the-attack-happened-so-quickly",
+                "text": "The attack happened so quickly."
+            },
+            {
+                "code": "happen_example_the-avalanche-happened-without-warning",
+                "text": "The avalanche happened without warning."
+            },
+            {
+                "code": "happen_example_miracles-don-t-happen-every-day",
+                "text": "Miracles don't happen every day."
+            },
+            {
+                "code": "happen_example_unfortunately-death-happens-often",
+                "text": "Unfortunately, death happens often."
+            },
+            {
+                "code": "happen_example_his-injury-happened-suddenly",
+                "text": "His injury happened suddenly."
+            },
+            {
+                "code": "happen_example_a-burglary-happened-last-night-at-city-hall",
+                "text": "A burglary happened last night at city hall."
+            }
+        ]
+    }
+]

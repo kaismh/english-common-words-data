@@ -1,0 +1,40 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "strange; unusual",
+        "examples": [
+            {
+                "code": "weird_example_a-very-weird-thing-just-happened",
+                "text": "A very weird thing just happened."
+            },
+            {
+                "code": "weird_example_she-is-a-bit-weird",
+                "text": "She is a bit weird."
+            },
+            {
+                "code": "weird_example_she-is-weird",
+                "text": "She is weird."
+            },
+            {
+                "code": "weird_example_the-fabric-feels-weird",
+                "text": "The fabric feels weird."
+            },
+            {
+                "code": "weird_example_what-a-weird-coincidence",
+                "text": "What a weird coincidence."
+            },
+            {
+                "code": "weird_example_she-gave-us-a-weird-look",
+                "text": "She gave us a weird look."
+            },
+            {
+                "code": "weird_example_he-is-in-a-weird-mood",
+                "text": "He is in a weird mood."
+            },
+            {
+                "code": "weird_example_he-has-a-weird-habit",
+                "text": "He has a weird habit."
+            }
+        ]
+    }
+]

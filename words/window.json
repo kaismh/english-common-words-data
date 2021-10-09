@@ -1,0 +1,104 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a glass opening in a building, house, or car that lets air and light in",
+        "examples": [
+            {
+                "code": "window_example_the-building-is-made-up-of-many-large-windows",
+                "text": "The building is made up of many large windows."
+            },
+            {
+                "code": "window_example_there-is-a-small-window-in-the-bathroom",
+                "text": "There is a small window in the bathroom."
+            },
+            {
+                "code": "window_example_the-hotel-room-had-floor-to-ceiling-windows",
+                "text": "The hotel room had floor-to-ceiling windows."
+            },
+            {
+                "code": "window_example_i-want-to-install-bay-windows",
+                "text": "I want to install bay windows."
+            },
+            {
+                "code": "window_example_we-had-to-replace-all-of-the-broken-windows",
+                "text": "We had to replace all of the broken windows."
+            },
+            {
+                "code": "window_example_can-you-please-open-the-rear-windows",
+                "text": "Can you please open the rear windows?"
+            },
+            {
+                "code": "window_example_his-new-car-has-power-windows",
+                "text": "His new car has power windows."
+            },
+            {
+                "code": "window_example_she-looks-out-the-window-while-studying",
+                "text": "She looks out the window while studying."
+            },
+            {
+                "code": "window_example_i-found-someone-looking-through-our-window",
+                "text": "I found someone looking through our window."
+            },
+            {
+                "code": "window_example_they-tapped-on-the-window",
+                "text": "They tapped on the window."
+            },
+            {
+                "code": "window_example_please-open-the-windows",
+                "text": "Please open the windows."
+            },
+            {
+                "code": "window_example_we-need-to-clean-our-windows",
+                "text": "We need to clean our windows."
+            },
+            {
+                "code": "window_example_she-smashed-the-window-with-a-rock",
+                "text": "She smashed the window with a rock."
+            },
+            {
+                "code": "window_example_we-need-to-replace-our-old-windows",
+                "text": "We need to replace our old windows."
+            },
+            {
+                "code": "window_example_the-carpenter-installed-the-window-pane",
+                "text": "The carpenter installed the window pane."
+            },
+            {
+                "code": "window_example_the-bird-was-sitting-on-the-window-sill",
+                "text": "The bird was sitting on the window sill."
+            },
+            {
+                "code": "window_example_she-requested-a-window-seat-on-the-airplane",
+                "text": "She requested a window seat on the airplane."
+            },
+            {
+                "code": "window_example_i-use-a-window-cleaner",
+                "text": "I use a window cleaner."
+            },
+            {
+                "code": "window_example_the-store-put-new-clothes-in-the-window-display",
+                "text": "The store put new clothes in the window display."
+            },
+            {
+                "code": "window_example_he-threw-a-rock-through-the-window",
+                "text": "He threw a rock through the window."
+            },
+            {
+                "code": "window_example_the-burglar-was-at-the-bedroom-window",
+                "text": "The burglar was at the bedroom window."
+            },
+            {
+                "code": "window_example_we-sat-by-the-window-to-get-some-fresh-air",
+                "text": "We sat by the window to get some fresh air."
+            },
+            {
+                "code": "window_example_i-want-that-handbag-in-the-store-window",
+                "text": "I want that handbag in the store window."
+            },
+            {
+                "code": "window_example_he-stares-out-the-window-every-night",
+                "text": "He stares out the window every night."
+            }
+        ]
+    }
+]

@@ -1,0 +1,36 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the person who is in charge of other people at a company or business",
+        "examples": [
+            {
+                "code": "boss_example_we-ll-have-to-ask-the-big-boss-for-permission",
+                "text": "We'll have to ask the big boss for permission."
+            },
+            {
+                "code": "boss_example_he-s-a-crime-boss",
+                "text": "He's a crime boss."
+            },
+            {
+                "code": "boss_example_we-have-a-fair-boss",
+                "text": "We have a fair boss."
+            },
+            {
+                "code": "boss_example_he-asked-his-boss-for-a-raise",
+                "text": "He asked his boss for a raise."
+            },
+            {
+                "code": "boss_example_our-boss-fired-the-new-employee",
+                "text": "Our boss fired the new employee."
+            },
+            {
+                "code": "boss_example_our-boss-is-interviewing-new-applicants",
+                "text": "Our boss is interviewing new applicants."
+            },
+            {
+                "code": "boss_example_our-boss-gave-him-a-raise",
+                "text": "Our boss gave him a raise."
+            }
+        ]
+    }
+]

@@ -1,0 +1,56 @@
+[
+    {
+        "type": "(n)",
+        "mean": "something that is written or said in a formal or official way; a record of financial transactions",
+        "examples": [
+            {
+                "code": "statement_example_she-made-a-simple-statement-about-her-unhappiness-at-work",
+                "text": "She made a simple statement about her unhappiness at work."
+            },
+            {
+                "code": "statement_example_she-is-being-investigated-for-giving-inaccurate-statements",
+                "text": "She is being investigated for giving inaccurate statements."
+            },
+            {
+                "code": "statement_example_his-spokesman-issued-an-official-statement",
+                "text": "His spokesman issued an official statement."
+            },
+            {
+                "code": "statement_example_the-judge-read-a-signed-statement-from-the-witness",
+                "text": "The judge read a signed statement from the witness."
+            },
+            {
+                "code": "statement_example_i-need-to-review-our-credit-card-statement",
+                "text": "I need to review our credit card statement."
+            },
+            {
+                "code": "statement_example_there-were-contradicting-statements-about-the-accident",
+                "text": "There were contradicting statements about the accident."
+            },
+            {
+                "code": "statement_example_the-police-released-a-statement-on-the-investigation",
+                "text": "The police released a statement on the investigation."
+            },
+            {
+                "code": "statement_example_she-read-a-statement-from-the-family",
+                "text": "She read a statement from the family."
+            },
+            {
+                "code": "statement_example_the-police-took-a-statement-from-the-witness",
+                "text": "The police took a statement from the witness."
+            },
+            {
+                "code": "statement_example_the-president-made-a-statement-on-human-rights",
+                "text": "The President made a statement on human rights."
+            },
+            {
+                "code": "statement_example_she-made-a-statement-on-behalf-of-the-governor",
+                "text": "She made a statement on behalf of the Governor."
+            },
+            {
+                "code": "statement_example_he-issued-a-statement-to-the-press",
+                "text": "He issued a statement to the press."
+            }
+        ]
+    }
+]

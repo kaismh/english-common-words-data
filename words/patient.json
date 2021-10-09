@@ -1,0 +1,90 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "able to wait for a long period of time without getting upset or angry",
+        "examples": [
+            {
+                "code": "patient_example_she-is-extremely-patient-with-her-students",
+                "text": "She is extremely patient with her students."
+            },
+            {
+                "code": "patient_example_she-is-patient-with-children",
+                "text": "She is patient with children."
+            },
+            {
+                "code": "patient_example_please-remain-patient",
+                "text": "Please remain patient."
+            },
+            {
+                "code": "patient_example_they-have-been-very-patient-with-their-neighbor",
+                "text": "They have been very patient with their neighbor."
+            },
+            {
+                "code": "patient_example_he-has-been-extremely-patient-about-the-whole-situation",
+                "text": "He has been extremely patient about the whole situation."
+            }
+        ]
+    },
+    {
+        "type": "(n)",
+        "mean": "a person who is receiving medical treatment from a doctor or at a hospital",
+        "examples": [
+            {
+                "code": "patient_example_surgical-patients-are-recovering-in-the-intensive-care-unit",
+                "text": "Surgical patients are recovering in the intensive care unit."
+            },
+            {
+                "code": "patient_example_the-hospital-has-a-separate-wing-for-mental-patients",
+                "text": "The hospital has a separate wing for mental patients."
+            },
+            {
+                "code": "patient_example_his-specialty-is-treating-elderly-patients",
+                "text": "His specialty is treating elderly patients."
+            },
+            {
+                "code": "patient_example_she-is-a-nurse-for-terminal-patients",
+                "text": "She is a nurse for terminal patients."
+            },
+            {
+                "code": "patient_example_the-doctor-sees-many-patients-each-day",
+                "text": "The doctor sees many patients each day."
+            },
+            {
+                "code": "patient_example_the-patient-was-admitted-to-the-hospital-this-morning",
+                "text": "The patient was admitted to the hospital this morning."
+            },
+            {
+                "code": "patient_example_the-hospital-discharged-the-patient-in-the-evening",
+                "text": "The hospital discharged the patient in the evening."
+            },
+            {
+                "code": "patient_example_they-are-transferring-the-patient-to-another-hospital",
+                "text": "They are transferring the patient to another hospital."
+            },
+            {
+                "code": "patient_example_the-patient-developed-an-infection-in-the-hospital",
+                "text": "The patient developed an infection in the hospital."
+            },
+            {
+                "code": "patient_example_the-patient-suffered-a-heart-attack-in-the-waiting-room",
+                "text": "The patient suffered a heart attack in the waiting room."
+            },
+            {
+                "code": "patient_example_the-patient-was-diagnosed-with-a-virus",
+                "text": "The patient was diagnosed with a virus."
+            },
+            {
+                "code": "patient_example_the-patient-is-undergoing-more-tests",
+                "text": "The patient is undergoing more tests."
+            },
+            {
+                "code": "patient_example_patient-care-is-lacking-in-this-country",
+                "text": "Patient care is lacking in this country."
+            },
+            {
+                "code": "patient_example_patients-with-cancer-usually-receive-chemotherapy",
+                "text": "Patients with cancer usually receive chemotherapy."
+            }
+        ]
+    }
+]

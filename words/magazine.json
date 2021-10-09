@@ -1,0 +1,72 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a thin booklet with a paper cover that contains articles and pictures and is usually published every month or week",
+        "examples": [
+            {
+                "code": "magazine_example_i-read-that-magazine-recently",
+                "text": "I read that magazine recently."
+            },
+            {
+                "code": "magazine_example_i-am-looking-at-the-magazine-now",
+                "text": "I am looking at the magazine now."
+            },
+            {
+                "code": "magazine_example_she-writes-for-a-women-s-magazine",
+                "text": "She writes for a women's magazine."
+            },
+            {
+                "code": "magazine_example_we-subscribe-to-various-magazines-every-month",
+                "text": "We subscribe to various magazines every month."
+            },
+            {
+                "code": "magazine_example_the-magazine-features-recipes-each-month",
+                "text": "The magazine features recipes each month."
+            },
+            {
+                "code": "magazine_example_i-subscribe-to-a-fashion-magazine",
+                "text": "I subscribe to a fashion magazine."
+            },
+            {
+                "code": "magazine_example_popular-magazines-have-the-latest-gossip",
+                "text": "Popular magazines have the latest gossip."
+            },
+            {
+                "code": "magazine_example_we-receive-weekly-magazines-in-the-mail",
+                "text": "We receive weekly magazines in the mail."
+            },
+            {
+                "code": "magazine_example_we-recycle-old-magazines",
+                "text": "We recycle old magazines."
+            },
+            {
+                "code": "magazine_example_did-you-see-the-magazine-cover",
+                "text": "Did you see the magazine cover?"
+            },
+            {
+                "code": "magazine_example_i-don-t-like-the-new-magazine-format",
+                "text": "I don't like the new magazine format."
+            },
+            {
+                "code": "magazine_example_she-is-a-well-known-magazine-editor",
+                "text": "She is a well-known magazine editor."
+            },
+            {
+                "code": "magazine_example_they-have-articles-for-every-magazine-reader",
+                "text": "They have articles for every magazine reader."
+            },
+            {
+                "code": "magazine_example_i-ll-be-waiting-by-the-magazine-rack",
+                "text": "I'll be waiting by the magazine rack."
+            },
+            {
+                "code": "magazine_example_i-ordered-a-magazine-subscription",
+                "text": "I ordered a magazine subscription."
+            },
+            {
+                "code": "magazine_example_there-is-nothing-interesting-in-that-magazine",
+                "text": "There is nothing interesting in that magazine."
+            }
+        ]
+    }
+]

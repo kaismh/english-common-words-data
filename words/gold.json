@@ -1,0 +1,76 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a yellow-colored precious metal; the first-place medal",
+        "examples": [
+            {
+                "code": "gold_example_this-is-made-of-pure-gold",
+                "text": "This is made of pure gold."
+            },
+            {
+                "code": "gold_example_the-ring-is-made-of-24-carat-gold",
+                "text": "The ring is made of 24-carat gold."
+            },
+            {
+                "code": "gold_example_her-necklace-is-made-of-yellow-gold",
+                "text": "Her necklace is made of yellow gold."
+            },
+            {
+                "code": "gold_example_she-won-olympic-gold",
+                "text": "She won Olympic gold."
+            },
+            {
+                "code": "gold_example_he-spent-most-of-his-life-panning-for-gold",
+                "text": "He spent most of his life panning for gold."
+            },
+            {
+                "code": "gold_example_he-finally-found-gold",
+                "text": "He finally found gold."
+            },
+            {
+                "code": "gold_example_the-stone-was-set-in-18-carat-gold",
+                "text": "The stone was set in 18-carat gold."
+            },
+            {
+                "code": "gold_example_he-won-gold-in-wrestling",
+                "text": "He won gold in wrestling."
+            },
+            {
+                "code": "gold_example_she-is-going-for-the-gold-this-year",
+                "text": "She is going for the gold this year."
+            },
+            {
+                "code": "gold_example_he-worked-as-a-gold-miner",
+                "text": "He worked as a gold miner."
+            },
+            {
+                "code": "gold_example_this-town-was-built-on-gold-mining",
+                "text": "This town was built on gold mining."
+            },
+            {
+                "code": "gold_example_they-found-a-small-gold-deposit",
+                "text": "They found a small gold deposit."
+            },
+            {
+                "code": "gold_example_they-put-the-gold-bars-in-the-safe",
+                "text": "They put the gold bars in the safe."
+            },
+            {
+                "code": "gold_example_she-bought-a-gold-bracelet",
+                "text": "She bought a gold bracelet."
+            },
+            {
+                "code": "gold_example_he-bought-her-gold-jewelry",
+                "text": "He bought her gold jewelry."
+            },
+            {
+                "code": "gold_example_the-bowl-is-decorated-with-gold-leaf",
+                "text": "The bowl is decorated with gold leaf."
+            },
+            {
+                "code": "gold_example_they-are-concerned-about-the-gold-market",
+                "text": "They are concerned about the gold market."
+            }
+        ]
+    }
+]

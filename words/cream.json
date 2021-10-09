@@ -1,0 +1,58 @@
+[
+    {
+        "type": "(n)",
+        "mean": "fat from milk; a product rubbed on the skin",
+        "examples": [
+            {
+                "code": "cream_example_i-use-thick-cream-for-frosting",
+                "text": "I use thick cream for frosting."
+            },
+            {
+                "code": "cream_example_sour-cream-is-good-on-chips",
+                "text": "Sour cream is good on chips."
+            },
+            {
+                "code": "cream_example_face-cream-helps-dry-skin",
+                "text": "Face cream helps dry skin."
+            },
+            {
+                "code": "cream_example_the-doctor-gave-me-some-antibiotic-cream",
+                "text": "The doctor gave me some antibiotic cream."
+            },
+            {
+                "code": "cream_example_it-s-an-over-the-counter-cream",
+                "text": "It's an over-the-counter cream."
+            },
+            {
+                "code": "cream_example_beat-the-cream-in-a-bowl",
+                "text": "Beat the cream in a bowl."
+            },
+            {
+                "code": "cream_example_fill-the-bowl-with-cream",
+                "text": "Fill the bowl with cream."
+            },
+            {
+                "code": "cream_example_serve-the-peaches-with-cream",
+                "text": "Serve the peaches with cream."
+            },
+            {
+                "code": "cream_example_apply-a-little-cream-on-the-dry-area",
+                "text": "Apply a little cream on the dry area."
+            },
+            {
+                "code": "cream_example_have-you-tried-cream-cheese",
+                "text": "Have you tried cream cheese?"
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to mix things together until smooth",
+        "examples": [
+            {
+                "code": "cream_example_the-recipe-says-to-cream-the-butter",
+                "text": "The recipe says to cream the butter."
+            }
+        ]
+    }
+]

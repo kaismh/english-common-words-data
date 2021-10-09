@@ -1,0 +1,36 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the act of looking at two or more things to see their similarities and differences",
+        "examples": [
+            {
+                "code": "comparison_example_comparing-wolves-with-dogs-is-a-simple-comparison",
+                "text": "Comparing wolves with dogs is a simple comparison."
+            },
+            {
+                "code": "comparison_example_judging-professional-athletes-next-to-amateur-athletes-is-an-unfair-comparison",
+                "text": "Judging professional athletes next to amateur athletes is an unfair comparison."
+            },
+            {
+                "code": "comparison_example_comparing-apples-to-elephants-is-not-a-useful-comparison",
+                "text": "Comparing apples to elephants is not a useful comparison."
+            },
+            {
+                "code": "comparison_example_she-made-a-good-comparison-between-the-two-examples",
+                "text": "She made a good comparison between the two examples."
+            },
+            {
+                "code": "comparison_example_the-detectives-could-only-draw-a-comparison-based-on-the-clues",
+                "text": "The detectives could only draw a comparison based on the clues."
+            },
+            {
+                "code": "comparison_example_when-you-see-the-child-the-mother-looks-tall-by-comparison",
+                "text": "When you see the child, the mother looks tall by comparison."
+            },
+            {
+                "code": "comparison_example_why-don-t-we-put-them-next-to-each-other-for-comparison",
+                "text": "Why don't we put them next to each other for comparison."
+            }
+        ]
+    }
+]

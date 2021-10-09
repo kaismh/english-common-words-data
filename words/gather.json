@@ -1,0 +1,80 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to come together in a group; to bring people or things together; to increase",
+        "examples": [
+            {
+                "code": "gather_example_they-quickly-gathered-to-make-a-decision",
+                "text": "They quickly gathered to make a decision."
+            },
+            {
+                "code": "gather_example_everyone-gathered-around",
+                "text": "Everyone gathered around."
+            },
+            {
+                "code": "gather_example_she-carefully-gathered-the-necessary-items",
+                "text": "She carefully gathered the necessary items."
+            },
+            {
+                "code": "gather_example_she-gathered-the-people-together",
+                "text": "She gathered the people together."
+            },
+            {
+                "code": "gather_example_the-train-rapidly-gathered-speed",
+                "text": "The train rapidly gathered speed."
+            },
+            {
+                "code": "gather_example_her-plan-started-to-gather-momentum",
+                "text": "Her plan started to gather momentum."
+            },
+            {
+                "code": "gather_example_they-gathered-around-the-fire",
+                "text": "They gathered around the fire."
+            },
+            {
+                "code": "gather_example_they-are-gathering-for-a-meeting",
+                "text": "They are gathering for a meeting."
+            },
+            {
+                "code": "gather_example_a-crowd-gathered-around-the-stage",
+                "text": "A crowd gathered around the stage."
+            },
+            {
+                "code": "gather_example_demonstrators-gathered-in-front-of-city-hall",
+                "text": "Demonstrators gathered in front of City Hall."
+            },
+            {
+                "code": "gather_example_she-gathered-her-bags-and-got-off-the-train",
+                "text": "She gathered her bags and got off the train."
+            },
+            {
+                "code": "gather_example_he-gathered-his-composure-and-continued-to-speak",
+                "text": "He gathered his composure and continued to speak."
+            },
+            {
+                "code": "gather_example_they-gathered-the-harvest-and-store-it-in-the-barn",
+                "text": "They gathered the harvest and store it in the barn."
+            },
+            {
+                "code": "gather_example_we-need-to-gather-wood-for-a-fire",
+                "text": "We need to gather wood for a fire."
+            },
+            {
+                "code": "gather_example_they-are-still-gathering-evidence-in-the-case",
+                "text": "They are still gathering evidence in the case."
+            },
+            {
+                "code": "gather_example_her-ideas-are-gathering-a-following",
+                "text": "Her ideas are gathering a following."
+            },
+            {
+                "code": "gather_example_the-runner-began-to-gather-speed",
+                "text": "The runner began to gather speed."
+            },
+            {
+                "code": "gather_example_they-are-gathering-data-for-their-project",
+                "text": "They are gathering data for their project."
+            }
+        ]
+    }
+]

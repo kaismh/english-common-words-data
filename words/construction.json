@@ -1,0 +1,72 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the process of building something",
+        "examples": [
+            {
+                "code": "construction_example_the-large-construction-is-blocking-the-street",
+                "text": "The large construction is blocking the street."
+            },
+            {
+                "code": "construction_example_the-heavy-construction-is-causing-traffic-problems",
+                "text": "The heavy construction is causing traffic problems."
+            },
+            {
+                "code": "construction_example_the-building-is-made-of-brick-construction",
+                "text": "The building is made of brick construction."
+            },
+            {
+                "code": "construction_example_bridge-construction-will-take-months",
+                "text": "Bridge construction will take months."
+            },
+            {
+                "code": "construction_example_it-was-made-from-solid-construction",
+                "text": "It was made from solid construction."
+            },
+            {
+                "code": "construction_example_construction-begins-next-week",
+                "text": "Construction begins next week."
+            },
+            {
+                "code": "construction_example_the-contractor-will-oversee-the-construction",
+                "text": "The contractor will oversee the construction."
+            },
+            {
+                "code": "construction_example_construction-has-been-completed",
+                "text": "Construction has been completed."
+            },
+            {
+                "code": "construction_example_he-works-in-the-construction-industry",
+                "text": "He works in the construction industry."
+            },
+            {
+                "code": "construction_example_we-hired-a-construction-company-to-complete-the-job",
+                "text": "We hired a construction company to complete the job."
+            },
+            {
+                "code": "construction_example_the-construction-project-will-include-a-new-stadium",
+                "text": "The construction project will include a new stadium."
+            },
+            {
+                "code": "construction_example_do-you-have-a-construction-permit",
+                "text": "Do you have a construction permit?"
+            },
+            {
+                "code": "construction_example_he-is-studying-construction-management",
+                "text": "He is studying construction management."
+            },
+            {
+                "code": "construction_example_they-are-renting-construction-equipment",
+                "text": "They are renting construction equipment."
+            },
+            {
+                "code": "construction_example_the-roads-will-be-closed-during-the-construction",
+                "text": "The roads will be closed during the construction."
+            },
+            {
+                "code": "construction_example_the-new-arena-is-under-construction",
+                "text": "The new arena is under construction."
+            }
+        ]
+    }
+]

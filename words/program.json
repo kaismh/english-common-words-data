@@ -1,0 +1,80 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a set of instructions, in computer language, that controls the way a computer works; a television or radio show; a scheduled plan for doing something",
+        "examples": [
+            {
+                "code": "program_example_i-just-downloaded-a-new-program",
+                "text": "I just downloaded a new program."
+            },
+            {
+                "code": "program_example_we-developed-this-program-for-the-elderly",
+                "text": "We developed this program for the elderly."
+            },
+            {
+                "code": "program_example_this-program-began-in-the-1950s",
+                "text": "This program began in the 1950s."
+            },
+            {
+                "code": "program_example_if-you-enroll-in-our-program-you-can-graduate-quickly",
+                "text": "If you enroll in our program, you can graduate quickly."
+            },
+            {
+                "code": "program_example_i-finished-the-dance-program-last-week",
+                "text": "I finished the dance program last week."
+            },
+            {
+                "code": "program_example_this-program-is-broadcast-every-week",
+                "text": "This program is broadcast every week."
+            },
+            {
+                "code": "program_example_this-program-runs-on-windows",
+                "text": "This program runs on Windows."
+            },
+            {
+                "code": "program_example_my-favorite-program-was-cancelled",
+                "text": "My favorite program was cancelled."
+            },
+            {
+                "code": "program_example_our-program-offers-many-perks",
+                "text": "Our program offers many perks."
+            },
+            {
+                "code": "program_example_i-listen-to-this-program-every-night",
+                "text": "I listen to this program every night."
+            },
+            {
+                "code": "program_example_this-program-requires-a-fee",
+                "text": "This program requires a fee."
+            },
+            {
+                "code": "program_example_i-bought-a-new-software-program",
+                "text": "I bought a new software program."
+            },
+            {
+                "code": "program_example_i-enrolled-in-a-teaching-program",
+                "text": "I enrolled in a teaching program."
+            },
+            {
+                "code": "program_example_we-watched-a-documentary-program-about-birds",
+                "text": "We watched a documentary program about birds."
+            },
+            {
+                "code": "program_example_the-children-s-program-starts-at-seven",
+                "text": "The children's program starts at seven."
+            },
+            {
+                "code": "program_example_i-like-to-listen-to-the-radio-program",
+                "text": "I like to listen to the radio program."
+            },
+            {
+                "code": "program_example_i-am-teaching-a-program-on-computer-science",
+                "text": "I am teaching a program on computer science."
+            },
+            {
+                "code": "program_example_this-program-is-for-children",
+                "text": "This program is for children."
+            }
+        ]
+    }
+]

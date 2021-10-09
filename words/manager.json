@@ -1,0 +1,40 @@
+[
+    {
+        "type": "(n)",
+        "mean": "someone who runs a business or company",
+        "examples": [
+            {
+                "code": "manager_example_he-is-a-restaurant-manager",
+                "text": "He is a restaurant manager."
+            },
+            {
+                "code": "manager_example_i-work-as-a-public-relations-manager",
+                "text": "I work as a public relations manager."
+            },
+            {
+                "code": "manager_example_she-is-the-new-regional-manager",
+                "text": "She is the new regional manager."
+            },
+            {
+                "code": "manager_example_i-am-the-assistant-manager-here",
+                "text": "I am the assistant manager here."
+            },
+            {
+                "code": "manager_example_the-store-hired-a-new-manager",
+                "text": "The store hired a new manager."
+            },
+            {
+                "code": "manager_example_she-was-promoted-to-senior-manager-in-less-than-a-year",
+                "text": "She was promoted to senior manager in less than a year."
+            },
+            {
+                "code": "manager_example_the-manager-was-fired-immediately",
+                "text": "The manager was fired immediately."
+            },
+            {
+                "code": "manager_example_she-is-the-manager-for-a-well-known-hotel-chain",
+                "text": "She is the manager for a well-known hotel chain."
+            }
+        ]
+    }
+]

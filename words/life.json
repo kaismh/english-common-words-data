@@ -1,0 +1,104 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the state of being alive; the period of time between birth and death",
+        "examples": [
+            {
+                "code": "life_example_she-lived-a-long-life",
+                "text": "She lived a long life."
+            },
+            {
+                "code": "life_example_he-lived-his-entire-life-on-a-farm",
+                "text": "He lived his entire life on a farm."
+            },
+            {
+                "code": "life_example_he-was-an-architect-all-his-working-life",
+                "text": "He was an architect all his working life."
+            },
+            {
+                "code": "life_example_they-are-working-hard-to-prepare-for-their-future-life",
+                "text": "They are working hard to prepare for their future life."
+            },
+            {
+                "code": "life_example_do-you-think-there-is-intelligent-life-on-other-planets",
+                "text": "Do you think there is intelligent life on other planets?"
+            },
+            {
+                "code": "life_example_he-lost-his-life-in-a-car-accident",
+                "text": "He lost his life in a car accident."
+            },
+            {
+                "code": "life_example_she-sacrificed-her-life-for-her-children",
+                "text": "She sacrificed her life for her children."
+            },
+            {
+                "code": "life_example_he-took-his-own-life",
+                "text": "He took his own life."
+            },
+            {
+                "code": "life_example_he-lived-his-whole-life-in-california",
+                "text": "He lived his whole life in California."
+            },
+            {
+                "code": "life_example_the-seat-belt-saved-her-life",
+                "text": "The seat belt saved her life."
+            },
+            {
+                "code": "life_example_policemen-protect-lives-every-day",
+                "text": "Policemen protect lives every day."
+            },
+            {
+                "code": "life_example_getting-married-changed-her-life",
+                "text": "Getting married changed her life."
+            },
+            {
+                "code": "life_example_i-have-a-great-life",
+                "text": "I have a great life."
+            },
+            {
+                "code": "life_example_the-scandal-ruined-her-life",
+                "text": "The scandal ruined her life."
+            },
+            {
+                "code": "life_example_he-purchased-life-insurance",
+                "text": "He purchased life insurance."
+            },
+            {
+                "code": "life_example_his-father-is-on-life-support",
+                "text": "His father is on life support."
+            },
+            {
+                "code": "life_example_she-wrote-a-book-about-her-life-story",
+                "text": "She wrote a book about her life story."
+            },
+            {
+                "code": "life_example_she-was-found-on-life-boat",
+                "text": "She was found on life boat."
+            },
+            {
+                "code": "life_example_you-should-wear-a-life-jacket-when-you-re-on-a-boat",
+                "text": "You should wear a life jacket when you're on a boat."
+            },
+            {
+                "code": "life_example_he-received-a-life-sentence-for-murder",
+                "text": "He received a life sentence for murder."
+            },
+            {
+                "code": "life_example_life-expectancy-is-getting-higher-these-days",
+                "text": "Life expectancy is getting higher these days."
+            },
+            {
+                "code": "life_example_i-am-committed-to-this-marriage-for-life",
+                "text": "I am committed to this marriage for life."
+            },
+            {
+                "code": "life_example_he-rode-on-an-airplane-for-the-first-time-in-his-life",
+                "text": "He rode on an airplane for the first time in his life."
+            },
+            {
+                "code": "life_example_she-struggled-with-depression-throughout-her-whole-life",
+                "text": "She struggled with depression throughout her whole life."
+            }
+        ]
+    }
+]

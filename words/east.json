@@ -1,0 +1,68 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "related to the direction where the sun rises",
+        "examples": [
+            {
+                "code": "east_example_new-york-is-on-the-east-coast-of-the-united-states",
+                "text": "New York is on the east coast of the United States."
+            },
+            {
+                "code": "east_example_she-went-out-the-east-exit-of-the-building",
+                "text": "She went out the east exit of the building."
+            },
+            {
+                "code": "east_example_meet-us-on-the-east-shore-of-the-lake",
+                "text": "Meet us on the east shore of the lake."
+            },
+            {
+                "code": "east_example_it-s-sunny-on-the-east-side-of-my-house-in-the-morning",
+                "text": "It's sunny on the east side of my house in the morning."
+            },
+            {
+                "code": "east_example_the-east-wind-is-cold-in-the-winter",
+                "text": "The east wind is cold in the winter."
+            }
+        ]
+    },
+    {
+        "type": "(n)",
+        "mean": "the direction where the sun rises",
+        "examples": [
+            {
+                "code": "east_example_the-wind-is-blowing-from-the-east",
+                "text": "The wind is blowing from the east."
+            },
+            {
+                "code": "east_example_she-has-studied-cooking-from-the-far-east",
+                "text": "She has studied cooking from the Far East."
+            },
+            {
+                "code": "east_example_they-are-going-from-the-east-to-the-west",
+                "text": "They are going from the east to the west."
+            },
+            {
+                "code": "east_example_the-sun-rises-in-the-east",
+                "text": "The sun rises in the east."
+            }
+        ]
+    },
+    {
+        "type": "(adv)",
+        "mean": "towards the direction where the sun rises",
+        "examples": [
+            {
+                "code": "east_example_they-are-traveling-east-on-the-highway",
+                "text": "They are traveling east on the highway."
+            },
+            {
+                "code": "east_example_we-live-east-of-san-francisco",
+                "text": "We live east of San Francisco."
+            },
+            {
+                "code": "east_example_the-birds-are-flying-east",
+                "text": "The birds are flying east."
+            }
+        ]
+    }
+]

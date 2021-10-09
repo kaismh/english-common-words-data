@@ -1,0 +1,60 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a large body of salt water",
+        "examples": [
+            {
+                "code": "sea_example_the-sea-was-calm-after-the-storm",
+                "text": "The sea was calm after the storm."
+            },
+            {
+                "code": "sea_example_we-rode-through-stormy-seas",
+                "text": "We rode through stormy seas."
+            },
+            {
+                "code": "sea_example_thousands-of-ships-crossed-the-sea-to-florida",
+                "text": "Thousands of ships crossed the sea to Florida."
+            },
+            {
+                "code": "sea_example_the-woman-went-to-sea-last-month",
+                "text": "The woman went to sea last month."
+            },
+            {
+                "code": "sea_example_a-small-boat-was-lost-at-sea",
+                "text": "A small boat was lost at sea."
+            },
+            {
+                "code": "sea_example_the-sea-water-tasted-salty",
+                "text": "The sea water tasted salty."
+            },
+            {
+                "code": "sea_example_many-creatures-live-on-the-sea-floor",
+                "text": "Many creatures live on the sea floor."
+            },
+            {
+                "code": "sea_example_in-california-the-sea-level-is-rising",
+                "text": "In California, the sea level is rising."
+            },
+            {
+                "code": "sea_example_the-ocean-is-home-to-many-sea-creatures",
+                "text": "The ocean is home to many sea creatures."
+            },
+            {
+                "code": "sea_example_they-spent-weeks-at-sea",
+                "text": "They spent weeks at sea."
+            },
+            {
+                "code": "sea_example_we-sailed-across-the-black-sea",
+                "text": "We sailed across the Black Sea."
+            },
+            {
+                "code": "sea_example_james-lives-by-the-sea",
+                "text": "James lives by the sea."
+            },
+            {
+                "code": "sea_example_i-love-swimming-in-the-sea",
+                "text": "I love swimming in the sea."
+            }
+        ]
+    }
+]

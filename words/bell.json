@@ -1,0 +1,52 @@
+[
+    {
+        "type": "(n)",
+        "mean": "A cup-shaped metal object that makes a ringing sound when hit with something; something that rings",
+        "examples": [
+            {
+                "code": "bell_example_we-can-hear-the-church-bells-ring",
+                "text": "We can hear the church bells ring."
+            },
+            {
+                "code": "bell_example_we-hear-sleigh-bells-at-christmas-time",
+                "text": "We hear sleigh bells at Christmas time."
+            },
+            {
+                "code": "bell_example_her-bicycle-bell-is-too-loud",
+                "text": "Her bicycle bell is too loud."
+            },
+            {
+                "code": "bell_example_everyone-stopped-working-when-they-heard-the-dinner-bell",
+                "text": "Everyone stopped working when they heard the dinner bell."
+            },
+            {
+                "code": "bell_example_we-heard-the-closing-bell-around-noon",
+                "text": "We heard the closing bell around noon."
+            },
+            {
+                "code": "bell_example_the-bells-are-ringing-from-the-tower",
+                "text": "The bells are ringing from the tower."
+            },
+            {
+                "code": "bell_example_we-love-hearing-the-church-bells",
+                "text": "We love hearing the church bells."
+            },
+            {
+                "code": "bell_example_please-press-the-bell-for-service",
+                "text": "Please press the bell for service."
+            },
+            {
+                "code": "bell_example_the-bell-signaled-the-end-of-school",
+                "text": "The bell signaled the end of school."
+            },
+            {
+                "code": "bell_example_she-quickly-answered-the-bell",
+                "text": "She quickly answered the bell."
+            },
+            {
+                "code": "bell_example_the-bell-tower-is-very-tall",
+                "text": "The bell tower is very tall."
+            }
+        ]
+    }
+]

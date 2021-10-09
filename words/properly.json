@@ -1,0 +1,56 @@
+[
+    {
+        "type": "(adv)",
+        "mean": "correctly; in an appropriate way",
+        "examples": [
+            {
+                "code": "properly_example_he-was-not-able-to-heal-properly",
+                "text": "He was not able to heal properly."
+            },
+            {
+                "code": "properly_example_this-machine-does-not-work-properly",
+                "text": "This machine does not work properly."
+            },
+            {
+                "code": "properly_example_he-did-not-properly-prepare-for-the-day",
+                "text": "He did not properly prepare for the day."
+            },
+            {
+                "code": "properly_example_he-didn-t-pronounce-the-word-properly",
+                "text": "He didn't pronounce the word properly."
+            },
+            {
+                "code": "properly_example_he-never-thanked-me-properly",
+                "text": "He never thanked me properly."
+            },
+            {
+                "code": "properly_example_the-business-was-not-properly-managed",
+                "text": "The business was not properly managed."
+            },
+            {
+                "code": "properly_example_he-didn-t-properly-repair-the-sink",
+                "text": "He didn't properly repair the sink."
+            },
+            {
+                "code": "properly_example_the-lid-was-not-properly-closed",
+                "text": "The lid was not properly closed."
+            },
+            {
+                "code": "properly_example_her-meals-are-properly-balanced",
+                "text": "Her meals are properly balanced."
+            },
+            {
+                "code": "properly_example_she-is-properly-qualified-for-the-job",
+                "text": "She is properly qualified for the job."
+            },
+            {
+                "code": "properly_example_he-was-not-properly-informed-of-the-situation",
+                "text": "He was not properly informed of the situation."
+            },
+            {
+                "code": "properly_example_it-was-a-properly-organized-event",
+                "text": "It was a properly organized event."
+            }
+        ]
+    }
+]

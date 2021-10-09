@@ -1,0 +1,54 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "relating to someone in authority",
+        "examples": [
+            {
+                "code": "official_example_we-got-official-recognition",
+                "text": "We got official recognition."
+            },
+            {
+                "code": "official_example_what-are-the-official-rules",
+                "text": "What are the official rules?"
+            },
+            {
+                "code": "official_example_there-was-an-official-declaration",
+                "text": "There was an official declaration."
+            },
+            {
+                "code": "official_example_what-is-the-official-language-of-the-country",
+                "text": "What is the official language of the country?"
+            },
+            {
+                "code": "official_example_we-have-official-business-here",
+                "text": "We have official business here."
+            },
+            {
+                "code": "official_example_what-is-their-official-position",
+                "text": "What is their official position?"
+            },
+            {
+                "code": "official_example_did-you-see-the-official-record",
+                "text": "Did you see the official record?"
+            }
+        ]
+    },
+    {
+        "type": "(n)",
+        "mean": "someone who has authority in an organization",
+        "examples": [
+            {
+                "code": "official_example_he-is-a-senior-official",
+                "text": "He is a senior official."
+            },
+            {
+                "code": "official_example_he-tried-to-bribe-a-government-official",
+                "text": "He tried to bribe a government official."
+            },
+            {
+                "code": "official_example_he-was-appointed-a-state-official",
+                "text": "He was appointed a state official."
+            }
+        ]
+    }
+]

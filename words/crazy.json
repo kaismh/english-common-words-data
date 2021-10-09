@@ -1,0 +1,48 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "wild; insane; very angry",
+        "examples": [
+            {
+                "code": "crazy_example_she-is-crazy",
+                "text": "She is crazy."
+            },
+            {
+                "code": "crazy_example_he-will-go-crazy-if-he-sees-his-ex-girlfriend-with-another-man",
+                "text": "He will go crazy if he sees his ex-girlfriend with another man."
+            },
+            {
+                "code": "crazy_example_she-drives-him-crazy",
+                "text": "She drives him crazy."
+            },
+            {
+                "code": "crazy_example_this-party-is-really-crazy",
+                "text": "This party is really crazy."
+            },
+            {
+                "code": "crazy_example_the-man-is-absolutely-crazy",
+                "text": "The man is absolutely crazy."
+            },
+            {
+                "code": "crazy_example_i-am-a-little-crazy",
+                "text": "I am a little crazy."
+            },
+            {
+                "code": "crazy_example_the-girl-was-half-crazy",
+                "text": "The girl was half crazy."
+            },
+            {
+                "code": "crazy_example_i-had-a-crazy-dream",
+                "text": "I had a crazy dream."
+            },
+            {
+                "code": "crazy_example_that-is-a-crazy-story",
+                "text": "That is a crazy story."
+            },
+            {
+                "code": "crazy_example_the-crazy-person-escaped-from-jail",
+                "text": "The crazy person escaped from jail."
+            }
+        ]
+    }
+]

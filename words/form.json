@@ -1,0 +1,138 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the type or shape of something; the way of doing something; paper that needs to be filled out with information",
+        "examples": [
+            {
+                "code": "form_example_he-uses-various-forms-of-teaching-in-his-classroom",
+                "text": "He uses various forms of teaching in his classroom."
+            },
+            {
+                "code": "form_example_that-is-an-extreme-form-of-patriotism",
+                "text": "That is an extreme form of patriotism."
+            },
+            {
+                "code": "form_example_he-showed-us-what-the-substance-looks-like-in-its-pure-form",
+                "text": "He showed us what the substance looks like in its pure form."
+            },
+            {
+                "code": "form_example_this-is-a-basic-form-of-a-data-table",
+                "text": "This is a basic form of a data table."
+            },
+            {
+                "code": "form_example_the-textbook-is-also-available-in-digital-form",
+                "text": "The textbook is also available in digital form."
+            },
+            {
+                "code": "form_example_they-saw-the-document-in-its-original-form",
+                "text": "They saw the document in its original form."
+            },
+            {
+                "code": "form_example_he-has-a-severe-form-of-the-illness",
+                "text": "He has a severe form of the illness."
+            },
+            {
+                "code": "form_example_she-researches-ancient-life-forms",
+                "text": "She researches ancient life forms."
+            },
+            {
+                "code": "form_example_they-are-learning-to-draw-the-human-form",
+                "text": "They are learning to draw the human form."
+            },
+            {
+                "code": "form_example_many-insects-look-very-different-in-their-adult-form",
+                "text": "Many insects look very different in their adult form."
+            },
+            {
+                "code": "form_example_she-filled-out-the-application-form",
+                "text": "She filled out the application form."
+            },
+            {
+                "code": "form_example_this-substance-can-take-many-forms",
+                "text": "This substance can take many forms."
+            },
+            {
+                "code": "form_example_he-imagined-a-creature-that-could-change-its-form",
+                "text": "He imagined a creature that could change its form."
+            },
+            {
+                "code": "form_example_fill-out-this-form-and-turn-it-in",
+                "text": "Fill out this form and turn it in."
+            },
+            {
+                "code": "form_example_make-sure-you-sign-the-form",
+                "text": "Make sure you sign the form."
+            },
+            {
+                "code": "form_example_he-wants-to-try-new-forms-of-exercise",
+                "text": "He wants to try new forms of exercise."
+            },
+            {
+                "code": "form_example_this-mineral-naturally-occurs-in-liquid-form",
+                "text": "This mineral naturally occurs in liquid form."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to organize or create something; to make something into shape",
+        "examples": [
+            {
+                "code": "form_example_they-tried-to-form-a-task-force",
+                "text": "They tried to form a task force."
+            },
+            {
+                "code": "form_example_she-formed-the-clay-into-a-bowl",
+                "text": "She formed the clay into a bowl."
+            },
+            {
+                "code": "form_example_a-bruise-formed-where-the-ball-hit-her",
+                "text": "A bruise formed where the ball hit her."
+            },
+            {
+                "code": "form_example_an-idea-formed-in-his-head",
+                "text": "An idea formed in his head."
+            },
+            {
+                "code": "form_example_mold-formed-on-the-surface",
+                "text": "Mold formed on the surface."
+            },
+            {
+                "code": "form_example_crystals-formed-in-the-cave",
+                "text": "Crystals formed in the cave."
+            },
+            {
+                "code": "form_example_a-smile-formed-on-his-face",
+                "text": "A smile formed on his face."
+            },
+            {
+                "code": "form_example_they-came-together-to-form-an-alliance",
+                "text": "They came together to form an alliance."
+            },
+            {
+                "code": "form_example_connect-the-dots-to-form-a-triangle",
+                "text": "Connect the dots to form a triangle."
+            },
+            {
+                "code": "form_example_they-formed-a-network-of-participants",
+                "text": "They formed a network of participants."
+            },
+            {
+                "code": "form_example_the-protestors-formed-a-human-barrier",
+                "text": "The protestors formed a human barrier."
+            },
+            {
+                "code": "form_example_the-friends-formed-a-band",
+                "text": "The friends formed a band."
+            },
+            {
+                "code": "form_example_i-m-still-forming-an-opinion",
+                "text": "I'm still forming an opinion."
+            },
+            {
+                "code": "form_example_put-the-words-in-order-to-form-a-sentence",
+                "text": "Put the words in order to form a sentence."
+            }
+        ]
+    }
+]

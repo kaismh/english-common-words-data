@@ -1,0 +1,86 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the invisible mixture of gases that surrounds people in order to breathe; the area of space above the earth",
+        "examples": [
+            {
+                "code": "air_example_the-window-is-letting-in-hot-air",
+                "text": "The window is letting in hot air."
+            },
+            {
+                "code": "air_example_i-really-enjoy-country-air",
+                "text": "I really enjoy country air."
+            },
+            {
+                "code": "air_example_the-air-is-too-thick",
+                "text": "The air is too thick."
+            },
+            {
+                "code": "air_example_we-cannot-breathe-without-air",
+                "text": "We cannot breathe without air."
+            },
+            {
+                "code": "air_example_the-swimmer-gasped-for-air",
+                "text": "The swimmer gasped for air."
+            },
+            {
+                "code": "air_example_these-factories-are-polluting-the-air",
+                "text": "These factories are polluting the air."
+            },
+            {
+                "code": "air_example_smoke-is-filling-the-air",
+                "text": "Smoke is filling the air."
+            },
+            {
+                "code": "air_example_i-m-worried-about-air-pollution",
+                "text": "I'm worried about air pollution."
+            },
+            {
+                "code": "air_example_does-the-hotel-have-air-conditioning",
+                "text": "Does the hotel have air conditioning?"
+            },
+            {
+                "code": "air_example_when-planning-our-vacation-we-ll-have-to-consider-air-fare",
+                "text": "When planning our vacation, we'll have to consider air fare."
+            },
+            {
+                "code": "air_example_the-military-is-responsible-for-air-defense",
+                "text": "The military is responsible for air defense."
+            },
+            {
+                "code": "air_example_we-were-worried-about-recent-air-crashes",
+                "text": "We were worried about recent air crashes."
+            },
+            {
+                "code": "air_example_he-hit-the-ball-in-the-air",
+                "text": "He hit the ball in the air."
+            },
+            {
+                "code": "air_example_we-ll-travel-to-hawaii-by-air",
+                "text": "We'll travel to Hawaii by air."
+            },
+            {
+                "code": "air_example_the-enemy-base-was-visible-from-the-air",
+                "text": "The enemy base was visible from the air."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to discuss or tell publicly; to send a message or announcement by television or radio",
+        "examples": [
+            {
+                "code": "air_example_he-airs-his-opinions-openly",
+                "text": "He airs his opinions openly."
+            },
+            {
+                "code": "air_example_the-television-commercial-was-aired-during-the-super-bowl",
+                "text": "The television commercial was aired during the Super Bowl."
+            },
+            {
+                "code": "air_example_the-documentary-is-being-aired-on-public-television",
+                "text": "The documentary is being aired on public television."
+            }
+        ]
+    }
+]

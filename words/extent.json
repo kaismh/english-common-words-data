@@ -1,0 +1,48 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the size, importance, or seriousness of something",
+        "examples": [
+            {
+                "code": "extent_example_the-full-extent-of-the-damage-is-unknown",
+                "text": "The full extent of the damage is unknown."
+            },
+            {
+                "code": "extent_example_they-pushed-the-technology-to-its-maximum-extent",
+                "text": "They pushed the technology to its maximum extent."
+            },
+            {
+                "code": "extent_example_they-are-examining-the-extent-of-the-changes",
+                "text": "They are examining the extent of the changes."
+            },
+            {
+                "code": "extent_example_the-red-cross-is-assessing-the-extent-of-the-disaster",
+                "text": "The Red Cross is assessing the extent of the disaster."
+            },
+            {
+                "code": "extent_example_he-needs-to-determine-the-extent-of-the-problem",
+                "text": "He needs to determine the extent of the problem."
+            },
+            {
+                "code": "extent_example_we-do-not-yet-know-the-extent-of-the-damages",
+                "text": "We do not yet know the extent of the damages."
+            },
+            {
+                "code": "extent_example_this-example-illustrates-the-extent-of-the-findings",
+                "text": "This example illustrates the extent of the findings."
+            },
+            {
+                "code": "extent_example_they-tried-to-exaggerate-the-extent-of-their-losses",
+                "text": "They tried to exaggerate the extent of their losses."
+            },
+            {
+                "code": "extent_example_he-tried-to-conceal-the-extent-of-the-problem",
+                "text": "He tried to conceal the extent of the problem."
+            },
+            {
+                "code": "extent_example_he-relied-on-his-family-to-a-great-extent",
+                "text": "He relied on his family to a great extent."
+            }
+        ]
+    }
+]

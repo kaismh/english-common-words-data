@@ -1,0 +1,120 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a formal test; a medical test",
+        "examples": [
+            {
+                "code": "exam_example_that-was-a-very-difficult-exam",
+                "text": "That was a very difficult exam."
+            },
+            {
+                "code": "exam_example_he-has-to-take-an-entrance-exam-next-week",
+                "text": "He has to take an entrance exam next week."
+            },
+            {
+                "code": "exam_example_the-final-exam-will-be-in-june",
+                "text": "The final exam will be in June."
+            },
+            {
+                "code": "exam_example_he-has-to-pass-a-professional-exam-before-starting-his-new-job",
+                "text": "He has to pass a professional exam before starting his new job."
+            },
+            {
+                "code": "exam_example_i-have-a-chemistry-exam-next-week",
+                "text": "I have a chemistry exam next week."
+            },
+            {
+                "code": "exam_example_she-doesn-t-like-multiple-choice-exams",
+                "text": "She doesn't like multiple-choice exams."
+            },
+            {
+                "code": "exam_example_the-doctor-did-a-thorough-exam-to-find-the-cause-of-her-illness",
+                "text": "The doctor did a thorough exam to find the cause of her illness."
+            },
+            {
+                "code": "exam_example_i-have-to-go-to-the-doctor-for-a-routine-exam",
+                "text": "I have to go to the doctor for a routine exam."
+            },
+            {
+                "code": "exam_example_she-had-an-eye-exam-before-getting-new-glasses",
+                "text": "She had an eye exam before getting new glasses."
+            },
+            {
+                "code": "exam_example_she-is-studying-for-her-exam",
+                "text": "She is studying for her exam."
+            },
+            {
+                "code": "exam_example_i-have-to-take-an-exam-next-week",
+                "text": "I have to take an exam next week."
+            },
+            {
+                "code": "exam_example_she-studied-hard-and-passed-the-exam",
+                "text": "She studied hard and passed the exam."
+            },
+            {
+                "code": "exam_example_he-failed-his-exam",
+                "text": "He failed his exam."
+            },
+            {
+                "code": "exam_example_many-students-cheated-on-their-exams-and-will-have-to-retake-them",
+                "text": "Many students cheated on their exams and will have to retake them."
+            },
+            {
+                "code": "exam_example_the-professor-spent-all-night-grading-the-final-exams",
+                "text": "The professor spent all night grading the final exams."
+            },
+            {
+                "code": "exam_example_the-exam-starts-at-8am",
+                "text": "The exam starts at 8am."
+            },
+            {
+                "code": "exam_example_exams-are-over",
+                "text": "Exams are over!"
+            },
+            {
+                "code": "exam_example_the-doctor-performed-many-exams-before-making-a-diagnosis",
+                "text": "The doctor performed many exams before making a diagnosis."
+            },
+            {
+                "code": "exam_example_i-had-an-eye-exam-yesterday",
+                "text": "I had an eye exam yesterday."
+            },
+            {
+                "code": "exam_example_the-exam-showed-that-everything-was-normal",
+                "text": "The exam showed that everything was normal."
+            },
+            {
+                "code": "exam_example_she-is-doing-a-lot-of-exam-preparation-this-week",
+                "text": "She is doing a lot of exam preparation this week."
+            },
+            {
+                "code": "exam_example_please-turn-in-your-exam-papers",
+                "text": "Please turn in your exam papers."
+            },
+            {
+                "code": "exam_example_i-should-get-my-exam-grade-back-tomorrow",
+                "text": "I should get my exam grade back tomorrow."
+            },
+            {
+                "code": "exam_example_i-have-a-lot-to-do-during-exam-week",
+                "text": "I have a lot to do during exam week."
+            },
+            {
+                "code": "exam_example_she-waited-in-the-exam-room-for-the-doctor",
+                "text": "She waited in the exam room for the doctor."
+            },
+            {
+                "code": "exam_example_the-exam-table-is-cold",
+                "text": "The exam table is cold."
+            },
+            {
+                "code": "exam_example_i-got-an-a-on-my-english-exam",
+                "text": "I got an A on my English exam."
+            },
+            {
+                "code": "exam_example_i-have-to-take-an-exam-for-admission-to-the-school",
+                "text": "I have to take an exam for admission to the school."
+            }
+        ]
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the liquid that comes from fruit or vegetables",
+        "examples": [
+            {
+                "code": "juice_example_he-likes-to-drink-fruit-juice-every-morning",
+                "text": "He likes to drink fruit juice every morning."
+            },
+            {
+                "code": "juice_example_she-prefers-unsweetened-juice",
+                "text": "She prefers unsweetened juice."
+            },
+            {
+                "code": "juice_example_she-squeezed-all-the-juice-out-of-the-oranges",
+                "text": "She squeezed all the juice out of the oranges."
+            },
+            {
+                "code": "juice_example_he-was-drinking-apple-juice-on-the-patio",
+                "text": "He was drinking apple juice on the patio."
+            },
+            {
+                "code": "juice_example_my-son-spilled-the-juice-on-the-floor",
+                "text": "My son spilled the juice on the floor."
+            },
+            {
+                "code": "juice_example_she-sprinkles-lemon-juice-on-her-fish",
+                "text": "She sprinkles lemon juice on her fish."
+            },
+            {
+                "code": "juice_example_he-loves-to-make-juice-from-fresh-lemons",
+                "text": "He loves to make juice from fresh lemons."
+            },
+            {
+                "code": "juice_example_the-recipe-calls-for-the-juice-of-one-orange",
+                "text": "The recipe calls for the juice of one orange."
+            }
+        ]
+    }
+]

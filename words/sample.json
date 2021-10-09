@@ -1,0 +1,58 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a small amount of something",
+        "examples": [
+            {
+                "code": "sample_example_james-gave-the-customer-a-large-sample",
+                "text": "James gave the customer a large sample."
+            },
+            {
+                "code": "sample_example_the-water-sample-gave-the-scientist-a-clue",
+                "text": "The water sample gave the scientist a clue."
+            },
+            {
+                "code": "sample_example_we-used-a-small-sample-for-our-research",
+                "text": "We used a small sample for our research."
+            },
+            {
+                "code": "sample_example_the-sample-was-chosen-by-a-man",
+                "text": "The sample was chosen by a man."
+            },
+            {
+                "code": "sample_example_the-biologists-took-samples-from-the-lake",
+                "text": "The biologists took samples from the lake."
+            },
+            {
+                "code": "sample_example_all-workers-must-give-a-urine-sample",
+                "text": "All workers must give a urine sample."
+            },
+            {
+                "code": "sample_example_they-needed-to-test-the-sample",
+                "text": "They needed to test the sample."
+            },
+            {
+                "code": "sample_example_the-sample-contains-traces-of-bacteria",
+                "text": "The sample contains traces of bacteria."
+            },
+            {
+                "code": "sample_example_we-looked-at-some-sample-colors-before-making-a-decision",
+                "text": "We looked at some sample colors before making a decision."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to try a small amount of something",
+        "examples": [
+            {
+                "code": "sample_example_jane-got-to-sample-the-dessert",
+                "text": "Jane got to sample the dessert."
+            },
+            {
+                "code": "sample_example_she-randomly-sampled-different-types-of-dishes",
+                "text": "She randomly sampled different types of dishes."
+            }
+        ]
+    }
+]

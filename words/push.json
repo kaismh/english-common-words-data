@@ -1,0 +1,98 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to use force to move something away; to press; to try to make someone do something",
+        "examples": [
+            {
+                "code": "push_example_he-pushed-all-of-the-buttons",
+                "text": "He pushed all of the buttons."
+            },
+            {
+                "code": "push_example_she-pushed-the-stroller-through-the-park",
+                "text": "She pushed the stroller through the park."
+            },
+            {
+                "code": "push_example_the-food-vendor-pushed-his-cart-through-the-street",
+                "text": "The food vendor pushed his cart through the street."
+            },
+            {
+                "code": "push_example_he-is-pushing-for-new-legislation",
+                "text": "He is pushing for new legislation."
+            },
+            {
+                "code": "push_example_he-is-pushing-the-boundaries",
+                "text": "He is pushing the boundaries."
+            },
+            {
+                "code": "push_example_he-suddenly-pushed-the-door-open",
+                "text": "He suddenly pushed the door open."
+            },
+            {
+                "code": "push_example_she-pushed-hard-on-the-bell",
+                "text": "She pushed hard on the bell."
+            },
+            {
+                "code": "push_example_he-pushed-her-violently",
+                "text": "He pushed her violently."
+            },
+            {
+                "code": "push_example_they-frantically-tried-to-push-the-door-open",
+                "text": "They frantically tried to push the door open."
+            },
+            {
+                "code": "push_example_they-pushed-the-tables-together",
+                "text": "They pushed the tables together."
+            },
+            {
+                "code": "push_example_he-was-so-angry-he-pushed-the-chairs-over",
+                "text": "He was so angry, he pushed the chairs over."
+            },
+            {
+                "code": "push_example_just-push-the-button-to-start-it",
+                "text": "Just push the button to start it."
+            },
+            {
+                "code": "push_example_i-pushed-against-the-door",
+                "text": "I pushed against the door."
+            },
+            {
+                "code": "push_example_i-pushed-out-the-door",
+                "text": "I pushed out the door."
+            },
+            {
+                "code": "push_example_they-pushed-me-into-a-corner",
+                "text": "They pushed me into a corner."
+            },
+            {
+                "code": "push_example_they-are-pushing-for-a-new-law",
+                "text": "They are pushing for a new law."
+            }
+        ]
+    },
+    {
+        "type": "(n)",
+        "mean": "the act of using force to move something away; an effort",
+        "examples": [
+            {
+                "code": "push_example_i-gave-him-a-slight-push",
+                "text": "I gave him a slight push."
+            },
+            {
+                "code": "push_example_we-are-making-a-strong-push-towards-change",
+                "text": "We are making a strong push towards change."
+            },
+            {
+                "code": "push_example_she-gave-me-a-big-push",
+                "text": "She gave me a big push."
+            },
+            {
+                "code": "push_example_she-needs-a-strong-push-to-get-it-done",
+                "text": "She needs a strong push to get it done."
+            },
+            {
+                "code": "push_example_there-is-a-push-for-new-legislation",
+                "text": "There is a push for new legislation."
+            }
+        ]
+    }
+]

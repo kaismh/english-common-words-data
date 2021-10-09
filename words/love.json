@@ -1,0 +1,122 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to like very much; to feel great affection for someone",
+        "examples": [
+            {
+                "code": "love_example_he-loved-his-wife-dearly",
+                "text": "He loved his wife dearly."
+            },
+            {
+                "code": "love_example_i-absolutely-love-your-new-car",
+                "text": "I absolutely love your new car."
+            },
+            {
+                "code": "love_example_everyone-wants-to-be-loved-unconditionally",
+                "text": "Everyone wants to be loved unconditionally."
+            },
+            {
+                "code": "love_example_he-secretly-loved-his-neighbor",
+                "text": "He secretly loved his neighbor."
+            },
+            {
+                "code": "love_example_i-personally-love-classical-music",
+                "text": "I personally love classical music."
+            }
+        ]
+    },
+    {
+        "type": "(n)",
+        "mean": "an intense feeling of deep affection",
+        "examples": [
+            {
+                "code": "love_example_she-couldn-t-hide-her-deep-love-for-him",
+                "text": "She couldn't hide her deep love for him."
+            },
+            {
+                "code": "love_example_you-have-my-undying-love",
+                "text": "You have my undying love."
+            },
+            {
+                "code": "love_example_he-was-very-excited-about-his-new-found-love",
+                "text": "He was very excited about his new-found love."
+            },
+            {
+                "code": "love_example_they-share-a-mutual-love-for-one-another",
+                "text": "They share a mutual love for one another."
+            },
+            {
+                "code": "love_example_she-feels-no-love-for-him",
+                "text": "She feels no love for him."
+            },
+            {
+                "code": "love_example_he-had-never-experienced-true-love-until-now",
+                "text": "He had never experienced true love until now."
+            },
+            {
+                "code": "love_example_the-couple-tried-to-rekindle-their-love-for-each-other",
+                "text": "The couple tried to rekindle their love for each other."
+            },
+            {
+                "code": "love_example_they-have-earned-love-and-respect-from-many-people",
+                "text": "They have earned love and respect from many people."
+            },
+            {
+                "code": "love_example_you-need-to-prove-your-love-for-her",
+                "text": "You need to prove your love for her."
+            },
+            {
+                "code": "love_example_he-publicly-declared-his-love-for-her",
+                "text": "He publicly declared his love for her."
+            },
+            {
+                "code": "love_example_i-don-t-deserve-their-love",
+                "text": "I don't deserve their love."
+            },
+            {
+                "code": "love_example_she-didn-t-return-his-love",
+                "text": "She didn't return his love."
+            },
+            {
+                "code": "love_example_they-were-involved-in-a-love-affair",
+                "text": "They were involved in a love affair."
+            },
+            {
+                "code": "love_example_he-has-no-love-life",
+                "text": "He has no love life."
+            },
+            {
+                "code": "love_example_she-sent-him-several-love-letters",
+                "text": "She sent him several love letters."
+            },
+            {
+                "code": "love_example_who-plays-his-love-interest-in-the-movie",
+                "text": "Who plays his love interest in the movie?"
+            },
+            {
+                "code": "love_example_the-witch-made-a-love-potion",
+                "text": "The witch made a love potion."
+            },
+            {
+                "code": "love_example_he-did-it-all-for-love",
+                "text": "He did it all for love."
+            },
+            {
+                "code": "love_example_we-are-very-much-in-love",
+                "text": "We are very much in love."
+            },
+            {
+                "code": "love_example_there-is-no-greater-love-than-the-love-between-a-mother-and-a-child",
+                "text": "There is no greater love than the love between a mother and a child."
+            },
+            {
+                "code": "love_example_she-expressed-her-love-for-him",
+                "text": "She expressed her love for him."
+            },
+            {
+                "code": "love_example_he-has-a-great-love-of-horses",
+                "text": "He has a great love of horses."
+            }
+        ]
+    }
+]

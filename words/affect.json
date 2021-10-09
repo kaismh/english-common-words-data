@@ -1,0 +1,36 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to influence or cause a change in someone or something",
+        "examples": [
+            {
+                "code": "affect_example_the-scandal-will-dramatically-affect-his-election-campaign",
+                "text": "The scandal will dramatically affect his election campaign."
+            },
+            {
+                "code": "affect_example_studying-will-positively-affect-your-test-scores",
+                "text": "Studying will positively affect your test scores."
+            },
+            {
+                "code": "affect_example_losing-his-dog-deeply-affected-him",
+                "text": "Losing his dog deeply affected him."
+            },
+            {
+                "code": "affect_example_i-was-deeply-affected-by-his-death",
+                "text": "I was deeply affected by his death."
+            },
+            {
+                "code": "affect_example_his-actions-affected-all-of-us",
+                "text": "His actions affected all of us."
+            },
+            {
+                "code": "affect_example_coffee-will-affect-your-sleep",
+                "text": "Coffee will affect your sleep."
+            },
+            {
+                "code": "affect_example_stress-affected-his-sleep",
+                "text": "Stress affected his sleep."
+            }
+        ]
+    }
+]

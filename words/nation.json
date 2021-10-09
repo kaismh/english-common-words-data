@@ -1,0 +1,48 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a group of people who share the same language, culture that live in one particular area under one government",
+        "examples": [
+            {
+                "code": "nation_example_immigrants-built-this-nation",
+                "text": "Immigrants built this nation."
+            },
+            {
+                "code": "nation_example_they-are-leading-the-nation",
+                "text": "They are leading the nation."
+            },
+            {
+                "code": "nation_example_he-shocked-the-nation",
+                "text": "He shocked the nation."
+            },
+            {
+                "code": "nation_example_this-is-a-small-nation",
+                "text": "This is a small nation."
+            },
+            {
+                "code": "nation_example_we-live-in-an-advanced-nation",
+                "text": "We live in an advanced nation."
+            },
+            {
+                "code": "nation_example_he-came-from-a-third-world-nation",
+                "text": "He came from a third world nation."
+            },
+            {
+                "code": "nation_example_the-entire-nation-is-shocked",
+                "text": "The entire nation is shocked."
+            },
+            {
+                "code": "nation_example_people-are-talking-about-him-throughout-the-nation",
+                "text": "People are talking about him throughout the nation."
+            },
+            {
+                "code": "nation_example_there-is-chaos-in-the-nation",
+                "text": "There is chaos in the nation."
+            },
+            {
+                "code": "nation_example_this-is-a-nation-of-sports-lovers",
+                "text": "This is a nation of sports lovers."
+            }
+        ]
+    }
+]

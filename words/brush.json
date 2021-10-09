@@ -1,0 +1,78 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a tool with bristles made from stiff hairs, plastic, or wires and a handle used for sweeping, painting, or smoothing hair",
+        "examples": [
+            {
+                "code": "brush_example_the-job-requires-a-stiff-brush",
+                "text": "The job requires a stiff brush."
+            },
+            {
+                "code": "brush_example_clean-the-bathroom-with-a-toilet-brush",
+                "text": "Clean the bathroom with a toilet brush."
+            },
+            {
+                "code": "brush_example_he-needs-a-paint-brush",
+                "text": "He needs a paint brush."
+            },
+            {
+                "code": "brush_example_they-applied-paint-with-a-brush",
+                "text": "They applied paint with a brush."
+            },
+            {
+                "code": "brush_example_he-is-using-a-brush",
+                "text": "He is using a brush."
+            },
+            {
+                "code": "brush_example_i-run-a-brush-through-my-hair-to-get-the-tangles-out",
+                "text": "I run a brush through my hair to get the tangles out."
+            },
+            {
+                "code": "brush_example_be-careful-when-you-dip-the-brush-into-the-paint-bottle",
+                "text": "Be careful when you dip the brush into the paint bottle."
+            },
+            {
+                "code": "brush_example_don-t-forget-to-clean-your-brushes",
+                "text": "Don't forget to clean your brushes."
+            },
+            {
+                "code": "brush_example_she-paints-with-small-brush-strokes",
+                "text": "She paints with small brush strokes."
+            },
+            {
+                "code": "brush_example_she-paints-with-a-nylon-brush",
+                "text": "She paints with a nylon brush."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to clean or make smooth with a brush; to touch lightly",
+        "examples": [
+            {
+                "code": "brush_example_she-carefully-brushed-her-dog-s-fur",
+                "text": "She carefully brushed her dog's fur."
+            },
+            {
+                "code": "brush_example_she-brushed-back-her-hair",
+                "text": "She brushed back her hair."
+            },
+            {
+                "code": "brush_example_he-lightly-brushed-my-cheek-with-his-hand",
+                "text": "He lightly brushed my cheek with his hand."
+            },
+            {
+                "code": "brush_example_she-brushed-against-me",
+                "text": "She brushed against me."
+            },
+            {
+                "code": "brush_example_he-brushed-my-hair-with-his-fingers",
+                "text": "He brushed my hair with his fingers."
+            },
+            {
+                "code": "brush_example_you-need-to-brush-your-teeth",
+                "text": "You need to brush your teeth."
+            }
+        ]
+    }
+]

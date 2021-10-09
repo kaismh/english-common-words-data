@@ -1,0 +1,44 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to make something better",
+        "examples": [
+            {
+                "code": "improve_example_his-health-improved-dramatically-over-the-weekend",
+                "text": "His health improved dramatically over the weekend."
+            },
+            {
+                "code": "improve_example_john-s-writing-has-definitely-improved-this-year",
+                "text": "John's writing has definitely improved this year."
+            },
+            {
+                "code": "improve_example_the-road-conditions-quickly-improved-overnight",
+                "text": "The road conditions quickly improved overnight."
+            },
+            {
+                "code": "improve_example_the-weather-should-continue-to-improve-tonight",
+                "text": "The weather should continue to improve tonight."
+            },
+            {
+                "code": "improve_example_he-is-trying-to-improve-his-skills",
+                "text": "He is trying to improve his skills."
+            },
+            {
+                "code": "improve_example_help-me-improve-my-grades",
+                "text": "Help me improve my grades."
+            },
+            {
+                "code": "improve_example_his-condition-improved",
+                "text": "His condition improved."
+            },
+            {
+                "code": "improve_example_i-hope-the-economy-improves",
+                "text": "I hope the economy improves."
+            },
+            {
+                "code": "improve_example_how-can-we-improve-our-appearance",
+                "text": "How can we improve our appearance?"
+            }
+        ]
+    }
+]

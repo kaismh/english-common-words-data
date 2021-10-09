@@ -1,0 +1,40 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to say that someone or something has done something wrong",
+        "examples": [
+            {
+                "code": "accuse_example_the-prisoner-was-falsely-accused-of-the-crime",
+                "text": "The prisoner was falsely accused of the crime."
+            },
+            {
+                "code": "accuse_example_she-publicly-accused-me-of-being-a-bad-friend",
+                "text": "She publicly accused me of being a bad friend."
+            },
+            {
+                "code": "accuse_example_he-practically-accused-me-of-stealing-the-money",
+                "text": "He practically accused me of stealing the money."
+            },
+            {
+                "code": "accuse_example_i-was-accused-of-disloyalty",
+                "text": "I was accused of disloyalty."
+            },
+            {
+                "code": "accuse_example_he-was-accused-of-murder",
+                "text": "He was accused of murder."
+            },
+            {
+                "code": "accuse_example_she-was-accused-of-lying",
+                "text": "She was accused of lying."
+            },
+            {
+                "code": "accuse_example_he-was-accused-of-stealing",
+                "text": "He was accused of stealing."
+            },
+            {
+                "code": "accuse_example_she-was-accused-of-stealing-by-her-roommate",
+                "text": "She was accused of stealing by her roommate."
+            }
+        ]
+    }
+]

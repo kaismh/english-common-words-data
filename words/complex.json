@@ -1,0 +1,70 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a group of buildings close together used for a particular purpose; an emotionally bad feeling about oneself",
+        "examples": [
+            {
+                "code": "complex_example_the-sports-tournament-will-be-held-in-a-huge-complex",
+                "text": "The sports tournament will be held in a huge complex."
+            },
+            {
+                "code": "complex_example_the-city-is-building-a-new-shopping-complex",
+                "text": "The city is building a new shopping complex."
+            },
+            {
+                "code": "complex_example_the-apartment-complex-is-being-torn-down",
+                "text": "The apartment complex is being torn down."
+            },
+            {
+                "code": "complex_example_he-has-a-terrible-complex-about-his-acne",
+                "text": "He has a terrible complex about his acne."
+            },
+            {
+                "code": "complex_example_they-are-building-a-new-sports-complex-in-this-area",
+                "text": "They are building a new sports complex in this area."
+            },
+            {
+                "code": "complex_example_she-suffers-from-a-bad-complex-about-her-skin",
+                "text": "She suffers from a bad complex about her skin."
+            },
+            {
+                "code": "complex_example_he-has-a-complex-about-his-height",
+                "text": "He has a complex about his height."
+            }
+        ]
+    },
+    {
+        "type": "(adj)",
+        "mean": "hard to understand",
+        "examples": [
+            {
+                "code": "complex_example_the-problem-is-complex",
+                "text": "The problem is complex."
+            },
+            {
+                "code": "complex_example_the-math-problem-is-very-complex",
+                "text": "The math problem is very complex."
+            },
+            {
+                "code": "complex_example_the-scientific-formula-is-extremely-complex",
+                "text": "The scientific formula is extremely complex."
+            },
+            {
+                "code": "complex_example_the-situation-is-becoming-increasingly-complex",
+                "text": "The situation is becoming increasingly complex."
+            },
+            {
+                "code": "complex_example_the-teacher-gave-the-students-a-complex-problem",
+                "text": "The teacher gave the students a complex problem."
+            },
+            {
+                "code": "complex_example_immigration-to-the-us-is-a-complex-issue",
+                "text": "Immigration to the US is a complex issue."
+            },
+            {
+                "code": "complex_example_he-works-on-complex-designs",
+                "text": "He works on complex designs."
+            }
+        ]
+    }
+]

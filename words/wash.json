@@ -1,0 +1,66 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to clean with soap and water",
+        "examples": [
+            {
+                "code": "wash_example_she-carefully-washed-her-daughter-s-hair",
+                "text": "She carefully washed her daughter's hair."
+            },
+            {
+                "code": "wash_example_make-sure-to-thoroughly-wash-your-hands",
+                "text": "Make sure to thoroughly wash your hands."
+            },
+            {
+                "code": "wash_example_she-washes-her-clothes-frequently",
+                "text": "She washes her clothes frequently."
+            },
+            {
+                "code": "wash_example_he-quickly-washed-the-stains-off-his-pants",
+                "text": "He quickly washed the stains off his pants."
+            },
+            {
+                "code": "wash_example_he-is-washing-the-car",
+                "text": "He is washing the car."
+            },
+            {
+                "code": "wash_example_she-is-washing-her-clothes",
+                "text": "She is washing her clothes."
+            }
+        ]
+    },
+    {
+        "type": "(n)",
+        "mean": "things that need to be cleaned or have been cleaned; the act of cleaning something with soap and water",
+        "examples": [
+            {
+                "code": "wash_example_i-gave-the-floors-a-good-wash",
+                "text": "I gave the floors a good wash."
+            },
+            {
+                "code": "wash_example_we-took-our-car-to-the-car-wash",
+                "text": "We took our car to the car wash."
+            },
+            {
+                "code": "wash_example_our-car-needs-a-good-wash",
+                "text": "Our car needs a good wash."
+            },
+            {
+                "code": "wash_example_i-gave-the-dog-a-quick-wash",
+                "text": "I gave the dog a quick wash."
+            },
+            {
+                "code": "wash_example_put-your-dirty-socks-in-the-wash",
+                "text": "Put your dirty socks in the wash."
+            },
+            {
+                "code": "wash_example_i-am-doing-a-load-of-wash",
+                "text": "I am doing a load of wash."
+            },
+            {
+                "code": "wash_example_i-put-the-dirty-clothes-in-the-wash",
+                "text": "I put the dirty clothes in the wash."
+            }
+        ]
+    }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "type": "(n)",
+        "mean": "someone who medically takes care of people when they are sick, usually in a hospital or doctor's office",
+        "examples": [
+            {
+                "code": "nurse_example_i-trained-to-be-a-nurse-practitioner",
+                "text": "I trained to be a nurse practitioner."
+            },
+            {
+                "code": "nurse_example_i-called-the-nurse-hotline-with-a-medical-question",
+                "text": "I called the nurse hotline with a medical question."
+            },
+            {
+                "code": "nurse_example_she-is-a-registered-nurse",
+                "text": "She is a registered nurse."
+            },
+            {
+                "code": "nurse_example_she-is-the-head-nurse-at-the-hospital",
+                "text": "She is the head nurse at the hospital."
+            },
+            {
+                "code": "nurse_example_my-mom-is-a-nurse",
+                "text": "My mom is a nurse."
+            },
+            {
+                "code": "nurse_example_she-became-a-nurse-after-college",
+                "text": "She became a nurse after college."
+            },
+            {
+                "code": "nurse_example_my-sister-is-studying-to-be-a-nurse",
+                "text": "My sister is studying to be a nurse."
+            },
+            {
+                "code": "nurse_example_somebody-call-the-nurse",
+                "text": "Somebody call the nurse!"
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to help medically",
+        "examples": [
+            {
+                "code": "nurse_example_she-nursed-the-baby-herself",
+                "text": "She nursed the baby herself."
+            },
+            {
+                "code": "nurse_example_i-was-nursed-to-health",
+                "text": "I was nursed to health."
+            },
+            {
+                "code": "nurse_example_i-am-nursing-a-cold",
+                "text": "I am nursing a cold."
+            }
+        ]
+    }
+]

@@ -1,0 +1,114 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to change from one thing to another; to change something with another thing; to turn an electronic device on or off",
+        "examples": [
+            {
+                "code": "switch_example_he-asked-to-quickly-switch-seats-with-me",
+                "text": "He asked to quickly switch seats with me."
+            },
+            {
+                "code": "switch_example_she-simply-switched-places-with-him",
+                "text": "She simply switched places with him."
+            },
+            {
+                "code": "switch_example_the-machine-automatically-switched-off",
+                "text": "The machine automatically switched off."
+            },
+            {
+                "code": "switch_example_they-switched-back-to-their-original-long-distance-carrier",
+                "text": "They switched back to their original long distance carrier."
+            },
+            {
+                "code": "switch_example_they-switch-their-furniture-around-every-six-months",
+                "text": "They switch their furniture around every six months."
+            },
+            {
+                "code": "switch_example_she-decided-to-switch-places-with-her-friend",
+                "text": "She decided to switch places with her friend."
+            },
+            {
+                "code": "switch_example_would-you-switch-places-with-me",
+                "text": "Would you switch places with me?"
+            },
+            {
+                "code": "switch_example_he-switched-from-first-to-second-gear",
+                "text": "He switched from first to second gear."
+            },
+            {
+                "code": "switch_example_she-switched-to-a-different-dress",
+                "text": "She switched to a different dress."
+            },
+            {
+                "code": "switch_example_he-keeps-switching-back-and-forth-between-two-sports-channels",
+                "text": "He keeps switching back and forth between two sports channels."
+            }
+        ]
+    },
+    {
+        "type": "(n)",
+        "mean": "a change from one thing to another; something pressed or moved to turn an electronic device on or off",
+        "examples": [
+            {
+                "code": "switch_example_where-is-the-master-switch",
+                "text": "Where is the master switch?"
+            },
+            {
+                "code": "switch_example_there-should-be-an-electric-switch-to-turn-off-the-machine",
+                "text": "There should be an electric switch to turn off the machine."
+            },
+            {
+                "code": "switch_example_press-the-on-switch",
+                "text": "Press the on switch."
+            },
+            {
+                "code": "switch_example_please-turn-on-the-light-switch",
+                "text": "Please turn on the light switch."
+            },
+            {
+                "code": "switch_example_she-made-a-sudden-switch-with-the-costumes",
+                "text": "She made a sudden switch with the costumes."
+            },
+            {
+                "code": "switch_example_he-made-a-big-switch-in-careers",
+                "text": "He made a big switch in careers."
+            },
+            {
+                "code": "switch_example_they-made-a-complete-switch-to-another-cable-company",
+                "text": "They made a complete switch to another cable company."
+            },
+            {
+                "code": "switch_example_turn-on-the-switch",
+                "text": "Turn on the switch."
+            },
+            {
+                "code": "switch_example_this-switch-controls-all-of-the-lights-in-the-house",
+                "text": "This switch controls all of the lights in the house."
+            },
+            {
+                "code": "switch_example_he-made-a-switch-to-another-phone-company",
+                "text": "He made a switch to another phone company."
+            },
+            {
+                "code": "switch_example_that-is-the-switch-for-the-hall-light",
+                "text": "That is the switch for the hall light."
+            },
+            {
+                "code": "switch_example_the-alarm-is-set-on-a-timer-switch",
+                "text": "The alarm is set on a timer switch."
+            },
+            {
+                "code": "switch_example_she-made-a-switch-from-the-morning-to-evening-shift",
+                "text": "She made a switch from the morning to evening shift."
+            },
+            {
+                "code": "switch_example_she-made-a-switch-back-to-the-morning-shift",
+                "text": "She made a switch back to the morning shift."
+            },
+            {
+                "code": "switch_example_there-was-a-switch-between-actors",
+                "text": "There was a switch between actors."
+            }
+        ]
+    }
+]

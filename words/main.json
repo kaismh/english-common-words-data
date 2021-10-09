@@ -1,0 +1,70 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "important; central",
+        "examples": [
+            {
+                "code": "main_example_this-is-the-main-part-of-the-show",
+                "text": "This is the main part of the show."
+            },
+            {
+                "code": "main_example_what-is-the-main-difference-between-us",
+                "text": "What is the main difference between us?"
+            },
+            {
+                "code": "main_example_what-is-the-main-idea-of-your-paragraph",
+                "text": "What is the main idea of your paragraph?"
+            },
+            {
+                "code": "main_example_there-are-a-few-main-ingredients",
+                "text": "There are a few main ingredients."
+            },
+            {
+                "code": "main_example_where-is-the-main-exit",
+                "text": "Where is the main exit?"
+            },
+            {
+                "code": "main_example_she-made-the-main-dish",
+                "text": "She made the main dish."
+            },
+            {
+                "code": "main_example_follow-the-main-road",
+                "text": "Follow the main road."
+            },
+            {
+                "code": "main_example_he-is-our-main-suspect",
+                "text": "He is our main suspect."
+            },
+            {
+                "code": "main_example_this-is-my-main-objective",
+                "text": "This is my main objective."
+            },
+            {
+                "code": "main_example_i-ll-see-you-in-the-main-building",
+                "text": "I'll see you in the main building."
+            }
+        ]
+    },
+    {
+        "type": "(n)",
+        "mean": "the largest pipe or wire in the system that carries gas, electricity, or water to a building",
+        "examples": [
+            {
+                "code": "main_example_the-workers-are-repairing-the-gas-main",
+                "text": "The workers are repairing the gas main."
+            },
+            {
+                "code": "main_example_this-water-main-serves-the-whole-city",
+                "text": "This water main serves the whole city."
+            },
+            {
+                "code": "main_example_we-almost-hit-the-gas-main",
+                "text": "We almost hit the gas main."
+            },
+            {
+                "code": "main_example_the-plumber-is-here-to-fix-the-broken-water-main",
+                "text": "The plumber is here to fix the broken water main."
+            }
+        ]
+    }
+]

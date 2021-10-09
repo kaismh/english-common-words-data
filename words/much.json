@@ -1,0 +1,50 @@
+[
+    {
+        "type": "(adv)",
+        "mean": "a great deal",
+        "examples": [
+            {
+                "code": "much_example_i-would-much-prefer-to-eat-at-home-tonight",
+                "text": "I would much prefer to eat at home tonight."
+            },
+            {
+                "code": "much_example_she-doesn-t-visit-much-anymore",
+                "text": "She doesn't visit much anymore."
+            },
+            {
+                "code": "much_example_the-house-looks-much-the-same-as-it-did-twenty-years-ago",
+                "text": "The house looks much the same as it did twenty years ago."
+            },
+            {
+                "code": "much_example_the-photo-wasn-t-enhanced-much-from-the-original",
+                "text": "The photo wasn't enhanced much from the original."
+            },
+            {
+                "code": "much_example_i-feel-much-worse-now",
+                "text": "I feel much worse now."
+            }
+        ]
+    },
+    {
+        "type": "(adj)",
+        "mean": "great in amount",
+        "examples": [
+            {
+                "code": "much_example_after-much-speculation-the-truth-finally-came-out",
+                "text": "After much speculation, the truth finally came out."
+            },
+            {
+                "code": "much_example_our-grandchildren-give-us-much-amusement",
+                "text": "Our grandchildren give us much amusement."
+            },
+            {
+                "code": "much_example_his-performance-gives-us-much-doubt-about-his-work",
+                "text": "His performance gives us much doubt about his work."
+            },
+            {
+                "code": "much_example_i-don-t-have-much-money",
+                "text": "I don't have much money."
+            }
+        ]
+    }
+]

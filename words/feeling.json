@@ -1,0 +1,172 @@
+[
+    {
+        "type": "(n)",
+        "mean": "an emotional sense; awareness; physical sensation",
+        "examples": [
+            {
+                "code": "feeling_example_i-had-a-strong-feeling-it-wasn-t-going-to-end-well",
+                "text": "I had a strong feeling it wasn't going to end well."
+            },
+            {
+                "code": "feeling_example_i-had-a-strange-feeling-that-someone-was-watching",
+                "text": "I had a strange feeling that someone was watching."
+            },
+            {
+                "code": "feeling_example_winning-was-such-a-good-feeling",
+                "text": "Winning was such a good feeling."
+            },
+            {
+                "code": "feeling_example_it-was-such-a-nice-feeling-to-be-home-again",
+                "text": "It was such a nice feeling to be home again."
+            },
+            {
+                "code": "feeling_example_she-got-a-bad-feeling-when-she-entered-the-room",
+                "text": "She got a bad feeling when she entered the room."
+            },
+            {
+                "code": "feeling_example_i-have-a-weird-feeling-about-this-place",
+                "text": "I have a weird feeling about this place."
+            },
+            {
+                "code": "feeling_example_a-familiar-feeling-came-to-her-when-she-saw-him",
+                "text": "A familiar feeling came to her when she saw him."
+            },
+            {
+                "code": "feeling_example_my-gut-feeling-is-that-something-is-wrong",
+                "text": "My gut feeling is that something is wrong."
+            },
+            {
+                "code": "feeling_example_there-is-a-widespread-feeling-of-fear-right-now",
+                "text": "There is a widespread feeling of fear right now."
+            },
+            {
+                "code": "feeling_example_the-popular-feeling-is-that-he-s-guilty",
+                "text": "The popular feeling is that he's guilty."
+            },
+            {
+                "code": "feeling_example_she-has-deep-feelings-about-the-subject",
+                "text": "She has deep feelings about the subject."
+            },
+            {
+                "code": "feeling_example_he-expressed-genuine-feelings-for-her",
+                "text": "He expressed genuine feelings for her."
+            },
+            {
+                "code": "feeling_example_they-have-positive-feelings-toward-their-teacher",
+                "text": "They have positive feelings toward their teacher."
+            },
+            {
+                "code": "feeling_example_she-expressed-warm-feelings-toward-her-grandmother",
+                "text": "She expressed warm feelings toward her grandmother."
+            },
+            {
+                "code": "feeling_example_he-never-reveals-his-innermost-feelings",
+                "text": "He never reveals his innermost feelings."
+            },
+            {
+                "code": "feeling_example_he-got-a-strange-feeling-he-was-being-watched",
+                "text": "He got a strange feeling he was being watched."
+            },
+            {
+                "code": "feeling_example_his-response-gave-her-a-strange-feeling",
+                "text": "His response gave her a strange feeling."
+            },
+            {
+                "code": "feeling_example_she-couldn-t-shake-the-uneasy-feeling-in-her-stomach",
+                "text": "She couldn't shake the uneasy feeling in her stomach."
+            },
+            {
+                "code": "feeling_example_she-likes-the-feeling-of-uncertainty",
+                "text": "She likes the feeling of uncertainty."
+            },
+            {
+                "code": "feeling_example_i-hate-the-feeling-that-i-m-going-to-fail",
+                "text": "I hate the feeling that I'm going to fail."
+            },
+            {
+                "code": "feeling_example_an-uneasy-feeling-came-over-her",
+                "text": "An uneasy feeling came over her."
+            },
+            {
+                "code": "feeling_example_she-experienced-deep-feelings-of-remorse",
+                "text": "She experienced deep feelings of remorse."
+            },
+            {
+                "code": "feeling_example_he-was-developing-feelings-for-her",
+                "text": "He was developing feelings for her."
+            },
+            {
+                "code": "feeling_example_he-doesn-t-like-to-express-his-feelings",
+                "text": "He doesn't like to express his feelings."
+            },
+            {
+                "code": "feeling_example_she-confessed-her-feelings-of-doubt",
+                "text": "She confessed her feelings of doubt."
+            },
+            {
+                "code": "feeling_example_they-discussed-their-feelings-about-the-topic",
+                "text": "They discussed their feelings about the topic."
+            },
+            {
+                "code": "feeling_example_he-ignores-his-feelings-for-her",
+                "text": "He ignores his feelings for her."
+            },
+            {
+                "code": "feeling_example_did-i-hurt-your-feelings",
+                "text": "Did I hurt your feelings?"
+            },
+            {
+                "code": "feeling_example_we-are-trying-to-spare-her-feelings",
+                "text": "We are trying to spare her feelings."
+            },
+            {
+                "code": "feeling_example_unfortunately-my-feelings-were-not-returned",
+                "text": "Unfortunately my feelings were not returned."
+            },
+            {
+                "code": "feeling_example_his-insensitivity-created-feelings-of-anger-by-those-around-him",
+                "text": "His insensitivity created feelings of anger by those around him."
+            },
+            {
+                "code": "feeling_example_he-lost-feeling-in-his-legs",
+                "text": "He lost feeling in his legs."
+            },
+            {
+                "code": "feeling_example_she-hopes-to-regain-feeling-in-her-hand",
+                "text": "She hopes to regain feeling in her hand."
+            },
+            {
+                "code": "feeling_example_you-never-understand-my-feelings",
+                "text": "You never understand my feelings."
+            },
+            {
+                "code": "feeling_example_she-needs-time-to-sort-out-her-feelings-about-the-breakup",
+                "text": "She needs time to sort out her feelings about the breakup."
+            },
+            {
+                "code": "feeling_example_i-had-a-bad-feeling-about-our-new-neighbor",
+                "text": "I had a bad feeling about our new neighbor."
+            },
+            {
+                "code": "feeling_example_there-is-a-general-feeling-of-panic-in-the-city",
+                "text": "There is a general feeling of panic in the city."
+            },
+            {
+                "code": "feeling_example_she-still-has-feelings-for-her-ex-boyfriend",
+                "text": "She still has feelings for her ex-boyfriend."
+            },
+            {
+                "code": "feeling_example_they-have-strong-feelings-on-that-topic",
+                "text": "They have strong feelings on that topic."
+            },
+            {
+                "code": "feeling_example_she-spoke-with-strong-feelings-about-her-past-struggles",
+                "text": "She spoke with strong feelings about her past struggles."
+            },
+            {
+                "code": "feeling_example_he-lost-feeling-in-his-feet-from-the-cold",
+                "text": "He lost feeling in his feet from the cold."
+            }
+        ]
+    }
+]

@@ -1,0 +1,98 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the effect or influence on someone or something; the act of an object hitting another object",
+        "examples": [
+            {
+                "code": "impact_example_his-speech-had-a-powerful-impact-on-many-people",
+                "text": "His speech had a powerful impact on many people."
+            },
+            {
+                "code": "impact_example_our-school-principal-made-a-significant-impact-on-the-school",
+                "text": "Our school principal made a significant impact on the school."
+            },
+            {
+                "code": "impact_example_we-felt-the-full-impact-of-the-storm",
+                "text": "We felt the full impact of the storm."
+            },
+            {
+                "code": "impact_example_the-new-teacher-made-an-immediate-impact-on-her-students",
+                "text": "The new teacher made an immediate impact on her students."
+            },
+            {
+                "code": "impact_example_budget-cuts-will-have-a-negative-impact-on-schools",
+                "text": "Budget cuts will have a negative impact on schools."
+            },
+            {
+                "code": "impact_example_he-felt-the-full-impact-of-the-crash",
+                "text": "He felt the full impact of the crash."
+            },
+            {
+                "code": "impact_example_his-father-had-a-positive-impact-on-him",
+                "text": "His father had a positive impact on him."
+            },
+            {
+                "code": "impact_example_his-ongoing-generosity-made-a-huge-impact-on-the-community",
+                "text": "His ongoing generosity made a huge impact on the community."
+            },
+            {
+                "code": "impact_example_we-felt-the-impact-of-the-recession",
+                "text": "We felt the impact of the recession."
+            },
+            {
+                "code": "impact_example_they-tried-to-analyze-the-impact-of-global-warming",
+                "text": "They tried to analyze the impact of global warming."
+            },
+            {
+                "code": "impact_example_we-should-recognize-the-huge-impact-he-has-made-to-society",
+                "text": "We should recognize the huge impact he has made to society."
+            },
+            {
+                "code": "impact_example_how-can-we-lessen-the-impact-of-rising-costs-on-our-customers",
+                "text": "How can we lessen the impact of rising costs on our customers?"
+            },
+            {
+                "code": "impact_example_the-back-of-the-car-took-the-hardest-impact-of-the-crash",
+                "text": "The back of the car took the hardest impact of the crash."
+            },
+            {
+                "code": "impact_example_how-did-they-survive-the-impact-of-the-accident",
+                "text": "How did they survive the impact of the accident?"
+            },
+            {
+                "code": "impact_example_the-impact-occurred-immediately-after-takeoff",
+                "text": "The impact occurred immediately after takeoff."
+            },
+            {
+                "code": "impact_example_the-car-was-demolished-on-impact",
+                "text": "The car was demolished on impact."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to affect someone or something",
+        "examples": [
+            {
+                "code": "impact_example_her-decisions-have-greatly-impacted-her-future",
+                "text": "Her decisions have greatly impacted her future."
+            },
+            {
+                "code": "impact_example_the-coach-s-negative-attitude-has-seriously-impacted-his-players",
+                "text": "The coach's negative attitude has seriously impacted his players."
+            },
+            {
+                "code": "impact_example_the-budget-cuts-have-economically-impacted-school-funding",
+                "text": "The budget cuts have economically impacted school funding."
+            },
+            {
+                "code": "impact_example_her-decision-impacted-the-whole-family",
+                "text": "Her decision impacted the whole family."
+            },
+            {
+                "code": "impact_example_our-negligence-has-seriously-impacted-the-environment",
+                "text": "Our negligence has seriously impacted the environment."
+            }
+        ]
+    }
+]

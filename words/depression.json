@@ -1,0 +1,60 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a state of extreme sadness; a period of poor economy and poverty",
+        "examples": [
+            {
+                "code": "depression_example_she-was-diagnosed-for-severe-depression",
+                "text": "She was diagnosed for severe depression."
+            },
+            {
+                "code": "depression_example_the-man-suffered-mild-depression-after-the-divorce",
+                "text": "The man suffered mild depression after the divorce."
+            },
+            {
+                "code": "depression_example_there-was-a-great-depression-years-ago",
+                "text": "There was a great depression years ago."
+            },
+            {
+                "code": "depression_example_the-woman-developed-depression-after-the-loss-of-her-child",
+                "text": "The woman developed depression after the loss of her child."
+            },
+            {
+                "code": "depression_example_he-needs-to-overcome-depression",
+                "text": "He needs to overcome depression."
+            },
+            {
+                "code": "depression_example_the-weather-can-cause-depression",
+                "text": "The weather can cause depression."
+            },
+            {
+                "code": "depression_example_exercise-can-relieve-depression",
+                "text": "Exercise can relieve depression."
+            },
+            {
+                "code": "depression_example_how-can-we-prevent-depression",
+                "text": "How can we prevent depression?"
+            },
+            {
+                "code": "depression_example_depression-affects-many-people",
+                "text": "Depression affects many people."
+            },
+            {
+                "code": "depression_example_the-country-faced-an-economic-depression-many-years-ago",
+                "text": "The country faced an economic depression many years ago."
+            },
+            {
+                "code": "depression_example_she-is-being-treated-for-depression",
+                "text": "She is being treated for depression."
+            },
+            {
+                "code": "depression_example_her-mother-lives-with-depression",
+                "text": "Her mother lives with depression."
+            },
+            {
+                "code": "depression_example_many-people-did-not-have-jobs-during-the-depression",
+                "text": "Many people did not have jobs during the depression."
+            }
+        ]
+    }
+]

@@ -1,0 +1,114 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the act of asking for something politely",
+        "examples": [
+            {
+                "code": "request_example_can-i-make-a-small-request",
+                "text": "Can I make a small request?"
+            },
+            {
+                "code": "request_example_i-have-considered-your-request",
+                "text": "I have considered your request."
+            },
+            {
+                "code": "request_example_the-manager-will-handle-your-request",
+                "text": "The manager will handle your request."
+            },
+            {
+                "code": "request_example_they-denied-my-request",
+                "text": "They denied my request."
+            },
+            {
+                "code": "request_example_i-have-a-little-request",
+                "text": "I have a little request."
+            },
+            {
+                "code": "request_example_i-sent-them-a-request",
+                "text": "I sent them a request."
+            },
+            {
+                "code": "request_example_he-made-a-formal-request",
+                "text": "He made a formal request."
+            },
+            {
+                "code": "request_example_i-have-a-special-request",
+                "text": "I have a special request."
+            },
+            {
+                "code": "request_example_i-submitted-my-original-request-months-ago",
+                "text": "I submitted my original request months ago."
+            },
+            {
+                "code": "request_example_i-have-sent-them-repeated-requests",
+                "text": "I have sent them repeated requests."
+            },
+            {
+                "code": "request_example_by-popular-request-here-is-their-latest-song",
+                "text": "By popular request, here is their latest song."
+            },
+            {
+                "code": "request_example_the-information-was-not-made-public-at-the-parent-s-request",
+                "text": "The information was not made public at the parent's request."
+            },
+            {
+                "code": "request_example_additional-information-is-available-upon-request",
+                "text": "Additional information is available upon request."
+            },
+            {
+                "code": "request_example_we-made-an-immediate-request-for-help",
+                "text": "We made an immediate request for help."
+            },
+            {
+                "code": "request_example_this-is-a-request-from-the-president",
+                "text": "This is a request from the president."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to ask for",
+        "examples": [
+            {
+                "code": "request_example_she-requested-another-hearing",
+                "text": "She requested another hearing."
+            },
+            {
+                "code": "request_example_i-requested-a-refund-for-the-damaged-product",
+                "text": "I requested a refund for the damaged product."
+            },
+            {
+                "code": "request_example_he-has-requested-assistance-from-them",
+                "text": "He has requested assistance from them."
+            },
+            {
+                "code": "request_example_she-requested-an-audience-with-you",
+                "text": "She requested an audience with you."
+            },
+            {
+                "code": "request_example_she-requested-information-on-my-behalf",
+                "text": "She requested information on my behalf."
+            },
+            {
+                "code": "request_example_the-boss-has-requested-your-presence",
+                "text": "The boss has requested your presence."
+            },
+            {
+                "code": "request_example_we-requested-a-copy-for-our-records",
+                "text": "We requested a copy for our records."
+            },
+            {
+                "code": "request_example_he-specifically-requested-a-room-with-a-view",
+                "text": "He specifically requested a room with a view."
+            },
+            {
+                "code": "request_example_she-formally-requested-to-have-a-bodyguard",
+                "text": "She formally requested to have a bodyguard."
+            },
+            {
+                "code": "request_example_i-requested-more-information-from-them",
+                "text": "I requested more information from them."
+            }
+        ]
+    }
+]

@@ -1,0 +1,48 @@
+[
+    {
+        "type": "(n)",
+        "mean": "sound or pictures stored so they can be listened to or watched again",
+        "examples": [
+            {
+                "code": "recording_example_he-produced-their-first-recording",
+                "text": "He produced their first recording."
+            },
+            {
+                "code": "recording_example_we-heard-their-live-recording",
+                "text": "We heard their live recording."
+            },
+            {
+                "code": "recording_example_the-recording-sounds-excellent",
+                "text": "The recording sounds excellent."
+            },
+            {
+                "code": "recording_example_he-owns-a-recording-company",
+                "text": "He owns a recording company."
+            },
+            {
+                "code": "recording_example_she-is-a-recording-artist",
+                "text": "She is a recording artist."
+            },
+            {
+                "code": "recording_example_i-have-a-recording-session",
+                "text": "I have a recording session."
+            },
+            {
+                "code": "recording_example_this-is-an-excellent-recording-of-his-first-performance",
+                "text": "This is an excellent recording of his first performance."
+            },
+            {
+                "code": "recording_example_we-have-a-detailed-recording-of-their-conversation",
+                "text": "We have a detailed recording of their conversation."
+            },
+            {
+                "code": "recording_example_we-listened-to-his-latest-recording",
+                "text": "We listened to his latest recording."
+            },
+            {
+                "code": "recording_example_we-listened-to-a-recording-by-the-new-artist",
+                "text": "We listened to a recording by the new artist."
+            }
+        ]
+    }
+]

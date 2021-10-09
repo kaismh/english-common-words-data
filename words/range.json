@@ -1,0 +1,138 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to differ in various size, amounts, or things",
+        "examples": [
+            {
+                "code": "range_example_topics-ranged-from-fishing-to-skiing",
+                "text": "Topics ranged from fishing to skiing."
+            },
+            {
+                "code": "range_example_temperatures-range-from-60-degrees-to-90-degrees",
+                "text": "Temperatures range from 60 degrees to 90 degrees."
+            },
+            {
+                "code": "range_example_fares-range-in-price",
+                "text": "Fares range in price."
+            },
+            {
+                "code": "range_example_the-colors-ranged-from-purple-to-dark-red",
+                "text": "The colors ranged from purple to dark red."
+            },
+            {
+                "code": "range_example_our-prices-range-from-10-00-to-500-00",
+                "text": "Our prices range from $10.00 to $500.00."
+            },
+            {
+                "code": "range_example_size-ranges-from-2-to-22",
+                "text": "Size ranges from 2 to 22."
+            },
+            {
+                "code": "range_example_estimates-range-from-5-to-7-years",
+                "text": "Estimates range from 5 to 7 years."
+            },
+            {
+                "code": "range_example_the-size-ranges-from-small-to-large",
+                "text": "The size ranges from small to large."
+            },
+            {
+                "code": "range_example_the-price-ranges-between-100-and-200",
+                "text": "The price ranges between $100 and $200."
+            },
+            {
+                "code": "range_example_the-cars-range-in-price",
+                "text": "The cars range in price."
+            },
+            {
+                "code": "range_example_the-speech-ranged-over-several-issues",
+                "text": "The speech ranged over several issues."
+            },
+            {
+                "code": "range_example_cars-range-widely-in-prices",
+                "text": "Cars range widely in prices."
+            }
+        ]
+    },
+    {
+        "type": "(n)",
+        "mean": "a variety of things in the same category; the variety of sizes, amounts, or things; a cooking stove",
+        "examples": [
+            {
+                "code": "range_example_they-develop-a-range-of-products",
+                "text": "They develop a range of products."
+            },
+            {
+                "code": "range_example_we-offer-a-wide-range-of-paint-colors",
+                "text": "We offer a wide range of paint colors."
+            },
+            {
+                "code": "range_example_you-can-choose-from-a-range-of-options",
+                "text": "You can choose from a range of options."
+            },
+            {
+                "code": "range_example_the-school-needs-to-broaden-its-limited-range-of-classes",
+                "text": "The school needs to broaden its limited range of classes."
+            },
+            {
+                "code": "range_example_she-displayed-her-range-of-music-skills-to-the-audience",
+                "text": "She displayed her range of music skills to the audience."
+            },
+            {
+                "code": "range_example_our-population-represents-a-broad-range-of-ethnicities",
+                "text": "Our population represents a broad range of ethnicities."
+            },
+            {
+                "code": "range_example_the-class-covers-a-wide-range-of-topics",
+                "text": "The class covers a wide range of topics."
+            },
+            {
+                "code": "range_example_he-cooks-on-a-gas-range",
+                "text": "He cooks on a gas range."
+            },
+            {
+                "code": "range_example_we-have-a-huge-range-of-cars-to-choose-from",
+                "text": "We have a huge range of cars to choose from."
+            },
+            {
+                "code": "range_example_the-school-has-a-diverse-range-of-ethnic-backgrounds",
+                "text": "The school has a diverse range of ethnic backgrounds."
+            },
+            {
+                "code": "range_example_there-is-a-narrow-range-to-choose-from",
+                "text": "There is a narrow range to choose from."
+            },
+            {
+                "code": "range_example_what-is-the-price-range",
+                "text": "What is the price range?"
+            },
+            {
+                "code": "range_example_i-burned-my-hand-on-the-electric-range",
+                "text": "I burned my hand on the electric range."
+            },
+            {
+                "code": "range_example_i-like-going-to-the-shooting-range",
+                "text": "I like going to the shooting range."
+            },
+            {
+                "code": "range_example_she-shot-him-at-point-blank-range",
+                "text": "She shot him at point-blank range."
+            },
+            {
+                "code": "range_example_they-have-this-shirt-in-a-range-of-colors",
+                "text": "They have this shirt in a range of colors."
+            },
+            {
+                "code": "range_example_we-offer-this-car-with-a-range-of-options",
+                "text": "We offer this car with a range of options."
+            },
+            {
+                "code": "range_example_this-plant-comes-in-a-range-of-colors",
+                "text": "This plant comes in a range of colors."
+            },
+            {
+                "code": "range_example_that-is-outside-the-range-of-possibilities",
+                "text": "That is outside the range of possibilities."
+            }
+        ]
+    }
+]

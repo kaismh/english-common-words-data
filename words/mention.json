@@ -1,0 +1,94 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to talk about something briefly",
+        "examples": [
+            {
+                "code": "mention_example_he-forgot-to-mention-he-was-coming",
+                "text": "He forgot to mention he was coming."
+            },
+            {
+                "code": "mention_example_the-report-mentioned-her-name",
+                "text": "The report mentioned her name."
+            },
+            {
+                "code": "mention_example_her-name-was-mentioned-many-times",
+                "text": "Her name was mentioned many times."
+            },
+            {
+                "code": "mention_example_he-rarely-mentions-his-late-wife",
+                "text": "He rarely mentions his late wife."
+            },
+            {
+                "code": "mention_example_you-ve-mentioned-it-already",
+                "text": "You've mentioned it already."
+            },
+            {
+                "code": "mention_example_i-just-mentioned-it-to-them",
+                "text": "I just mentioned it to them."
+            },
+            {
+                "code": "mention_example_he-was-mentioned-in-the-press",
+                "text": "He was mentioned in the press."
+            },
+            {
+                "code": "mention_example_i-mentioned-it-to-her",
+                "text": "I mentioned it to her."
+            },
+            {
+                "code": "mention_example_she-smiles-at-the-very-mention-of-his-name",
+                "text": "She smiles at the very mention of his name."
+            },
+            {
+                "code": "mention_example_she-was-mentioned-as-being-a-possible-replacement",
+                "text": "She was mentioned as being a possible replacement."
+            }
+        ]
+    },
+    {
+        "type": "(n)",
+        "mean": "talk about",
+        "examples": [
+            {
+                "code": "mention_example_he-received-an-honorable-mention",
+                "text": "He received an honorable mention."
+            },
+            {
+                "code": "mention_example_he-deserves-mention-for-his-many-years-of-loyalty",
+                "text": "He deserves mention for his many years of loyalty."
+            },
+            {
+                "code": "mention_example_he-made-mention-of-the-event",
+                "text": "He made mention of the event."
+            },
+            {
+                "code": "mention_example_they-omitted-any-mention-of-him",
+                "text": "They omitted any mention of him."
+            },
+            {
+                "code": "mention_example_she-heard-no-mention-of-her-name",
+                "text": "She heard no mention of her name."
+            },
+            {
+                "code": "mention_example_there-was-a-brief-mention-of-him-in-the-conversation",
+                "text": "There was a brief mention of him in the conversation."
+            },
+            {
+                "code": "mention_example_he-got-an-honorable-mention-at-the-ceremony",
+                "text": "He got an honorable mention at the ceremony."
+            },
+            {
+                "code": "mention_example_at-the-mere-mention-of-his-name-i-was-afraid",
+                "text": "At the mere mention of his name, I was afraid."
+            },
+            {
+                "code": "mention_example_there-was-no-particular-mention-of-them-at-the-event",
+                "text": "There was no particular mention of them at the event."
+            },
+            {
+                "code": "mention_example_i-smiled-at-the-mention-of-it",
+                "text": "I smiled at the mention of it."
+            }
+        ]
+    }
+]

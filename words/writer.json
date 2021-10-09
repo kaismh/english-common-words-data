@@ -1,0 +1,60 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a person who puts letters, words, or numbers on paper or another surface using a pen or pencil; a person whose job is to write books, articles, or stories",
+        "examples": [
+            {
+                "code": "writer_example_ernest-hemingway-is-a-famous-writer",
+                "text": "Ernest Hemingway is a famous writer."
+            },
+            {
+                "code": "writer_example_f-scott-fitzgerald-is-my-favorite-writer",
+                "text": "F. Scott Fitzgerald is my favorite writer."
+            },
+            {
+                "code": "writer_example_there-are-many-accomplished-writers-in-the-twentieth-century",
+                "text": "There are many accomplished writers in the twentieth century."
+            },
+            {
+                "code": "writer_example_he-got-a-job-as-a-full-time-writer",
+                "text": "He got a job as a full-time writer."
+            },
+            {
+                "code": "writer_example_they-wanted-to-hire-an-experienced-writer-for-the-newspaper",
+                "text": "They wanted to hire an experienced writer for the newspaper."
+            },
+            {
+                "code": "writer_example_she-is-a-romance-writer",
+                "text": "She is a romance writer."
+            },
+            {
+                "code": "writer_example_the-magazine-is-looking-for-young-writers",
+                "text": "The magazine is looking for young writers."
+            },
+            {
+                "code": "writer_example_the-famous-writer-is-writing-an-autobiography",
+                "text": "The famous writer is writing an autobiography."
+            },
+            {
+                "code": "writer_example_the-science-fiction-writer-suggests-that-aliens-exist",
+                "text": "The science fiction writer suggests that aliens exist."
+            },
+            {
+                "code": "writer_example_the-young-writer-describes-surviving-a-plane-crash-in-his-book",
+                "text": "The young writer describes surviving a plane crash in his book."
+            },
+            {
+                "code": "writer_example_she-is-a-writer-of-many-cookbooks",
+                "text": "She is a writer of many cookbooks."
+            },
+            {
+                "code": "writer_example_she-started-as-a-freelance-writer",
+                "text": "She started as a freelance writer."
+            },
+            {
+                "code": "writer_example_she-is-a-writer-for-various-magazines",
+                "text": "She is a writer for various magazines."
+            }
+        ]
+    }
+]

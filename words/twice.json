@@ -1,0 +1,44 @@
+[
+    {
+        "type": "(adv)",
+        "mean": "two times; double the amount",
+        "examples": [
+            {
+                "code": "twice_example_i-only-wore-that-jacket-twice",
+                "text": "I only wore that jacket twice."
+            },
+            {
+                "code": "twice_example_i-watched-that-movie-twice",
+                "text": "I watched that movie twice."
+            },
+            {
+                "code": "twice_example_we-visited-italy-twice",
+                "text": "We visited Italy twice."
+            },
+            {
+                "code": "twice_example_think-twice-about-going-in-there",
+                "text": "Think twice about going in there."
+            },
+            {
+                "code": "twice_example_it-happened-twice",
+                "text": "It happened twice."
+            },
+            {
+                "code": "twice_example_he-runs-twice-as-fast-as-others",
+                "text": "He runs twice as fast as others."
+            },
+            {
+                "code": "twice_example_julia-eats-twice-as-much-as-me",
+                "text": "Julia eats twice as much as me."
+            },
+            {
+                "code": "twice_example_it-costs-twice-as-much-at-the-other-store",
+                "text": "It costs twice as much at the other store."
+            },
+            {
+                "code": "twice_example_i-have-twice-as-many-baseball-cards-as-him",
+                "text": "I have twice as many baseball cards as him."
+            }
+        ]
+    }
+]

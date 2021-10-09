@@ -1,0 +1,130 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the place where something ends; the sharp side of something; something that's helpful or useful",
+        "examples": [
+            {
+                "code": "edge_example_there-was-a-scratch-at-the-top-edge-of-the-table",
+                "text": "There was a scratch at the top edge of the table."
+            },
+            {
+                "code": "edge_example_the-stain-is-located-near-the-inner-edge-of-the-counter",
+                "text": "The stain is located near the inner edge of the counter."
+            },
+            {
+                "code": "edge_example_she-lived-on-the-northern-edge-of-the-city",
+                "text": "She lived on the northern edge of the city."
+            },
+            {
+                "code": "edge_example_be-careful-the-exposed-edge-is-sharp",
+                "text": "Be careful! The exposed edge is sharp."
+            },
+            {
+                "code": "edge_example_the-tree-was-on-the-very-edge-of-the-cliff",
+                "text": "The tree was on the very edge of the cliff."
+            },
+            {
+                "code": "edge_example_the-coffee-table-has-a-raised-edge",
+                "text": "The coffee table has a raised edge."
+            },
+            {
+                "code": "edge_example_a-bread-knife-has-a-serrated-edge",
+                "text": "A bread knife has a serrated edge."
+            },
+            {
+                "code": "edge_example_the-piece-of-wood-has-a-sharp-edge",
+                "text": "The piece of wood has a sharp edge."
+            },
+            {
+                "code": "edge_example_use-the-blunt-edge",
+                "text": "Use the blunt edge."
+            },
+            {
+                "code": "edge_example_he-has-a-competitive-edge-over-his-opponent",
+                "text": "He has a competitive edge over his opponent."
+            },
+            {
+                "code": "edge_example_this-new-product-gives-the-company-a-definite-edge-in-the-market",
+                "text": "This new product gives the company a definite edge in the market."
+            },
+            {
+                "code": "edge_example_trees-mark-the-edge-of-the-yard",
+                "text": "Trees mark the edge of the yard."
+            },
+            {
+                "code": "edge_example_we-reached-the-edge-of-the-forest",
+                "text": "We reached the edge of the forest."
+            },
+            {
+                "code": "edge_example_i-grabbed-the-edge-of-the-table-to-pull-myself-up",
+                "text": "I grabbed the edge of the table to pull myself up."
+            },
+            {
+                "code": "edge_example_align-the-edges-of-the-paper-to-fold-it-straight",
+                "text": "Align the edges of the paper to fold it straight."
+            },
+            {
+                "code": "edge_example_sharpen-the-edge-of-the-knife-so-it-will-cut-better",
+                "text": "Sharpen the edge of the knife so it will cut better."
+            },
+            {
+                "code": "edge_example_his-language-skills-give-him-an-edge",
+                "text": "His language skills give him an edge."
+            },
+            {
+                "code": "edge_example_you-need-to-be-creative-to-gain-an-edge-in-business",
+                "text": "You need to be creative to gain an edge in business."
+            },
+            {
+                "code": "edge_example_if-you-don-t-keep-training-you-might-lose-your-edge",
+                "text": "If you don't keep training, you might lose your edge."
+            },
+            {
+                "code": "edge_example_i-cleaned-around-the-edge-of-the-bed",
+                "text": "I cleaned around the edge of the bed."
+            },
+            {
+                "code": "edge_example_i-set-the-book-at-the-edge-of-the-table",
+                "text": "I set the book at the edge of the table."
+            },
+            {
+                "code": "edge_example_the-rock-rolled-over-the-edge-of-the-cliff",
+                "text": "The rock rolled over the edge of the cliff."
+            },
+            {
+                "code": "edge_example_her-creativity-gave-her-an-edge-over-other-students",
+                "text": "Her creativity gave her an edge over other students."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to make small movements",
+        "examples": [
+            {
+                "code": "edge_example_she-edged-carefully-away-from-the-bear",
+                "text": "She edged carefully away from the bear."
+            },
+            {
+                "code": "edge_example_he-edged-forward-on-the-branch-to-reach-the-apple",
+                "text": "He edged forward on the branch to reach the apple."
+            },
+            {
+                "code": "edge_example_she-edged-backward-along-the-ledge",
+                "text": "She edged backward along the ledge."
+            },
+            {
+                "code": "edge_example_she-edged-away-from-the-cliff",
+                "text": "She edged away from the cliff."
+            },
+            {
+                "code": "edge_example_the-fox-edged-toward-the-bird-and-caught-it",
+                "text": "The fox edged toward the bird and caught it."
+            },
+            {
+                "code": "edge_example_he-edged-ahead-of-his-opponent-to-win-the-race",
+                "text": "He edged ahead of his opponent to win the race."
+            }
+        ]
+    }
+]

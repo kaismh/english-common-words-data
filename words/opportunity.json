@@ -1,0 +1,76 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a chance",
+        "examples": [
+            {
+                "code": "opportunity_example_the-new-governor-is-trying-to-create-opportunities-for-unemployed-people",
+                "text": "The new governor is trying to create opportunities for unemployed people."
+            },
+            {
+                "code": "opportunity_example_you-should-seize-this-opportunity",
+                "text": "You should seize this opportunity."
+            },
+            {
+                "code": "opportunity_example_don-t-pass-up-the-opportunity-to-travel-overseas",
+                "text": "Don't pass up the opportunity to travel overseas."
+            },
+            {
+                "code": "opportunity_example_i-missed-the-opportunity-of-a-lifetime",
+                "text": "I missed the opportunity of a lifetime."
+            },
+            {
+                "code": "opportunity_example_the-opportunity-presented-itself",
+                "text": "The opportunity presented itself."
+            },
+            {
+                "code": "opportunity_example_he-gave-me-the-opportunity-to-go-to-college",
+                "text": "He gave me the opportunity to go to college."
+            },
+            {
+                "code": "opportunity_example_this-new-job-presented-an-opportunity-for-me",
+                "text": "This new job presented an opportunity for me."
+            },
+            {
+                "code": "opportunity_example_i-saw-an-opportunity-there",
+                "text": "I saw an opportunity there."
+            },
+            {
+                "code": "opportunity_example_i-got-an-opportunity-to-go-back-to-school",
+                "text": "I got an opportunity to go back to school."
+            },
+            {
+                "code": "opportunity_example_an-opportunity-exists-there",
+                "text": "An opportunity exists there."
+            },
+            {
+                "code": "opportunity_example_this-is-a-good-opportunity-for-you",
+                "text": "This is a good opportunity for you."
+            },
+            {
+                "code": "opportunity_example_we-stopped-for-a-photo-opportunity",
+                "text": "We stopped for a photo opportunity."
+            },
+            {
+                "code": "opportunity_example_we-want-equal-opportunities-for-workers",
+                "text": "We want equal opportunities for workers."
+            },
+            {
+                "code": "opportunity_example_we-have-some-new-opportunities-to-research",
+                "text": "We have some new opportunities to research."
+            },
+            {
+                "code": "opportunity_example_i-regret-all-of-those-lost-opportunities",
+                "text": "I regret all of those lost opportunities."
+            },
+            {
+                "code": "opportunity_example_we-have-a-growth-opportunity-here",
+                "text": "We have a growth opportunity here."
+            },
+            {
+                "code": "opportunity_example_this-is-a-great-opportunity-for-you",
+                "text": "This is a great opportunity for you."
+            }
+        ]
+    }
+]

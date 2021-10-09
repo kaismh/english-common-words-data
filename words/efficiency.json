@@ -1,0 +1,52 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the ability to do something without wasting time, energy or money",
+        "examples": [
+            {
+                "code": "efficiency_example_this-arrangement-allows-us-to-work-at-peak-efficiency",
+                "text": "This arrangement allows us to work at peak efficiency."
+            },
+            {
+                "code": "efficiency_example_the-overall-efficiency-of-the-workers-is-high",
+                "text": "The overall efficiency of the workers is high."
+            },
+            {
+                "code": "efficiency_example_the-business-loses-money-because-of-low-efficiency",
+                "text": "The business loses money because of low efficiency."
+            },
+            {
+                "code": "efficiency_example_after-a-few-tries-the-workers-could-complete-the-task-with-increased-efficiency",
+                "text": "After a few tries, the workers could complete the task with increased efficiency."
+            },
+            {
+                "code": "efficiency_example_the-cost-efficiency-of-this-project-is-important",
+                "text": "The cost efficiency of this project is important."
+            },
+            {
+                "code": "efficiency_example_we-have-to-work-hard-to-achieve-maximum-efficiency",
+                "text": "We have to work hard to achieve maximum efficiency."
+            },
+            {
+                "code": "efficiency_example_the-new-machines-increased-efficiency-in-the-factory",
+                "text": "The new machines increased efficiency in the factory."
+            },
+            {
+                "code": "efficiency_example_the-broken-machine-reduced-efficiency",
+                "text": "The broken machine reduced efficiency."
+            },
+            {
+                "code": "efficiency_example_the-managers-want-to-measure-the-efficiency-in-the-factory",
+                "text": "The managers want to measure the efficiency in the factory."
+            },
+            {
+                "code": "efficiency_example_these-efficiency-standards-need-to-be-maintained",
+                "text": "These efficiency standards need to be maintained."
+            },
+            {
+                "code": "efficiency_example_the-project-was-completed-with-great-efficiency",
+                "text": "The project was completed with great efficiency."
+            }
+        ]
+    }
+]

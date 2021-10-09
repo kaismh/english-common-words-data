@@ -1,0 +1,80 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "extremely good",
+        "examples": [
+            {
+                "code": "excellent_example_his-work-is-excellent",
+                "text": "His work is excellent."
+            },
+            {
+                "code": "excellent_example_this-program-is-considered-excellent",
+                "text": "This program is considered excellent."
+            },
+            {
+                "code": "excellent_example_her-art-is-truly-excellent",
+                "text": "Her art is truly excellent."
+            },
+            {
+                "code": "excellent_example_the-service-here-is-generally-excellent",
+                "text": "The service here is generally excellent."
+            },
+            {
+                "code": "excellent_example_he-is-excellent-at-solving-difficult-math-problems",
+                "text": "He is excellent at solving difficult math problems."
+            },
+            {
+                "code": "excellent_example_this-example-would-be-excellent-for-your-project",
+                "text": "This example would be excellent for your project."
+            },
+            {
+                "code": "excellent_example_she-made-an-excellent-choice",
+                "text": "She made an excellent choice."
+            },
+            {
+                "code": "excellent_example_this-is-really-excellent-coffee",
+                "text": "This is really excellent coffee."
+            },
+            {
+                "code": "excellent_example_he-gave-an-excellent-speech",
+                "text": "He gave an excellent speech."
+            },
+            {
+                "code": "excellent_example_this-is-an-excellent-restaurant",
+                "text": "This is an excellent restaurant."
+            },
+            {
+                "code": "excellent_example_she-is-an-excellent-teacher",
+                "text": "She is an excellent teacher."
+            },
+            {
+                "code": "excellent_example_he-works-hard-on-maintaining-his-excellent-health",
+                "text": "He works hard on maintaining his excellent health."
+            },
+            {
+                "code": "excellent_example_she-has-written-an-excellent-article",
+                "text": "She has written an excellent article."
+            },
+            {
+                "code": "excellent_example_he-has-an-excellent-memory",
+                "text": "He has an excellent memory."
+            },
+            {
+                "code": "excellent_example_we-are-making-excellent-progress-on-this-project",
+                "text": "We are making excellent progress on this project."
+            },
+            {
+                "code": "excellent_example_she-gave-me-some-excellent-advice",
+                "text": "She gave me some excellent advice."
+            },
+            {
+                "code": "excellent_example_he-has-excellent-hearing-despite-his-age",
+                "text": "He has excellent hearing despite his age."
+            },
+            {
+                "code": "excellent_example_i-received-an-excellent-education-at-that-school",
+                "text": "I received an excellent education at that school."
+            }
+        ]
+    }
+]

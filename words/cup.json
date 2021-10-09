@@ -1,0 +1,82 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a container for drinking or holding liquids",
+        "examples": [
+            {
+                "code": "cup_example_my-cup-is-empty",
+                "text": "My cup is empty."
+            },
+            {
+                "code": "cup_example_please-clean-up-the-broken-cup",
+                "text": "Please clean up the broken cup."
+            },
+            {
+                "code": "cup_example_we-brought-paper-cups-to-the-picnic",
+                "text": "We brought paper cups to the picnic."
+            },
+            {
+                "code": "cup_example_i-have-my-own-coffee-cup",
+                "text": "I have my own coffee cup."
+            },
+            {
+                "code": "cup_example_a-strong-cup-of-coffee-will-wake-you-up",
+                "text": "A strong cup of coffee will wake you up."
+            },
+            {
+                "code": "cup_example_i-asked-for-a-fresh-cup",
+                "text": "I asked for a fresh cup."
+            },
+            {
+                "code": "cup_example_i-would-like-a-hot-cup-of-milk",
+                "text": "I would like a hot cup of milk."
+            },
+            {
+                "code": "cup_example_can-i-fill-your-cup",
+                "text": "Can I fill your cup?"
+            },
+            {
+                "code": "cup_example_she-drained-her-cup",
+                "text": "She drained her cup."
+            },
+            {
+                "code": "cup_example_raise-your-cup-for-a-toast",
+                "text": "Raise your cup for a toast."
+            },
+            {
+                "code": "cup_example_may-i-offer-you-a-cup-of-tea",
+                "text": "May I offer you a cup of tea?"
+            },
+            {
+                "code": "cup_example_let-s-drink-a-cup-of-coffee",
+                "text": "Let's drink a cup of coffee."
+            },
+            {
+                "code": "cup_example_the-cup-contains-water",
+                "text": "The cup contains water."
+            },
+            {
+                "code": "cup_example_my-car-has-a-cup-holder",
+                "text": "My car has a cup holder."
+            },
+            {
+                "code": "cup_example_i-need-a-cup-of-coffee",
+                "text": "I need a cup of coffee."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "make your hands into a shape of a bowl",
+        "examples": [
+            {
+                "code": "cup_example_cup-your-hands-to-take-a-drink",
+                "text": "Cup your hands to take a drink."
+            },
+            {
+                "code": "cup_example_he-cupped-his-mouth-as-he-yelled-across-the-field",
+                "text": "He cupped his mouth as he yelled across the field."
+            }
+        ]
+    }
+]

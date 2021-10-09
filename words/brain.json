@@ -1,0 +1,52 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the organ inside the head that controls the body, thoughts, and feelings; the ability to think intelligently",
+        "examples": [
+            {
+                "code": "brain_example_the-human-brain-is-very-complex",
+                "text": "The human brain is very complex."
+            },
+            {
+                "code": "brain_example_he-has-a-dominant-left-brain",
+                "text": "He has a dominant left brain."
+            },
+            {
+                "code": "brain_example_the-doctors-were-analyzing-her-brain-cells",
+                "text": "The doctors were analyzing her brain cells."
+            },
+            {
+                "code": "brain_example_the-injury-caused-brain-damage",
+                "text": "The injury caused brain damage."
+            },
+            {
+                "code": "brain_example_she-had-a-brain-injury",
+                "text": "She had a brain injury."
+            },
+            {
+                "code": "brain_example_the-doctor-is-performing-brain-surgery",
+                "text": "The doctor is performing brain surgery."
+            },
+            {
+                "code": "brain_example_he-is-a-well-known-brain-surgeon",
+                "text": "He is a well known brain surgeon."
+            },
+            {
+                "code": "brain_example_he-s-getting-a-brain-scan",
+                "text": "He's getting a brain scan."
+            },
+            {
+                "code": "brain_example_the-patient-has-no-brain-activity",
+                "text": "The patient has no brain activity."
+            },
+            {
+                "code": "brain_example_they-found-a-tumor-on-his-brain",
+                "text": "They found a tumor on his brain."
+            },
+            {
+                "code": "brain_example_there-was-severe-bleeding-in-her-brain",
+                "text": "There was severe bleeding in her brain."
+            }
+        ]
+    }
+]

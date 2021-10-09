@@ -1,0 +1,104 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a moving picture with sound that tells a story",
+        "examples": [
+            {
+                "code": "movie_example_i-saw-a-really-good-movie-last-night",
+                "text": "I saw a really good movie last night."
+            },
+            {
+                "code": "movie_example_the-movie-is-based-on-the-director-s-life",
+                "text": "The movie is based on the director's life."
+            },
+            {
+                "code": "movie_example_the-movie-starts-at-ten",
+                "text": "The movie starts at ten."
+            },
+            {
+                "code": "movie_example_i-took-her-to-a-movie",
+                "text": "I took her to a movie."
+            },
+            {
+                "code": "movie_example_the-movie-stars-al-pacino",
+                "text": "The movie stars Al Pacino."
+            },
+            {
+                "code": "movie_example_the-movie-opened-last-weekend",
+                "text": "The movie opened last weekend."
+            },
+            {
+                "code": "movie_example_the-movie-lasted-two-hours",
+                "text": "The movie lasted two hours."
+            },
+            {
+                "code": "movie_example_he-directed-several-movies",
+                "text": "He directed several movies."
+            },
+            {
+                "code": "movie_example_we-just-shot-another-movie",
+                "text": "We just shot another movie."
+            },
+            {
+                "code": "movie_example_the-movie-was-set-in-new-york",
+                "text": "The movie was set in New York."
+            },
+            {
+                "code": "movie_example_he-played-a-great-movie-character",
+                "text": "He played a great movie character."
+            },
+            {
+                "code": "movie_example_there-s-a-new-movie-theater-downtown",
+                "text": "There's a new movie theater downtown."
+            },
+            {
+                "code": "movie_example_i-bought-the-movie-soundtrack",
+                "text": "I bought the movie soundtrack."
+            },
+            {
+                "code": "movie_example_we-watched-the-movie-clip",
+                "text": "We watched the movie clip."
+            },
+            {
+                "code": "movie_example_the-movie-business-is-doing-poorly",
+                "text": "The movie business is doing poorly."
+            },
+            {
+                "code": "movie_example_i-read-the-movie-reviews",
+                "text": "I read the movie reviews."
+            },
+            {
+                "code": "movie_example_he-s-a-famous-movie-director",
+                "text": "He's a famous movie director."
+            },
+            {
+                "code": "movie_example_the-movie-version-is-better-than-the-book",
+                "text": "The movie version is better than the book."
+            },
+            {
+                "code": "movie_example_who-owns-the-movie-rights-to-her-story",
+                "text": "Who owns the movie rights to her story?"
+            },
+            {
+                "code": "movie_example_that-was-a-funny-movie",
+                "text": "That was a funny movie."
+            },
+            {
+                "code": "movie_example_i-saw-a-horror-movie-last-weekend",
+                "text": "I saw a horror movie last weekend."
+            },
+            {
+                "code": "movie_example_have-you-seen-his-new-movie",
+                "text": "Have you seen his new movie?"
+            },
+            {
+                "code": "movie_example_we-enjoy-old-movies",
+                "text": "We enjoy old movies."
+            },
+            {
+                "code": "movie_example_the-movie-is-about-canada",
+                "text": "The movie is about Canada."
+            }
+        ]
+    }
+]

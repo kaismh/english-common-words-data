@@ -1,0 +1,66 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a broken line on the surface of something; a loud noise",
+        "examples": [
+            {
+                "code": "crack_example_my-phone-has-a-large-crack",
+                "text": "My phone has a large crack."
+            },
+            {
+                "code": "crack_example_we-heard-a-loud-crack",
+                "text": "We heard a loud crack."
+            },
+            {
+                "code": "crack_example_a-crack-appeared-across-the-windshield",
+                "text": "A crack appeared across the windshield."
+            },
+            {
+                "code": "crack_example_we-need-to-seal-the-crack-in-the-window",
+                "text": "We need to seal the crack in the window."
+            },
+            {
+                "code": "crack_example_the-crack-in-the-cake-opened-up",
+                "text": "The crack in the cake opened up."
+            },
+            {
+                "code": "crack_example_did-you-hear-that-crack",
+                "text": "Did you hear that crack?"
+            },
+            {
+                "code": "crack_example_there-is-large-crack-in-the-roof",
+                "text": "There is large crack in the roof."
+            },
+            {
+                "code": "crack_example_the-vase-fell-on-the-floor-with-a-loud-crack",
+                "text": "The vase fell on the floor with a loud crack."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to break; to solve",
+        "examples": [
+            {
+                "code": "crack_example_he-used-a-hammer-to-crack-the-glass",
+                "text": "He used a hammer to crack the glass."
+            },
+            {
+                "code": "crack_example_he-cracked-the-case",
+                "text": "He cracked the case."
+            },
+            {
+                "code": "crack_example_she-is-good-at-cracking-eggs",
+                "text": "She is good at cracking eggs."
+            },
+            {
+                "code": "crack_example_he-accidentally-cracked-the-window",
+                "text": "He accidentally cracked the window."
+            },
+            {
+                "code": "crack_example_the-police-successfully-cracked-the-mystery",
+                "text": "The police successfully cracked the mystery."
+            }
+        ]
+    }
+]

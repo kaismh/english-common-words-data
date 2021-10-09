@@ -1,0 +1,56 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the act of buying something",
+        "examples": [
+            {
+                "code": "shopping_example_she-enjoys-weekend-shopping",
+                "text": "She enjoys weekend shopping."
+            },
+            {
+                "code": "shopping_example_i-do-my-weekly-shopping-on-saturday",
+                "text": "I do my weekly shopping on Saturday."
+            },
+            {
+                "code": "shopping_example_we-went-car-shopping",
+                "text": "We went car shopping."
+            },
+            {
+                "code": "shopping_example_we-do-our-shopping-during-the-weekends",
+                "text": "We do our shopping during the weekends."
+            },
+            {
+                "code": "shopping_example_i-ll-go-shopping-tomorrow",
+                "text": "I'll go shopping tomorrow."
+            },
+            {
+                "code": "shopping_example_will-you-come-shopping-with-me",
+                "text": "Will you come shopping with me?"
+            },
+            {
+                "code": "shopping_example_please-grab-a-shopping-basket",
+                "text": "Please grab a shopping basket."
+            },
+            {
+                "code": "shopping_example_i-forgot-my-shopping-list",
+                "text": "I forgot my shopping list."
+            },
+            {
+                "code": "shopping_example_they-walked-around-the-shopping-mall",
+                "text": "They walked around the shopping mall."
+            },
+            {
+                "code": "shopping_example_she-went-on-a-shopping-spree",
+                "text": "She went on a shopping spree."
+            },
+            {
+                "code": "shopping_example_she-has-poor-shopping-habits",
+                "text": "She has poor shopping habits."
+            },
+            {
+                "code": "shopping_example_that-was-quite-a-shopping-experience",
+                "text": "That was quite a shopping experience."
+            }
+        ]
+    }
+]

@@ -1,0 +1,36 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "related",
+        "examples": [
+            {
+                "code": "relevant_example_this-document-is-relevant-to-the-report",
+                "text": "This document is relevant to the report."
+            },
+            {
+                "code": "relevant_example_that-isn-t-a-relevant-issue",
+                "text": "That isn't a relevant issue."
+            },
+            {
+                "code": "relevant_example_he-has-no-relevant-experience",
+                "text": "He has no relevant experience."
+            },
+            {
+                "code": "relevant_example_his-statements-are-extremely-relevant-to-the-case",
+                "text": "His statements are extremely relevant to the case."
+            },
+            {
+                "code": "relevant_example_his-research-is-no-longer-relevant-anymore",
+                "text": "His research is no longer relevant anymore."
+            },
+            {
+                "code": "relevant_example_his-work-is-clearly-relevant-to-the-project",
+                "text": "His work is clearly relevant to the project."
+            },
+            {
+                "code": "relevant_example_i-don-t-think-that-is-relevant-to-the-situation",
+                "text": "I don't think that is relevant to the situation."
+            }
+        ]
+    }
+]

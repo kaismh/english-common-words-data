@@ -1,0 +1,40 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "near someone's home; having to do with the area where someone lives; one specific part of the body",
+        "examples": [
+            {
+                "code": "local_example_she-received-local-anesthesia-during-her-surgery",
+                "text": "She received local anesthesia during her surgery."
+            },
+            {
+                "code": "local_example_his-whole-family-lives-in-the-local-area",
+                "text": "His whole family lives in the local area."
+            },
+            {
+                "code": "local_example_we-should-support-our-local-businesses",
+                "text": "We should support our local businesses."
+            },
+            {
+                "code": "local_example_local-calls-are-free",
+                "text": "Local calls are free."
+            },
+            {
+                "code": "local_example_the-war-veteran-is-a-local-celebrity",
+                "text": "The war veteran is a local celebrity."
+            },
+            {
+                "code": "local_example_we-live-close-to-the-local-college",
+                "text": "We live close to the local college."
+            },
+            {
+                "code": "local_example_we-subscribe-to-the-local-newspaper",
+                "text": "We subscribe to the local newspaper."
+            },
+            {
+                "code": "local_example_local-time-is-three-hours-ahead-of-hawaii",
+                "text": "Local time is three hours ahead of Hawaii."
+            }
+        ]
+    }
+]

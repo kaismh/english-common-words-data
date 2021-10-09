@@ -1,0 +1,62 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "coming or happening after the usual, expected or desired time",
+        "examples": [
+            {
+                "code": "late_example_it-is-quite-late",
+                "text": "It is quite late."
+            },
+            {
+                "code": "late_example_it-is-getting-too-late-to-do-more-work",
+                "text": "It is getting too late to do more work."
+            },
+            {
+                "code": "late_example_she-makes-everyone-late-to-dinner",
+                "text": "She makes everyone late to dinner."
+            },
+            {
+                "code": "late_example_he-is-always-extremely-late-to-work",
+                "text": "He is always extremely late to work."
+            },
+            {
+                "code": "late_example_it-is-too-late-to-do-anything",
+                "text": "It is too late to do anything."
+            },
+            {
+                "code": "late_example_she-was-a-little-late-as-usual",
+                "text": "She was a little late as usual."
+            },
+            {
+                "code": "late_example_she-was-late-for-work",
+                "text": "She was late for work."
+            },
+            {
+                "code": "late_example_he-took-up-golf-late-in-life",
+                "text": "He took up golf late in life."
+            },
+            {
+                "code": "late_example_it-was-late-into-the-night",
+                "text": "It was late into the night."
+            },
+            {
+                "code": "late_example_he-was-three-weeks-late-with-his-rent",
+                "text": "He was three weeks late with his rent."
+            }
+        ]
+    },
+    {
+        "type": "(adv)",
+        "mean": "after the usual, expected or desired time",
+        "examples": [
+            {
+                "code": "late_example_they-are-arriving-late",
+                "text": "They are arriving late."
+            },
+            {
+                "code": "late_example_she-woke-up-late",
+                "text": "She woke up late."
+            }
+        ]
+    }
+]

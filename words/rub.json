@@ -1,0 +1,54 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to press two things together and move them back and forth",
+        "examples": [
+            {
+                "code": "rub_example_he-rubbed-his-eye",
+                "text": "He rubbed his eye."
+            },
+            {
+                "code": "rub_example_she-rubbed-the-dirt-off-her-clothes",
+                "text": "She rubbed the dirt off her clothes."
+            },
+            {
+                "code": "rub_example_he-rubbed-the-sticks-together-to-make-a-fire",
+                "text": "He rubbed the sticks together to make a fire."
+            },
+            {
+                "code": "rub_example_she-gently-rubbed-his-back",
+                "text": "She gently rubbed his back."
+            },
+            {
+                "code": "rub_example_i-rubbed-my-glasses-with-a-handkerchief",
+                "text": "I rubbed my glasses with a handkerchief."
+            },
+            {
+                "code": "rub_example_i-rubbed-in-the-cream",
+                "text": "I rubbed in the cream."
+            },
+            {
+                "code": "rub_example_i-rubbed-the-sunscreen-onto-her-back",
+                "text": "I rubbed the sunscreen onto her back."
+            },
+            {
+                "code": "rub_example_something-rubbed-against-my-leg",
+                "text": "Something rubbed against my leg."
+            }
+        ]
+    },
+    {
+        "type": "(n)",
+        "mean": "an act of pressing two things together and moving them back and forth",
+        "examples": [
+            {
+                "code": "rub_example_i-love-back-rubs",
+                "text": "I love back rubs."
+            },
+            {
+                "code": "rub_example_i-m-using-a-new-spice-rub-on-my-pork-ribs",
+                "text": "I'm using a new spice rub on my pork ribs."
+            }
+        ]
+    }
+]

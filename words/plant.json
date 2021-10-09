@@ -1,0 +1,118 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to put seeds or a plant in the ground to grow; to put something firmly into a place or position",
+        "examples": [
+            {
+                "code": "plant_example_he-planted-flowers-along-the-front-of-the-house",
+                "text": "He planted flowers along the front of the house."
+            },
+            {
+                "code": "plant_example_the-farmer-planted-a-field-of-corn",
+                "text": "The farmer planted a field of corn."
+            },
+            {
+                "code": "plant_example_she-planted-vegetables-in-spring",
+                "text": "She planted vegetables in spring."
+            },
+            {
+                "code": "plant_example_i-planted-a-kiss-on-his-cheek",
+                "text": "I planted a kiss on his cheek."
+            },
+            {
+                "code": "plant_example_the-enemy-planted-explosives-along-the-border",
+                "text": "The enemy planted explosives along the border."
+            },
+            {
+                "code": "plant_example_we-carefully-planted-the-delicate-bulbs-in-the-soil",
+                "text": "We carefully planted the delicate bulbs in the soil."
+            },
+            {
+                "code": "plant_example_she-firmly-planted-her-feet-on-the-ground",
+                "text": "She firmly planted her feet on the ground."
+            },
+            {
+                "code": "plant_example_we-planted-trees-in-the-backyard",
+                "text": "We planted trees in the backyard."
+            },
+            {
+                "code": "plant_example_she-planted-a-tree-on-the-edge-of-her-property",
+                "text": "She planted a tree on the edge of her property."
+            },
+            {
+                "code": "plant_example_the-garden-was-planted-with-many-different-kinds-of-flowers",
+                "text": "The garden was planted with many different kinds of flowers."
+            }
+        ]
+    },
+    {
+        "type": "(n)",
+        "mean": "a living thing with a stem and leaves that grows in the ground; a factory or building where something is made",
+        "examples": [
+            {
+                "code": "plant_example_she-grows-plants",
+                "text": "She grows plants."
+            },
+            {
+                "code": "plant_example_don-t-forget-to-water-the-plants",
+                "text": "Don't forget to water the plants."
+            },
+            {
+                "code": "plant_example_my-jasmine-plant-finally-flowered",
+                "text": "My jasmine plant finally flowered."
+            },
+            {
+                "code": "plant_example_my-lavender-plant-died",
+                "text": "My lavender plant died."
+            },
+            {
+                "code": "plant_example_the-factory-plant-produces-shoes",
+                "text": "The factory plant produces shoes."
+            },
+            {
+                "code": "plant_example_she-runs-a-chemical-plant",
+                "text": "She runs a chemical plant."
+            },
+            {
+                "code": "plant_example_they-built-an-industrial-plant-in-the-neighborhood",
+                "text": "They built an industrial plant in the neighborhood."
+            },
+            {
+                "code": "plant_example_we-are-observing-plant-life",
+                "text": "We are observing plant life."
+            },
+            {
+                "code": "plant_example_there-are-many-different-plant-species",
+                "text": "There are many different plant species."
+            },
+            {
+                "code": "plant_example_we-are-analyzing-the-plant-matter",
+                "text": "We are analyzing the plant matter."
+            },
+            {
+                "code": "plant_example_we-need-more-plant-food",
+                "text": "We need more plant food."
+            },
+            {
+                "code": "plant_example_our-garden-has-many-tropical-plants",
+                "text": "Our garden has many tropical plants."
+            },
+            {
+                "code": "plant_example_i-bought-her-a-house-plant",
+                "text": "I bought her a house plant."
+            },
+            {
+                "code": "plant_example_watch-out-for-poisonous-plants",
+                "text": "Watch out for poisonous plants."
+            },
+            {
+                "code": "plant_example_we-live-close-to-a-nuclear-plant",
+                "text": "We live close to a nuclear plant."
+            },
+            {
+                "code": "plant_example_the-auto-plant-produces-too-much-pollution",
+                "text": "The auto plant produces too much pollution."
+            }
+        ]
+    }
+]

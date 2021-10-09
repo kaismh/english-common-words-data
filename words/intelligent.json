@@ -1,0 +1,32 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "having the ability to quickly learn and understand things",
+        "examples": [
+            {
+                "code": "intelligent_example_he-is-very-intelligent",
+                "text": "He is very intelligent."
+            },
+            {
+                "code": "intelligent_example_she-is-a-highly-intelligent-woman",
+                "text": "She is a highly intelligent woman."
+            },
+            {
+                "code": "intelligent_example_the-boy-is-reasonably-intelligent",
+                "text": "The boy is reasonably intelligent."
+            },
+            {
+                "code": "intelligent_example_you-are-an-intelligent-child",
+                "text": "You are an intelligent child."
+            },
+            {
+                "code": "intelligent_example_i-had-a-very-intelligent-conversation-with-her",
+                "text": "I had a very intelligent conversation with her."
+            },
+            {
+                "code": "intelligent_example_you-made-an-intelligent-decision",
+                "text": "You made an intelligent decision."
+            }
+        ]
+    }
+]

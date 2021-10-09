@@ -1,0 +1,32 @@
+[
+    {
+        "type": "(n)",
+        "mean": "two pieces of bread with something between them",
+        "examples": [
+            {
+                "code": "sandwich_example_stephanie-would-like-a-ham-sandwich",
+                "text": "Stephanie would like a ham sandwich."
+            },
+            {
+                "code": "sandwich_example_i-had-a-toasted-sandwich-for-lunch",
+                "text": "I had a toasted sandwich for lunch."
+            },
+            {
+                "code": "sandwich_example_he-made-two-turkey-sandwiches",
+                "text": "He made two turkey sandwiches."
+            },
+            {
+                "code": "sandwich_example_let-s-go-to-the-sandwich-shop",
+                "text": "Let's go to the sandwich shop."
+            },
+            {
+                "code": "sandwich_example_i-packed-it-in-a-sandwich-bag",
+                "text": "I packed it in a sandwich bag."
+            },
+            {
+                "code": "sandwich_example_what-would-you-like-in-your-sandwich",
+                "text": "What would you like in your sandwich?"
+            }
+        ]
+    }
+]

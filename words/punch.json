@@ -1,0 +1,62 @@
+[
+    {
+        "type": "(v)",
+        "mean": "hit with a closed fist",
+        "examples": [
+            {
+                "code": "punch_example_he-punched-a-hole-in-the-wall",
+                "text": "He punched a hole in the wall."
+            },
+            {
+                "code": "punch_example_he-punched-him-in-the-face",
+                "text": "He punched him in the face."
+            },
+            {
+                "code": "punch_example_he-punched-the-wall-because-he-was-angry",
+                "text": "He punched the wall because he was angry."
+            },
+            {
+                "code": "punch_example_she-punched-her-attacker-repeatedly",
+                "text": "She punched her attacker repeatedly."
+            },
+            {
+                "code": "punch_example_he-lightly-punched-the-pillow",
+                "text": "He lightly punched the pillow."
+            },
+            {
+                "code": "punch_example_he-punched-him-in-the-face",
+                "text": "He punched him in the face."
+            }
+        ]
+    },
+    {
+        "type": "(n)",
+        "mean": "a hit with a closed fist; a type of drink",
+        "examples": [
+            {
+                "code": "punch_example_the-boxer-threw-many-punches",
+                "text": "The boxer threw many punches."
+            },
+            {
+                "code": "punch_example_i-got-a-punch-in-the-face",
+                "text": "I got a punch in the face."
+            },
+            {
+                "code": "punch_example_the-boxer-has-a-powerful-punch",
+                "text": "The boxer has a powerful punch."
+            },
+            {
+                "code": "punch_example_i-gave-him-a-good-punch-in-the-face",
+                "text": "I gave him a good punch in the face."
+            },
+            {
+                "code": "punch_example_i-gave-him-a-punch-in-the-nose",
+                "text": "I gave him a punch in the nose."
+            },
+            {
+                "code": "punch_example_the-boxer-gave-several-punches-to-the-stomach",
+                "text": "The boxer gave several punches to the stomach."
+            }
+        ]
+    }
+]

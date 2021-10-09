@@ -1,0 +1,84 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a discussion to reach an agreement between people",
+        "examples": [
+            {
+                "code": "negotiation_example_they-are-starting-negotiations-soon",
+                "text": "They are starting negotiations soon."
+            },
+            {
+                "code": "negotiation_example_we-are-having-negotiations-with-them",
+                "text": "We are having negotiations with them."
+            },
+            {
+                "code": "negotiation_example_we-entered-into-negotiations",
+                "text": "We entered into negotiations."
+            },
+            {
+                "code": "negotiation_example_their-negotiations-broke-down",
+                "text": "Their negotiations broke down."
+            },
+            {
+                "code": "negotiation_example_there-is-room-for-negotiation",
+                "text": "There is room for negotiation."
+            },
+            {
+                "code": "negotiation_example_he-has-great-negotiation-skills",
+                "text": "He has great negotiation skills."
+            },
+            {
+                "code": "negotiation_example_the-negotiation-process-is-time-consuming",
+                "text": "The negotiation process is time-consuming."
+            },
+            {
+                "code": "negotiation_example_they-went-back-to-the-negotiation-table",
+                "text": "They went back to the negotiation table."
+            },
+            {
+                "code": "negotiation_example_this-is-an-ongoing-negotiation",
+                "text": "This is an ongoing negotiation."
+            },
+            {
+                "code": "negotiation_example_we-had-secret-negotiations",
+                "text": "We had secret negotiations."
+            },
+            {
+                "code": "negotiation_example_they-are-starting-political-negotiations",
+                "text": "They are starting political negotiations."
+            },
+            {
+                "code": "negotiation_example_he-is-engaged-in-direct-negotiations",
+                "text": "He is engaged in direct negotiations."
+            },
+            {
+                "code": "negotiation_example_they-arrived-at-a-decision-through-negotiation",
+                "text": "They arrived at a decision through negotiation."
+            },
+            {
+                "code": "negotiation_example_the-price-is-under-negotiation",
+                "text": "The price is under negotiation."
+            },
+            {
+                "code": "negotiation_example_we-are-in-negotiations-with-them",
+                "text": "We are in negotiations with them."
+            },
+            {
+                "code": "negotiation_example_there-are-negotiations-going-on-between-them",
+                "text": "There are negotiations going on between them."
+            },
+            {
+                "code": "negotiation_example_our-negotiations-with-them-were-fruitful",
+                "text": "Our negotiations with them were fruitful."
+            },
+            {
+                "code": "negotiation_example_there-were-negotiations-for-a-week",
+                "text": "There were negotiations for a week."
+            },
+            {
+                "code": "negotiation_example_we-held-negotiations-over-the-issue",
+                "text": "We held negotiations over the issue."
+            }
+        ]
+    }
+]

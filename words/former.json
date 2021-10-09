@@ -1,0 +1,52 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "previous or prior; in the past",
+        "examples": [
+            {
+                "code": "former_example_they-are-trying-to-improve-relations-with-their-former-ally",
+                "text": "They are trying to improve relations with their former ally."
+            },
+            {
+                "code": "former_example_he-met-with-a-former-ambassador",
+                "text": "He met with a former ambassador."
+            },
+            {
+                "code": "former_example_she-s-still-waiting-for-pay-from-her-former-employer",
+                "text": "She's still waiting for pay from her former employer."
+            },
+            {
+                "code": "former_example_he-still-receives-presents-from-his-former-students",
+                "text": "He still receives presents from his former students."
+            },
+            {
+                "code": "former_example_he-ran-into-a-former-girlfriend",
+                "text": "He ran into a former girlfriend."
+            },
+            {
+                "code": "former_example_she-had-to-list-all-former-homes-on-the-application",
+                "text": "She had to list all former homes on the application."
+            },
+            {
+                "code": "former_example_the-former-executives-of-the-company-still-have-some-power",
+                "text": "The former executives of the company still have some power."
+            },
+            {
+                "code": "former_example_she-spoke-highly-of-her-former-teacher",
+                "text": "She spoke highly of her former teacher."
+            },
+            {
+                "code": "former_example_it-isn-t-always-easy-for-a-former-felon-to-find-a-job",
+                "text": "It isn't always easy for a former felon to find a job."
+            },
+            {
+                "code": "former_example_she-tried-to-find-the-former-occupants-of-her-house",
+                "text": "She tried to find the former occupants of her house."
+            },
+            {
+                "code": "former_example_they-want-to-restore-the-hotel-to-its-former-greatness",
+                "text": "They want to restore the hotel to its former greatness."
+            }
+        ]
+    }
+]

@@ -1,0 +1,92 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the process of learning, teaching, and gaining knowledge",
+        "examples": [
+            {
+                "code": "education_example_he-received-a-quality-education-before-moving-to-the-united-states",
+                "text": "He received a quality education before moving to the United States."
+            },
+            {
+                "code": "education_example_she-speaks-english-well-without-formal-education",
+                "text": "She speaks English well without formal education."
+            },
+            {
+                "code": "education_example_he-completed-his-elementary-education-in-japan",
+                "text": "He completed his elementary education in Japan."
+            },
+            {
+                "code": "education_example_she-works-in-a-continuing-education-program",
+                "text": "She works in a continuing education program."
+            },
+            {
+                "code": "education_example_this-school-requires-a-lot-of-general-education-classes",
+                "text": "This school requires a lot of general education classes."
+            },
+            {
+                "code": "education_example_i-completed-my-college-education-five-years-ago",
+                "text": "I completed my college education five years ago."
+            },
+            {
+                "code": "education_example_you-might-need-vocational-education-for-this-job",
+                "text": "You might need vocational education for this job."
+            },
+            {
+                "code": "education_example_some-parents-prefer-public-education",
+                "text": "Some parents prefer public education."
+            },
+            {
+                "code": "education_example_it-is-important-to-get-an-education",
+                "text": "It is important to get an education."
+            },
+            {
+                "code": "education_example_she-is-pursuing-a-college-education",
+                "text": "She is pursuing a college education."
+            },
+            {
+                "code": "education_example_he-would-like-to-continue-his-education",
+                "text": "He would like to continue his education."
+            },
+            {
+                "code": "education_example_many-people-lack-the-education-needed-to-be-a-doctor",
+                "text": "Many people lack the education needed to be a doctor."
+            },
+            {
+                "code": "education_example_the-government-wants-to-improve-public-education",
+                "text": "The government wants to improve public education."
+            },
+            {
+                "code": "education_example_she-saved-money-to-finance-her-education",
+                "text": "She saved money to finance her education."
+            },
+            {
+                "code": "education_example_the-government-wants-to-increase-the-education-budget",
+                "text": "The government wants to increase the education budget."
+            },
+            {
+                "code": "education_example_they-argued-for-education-reform",
+                "text": "They argued for education reform."
+            },
+            {
+                "code": "education_example_many-students-enrolled-in-the-teacher-education-course",
+                "text": "Many students enrolled in the teacher education course."
+            },
+            {
+                "code": "education_example_education-officials-asked-for-more-money",
+                "text": "Education officials asked for more money."
+            },
+            {
+                "code": "education_example_the-library-started-a-new-education-project",
+                "text": "The library started a new education project."
+            },
+            {
+                "code": "education_example_there-are-new-education-requirements-for-graduation",
+                "text": "There are new education requirements for graduation."
+            },
+            {
+                "code": "education_example_he-works-in-the-higher-education-system",
+                "text": "He works in the higher education system."
+            }
+        ]
+    }
+]

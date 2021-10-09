@@ -1,0 +1,48 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a place where things are put away until they are needed",
+        "examples": [
+            {
+                "code": "storage_example_he-had-a-safe-storage-for-his-hunting-rifle",
+                "text": "He had a safe storage for his hunting rifle."
+            },
+            {
+                "code": "storage_example_we-need-long-term-storage-for-our-furniture",
+                "text": "We need long-term storage for our furniture."
+            },
+            {
+                "code": "storage_example_they-built-a-food-storage-in-case-of-emergency",
+                "text": "They built a food storage in case of emergency."
+            },
+            {
+                "code": "storage_example_we-need-to-take-our-things-out-of-storage",
+                "text": "We need to take our things out of storage."
+            },
+            {
+                "code": "storage_example_these-small-rooms-are-used-for-storage",
+                "text": "These small rooms are used for storage."
+            },
+            {
+                "code": "storage_example_she-puts-blueberries-in-cold-storage-for-months",
+                "text": "She puts blueberries in cold storage for months."
+            },
+            {
+                "code": "storage_example_my-husband-is-building-a-storage-room",
+                "text": "My husband is building a storage room."
+            },
+            {
+                "code": "storage_example_we-need-a-bigger-storage-area",
+                "text": "We need a bigger storage area."
+            },
+            {
+                "code": "storage_example_she-bought-some-storage-containers-for-cereal",
+                "text": "She bought some storage containers for cereal."
+            },
+            {
+                "code": "storage_example_all-of-our-furniture-is-currently-in-storage",
+                "text": "All of our furniture is currently in storage."
+            }
+        ]
+    }
+]

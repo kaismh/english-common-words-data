@@ -1,0 +1,104 @@
+[
+    {
+        "type": "(n)",
+        "mean": "harm or damage done to a person or animal",
+        "examples": [
+            {
+                "code": "injury_example_he-suffered-a-bad-injury-in-the-accident",
+                "text": "He suffered a bad injury in the accident."
+            },
+            {
+                "code": "injury_example_she-sustained-multiple-injuries-when-she-fell-off-the-roof",
+                "text": "She sustained multiple injuries when she fell off the roof."
+            },
+            {
+                "code": "injury_example_he-suffered-a-facial-injury-while-skiing",
+                "text": "He suffered a facial injury while skiing."
+            },
+            {
+                "code": "injury_example_that-baseball-player-suffered-a-career-ending-injury",
+                "text": "That baseball player suffered a career-ending injury."
+            },
+            {
+                "code": "injury_example_my-knee-hurts-from-a-sports-injury",
+                "text": "My knee hurts from a sports injury."
+            },
+            {
+                "code": "injury_example_the-collision-caused-permanent-injury",
+                "text": "The collision caused permanent injury."
+            },
+            {
+                "code": "injury_example_she-suffered-a-fatal-injury-in-the-car-crash",
+                "text": "She suffered a fatal injury in the car crash."
+            },
+            {
+                "code": "injury_example_he-suffered-a-head-injury",
+                "text": "He suffered a head injury."
+            },
+            {
+                "code": "injury_example_her-reckless-driving-caused-serious-injury-to-the-passenger",
+                "text": "Her reckless driving caused serious injury to the passenger."
+            },
+            {
+                "code": "injury_example_do-not-risk-injury-by-climbing-that-tall-tree",
+                "text": "Do not risk injury by climbing that tall tree."
+            },
+            {
+                "code": "injury_example_he-was-accused-of-faking-an-injury",
+                "text": "He was accused of faking an injury."
+            },
+            {
+                "code": "injury_example_wearing-a-bicycle-helmet-can-help-avoid-injury",
+                "text": "Wearing a bicycle helmet can help avoid injury."
+            },
+            {
+                "code": "injury_example_sadly-his-father-died-from-multiple-injuries",
+                "text": "Sadly his father died from multiple injuries."
+            },
+            {
+                "code": "injury_example_the-injury-ended-his-football-career",
+                "text": "The injury ended his football career."
+            },
+            {
+                "code": "injury_example_her-injuries-are-healing-well",
+                "text": "Her injuries are healing well."
+            },
+            {
+                "code": "injury_example_how-did-the-injury-occur",
+                "text": "How did the injury occur?"
+            },
+            {
+                "code": "injury_example_the-team-suffered-lots-of-injury-problems",
+                "text": "The team suffered lots of injury problems."
+            },
+            {
+                "code": "injury_example_she-taught-a-class-on-injury-prevention",
+                "text": "She taught a class on injury prevention."
+            },
+            {
+                "code": "injury_example_the-doctor-asked-for-his-injury-history",
+                "text": "The doctor asked for his injury history."
+            },
+            {
+                "code": "injury_example_what-is-the-injury-risk-associated-with-this-sport",
+                "text": "What is the injury risk associated with this sport?"
+            },
+            {
+                "code": "injury_example_he-filed-an-injury-claim",
+                "text": "He filed an injury claim."
+            },
+            {
+                "code": "injury_example_he-continued-to-play-through-his-knee-injury",
+                "text": "He continued to play through his knee injury."
+            },
+            {
+                "code": "injury_example_john-suffered-injuries-from-the-fire",
+                "text": "John suffered injuries from the fire."
+            },
+            {
+                "code": "injury_example_she-suffered-an-injury-to-her-spinal-cord",
+                "text": "She suffered an injury to her spinal cord."
+            }
+        ]
+    }
+]

@@ -1,0 +1,98 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to show how you feel or think by communicating through actions or words",
+        "examples": [
+            {
+                "code": "express_example_she-expresses-herself-well",
+                "text": "She expresses herself well."
+            },
+            {
+                "code": "express_example_he-strongly-expressed-his-opinion",
+                "text": "He strongly expressed his opinion."
+            },
+            {
+                "code": "express_example_my-teacher-repeatedly-expressed-her-disappointment-in-our-test-scores",
+                "text": "My teacher repeatedly expressed her disappointment in our test scores."
+            },
+            {
+                "code": "express_example_he-doesn-t-publicly-express-his-emotions",
+                "text": "He doesn't publicly express his emotions."
+            },
+            {
+                "code": "express_example_she-privately-expressed-her-anger-about-the-situation",
+                "text": "She privately expressed her anger about the situation."
+            },
+            {
+                "code": "express_example_she-simply-expressed-her-emotions-to-her-boyfriend-and-scared-him-away",
+                "text": "She simply expressed her emotions to her boyfriend and scared him away."
+            },
+            {
+                "code": "express_example_he-is-able-to-express-himself-well",
+                "text": "He is able to express himself well."
+            },
+            {
+                "code": "express_example_she-feels-able-to-express-herself-freely",
+                "text": "She feels able to express herself freely."
+            },
+            {
+                "code": "express_example_he-expressed-a-lot-of-admiration-for-his-teacher",
+                "text": "He expressed a lot of admiration for his teacher."
+            },
+            {
+                "code": "express_example_she-expressed-distress-over-her-failure",
+                "text": "She expressed distress over her failure."
+            },
+            {
+                "code": "express_example_they-expressed-shock-over-the-news",
+                "text": "They expressed shock over the news."
+            },
+            {
+                "code": "express_example_he-expressed-a-lot-of-resentment-towards-his-former-friend",
+                "text": "He expressed a lot of resentment towards his former friend."
+            },
+            {
+                "code": "express_example_she-expressed-remorse-for-her-actions",
+                "text": "She expressed remorse for her actions."
+            },
+            {
+                "code": "express_example_he-expresses-a-lot-of-enthusiasm-for-learning",
+                "text": "He expresses a lot of enthusiasm for learning."
+            },
+            {
+                "code": "express_example_she-expressed-her-wish-to-travel",
+                "text": "She expressed her wish to travel."
+            },
+            {
+                "code": "express_example_he-always-expresses-his-viewpoint-well",
+                "text": "He always expresses his viewpoint well."
+            },
+            {
+                "code": "express_example_they-expressed-suspicion-about-his-claim",
+                "text": "They expressed suspicion about his claim."
+            },
+            {
+                "code": "express_example_we-expressed-approval-of-his-actions",
+                "text": "We expressed approval of his actions."
+            },
+            {
+                "code": "express_example_they-expressed-hope-about-the-future",
+                "text": "They expressed hope about the future."
+            }
+        ]
+    },
+    {
+        "type": "(adj)",
+        "mean": "very fast",
+        "examples": [
+            {
+                "code": "express_example_we-took-the-express-lane",
+                "text": "We took the express lane."
+            },
+            {
+                "code": "express_example_she-paid-for-express-mail-so-he-would-get-it-more-quickly",
+                "text": "She paid for express mail so he would get it more quickly."
+            }
+        ]
+    }
+]

@@ -1,0 +1,94 @@
+[
+    {
+        "type": "(n)",
+        "mean": "an attempt to find something",
+        "examples": [
+            {
+                "code": "search_example_we-found-our-dog-after-a-long-search",
+                "text": "We found our dog after a long search."
+            },
+            {
+                "code": "search_example_there-has-been-a-massive-search-for-the-tornado-victims",
+                "text": "There has been a massive search for the tornado victims."
+            },
+            {
+                "code": "search_example_the-school-conducts-a-routine-search-for-drugs-in-the-students-lockers",
+                "text": "The school conducts a routine search for drugs in the students' lockers."
+            },
+            {
+                "code": "search_example_the-police-did-a-house-to-house-search-looking-for-the-escaped-prisoners",
+                "text": "The police did a house-to-house search looking for the escaped prisoners."
+            },
+            {
+                "code": "search_example_we-began-our-house-search-in-february",
+                "text": "We began our house search in February."
+            },
+            {
+                "code": "search_example_the-search-for-the-missing-travelers-was-conducted-in-poor-weather-conditions",
+                "text": "The search for the missing travelers was conducted in poor weather conditions."
+            },
+            {
+                "code": "search_example_they-continued-the-search-into-the-night",
+                "text": "They continued the search into the night."
+            },
+            {
+                "code": "search_example_the-search-was-called-off",
+                "text": "The search was called off."
+            },
+            {
+                "code": "search_example_the-search-will-resume-in-the-morning",
+                "text": "The search will resume in the morning."
+            },
+            {
+                "code": "search_example_they-narrowed-the-search-to-cover-this-area",
+                "text": "They narrowed the search to cover this area."
+            },
+            {
+                "code": "search_example_the-search-area-is-too-big",
+                "text": "The search area is too big."
+            },
+            {
+                "code": "search_example_they-sent-out-a-search-party",
+                "text": "They sent out a search party."
+            },
+            {
+                "code": "search_example_the-police-have-a-search-warrant-to-enter-the-house",
+                "text": "The police have a search warrant to enter the house."
+            },
+            {
+                "code": "search_example_we-re-in-search-of-the-perfect-home",
+                "text": "We're in search of the perfect home."
+            },
+            {
+                "code": "search_example_they-are-in-search-for-gold",
+                "text": "They are in search for gold."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to look for something",
+        "examples": [
+            {
+                "code": "search_example_they-carefully-searched-the-area-for-the-missing-child",
+                "text": "They carefully searched the area for the missing child."
+            },
+            {
+                "code": "search_example_jan-is-constantly-searching-for-her-purse",
+                "text": "Jan is constantly searching for her purse."
+            },
+            {
+                "code": "search_example_we-searched-among-the-rocks-for-any-sign-of-the-boat-wreckage",
+                "text": "We searched among the rocks for any sign of the boat wreckage."
+            },
+            {
+                "code": "search_example_they-are-still-searching-for-the-missing-girl",
+                "text": "They are still searching for the missing girl."
+            },
+            {
+                "code": "search_example_she-searched-in-her-purse-for-the-car-keys",
+                "text": "She searched in her purse for the car keys."
+            }
+        ]
+    }
+]

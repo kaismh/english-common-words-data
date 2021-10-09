@@ -1,0 +1,76 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the ability to do or say anything you want without restriction",
+        "examples": [
+            {
+                "code": "freedom_example_she-has-complete-freedom-at-home",
+                "text": "She has complete freedom at home."
+            },
+            {
+                "code": "freedom_example_students-have-considerable-freedom-to-choose-what-they-want-to-study",
+                "text": "Students have considerable freedom to choose what they want to study."
+            },
+            {
+                "code": "freedom_example_he-has-relative-freedom-to-choose-his-projects",
+                "text": "He has relative freedom to choose his projects."
+            },
+            {
+                "code": "freedom_example_they-argued-for-basic-freedom",
+                "text": "They argued for basic freedom."
+            },
+            {
+                "code": "freedom_example_individual-freedom-should-not-come-before-security",
+                "text": "Individual freedom should not come before security."
+            },
+            {
+                "code": "freedom_example_she-enjoyed-her-new-found-freedom",
+                "text": "She enjoyed her new-found freedom."
+            },
+            {
+                "code": "freedom_example_they-argued-for-academic-freedom",
+                "text": "They argued for academic freedom."
+            },
+            {
+                "code": "freedom_example_he-enjoys-the-freedom-of-no-curfew",
+                "text": "He enjoys the freedom of no curfew."
+            },
+            {
+                "code": "freedom_example_she-values-the-freedom-to-make-her-own-decisions",
+                "text": "She values the freedom to make her own decisions."
+            },
+            {
+                "code": "freedom_example_they-are-working-to-preserve-freedom-of-religion",
+                "text": "They are working to preserve freedom of religion."
+            },
+            {
+                "code": "freedom_example_he-refuses-to-give-up-his-freedom-of-speech",
+                "text": "He refuses to give up his freedom of speech."
+            },
+            {
+                "code": "freedom_example_we-have-allowed-the-students-more-freedom",
+                "text": "We have allowed the students more freedom."
+            },
+            {
+                "code": "freedom_example_the-constitution-guarantees-certain-freedoms",
+                "text": "The constitution guarantees certain freedoms."
+            },
+            {
+                "code": "freedom_example_many-freedoms-were-violated-by-the-new-laws",
+                "text": "Many freedoms were violated by the new laws."
+            },
+            {
+                "code": "freedom_example_she-enjoys-freedom-from-punishment-for-speaking-her-mind",
+                "text": "She enjoys freedom from punishment for speaking her mind."
+            },
+            {
+                "code": "freedom_example_we-argued-for-freedom-of-the-press",
+                "text": "We argued for freedom of the press."
+            },
+            {
+                "code": "freedom_example_we-are-fighting-for-freedom",
+                "text": "We are fighting for freedom."
+            }
+        ]
+    }
+]

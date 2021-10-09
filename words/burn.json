@@ -1,0 +1,70 @@
+[
+    {
+        "type": "(n)",
+        "mean": "damage or injury caused by heat or fire",
+        "examples": [
+            {
+                "code": "burn_example_she-suffered-a-horrific-burn-from-the-fire",
+                "text": "She suffered a horrific burn from the fire."
+            },
+            {
+                "code": "burn_example_it-hurts-but-it-s-only-a-minor-burn",
+                "text": "It hurts but it's only a minor burn."
+            },
+            {
+                "code": "burn_example_he-s-being-treated-for-a-first-degree-burn",
+                "text": "He's being treated for a first-degree burn."
+            },
+            {
+                "code": "burn_example_i-suffered-a-burn-from-the-campfire",
+                "text": "I suffered a burn from the campfire."
+            },
+            {
+                "code": "burn_example_the-sun-caused-this-burn-on-my-skin",
+                "text": "The sun caused this burn on my skin."
+            },
+            {
+                "code": "burn_example_the-firefighters-died-from-their-burns",
+                "text": "The firefighters died from their burns."
+            },
+            {
+                "code": "burn_example_he-has-a-burn-mark-on-his-skin",
+                "text": "He has a burn mark on his skin."
+            },
+            {
+                "code": "burn_example_she-is-a-burn-victim",
+                "text": "She is a burn victim."
+            },
+            {
+                "code": "burn_example_we-re-taking-them-to-the-burn-center",
+                "text": "We're taking them to the burn center."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to damage or injure by heat or fire; to make heat or fire",
+        "examples": [
+            {
+                "code": "burn_example_she-was-badly-burned-in-the-fire",
+                "text": "She was badly burned in the fire."
+            },
+            {
+                "code": "burn_example_the-house-was-completely-burned-down",
+                "text": "The house was completely burned down."
+            },
+            {
+                "code": "burn_example_the-building-burned-down",
+                "text": "The building burned down."
+            },
+            {
+                "code": "burn_example_the-forest-fire-is-burning-fiercely",
+                "text": "The forest fire is burning fiercely."
+            },
+            {
+                "code": "burn_example_the-sun-burns-brightly",
+                "text": "The sun burns brightly."
+            }
+        ]
+    }
+]

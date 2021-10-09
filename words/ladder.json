@@ -1,0 +1,36 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a piece of equipment used to climb up or down",
+        "examples": [
+            {
+                "code": "ladder_example_he-used-a-wooden-ladder-to-go-on-the-roof",
+                "text": "He used a wooden ladder to go on the roof."
+            },
+            {
+                "code": "ladder_example_he-went-up-the-ladder-onto-the-roof",
+                "text": "He went up the ladder onto the roof."
+            },
+            {
+                "code": "ladder_example_she-carefully-came-down-the-ladder",
+                "text": "She carefully came down the ladder."
+            },
+            {
+                "code": "ladder_example_we-placed-the-ladder-against-the-wall",
+                "text": "We placed the ladder against the wall."
+            },
+            {
+                "code": "ladder_example_he-fell-off-the-ladder",
+                "text": "He fell off the ladder."
+            },
+            {
+                "code": "ladder_example_he-left-his-paint-bucket-on-the-ladder",
+                "text": "He left his paint bucket on the ladder."
+            },
+            {
+                "code": "ladder_example_the-boy-climbed-the-ladder-to-the-attic",
+                "text": "The boy climbed the ladder to the attic."
+            }
+        ]
+    }
+]

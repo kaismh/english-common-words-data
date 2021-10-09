@@ -1,0 +1,64 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a covering for the window",
+        "examples": [
+            {
+                "code": "blind_example_these-are-beautiful-window-blinds",
+                "text": "These are beautiful window blinds."
+            },
+            {
+                "code": "blind_example_please-close-the-blinds",
+                "text": "Please close the blinds."
+            },
+            {
+                "code": "blind_example_i-could-see-something-through-the-blinds",
+                "text": "I could see something through the blinds."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to make someone or something unable to see",
+        "examples": [
+            {
+                "code": "blind_example_the-sun-nearly-blinded-me",
+                "text": "The sun nearly blinded me."
+            },
+            {
+                "code": "blind_example_she-was-momentarily-blinded-when-she-stared-at-the-sun",
+                "text": "She was momentarily blinded when she stared at the sun."
+            }
+        ]
+    },
+    {
+        "type": "(adj)",
+        "mean": "not able to see",
+        "examples": [
+            {
+                "code": "blind_example_he-is-blind",
+                "text": "He is blind."
+            },
+            {
+                "code": "blind_example_the-baby-was-born-blind",
+                "text": "The baby was born blind."
+            },
+            {
+                "code": "blind_example_the-sunlight-made-me-blind",
+                "text": "The sunlight made me blind."
+            },
+            {
+                "code": "blind_example_she-went-blind-at-an-early-age",
+                "text": "She went blind at an early age."
+            },
+            {
+                "code": "blind_example_you-are-blind-to-your-children-s-mistakes",
+                "text": "You are blind to your children's mistakes."
+            },
+            {
+                "code": "blind_example_now-he-s-completely-blind",
+                "text": "Now he's completely blind."
+            }
+        ]
+    }
+]

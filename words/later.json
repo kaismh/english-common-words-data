@@ -1,0 +1,50 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "at a future time",
+        "examples": [
+            {
+                "code": "later_example_we-rescheduled-the-meeting-for-a-later-date",
+                "text": "We rescheduled the meeting for a later date."
+            },
+            {
+                "code": "later_example_the-later-edition-of-the-software-is-better",
+                "text": "The later edition of the software is better."
+            },
+            {
+                "code": "later_example_my-grandfather-does-not-understand-the-later-generation",
+                "text": "MY grandfather does not understand the later generation."
+            }
+        ]
+    },
+    {
+        "type": "(adv)",
+        "mean": "at a future time",
+        "examples": [
+            {
+                "code": "later_example_i-will-see-you-later",
+                "text": "I will see you later."
+            },
+            {
+                "code": "later_example_let-s-talk-later",
+                "text": "Let's talk later."
+            },
+            {
+                "code": "later_example_he-came-back-later",
+                "text": "He came back later."
+            },
+            {
+                "code": "later_example_she-later-regretted-her-decision",
+                "text": "She later regretted her decision."
+            },
+            {
+                "code": "later_example_she-later-refused-to-go",
+                "text": "She later refused to go."
+            },
+            {
+                "code": "later_example_he-later-remembered-their-conversation",
+                "text": "He later remembered their conversation."
+            }
+        ]
+    }
+]

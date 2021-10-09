@@ -1,0 +1,56 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "showing a true possibility; showing things as they really are",
+        "examples": [
+            {
+                "code": "realistic_example_the-fight-in-the-movie-looks-very-realistic",
+                "text": "The fight in the movie looks very realistic."
+            },
+            {
+                "code": "realistic_example_try-to-keep-your-goals-realistic",
+                "text": "Try to keep your goals realistic."
+            },
+            {
+                "code": "realistic_example_the-situation-is-becoming-realistic",
+                "text": "The situation is becoming realistic."
+            },
+            {
+                "code": "realistic_example_how-can-we-make-the-scene-more-realistic",
+                "text": "How can we make the scene more realistic?"
+            },
+            {
+                "code": "realistic_example_do-you-have-realistic-plans",
+                "text": "Do you have realistic plans?"
+            },
+            {
+                "code": "realistic_example_we-don-t-have-any-realistic-chances-anymore",
+                "text": "We don't have any realistic chances anymore."
+            },
+            {
+                "code": "realistic_example_she-is-a-very-realistic-person",
+                "text": "She is a very realistic person."
+            },
+            {
+                "code": "realistic_example_his-goals-are-fairly-realistic",
+                "text": "His goals are fairly realistic."
+            },
+            {
+                "code": "realistic_example_she-is-realistic-enough-to-know-that-it-won-t-work",
+                "text": "She is realistic enough to know that it won't work."
+            },
+            {
+                "code": "realistic_example_the-scene-was-incredibly-realistic",
+                "text": "The scene was incredibly realistic."
+            },
+            {
+                "code": "realistic_example_you-are-not-being-realistic-about-this",
+                "text": "You are not being realistic about this."
+            },
+            {
+                "code": "realistic_example_you-are-not-being-very-realistic-in-your-goals",
+                "text": "You are not being very realistic in your goals."
+            }
+        ]
+    }
+]

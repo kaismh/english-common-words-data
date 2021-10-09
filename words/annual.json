@@ -1,0 +1,32 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "happening once a year",
+        "examples": [
+            {
+                "code": "annual_example_we-are-calculating-our-annual-budget",
+                "text": "We are calculating our annual budget."
+            },
+            {
+                "code": "annual_example_we-re-excited-for-the-annual-parade",
+                "text": "We're excited for the annual parade."
+            },
+            {
+                "code": "annual_example_the-birds-are-ready-for-their-annual-migration",
+                "text": "The birds are ready for their annual migration."
+            },
+            {
+                "code": "annual_example_they-are-trying-to-predict-the-annual-rainfall",
+                "text": "They are trying to predict the annual rainfall."
+            },
+            {
+                "code": "annual_example_i-need-to-make-an-appointment-for-my-annual-check-up",
+                "text": "I need to make an appointment for my annual check-up."
+            },
+            {
+                "code": "annual_example_what-is-your-annual-income",
+                "text": "What is your annual income?"
+            }
+        ]
+    }
+]

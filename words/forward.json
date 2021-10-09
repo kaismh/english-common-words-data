@@ -1,0 +1,80 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to send something that was received to a new person or place",
+        "examples": [
+            {
+                "code": "forward_example_i-will-forward-you-a-copy-of-the-document",
+                "text": "I will forward you a copy of the document."
+            },
+            {
+                "code": "forward_example_she-forwarded-the-e-mail-to-her-boss",
+                "text": "She forwarded the e-mail to her boss."
+            },
+            {
+                "code": "forward_example_please-forward-my-mail-to-this-address",
+                "text": "Please forward my mail to this address."
+            }
+        ]
+    },
+    {
+        "type": "(adj)",
+        "mean": "moving ahead; moving toward the front or future",
+        "examples": [
+            {
+                "code": "forward_example_i-don-t-think-we-re-making-any-forward-progress-on-this",
+                "text": "I don't think we're making any forward progress on this."
+            },
+            {
+                "code": "forward_example_the-forward-momentum-was-hard-to-stop",
+                "text": "The forward momentum was hard to stop."
+            },
+            {
+                "code": "forward_example_this-group-is-very-forward-thinking",
+                "text": "This group is very forward thinking."
+            },
+            {
+                "code": "forward_example_the-coaches-debated-if-it-was-a-forward-pass",
+                "text": "The coaches debated if it was a forward pass."
+            }
+        ]
+    },
+    {
+        "type": "(adv)",
+        "mean": "toward the front or future",
+        "examples": [
+            {
+                "code": "forward_example_the-cheetah-sprang-forward-to-catch-the-zebra",
+                "text": "The cheetah sprang forward to catch the zebra."
+            },
+            {
+                "code": "forward_example_the-baby-crawled-forward",
+                "text": "The baby crawled forward."
+            },
+            {
+                "code": "forward_example_make-sure-that-doesn-t-bend-forward",
+                "text": "Make sure that doesn't bend forward."
+            },
+            {
+                "code": "forward_example_she-reached-forward-to-grab-the-handle",
+                "text": "She reached forward to grab the handle."
+            },
+            {
+                "code": "forward_example_step-forward-if-you-want-to-continue",
+                "text": "Step forward if you want to continue."
+            },
+            {
+                "code": "forward_example_he-rushed-forward-to-save-the-baby",
+                "text": "He rushed forward to save the baby."
+            },
+            {
+                "code": "forward_example_the-water-crept-forward",
+                "text": "The water crept forward."
+            },
+            {
+                "code": "forward_example_the-group-marched-forward",
+                "text": "The group marched forward."
+            }
+        ]
+    }
+]

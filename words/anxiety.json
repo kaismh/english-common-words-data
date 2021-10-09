@@ -1,0 +1,36 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the state of feeling fear or worry",
+        "examples": [
+            {
+                "code": "anxiety_example_he-had-great-anxiety-about-starting-a-new-job",
+                "text": "He had great anxiety about starting a new job."
+            },
+            {
+                "code": "anxiety_example_she-had-growing-anxiety-about-going-to-a-new-school",
+                "text": "She had growing anxiety about going to a new school."
+            },
+            {
+                "code": "anxiety_example_the-change-increased-her-anxiety",
+                "text": "The change increased her anxiety."
+            },
+            {
+                "code": "anxiety_example_she-experiences-anxiety-over-the-smallest-things",
+                "text": "She experiences anxiety over the smallest things."
+            },
+            {
+                "code": "anxiety_example_her-parents-tried-to-ease-her-anxieties",
+                "text": "Her parents tried to ease her anxieties."
+            },
+            {
+                "code": "anxiety_example_his-eyes-showed-his-anxiety",
+                "text": "His eyes showed his anxiety."
+            },
+            {
+                "code": "anxiety_example_they-felt-anxiety-about-the-new-boss",
+                "text": "They felt anxiety about the new boss."
+            }
+        ]
+    }
+]

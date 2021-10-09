@@ -1,0 +1,126 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to look at and understand written words",
+        "examples": [
+            {
+                "code": "read_example_she-is-learning-to-read",
+                "text": "She is learning to read."
+            },
+            {
+                "code": "read_example_i-am-teaching-him-to-read",
+                "text": "I am teaching him to read."
+            },
+            {
+                "code": "read_example_she-can-read-english",
+                "text": "She can read English."
+            },
+            {
+                "code": "read_example_did-you-read-the-headline-today",
+                "text": "Did you read the headline today?"
+            },
+            {
+                "code": "read_example_the-judge-read-the-verdict",
+                "text": "The judge read the verdict."
+            },
+            {
+                "code": "read_example_i-need-to-read-my-mail",
+                "text": "I need to read my mail."
+            },
+            {
+                "code": "read_example_i-can-t-read-the-clock",
+                "text": "I can't read the clock."
+            },
+            {
+                "code": "read_example_i-like-to-read-poetry",
+                "text": "I like to read poetry."
+            },
+            {
+                "code": "read_example_you-must-read-each-sentence-carefully",
+                "text": "You must read each sentence carefully."
+            },
+            {
+                "code": "read_example_can-you-read-music",
+                "text": "Can you read music?"
+            },
+            {
+                "code": "read_example_i-can-t-read-your-mind",
+                "text": "I can't read your mind."
+            },
+            {
+                "code": "read_example_read-the-instructions-to-me",
+                "text": "Read the instructions to me."
+            },
+            {
+                "code": "read_example_i-read-aloud-to-the-children",
+                "text": "I read aloud to the children."
+            },
+            {
+                "code": "read_example_she-can-read-chinese-fluently",
+                "text": "She can read Chinese fluently."
+            },
+            {
+                "code": "read_example_he-reads-regularly",
+                "text": "He reads regularly."
+            },
+            {
+                "code": "read_example_i-recently-read-his-book",
+                "text": "I recently read his book."
+            },
+            {
+                "code": "read_example_i-carefully-read-the-report",
+                "text": "I carefully read the report."
+            },
+            {
+                "code": "read_example_did-i-read-that-correctly",
+                "text": "Did I read that correctly?"
+            },
+            {
+                "code": "read_example_he-is-reading-over-his-essay-one-more-time",
+                "text": "He is reading over his essay one more time."
+            },
+            {
+                "code": "read_example_he-is-reading-from-the-book",
+                "text": "He is reading from the book."
+            },
+            {
+                "code": "read_example_i-read-to-him-every-night",
+                "text": "I read to him every night."
+            },
+            {
+                "code": "read_example_we-read-about-him-in-school",
+                "text": "We read about him in school."
+            },
+            {
+                "code": "read_example_i-read-of-the-accident-in-last-week-s-paper",
+                "text": "I read of the accident in last week's paper."
+            },
+            {
+                "code": "read_example_i-read-about-the-war-in-my-history-book",
+                "text": "I read about the war in my history book."
+            }
+        ]
+    },
+    {
+        "type": "(n)",
+        "mean": "the act of looking at and understanding written words; a book, article, or magazine",
+        "examples": [
+            {
+                "code": "read_example_i-was-bored-after-a-quick-read-of-the-first-chapter",
+                "text": "I was bored after a quick read of the first chapter."
+            },
+            {
+                "code": "read_example_this-book-is-a-good-read",
+                "text": "This book is a good read."
+            },
+            {
+                "code": "read_example_this-novel-is-a-good-read",
+                "text": "This novel is a good read."
+            },
+            {
+                "code": "read_example_i-enjoy-a-good-read",
+                "text": "I enjoy a good read."
+            }
+        ]
+    }
+]

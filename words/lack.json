@@ -1,0 +1,46 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to be without something; to not have enough of something",
+        "examples": [
+            {
+                "code": "lack_example_he-really-lacks-basic-skills",
+                "text": "He really lacks basic skills."
+            },
+            {
+                "code": "lack_example_his-life-seems-to-lack-direction",
+                "text": "His life seems to lack direction."
+            },
+            {
+                "code": "lack_example_he-definitely-lacks-in-communication-skills",
+                "text": "He definitely lacks in communication skills."
+            }
+        ]
+    },
+    {
+        "type": "(n)",
+        "mean": "the state of being without",
+        "examples": [
+            {
+                "code": "lack_example_she-has-a-noticeable-lack-of-confidence",
+                "text": "She has a noticeable lack of confidence."
+            },
+            {
+                "code": "lack_example_there-is-an-overall-lack-of-jobs-in-the-city",
+                "text": "There is an overall lack of jobs in the city."
+            },
+            {
+                "code": "lack_example_she-is-suffering-from-lack-of-sleep",
+                "text": "She is suffering from lack of sleep."
+            },
+            {
+                "code": "lack_example_we-were-appalled-by-her-lack-of-manners",
+                "text": "We were appalled by her lack of manners."
+            },
+            {
+                "code": "lack_example_he-was-replaced-for-his-lack-of-effort",
+                "text": "He was replaced for his lack of effort."
+            }
+        ]
+    }
+]

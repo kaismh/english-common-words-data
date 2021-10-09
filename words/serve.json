@@ -1,0 +1,52 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to give food or drinks to someone; to work by giving help; to spend time",
+        "examples": [
+            {
+                "code": "serve_example_toss-the-salad-with-dressing-and-serve-immediately",
+                "text": "Toss the salad with dressing and serve immediately."
+            },
+            {
+                "code": "serve_example_she-served-the-church-faithfully",
+                "text": "She served the church faithfully."
+            },
+            {
+                "code": "serve_example_how-can-we-better-serve-our-customers",
+                "text": "How can we better serve our customers?"
+            },
+            {
+                "code": "serve_example_he-is-currently-serving-a-life-sentence-in-prison",
+                "text": "He is currently serving a life sentence in prison."
+            },
+            {
+                "code": "serve_example_she-previously-served-under-the-former-president",
+                "text": "She previously served under the former president."
+            },
+            {
+                "code": "serve_example_they-served-meals-to-homeless-people",
+                "text": "They served meals to homeless people."
+            },
+            {
+                "code": "serve_example_the-steak-was-served-with-wine",
+                "text": "The steak was served with wine."
+            },
+            {
+                "code": "serve_example_he-serves-as-a-member-of-the-board",
+                "text": "He serves as a member of the board."
+            },
+            {
+                "code": "serve_example_he-served-in-the-army-for-20-years",
+                "text": "He served in the army for 20 years."
+            },
+            {
+                "code": "serve_example_she-served-under-two-former-presidents",
+                "text": "She served under two former presidents."
+            },
+            {
+                "code": "serve_example_he-serves-on-the-finance-committee",
+                "text": "He serves on the finance committee."
+            }
+        ]
+    }
+]

@@ -1,0 +1,36 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to show; to uncover; to tell",
+        "examples": [
+            {
+                "code": "reveal_example_the-experiment-revealed-the-answers-he-was-looking-for",
+                "text": "The experiment revealed the answers he was looking for."
+            },
+            {
+                "code": "reveal_example_the-test-revealed-the-positive-results",
+                "text": "The test revealed the positive results."
+            },
+            {
+                "code": "reveal_example_he-revealed-his-identity-to-me",
+                "text": "He revealed his identity to me."
+            },
+            {
+                "code": "reveal_example_he-finally-revealed-the-truth-to-us",
+                "text": "He finally revealed the truth to us."
+            },
+            {
+                "code": "reveal_example_the-article-revealed-what-happened",
+                "text": "The article revealed what happened."
+            },
+            {
+                "code": "reveal_example_the-autopsy-revealed-that-he-died-of-a-seizure",
+                "text": "The autopsy revealed that he died of a seizure."
+            },
+            {
+                "code": "reveal_example_he-revealed-my-secret",
+                "text": "He revealed my secret."
+            }
+        ]
+    }
+]

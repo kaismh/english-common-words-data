@@ -1,0 +1,80 @@
+[
+    {
+        "type": "(n)",
+        "mean": "an object; an action",
+        "examples": [
+            {
+                "code": "thing_example_he-needs-some-basic-things-for-school",
+                "text": "He needs some basic things for school."
+            },
+            {
+                "code": "thing_example_there-are-many-neat-things-at-the-museum",
+                "text": "There are many neat things at the museum."
+            },
+            {
+                "code": "thing_example_what-a-nice-thing-you-did-for-your-grandmother",
+                "text": "What a nice thing you did for your grandmother."
+            },
+            {
+                "code": "thing_example_that-was-a-foolish-thing-to-do",
+                "text": "That was a foolish thing to do!"
+            },
+            {
+                "code": "thing_example_it-s-a-good-thing-you-remembered-your-keys",
+                "text": "It's a good thing you remembered your keys."
+            },
+            {
+                "code": "thing_example_that-s-the-first-thing-you-should-do",
+                "text": "That's the first thing you should do."
+            },
+            {
+                "code": "thing_example_it-wasn-t-such-a-hard-thing-to-do",
+                "text": "It wasn't such a hard thing to do."
+            },
+            {
+                "code": "thing_example_it-s-the-little-things-that-make-me-happy",
+                "text": "It's the little things that make me happy."
+            },
+            {
+                "code": "thing_example_you-did-the-right-thing",
+                "text": "You did the right thing."
+            },
+            {
+                "code": "thing_example_she-makes-things-out-of-paper",
+                "text": "She makes things out of paper."
+            },
+            {
+                "code": "thing_example_put-your-things-away",
+                "text": "Put your things away."
+            },
+            {
+                "code": "thing_example_i-was-looking-for-that-thing-all-day",
+                "text": "I was looking for that thing all day."
+            },
+            {
+                "code": "thing_example_you-do-the-funniest-things",
+                "text": "You do the funniest things."
+            },
+            {
+                "code": "thing_example_let-s-talk-things-over",
+                "text": "Let's talk things over."
+            },
+            {
+                "code": "thing_example_you-must-accept-the-things-the-way-they-are",
+                "text": "You must accept the things the way they are."
+            },
+            {
+                "code": "thing_example_please-do-not-change-things",
+                "text": "Please do not change things."
+            },
+            {
+                "code": "thing_example_things-are-great",
+                "text": "Things are great."
+            },
+            {
+                "code": "thing_example_count-the-number-of-things-in-your-bag",
+                "text": "Count the number of things in your bag."
+            }
+        ]
+    }
+]

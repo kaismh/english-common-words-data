@@ -1,0 +1,112 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a visitor; a person invited to an event; a customer; someone making a special appearance on a show",
+        "examples": [
+            {
+                "code": "guest_example_we-have-an-overnight-guest-this-weekend",
+                "text": "We have an overnight guest this weekend."
+            },
+            {
+                "code": "guest_example_he-s-a-welcome-guest-in-our-house",
+                "text": "He's a welcome guest in our house."
+            },
+            {
+                "code": "guest_example_he-was-an-uninvited-guest-at-their-wedding",
+                "text": "He was an uninvited guest at their wedding."
+            },
+            {
+                "code": "guest_example_we-are-waiting-for-an-important-guest-to-arrive",
+                "text": "We are waiting for an important guest to arrive."
+            },
+            {
+                "code": "guest_example_they-welcomed-their-dinner-guests-with-great-music",
+                "text": "They welcomed their dinner guests with great music."
+            },
+            {
+                "code": "guest_example_he-is-a-regular-guest-at-the-hotel",
+                "text": "He is a regular guest at the hotel."
+            },
+            {
+                "code": "guest_example_parking-is-reserved-for-hotel-guests",
+                "text": "Parking is reserved for hotel guests."
+            },
+            {
+                "code": "guest_example_our-featured-guest-is-the-president-of-the-united-states",
+                "text": "Our featured guest is the President of the United States."
+            },
+            {
+                "code": "guest_example_there-will-be-a-mystery-guest-on-tonight-s-show",
+                "text": "There will be a mystery guest on tonight's show."
+            },
+            {
+                "code": "guest_example_you-are-always-a-welcome-guest",
+                "text": "You are always a welcome guest."
+            },
+            {
+                "code": "guest_example_we-have-guests-this-weekend",
+                "text": "We have guests this weekend."
+            },
+            {
+                "code": "guest_example_i-entertain-many-guests-throughout-the-year",
+                "text": "I entertain many guests throughout the year."
+            },
+            {
+                "code": "guest_example_she-is-not-receiving-guests-yet",
+                "text": "She is not receiving guests yet."
+            },
+            {
+                "code": "guest_example_they-greeted-the-guests",
+                "text": "They greeted the guests."
+            },
+            {
+                "code": "guest_example_you-can-bring-a-guest-to-the-party",
+                "text": "You can bring a guest to the party."
+            },
+            {
+                "code": "guest_example_the-guests-are-arriving",
+                "text": "The guests are arriving."
+            },
+            {
+                "code": "guest_example_nearly-100-guests-attended-the-event",
+                "text": "Nearly 100 guests attended the event."
+            },
+            {
+                "code": "guest_example_i-need-to-clean-the-guest-bedroom",
+                "text": "I need to clean the guest bedroom."
+            },
+            {
+                "code": "guest_example_we-need-to-get-a-new-guest-bed",
+                "text": "We need to get a new guest bed."
+            },
+            {
+                "code": "guest_example_i-stayed-in-the-guest-house",
+                "text": "I stayed in the guest house."
+            },
+            {
+                "code": "guest_example_she-is-making-a-guest-list",
+                "text": "She is making a guest list."
+            },
+            {
+                "code": "guest_example_please-sign-the-guest-book",
+                "text": "Please sign the guest book."
+            },
+            {
+                "code": "guest_example_he-was-a-guest-star-on-last-week-s-episode",
+                "text": "He was a guest star on last week's episode."
+            },
+            {
+                "code": "guest_example_we-have-a-guest-speaker-this-week",
+                "text": "We have a guest speaker this week."
+            },
+            {
+                "code": "guest_example_the-concert-features-a-guest-artist",
+                "text": "The concert features a guest artist."
+            },
+            {
+                "code": "guest_example_she-makes-one-or-two-guest-appearances-each-year",
+                "text": "She makes one or two guest appearances each year."
+            }
+        ]
+    }
+]

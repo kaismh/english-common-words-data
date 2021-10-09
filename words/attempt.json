@@ -1,0 +1,82 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the act of trying to do something",
+        "examples": [
+            {
+                "code": "attempt_example_her-successful-attempt-at-going-back-to-school-inspired-many-people",
+                "text": "Her successful attempt at going back to school inspired many people."
+            },
+            {
+                "code": "attempt_example_we-were-sad-about-our-failed-attempt-at-marriage",
+                "text": "We were sad about our failed attempt at marriage."
+            },
+            {
+                "code": "attempt_example_he-s-making-a-deliberate-attempt-to-learn-a-new-language",
+                "text": "He's making a deliberate attempt to learn a new language."
+            },
+            {
+                "code": "attempt_example_it-was-a-brave-attempt-to-climb-the-mountain",
+                "text": "It was a brave attempt to climb the mountain."
+            },
+            {
+                "code": "attempt_example_he-made-a-desperate-attempt-to-find-a-date-at-the-last-minute",
+                "text": "He made a desperate attempt to find a date at the last minute."
+            },
+            {
+                "code": "attempt_example_the-police-were-warned-of-an-assassination-attempt",
+                "text": "The police were warned of an assassination attempt."
+            },
+            {
+                "code": "attempt_example_she-made-repeated-attempts-to-quit-smoking",
+                "text": "She made repeated attempts to quit smoking."
+            },
+            {
+                "code": "attempt_example_he-made-another-attempt-at-asking-her-out-to-dinner",
+                "text": "He made another attempt at asking her out to dinner."
+            },
+            {
+                "code": "attempt_example_he-abandoned-his-attempt-at-swimming-the-english-channel",
+                "text": "He abandoned his attempt at swimming the English Channel."
+            },
+            {
+                "code": "attempt_example_she-succeeded-in-her-attempt-to-qualify-for-the-olympics",
+                "text": "She succeeded in her attempt to qualify for the Olympics."
+            },
+            {
+                "code": "attempt_example_he-made-an-attempt-at-baking-his-first-cake",
+                "text": "He made an attempt at baking his first cake."
+            },
+            {
+                "code": "attempt_example_the-attempts-by-the-firefighters-were-successful",
+                "text": "The attempts by the firefighters were successful."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to try something",
+        "examples": [
+            {
+                "code": "attempt_example_the-actor-attempted-a-comeback",
+                "text": "The actor attempted a comeback."
+            },
+            {
+                "code": "attempt_example_the-criminal-attempted-an-escape",
+                "text": "The criminal attempted an escape."
+            },
+            {
+                "code": "attempt_example_the-police-are-attempting-a-dangerous-rescue",
+                "text": "The police are attempting a dangerous rescue."
+            },
+            {
+                "code": "attempt_example_the-daredevil-attempted-a-dangerous-stunt",
+                "text": "The daredevil attempted a dangerous stunt."
+            },
+            {
+                "code": "attempt_example_she-attempted-suicide",
+                "text": "She attempted suicide."
+            }
+        ]
+    }
+]

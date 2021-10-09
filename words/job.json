@@ -1,0 +1,140 @@
+[
+    {
+        "type": "(n)",
+        "mean": "work that someone does to earn money; a task",
+        "examples": [
+            {
+                "code": "job_example_he-is-hoping-to-find-a-good-job",
+                "text": "He is hoping to find a good job."
+            },
+            {
+                "code": "job_example_my-dream-job-is-to-be-a-pilot",
+                "text": "My dream job is to be a pilot."
+            },
+            {
+                "code": "job_example_she-hated-her-boring-job",
+                "text": "She hated her boring job."
+            },
+            {
+                "code": "job_example_he-was-searching-for-a-rewarding-job",
+                "text": "He was searching for a rewarding job."
+            },
+            {
+                "code": "job_example_college-students-are-looking-for-summer-jobs",
+                "text": "College students are looking for summer jobs."
+            },
+            {
+                "code": "job_example_he-really-wants-a-coaching-job",
+                "text": "He really wants a coaching job."
+            },
+            {
+                "code": "job_example_you-did-a-great-job-with-your-project",
+                "text": "You did a great job with your project."
+            },
+            {
+                "code": "job_example_we-did-a-poor-job-of-managing-our-finances",
+                "text": "We did a poor job of managing our finances."
+            },
+            {
+                "code": "job_example_he-thought-the-job-was-easy",
+                "text": "He thought the job was easy."
+            },
+            {
+                "code": "job_example_she-has-a-good-job-at-the-hospital",
+                "text": "She has a good job at the hospital."
+            },
+            {
+                "code": "job_example_he-is-looking-for-a-better-job",
+                "text": "He is looking for a better job."
+            },
+            {
+                "code": "job_example_after-the-interview-they-offered-her-the-job",
+                "text": "After the interview, they offered her the job."
+            },
+            {
+                "code": "job_example_she-found-a-temporary-job-yesterday",
+                "text": "She found a temporary job yesterday."
+            },
+            {
+                "code": "job_example_he-finally-resigned-from-his-job",
+                "text": "He finally resigned from his job."
+            },
+            {
+                "code": "job_example_she-loves-her-new-job",
+                "text": "She loves her new job."
+            },
+            {
+                "code": "job_example_he-interviewed-for-the-job",
+                "text": "He interviewed for the job."
+            },
+            {
+                "code": "job_example_the-company-is-planning-to-cut-100-jobs",
+                "text": "The company is planning to cut 100 jobs."
+            },
+            {
+                "code": "job_example_she-certainly-knows-her-job",
+                "text": "She certainly knows her job."
+            },
+            {
+                "code": "job_example_the-job-doesn-t-pay-very-well",
+                "text": "The job doesn't pay very well."
+            },
+            {
+                "code": "job_example_the-job-requires-specific-skills",
+                "text": "The job requires specific skills."
+            },
+            {
+                "code": "job_example_she-did-a-great-job-with-the-decorating",
+                "text": "She did a great job with the decorating."
+            },
+            {
+                "code": "job_example_i-was-pleased-with-how-he-handled-the-job",
+                "text": "I was pleased with how he handled the job."
+            },
+            {
+                "code": "job_example_he-is-not-having-any-success-with-his-job-search",
+                "text": "He is not having any success with his job search."
+            },
+            {
+                "code": "job_example_she-completed-her-job-application",
+                "text": "She completed her job application."
+            },
+            {
+                "code": "job_example_he-had-two-job-offers-last-week",
+                "text": "He had two job offers last week."
+            },
+            {
+                "code": "job_example_he-prefers-job-security-over-a-high-salary",
+                "text": "He prefers job security over a high salary."
+            },
+            {
+                "code": "job_example_what-is-the-job-title",
+                "text": "What is the job title?"
+            },
+            {
+                "code": "job_example_there-are-no-current-job-openings-at-this-time",
+                "text": "There are no current job openings at this time."
+            },
+            {
+                "code": "job_example_he-did-a-good-job-on-the-car",
+                "text": "He did a good job on the car."
+            },
+            {
+                "code": "job_example_all-of-a-sudden-she-found-herself-out-of-a-job",
+                "text": "All of a sudden she found herself out of a job."
+            },
+            {
+                "code": "job_example_she-has-a-job-as-a-waitress",
+                "text": "She has a job as a waitress."
+            },
+            {
+                "code": "job_example_he-got-a-teaching-job-at-the-university",
+                "text": "He got a teaching job at the university."
+            },
+            {
+                "code": "job_example_my-father-had-a-job-in-a-large-company",
+                "text": "My father had a job in a large company."
+            }
+        ]
+    }
+]

@@ -1,0 +1,48 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "not intelligent; foolish; very slow to learn",
+        "examples": [
+            {
+                "code": "stupid_example_i-feel-so-stupid-around-my-professor",
+                "text": "I feel so stupid around my professor."
+            },
+            {
+                "code": "stupid_example_don-t-act-stupid-with-me",
+                "text": "Don't act stupid with me."
+            },
+            {
+                "code": "stupid_example_he-sounds-stupid-when-he-drinks-too-much",
+                "text": "He sounds stupid when he drinks too much."
+            },
+            {
+                "code": "stupid_example_the-argument-is-getting-stupid-now",
+                "text": "The argument is getting stupid now."
+            },
+            {
+                "code": "stupid_example_do-not-call-him-stupid",
+                "text": "Do not call him stupid."
+            },
+            {
+                "code": "stupid_example_she-is-acting-truly-stupid",
+                "text": "She is acting truly stupid."
+            },
+            {
+                "code": "stupid_example_that-comment-was-just-plain-stupid",
+                "text": "That comment was just plain stupid!"
+            },
+            {
+                "code": "stupid_example_he-was-stupid-enough-to-fall-for-that-trick-again",
+                "text": "He was stupid enough to fall for that trick again."
+            },
+            {
+                "code": "stupid_example_i-made-a-stupid-mistake",
+                "text": "I made a stupid mistake."
+            },
+            {
+                "code": "stupid_example_that-was-a-stupid-idea",
+                "text": "That was a stupid idea."
+            }
+        ]
+    }
+]

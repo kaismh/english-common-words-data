@@ -1,0 +1,36 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "having a fine edge or point; steep; intelligent",
+        "examples": [
+            {
+                "code": "sharp_example_this-knife-is-sharp",
+                "text": "This knife is sharp."
+            },
+            {
+                "code": "sharp_example_how-can-i-keep-the-axe-sharp",
+                "text": "How can I keep the axe sharp?"
+            },
+            {
+                "code": "sharp_example_how-does-her-mind-stay-so-sharp",
+                "text": "How does her mind stay so sharp?"
+            },
+            {
+                "code": "sharp_example_be-careful-because-the-glass-is-extremely-sharp",
+                "text": "Be careful because the glass is extremely sharp."
+            },
+            {
+                "code": "sharp_example_we-have-seen-a-fairly-sharp-rise-in-the-cost-of-living",
+                "text": "We have seen a fairly sharp rise in the cost of living."
+            },
+            {
+                "code": "sharp_example_be-careful-with-the-sharp-knife",
+                "text": "Be careful with the sharp knife."
+            },
+            {
+                "code": "sharp_example_he-has-a-sharp-mind",
+                "text": "He has a sharp mind."
+            }
+        ]
+    }
+]

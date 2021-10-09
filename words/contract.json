@@ -1,0 +1,100 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a formal agreement in writing",
+        "examples": [
+            {
+                "code": "contract_example_they-offered-him-a-long-term-contract",
+                "text": "They offered him a long-term contract."
+            },
+            {
+                "code": "contract_example_the-formal-contract-is-official",
+                "text": "The formal contract is official."
+            },
+            {
+                "code": "contract_example_a-promise-is-only-a-verbal-contract",
+                "text": "A promise is only a verbal contract."
+            },
+            {
+                "code": "contract_example_most-people-are-given-a-standard-contract",
+                "text": "Most people are given a standard contract."
+            },
+            {
+                "code": "contract_example_the-legal-contract-cannot-be-broken",
+                "text": "The legal contract cannot be broken."
+            },
+            {
+                "code": "contract_example_the-current-contract-needs-modifying",
+                "text": "The current contract needs modifying."
+            },
+            {
+                "code": "contract_example_the-business-needs-a-big-contract",
+                "text": "The business needs a big contract."
+            },
+            {
+                "code": "contract_example_do-you-have-a-written-contract",
+                "text": "Do you have a written contract?"
+            },
+            {
+                "code": "contract_example_the-company-bid-for-the-contract",
+                "text": "The company bid for the contract."
+            },
+            {
+                "code": "contract_example_i-hope-our-company-gets-the-contract",
+                "text": "I hope our company gets the contract."
+            },
+            {
+                "code": "contract_example_we-lost-the-contract",
+                "text": "We lost the contract."
+            },
+            {
+                "code": "contract_example_the-secretary-will-draw-up-a-new-contract",
+                "text": "The secretary will draw up a new contract."
+            },
+            {
+                "code": "contract_example_please-sign-the-contract",
+                "text": "Please sign the contract."
+            },
+            {
+                "code": "contract_example_they-have-to-honor-the-contract",
+                "text": "They have to honor the contract."
+            },
+            {
+                "code": "contract_example_we-want-to-cancel-the-contract",
+                "text": "We want to cancel the contract."
+            },
+            {
+                "code": "contract_example_the-contract-expires-soon",
+                "text": "The contract expires soon."
+            },
+            {
+                "code": "contract_example_i-would-like-a-contract-extension",
+                "text": "I would like a contract extension."
+            },
+            {
+                "code": "contract_example_i-am-a-contract-worker",
+                "text": "I am a contract worker."
+            },
+            {
+                "code": "contract_example_we-are-in-contract-negotiations",
+                "text": "We are in contract negotiations."
+            },
+            {
+                "code": "contract_example_your-job-description-is-in-the-contract",
+                "text": "Your job description is in the contract."
+            },
+            {
+                "code": "contract_example_he-is-under-contract",
+                "text": "He is under contract."
+            },
+            {
+                "code": "contract_example_the-contract-is-between-the-company-and-the-employee",
+                "text": "The contract is between the company and the employee."
+            },
+            {
+                "code": "contract_example_do-you-have-a-written-contract-with-your-landlord",
+                "text": "Do you have a written contract with your landlord?"
+            }
+        ]
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "necessary; easiest; important without any extras",
+        "examples": [
+            {
+                "code": "basic_example_does-he-know-the-basic-colors-of-the-rainbow",
+                "text": "Does he know the basic colors of the rainbow?"
+            },
+            {
+                "code": "basic_example_she-does-not-have-basic-skills-for-the-job",
+                "text": "She does not have basic skills for the job."
+            },
+            {
+                "code": "basic_example_he-understands-the-basic-idea-of-the-plan",
+                "text": "He understands the basic idea of the plan."
+            },
+            {
+                "code": "basic_example_typing-is-a-basic-requirement-for-the-job",
+                "text": "Typing is a basic requirement for the job."
+            },
+            {
+                "code": "basic_example_candidates-have-to-go-through-basic-training-to-move-to-the-next-level",
+                "text": "Candidates have to go through basic training to move to the next level."
+            },
+            {
+                "code": "basic_example_we-need-basic-supplies-to-do-the-job",
+                "text": "We need basic supplies to do the job."
+            }
+        ]
+    }
+]

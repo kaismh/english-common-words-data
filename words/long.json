@@ -1,0 +1,84 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "having a great distance from end to end; lasting a great amount of time",
+        "examples": [
+            {
+                "code": "long_example_that-dress-is-a-little-long",
+                "text": "That dress is a little long."
+            },
+            {
+                "code": "long_example_his-hair-has-grown-long",
+                "text": "His hair has grown long."
+            },
+            {
+                "code": "long_example_his-drive-to-work-is-fairly-long",
+                "text": "His drive to work is fairly long."
+            },
+            {
+                "code": "long_example_the-meeting-lasted-unusually-long",
+                "text": "The meeting lasted unusually long."
+            },
+            {
+                "code": "long_example_his-hair-was-getting-a-little-long",
+                "text": "His hair was getting a little long."
+            },
+            {
+                "code": "long_example_i-wasn-t-sure-if-two-hours-would-be-long-enough",
+                "text": "I wasn't sure if two hours would be long enough."
+            },
+            {
+                "code": "long_example_we-had-a-long-discussion",
+                "text": "We had a long discussion."
+            },
+            {
+                "code": "long_example_it-was-a-long-afternoon",
+                "text": "It was a long afternoon."
+            },
+            {
+                "code": "long_example_i-took-a-long-break",
+                "text": "I took a long break."
+            },
+            {
+                "code": "long_example_that-was-a-long-explanation",
+                "text": "That was a long explanation."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to want something that is not very possible to attain",
+        "examples": [
+            {
+                "code": "long_example_he-desperately-longed-to-see-his-first-love",
+                "text": "He desperately longed to see his first love."
+            },
+            {
+                "code": "long_example_she-longs-for-reconciliation-with-her-ex-husband",
+                "text": "She longs for reconciliation with her ex-husband."
+            }
+        ]
+    },
+    {
+        "type": "(adv)",
+        "mean": "for a great amount of time",
+        "examples": [
+            {
+                "code": "long_example_my-library-books-are-long-overdue",
+                "text": "My library books are long overdue."
+            },
+            {
+                "code": "long_example_i-have-long-believed-that-she-was-guilty-of-the-crime",
+                "text": "I have long believed that she was guilty of the crime."
+            },
+            {
+                "code": "long_example_i-have-long-regarded-him-as-family",
+                "text": "I have long regarded him as family."
+            },
+            {
+                "code": "long_example_i-have-waited-long-for-this-day",
+                "text": "I have waited long for this day."
+            }
+        ]
+    }
+]

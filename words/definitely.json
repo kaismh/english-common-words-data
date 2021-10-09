@@ -1,0 +1,40 @@
+[
+    {
+        "type": "(adv)",
+        "mean": "in a certain way, without question",
+        "examples": [
+            {
+                "code": "definitely_example_i-am-definitely-ready",
+                "text": "I am definitely ready."
+            },
+            {
+                "code": "definitely_example_his-story-is-definitely-true",
+                "text": "His story is definitely true."
+            },
+            {
+                "code": "definitely_example_the-show-was-definitely-worthwhile",
+                "text": "The show was definitely worthwhile."
+            },
+            {
+                "code": "definitely_example_this-definitely-deserves-attention",
+                "text": "This definitely deserves attention."
+            },
+            {
+                "code": "definitely_example_his-plan-will-definitely-help-the-business",
+                "text": "His plan will definitely help the business."
+            },
+            {
+                "code": "definitely_example_she-definitely-needs-a-vacation",
+                "text": "She definitely needs a vacation."
+            },
+            {
+                "code": "definitely_example_i-definitely-prefer-strawberry",
+                "text": "I definitely prefer strawberry."
+            },
+            {
+                "code": "definitely_example_definitely-remember-sun-block",
+                "text": "Definitely remember sun block."
+            }
+        ]
+    }
+]

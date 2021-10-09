@@ -1,0 +1,36 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to give out; to supply to businesses for sale",
+        "examples": [
+            {
+                "code": "distribute_example_the-supplies-were-equally-distributed",
+                "text": "The supplies were equally distributed."
+            },
+            {
+                "code": "distribute_example_the-books-will-be-distributed-internationally",
+                "text": "The books will be distributed internationally."
+            },
+            {
+                "code": "distribute_example_the-charity-will-distribute-the-money-among-the-poor-countries",
+                "text": "The charity will distribute the money among the poor countries."
+            },
+            {
+                "code": "distribute_example_the-company-will-distribute-paychecks-by-mail",
+                "text": "The company will distribute paychecks by mail."
+            },
+            {
+                "code": "distribute_example_they-will-distribute-the-copies-at-the-meeting",
+                "text": "They will distribute the copies at the meeting."
+            },
+            {
+                "code": "distribute_example_try-to-distribute-the-workload-equally",
+                "text": "Try to distribute the workload equally."
+            },
+            {
+                "code": "distribute_example_the-production-company-will-distribute-the-film-globally",
+                "text": "The production company will distribute the film globally."
+            }
+        ]
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "type": "(adv)",
+        "mean": "at the present time",
+        "examples": [
+            {
+                "code": "currently_example_i-am-currently-available",
+                "text": "I am currently available."
+            },
+            {
+                "code": "currently_example_she-is-currently-single",
+                "text": "She is currently single."
+            },
+            {
+                "code": "currently_example_only-four-hundred-pandas-currently-exist",
+                "text": "Only four hundred pandas currently exist."
+            },
+            {
+                "code": "currently_example_they-are-currently-employing-workers",
+                "text": "They are currently employing workers."
+            },
+            {
+                "code": "currently_example_do-you-currently-receive-benefits",
+                "text": "Do you currently receive benefits?"
+            },
+            {
+                "code": "currently_example_i-currently-have-a-job",
+                "text": "I currently have a job."
+            },
+            {
+                "code": "currently_example_she-currently-owns-her-own-business",
+                "text": "She currently owns her own business."
+            },
+            {
+                "code": "currently_example_he-currently-works-as-a-construction-worker",
+                "text": "He currently works as a construction worker."
+            }
+        ]
+    }
+]

@@ -1,0 +1,80 @@
+[
+    {
+        "type": "(noun)",
+        "mean": "facts or information",
+        "examples": [
+            {
+                "code": "data_example_he-gave-us-accurate-data",
+                "text": "He gave us accurate data."
+            },
+            {
+                "code": "data_example_his-report-provided-comprehensive-data",
+                "text": "His report provided comprehensive data."
+            },
+            {
+                "code": "data_example_we-asked-for-any-available-data",
+                "text": "We asked for any available data."
+            },
+            {
+                "code": "data_example_they-are-examining-the-scientific-data",
+                "text": "They are examining the scientific data."
+            },
+            {
+                "code": "data_example_his-job-is-to-collect-data",
+                "text": "His job is to collect data."
+            },
+            {
+                "code": "data_example_the-secretary-enters-data-into-the-computer",
+                "text": "The secretary enters data into the computer."
+            },
+            {
+                "code": "data_example_my-laptop-has-all-of-the-necessary-data",
+                "text": "My laptop has all of the necessary data."
+            },
+            {
+                "code": "data_example_let-s-compare-the-data",
+                "text": "Let's compare the data."
+            },
+            {
+                "code": "data_example_the-machine-will-handle-data",
+                "text": "The machine will handle data."
+            },
+            {
+                "code": "data_example_the-computers-will-exchange-data",
+                "text": "The computers will exchange data."
+            },
+            {
+                "code": "data_example_his-firm-publishes-data",
+                "text": "His firm publishes data."
+            },
+            {
+                "code": "data_example_how-can-we-access-the-data",
+                "text": "How can we access the data?"
+            },
+            {
+                "code": "data_example_the-data-reflects-the-truth",
+                "text": "The data reflects the truth."
+            },
+            {
+                "code": "data_example_his-work-is-in-data-entry",
+                "text": "His work is in data entry."
+            },
+            {
+                "code": "data_example_the-company-is-trying-to-improve-data-exchange",
+                "text": "The company is trying to improve data exchange."
+            },
+            {
+                "code": "data_example_the-woman-runs-the-data-bank",
+                "text": "The woman runs the data bank."
+            },
+            {
+                "code": "data_example_there-were-some-interesting-facts-in-the-data",
+                "text": "There were some interesting facts in the data."
+            },
+            {
+                "code": "data_example_we-have-lots-of-data-on-global-warming",
+                "text": "We have lots of data on global warming."
+            }
+        ]
+    }
+]

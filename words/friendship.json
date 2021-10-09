@@ -1,0 +1,56 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the relationship between friends",
+        "examples": [
+            {
+                "code": "friendship_example_they-have-a-great-friendship",
+                "text": "They have a great friendship."
+            },
+            {
+                "code": "friendship_example_she-made-a-lot-of-lifelong-friendships-when-she-was-in-college",
+                "text": "She made a lot of lifelong friendships when she was in college."
+            },
+            {
+                "code": "friendship_example_he-is-building-a-friendship-with-his-new-roommate",
+                "text": "He is building a friendship with his new roommate."
+            },
+            {
+                "code": "friendship_example_she-works-hard-to-maintain-her-friendships",
+                "text": "She works hard to maintain her friendships."
+            },
+            {
+                "code": "friendship_example_he-let-a-silly-fight-ruin-a-good-friendship",
+                "text": "He let a silly fight ruin a good friendship."
+            },
+            {
+                "code": "friendship_example_i-don-t-want-to-risk-my-friendship-by-bringing-that-up",
+                "text": "I don't want to risk my friendship by bringing that up."
+            },
+            {
+                "code": "friendship_example_their-friendship-grew-over-the-last-year",
+                "text": "Their friendship grew over the last year."
+            },
+            {
+                "code": "friendship_example_their-friendship-started-when-they-lived-next-door-to-each-other-in-college",
+                "text": "Their friendship started when they lived next door to each other in college."
+            },
+            {
+                "code": "friendship_example_their-friendship-ended-suddenly",
+                "text": "Their friendship ended suddenly."
+            },
+            {
+                "code": "friendship_example_he-betrayed-our-friendship-by-telling-people-my-secret",
+                "text": "He betrayed our friendship by telling people my secret."
+            },
+            {
+                "code": "friendship_example_she-wanted-to-develop-a-better-friendship-with-her-roommate",
+                "text": "She wanted to develop a better friendship with her roommate."
+            },
+            {
+                "code": "friendship_example_she-was-jealous-over-the-strong-friendship-forming-between-her-two-friends",
+                "text": "She was jealous over the strong friendship forming between her two friends."
+            }
+        ]
+    }
+]

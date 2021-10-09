@@ -1,0 +1,82 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to combine",
+        "examples": [
+            {
+                "code": "mix_example_it-took-a-long-time-to-mix-the-paint",
+                "text": "It took a long time to mix the paint."
+            },
+            {
+                "code": "mix_example_we-mixed-the-ingredients-together",
+                "text": "We mixed the ingredients together."
+            },
+            {
+                "code": "mix_example_can-i-mix-you-a-drink",
+                "text": "Can I mix you a drink?"
+            },
+            {
+                "code": "mix_example_combine-the-ingredients-and-mix-well",
+                "text": "Combine the ingredients and mix well."
+            },
+            {
+                "code": "mix_example_mix-in-the-wet-ingredients",
+                "text": "Mix in the wet ingredients."
+            },
+            {
+                "code": "mix_example_mix-the-milk-with-the-eggs",
+                "text": "Mix the milk with the eggs."
+            }
+        ]
+    },
+    {
+        "type": "(n)",
+        "mean": "a combination",
+        "examples": [
+            {
+                "code": "mix_example_the-cake-mix-contains-peanuts",
+                "text": "The cake mix contains peanuts."
+            },
+            {
+                "code": "mix_example_the-album-includes-a-mix-of-slow-and-fast-songs",
+                "text": "The album includes a mix of slow and fast songs."
+            },
+            {
+                "code": "mix_example_the-students-created-a-mix-of-different-pictures-in-the-mural",
+                "text": "The students created a mix of different pictures in the mural."
+            },
+            {
+                "code": "mix_example_vodka-and-beer-make-a-powerful-mix",
+                "text": "Vodka and beer make a powerful mix."
+            },
+            {
+                "code": "mix_example_it-has-the-right-mix-of-sweet-and-salty-ingredients",
+                "text": "It has the right mix of sweet and salty ingredients."
+            },
+            {
+                "code": "mix_example_there-s-a-healthy-mix-of-fruits-and-vegetables-in-the-buffet",
+                "text": "There's a healthy mix of fruits and vegetables in the buffet."
+            },
+            {
+                "code": "mix_example_the-two-people-made-an-odd-mix",
+                "text": "The two people made an odd mix."
+            },
+            {
+                "code": "mix_example_what-a-vibrant-mix-of-colors",
+                "text": "What a vibrant mix of colors."
+            },
+            {
+                "code": "mix_example_the-school-has-a-great-ethnic-mix-of-students",
+                "text": "The school has a great ethnic mix of students."
+            },
+            {
+                "code": "mix_example_i-bought-a-pancake-mix",
+                "text": "I bought a pancake mix."
+            },
+            {
+                "code": "mix_example_i-figured-out-the-right-mix-of-flavors",
+                "text": "I figured out the right mix of flavors."
+            }
+        ]
+    }
+]

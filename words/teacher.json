@@ -1,0 +1,44 @@
+[
+    {
+        "type": "(n)",
+        "mean": "someone who helps students learn or shows how to do something",
+        "examples": [
+            {
+                "code": "teacher_example_she-is-the-best-teacher-at-this-school",
+                "text": "She is the best teacher at this school."
+            },
+            {
+                "code": "teacher_example_he-is-an-elementary-school-teacher",
+                "text": "He is an elementary school teacher."
+            },
+            {
+                "code": "teacher_example_she-is-a-dance-teacher",
+                "text": "She is a dance teacher."
+            },
+            {
+                "code": "teacher_example_my-mom-is-a-math-teacher",
+                "text": "My mom is a math teacher."
+            },
+            {
+                "code": "teacher_example_the-teacher-works-long-hours",
+                "text": "The teacher works long hours."
+            },
+            {
+                "code": "teacher_example_the-teacher-uses-different-methods-to-help-kids-at-every-level",
+                "text": "The teacher uses different methods to help kids at every level."
+            },
+            {
+                "code": "teacher_example_my-teachers-helps-her-students-after-school",
+                "text": "My teachers helps her students after school."
+            },
+            {
+                "code": "teacher_example_our-school-has-a-teacher-shortage",
+                "text": "Our school has a teacher shortage."
+            },
+            {
+                "code": "teacher_example_i-m-working-as-a-teacher-assistant",
+                "text": "I'm working as a teacher assistant."
+            }
+        ]
+    }
+]

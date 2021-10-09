@@ -1,0 +1,82 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a person that makes food",
+        "examples": [
+            {
+                "code": "cook_example_she-is-an-excellent-cook",
+                "text": "She is an excellent cook."
+            },
+            {
+                "code": "cook_example_i-consider-myself-an-amateur-cook",
+                "text": "I consider myself an amateur cook."
+            },
+            {
+                "code": "cook_example_is-he-a-professional-cook",
+                "text": "Is he a professional cook?"
+            },
+            {
+                "code": "cook_example_the-boy-started-as-a-fry-cook",
+                "text": "The boy started as a fry cook."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to make food",
+        "examples": [
+            {
+                "code": "cook_example_make-sure-to-cook-the-chicken-well",
+                "text": "Make sure to cook the chicken well."
+            },
+            {
+                "code": "cook_example_she-cooked-the-ribs-perfectly",
+                "text": "She cooked the ribs perfectly."
+            },
+            {
+                "code": "cook_example_i-need-to-cook-something-quickly",
+                "text": "I need to cook something quickly."
+            },
+            {
+                "code": "cook_example_i-cooked-him-a-nice-dinner",
+                "text": "I cooked him a nice dinner."
+            },
+            {
+                "code": "cook_example_how-long-should-i-cook-the-turkey",
+                "text": "How long should I cook the turkey?"
+            },
+            {
+                "code": "cook_example_she-cooks-fancy-dishes",
+                "text": "She cooks fancy dishes."
+            },
+            {
+                "code": "cook_example_the-soup-has-been-cooking-for-a-long-time",
+                "text": "The soup has been cooking for a long time."
+            },
+            {
+                "code": "cook_example_do-you-know-how-to-cook",
+                "text": "Do you know how to cook?"
+            },
+            {
+                "code": "cook_example_who-cooks-at-home",
+                "text": "Who cooks at home?"
+            },
+            {
+                "code": "cook_example_my-husband-cannot-cook",
+                "text": "My husband cannot cook."
+            },
+            {
+                "code": "cook_example_i-cooked-dinner-for-30-people",
+                "text": "I cooked dinner for 30 people."
+            },
+            {
+                "code": "cook_example_i-wish-i-knew-how-to-cook",
+                "text": "I wish I knew how to cook."
+            },
+            {
+                "code": "cook_example_where-did-you-learn-to-cook",
+                "text": "Where did you learn to cook?"
+            }
+        ]
+    }
+]

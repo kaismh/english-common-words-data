@@ -1,0 +1,44 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the business of producing products",
+        "examples": [
+            {
+                "code": "manufacturing_example_their-manufacturing-practices-are-illegal",
+                "text": "Their manufacturing practices are illegal."
+            },
+            {
+                "code": "manufacturing_example_she-works-at-a-manufacturing-company",
+                "text": "She works at a manufacturing company."
+            },
+            {
+                "code": "manufacturing_example_the-city-is-creating-more-manufacturing-jobs",
+                "text": "The city is creating more manufacturing jobs."
+            },
+            {
+                "code": "manufacturing_example_we-need-to-improve-manufacturing-production",
+                "text": "We need to improve manufacturing production."
+            },
+            {
+                "code": "manufacturing_example_she-knows-a-lot-about-manufacturing-technology",
+                "text": "She knows a lot about manufacturing technology."
+            },
+            {
+                "code": "manufacturing_example_they-have-manufacturing-expertise",
+                "text": "They have manufacturing expertise."
+            },
+            {
+                "code": "manufacturing_example_we-produce-goods-for-large-scale-manufacturing",
+                "text": "We produce goods for large-scale manufacturing."
+            },
+            {
+                "code": "manufacturing_example_i-work-in-automotive-manufacturing",
+                "text": "I work in automotive manufacturing."
+            },
+            {
+                "code": "manufacturing_example_she-is-in-high-tech-manufacturing",
+                "text": "She is in high-tech manufacturing."
+            }
+        ]
+    }
+]

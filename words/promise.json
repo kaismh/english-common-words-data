@@ -1,0 +1,78 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a strong statement saying that you will or will not do something; a good future; a good sign",
+        "examples": [
+            {
+                "code": "promise_example_she-made-him-a-promise",
+                "text": "She made him a promise."
+            },
+            {
+                "code": "promise_example_you-didn-t-keep-your-promise",
+                "text": "You didn't keep your promise."
+            },
+            {
+                "code": "promise_example_i-knew-you-would-break-your-promise",
+                "text": "I knew you would break your promise."
+            },
+            {
+                "code": "promise_example_his-career-shows-lots-of-promise",
+                "text": "His career shows lots of promise."
+            },
+            {
+                "code": "promise_example_she-is-full-of-false-promises",
+                "text": "She is full of false promises."
+            },
+            {
+                "code": "promise_example_i-made-a-firm-promise-to-them",
+                "text": "I made a firm promise to them."
+            },
+            {
+                "code": "promise_example_the-politician-makes-campaign-promises-to-everyone",
+                "text": "The politician makes campaign promises to everyone."
+            },
+            {
+                "code": "promise_example_she-made-promises-about-not-moving",
+                "text": "She made promises about not moving."
+            },
+            {
+                "code": "promise_example_he-gave-everyone-the-promise-of-hope-during-the-crisis",
+                "text": "He gave everyone the promise of hope during the crisis."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to make a strong statement saying that you will or will not do something",
+        "examples": [
+            {
+                "code": "promise_example_i-cannot-promise-that-i-ll-be-there",
+                "text": "I cannot promise that I'll be there."
+            },
+            {
+                "code": "promise_example_she-faithfully-promised-to-support-him",
+                "text": "She faithfully promised to support him."
+            },
+            {
+                "code": "promise_example_he-initially-promised-to-donate-money-but-we-haven-t-seen-a-dime",
+                "text": "He initially promised to donate money, but we haven't seen a dime."
+            },
+            {
+                "code": "promise_example_the-politician-repeatedly-promised-things-he-couldn-t-deliver",
+                "text": "The politician repeatedly promised things he couldn't deliver."
+            },
+            {
+                "code": "promise_example_the-city-promised-assistance",
+                "text": "The city promised assistance."
+            },
+            {
+                "code": "promise_example_they-were-promised-a-reward",
+                "text": "They were promised a reward."
+            },
+            {
+                "code": "promise_example_he-promised-support-to-the-victims",
+                "text": "He promised support to the victims."
+            }
+        ]
+    }
+]

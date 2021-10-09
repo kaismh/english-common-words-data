@@ -1,0 +1,122 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to turn one's eyes toward someone or something; to seem or appear",
+        "examples": [
+            {
+                "code": "look_example_he-looked-at-the-car-closely-before-he-bought-it",
+                "text": "He looked at the car closely before he bought it."
+            },
+            {
+                "code": "look_example_she-quickly-looked-at-her-notes-before-she-gave-the-speech",
+                "text": "She quickly looked at her notes before she gave the speech."
+            },
+            {
+                "code": "look_example_he-looked-angrily-at-me",
+                "text": "He looked angrily at me."
+            },
+            {
+                "code": "look_example_they-looked-anxiously-at-the-police-officer",
+                "text": "They looked anxiously at the police officer."
+            },
+            {
+                "code": "look_example_the-lost-boy-looked-around-helplessly",
+                "text": "The lost boy looked around helplessly."
+            },
+            {
+                "code": "look_example_let-s-look-again-at-the-evidence",
+                "text": "Let's look again at the evidence."
+            },
+            {
+                "code": "look_example_she-looked-away-when-he-came-in",
+                "text": "She looked away when he came in."
+            },
+            {
+                "code": "look_example_he-turned-to-look-at-her",
+                "text": "He turned to look at her."
+            },
+            {
+                "code": "look_example_let-me-look-at-your-new-dress",
+                "text": "Let me look at your new dress."
+            },
+            {
+                "code": "look_example_the-pants-made-me-look-fat",
+                "text": "The pants made me look fat."
+            },
+            {
+                "code": "look_example_what-are-you-looking-at",
+                "text": "What are you looking at?"
+            },
+            {
+                "code": "look_example_he-looked-towards-the-ocean",
+                "text": "He looked towards the ocean."
+            },
+            {
+                "code": "look_example_it-looks-to-me-you-weren-t-telling-the-truth",
+                "text": "It looks to me you weren't telling the truth."
+            }
+        ]
+    },
+    {
+        "type": "(n)",
+        "mean": "the act of looking at or examining something; a facial expression",
+        "examples": [
+            {
+                "code": "look_example_i-need-to-take-a-closer-look",
+                "text": "I need to take a closer look."
+            },
+            {
+                "code": "look_example_the-film-gives-a-humorous-look-at-reality-television",
+                "text": "The film gives a humorous look at reality television."
+            },
+            {
+                "code": "look_example_the-documentary-provides-an-inside-look-at-life-in-prison",
+                "text": "The documentary provides an inside look at life in prison."
+            },
+            {
+                "code": "look_example_you-better-take-a-good-look-at-it",
+                "text": "You better take a good look at it."
+            },
+            {
+                "code": "look_example_he-had-an-angry-look-on-his-face",
+                "text": "He had an angry look on his face."
+            },
+            {
+                "code": "look_example_he-gave-me-a-funny-look",
+                "text": "He gave me a funny look."
+            },
+            {
+                "code": "look_example_i-got-a-good-look-at-his-new-car",
+                "text": "I got a good look at his new car."
+            },
+            {
+                "code": "look_example_i-sneaked-a-quick-look-at-the-surprise",
+                "text": "I sneaked a quick look at the surprise."
+            },
+            {
+                "code": "look_example_the-tour-offers-a-historical-look-at-the-civil-war",
+                "text": "The tour offers a historical look at the Civil War."
+            },
+            {
+                "code": "look_example_i-took-a-look-at-his-new-computer",
+                "text": "I took a look at his new computer."
+            },
+            {
+                "code": "look_example_he-took-a-brief-look-through-his-notes",
+                "text": "He took a brief look through his notes."
+            },
+            {
+                "code": "look_example_she-took-a-quick-look-in-the-mirror",
+                "text": "She took a quick look in the mirror."
+            },
+            {
+                "code": "look_example_have-a-look-out-of-the-window",
+                "text": "Have a look out of the window."
+            },
+            {
+                "code": "look_example_we-had-a-good-look-around-downtown",
+                "text": "We had a good look around downtown."
+            }
+        ]
+    }
+]

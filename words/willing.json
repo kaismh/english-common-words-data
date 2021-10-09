@@ -1,0 +1,28 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "ready to help or do something when needed",
+        "examples": [
+            {
+                "code": "willing_example_she-is-always-willing-to-help-her-friends",
+                "text": "She is always willing to help her friends."
+            },
+            {
+                "code": "willing_example_she-is-more-than-willing-to-babysit-the-children",
+                "text": "She is more than willing to babysit the children."
+            },
+            {
+                "code": "willing_example_they-are-no-longer-willing-to-give-us-a-discount",
+                "text": "They are no longer willing to give us a discount."
+            },
+            {
+                "code": "willing_example_she-is-willing-to-discuss-the-problem",
+                "text": "She is willing to discuss the problem."
+            },
+            {
+                "code": "willing_example_he-was-a-willing-helper",
+                "text": "He was a willing helper."
+            }
+        ]
+    }
+]

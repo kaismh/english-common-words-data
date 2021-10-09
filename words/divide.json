@@ -1,0 +1,66 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a difference between two things",
+        "examples": [
+            {
+                "code": "divide_example_the-grand-canyon-is-a-big-divide",
+                "text": "The Grand Canyon is a big divide."
+            },
+            {
+                "code": "divide_example_there-is-a-class-divide-in-america",
+                "text": "There is a class divide in America."
+            },
+            {
+                "code": "divide_example_their-goal-is-to-close-the-divide",
+                "text": "Their goal is to close the divide."
+            },
+            {
+                "code": "divide_example_her-comments-created-a-divide-between-the-ethnic-groups",
+                "text": "Her comments created a divide between the ethnic groups."
+            },
+            {
+                "code": "divide_example_the-politician-s-views-have-widened-the-economic-divide-in-this-area",
+                "text": "The politician's views have widened the economic divide in this area."
+            },
+            {
+                "code": "divide_example_there-is-a-social-divide-between-the-rich-and-the-poor",
+                "text": "There is a social divide between the rich and the poor."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to separate things into parts; to create disagreement",
+        "examples": [
+            {
+                "code": "divide_example_the-parents-will-evenly-divide-their-allowances",
+                "text": "The parents will evenly divide their allowances."
+            },
+            {
+                "code": "divide_example_she-neatly-divided-the-art-supplies-for-the-two-classes",
+                "text": "She neatly divided the art supplies for the two classes."
+            },
+            {
+                "code": "divide_example_she-randomly-divided-the-class-into-groups",
+                "text": "She randomly divided the class into groups."
+            },
+            {
+                "code": "divide_example_the-law-will-bitterly-divide-the-people",
+                "text": "The law will bitterly divide the people."
+            },
+            {
+                "code": "divide_example_we-will-divide-the-cake-among-us",
+                "text": "We will divide the cake among us."
+            },
+            {
+                "code": "divide_example_the-class-will-divide-into-two-groups",
+                "text": "The class will divide into two groups."
+            },
+            {
+                "code": "divide_example_his-views-could-divide-the-country",
+                "text": "His views could divide the country."
+            }
+        ]
+    }
+]

@@ -1,0 +1,78 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a large boat",
+        "examples": [
+            {
+                "code": "ship_example_we-saw-a-large-cargo-ship",
+                "text": "We saw a large cargo ship."
+            },
+            {
+                "code": "ship_example_they-were-on-a-large-military-ship",
+                "text": "They were on a large military ship."
+            },
+            {
+                "code": "ship_example_the-crew-worked-hard-on-the-small-ship",
+                "text": "The crew worked hard on the small ship."
+            },
+            {
+                "code": "ship_example_everybody-boarded-the-ship",
+                "text": "Everybody boarded the ship."
+            },
+            {
+                "code": "ship_example_the-crew-sailed-the-large-ship",
+                "text": "The crew sailed the large ship."
+            },
+            {
+                "code": "ship_example_the-captain-abandoned-his-own-ship",
+                "text": "The captain abandoned his own ship."
+            },
+            {
+                "code": "ship_example_the-rescue-ship-carried-the-passengers-back-to-shore",
+                "text": "The rescue ship carried the passengers back to shore."
+            },
+            {
+                "code": "ship_example_the-ship-capsized-far-from-shore",
+                "text": "The ship capsized far from shore."
+            },
+            {
+                "code": "ship_example_the-items-were-sent-by-ship",
+                "text": "The items were sent by ship."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to send something by ship; to mail out an order",
+        "examples": [
+            {
+                "code": "ship_example_we-shipped-our-car-to-south-america",
+                "text": "We shipped our car to South America."
+            },
+            {
+                "code": "ship_example_the-company-shipped-the-merchandise-overnight",
+                "text": "The company shipped the merchandise overnight."
+            },
+            {
+                "code": "ship_example_the-package-was-shipped-quickly",
+                "text": "The package was shipped quickly."
+            },
+            {
+                "code": "ship_example_the-package-was-shipped-quickly-to-us",
+                "text": "The package was shipped quickly to us."
+            },
+            {
+                "code": "ship_example_the-fragile-item-was-shipped-safely",
+                "text": "The fragile item was shipped safely."
+            },
+            {
+                "code": "ship_example_the-package-was-shipped-by-air",
+                "text": "The package was shipped by air."
+            },
+            {
+                "code": "ship_example_please-ship-the-order-with-the-invoice",
+                "text": "Please ship the order with the invoice."
+            }
+        ]
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to cut something into pieces",
+        "examples": [
+            {
+                "code": "slice_example_she-sliced-the-roast-beef-thinly",
+                "text": "She sliced the roast beef thinly."
+            },
+            {
+                "code": "slice_example_the-knife-sliced-through-the-tomatoes-cleanly",
+                "text": "The knife sliced through the tomatoes cleanly."
+            },
+            {
+                "code": "slice_example_first-slice-up-the-onions",
+                "text": "First, slice up the onions."
+            },
+            {
+                "code": "slice_example_the-sharp-knife-sliced-through-the-watermelon",
+                "text": "The sharp knife sliced through the watermelon."
+            },
+            {
+                "code": "slice_example_she-sliced-the-fat-off-from-the-meat",
+                "text": "She sliced the fat off from the meat."
+            }
+        ]
+    },
+    {
+        "type": "(n)",
+        "mean": "a thin piece cut off from a bigger part of something",
+        "examples": [
+            {
+                "code": "slice_example_she-gave-me-a-large-slice-of-pizza",
+                "text": "She gave me a large slice of pizza."
+            },
+            {
+                "code": "slice_example_he-prepared-some-thin-slices-of-cheese",
+                "text": "He prepared some thin slices of cheese."
+            },
+            {
+                "code": "slice_example_she-offered-him-a-generous-slice-of-pie",
+                "text": "She offered him a generous slice of pie."
+            },
+            {
+                "code": "slice_example_he-cut-a-thin-slice-of-bread",
+                "text": "He cut a thin slice of bread."
+            },
+            {
+                "code": "slice_example_he-ate-five-slices-of-pizza",
+                "text": "He ate five slices of pizza."
+            },
+            {
+                "code": "slice_example_my-father-carves-thin-slices-of-turkey-for-sandwiches",
+                "text": "My father carves thin slices of turkey for sandwiches."
+            },
+            {
+                "code": "slice_example_i-was-craving-a-slice-of-cake",
+                "text": "I was craving a slice of cake."
+            }
+        ]
+    }
+]

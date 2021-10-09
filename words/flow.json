@@ -1,0 +1,178 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the steady and continuous movement or production of something",
+        "examples": [
+            {
+                "code": "flow_example_there-was-a-large-flow-of-melting-snow-down-the-mountain",
+                "text": "There was a large flow of melting snow down the mountain."
+            },
+            {
+                "code": "flow_example_there-is-adequate-flow-of-water-here",
+                "text": "There is adequate flow of water here."
+            },
+            {
+                "code": "flow_example_they-had-to-turn-off-the-main-flow",
+                "text": "They had to turn off the main flow."
+            },
+            {
+                "code": "flow_example_they-are-trying-to-deal-with-the-increasing-flow-of-customer-traffic",
+                "text": "They are trying to deal with the increasing flow of customer traffic."
+            },
+            {
+                "code": "flow_example_there-is-a-constant-flow-of-customers-in-this-store",
+                "text": "There is a constant flow of customers in this store."
+            },
+            {
+                "code": "flow_example_the-river-has-returned-to-a-natural-flow",
+                "text": "The river has returned to a natural flow."
+            },
+            {
+                "code": "flow_example_they-inspected-the-river-flow",
+                "text": "They inspected the river flow."
+            },
+            {
+                "code": "flow_example_they-re-concerned-about-data-flow",
+                "text": "They're concerned about data flow."
+            },
+            {
+                "code": "flow_example_the-system-generates-a-constant-flow-of-data",
+                "text": "The system generates a constant flow of data."
+            },
+            {
+                "code": "flow_example_the-dam-maintains-a-consistent-flow-of-water",
+                "text": "The dam maintains a consistent flow of water."
+            },
+            {
+                "code": "flow_example_that-department-of-transportation-regulates-the-flow-of-traffic",
+                "text": "That department of transportation regulates the flow of traffic."
+            },
+            {
+                "code": "flow_example_they-are-trying-to-improve-the-water-flow-in-this-building",
+                "text": "They are trying to improve the water flow in this building."
+            },
+            {
+                "code": "flow_example_the-accident-greatly-restricted-the-flow-of-traffic",
+                "text": "The accident greatly restricted the flow of traffic."
+            },
+            {
+                "code": "flow_example_they-tried-to-stop-the-flow-of-debris-before-it-destroyed-the-fish-in-the-river",
+                "text": "They tried to stop the flow of debris before it destroyed the fish in the river."
+            },
+            {
+                "code": "flow_example_they-diverted-the-flow-of-water-away-from-the-problem",
+                "text": "They diverted the flow of water away from the problem."
+            },
+            {
+                "code": "flow_example_many-tools-measure-the-flow-of-water",
+                "text": "Many tools measure the flow of water."
+            },
+            {
+                "code": "flow_example_they-are-reviewing-the-new-flow-chart",
+                "text": "They are reviewing the new flow chart."
+            },
+            {
+                "code": "flow_example_the-flow-rate-of-the-river-is-lower-than-normal",
+                "text": "The flow rate of the river is lower than normal."
+            },
+            {
+                "code": "flow_example_he-s-concerned-about-data-flow-between-the-different-groups",
+                "text": "He's concerned about data flow between the different groups."
+            },
+            {
+                "code": "flow_example_there-hasn-t-been-a-good-flow-of-information-in-this-program",
+                "text": "There hasn't been a good flow of information in this program."
+            },
+            {
+                "code": "flow_example_the-water-flow-through-the-canyon-is-high-this-spring",
+                "text": "The water flow through the canyon is high this spring."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to move in a steady and continuous manner",
+        "examples": [
+            {
+                "code": "flow_example_their-conversation-flowed-easily",
+                "text": "Their conversation flowed easily."
+            },
+            {
+                "code": "flow_example_alcohol-flowed-freely-at-the-event",
+                "text": "Alcohol flowed freely at the event."
+            },
+            {
+                "code": "flow_example_the-river-flows-quickly-this-time-of-year",
+                "text": "The river flows quickly this time of year."
+            },
+            {
+                "code": "flow_example_the-streams-flow-together-at-this-point",
+                "text": "The streams flow together at this point."
+            },
+            {
+                "code": "flow_example_the-data-flows-constantly-into-this-program",
+                "text": "The data flows constantly into this program."
+            },
+            {
+                "code": "flow_example_the-water-began-to-flow-into-the-lake",
+                "text": "The water began to flow into the lake."
+            },
+            {
+                "code": "flow_example_new-information-continues-to-flow-in",
+                "text": "New information continues to flow in."
+            },
+            {
+                "code": "flow_example_the-stream-flows-between-the-two-lakes",
+                "text": "The stream flows between the two lakes."
+            },
+            {
+                "code": "flow_example_the-river-flows-across-the-hillside",
+                "text": "The river flows across the hillside."
+            },
+            {
+                "code": "flow_example_tears-flowed-from-her-eyes",
+                "text": "Tears flowed from her eyes."
+            },
+            {
+                "code": "flow_example_they-are-trying-to-get-the-blood-flowing-to-her-brain",
+                "text": "They are trying to get the blood flowing to her brain."
+            },
+            {
+                "code": "flow_example_water-is-constantly-flowing-from-the-stream",
+                "text": "Water is constantly flowing from the stream."
+            },
+            {
+                "code": "flow_example_that-waterfall-flows-slowly-in-the-summer",
+                "text": "That waterfall flows slowly in the summer."
+            },
+            {
+                "code": "flow_example_we-need-to-get-the-electricity-flowing-again",
+                "text": "We need to get the electricity flowing again."
+            },
+            {
+                "code": "flow_example_their-conversation-flowed-easily",
+                "text": "Their conversation flowed easily."
+            },
+            {
+                "code": "flow_example_the-music-flowed-well-with-the-scene",
+                "text": "The music flowed well with the scene."
+            },
+            {
+                "code": "flow_example_information-flowed-freely-from-him",
+                "text": "Information flowed freely from him."
+            },
+            {
+                "code": "flow_example_tears-flowed-down-her-face",
+                "text": "Tears flowed down her face."
+            },
+            {
+                "code": "flow_example_traffic-isn-t-flowing-well-today",
+                "text": "Traffic isn't flowing well today."
+            },
+            {
+                "code": "flow_example_that-should-get-your-adrenalin-flowing",
+                "text": "That should get your adrenalin flowing."
+            }
+        ]
+    }
+]

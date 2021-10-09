@@ -1,0 +1,48 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "small; not serious",
+        "examples": [
+            {
+                "code": "minor_example_there-will-be-a-minor-change",
+                "text": "There will be a minor change."
+            },
+            {
+                "code": "minor_example_this-is-a-minor-disappointment",
+                "text": "This is a minor disappointment."
+            },
+            {
+                "code": "minor_example_she-only-had-a-minor-role-in-the-play",
+                "text": "She only had a minor role in the play."
+            },
+            {
+                "code": "minor_example_we-witnessed-a-minor-miracle",
+                "text": "We witnessed a minor miracle."
+            },
+            {
+                "code": "minor_example_he-played-in-the-minor-league",
+                "text": "He played in the minor league."
+            },
+            {
+                "code": "minor_example_it-s-just-a-minor-setback",
+                "text": "It's just a minor setback."
+            },
+            {
+                "code": "minor_example_i-played-a-minor-chord-on-the-piano",
+                "text": "I played a minor chord on the piano."
+            },
+            {
+                "code": "minor_example_we-have-a-minor-complication",
+                "text": "We have a minor complication."
+            },
+            {
+                "code": "minor_example_the-accident-is-only-minor",
+                "text": "The accident is only minor."
+            },
+            {
+                "code": "minor_example_it-was-a-very-minor-incident-so-don-t-worry",
+                "text": "It was a very minor incident, so don't worry."
+            }
+        ]
+    }
+]

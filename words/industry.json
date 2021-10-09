@@ -1,0 +1,68 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a group of businesses that make certain products or provide certain services",
+        "examples": [
+            {
+                "code": "industry_example_he-is-working-for-a-growing-industry",
+                "text": "He is working for a growing industry."
+            },
+            {
+                "code": "industry_example_it-is-becoming-a-major-industry",
+                "text": "It is becoming a major industry."
+            },
+            {
+                "code": "industry_example_the-government-needs-to-support-domestic-industries",
+                "text": "The government needs to support domestic industries."
+            },
+            {
+                "code": "industry_example_the-construction-industry-is-growing-fast",
+                "text": "The construction industry is growing fast."
+            },
+            {
+                "code": "industry_example_the-pharmaceutical-industry-is-strictly-regulated",
+                "text": "The pharmaceutical industry is strictly regulated."
+            },
+            {
+                "code": "industry_example_it-is-hard-to-get-into-the-entertainment-industry",
+                "text": "It is hard to get into the entertainment industry."
+            },
+            {
+                "code": "industry_example_the-government-should-help-growing-industries",
+                "text": "The government should help growing industries."
+            },
+            {
+                "code": "industry_example_she-is-studying-to-enter-the-biotech-industry",
+                "text": "She is studying to enter the biotech industry."
+            },
+            {
+                "code": "industry_example_the-hurricane-has-damaged-the-local-tourism-industry",
+                "text": "The hurricane has damaged the local tourism industry."
+            },
+            {
+                "code": "industry_example_he-invested-money-to-expand-the-industry",
+                "text": "He invested money to expand the industry."
+            },
+            {
+                "code": "industry_example_the-technology-industry-is-experiencing-major-growth",
+                "text": "The technology industry is experiencing major growth."
+            },
+            {
+                "code": "industry_example_his-company-became-an-industry-leader",
+                "text": "His company became an industry leader."
+            },
+            {
+                "code": "industry_example_she-became-an-industry-expert",
+                "text": "She became an industry expert."
+            },
+            {
+                "code": "industry_example_smart-phones-have-become-an-industry-standard",
+                "text": "Smart phones have become an industry standard."
+            },
+            {
+                "code": "industry_example_changes-happen-quickly-in-the-tourism-industry",
+                "text": "Changes happen quickly in the tourism industry."
+            }
+        ]
+    }
+]

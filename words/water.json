@@ -1,0 +1,126 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a colorless liquid used for drinking, bathing, washing, cleaning and swimming",
+        "examples": [
+            {
+                "code": "water_example_the-recipe-says-to-add-boiling-water",
+                "text": "The recipe says to add boiling water."
+            },
+            {
+                "code": "water_example_you-should-drink-clean-water",
+                "text": "You should drink clean water."
+            },
+            {
+                "code": "water_example_the-restaurant-serves-tap-water",
+                "text": "The restaurant serves tap water."
+            },
+            {
+                "code": "water_example_she-accidentally-swallowed-sea-water-while-swimming",
+                "text": "She accidentally swallowed sea water while swimming."
+            },
+            {
+                "code": "water_example_the-water-is-deep",
+                "text": "The water is deep."
+            },
+            {
+                "code": "water_example_the-fisherman-took-the-boat-out-into-the-open-water",
+                "text": "The fisherman took the boat out into the open water."
+            },
+            {
+                "code": "water_example_they-were-caught-in-stormy-waters",
+                "text": "They were caught in stormy waters."
+            },
+            {
+                "code": "water_example_the-water-is-safe-to-drink",
+                "text": "The water is safe to drink."
+            },
+            {
+                "code": "water_example_he-drinks-water-throughout-the-day",
+                "text": "He drinks water throughout the day."
+            },
+            {
+                "code": "water_example_the-children-were-spraying-water-on-each-other",
+                "text": "The children were spraying water on each other."
+            },
+            {
+                "code": "water_example_they-are-contaminating-the-water-with-trash",
+                "text": "They are contaminating the water with trash."
+            },
+            {
+                "code": "water_example_turn-off-the-water",
+                "text": "Turn off the water."
+            },
+            {
+                "code": "water_example_please-boil-some-water-for-tea",
+                "text": "Please boil some water for tea."
+            },
+            {
+                "code": "water_example_water-is-dripping-from-the-pipes",
+                "text": "Water is dripping from the pipes."
+            },
+            {
+                "code": "water_example_water-was-running-down-the-street",
+                "text": "Water was running down the street."
+            },
+            {
+                "code": "water_example_the-water-froze",
+                "text": "The water froze."
+            },
+            {
+                "code": "water_example_we-can-see-something-in-the-water",
+                "text": "We can see something in the water."
+            },
+            {
+                "code": "water_example_the-toy-boat-floats-on-the-water",
+                "text": "The toy boat floats on the water."
+            },
+            {
+                "code": "water_example_the-fish-swim-quickly-through-the-water",
+                "text": "The fish swim quickly through the water."
+            },
+            {
+                "code": "water_example_the-water-temperature-is-warm",
+                "text": "The water temperature is warm."
+            },
+            {
+                "code": "water_example_the-water-pressure-is-low",
+                "text": "The water pressure is low."
+            },
+            {
+                "code": "water_example_the-small-village-does-not-have-good-water-supply",
+                "text": "The small village does not have good water supply."
+            },
+            {
+                "code": "water_example_we-need-to-replace-the-water-filter",
+                "text": "We need to replace the water filter."
+            },
+            {
+                "code": "water_example_water-pollution-is-a-growing-problem",
+                "text": "Water pollution is a growing problem."
+            },
+            {
+                "code": "water_example_we-need-more-water-bottles",
+                "text": "We need more water bottles."
+            },
+            {
+                "code": "water_example_he-likes-to-play-water-sports",
+                "text": "He likes to play water sports."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to pour a colorless liquid on something like plants, flowers, and grass to help them grow",
+        "examples": [
+            {
+                "code": "water_example_he-waters-his-lawn-daily",
+                "text": "He waters his lawn daily."
+            },
+            {
+                "code": "water_example_she-waters-the-plants",
+                "text": "She waters the plants."
+            }
+        ]
+    }
+]

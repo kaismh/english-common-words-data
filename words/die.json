@@ -1,0 +1,44 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to stop living; to stop working",
+        "examples": [
+            {
+                "code": "die_example_she-hopes-to-die-peacefully",
+                "text": "She hopes to die peacefully."
+            },
+            {
+                "code": "die_example_their-dog-died-suddenly",
+                "text": "Their dog died suddenly."
+            },
+            {
+                "code": "die_example_he-died-tragically-in-a-car-accident",
+                "text": "He died tragically in a car accident."
+            },
+            {
+                "code": "die_example_they-nearly-died-in-the-plane-crash",
+                "text": "They nearly died in the plane crash."
+            },
+            {
+                "code": "die_example_the-solider-is-willing-to-die-for-his-country",
+                "text": "The solider is willing to die for his country."
+            },
+            {
+                "code": "die_example_you-can-die-from-smoke-inhalation",
+                "text": "You can die from smoke inhalation."
+            },
+            {
+                "code": "die_example_the-man-died-of-cancer",
+                "text": "The man died of cancer."
+            },
+            {
+                "code": "die_example_the-battery-died",
+                "text": "The battery died."
+            },
+            {
+                "code": "die_example_the-soldier-is-going-to-die",
+                "text": "The soldier is going to die."
+            }
+        ]
+    }
+]

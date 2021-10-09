@@ -1,0 +1,84 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the joint between the thigh and the lower leg",
+        "examples": [
+            {
+                "code": "knee_example_he-injured-his-right-knee",
+                "text": "He injured his right knee."
+            },
+            {
+                "code": "knee_example_she-had-a-sore-knee-after-playing-basketball",
+                "text": "She had a sore knee after playing basketball."
+            },
+            {
+                "code": "knee_example_he-got-an-infection-on-his-scraped-knee",
+                "text": "He got an infection on his scraped knee."
+            },
+            {
+                "code": "knee_example_he-tried-to-bend-his-left-knee",
+                "text": "He tried to bend his left knee."
+            },
+            {
+                "code": "knee_example_she-could-not-pull-her-knees-to-her-chest",
+                "text": "She could not pull her knees to her chest."
+            },
+            {
+                "code": "knee_example_he-went-down-on-his-knees-to-pray",
+                "text": "He went down on his knees to pray."
+            },
+            {
+                "code": "knee_example_the-girl-sat-on-her-father-s-knees",
+                "text": "The girl sat on her father's knees."
+            },
+            {
+                "code": "knee_example_she-injured-her-right-knee",
+                "text": "She injured her right knee."
+            },
+            {
+                "code": "knee_example_her-grandmother-s-knees-suddenly-buckled",
+                "text": "Her grandmother's knees suddenly buckled."
+            },
+            {
+                "code": "knee_example_her-knees-began-to-shake",
+                "text": "Her knees began to shake."
+            },
+            {
+                "code": "knee_example_he-is-struggling-with-a-knee-injury",
+                "text": "He is struggling with a knee injury."
+            },
+            {
+                "code": "knee_example_she-needs-knee-surgery",
+                "text": "She needs knee surgery."
+            },
+            {
+                "code": "knee_example_he-will-need-a-knee-operation",
+                "text": "He will need a knee operation."
+            },
+            {
+                "code": "knee_example_she-needs-knee-pads-to-play-volleyball",
+                "text": "She needs knee pads to play volleyball."
+            },
+            {
+                "code": "knee_example_my-daughter-wears-knee-socks",
+                "text": "My daughter wears knee socks."
+            },
+            {
+                "code": "knee_example_he-got-kicked-above-the-knee",
+                "text": "He got kicked above the knee."
+            },
+            {
+                "code": "knee_example_he-tore-a-ligament-in-his-knee",
+                "text": "He tore a ligament in his knee."
+            },
+            {
+                "code": "knee_example_he-dropped-to-one-knee-to-propose",
+                "text": "He dropped to one knee to propose."
+            },
+            {
+                "code": "knee_example_i-went-down-on-my-knees-to-pray",
+                "text": "I went down on my knees to pray."
+            }
+        ]
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "type": "(n)",
+        "mean": "something that is done regularly usually without thinking",
+        "examples": [
+            {
+                "code": "habit_example_smoking-is-a-dangerous-habit",
+                "text": "Smoking is a dangerous habit."
+            },
+            {
+                "code": "habit_example_he-has-many-poor-habits",
+                "text": "He has many poor habits."
+            },
+            {
+                "code": "habit_example_exercising-is-a-good-habit",
+                "text": "Exercising is a good habit."
+            },
+            {
+                "code": "habit_example_he-has-some-really-strange-habits",
+                "text": "He has some really strange habits."
+            },
+            {
+                "code": "habit_example_he-is-having-a-hard-time-breaking-old-habits",
+                "text": "He is having a hard time breaking old habits."
+            },
+            {
+                "code": "habit_example_she-is-not-flexible-in-her-daily-habits",
+                "text": "She is not flexible in her daily habits."
+            },
+            {
+                "code": "habit_example_nail-biting-is-a-nervous-habit",
+                "text": "Nail biting is a nervous habit."
+            },
+            {
+                "code": "habit_example_shopping-can-be-an-expensive-habit",
+                "text": "Shopping can be an expensive habit."
+            },
+            {
+                "code": "habit_example_he-needs-to-change-his-eating-habits",
+                "text": "He needs to change his eating habits."
+            },
+            {
+                "code": "habit_example_he-s-trying-to-quit-his-smoking-habit",
+                "text": "He's trying to quit his smoking habit."
+            },
+            {
+                "code": "habit_example_he-is-in-the-habit-of-ordering-take-out-every-night",
+                "text": "He is in the habit of ordering take-out every night."
+            },
+            {
+                "code": "habit_example_he-developed-some-bad-habits-while-living-alone",
+                "text": "He developed some bad habits while living alone."
+            },
+            {
+                "code": "habit_example_poor-eating-has-become-a-habit",
+                "text": "Poor eating has become a habit."
+            },
+            {
+                "code": "habit_example_he-s-trying-to-break-the-habit-of-staying-up-late",
+                "text": "He's trying to break the habit of staying up late."
+            },
+            {
+                "code": "habit_example_he-stole-money-to-support-his-gambling-habit",
+                "text": "He stole money to support his gambling habit."
+            },
+            {
+                "code": "habit_example_my-morning-routine-is-done-by-habit",
+                "text": "My morning routine is done by habit."
+            }
+        ]
+    }
+]

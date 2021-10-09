@@ -1,0 +1,40 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "having a baby developing inside a woman's body",
+        "examples": [
+            {
+                "code": "pregnant_example_she-became-pregnant-last-fall",
+                "text": "She became pregnant last fall."
+            },
+            {
+                "code": "pregnant_example_my-sister-is-pregnant-with-her-first-child",
+                "text": "My sister is pregnant with her first child."
+            },
+            {
+                "code": "pregnant_example_that-woman-appears-pregnant",
+                "text": "That woman appears pregnant."
+            },
+            {
+                "code": "pregnant_example_there-is-a-pregnant-woman-waiting-in-the-office",
+                "text": "There is a pregnant woman waiting in the office."
+            },
+            {
+                "code": "pregnant_example_my-pregnant-wife-needs-a-doctor",
+                "text": "My pregnant wife needs a doctor."
+            },
+            {
+                "code": "pregnant_example_she-looks-very-pregnant",
+                "text": "She looks very pregnant."
+            },
+            {
+                "code": "pregnant_example_she-is-visibly-pregnant",
+                "text": "She is visibly pregnant."
+            },
+            {
+                "code": "pregnant_example_she-is-pregnant-with-her-first-child",
+                "text": "She is pregnant with her first child."
+            }
+        ]
+    }
+]

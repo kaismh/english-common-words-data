@@ -1,0 +1,48 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the meaning or importance of something",
+        "examples": [
+            {
+                "code": "significance_example_the-story-has-enormous-significance",
+                "text": "The story has enormous significance."
+            },
+            {
+                "code": "significance_example_what-is-the-wider-significance-of-the-discovery",
+                "text": "What is the wider significance of the discovery?"
+            },
+            {
+                "code": "significance_example_this-desk-has-special-significance-to-my-family",
+                "text": "This desk has special significance to my family."
+            },
+            {
+                "code": "significance_example_that-book-has-major-cultural-significance",
+                "text": "That book has major cultural significance."
+            },
+            {
+                "code": "significance_example_the-ring-has-great-significance-to-her-mom",
+                "text": "The ring has great significance to her mom."
+            },
+            {
+                "code": "significance_example_we-want-to-understand-the-true-significance-of-his-stories",
+                "text": "We want to understand the true significance of his stories."
+            },
+            {
+                "code": "significance_example_please-don-t-attach-too-much-significance-to-what-he-says",
+                "text": "Please don't attach too much significance to what he says."
+            },
+            {
+                "code": "significance_example_we-need-to-determine-their-significance-to-this-situation",
+                "text": "We need to determine their significance to this situation."
+            },
+            {
+                "code": "significance_example_this-house-has-a-special-significance-for-my-family",
+                "text": "This house has a special significance for my family."
+            },
+            {
+                "code": "significance_example_i-didn-t-understand-the-significance-of-the-event",
+                "text": "I didn't understand the significance of the event."
+            }
+        ]
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a thin piece of wood",
+        "examples": [
+            {
+                "code": "stick_example_he-needs-long-sticks-to-build-his-fire",
+                "text": "He needs long sticks to build his fire."
+            },
+            {
+                "code": "stick_example_he-was-carrying-a-hiking-stick",
+                "text": "He was carrying a hiking stick."
+            },
+            {
+                "code": "stick_example_the-kids-were-throwing-sticks-at-each-other",
+                "text": "The kids were throwing sticks at each other."
+            },
+            {
+                "code": "stick_example_we-collected-sticks-to-make-a-campfire",
+                "text": "We collected sticks to make a campfire."
+            },
+            {
+                "code": "stick_example_he-used-a-long-stick-to-scare-away-the-dogs",
+                "text": "He used a long stick to scare away the dogs."
+            },
+            {
+                "code": "stick_example_i-made-a-house-out-of-sticks",
+                "text": "I made a house out of sticks."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to push something or someone with a pointed object; to attach something",
+        "examples": [
+            {
+                "code": "stick_example_he-accidently-stuck-a-pin-in-his-finger",
+                "text": "He accidently stuck a pin in his finger."
+            },
+            {
+                "code": "stick_example_the-nurse-simply-stuck-the-needle-in-her-arm",
+                "text": "The nurse simply stuck the needle in her arm."
+            },
+            {
+                "code": "stick_example_she-sticks-notes-on-the-refrigerator",
+                "text": "She sticks notes on the refrigerator."
+            }
+        ]
+    }
+]

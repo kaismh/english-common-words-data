@@ -1,0 +1,58 @@
+[
+    {
+        "type": "(n)",
+        "mean": "tiny grains of rock",
+        "examples": [
+            {
+                "code": "sand_example_hawaii-has-beaches-with-soft-sand",
+                "text": "Hawaii has beaches with soft sand."
+            },
+            {
+                "code": "sand_example_the-sand-was-wet",
+                "text": "The sand was wet."
+            },
+            {
+                "code": "sand_example_he-brushed-off-the-sand-from-his-shoes",
+                "text": "He brushed off the sand from his shoes."
+            },
+            {
+                "code": "sand_example_the-car-is-sinking-into-the-sand",
+                "text": "The car is sinking into the sand."
+            },
+            {
+                "code": "sand_example_the-sand-was-flying-everywhere",
+                "text": "The sand was flying everywhere."
+            },
+            {
+                "code": "sand_example_i-walked-through-a-sand-beach",
+                "text": "I walked through a sand beach."
+            },
+            {
+                "code": "sand_example_my-children-love-to-play-in-the-sandbox",
+                "text": "My children love to play in the sandbox."
+            },
+            {
+                "code": "sand_example_i-entered-a-sandcastle-contest",
+                "text": "I entered a sandcastle contest."
+            },
+            {
+                "code": "sand_example_the-kids-played-in-the-sand",
+                "text": "The kids played in the sand."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to make something smooth by rubbing it with coarse paper",
+        "examples": [
+            {
+                "code": "sand_example_rick-sanded-the-edge-of-the-table",
+                "text": "Rick sanded the edge of the table."
+            },
+            {
+                "code": "sand_example_i-need-to-sand-the-table-before-applying-stain",
+                "text": "I need to sand the table before applying stain."
+            }
+        ]
+    }
+]

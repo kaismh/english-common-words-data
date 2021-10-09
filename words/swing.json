@@ -1,0 +1,110 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to move back and forth or side to side; to move the arms or legs in a curving motion; to change from one mood or opinion to another",
+        "examples": [
+            {
+                "code": "swing_example_the-angry-child-was-wildly-swinging-his-arms",
+                "text": "The angry child was wildly swinging his arms."
+            },
+            {
+                "code": "swing_example_he-suddenly-swung-his-chair-around-to-face-her",
+                "text": "He suddenly swung his chair around to face her."
+            },
+            {
+                "code": "swing_example_he-carefully-swings-the-axe-when-chopping-wood",
+                "text": "He carefully swings the axe when chopping wood."
+            },
+            {
+                "code": "swing_example_he-suddenly-swings-from-one-mood-to-another",
+                "text": "He suddenly swings from one mood to another."
+            },
+            {
+                "code": "swing_example_the-gorilla-swings-from-branch-to-branch",
+                "text": "The gorilla swings from branch to branch."
+            },
+            {
+                "code": "swing_example_she-started-swinging-her-arms-at-him",
+                "text": "She started swinging her arms at him."
+            },
+            {
+                "code": "swing_example_the-election-could-be-suddenly-changed-by-swing-voters",
+                "text": "The election could be suddenly changed by swing voters."
+            }
+        ]
+    },
+    {
+        "type": "(n)",
+        "mean": "a change in mood or opinion; a seat hung from above using ropes or chains; a sweeping motion using the arms",
+        "examples": [
+            {
+                "code": "swing_example_he-needs-to-practice-his-golf-swing",
+                "text": "He needs to practice his golf swing."
+            },
+            {
+                "code": "swing_example_he-took-practice-swings-before-coming-up-to-the-plate",
+                "text": "He took practice swings before coming up to the plate."
+            },
+            {
+                "code": "swing_example_the-kids-love-playing-on-the-tire-swing",
+                "text": "The kids love playing on the tire swing."
+            },
+            {
+                "code": "swing_example_he-took-a-huge-swing-at-him",
+                "text": "He took a huge swing at him."
+            },
+            {
+                "code": "swing_example_he-took-a-sudden-swing-at-the-guy-and-missed",
+                "text": "He took a sudden swing at the guy and missed."
+            },
+            {
+                "code": "swing_example_he-has-terrible-mood-swings",
+                "text": "He has terrible mood swings."
+            },
+            {
+                "code": "swing_example_the-batter-has-a-powerful-swing",
+                "text": "The batter has a powerful swing."
+            },
+            {
+                "code": "swing_example_she-suffers-from-bad-mood-swings",
+                "text": "She suffers from bad mood swings."
+            },
+            {
+                "code": "swing_example_batters-practice-their-swings-every-day",
+                "text": "Batters practice their swings every day."
+            },
+            {
+                "code": "swing_example_the-golfer-changed-his-swing",
+                "text": "The golfer changed his swing."
+            },
+            {
+                "code": "swing_example_the-drunk-man-took-a-swing-at-the-bartender",
+                "text": "The drunk man took a swing at the bartender."
+            },
+            {
+                "code": "swing_example_kids-are-playing-on-the-swing",
+                "text": "Kids are playing on the swing."
+            },
+            {
+                "code": "swing_example_she-suffers-from-mood-swings",
+                "text": "She suffers from mood swings."
+            },
+            {
+                "code": "swing_example_there-was-a-sudden-swing-in-his-opinion",
+                "text": "There was a sudden swing in his opinion."
+            },
+            {
+                "code": "swing_example_there-was-a-sudden-swing-toward-the-new-candidate",
+                "text": "There was a sudden swing toward the new candidate."
+            },
+            {
+                "code": "swing_example_he-took-a-swing-at-him",
+                "text": "He took a swing at him."
+            },
+            {
+                "code": "swing_example_she-pushes-her-daughter-on-the-swing",
+                "text": "She pushes her daughter on the swing."
+            }
+        ]
+    }
+]

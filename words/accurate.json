@@ -1,0 +1,44 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "correct; without mistake",
+        "examples": [
+            {
+                "code": "accurate_example_her-memory-is-very-accurate",
+                "text": "Her memory is very accurate."
+            },
+            {
+                "code": "accurate_example_the-shooter-s-aim-is-extremely-accurate",
+                "text": "The shooter's aim is extremely accurate."
+            },
+            {
+                "code": "accurate_example_the-calculations-were-scientifically-accurate",
+                "text": "The calculations were scientifically accurate."
+            },
+            {
+                "code": "accurate_example_his-prediction-proved-accurate",
+                "text": "His prediction proved accurate."
+            },
+            {
+                "code": "accurate_example_she-gave-the-police-an-accurate-description-of-the-car",
+                "text": "She gave the police an accurate description of the car."
+            },
+            {
+                "code": "accurate_example_i-need-an-accurate-explanation-of-what-happened",
+                "text": "I need an accurate explanation of what happened."
+            },
+            {
+                "code": "accurate_example_what-is-the-accurate-definition-of-that-word",
+                "text": "What is the accurate definition of that word?"
+            },
+            {
+                "code": "accurate_example_what-is-the-accurate-time",
+                "text": "What is the accurate time?"
+            },
+            {
+                "code": "accurate_example_i-need-an-accurate-clock-to-measure-his-speed",
+                "text": "I need an accurate clock to measure his speed."
+            }
+        ]
+    }
+]

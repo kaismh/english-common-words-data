@@ -1,0 +1,130 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to want or have to do something because it is important",
+        "examples": [
+            {
+                "code": "need_example_they-need-money",
+                "text": "They need money."
+            },
+            {
+                "code": "need_example_i-need-a-shower",
+                "text": "I need a shower."
+            },
+            {
+                "code": "need_example_she-needs-friendship",
+                "text": "She needs friendship."
+            },
+            {
+                "code": "need_example_she-needs-a-favor",
+                "text": "She needs a favor."
+            },
+            {
+                "code": "need_example_he-needs-affection",
+                "text": "He needs affection."
+            },
+            {
+                "code": "need_example_we-need-your-cooperation",
+                "text": "We need your cooperation."
+            },
+            {
+                "code": "need_example_they-just-need-more-discipline",
+                "text": "They just need more discipline."
+            },
+            {
+                "code": "need_example_i-need-more-consideration",
+                "text": "I need more consideration."
+            },
+            {
+                "code": "need_example_i-need-counseling",
+                "text": "I need counseling."
+            },
+            {
+                "code": "need_example_i-need-an-explanation-for-this",
+                "text": "I need an explanation for this."
+            },
+            {
+                "code": "need_example_you-will-need-a-few-references",
+                "text": "You will need a few references."
+            },
+            {
+                "code": "need_example_she-needs-medical-attention",
+                "text": "She needs medical attention."
+            },
+            {
+                "code": "need_example_i-need-some-sleep",
+                "text": "I need some sleep."
+            },
+            {
+                "code": "need_example_she-needs-supervision",
+                "text": "She needs supervision."
+            },
+            {
+                "code": "need_example_the-car-needs-maintenance",
+                "text": "The car needs maintenance."
+            },
+            {
+                "code": "need_example_we-need-practice",
+                "text": "We need practice."
+            },
+            {
+                "code": "need_example_he-clearly-needs-some-help",
+                "text": "He clearly needs some help."
+            },
+            {
+                "code": "need_example_she-only-needs-a-few-things",
+                "text": "She only needs a few things."
+            },
+            {
+                "code": "need_example_i-simply-need-a-place-to-stay",
+                "text": "I simply need a place to stay."
+            },
+            {
+                "code": "need_example_i-badly-needed-someone-to-talk-to",
+                "text": "I badly needed someone to talk to."
+            }
+        ]
+    },
+    {
+        "type": "(n)",
+        "mean": "something that someone must have or must do because it is important",
+        "examples": [
+            {
+                "code": "need_example_there-is-a-great-need-for-smaller-class-sizes",
+                "text": "There is a great need for smaller class sizes."
+            },
+            {
+                "code": "need_example_there-is-an-overwhelming-need-for-donations-at-the-local-food-bank",
+                "text": "There is an overwhelming need for donations at the local food bank."
+            },
+            {
+                "code": "need_example_we-have-an-increasing-need-for-nurses-at-this-hospital",
+                "text": "We have an increasing need for nurses at this hospital."
+            },
+            {
+                "code": "need_example_there-is-a-possible-need-to-reduce-staff",
+                "text": "There is a possible need to reduce staff."
+            },
+            {
+                "code": "need_example_how-can-we-meet-your-individual-needs",
+                "text": "How can we meet your individual needs?"
+            },
+            {
+                "code": "need_example_i-feel-the-need-to-do-more-charity-work",
+                "text": "I feel the need to do more charity work."
+            },
+            {
+                "code": "need_example_voters-have-expressed-the-need-for-more-police-security",
+                "text": "Voters have expressed the need for more police security."
+            },
+            {
+                "code": "need_example_let-s-not-ignore-the-needs-of-the-homeless-people",
+                "text": "Let's not ignore the needs of the homeless people."
+            },
+            {
+                "code": "need_example_i-am-trying-to-understand-your-needs",
+                "text": "I am trying to understand your needs?"
+            }
+        ]
+    }
+]

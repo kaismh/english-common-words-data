@@ -1,0 +1,52 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "being almost the same",
+        "examples": [
+            {
+                "code": "similar_example_that-apple-is-similar-to-the-one-i-ate-yesterday",
+                "text": "That apple is similar to the one I ate yesterday."
+            },
+            {
+                "code": "similar_example_the-trumpet-sounds-similar-to-the-trombone",
+                "text": "The trumpet sounds similar to the trombone."
+            },
+            {
+                "code": "similar_example_they-remain-similar-in-color",
+                "text": "They remain similar in color."
+            },
+            {
+                "code": "similar_example_the-couple-became-similar-in-personality",
+                "text": "The couple became similar in personality."
+            },
+            {
+                "code": "similar_example_these-two-songs-are-extremely-similar",
+                "text": "These two songs are extremely similar."
+            },
+            {
+                "code": "similar_example_the-twins-are-remarkably-similar-in-personality",
+                "text": "The twins are remarkably similar in personality."
+            },
+            {
+                "code": "similar_example_the-teachers-share-roughly-similar-lesson-plans",
+                "text": "The teachers share roughly similar lesson plans."
+            },
+            {
+                "code": "similar_example_the-two-rooms-are-similar-in-size",
+                "text": "The two rooms are similar in size."
+            },
+            {
+                "code": "similar_example_he-acts-similar-to-his-older-brother",
+                "text": "He acts similar to his older brother."
+            },
+            {
+                "code": "similar_example_i-noticed-a-similar-pattern",
+                "text": "I noticed a similar pattern."
+            },
+            {
+                "code": "similar_example_the-sisters-have-similar-fashion",
+                "text": "The sisters have similar fashion."
+            }
+        ]
+    }
+]

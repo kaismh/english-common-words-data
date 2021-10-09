@@ -1,0 +1,74 @@
+[
+    {
+        "type": "(n)",
+        "mean": "an even score in a game",
+        "examples": [
+            {
+                "code": "draw_example_the-soccer-game-ended-in-a-scoreless-draw",
+                "text": "The soccer game ended in a scoreless draw."
+            },
+            {
+                "code": "draw_example_the-match-will-end-in-a-draw",
+                "text": "The match will end in a draw."
+            },
+            {
+                "code": "draw_example_the-team-earned-a-draw",
+                "text": "The team earned a draw."
+            },
+            {
+                "code": "draw_example_we-had-a-draw-against-last-year-s-champion",
+                "text": "We had a draw against last year's champion."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to make a picture; to pull something; to attract",
+        "examples": [
+            {
+                "code": "draw_example_my-brother-can-draw-people-s-faces-accurately",
+                "text": "My brother can draw people's faces accurately."
+            },
+            {
+                "code": "draw_example_he-carefully-drew-a-picture-of-his-wife",
+                "text": "He carefully drew a picture of his wife."
+            },
+            {
+                "code": "draw_example_she-quickly-drew-a-sketch-of-the-suspect",
+                "text": "She quickly drew a sketch of the suspect."
+            },
+            {
+                "code": "draw_example_please-draw-back-the-curtains",
+                "text": "Please draw back the curtains."
+            },
+            {
+                "code": "draw_example_she-was-immediately-drawn-to-him",
+                "text": "She was immediately drawn to him."
+            },
+            {
+                "code": "draw_example_he-drew-me-onto-the-dance-floor",
+                "text": "He drew me onto the dance floor."
+            },
+            {
+                "code": "draw_example_what-drew-you-to-this-line-of-work",
+                "text": "What drew you to this line of work?"
+            },
+            {
+                "code": "draw_example_she-drew-attention-from-people-walking-by",
+                "text": "She drew attention from people walking by."
+            },
+            {
+                "code": "draw_example_he-draws-pictures",
+                "text": "He draws pictures."
+            },
+            {
+                "code": "draw_example_draw-the-blinds",
+                "text": "Draw the blinds."
+            },
+            {
+                "code": "draw_example_her-performance-drew-attention",
+                "text": "Her performance drew attention."
+            }
+        ]
+    }
+]

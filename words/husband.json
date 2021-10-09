@@ -1,0 +1,48 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a married man; the man a woman is married to",
+        "examples": [
+            {
+                "code": "husband_example_she-met-her-future-husband-while-in-college",
+                "text": "She met her future husband while in college."
+            },
+            {
+                "code": "husband_example_her-parents-worried-about-her-finding-a-suitable-husband",
+                "text": "Her parents worried about her finding a suitable husband."
+            },
+            {
+                "code": "husband_example_she-speaks-fondly-of-her-late-husband",
+                "text": "She speaks fondly of her late husband."
+            },
+            {
+                "code": "husband_example_tom-is-her-second-husband",
+                "text": "Tom is her second husband."
+            },
+            {
+                "code": "husband_example_he-s-a-devoted-husband",
+                "text": "He's a devoted husband."
+            },
+            {
+                "code": "husband_example_she-hates-talking-to-her-estranged-husband",
+                "text": "She hates talking to her estranged husband."
+            },
+            {
+                "code": "husband_example_she-s-trying-to-leave-her-jealous-husband",
+                "text": "She's trying to leave her jealous husband."
+            },
+            {
+                "code": "husband_example_she-met-her-husband-while-traveling",
+                "text": "She met her husband while traveling."
+            },
+            {
+                "code": "husband_example_she-married-her-husband-35-years-ago",
+                "text": "She married her husband 35 years ago."
+            },
+            {
+                "code": "husband_example_she-lost-her-husband-five-years-ago",
+                "text": "She lost her husband five years ago."
+            }
+        ]
+    }
+]

@@ -1,0 +1,48 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "unable to find the way; unable to be found",
+        "examples": [
+            {
+                "code": "lost_example_we-got-lost-in-the-woods",
+                "text": "We got lost in the woods."
+            },
+            {
+                "code": "lost_example_i-feel-lost-without-my-cell-phone",
+                "text": "I feel lost without my cell phone."
+            },
+            {
+                "code": "lost_example_by-evening-time-they-were-completely-lost",
+                "text": "By evening time they were completely lost."
+            },
+            {
+                "code": "lost_example_he-looked-rather-lost-and-lonely-in-the-crowd",
+                "text": "He looked rather lost and lonely in the crowd."
+            },
+            {
+                "code": "lost_example_she-was-walking-around-with-a-lost-expression-on-her-face",
+                "text": "She was walking around with a lost expression on her face."
+            },
+            {
+                "code": "lost_example_we-regret-the-lost-opportunity",
+                "text": "We regret the lost opportunity."
+            },
+            {
+                "code": "lost_example_archaeologists-discovered-a-lost-world",
+                "text": "Archaeologists discovered a lost world."
+            },
+            {
+                "code": "lost_example_we-gave-up-because-it-was-a-lost-cause",
+                "text": "We gave up because it was a lost cause."
+            },
+            {
+                "code": "lost_example_did-they-ever-find-the-lost-child",
+                "text": "Did they ever find the lost child?"
+            },
+            {
+                "code": "lost_example_they-recovered-the-lost-ship",
+                "text": "They recovered the lost ship."
+            }
+        ]
+    }
+]

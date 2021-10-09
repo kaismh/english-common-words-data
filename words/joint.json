@@ -1,0 +1,66 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a place where two bones meet in the body",
+        "examples": [
+            {
+                "code": "joint_example_his-elbow-joint-was-hurting",
+                "text": "His elbow joint was hurting."
+            },
+            {
+                "code": "joint_example_she-struggled-with-aching-joints-for-a-long-time",
+                "text": "She struggled with aching joints for a long time."
+            },
+            {
+                "code": "joint_example_my-grandfather-has-an-artificial-hip-joint",
+                "text": "My grandfather has an artificial hip joint."
+            },
+            {
+                "code": "joint_example_my-father-has-his-hip-joint-replaced",
+                "text": "My father has his hip joint replaced."
+            },
+            {
+                "code": "joint_example_he-dislocated-his-shoulder-joint",
+                "text": "He dislocated his shoulder joint."
+            },
+            {
+                "code": "joint_example_the-accident-was-affecting-his-knee-joints",
+                "text": "The accident was affecting his knee joints."
+            },
+            {
+                "code": "joint_example_when-he-stood-up-we-heard-his-joints-creaking",
+                "text": "When he stood up, we heard his joints creaking."
+            },
+            {
+                "code": "joint_example_he-cannot-move-his-joints-without-being-in-pain",
+                "text": "He cannot move his joints without being in pain."
+            },
+            {
+                "code": "joint_example_i-have-pain-in-my-joints",
+                "text": "I have pain in my joints."
+            }
+        ]
+    },
+    {
+        "type": "(adj)",
+        "mean": "shared by two or more people",
+        "examples": [
+            {
+                "code": "joint_example_we-have-a-joint-bank-account",
+                "text": "We have a joint bank account."
+            },
+            {
+                "code": "joint_example_they-have-joint-custody-of-their-children",
+                "text": "They have joint custody of their children."
+            },
+            {
+                "code": "joint_example_we-made-a-joint-decision-to-move-the-business",
+                "text": "We made a joint decision to move the business."
+            },
+            {
+                "code": "joint_example_we-are-able-to-purchase-a-house-with-a-joint-income",
+                "text": "We are able to purchase a house with a joint income."
+            }
+        ]
+    }
+]

@@ -1,0 +1,66 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the movement of water or air; the flow of electricity",
+        "examples": [
+            {
+                "code": "current_example_the-river-has-a-fast-current",
+                "text": "The river has a fast current."
+            },
+            {
+                "code": "current_example_the-cold-current-made-her-shake",
+                "text": "The cold current made her shake."
+            },
+            {
+                "code": "current_example_be-careful-of-the-dangerous-current",
+                "text": "Be careful of the dangerous current."
+            },
+            {
+                "code": "current_example_the-warm-current-blew-through-the-window",
+                "text": "The warm current blew through the window."
+            },
+            {
+                "code": "current_example_the-wire-carried-a-high-current",
+                "text": "The wire carried a high current."
+            },
+            {
+                "code": "current_example_the-electric-current-goes-through-wires",
+                "text": "The electric current goes through wires."
+            },
+            {
+                "code": "current_example_the-current-flows-west",
+                "text": "The current flows west."
+            },
+            {
+                "code": "current_example_the-plant-generates-current",
+                "text": "The plant generates current."
+            },
+            {
+                "code": "current_example_he-always-swims-against-the-current",
+                "text": "He always swims against the current."
+            }
+        ]
+    },
+    {
+        "type": "(adj)",
+        "mean": "happening now",
+        "examples": [
+            {
+                "code": "current_example_i-met-her-current-boyfriend",
+                "text": "I met her current boyfriend."
+            },
+            {
+                "code": "current_example_the-current-chairman-is-hard-working",
+                "text": "The current chairman is hard working."
+            },
+            {
+                "code": "current_example_we-are-focusing-on-the-current-contract",
+                "text": "We are focusing on the current contract."
+            },
+            {
+                "code": "current_example_i-can-t-keep-up-with-the-current-fashion",
+                "text": "I can't keep up with the current fashion."
+            }
+        ]
+    }
+]

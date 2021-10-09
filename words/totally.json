@@ -1,0 +1,60 @@
+[
+    {
+        "type": "(adv)",
+        "mean": "completely",
+        "examples": [
+            {
+                "code": "totally_example_i-am-totally-happy-for-you",
+                "text": "I am totally happy for you."
+            },
+            {
+                "code": "totally_example_that-is-totally-unacceptable",
+                "text": "That is totally unacceptable."
+            },
+            {
+                "code": "totally_example_you-are-totally-wrong-about-that",
+                "text": "You are totally wrong about that."
+            },
+            {
+                "code": "totally_example_they-are-totally-ready-for-the-test",
+                "text": "They are totally ready for the test."
+            },
+            {
+                "code": "totally_example_i-am-totally-confident",
+                "text": "I am totally confident."
+            },
+            {
+                "code": "totally_example_is-it-totally-dry",
+                "text": "Is it totally dry?"
+            },
+            {
+                "code": "totally_example_you-are-being-totally-insensitive",
+                "text": "You are being totally insensitive."
+            },
+            {
+                "code": "totally_example_i-totally-understand-your-situation",
+                "text": "I totally understand your situation."
+            },
+            {
+                "code": "totally_example_i-totally-agree-with-you",
+                "text": "I totally agree with you."
+            },
+            {
+                "code": "totally_example_i-totally-see-it-now",
+                "text": "I totally see it now."
+            },
+            {
+                "code": "totally_example_you-totally-destroyed-my-project",
+                "text": "You totally destroyed my project."
+            },
+            {
+                "code": "totally_example_they-are-totally-ignoring-you",
+                "text": "They are totally ignoring you."
+            },
+            {
+                "code": "totally_example_they-totally-appreciate-their-teacher",
+                "text": "They totally appreciate their teacher."
+            }
+        ]
+    }
+]

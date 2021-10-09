@@ -1,0 +1,48 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the act of being in a specific place; the area close to someone or something",
+        "examples": [
+            {
+                "code": "presence_example_she-did-not-acknowledge-his-presence",
+                "text": "She did not acknowledge his presence."
+            },
+            {
+                "code": "presence_example_he-increased-his-presence-at-work",
+                "text": "He increased his presence at work."
+            },
+            {
+                "code": "presence_example_the-test-indicates-the-presence-of-the-virus",
+                "text": "The test indicates the presence of the virus."
+            },
+            {
+                "code": "presence_example_her-mere-presence-bothers-me",
+                "text": "Her mere presence bothers me."
+            },
+            {
+                "code": "presence_example_he-had-a-commanding-presence-at-work",
+                "text": "He had a commanding presence at work."
+            },
+            {
+                "code": "presence_example_there-is-growing-presence-of-police-in-the-area",
+                "text": "There is growing presence of police in the area."
+            },
+            {
+                "code": "presence_example_he-is-a-constant-presence-in-my-life",
+                "text": "He is a constant presence in my life."
+            },
+            {
+                "code": "presence_example_he-has-great-stage-presence",
+                "text": "He has great stage presence."
+            },
+            {
+                "code": "presence_example_i-was-in-the-presence-of-greatness",
+                "text": "I was in the presence of greatness."
+            },
+            {
+                "code": "presence_example_i-was-nervous-in-her-presence",
+                "text": "I was nervous in her presence."
+            }
+        ]
+    }
+]

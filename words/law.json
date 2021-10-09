@@ -1,0 +1,84 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the system of rules made by a government or organization",
+        "examples": [
+            {
+                "code": "law_example_he-specializes-in-criminal-law",
+                "text": "He specializes in criminal law."
+            },
+            {
+                "code": "law_example_we-believe-this-law-is-unconstitutional",
+                "text": "We believe this law is unconstitutional."
+            },
+            {
+                "code": "law_example_some-laws-are-not-strict-enough",
+                "text": "Some laws are not strict enough."
+            },
+            {
+                "code": "law_example_we-learned-how-a-bill-becomes-a-law",
+                "text": "We learned how a bill becomes a law."
+            },
+            {
+                "code": "law_example_it-s-the-job-of-the-police-to-enforce-the-law",
+                "text": "It's the job of the police to enforce the law."
+            },
+            {
+                "code": "law_example_he-failed-to-obey-the-law",
+                "text": "He failed to obey the law."
+            },
+            {
+                "code": "law_example_she-broke-the-law-when-she-lied-to-the-judge",
+                "text": "She broke the law when she lied to the judge."
+            },
+            {
+                "code": "law_example_congress-amended-the-law-in-2000",
+                "text": "Congress amended the law in 2000."
+            },
+            {
+                "code": "law_example_state-law-forbids-gambling-of-any-kind",
+                "text": "State law forbids gambling of any kind."
+            },
+            {
+                "code": "law_example_this-law-applies-equally-to-all-businesses",
+                "text": "This law applies equally to all businesses."
+            },
+            {
+                "code": "law_example_we-will-decide-this-in-a-court-of-law",
+                "text": "We will decide this in a court of law."
+            },
+            {
+                "code": "law_example_we-need-more-law-enforcement-in-the-area",
+                "text": "We need more law enforcement in the area."
+            },
+            {
+                "code": "law_example_he-is-no-longer-working-at-a-law-office",
+                "text": "He is no longer working at a law office."
+            },
+            {
+                "code": "law_example_his-bookshelf-was-filled-with-law-books",
+                "text": "His bookshelf was filled with law books."
+            },
+            {
+                "code": "law_example_she-started-her-own-law-practice",
+                "text": "She started her own law practice."
+            },
+            {
+                "code": "law_example_he-is-going-to-law-school",
+                "text": "He is going to law school."
+            },
+            {
+                "code": "law_example_he-acts-like-he-is-above-the-law",
+                "text": "He acts like he is above the law."
+            },
+            {
+                "code": "law_example_what-she-did-was-clearly-against-the-law",
+                "text": "What she did was clearly against the law."
+            },
+            {
+                "code": "law_example_by-law-you-must-have-smoke-alarms-in-the-building",
+                "text": "By law, you must have smoke alarms in the building."
+            }
+        ]
+    }
+]

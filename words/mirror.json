@@ -1,0 +1,60 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a piece of glass that reflects an image that is put in front of it",
+        "examples": [
+            {
+                "code": "mirror_example_a-mirror-hangs-in-the-hallway",
+                "text": "A mirror hangs in the hallway."
+            },
+            {
+                "code": "mirror_example_i-checked-the-mirror-on-the-way-out",
+                "text": "I checked the mirror on the way out."
+            },
+            {
+                "code": "mirror_example_she-looked-into-the-mirror",
+                "text": "She looked into the mirror."
+            },
+            {
+                "code": "mirror_example_i-use-a-pocket-mirror-at-work",
+                "text": "I use a pocket mirror at work."
+            },
+            {
+                "code": "mirror_example_i-hate-to-face-a-mirror",
+                "text": "I hate to face a mirror."
+            },
+            {
+                "code": "mirror_example_the-mirror-revealed-many-wrinkles",
+                "text": "The mirror revealed many wrinkles."
+            },
+            {
+                "code": "mirror_example_the-mirror-broke-into-a-million-pieces",
+                "text": "The mirror broke into a million pieces."
+            },
+            {
+                "code": "mirror_example_she-saw-a-mirror-image-of-herself",
+                "text": "She saw a mirror image of herself."
+            },
+            {
+                "code": "mirror_example_i-use-a-full-length-mirror",
+                "text": "I use a full-length mirror."
+            },
+            {
+                "code": "mirror_example_i-looked-in-the-bathroom-mirror",
+                "text": "I looked in the bathroom mirror."
+            },
+            {
+                "code": "mirror_example_she-hung-an-ornate-mirror-in-her-foyer",
+                "text": "She hung an ornate mirror in her foyer."
+            },
+            {
+                "code": "mirror_example_she-threw-away-the-broken-mirror",
+                "text": "She threw away the broken mirror."
+            },
+            {
+                "code": "mirror_example_take-a-good-look-in-the-mirror",
+                "text": "Take a good look in the mirror."
+            }
+        ]
+    }
+]

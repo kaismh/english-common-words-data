@@ -1,0 +1,52 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the brother of your mother or father; the husband of your aunt",
+        "examples": [
+            {
+                "code": "uncle_example_he-is-my-favorite-uncle",
+                "text": "He is my favorite uncle."
+            },
+            {
+                "code": "uncle_example_i-have-a-funny-uncle",
+                "text": "I have a funny uncle."
+            },
+            {
+                "code": "uncle_example_my-late-uncle-left-us-some-money-in-his-will",
+                "text": "My late uncle left us some money in his will."
+            },
+            {
+                "code": "uncle_example_i-have-many-uncles-on-my-mother-s-side-of-the-family",
+                "text": "I have many uncles on my mother's side of the family."
+            },
+            {
+                "code": "uncle_example_my-uncle-is-very-old",
+                "text": "My uncle is very old."
+            },
+            {
+                "code": "uncle_example_that-man-is-my-uncle",
+                "text": "That man is my uncle."
+            },
+            {
+                "code": "uncle_example_he-is-my-uncle-on-my-father-s-side",
+                "text": "He is my uncle on my father's side."
+            },
+            {
+                "code": "uncle_example_that-uncle-is-my-mom-s-brother",
+                "text": "That uncle is my mom's brother."
+            },
+            {
+                "code": "uncle_example_i-have-several-uncles",
+                "text": "I have several uncles."
+            },
+            {
+                "code": "uncle_example_we-call-him-uncle-mike",
+                "text": "We call him Uncle Mike."
+            },
+            {
+                "code": "uncle_example_my-uncle-passed-away",
+                "text": "My uncle passed away."
+            }
+        ]
+    }
+]

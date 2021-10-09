@@ -1,0 +1,56 @@
+[
+    {
+        "type": "(n)",
+        "mean": "special importance or attention",
+        "examples": [
+            {
+                "code": "emphasis_example_my-parents-put-a-lot-of-emphasis-on-good-grades",
+                "text": "My parents put a lot of emphasis on good grades."
+            },
+            {
+                "code": "emphasis_example_creativity-is-given-little-emphasis-at-some-schools",
+                "text": "Creativity is given little emphasis at some schools."
+            },
+            {
+                "code": "emphasis_example_there-is-a-continued-emphasis-on-improving-test-scores",
+                "text": "There is a continued emphasis on improving test scores."
+            },
+            {
+                "code": "emphasis_example_the-teachers-put-primary-emphasis-on-comprehension",
+                "text": "The teachers put primary emphasis on comprehension."
+            },
+            {
+                "code": "emphasis_example_this-tv-program-gives-special-emphasis-to-the-recent-disaster",
+                "text": "This TV program gives special emphasis to the recent disaster."
+            },
+            {
+                "code": "emphasis_example_test-scores-and-grades-will-be-given-equal-emphasis",
+                "text": "Test scores and grades will be given equal emphasis."
+            },
+            {
+                "code": "emphasis_example_he-put-emphasis-on-studying",
+                "text": "He put emphasis on studying."
+            },
+            {
+                "code": "emphasis_example_they-give-a-lot-of-emphasis-to-his-abilities",
+                "text": "They give a lot of emphasis to his abilities."
+            },
+            {
+                "code": "emphasis_example_reading-ability-received-extra-emphasis",
+                "text": "Reading ability received extra emphasis."
+            },
+            {
+                "code": "emphasis_example_let-s-shift-the-emphasis-back-to-what-is-more-important-for-the-children",
+                "text": "Let's shift the emphasis back to what is more important for the children."
+            },
+            {
+                "code": "emphasis_example_the-government-added-emphasis-to-environmental-issues",
+                "text": "The government added emphasis to environmental issues."
+            },
+            {
+                "code": "emphasis_example_my-parents-put-emphasis-on-keeping-my-room-clean",
+                "text": "My parents put emphasis on keeping my room clean."
+            }
+        ]
+    }
+]

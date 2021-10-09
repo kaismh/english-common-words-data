@@ -1,0 +1,44 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the act of making someone known or of making something of use for the first time",
+        "examples": [
+            {
+                "code": "introduction_example_he-began-his-speech-with-a-brief-introduction",
+                "text": "He began his speech with a brief introduction."
+            },
+            {
+                "code": "introduction_example_the-documentary-was-an-excellent-introduction-to-roman-history",
+                "text": "The documentary was an excellent introduction to Roman history."
+            },
+            {
+                "code": "introduction_example_this-book-provides-a-comprehensive-introduction-to-his-writings",
+                "text": "This book provides a comprehensive introduction to his writings."
+            },
+            {
+                "code": "introduction_example_the-company-delayed-the-introduction-of-the-new-drug",
+                "text": "The company delayed the introduction of the new drug."
+            },
+            {
+                "code": "introduction_example_he-wrote-an-introduction-to-his-collection-of-poems",
+                "text": "He wrote an introduction to his collection of poems."
+            },
+            {
+                "code": "introduction_example_let-s-skip-the-introductions-and-get-to-work",
+                "text": "Let's skip the introductions and get to work."
+            },
+            {
+                "code": "introduction_example_he-made-a-brief-introduction-before-announcing-his-name",
+                "text": "He made a brief introduction before announcing his name."
+            },
+            {
+                "code": "introduction_example_he-mentioned-his-father-in-the-introduction",
+                "text": "He mentioned his father in the introduction."
+            },
+            {
+                "code": "introduction_example_the-introduction-to-her-latest-book-was-touching",
+                "text": "The introduction to her latest book was touching."
+            }
+        ]
+    }
+]

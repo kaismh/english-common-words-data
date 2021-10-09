@@ -1,0 +1,28 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to confess to something; to agree that something is true; to allow someone to enter a place",
+        "examples": [
+            {
+                "code": "admit_example_i-freely-admit-that-you-are-a-better-singer-than-me",
+                "text": "I freely admit that you are a better singer than me."
+            },
+            {
+                "code": "admit_example_i-honestly-admit-that-i-didn-t-like-you-when-i-first-met-you",
+                "text": "I honestly admit that I didn't like you when I first met you."
+            },
+            {
+                "code": "admit_example_he-was-quickly-admitted-into-the-hospital",
+                "text": "He was quickly admitted into the hospital."
+            },
+            {
+                "code": "admit_example_he-openly-admitted-that-he-was-gay",
+                "text": "He openly admitted that he was gay."
+            },
+            {
+                "code": "admit_example_i-am-forced-to-admit-that-his-idea-is-better-than-mine",
+                "text": "I am forced to admit that his idea is better than mine."
+            }
+        ]
+    }
+]

@@ -1,0 +1,60 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the measurements of an object; the way of thinking about something",
+        "examples": [
+            {
+                "code": "dimension_example_i-need-the-exact-dimensions-of-the-kitchen-cabinets",
+                "text": "I need the exact dimensions of the kitchen cabinets."
+            },
+            {
+                "code": "dimension_example_do-you-have-the-approximate-dimensions-of-the-room",
+                "text": "Do you have the approximate dimensions of the room?"
+            },
+            {
+                "code": "dimension_example_the-bookcase-has-compact-dimensions",
+                "text": "The bookcase has compact dimensions."
+            },
+            {
+                "code": "dimension_example_the-physical-dimension-is-hard-to-see",
+                "text": "The physical dimension is hard to see."
+            },
+            {
+                "code": "dimension_example_he-brought-added-dimension-to-the-subject",
+                "text": "He brought added dimension to the subject."
+            },
+            {
+                "code": "dimension_example_her-ideas-bring-crucial-dimension-to-the-project",
+                "text": "Her ideas bring crucial dimension to the project."
+            },
+            {
+                "code": "dimension_example_their-perspective-brings-a-global-dimension-to-the-issue",
+                "text": "Their perspective brings a global dimension to the issue."
+            },
+            {
+                "code": "dimension_example_her-comment-revealed-a-cultural-dimension",
+                "text": "Her comment revealed a cultural dimension."
+            },
+            {
+                "code": "dimension_example_can-you-check-the-dimensions-for-me",
+                "text": "Can you check the dimensions for me?"
+            },
+            {
+                "code": "dimension_example_they-ve-added-a-new-dimension",
+                "text": "They've added a new dimension."
+            },
+            {
+                "code": "dimension_example_we-have-a-different-dimension-on-the-issue",
+                "text": "We have a different dimension on the issue."
+            },
+            {
+                "code": "dimension_example_the-project-has-taken-on-a-new-dimension",
+                "text": "The project has taken on a new dimension."
+            },
+            {
+                "code": "dimension_example_she-brings-added-dimension-to-the-project",
+                "text": "She brings added dimension to the project."
+            }
+        ]
+    }
+]

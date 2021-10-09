@@ -1,0 +1,36 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "being part of something; having a close relationship with someone",
+        "examples": [
+            {
+                "code": "involved_example_i-am-involved-in-the-planning",
+                "text": "I am involved in the planning."
+            },
+            {
+                "code": "involved_example_he-became-heavily-involved-at-church",
+                "text": "He became heavily involved at church."
+            },
+            {
+                "code": "involved_example_she-was-intimately-involved-with-him",
+                "text": "She was intimately involved with him."
+            },
+            {
+                "code": "involved_example_he-was-involved-in-a-car-accident",
+                "text": "He was involved in a car accident."
+            },
+            {
+                "code": "involved_example_she-became-involved-with-politics-in-college",
+                "text": "She became involved with politics in college."
+            },
+            {
+                "code": "involved_example_she-is-a-very-involved-parent-at-school",
+                "text": "She is a very involved parent at school."
+            },
+            {
+                "code": "involved_example_the-involved-party-was-asked-to-leave-event",
+                "text": "The involved party was asked to leave event."
+            }
+        ]
+    }
+]

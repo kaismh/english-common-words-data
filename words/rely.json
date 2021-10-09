@@ -1,0 +1,32 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to depend on someone or something",
+        "examples": [
+            {
+                "code": "rely_example_we-have-to-rely-on-them-for-funding",
+                "text": "We have to rely on them for funding."
+            },
+            {
+                "code": "rely_example_they-rely-heavily-on-oil-exports",
+                "text": "They rely heavily on oil exports."
+            },
+            {
+                "code": "rely_example_you-cannot-rely-completely-on-others",
+                "text": "You cannot rely completely on others."
+            },
+            {
+                "code": "rely_example_you-can-safely-rely-on-us",
+                "text": "You can safely rely on us."
+            },
+            {
+                "code": "rely_example_children-typically-rely-on-their-parents-for-help",
+                "text": "Children typically rely on their parents for help."
+            },
+            {
+                "code": "rely_example_she-relies-on-me-for-everything",
+                "text": "She relies on me for everything."
+            }
+        ]
+    }
+]

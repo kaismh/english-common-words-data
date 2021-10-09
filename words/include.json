@@ -1,0 +1,52 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to have someone or something; a part of something else",
+        "examples": [
+            {
+                "code": "include_example_the-email-includes-an-attachment",
+                "text": "The email includes an attachment."
+            },
+            {
+                "code": "include_example_the-book-includes-examples-of-his-artwork",
+                "text": "The book includes examples of his artwork."
+            },
+            {
+                "code": "include_example_the-price-includes-additional-features",
+                "text": "The price includes additional features."
+            },
+            {
+                "code": "include_example_the-bill-includes-last-month-s-charges",
+                "text": "The bill includes last month's charges."
+            },
+            {
+                "code": "include_example_the-display-includes-her-earlier-artwork",
+                "text": "The display includes her earlier artwork."
+            },
+            {
+                "code": "include_example_the-kit-includes-a-small-tool",
+                "text": "The kit includes a small tool."
+            },
+            {
+                "code": "include_example_the-document-includes-raw-data",
+                "text": "The document includes raw data."
+            },
+            {
+                "code": "include_example_they-never-include-us-in-their-plans",
+                "text": "They never include us in their plans."
+            },
+            {
+                "code": "include_example_try-to-include-everyone-if-you-can",
+                "text": "Try to include everyone if you can."
+            },
+            {
+                "code": "include_example_do-not-include-me-in-the-headcount",
+                "text": "Do not include me in the headcount."
+            },
+            {
+                "code": "include_example_can-you-include-them-too",
+                "text": "Can you include them, too?"
+            }
+        ]
+    }
+]

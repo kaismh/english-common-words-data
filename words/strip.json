@@ -1,0 +1,74 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to take clothes off; to remove something",
+        "examples": [
+            {
+                "code": "strip_example_he-stripped-completely-down-to-his-underwear",
+                "text": "He stripped completely down to his underwear."
+            },
+            {
+                "code": "strip_example_the-prisoners-were-stripped-down-to-their-waist",
+                "text": "The prisoners were stripped down to their waist."
+            },
+            {
+                "code": "strip_example_he-tried-to-strip-off-the-peeling-paint",
+                "text": "He tried to strip off the peeling paint."
+            },
+            {
+                "code": "strip_example_we-stripped-off-our-clothes-and-jumped-in-the-lake",
+                "text": "We stripped off our clothes and jumped in the lake."
+            },
+            {
+                "code": "strip_example_the-bark-was-stripped-from-the-tree-by-a-squirrel",
+                "text": "The bark was stripped from the tree by a squirrel."
+            },
+            {
+                "code": "strip_example_the-athlete-was-stripped-of-his-medals-after-admitting-to-using-drugs",
+                "text": "The athlete was stripped of his medals after admitting to using drugs."
+            }
+        ]
+    },
+    {
+        "type": "(n)",
+        "mean": "a long, narrow piece; the act of taking clothes off",
+        "examples": [
+            {
+                "code": "strip_example_she-told-the-children-to-cut-the-paper-into-thick-strips",
+                "text": "She told the children to cut the paper into thick strips."
+            },
+            {
+                "code": "strip_example_the-magnetic-strip-on-my-credit-card-is-damaged",
+                "text": "The magnetic strip on my credit card is damaged."
+            },
+            {
+                "code": "strip_example_he-wanted-to-have-chicken-strips-for-dinner",
+                "text": "He wanted to have chicken strips for dinner."
+            },
+            {
+                "code": "strip_example_the-airplane-missed-the-landing-strip",
+                "text": "The airplane missed the landing strip."
+            },
+            {
+                "code": "strip_example_his-friends-took-him-to-a-strip-bar",
+                "text": "His friends took him to a strip bar."
+            },
+            {
+                "code": "strip_example_the-police-did-a-strip-search-on-him",
+                "text": "The police did a strip search on him."
+            },
+            {
+                "code": "strip_example_have-you-ever-played-strip-poker",
+                "text": "Have you ever played strip poker."
+            },
+            {
+                "code": "strip_example_she-used-narrow-strips-of-tissue-paper-for-decoration",
+                "text": "She used narrow strips of tissue paper for decoration."
+            },
+            {
+                "code": "strip_example_she-told-me-to-cut-the-paper-into-thin-strips",
+                "text": "She told me to cut the paper into thin strips."
+            }
+        ]
+    }
+]

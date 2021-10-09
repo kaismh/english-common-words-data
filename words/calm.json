@@ -1,0 +1,80 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a peaceful and quiet situation or feeling",
+        "examples": [
+            {
+                "code": "calm_example_i-meditate-to-find-my-inner-calm",
+                "text": "I meditate to find my inner calm."
+            },
+            {
+                "code": "calm_example_there-was-an-eerie-calm-before-the-storm",
+                "text": "There was an eerie calm before the storm."
+            },
+            {
+                "code": "calm_example_the-calm-was-broken-when-the-war-started",
+                "text": "The calm was broken when the war started."
+            },
+            {
+                "code": "calm_example_the-peace-treaty-restored-calm",
+                "text": "The peace treaty restored calm."
+            },
+            {
+                "code": "calm_example_we-struggled-to-regain-our-calm",
+                "text": "We struggled to regain our calm."
+            },
+            {
+                "code": "calm_example_a-peaceful-calm-descended-on-the-city",
+                "text": "A peaceful calm descended on the city."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to make someone or something peaceful and relaxed",
+        "examples": [
+            {
+                "code": "calm_example_before-the-test-she-tried-to-calm-her-nerves",
+                "text": "Before the test, she tried to calm her nerves."
+            },
+            {
+                "code": "calm_example_we-need-to-calm-our-fears",
+                "text": "We need to calm our fears."
+            },
+            {
+                "code": "calm_example_he-tried-to-calm-the-situation",
+                "text": "He tried to calm the situation."
+            }
+        ]
+    },
+    {
+        "type": "(adj)",
+        "mean": "peaceful and relaxed",
+        "examples": [
+            {
+                "code": "calm_example_he-always-appears-calm",
+                "text": "He always appears calm."
+            },
+            {
+                "code": "calm_example_after-the-storm-everything-became-calm",
+                "text": "After the storm, everything became calm."
+            },
+            {
+                "code": "calm_example_he-told-us-all-to-keep-calm",
+                "text": "He told us all to keep calm."
+            },
+            {
+                "code": "calm_example_i-feel-remarkably-calm",
+                "text": "I feel remarkably calm."
+            },
+            {
+                "code": "calm_example_he-seems-extremely-calm",
+                "text": "He seems extremely calm."
+            },
+            {
+                "code": "calm_example_the-ocean-was-dead-calm",
+                "text": "The ocean was dead calm."
+            }
+        ]
+    }
+]

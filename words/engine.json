@@ -1,0 +1,64 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the part of a machine that produces power so the machine can move; a vehicle that pulls a train",
+        "examples": [
+            {
+                "code": "engine_example_this-car-has-a-big-engine",
+                "text": "This car has a big engine."
+            },
+            {
+                "code": "engine_example_his-car-has-a-diesel-engine",
+                "text": "His car has a diesel engine."
+            },
+            {
+                "code": "engine_example_a-large-engine-pulled-the-train",
+                "text": "A large engine pulled the train."
+            },
+            {
+                "code": "engine_example_this-train-has-a-steam-engine",
+                "text": "This train has a steam engine."
+            },
+            {
+                "code": "engine_example_he-started-the-engine",
+                "text": "He started the engine."
+            },
+            {
+                "code": "engine_example_he-turned-off-the-engine-so-we-could-hear",
+                "text": "He turned off the engine so we could hear."
+            },
+            {
+                "code": "engine_example_electricity-powers-the-engine",
+                "text": "Electricity powers the engine."
+            },
+            {
+                "code": "engine_example_he-repaired-the-engine",
+                "text": "He repaired the engine."
+            },
+            {
+                "code": "engine_example_they-need-to-install-a-new-engine",
+                "text": "They need to install a new engine."
+            },
+            {
+                "code": "engine_example_this-car-has-good-engine-power",
+                "text": "This car has good engine power."
+            },
+            {
+                "code": "engine_example_they-looked-into-the-engine-room",
+                "text": "They looked into the engine room."
+            },
+            {
+                "code": "engine_example_our-trip-was-ruined-by-engine-problems",
+                "text": "Our trip was ruined by engine problems."
+            },
+            {
+                "code": "engine_example_i-can-t-hear-you-over-the-engine-noise",
+                "text": "I can't hear you over the engine noise."
+            },
+            {
+                "code": "engine_example_put-some-oil-in-the-engine",
+                "text": "Put some oil in the engine."
+            }
+        ]
+    }
+]

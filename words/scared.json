@@ -1,0 +1,28 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "afraid",
+        "examples": [
+            {
+                "code": "scared_example_she-looked-scared-during-the-movie",
+                "text": "She looked scared during the movie."
+            },
+            {
+                "code": "scared_example_the-boy-is-extremely-scared-of-the-dark",
+                "text": "The boy is extremely scared of the dark."
+            },
+            {
+                "code": "scared_example_are-you-scared-of-the-dark",
+                "text": "Are you scared of the dark?"
+            },
+            {
+                "code": "scared_example_he-was-scared-at-the-thought-of-leaving-his-parents-for-the-weekend",
+                "text": "He was scared at the thought of leaving his parents for the weekend."
+            },
+            {
+                "code": "scared_example_she-is-scared-about-a-lot-of-things",
+                "text": "She is scared about a lot of things."
+            }
+        ]
+    }
+]

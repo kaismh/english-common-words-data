@@ -1,0 +1,62 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "only one; not married; made for one person",
+        "examples": [
+            {
+                "code": "single_example_we-have-a-single-bedroom-available",
+                "text": "We have a single bedroom available."
+            },
+            {
+                "code": "single_example_please-write-a-single-paragraph",
+                "text": "Please write a single paragraph."
+            },
+            {
+                "code": "single_example_our-house-has-a-single-garage",
+                "text": "Our house has a single garage."
+            },
+            {
+                "code": "single_example_james-is-a-single-parent",
+                "text": "James is a single parent."
+            },
+            {
+                "code": "single_example_she-is-a-single-mother",
+                "text": "She is a single mother."
+            },
+            {
+                "code": "single_example_tori-had-a-single-ticket",
+                "text": "Tori had a single ticket."
+            }
+        ]
+    },
+    {
+        "type": "(n)",
+        "mean": "one song on a music album; a hit in baseball that gets the runner to first base",
+        "examples": [
+            {
+                "code": "single_example_the-hit-single-is-playing-on-the-radio",
+                "text": "The hit single is playing on the radio."
+            },
+            {
+                "code": "single_example_her-debut-single-was-a-hit",
+                "text": "Her debut single was a hit!"
+            },
+            {
+                "code": "single_example_the-player-hit-a-fantastic-single-to-win-the-game",
+                "text": "The player hit a fantastic single to win the game."
+            },
+            {
+                "code": "single_example_the-band-will-record-a-new-single",
+                "text": "The band will record a new single."
+            },
+            {
+                "code": "single_example_their-new-album-features-the-best-selling-single",
+                "text": "Their new album features the best-selling single."
+            },
+            {
+                "code": "single_example_he-got-a-single-in-the-eighth-inning",
+                "text": "He got a single in the eighth inning."
+            }
+        ]
+    }
+]

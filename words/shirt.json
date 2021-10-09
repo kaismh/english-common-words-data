@@ -1,0 +1,40 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a piece of clothing worn on the upper body that usually has sleeves",
+        "examples": [
+            {
+                "code": "shirt_example_he-put-on-a-clean-shirt",
+                "text": "He put on a clean shirt."
+            },
+            {
+                "code": "shirt_example_i-need-a-long-sleeved-shirt-for-work-today",
+                "text": "I need a long-sleeved shirt for work today."
+            },
+            {
+                "code": "shirt_example_john-was-wearing-a-dress-shirt",
+                "text": "John was wearing a dress shirt."
+            },
+            {
+                "code": "shirt_example_james-buttoned-his-shirt",
+                "text": "James buttoned his shirt."
+            },
+            {
+                "code": "shirt_example_alex-tucked-his-shirt-into-his-pants",
+                "text": "Alex tucked his shirt into his pants."
+            },
+            {
+                "code": "shirt_example_please-iron-your-shirt",
+                "text": "Please iron your shirt."
+            },
+            {
+                "code": "shirt_example_she-wears-tight-shirts",
+                "text": "She wears tight shirts."
+            },
+            {
+                "code": "shirt_example_he-took-off-his-shirt",
+                "text": "He took off his shirt."
+            }
+        ]
+    }
+]

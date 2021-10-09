@@ -1,0 +1,74 @@
+[
+    {
+        "type": "(n)",
+        "mean": "destroyed structure; financial loss",
+        "examples": [
+            {
+                "code": "ruin_example_the-city-has-fallen-into-ruin",
+                "text": "The city has fallen into ruin."
+            },
+            {
+                "code": "ruin_example_the-arena-lies-in-ruins",
+                "text": "The arena lies in ruins."
+            },
+            {
+                "code": "ruin_example_the-tornado-left-the-city-in-ruins",
+                "text": "The tornado left the city in ruins."
+            },
+            {
+                "code": "ruin_example_the-family-was-saved-from-ruin",
+                "text": "The family was saved from ruin."
+            },
+            {
+                "code": "ruin_example_the-business-faces-financial-ruin-because-of-the-investigation",
+                "text": "The business faces financial ruin because of the investigation."
+            },
+            {
+                "code": "ruin_example_we-found-the-ancient-ruins-of-the-city",
+                "text": "We found the ancient ruins of the city."
+            },
+            {
+                "code": "ruin_example_the-city-is-in-complete-ruin",
+                "text": "The city is in complete ruin."
+            },
+            {
+                "code": "ruin_example_they-are-facing-financial-ruin",
+                "text": "They are facing financial ruin."
+            },
+            {
+                "code": "ruin_example_we-are-studying-the-ancient-ruins-of-egypt",
+                "text": "We are studying the ancient ruins of Egypt."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to spoil; to completely damage",
+        "examples": [
+            {
+                "code": "ruin_example_don-t-ruin-your-appetite",
+                "text": "Don't ruin your appetite."
+            },
+            {
+                "code": "ruin_example_you-re-ruining-the-mood",
+                "text": "You're ruining the mood."
+            },
+            {
+                "code": "ruin_example_the-scandal-nearly-ruined-my-career",
+                "text": "The scandal nearly ruined my career."
+            },
+            {
+                "code": "ruin_example_the-investigation-financially-ruined-my-company",
+                "text": "The investigation financially ruined my company."
+            },
+            {
+                "code": "ruin_example_i-am-going-to-ruin-your-life",
+                "text": "I am going to ruin your life."
+            },
+            {
+                "code": "ruin_example_he-threatened-to-ruin-my-career",
+                "text": "He threatened to ruin my career."
+            }
+        ]
+    }
+]

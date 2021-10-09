@@ -1,0 +1,52 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to have information about someone or something; to be familiar with",
+        "examples": [
+            {
+                "code": "know_example_you-know-very-well-what-i-m-saying",
+                "text": "You know very well what I'm saying."
+            },
+            {
+                "code": "know_example_i-just-knew-there-would-be-problems",
+                "text": "I just knew there would be problems."
+            },
+            {
+                "code": "know_example_i-honestly-don-t-know-what-you-are-talking-about",
+                "text": "I honestly don't know what you are talking about."
+            },
+            {
+                "code": "know_example_i-know-exactly-how-you-feel",
+                "text": "I know exactly how you feel."
+            },
+            {
+                "code": "know_example_i-immediately-knew-what-happened",
+                "text": "I immediately knew what happened."
+            },
+            {
+                "code": "know_example_i-don-t-know-him-well-but-he-seems-like-a-nice-guy",
+                "text": "I don't know him well, but he seems like a nice guy."
+            },
+            {
+                "code": "know_example_she-hardly-knows-me",
+                "text": "She hardly knows me."
+            },
+            {
+                "code": "know_example_please-let-me-know-if-you-need-help",
+                "text": "Please let me know if you need help."
+            },
+            {
+                "code": "know_example_i-would-like-to-get-to-know-her-better",
+                "text": "I would like to get to know her better."
+            },
+            {
+                "code": "know_example_she-knows-a-lot-about-science",
+                "text": "She knows a lot about science."
+            },
+            {
+                "code": "know_example_i-don-t-know-of-anyone-who-lives-in-this-area",
+                "text": "I don't know of anyone who lives in this area."
+            }
+        ]
+    }
+]

@@ -1,0 +1,76 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the total number of people who live in a particular place; a group of people",
+        "examples": [
+            {
+                "code": "population_example_we-had-a-population-explosion-in-the-1950s",
+                "text": "We had a population explosion in the 1950s."
+            },
+            {
+                "code": "population_example_there-has-been-a-slow-population-decline-in-this-area",
+                "text": "There has been a slow population decline in this area."
+            },
+            {
+                "code": "population_example_some-countries-use-population-control",
+                "text": "Some countries use population control."
+            },
+            {
+                "code": "population_example_the-population-census-comes-every-ten-years",
+                "text": "The population census comes every ten years."
+            },
+            {
+                "code": "population_example_what-is-causing-such-a-population-change-in-this-region",
+                "text": "What is causing such a population change in this region?"
+            },
+            {
+                "code": "population_example_the-city-is-studying-population-size",
+                "text": "The city is studying population size."
+            },
+            {
+                "code": "population_example_we-do-not-have-accurate-population-data",
+                "text": "We do not have accurate population data."
+            },
+            {
+                "code": "population_example_world-population-is-growing-at-a-fast-rate",
+                "text": "World population is growing at a fast rate."
+            },
+            {
+                "code": "population_example_the-student-population-is-on-the-rise",
+                "text": "The student population is on the rise."
+            },
+            {
+                "code": "population_example_our-city-has-a-growing-population",
+                "text": "Our city has a growing population."
+            },
+            {
+                "code": "population_example_what-is-the-overall-population-here",
+                "text": "What is the overall population here?"
+            },
+            {
+                "code": "population_example_we-have-a-larger-female-population",
+                "text": "We have a larger female population."
+            },
+            {
+                "code": "population_example_we-are-concerned-for-the-general-population",
+                "text": "We are concerned for the general population."
+            },
+            {
+                "code": "population_example_world-population-is-currently-at-seven-billion",
+                "text": "World population is currently at seven billion."
+            },
+            {
+                "code": "population_example_world-population-has-reached-seven-billion",
+                "text": "World population has reached seven billion."
+            },
+            {
+                "code": "population_example_our-population-doubled",
+                "text": "Our population doubled."
+            },
+            {
+                "code": "population_example_the-population-of-my-town-is-small",
+                "text": "The population of my town is small."
+            }
+        ]
+    }
+]

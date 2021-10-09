@@ -1,0 +1,52 @@
+[
+    {
+        "type": "(n)",
+        "mean": "an area",
+        "examples": [
+            {
+                "code": "region_example_villagers-have-lived-in-this-region-for-centuries",
+                "text": "Villagers have lived in this region for centuries."
+            },
+            {
+                "code": "region_example_we-visited-a-new-region",
+                "text": "We visited a new region."
+            },
+            {
+                "code": "region_example_we-left-the-region",
+                "text": "We left the region."
+            },
+            {
+                "code": "region_example_this-is-a-troubled-region",
+                "text": "This is a troubled region."
+            },
+            {
+                "code": "region_example_she-lives-in-the-surrounding-region",
+                "text": "She lives in the surrounding region."
+            },
+            {
+                "code": "region_example_the-entire-region-is-suffering",
+                "text": "The entire region is suffering."
+            },
+            {
+                "code": "region_example_she-comes-from-the-northern-region",
+                "text": "She comes from the northern region."
+            },
+            {
+                "code": "region_example_scientists-are-exploring-a-particular-region",
+                "text": "Scientists are exploring a particular region."
+            },
+            {
+                "code": "region_example_they-found-a-new-plant-species-in-this-region",
+                "text": "They found a new plant species in this region."
+            },
+            {
+                "code": "region_example_he-is-the-ruler-of-this-region",
+                "text": "He is the ruler of this region."
+            },
+            {
+                "code": "region_example_we-traveled-throughout-the-region",
+                "text": "We traveled throughout the region."
+            }
+        ]
+    }
+]

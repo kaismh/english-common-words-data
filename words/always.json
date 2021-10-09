@@ -1,0 +1,36 @@
+[
+    {
+        "type": "(adv)",
+        "mean": "every time",
+        "examples": [
+            {
+                "code": "always_example_it-s-always-smart-to-wear-a-seatbelt",
+                "text": "It's always smart to wear a seatbelt."
+            },
+            {
+                "code": "always_example_my-dog-is-always-happy",
+                "text": "My dog is always happy."
+            },
+            {
+                "code": "always_example_i-m-always-amazed-by-your-stories",
+                "text": "I'm always amazed by your stories."
+            },
+            {
+                "code": "always_example_i-always-check-that-i-have-my-keys",
+                "text": "I always check that I have my keys."
+            },
+            {
+                "code": "always_example_he-always-forgets-to-bring-his-phone",
+                "text": "He always forgets to bring his phone."
+            },
+            {
+                "code": "always_example_she-always-imagines-the-worst",
+                "text": "She always imagines the worst."
+            },
+            {
+                "code": "always_example_she-always-reminds-her-daughter-to-lock-the-door",
+                "text": "She always reminds her daughter to lock the door."
+            }
+        ]
+    }
+]

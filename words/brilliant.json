@@ -1,0 +1,40 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "very bright; very intelligent",
+        "examples": [
+            {
+                "code": "brilliant_example_your-idea-is-brilliant",
+                "text": "Your idea is brilliant."
+            },
+            {
+                "code": "brilliant_example_that-looks-brilliant",
+                "text": "That looks brilliant."
+            },
+            {
+                "code": "brilliant_example_that-s-really-a-brilliant-idea",
+                "text": "That's really a brilliant idea."
+            },
+            {
+                "code": "brilliant_example_she-is-brilliant-at-math",
+                "text": "She is brilliant at math."
+            },
+            {
+                "code": "brilliant_example_what-a-brilliant-actor",
+                "text": "What a brilliant actor!"
+            },
+            {
+                "code": "brilliant_example_that-was-a-brilliant-idea",
+                "text": "That was a brilliant idea."
+            },
+            {
+                "code": "brilliant_example_you-did-a-brilliant-job",
+                "text": "You did a brilliant job."
+            },
+            {
+                "code": "brilliant_example_that-s-brilliant-news",
+                "text": "That's brilliant news!"
+            }
+        ]
+    }
+]

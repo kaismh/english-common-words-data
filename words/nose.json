@@ -1,0 +1,40 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the part of the face that is used for breathing and smelling things",
+        "examples": [
+            {
+                "code": "nose_example_she-broke-her-nose",
+                "text": "She broke her nose."
+            },
+            {
+                "code": "nose_example_i-have-to-blow-my-nose",
+                "text": "I have to blow my nose."
+            },
+            {
+                "code": "nose_example_my-nose-is-running",
+                "text": "My nose is running."
+            },
+            {
+                "code": "nose_example_i-got-a-nose-ring",
+                "text": "I got a nose ring."
+            },
+            {
+                "code": "nose_example_he-has-a-really-big-nose",
+                "text": "He has a really big nose."
+            },
+            {
+                "code": "nose_example_he-got-a-broken-nose",
+                "text": "He got a broken nose."
+            },
+            {
+                "code": "nose_example_she-has-a-tiny-nose",
+                "text": "She has a tiny nose."
+            },
+            {
+                "code": "nose_example_he-has-a-bloody-nose",
+                "text": "He has a bloody nose."
+            }
+        ]
+    }
+]

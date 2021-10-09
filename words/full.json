@@ -1,0 +1,104 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "holding as much as possible; having no more room; having eaten enough, complete",
+        "examples": [
+            {
+                "code": "full_example_this-box-is-full",
+                "text": "This box is full."
+            },
+            {
+                "code": "full_example_that-suitcase-seems-full",
+                "text": "That suitcase seems full."
+            },
+            {
+                "code": "full_example_this-suitcase-is-getting-full",
+                "text": "This suitcase is getting full."
+            },
+            {
+                "code": "full_example_i-feel-too-full",
+                "text": "I feel too full."
+            },
+            {
+                "code": "full_example_the-sink-is-completely-full-of-dishes",
+                "text": "The sink is completely full of dishes."
+            },
+            {
+                "code": "full_example_is-the-pool-almost-full",
+                "text": "Is the pool almost full?"
+            },
+            {
+                "code": "full_example_her-class-is-fairly-full",
+                "text": "Her class is fairly full."
+            },
+            {
+                "code": "full_example_i-am-extremely-full-right-now",
+                "text": "I am extremely full right now."
+            },
+            {
+                "code": "full_example_the-room-was-half-full",
+                "text": "The room was half full."
+            },
+            {
+                "code": "full_example_we-have-a-full-schedule-today",
+                "text": "We have a full schedule today."
+            },
+            {
+                "code": "full_example_he-is-still-waiting-for-full-approval-of-his-plan",
+                "text": "He is still waiting for full approval of his plan."
+            },
+            {
+                "code": "full_example_i-don-t-know-if-i-can-pay-the-full-amount-right-now",
+                "text": "I don't know if I can pay the full amount right now."
+            },
+            {
+                "code": "full_example_he-made-a-full-confession",
+                "text": "He made a full confession."
+            },
+            {
+                "code": "full_example_we-re-waiting-for-his-full-statement",
+                "text": "We're waiting for his full statement."
+            },
+            {
+                "code": "full_example_they-re-unsure-of-the-full-impact-of-this-crisis",
+                "text": "They're unsure of the full impact of this crisis."
+            },
+            {
+                "code": "full_example_this-project-requires-your-full-attention",
+                "text": "This project requires your full attention."
+            },
+            {
+                "code": "full_example_this-plant-needs-full-sunlight",
+                "text": "This plant needs full sunlight."
+            },
+            {
+                "code": "full_example_she-received-a-full-scholarship",
+                "text": "She received a full scholarship."
+            },
+            {
+                "code": "full_example_you-shouldn-t-drive-full-speed-in-this-weather",
+                "text": "You shouldn't drive full speed in this weather."
+            },
+            {
+                "code": "full_example_he-was-made-a-full-member",
+                "text": "He was made a full member."
+            },
+            {
+                "code": "full_example_he-wants-full-control-of-the-process",
+                "text": "He wants full control of the process."
+            },
+            {
+                "code": "full_example_success-of-this-project-requires-full-participation",
+                "text": "Success of this project requires full participation."
+            },
+            {
+                "code": "full_example_he-s-not-meeting-his-full-potential",
+                "text": "He's not meeting his full potential."
+            },
+            {
+                "code": "full_example_we-re-hoping-for-full-funding",
+                "text": "We're hoping for full funding."
+            }
+        ]
+    }
+]

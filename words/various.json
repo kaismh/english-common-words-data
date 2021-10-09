@@ -1,0 +1,32 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "different",
+        "examples": [
+            {
+                "code": "various_example_shoes-come-in-various-colors",
+                "text": "Shoes come in various colors."
+            },
+            {
+                "code": "various_example_he-has-lived-in-various-places-in-the-world",
+                "text": "He has lived in various places in the world."
+            },
+            {
+                "code": "various_example_he-watches-various-programs-on-television",
+                "text": "He watches various programs on television."
+            },
+            {
+                "code": "various_example_people-come-from-various-backgrounds",
+                "text": "People come from various backgrounds."
+            },
+            {
+                "code": "various_example_there-are-various-forms-of-plant-life",
+                "text": "There are various forms of plant life."
+            },
+            {
+                "code": "various_example_they-came-for-various-reasons",
+                "text": "They came for various reasons."
+            }
+        ]
+    }
+]

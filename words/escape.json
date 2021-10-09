@@ -1,0 +1,162 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the act of getting away from or avoiding someone or something",
+        "examples": [
+            {
+                "code": "escape_example_the-attempted-escape-of-three-prisoners-was-on-the-news",
+                "text": "The attempted escape of three prisoners was on the news."
+            },
+            {
+                "code": "escape_example_he-made-a-daring-escape-from-his-kidnappers",
+                "text": "He made a daring escape from his kidnappers."
+            },
+            {
+                "code": "escape_example_their-escape-plan-was-really-easy",
+                "text": "Their escape plan was really easy."
+            },
+            {
+                "code": "escape_example_her-close-escape-from-the-burning-house-affected-her-for-years",
+                "text": "Her close escape from the burning house affected her for years."
+            },
+            {
+                "code": "escape_example_the-vacation-was-a-welcome-escape-from-their-stressful-jobs",
+                "text": "The vacation was a welcome escape from their stressful jobs."
+            },
+            {
+                "code": "escape_example_he-made-his-escape-through-the-back-door",
+                "text": "He made his escape through the back door."
+            },
+            {
+                "code": "escape_example_a-big-dog-blocked-his-escape",
+                "text": "A big dog blocked his escape."
+            },
+            {
+                "code": "escape_example_the-darkness-allowed-an-easy-escape",
+                "text": "The darkness allowed an easy escape."
+            },
+            {
+                "code": "escape_example_he-planned-his-escape-from-the-event",
+                "text": "He planned his escape from the event."
+            },
+            {
+                "code": "escape_example_they-found-an-escape-from-studying-for-the-night",
+                "text": "They found an escape from studying for the night."
+            },
+            {
+                "code": "escape_example_this-movie-offers-an-escape-from-the-real-world",
+                "text": "This movie offers an escape from the real world."
+            },
+            {
+                "code": "escape_example_their-escape-attempt-failed",
+                "text": "Their escape attempt failed."
+            },
+            {
+                "code": "escape_example_a-big-tree-blocked-the-escape-route",
+                "text": "A big tree blocked the escape route."
+            },
+            {
+                "code": "escape_example_they-had-a-foolproof-escape-plan",
+                "text": "They had a foolproof escape plan."
+            },
+            {
+                "code": "escape_example_they-used-the-escape-tunnel-to-flee-the-building",
+                "text": "They used the escape tunnel to flee the building."
+            },
+            {
+                "code": "escape_example_the-escape-vehicle-was-waiting-by-the-door",
+                "text": "The escape vehicle was waiting by the door."
+            },
+            {
+                "code": "escape_example_he-escaped-from-his-attackers",
+                "text": "He escaped from his attackers."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to get away from someone or something; to get out",
+        "examples": [
+            {
+                "code": "escape_example_they-barely-escaped-the-hurricane",
+                "text": "They barely escaped the hurricane."
+            },
+            {
+                "code": "escape_example_my-cat-somehow-escaped-from-its-crate",
+                "text": "My cat somehow escaped from its crate."
+            },
+            {
+                "code": "escape_example_he-successfully-escaped-from-the-sinking-boat",
+                "text": "He successfully escaped from the sinking boat."
+            },
+            {
+                "code": "escape_example_the-princess-finally-escaped-from-the-tower",
+                "text": "The princess finally escaped from the tower."
+            },
+            {
+                "code": "escape_example_the-dog-easily-escaped-from-the-yard",
+                "text": "The dog easily escaped from the yard."
+            },
+            {
+                "code": "escape_example_the-lion-cannot-escape-from-the-cage",
+                "text": "The lion cannot escape from the cage."
+            },
+            {
+                "code": "escape_example_the-lizard-attempted-to-escape-being-seen",
+                "text": "The lizard attempted to escape being seen."
+            },
+            {
+                "code": "escape_example_she-struggled-to-escape-from-the-unpleasant-conversation",
+                "text": "She struggled to escape from the unpleasant conversation."
+            },
+            {
+                "code": "escape_example_he-hopes-to-escape-on-a-tropical-vacation",
+                "text": "He hopes to escape on a tropical vacation."
+            },
+            {
+                "code": "escape_example_he-managed-to-escape-having-to-stay-late-at-work",
+                "text": "He managed to escape having to stay late at work."
+            },
+            {
+                "code": "escape_example_he-got-in-trouble-for-letting-the-robbers-escape",
+                "text": "He got in trouble for letting the robbers escape."
+            },
+            {
+                "code": "escape_example_they-escaped-from-an-avalanche-safely",
+                "text": "They escaped from an avalanche safely."
+            },
+            {
+                "code": "escape_example_the-deer-escaped-into-the-woods",
+                "text": "The deer escaped into the woods."
+            },
+            {
+                "code": "escape_example_they-escaped-to-a-safe-place",
+                "text": "They escaped to a safe place."
+            },
+            {
+                "code": "escape_example_the-thieves-escaped-with-many-valuable-paintings",
+                "text": "The thieves escaped with many valuable paintings."
+            },
+            {
+                "code": "escape_example_he-escaped-the-room-without-being-noticed",
+                "text": "He escaped the room without being noticed."
+            },
+            {
+                "code": "escape_example_she-barely-escaped-death-in-the-earthquake",
+                "text": "She barely escaped death in the earthquake."
+            },
+            {
+                "code": "escape_example_he-managed-to-escape-blame-for-the-accident",
+                "text": "He managed to escape blame for the accident."
+            },
+            {
+                "code": "escape_example_they-escaped-arrest-for-the-crime",
+                "text": "They escaped arrest for the crime."
+            },
+            {
+                "code": "escape_example_you-can-t-escape-fate",
+                "text": "You can't escape fate."
+            }
+        ]
+    }
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the situation that helps with understanding its meaning",
+        "examples": [
+            {
+                "code": "context_example_take-a-look-at-the-broad-context",
+                "text": "Take a look at the broad context."
+            },
+            {
+                "code": "context_example_use-words-in-the-correct-context",
+                "text": "Use words in the correct context."
+            },
+            {
+                "code": "context_example_it-is-only-done-in-a-certain-context",
+                "text": "It is only done in a certain context."
+            },
+            {
+                "code": "context_example_the-movie-was-made-in-a-modern-context",
+                "text": "The movie was made in a modern context."
+            },
+            {
+                "code": "context_example_it-is-easier-to-understand-in-its-present-context",
+                "text": "It is easier to understand in its present context."
+            },
+            {
+                "code": "context_example_it-was-handled-in-a-business-context",
+                "text": "It was handled in a business context."
+            },
+            {
+                "code": "context_example_can-you-give-the-proper-context-of-the-book",
+                "text": "Can you give the proper context of the book?"
+            },
+            {
+                "code": "context_example_it-s-important-to-create-the-right-context-for-teaching",
+                "text": "It's important to create the right context for teaching."
+            },
+            {
+                "code": "context_example_my-words-were-taken-out-of-context",
+                "text": "My words were taken out of context."
+            },
+            {
+                "code": "context_example_try-to-understand-the-words-in-context",
+                "text": "Try to understand the words in context."
+            },
+            {
+                "code": "context_example_it-is-easier-to-understand-within-the-context-of-the-story",
+                "text": "It is easier to understand within the context of the story."
+            }
+        ]
+    }
+]

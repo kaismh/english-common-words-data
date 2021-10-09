@@ -1,0 +1,56 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a picture made by using a camera; short word for photograph",
+        "examples": [
+            {
+                "code": "photo_example_she-took-a-photo-of-him",
+                "text": "She took a photo of him."
+            },
+            {
+                "code": "photo_example_she-posed-for-a-photo",
+                "text": "She posed for a photo."
+            },
+            {
+                "code": "photo_example_can-i-see-your-photo-id",
+                "text": "Can I see your photo ID?"
+            },
+            {
+                "code": "photo_example_i-love-the-photo-spread-in-this-fashion-magazine",
+                "text": "I love the photo spread in this fashion magazine."
+            },
+            {
+                "code": "photo_example_the-race-ended-in-a-photo-finish",
+                "text": "The race ended in a photo finish."
+            },
+            {
+                "code": "photo_example_we-took-some-pictures-together-in-the-photo-booth",
+                "text": "We took some pictures together in the photo booth."
+            },
+            {
+                "code": "photo_example_the-model-was-late-to-the-photo-shoot",
+                "text": "The model was late to the photo shoot."
+            },
+            {
+                "code": "photo_example_he-has-a-huge-photo-collection",
+                "text": "He has a huge photo collection."
+            },
+            {
+                "code": "photo_example_can-i-see-your-passport-photo",
+                "text": "Can I see your passport photo?"
+            },
+            {
+                "code": "photo_example_we-have-a-collection-of-black-and-white-photos",
+                "text": "We have a collection of black and white photos."
+            },
+            {
+                "code": "photo_example_they-found-nude-photos",
+                "text": "They found nude photos."
+            },
+            {
+                "code": "photo_example_they-got-exclusive-photos-of-the-royal-family",
+                "text": "They got exclusive photos of the royal family."
+            }
+        ]
+    }
+]

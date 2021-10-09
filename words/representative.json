@@ -1,0 +1,50 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "typical of a particular group of people",
+        "examples": [
+            {
+                "code": "representative_example_the-students-outstanding-test-scores-are-highly-representative-of-the-school",
+                "text": "The students' outstanding test scores are highly representative of the school."
+            },
+            {
+                "code": "representative_example_obeying-your-elders-is-representative-of-that-culture",
+                "text": "Obeying your elders is representative of that culture."
+            },
+            {
+                "code": "representative_example_this-is-representative-of-our-music-style",
+                "text": "This is representative of our music style."
+            }
+        ]
+    },
+    {
+        "type": "(n)",
+        "mean": "someone who acts or speaks for someone else",
+        "examples": [
+            {
+                "code": "representative_example_we-nominated-a-representative-for-our-company",
+                "text": "We nominated a representative for our company."
+            },
+            {
+                "code": "representative_example_he-is-our-union-representative",
+                "text": "He is our union representative."
+            },
+            {
+                "code": "representative_example_we-hired-a-legal-representative",
+                "text": "We hired a legal representative."
+            },
+            {
+                "code": "representative_example_she-is-an-elected-representative",
+                "text": "She is an elected representative."
+            },
+            {
+                "code": "representative_example_she-became-the-leading-representative",
+                "text": "She became the leading representative."
+            },
+            {
+                "code": "representative_example_he-is-the-representative-from-china",
+                "text": "He is the representative from China."
+            }
+        ]
+    }
+]

@@ -1,0 +1,102 @@
+[
+    {
+        "type": "(n)",
+        "mean": "money that is borrowed from a bank or business; the status of how well money is paid back; praise given to a someone for good work; a unit of schoolwork at a university or college",
+        "examples": [
+            {
+                "code": "credit_example_long-term-credit-will-pay-for-things-you-need",
+                "text": "Long-term credit will pay for things you need."
+            },
+            {
+                "code": "credit_example_interest-free-credit-is-hard-to-get",
+                "text": "Interest-free credit is hard to get."
+            },
+            {
+                "code": "credit_example_she-has-bad-credit",
+                "text": "She has bad credit."
+            },
+            {
+                "code": "credit_example_he-should-get-full-credit-for-the-win",
+                "text": "He should get full credit for the win."
+            },
+            {
+                "code": "credit_example_the-class-will-give-him-course-credit",
+                "text": "The class will give him course credit."
+            },
+            {
+                "code": "credit_example_do-you-have-good-credit",
+                "text": "Do you have good credit?"
+            },
+            {
+                "code": "credit_example_you-need-good-credit-to-get-a-loan",
+                "text": "You need good credit to get a loan."
+            },
+            {
+                "code": "credit_example_you-can-get-credit-at-the-bank",
+                "text": "You can get credit at the bank."
+            },
+            {
+                "code": "credit_example_most-stores-will-offer-credit",
+                "text": "Most stores will offer credit."
+            },
+            {
+                "code": "credit_example_you-should-give-her-some-credit",
+                "text": "You should give her some credit."
+            },
+            {
+                "code": "credit_example_she-doesn-t-get-credit-for-her-work",
+                "text": "She doesn't get credit for her work."
+            },
+            {
+                "code": "credit_example_he-deserves-more-credit",
+                "text": "He deserves more credit."
+            },
+            {
+                "code": "credit_example_community-college-is-a-good-way-to-earn-credits",
+                "text": "Community college is a good way to earn credits."
+            },
+            {
+                "code": "credit_example_i-have-a-high-credit-limit",
+                "text": "I have a high credit limit."
+            },
+            {
+                "code": "credit_example_how-long-is-your-credit-history",
+                "text": "How long is your credit history?"
+            },
+            {
+                "code": "credit_example_she-asked-for-my-credit-report",
+                "text": "She asked for my credit report."
+            },
+            {
+                "code": "credit_example_he-is-a-credit-risk",
+                "text": "He is a credit risk."
+            },
+            {
+                "code": "credit_example_the-credit-union-is-also-a-bank",
+                "text": "The credit union is also a bank."
+            },
+            {
+                "code": "credit_example_she-bought-the-jacket-on-credit",
+                "text": "She bought the jacket on credit."
+            },
+            {
+                "code": "credit_example_she-gets-credit-for-helping",
+                "text": "She gets credit for helping."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to give money; to praise someone for doing good work",
+        "examples": [
+            {
+                "code": "credit_example_the-bank-is-crediting-our-account-with-10000",
+                "text": "The bank is crediting our account with $10,000."
+            },
+            {
+                "code": "credit_example_the-mayor-credited-the-firefighters-for-acting-quickly",
+                "text": "The mayor credited the firefighters for acting quickly."
+            }
+        ]
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a fun social event; a political group; a group of people doing something together",
+        "examples": [
+            {
+                "code": "party_example_we-are-throwing-a-big-party-this-weekend",
+                "text": "We are throwing a big party this weekend."
+            },
+            {
+                "code": "party_example_we-are-invited-to-a-birthday-party",
+                "text": "We are invited to a birthday party."
+            },
+            {
+                "code": "party_example_they-ruined-the-surprise-party",
+                "text": "They ruined the surprise party."
+            },
+            {
+                "code": "party_example_the-political-party-was-established-ten-years-ago",
+                "text": "The political party was established ten years ago."
+            },
+            {
+                "code": "party_example_she-belongs-to-a-political-party",
+                "text": "She belongs to a political party."
+            },
+            {
+                "code": "party_example_i-hope-you-can-come-to-my-birthday-party-tonight",
+                "text": "I hope you can come to my birthday party tonight."
+            },
+            {
+                "code": "party_example_the-wedding-party-will-be-arriving-soon",
+                "text": "The wedding party will be arriving soon."
+            },
+            {
+                "code": "party_example_the-democratic-party-expects-to-win-the-upcoming-election",
+                "text": "The Democratic Party expects to win the upcoming election."
+            },
+            {
+                "code": "party_example_each-political-party-is-sending-a-representative-to-the-capital",
+                "text": "Each political party is sending a representative to the capital."
+            },
+            {
+                "code": "party_example_they-counted-the-number-of-party-guests",
+                "text": "They counted the number of party guests."
+            },
+            {
+                "code": "party_example_what-is-your-party-affiliation",
+                "text": "What is your party affiliation?"
+            },
+            {
+                "code": "party_example_they-handed-out-hats-as-party-favors",
+                "text": "They handed out hats as party favors."
+            },
+            {
+                "code": "party_example_all-of-the-party-members-gathered-in-the-hall-to-vote-for-a-new-leader",
+                "text": "All of the party members gathered in the hall to vote for a new leader."
+            },
+            {
+                "code": "party_example_we-had-a-few-drinks-at-the-party",
+                "text": "We had a few drinks at the party."
+            },
+            {
+                "code": "party_example_i-m-having-a-surprise-party-for-my-husband",
+                "text": "I'm having a surprise party for my husband."
+            }
+        ]
+    }
+]

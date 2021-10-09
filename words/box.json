@@ -1,0 +1,68 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a container with four flat sides",
+        "examples": [
+            {
+                "code": "box_example_she-needs-a-square-box-for-a-school-project",
+                "text": "She needs a square box for a school project."
+            },
+            {
+                "code": "box_example_we-need-a-cardboard-box",
+                "text": "We need a cardboard box."
+            },
+            {
+                "code": "box_example_shoe-boxes-are-good-for-art-projects",
+                "text": "Shoe boxes are good for art projects."
+            },
+            {
+                "code": "box_example_where-is-my-jewelry-box",
+                "text": "Where is my jewelry box?"
+            },
+            {
+                "code": "box_example_our-valuables-are-stored-in-a-safety-deposit-box",
+                "text": "Our valuables are stored in a safety deposit box."
+            },
+            {
+                "code": "box_example_he-is-checking-the-mail-box",
+                "text": "He is checking the mail box."
+            },
+            {
+                "code": "box_example_he-sat-in-the-private-box-at-the-baseball-game",
+                "text": "He sat in the private box at the baseball game."
+            },
+            {
+                "code": "box_example_the-lawyer-observed-the-jury-box",
+                "text": "The lawyer observed the jury box."
+            },
+            {
+                "code": "box_example_we-filled-the-boxes-with-clothing",
+                "text": "We filled the boxes with clothing."
+            },
+            {
+                "code": "box_example_boxes-are-stacked-in-the-garage",
+                "text": "Boxes are stacked in the garage."
+            },
+            {
+                "code": "box_example_he-is-unpacking-the-boxes",
+                "text": "He is unpacking the boxes."
+            },
+            {
+                "code": "box_example_don-t-forget-to-label-the-box-before-mailing-it",
+                "text": "Don't forget to label the box before mailing it."
+            },
+            {
+                "code": "box_example_put-all-of-the-toys-in-the-box",
+                "text": "Put all of the toys in the box."
+            },
+            {
+                "code": "box_example_he-took-all-of-the-items-out-of-the-box",
+                "text": "He took all of the items out of the box."
+            },
+            {
+                "code": "box_example_the-little-girl-needed-a-box-of-crayons",
+                "text": "The little girl needed a box of crayons."
+            }
+        ]
+    }
+]

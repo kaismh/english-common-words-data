@@ -1,0 +1,84 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a piece of equipment that is designed to do a specific job",
+        "examples": [
+            {
+                "code": "machine_example_the-machine-broke-down-again",
+                "text": "The machine broke down again."
+            },
+            {
+                "code": "machine_example_how-do-you-use-this-machine",
+                "text": "How do you use this machine?"
+            },
+            {
+                "code": "machine_example_he-built-a-machine-that-didn-t-require-electricity",
+                "text": "He built a machine that didn't require electricity."
+            },
+            {
+                "code": "machine_example_who-installed-this-machine",
+                "text": "Who installed this machine?"
+            },
+            {
+                "code": "machine_example_we-need-to-fix-the-machine",
+                "text": "We need to fix the machine."
+            },
+            {
+                "code": "machine_example_the-police-found-a-garage-full-of-machine-guns",
+                "text": "The police found a garage full of machine guns."
+            },
+            {
+                "code": "machine_example_we-need-to-order-some-machine-parts",
+                "text": "We need to order some machine parts."
+            },
+            {
+                "code": "machine_example_we-hired-a-licensed-machine-operator",
+                "text": "We hired a licensed machine operator."
+            },
+            {
+                "code": "machine_example_their-company-makes-voting-machines",
+                "text": "Their company makes voting machines."
+            },
+            {
+                "code": "machine_example_i-learned-how-to-work-a-dialysis-machine",
+                "text": "I learned how to work a dialysis machine."
+            },
+            {
+                "code": "machine_example_where-is-the-atm-machine",
+                "text": "Where is the ATM machine?"
+            },
+            {
+                "code": "machine_example_i-bought-an-exercise-machine",
+                "text": "I bought an exercise machine."
+            },
+            {
+                "code": "machine_example_we-don-t-have-an-answering-machine",
+                "text": "We don't have an answering machine."
+            },
+            {
+                "code": "machine_example_he-works-with-large-machines",
+                "text": "He works with large machines."
+            },
+            {
+                "code": "machine_example_we-need-to-replace-the-broken-machine",
+                "text": "We need to replace the broken machine."
+            },
+            {
+                "code": "machine_example_the-machine-runs-on-oil",
+                "text": "The machine runs on oil."
+            },
+            {
+                "code": "machine_example_this-machine-is-for-sewing",
+                "text": "This machine is for sewing."
+            },
+            {
+                "code": "machine_example_what-kind-of-fuel-is-used-by-this-machine",
+                "text": "What kind of fuel is used by this machine?"
+            },
+            {
+                "code": "machine_example_what-is-in-this-machine",
+                "text": "What is in this machine?"
+            }
+        ]
+    }
+]

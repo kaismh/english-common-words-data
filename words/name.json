@@ -1,0 +1,138 @@
+[
+    {
+        "type": "(n)",
+        "mean": "what someone or something is called",
+        "examples": [
+            {
+                "code": "name_example_she-gave-her-child-a-funny-name",
+                "text": "She gave her child a funny name."
+            },
+            {
+                "code": "name_example_i-asked-for-his-name",
+                "text": "I asked for his name."
+            },
+            {
+                "code": "name_example_i-didn-t-catch-your-name",
+                "text": "I didn't catch your name."
+            },
+            {
+                "code": "name_example_how-do-you-pronounce-your-name",
+                "text": "How do you pronounce your name?"
+            },
+            {
+                "code": "name_example_her-name-means-happiness",
+                "text": "Her name means happiness."
+            },
+            {
+                "code": "name_example_his-name-sounds-familiar",
+                "text": "His name sounds familiar."
+            },
+            {
+                "code": "name_example_we-put-down-our-names-for-the-contest",
+                "text": "We put down our names for the contest."
+            },
+            {
+                "code": "name_example_did-you-change-your-name",
+                "text": "Did you change your name?"
+            },
+            {
+                "code": "name_example_please-write-your-name",
+                "text": "Please write your name."
+            },
+            {
+                "code": "name_example_i-forgot-your-name",
+                "text": "I forgot your name."
+            },
+            {
+                "code": "name_example_we-chose-a-name-for-the-baby",
+                "text": "We chose a name for the baby."
+            },
+            {
+                "code": "name_example_where-did-you-get-your-name",
+                "text": "Where did you get your name?"
+            },
+            {
+                "code": "name_example_i-couldn-t-read-her-name-tag",
+                "text": "I couldn't read her name tag."
+            },
+            {
+                "code": "name_example_can-i-see-the-list-of-names",
+                "text": "Can I see the list of names?"
+            },
+            {
+                "code": "name_example_what-is-your-last-name",
+                "text": "What is your last name?"
+            },
+            {
+                "code": "name_example_she-gave-herself-a-stage-name",
+                "text": "She gave herself a stage name."
+            },
+            {
+                "code": "name_example_what-is-the-common-name-for-this",
+                "text": "What is the common name for this?"
+            },
+            {
+                "code": "name_example_she-has-a-great-name",
+                "text": "She has a great name."
+            },
+            {
+                "code": "name_example_i-forgot-the-street-name",
+                "text": "I forgot the street name."
+            },
+            {
+                "code": "name_example_what-is-her-original-name",
+                "text": "What is her original name?"
+            },
+            {
+                "code": "name_example_we-changed-our-company-name-again",
+                "text": "We changed our company name again."
+            },
+            {
+                "code": "name_example_what-s-his-code-name",
+                "text": "What's his code name?"
+            },
+            {
+                "code": "name_example_i-know-her-by-name",
+                "text": "I know her by name."
+            },
+            {
+                "code": "name_example_what-is-the-name-of-that-tree",
+                "text": "What is the name of that tree?"
+            },
+            {
+                "code": "name_example_he-put-the-reservation-in-my-name",
+                "text": "He put the reservation in my name."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "give a name to someone or something",
+        "examples": [
+            {
+                "code": "name_example_they-named-the-child-after-his-father",
+                "text": "They named the child after his father."
+            },
+            {
+                "code": "name_example_what-did-you-name-your-dog",
+                "text": "What did you name your dog?"
+            },
+            {
+                "code": "name_example_they-haven-t-named-a-suspect",
+                "text": "They haven't named a suspect."
+            },
+            {
+                "code": "name_example_the-town-was-officially-named-after-the-first-mayor",
+                "text": "The town was officially named after the first mayor."
+            },
+            {
+                "code": "name_example_she-was-originally-named-after-her-mother",
+                "text": "She was originally named after her mother."
+            },
+            {
+                "code": "name_example_she-was-named-after-her-mother",
+                "text": "She was named after her mother."
+            }
+        ]
+    }
+]

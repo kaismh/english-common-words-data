@@ -1,0 +1,36 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the state in which something is happening or things are being done",
+        "examples": [
+            {
+                "code": "activity_example_the-police-were-looking-for-illegal-activity",
+                "text": "The police were looking for illegal activity."
+            },
+            {
+                "code": "activity_example_people-are-curious-about-police-activity",
+                "text": "People are curious about police activity."
+            },
+            {
+                "code": "activity_example_i-was-really-tired-from-all-of-the-physical-activity",
+                "text": "I was really tired from all of the physical activity."
+            },
+            {
+                "code": "activity_example_our-city-has-a-lot-of-business-activity",
+                "text": "Our city has a lot of business activity."
+            },
+            {
+                "code": "activity_example_students-were-given-extra-class-activities",
+                "text": "Students were given extra class activities."
+            },
+            {
+                "code": "activity_example_we-did-an-outdoor-activity-at-work",
+                "text": "We did an outdoor activity at work."
+            },
+            {
+                "code": "activity_example_the-referees-suspended-activity",
+                "text": "The referees suspended activity."
+            }
+        ]
+    }
+]

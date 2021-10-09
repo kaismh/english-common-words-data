@@ -1,0 +1,44 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to keep",
+        "examples": [
+            {
+                "code": "retain_example_her-pregnancy-is-making-her-retain-water",
+                "text": "Her pregnancy is making her retain water."
+            },
+            {
+                "code": "retain_example_the-dish-retained-its-flavor-after-a-couple-of-hours",
+                "text": "The dish retained its flavor after a couple of hours."
+            },
+            {
+                "code": "retain_example_he-couldn-t-retain-all-of-the-information",
+                "text": "He couldn't retain all of the information."
+            },
+            {
+                "code": "retain_example_i-ve-retained-an-attorney",
+                "text": "I've retained an attorney."
+            },
+            {
+                "code": "retain_example_i-tried-to-retain-my-dignity",
+                "text": "I tried to retain my dignity."
+            },
+            {
+                "code": "retain_example_she-was-able-to-retain-ownership-of-the-company",
+                "text": "She was able to retain ownership of the company."
+            },
+            {
+                "code": "retain_example_i-no-longer-retain-ownership-of-my-company",
+                "text": "I no longer retain ownership of my company."
+            },
+            {
+                "code": "retain_example_i-somehow-retained-control-of-the-situation",
+                "text": "I somehow retained control of the situation."
+            },
+            {
+                "code": "retain_example_she-retained-him-as-her-attorney",
+                "text": "She retained him as her attorney."
+            }
+        ]
+    }
+]

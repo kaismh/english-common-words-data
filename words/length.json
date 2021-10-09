@@ -1,0 +1,48 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the distance from one end to the other; the amount of the beginning of something to the end",
+        "examples": [
+            {
+                "code": "length_example_he-had-to-run-the-entire-length-of-the-football-field",
+                "text": "He had to run the entire length of the football field."
+            },
+            {
+                "code": "length_example_they-need-to-know-the-overall-length-of-the-roof",
+                "text": "They need to know the overall length of the roof."
+            },
+            {
+                "code": "length_example_his-jump-was-longer-than-the-average-length",
+                "text": "His jump was longer than the average length."
+            },
+            {
+                "code": "length_example_she-measured-the-length-of-the-sofa",
+                "text": "She measured the length of the sofa."
+            },
+            {
+                "code": "length_example_a-football-field-has-an-overall-length-of-120-yards",
+                "text": "A football field has an overall length of 120 yards."
+            },
+            {
+                "code": "length_example_alligators-can-reach-a-length-of-over-13-feet",
+                "text": "Alligators can reach a length of over 13 feet."
+            },
+            {
+                "code": "length_example_they-need-to-shorten-the-length-of-the-film",
+                "text": "They need to shorten the length of the film."
+            },
+            {
+                "code": "length_example_the-length-increased-by-two-feet",
+                "text": "The length increased by two feet."
+            },
+            {
+                "code": "length_example_there-were-spectators-along-the-whole-length-of-the-golf-course",
+                "text": "There were spectators along the whole length of the golf course."
+            },
+            {
+                "code": "length_example_a-football-field-is-120-yards-in-length",
+                "text": "A football field is 120 yards in length."
+            }
+        ]
+    }
+]

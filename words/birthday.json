@@ -1,0 +1,68 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the day someone was born; the yearly celebration of the day someone was born",
+        "examples": [
+            {
+                "code": "birthday_example_we-went-on-a-cruise-on-my-last-birthday",
+                "text": "We went on a cruise on my last birthday."
+            },
+            {
+                "code": "birthday_example_we-re-taking-a-trip-on-my-next-birthday",
+                "text": "We're taking a trip on my next birthday."
+            },
+            {
+                "code": "birthday_example_did-you-have-a-nice-birthday",
+                "text": "Did you have a nice birthday?"
+            },
+            {
+                "code": "birthday_example_she-spent-her-birthday-with-family",
+                "text": "She spent her birthday with family."
+            },
+            {
+                "code": "birthday_example_today-marks-the-birthday-of-abraham-lincoln",
+                "text": "Today marks the birthday of Abraham Lincoln."
+            },
+            {
+                "code": "birthday_example_i-forgot-my-mother-s-birthday-last-year",
+                "text": "I forgot my mother's birthday last year."
+            },
+            {
+                "code": "birthday_example_his-50th-birthday-is-approaching",
+                "text": "His 50th birthday is approaching."
+            },
+            {
+                "code": "birthday_example_she-s-excited-to-finally-reach-her-18th-birthday",
+                "text": "She's excited to finally reach her 18th birthday."
+            },
+            {
+                "code": "birthday_example_my-son-and-i-share-the-same-birthday",
+                "text": "My son and I share the same birthday."
+            },
+            {
+                "code": "birthday_example_she-received-many-birthday-presents",
+                "text": "She received many birthday presents."
+            },
+            {
+                "code": "birthday_example_my-daughter-loves-birthday-cake",
+                "text": "My daughter loves birthday cake."
+            },
+            {
+                "code": "birthday_example_i-m-planning-a-birthday-surprise-for-my-dad",
+                "text": "I'm planning a birthday surprise for my dad."
+            },
+            {
+                "code": "birthday_example_where-is-the-birthday-boy",
+                "text": "Where is the birthday boy?"
+            },
+            {
+                "code": "birthday_example_what-do-you-want-to-do-for-your-birthday",
+                "text": "What do you want to do for your birthday?"
+            },
+            {
+                "code": "birthday_example_she-is-going-to-hawaii-on-her-next-birthday",
+                "text": "She is going to Hawaii on her next birthday."
+            }
+        ]
+    }
+]

@@ -1,0 +1,88 @@
+[
+    {
+        "type": "(n)",
+        "mean": "television station; way to send information; narrow strip of water",
+        "examples": [
+            {
+                "code": "channel_example_please-change-the-television-channel",
+                "text": "Please change the television channel."
+            },
+            {
+                "code": "channel_example_i-like-movie-channels",
+                "text": "I like movie channels."
+            },
+            {
+                "code": "channel_example_the-soldiers-were-told-to-communicate-through-direct-channels",
+                "text": "The soldiers were told to communicate through direct channels."
+            },
+            {
+                "code": "channel_example_you-must-go-through-appropriate-channels-to-meet-with-the-president",
+                "text": "You must go through appropriate channels to meet with the president."
+            },
+            {
+                "code": "channel_example_what-is-the-conventional-channel-of-communication-in-your-country",
+                "text": "What is the conventional channel of communication in your country?"
+            },
+            {
+                "code": "channel_example_email-is-an-effective-channel-to-get-in-touch-with-me",
+                "text": "Email is an effective channel to get in touch with me."
+            },
+            {
+                "code": "channel_example_this-ship-will-need-a-deep-channel-to-pass-through",
+                "text": "This ship will need a deep channel to pass through."
+            },
+            {
+                "code": "channel_example_this-is-only-a-narrow-channel",
+                "text": "This is only a narrow channel."
+            },
+            {
+                "code": "channel_example_the-shipping-channels-are-very-important-for-the-local-economy",
+                "text": "The shipping channels are very important for the local economy."
+            },
+            {
+                "code": "channel_example_don-t-change-the-channel",
+                "text": "Don't change the channel."
+            },
+            {
+                "code": "channel_example_my-son-likes-to-flip-through-the-channels",
+                "text": "My son likes to flip through the channels."
+            },
+            {
+                "code": "channel_example_are-you-watching-this-channel",
+                "text": "Are you watching this channel?"
+            },
+            {
+                "code": "channel_example_this-channel-broadcasts-24-hours-a-day",
+                "text": "This channel broadcasts 24 hours a day."
+            },
+            {
+                "code": "channel_example_if-you-want-to-speak-to-him-you-ll-have-to-go-through-the-correct-channels",
+                "text": "If you want to speak to him, you'll have to go through the correct channels."
+            },
+            {
+                "code": "channel_example_management-wants-to-establish-a-healthy-channel-of-communication",
+                "text": "Management wants to establish a healthy channel of communication."
+            },
+            {
+                "code": "channel_example_the-rivers-form-channels-in-and-out-of-the-city",
+                "text": "The rivers form channels in and out of the city."
+            },
+            {
+                "code": "channel_example_the-military-blocked-the-river-channels",
+                "text": "The military blocked the river channels."
+            },
+            {
+                "code": "channel_example_let-s-see-what-s-on-this-channel",
+                "text": "Let's see what's on this channel."
+            },
+            {
+                "code": "channel_example_you-ll-have-to-go-through-the-correct-channels",
+                "text": "You'll have to go through the correct channels."
+            },
+            {
+                "code": "channel_example_there-are-boats-in-the-channel",
+                "text": "There are boats in the channel."
+            }
+        ]
+    }
+]

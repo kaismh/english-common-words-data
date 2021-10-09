@@ -1,0 +1,82 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the lowest part of something; the part of the body that you sit on",
+        "examples": [
+            {
+                "code": "bottom_example_the-magician-s-box-has-a-false-bottom",
+                "text": "The magician's box has a false bottom."
+            },
+            {
+                "code": "bottom_example_the-child-was-spanked-on-his-bare-bottom",
+                "text": "The child was spanked on his bare bottom."
+            },
+            {
+                "code": "bottom_example_we-finally-arrived-at-the-bottom-of-the-mountain",
+                "text": "We finally arrived at the bottom of the mountain."
+            },
+            {
+                "code": "bottom_example_she-sank-to-the-bottom-of-the-swimming-pool",
+                "text": "She sank to the bottom of the swimming pool."
+            },
+            {
+                "code": "bottom_example_i-fell-to-the-bottom-of-the-hill",
+                "text": "I fell to the bottom of the hill."
+            },
+            {
+                "code": "bottom_example_she-lined-the-bottom-of-the-birdcage-with-newspapers",
+                "text": "She lined the bottom of the birdcage with newspapers."
+            },
+            {
+                "code": "bottom_example_new-employees-have-to-start-at-the-bottom",
+                "text": "New employees have to start at the bottom."
+            },
+            {
+                "code": "bottom_example_she-spanked-his-bottom",
+                "text": "She spanked his bottom."
+            },
+            {
+                "code": "bottom_example_leave-the-bottom-half-of-the-page-blank",
+                "text": "Leave the bottom half of the page blank."
+            },
+            {
+                "code": "bottom_example_we-left-our-bikes-at-the-bottom-of-the-hill",
+                "text": "We left our bikes at the bottom of the hill."
+            },
+            {
+                "code": "bottom_example_these-fish-live-along-the-bottom-of-the-ocean",
+                "text": "These fish live along the bottom of the ocean."
+            },
+            {
+                "code": "bottom_example_there-should-be-some-coins-in-the-bottom-of-my-purse",
+                "text": "There should be some coins in the bottom of my purse."
+            },
+            {
+                "code": "bottom_example_she-was-spanked-on-her-bottom",
+                "text": "She was spanked on her bottom."
+            }
+        ]
+    },
+    {
+        "type": "(adj)",
+        "mean": "in the lowest part of something",
+        "examples": [
+            {
+                "code": "bottom_example_she-got-a-cut-on-her-bottom-lip",
+                "text": "She got a cut on her bottom lip."
+            },
+            {
+                "code": "bottom_example_her-bottom-tooth-fell-out",
+                "text": "Her bottom tooth fell out."
+            },
+            {
+                "code": "bottom_example_i-slipped-on-the-bottom-step",
+                "text": "I slipped on the bottom step."
+            },
+            {
+                "code": "bottom_example_it-s-located-on-the-bottom-shelf",
+                "text": "It's located on the bottom shelf."
+            }
+        ]
+    }
+]

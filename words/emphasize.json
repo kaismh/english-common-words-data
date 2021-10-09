@@ -1,0 +1,56 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to give something special attention or importance",
+        "examples": [
+            {
+                "code": "emphasize_example_my-teachers-heavily-emphasize-studying",
+                "text": "My teachers heavily emphasize studying."
+            },
+            {
+                "code": "emphasize_example_they-repeatedly-emphasize-that-we-should-do-more-work",
+                "text": "They repeatedly emphasize that we should do more work."
+            },
+            {
+                "code": "emphasize_example_the-government-especially-emphasizes-the-need-for-higher-taxes",
+                "text": "The government especially emphasizes the need for higher taxes."
+            },
+            {
+                "code": "emphasize_example_we-should-emphasize-that-this-is-an-estimate",
+                "text": "We should emphasize that this is an estimate."
+            },
+            {
+                "code": "emphasize_example_his-injury-seems-to-emphasize-the-need-for-better-warnings",
+                "text": "His injury seems to emphasize the need for better warnings."
+            },
+            {
+                "code": "emphasize_example_they-failed-to-emphasize-the-importance-of-the-new-program",
+                "text": "They failed to emphasize the importance of the new program."
+            },
+            {
+                "code": "emphasize_example_the-article-emphasizes-the-problems-with-the-new-road",
+                "text": "The article emphasizes the problems with the new road."
+            },
+            {
+                "code": "emphasize_example_my-teacher-emphasized-the-relevance-of-the-new-material",
+                "text": "My teacher emphasized the relevance of the new material."
+            },
+            {
+                "code": "emphasize_example_the-government-emphasized-the-need-for-higher-taxes",
+                "text": "The government emphasized the need for higher taxes."
+            },
+            {
+                "code": "emphasize_example_it-is-important-to-emphasize-the-facts-in-this-report",
+                "text": "It is important to emphasize the facts in this report."
+            },
+            {
+                "code": "emphasize_example_my-coach-always-emphasized-teamwork",
+                "text": "My coach always emphasized teamwork."
+            },
+            {
+                "code": "emphasize_example_she-used-many-examples-to-emphasize-the-point-she-was-trying-to-make",
+                "text": "She used many examples to emphasize the point she was trying to make."
+            }
+        ]
+    }
+]

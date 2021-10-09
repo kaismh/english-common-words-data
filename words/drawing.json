@@ -1,0 +1,44 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a picture made using a pen, pencil, or marker",
+        "examples": [
+            {
+                "code": "drawing_example_the-kids-made-a-chalk-drawing",
+                "text": "The kids made a chalk drawing."
+            },
+            {
+                "code": "drawing_example_have-you-seen-the-original-drawings",
+                "text": "Have you seen the original drawings?"
+            },
+            {
+                "code": "drawing_example_she-is-working-on-the-architectural-drawings-of-the-building",
+                "text": "She is working on the architectural drawings of the building."
+            },
+            {
+                "code": "drawing_example_will-he-create-a-new-drawing",
+                "text": "Will he create a new drawing?"
+            },
+            {
+                "code": "drawing_example_this-drawing-shows-many-colors",
+                "text": "This drawing shows many colors."
+            },
+            {
+                "code": "drawing_example_his-cartoon-drawings-accompany-the-story",
+                "text": "His cartoon drawings accompany the story."
+            },
+            {
+                "code": "drawing_example_let-s-go-back-to-the-drawing-board",
+                "text": "Let's go back to the drawing board."
+            },
+            {
+                "code": "drawing_example_she-shows-her-personality-in-her-drawings",
+                "text": "She shows her personality in her drawings."
+            },
+            {
+                "code": "drawing_example_this-is-a-drawing-by-a-famous-artist",
+                "text": "This is a drawing by a famous artist."
+            }
+        ]
+    }
+]

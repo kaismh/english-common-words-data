@@ -1,0 +1,36 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a business customer",
+        "examples": [
+            {
+                "code": "client_example_he-s-meeting-with-an-important-client",
+                "text": "He's meeting with an important client."
+            },
+            {
+                "code": "client_example_we-want-to-keep-our-current-clients-happy",
+                "text": "We want to keep our current clients happy."
+            },
+            {
+                "code": "client_example_she-advised-her-clients-to-be-patient",
+                "text": "She advised her clients to be patient."
+            },
+            {
+                "code": "client_example_how-do-you-assist-your-clients",
+                "text": "How do you assist your clients?"
+            },
+            {
+                "code": "client_example_we-have-several-clients",
+                "text": "We have several clients."
+            },
+            {
+                "code": "client_example_how-can-we-attract-more-clients",
+                "text": "How can we attract more clients?"
+            },
+            {
+                "code": "client_example_i-will-be-speaking-on-behalf-of-my-client",
+                "text": "I will be speaking on behalf of my client."
+            }
+        ]
+    }
+]

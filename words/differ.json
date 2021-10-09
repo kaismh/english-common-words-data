@@ -1,0 +1,52 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to not be the same; to be different; to have a different opinion",
+        "examples": [
+            {
+                "code": "differ_example_the-two-brothers-differ-considerably",
+                "text": "The two brothers differ considerably."
+            },
+            {
+                "code": "differ_example_their-views-differ-widely-on-this-topic",
+                "text": "Their views differ widely on this topic."
+            },
+            {
+                "code": "differ_example_the-opinions-differ-slightly",
+                "text": "The opinions differ slightly."
+            },
+            {
+                "code": "differ_example_i-beg-to-differ",
+                "text": "I beg to differ."
+            },
+            {
+                "code": "differ_example_their-salaries-differ-according-to-their-skills",
+                "text": "Their salaries differ according to their skills."
+            },
+            {
+                "code": "differ_example_the-test-scores-differ-among-the-students",
+                "text": "The test scores differ among the students."
+            },
+            {
+                "code": "differ_example_my-plans-differ-from-yours",
+                "text": "My plans differ from yours."
+            },
+            {
+                "code": "differ_example_the-boys-differ-in-size",
+                "text": "The boys differ in size."
+            },
+            {
+                "code": "differ_example_the-parents-differ-about-school-issues",
+                "text": "The parents differ about school issues."
+            },
+            {
+                "code": "differ_example_the-women-differ-with-the-men",
+                "text": "The women differ with the men."
+            },
+            {
+                "code": "differ_example_their-opinions-differ",
+                "text": "Their opinions differ."
+            }
+        ]
+    }
+]

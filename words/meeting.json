@@ -1,0 +1,84 @@
+[
+    {
+        "type": "(n)",
+        "mean": "an arranged occasion when people come together to discuss things",
+        "examples": [
+            {
+                "code": "meeting_example_we-have-a-meeting-tomorrow-morning",
+                "text": "We have a meeting tomorrow morning."
+            },
+            {
+                "code": "meeting_example_we-set-up-a-meeting-for-next-week",
+                "text": "We set up a meeting for next week."
+            },
+            {
+                "code": "meeting_example_we-went-to-a-meeting-this-afternoon",
+                "text": "We went to a meeting this afternoon."
+            },
+            {
+                "code": "meeting_example_the-meeting-finished-late",
+                "text": "The meeting finished late."
+            },
+            {
+                "code": "meeting_example_the-meeting-just-ended",
+                "text": "The meeting just ended."
+            },
+            {
+                "code": "meeting_example_they-postponed-the-meeting",
+                "text": "They postponed the meeting."
+            },
+            {
+                "code": "meeting_example_she-is-facilitating-her-first-meeting",
+                "text": "She is facilitating her first meeting."
+            },
+            {
+                "code": "meeting_example_we-need-a-meeting-space",
+                "text": "We need a meeting space."
+            },
+            {
+                "code": "meeting_example_what-is-the-meeting-schedule-for-today",
+                "text": "What is the meeting schedule for today?"
+            },
+            {
+                "code": "meeting_example_we-attend-monthly-meetings",
+                "text": "We attend monthly meetings."
+            },
+            {
+                "code": "meeting_example_the-meeting-was-long",
+                "text": "The meeting was long."
+            },
+            {
+                "code": "meeting_example_we-held-an-official-meeting-to-discuss-employee-layoffs",
+                "text": "We held an official meeting to discuss employee layoffs."
+            },
+            {
+                "code": "meeting_example_he-never-attends-the-scheduled-meetings",
+                "text": "He never attends the scheduled meetings."
+            },
+            {
+                "code": "meeting_example_i-will-be-in-an-all-day-meeting",
+                "text": "I will be in an all-day meeting."
+            },
+            {
+                "code": "meeting_example_we-are-attending-a-general-meeting",
+                "text": "We are attending a general meeting."
+            },
+            {
+                "code": "meeting_example_we-had-a-meeting-among-the-family-members",
+                "text": "We had a meeting among the family members."
+            },
+            {
+                "code": "meeting_example_i-had-a-meeting-with-him-yesterday",
+                "text": "I had a meeting with him yesterday."
+            },
+            {
+                "code": "meeting_example_there-was-a-meeting-between-the-bosses",
+                "text": "There was a meeting between the bosses."
+            },
+            {
+                "code": "meeting_example_they-are-having-a-meeting-about-the-incident",
+                "text": "They are having a meeting about the incident."
+            }
+        ]
+    }
+]

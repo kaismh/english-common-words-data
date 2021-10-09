@@ -1,0 +1,90 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to touch someone with your lips to show affection",
+        "examples": [
+            {
+                "code": "kiss_example_she-kissed-him-gently-on-the-cheek",
+                "text": "She kissed him gently on the cheek."
+            },
+            {
+                "code": "kiss_example_he-kissed-her-passionately",
+                "text": "He kissed her passionately."
+            },
+            {
+                "code": "kiss_example_he-quickly-kissed-his-wife-before-getting-on-the-plane",
+                "text": "He quickly kissed his wife before getting on the plane."
+            },
+            {
+                "code": "kiss_example_he-bent-to-kiss-her-hand",
+                "text": "He bent to kiss her hand."
+            },
+            {
+                "code": "kiss_example_she-let-him-kiss-her",
+                "text": "She let him kiss her."
+            },
+            {
+                "code": "kiss_example_he-tried-to-kiss-me",
+                "text": "He tried to kiss me."
+            },
+            {
+                "code": "kiss_example_she-kissed-him-on-the-lips",
+                "text": "She kissed him on the lips."
+            }
+        ]
+    },
+    {
+        "type": "(n)",
+        "mean": "the act of kissing",
+        "examples": [
+            {
+                "code": "kiss_example_she-gave-her-son-a-quick-kiss",
+                "text": "She gave her son a quick kiss."
+            },
+            {
+                "code": "kiss_example_he-leaned-forward-to-give-her-a-big-kiss",
+                "text": "He leaned forward to give her a big kiss."
+            },
+            {
+                "code": "kiss_example_that-girl-gave-him-his-first-kiss",
+                "text": "That girl gave him his first kiss."
+            },
+            {
+                "code": "kiss_example_it-was-just-an-innocent-kiss",
+                "text": "It was just an innocent kiss."
+            },
+            {
+                "code": "kiss_example_he-gave-her-a-gentle-kiss-on-the-forehead",
+                "text": "He gave her a gentle kiss on the forehead."
+            },
+            {
+                "code": "kiss_example_she-planted-a-big-kiss-on-his-cheek",
+                "text": "She planted a big kiss on his cheek."
+            },
+            {
+                "code": "kiss_example_they-exchanged-a-kiss",
+                "text": "They exchanged a kiss."
+            },
+            {
+                "code": "kiss_example_mrs-smith-got-a-kiss-from-her-grandson",
+                "text": "Mrs. Smith got a kiss from her grandson."
+            },
+            {
+                "code": "kiss_example_the-daughters-showered-their-dad-with-kisses",
+                "text": "The daughters showered their dad with kisses."
+            },
+            {
+                "code": "kiss_example_the-kiss-only-lasted-for-a-few-seconds",
+                "text": "The kiss only lasted for a few seconds."
+            },
+            {
+                "code": "kiss_example_he-welcomed-her-with-a-kiss",
+                "text": "He welcomed her with a kiss."
+            },
+            {
+                "code": "kiss_example_they-greeted-each-other-with-a-kiss-on-the-cheek",
+                "text": "They greeted each other with a kiss on the cheek."
+            }
+        ]
+    }
+]

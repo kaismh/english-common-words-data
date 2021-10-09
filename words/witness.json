@@ -1,0 +1,130 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a person who has seen something happen and can describe it to others or in a court of law; a person who can prove an official document has been signed by someone",
+        "examples": [
+            {
+                "code": "witness_example_she-is-the-key-witness-in-the-murder-case",
+                "text": "She is the key witness in the murder case."
+            },
+            {
+                "code": "witness_example_he-is-not-a-reliable-witness-because-he-lies-too-much",
+                "text": "He is not a reliable witness because he lies too much."
+            },
+            {
+                "code": "witness_example_the-lawyers-are-trying-to-convince-the-unwilling-witness-to-testify",
+                "text": "The lawyers are trying to convince the unwilling witness to testify."
+            },
+            {
+                "code": "witness_example_the-lawyers-brought-in-a-doctor-to-be-an-expert-witness",
+                "text": "The lawyers brought in a doctor to be an expert witness."
+            },
+            {
+                "code": "witness_example_the-defendant-s-pastor-was-asked-to-be-his-character-witness",
+                "text": "The defendant's pastor was asked to be his character witness."
+            },
+            {
+                "code": "witness_example_the-prosecution-called-their-first-witness",
+                "text": "The prosecution called their first witness."
+            },
+            {
+                "code": "witness_example_the-witness-swore-to-tell-the-whole-truth",
+                "text": "The witness swore to tell the whole truth."
+            },
+            {
+                "code": "witness_example_the-defense-team-questioned-the-witness-for-hours",
+                "text": "The defense team questioned the witness for hours."
+            },
+            {
+                "code": "witness_example_the-jury-heard-the-witness-s-testimony",
+                "text": "The jury heard the witness's testimony."
+            },
+            {
+                "code": "witness_example_the-defendant-tried-to-intimidate-the-sole-witness",
+                "text": "The defendant tried to intimidate the sole witness."
+            },
+            {
+                "code": "witness_example_the-police-officer-must-protect-the-witness",
+                "text": "The police officer must protect the witness."
+            },
+            {
+                "code": "witness_example_the-witness-testified-against-his-former-boss",
+                "text": "The witness testified against his former boss."
+            },
+            {
+                "code": "witness_example_the-witness-identified-the-drunk-driver",
+                "text": "The witness identified the drunk driver."
+            },
+            {
+                "code": "witness_example_his-best-friend-stood-as-a-witness-at-the-marriage-ceremony",
+                "text": "His best friend stood as a witness at the marriage ceremony."
+            },
+            {
+                "code": "witness_example_the-witness-signed-the-document-proving-it-was-official",
+                "text": "The witness signed the document proving it was official."
+            },
+            {
+                "code": "witness_example_she-had-to-be-carried-off-the-witness-stand",
+                "text": "She had to be carried off the witness stand."
+            },
+            {
+                "code": "witness_example_witness-testimony-is-very-important",
+                "text": "Witness testimony is very important."
+            },
+            {
+                "code": "witness_example_the-police-filed-extra-charges-for-witness-intimidation",
+                "text": "The police filed extra charges for witness intimidation."
+            },
+            {
+                "code": "witness_example_he-was-placed-in-a-witness-protection-program",
+                "text": "He was placed in a witness protection program."
+            },
+            {
+                "code": "witness_example_according-to-the-witnesses-the-car-was-swerving-in-and-out-of-the-lane",
+                "text": "According to the witnesses, the car was swerving in and out of the lane."
+            },
+            {
+                "code": "witness_example_he-is-the-only-witness-to-the-murder",
+                "text": "He is the only witness to the murder."
+            },
+            {
+                "code": "witness_example_the-will-was-signed-in-front-of-two-witnesses",
+                "text": "The will was signed in front of two witnesses."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to see something happen and be able to describe it to others or in a court of law; to be able to prove an official document has been signed by someone",
+        "examples": [
+            {
+                "code": "witness_example_she-witnessed-the-crime",
+                "text": "She witnessed the crime."
+            },
+            {
+                "code": "witness_example_the-little-girl-witnessed-the-death-of-her-grandfather",
+                "text": "The little girl witnessed the death of her grandfather."
+            },
+            {
+                "code": "witness_example_we-witnessed-the-greatest-event-ever",
+                "text": "We witnessed the greatest event ever."
+            },
+            {
+                "code": "witness_example_the-victim-s-family-witnessed-the-execution-of-the-murderer",
+                "text": "The victim's family witnessed the execution of the murderer."
+            },
+            {
+                "code": "witness_example_we-have-witnessed-an-improvement-in-her-behavior-these-days",
+                "text": "We have witnessed an improvement in her behavior these days."
+            },
+            {
+                "code": "witness_example_he-witnessed-the-murder-of-his-friend",
+                "text": "He witnessed the murder of his friend."
+            },
+            {
+                "code": "witness_example_we-have-witnessed-a-miracle",
+                "text": "We have witnessed a miracle."
+            }
+        ]
+    }
+]

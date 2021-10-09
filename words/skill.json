@@ -1,0 +1,76 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a talent or ability",
+        "examples": [
+            {
+                "code": "skill_example_it-takes-considerable-skill-to-play-the-piano",
+                "text": "It takes considerable skill to play the piano."
+            },
+            {
+                "code": "skill_example_students-are-learning-basic-skills",
+                "text": "Students are learning basic skills."
+            },
+            {
+                "code": "skill_example_i-quit-because-i-have-poor-skills",
+                "text": "I quit because I have poor skills."
+            },
+            {
+                "code": "skill_example_he-didn-t-have-the-necessary-skills-for-the-job",
+                "text": "He didn't have the necessary skills for the job."
+            },
+            {
+                "code": "skill_example_we-re-practicing-our-listening-skills",
+                "text": "We're practicing our listening skills."
+            },
+            {
+                "code": "skill_example_school-helped-me-to-develop-my-math-skills",
+                "text": "School helped me to develop my math skills."
+            },
+            {
+                "code": "skill_example_she-needs-to-improve-her-social-skills",
+                "text": "She needs to improve her social skills."
+            },
+            {
+                "code": "skill_example_she-has-many-skills",
+                "text": "She has many skills."
+            },
+            {
+                "code": "skill_example_this-job-requires-certain-skills",
+                "text": "This job requires certain skills."
+            },
+            {
+                "code": "skill_example_children-learn-new-skills-easily",
+                "text": "Children learn new skills easily."
+            },
+            {
+                "code": "skill_example_now-is-the-time-to-apply-our-skills",
+                "text": "Now is the time to apply our skills."
+            },
+            {
+                "code": "skill_example_when-did-you-master-this-skill",
+                "text": "When did you master this skill?"
+            },
+            {
+                "code": "skill_example_she-shows-great-skill-with-a-paintbrush",
+                "text": "She shows great skill with a paintbrush."
+            },
+            {
+                "code": "skill_example_he-has-little-skill-as-a-teacher",
+                "text": "He has little skill as a teacher."
+            },
+            {
+                "code": "skill_example_he-likes-to-show-off-his-skill-in-drawing",
+                "text": "He likes to show off his skill in drawing."
+            },
+            {
+                "code": "skill_example_the-skill-of-teamwork-is-highly-valued",
+                "text": "The skill of teamwork is highly valued."
+            },
+            {
+                "code": "skill_example_we-are-in-training-to-improve-our-skill-level",
+                "text": "We are in training to improve our skill level."
+            }
+        ]
+    }
+]

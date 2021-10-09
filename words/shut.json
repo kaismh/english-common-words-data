@@ -1,0 +1,50 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "closed; not open",
+        "examples": [
+            {
+                "code": "shut_example_the-door-is-shut",
+                "text": "The door is shut."
+            },
+            {
+                "code": "shut_example_the-door-closed-shut-from-the-wind",
+                "text": "The door closed shut from the wind."
+            },
+            {
+                "code": "shut_example_this-window-is-bolted-shut",
+                "text": "This window is bolted shut."
+            },
+            {
+                "code": "shut_example_he-left-the-window-shut",
+                "text": "He left the window shut."
+            },
+            {
+                "code": "shut_example_the-lid-was-firmly-shut",
+                "text": "The lid was firmly shut."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to close something",
+        "examples": [
+            {
+                "code": "shut_example_make-sure-to-shut-the-gate",
+                "text": "Make sure to shut the gate."
+            },
+            {
+                "code": "shut_example_he-shut-his-eyes",
+                "text": "He shut his eyes."
+            },
+            {
+                "code": "shut_example_he-shut-the-briefcase-quickly",
+                "text": "He shut the briefcase quickly."
+            },
+            {
+                "code": "shut_example_he-quickly-shut-the-door",
+                "text": "He quickly shut the door."
+            }
+        ]
+    }
+]

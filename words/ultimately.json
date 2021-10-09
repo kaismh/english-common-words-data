@@ -1,0 +1,28 @@
+[
+    {
+        "type": "(adv)",
+        "mean": "finally; in the end",
+        "examples": [
+            {
+                "code": "ultimately_example_you-are-ultimately-responsible-for-your-own-actions",
+                "text": "You are ultimately responsible for your own actions."
+            },
+            {
+                "code": "ultimately_example_he-ultimately-decided-to-go-to-college",
+                "text": "He ultimately decided to go to college."
+            },
+            {
+                "code": "ultimately_example_she-ultimately-agreed-to-join-the-group",
+                "text": "She ultimately agreed to join the group."
+            },
+            {
+                "code": "ultimately_example_he-was-ultimately-found-guilty-of-the-crime",
+                "text": "He was ultimately found guilty of the crime."
+            },
+            {
+                "code": "ultimately_example_she-was-ultimately-convicted-of-the-robbery",
+                "text": "She was ultimately convicted of the robbery."
+            }
+        ]
+    }
+]

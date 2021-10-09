@@ -1,0 +1,68 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the act of taking care of something and keeping it in good condition",
+        "examples": [
+            {
+                "code": "maintenance_example_i-do-the-maintenance-for-our-apartment-building",
+                "text": "I do the maintenance for our apartment building."
+            },
+            {
+                "code": "maintenance_example_the-car-needs-maintenance",
+                "text": "The car needs maintenance."
+            },
+            {
+                "code": "maintenance_example_the-elevator-receives-maintenance-every-month",
+                "text": "The elevator receives maintenance every month."
+            },
+            {
+                "code": "maintenance_example_the-maintenance-record-should-tell-you-when-the-next-oil-change-should-be",
+                "text": "The maintenance record should tell you when the next oil change should be."
+            },
+            {
+                "code": "maintenance_example_i-do-maintenance-work",
+                "text": "I do maintenance work."
+            },
+            {
+                "code": "maintenance_example_we-are-waiting-for-the-maintenance-crew",
+                "text": "We are waiting for the maintenance crew."
+            },
+            {
+                "code": "maintenance_example_please-call-if-you-have-any-maintenance-issues",
+                "text": "Please call if you have any maintenance issues."
+            },
+            {
+                "code": "maintenance_example_what-are-the-maintenance-requirements",
+                "text": "What are the maintenance requirements?"
+            },
+            {
+                "code": "maintenance_example_maintenance-service-is-an-extra-cost",
+                "text": "Maintenance service is an extra cost."
+            },
+            {
+                "code": "maintenance_example_car-maintenance-can-be-expensive",
+                "text": "Car maintenance can be expensive."
+            },
+            {
+                "code": "maintenance_example_the-car-requires-high-maintenance",
+                "text": "The car requires high maintenance."
+            },
+            {
+                "code": "maintenance_example_i-have-a-scheduled-maintenance-for-my-car-coming-up",
+                "text": "I have a scheduled maintenance for my car coming up."
+            },
+            {
+                "code": "maintenance_example_this-building-needs-regular-maintenance",
+                "text": "This building needs regular maintenance."
+            },
+            {
+                "code": "maintenance_example_we-hired-someone-to-take-care-of-the-lawn-maintenance",
+                "text": "We hired someone to take care of the lawn maintenance."
+            },
+            {
+                "code": "maintenance_example_the-car-needs-annual-maintenance",
+                "text": "The car needs annual maintenance."
+            }
+        ]
+    }
+]

@@ -1,0 +1,82 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a particular kind of person or thing",
+        "examples": [
+            {
+                "code": "type_example_what-is-your-blood-type",
+                "text": "What is your blood type?"
+            },
+            {
+                "code": "type_example_she-has-a-certain-type-of-diabetes",
+                "text": "She has a certain type of diabetes."
+            },
+            {
+                "code": "type_example_she-likes-different-types-of-music",
+                "text": "She likes different types of music."
+            },
+            {
+                "code": "type_example_mexican-is-my-favorite-type-of-food",
+                "text": "Mexican is my favorite type of food."
+            },
+            {
+                "code": "type_example_she-is-the-perfect-type-for-that-role",
+                "text": "She is the perfect type for that role."
+            },
+            {
+                "code": "type_example_she-likes-the-athletic-type",
+                "text": "She likes the athletic type."
+            },
+            {
+                "code": "type_example_he-is-the-shy-type",
+                "text": "He is the shy type."
+            },
+            {
+                "code": "type_example_we-can-choose-from-many-different-types-of-food",
+                "text": "We can choose from many different types of food."
+            },
+            {
+                "code": "type_example_what-type-of-music-do-you-like",
+                "text": "What type of music do you like?"
+            },
+            {
+                "code": "type_example_we-learned-about-various-types-of-diseases",
+                "text": "We learned about various types of diseases."
+            },
+            {
+                "code": "type_example_can-you-recognize-the-different-types-of-diseases",
+                "text": "Can you recognize the different types of diseases?"
+            },
+            {
+                "code": "type_example_there-are-many-types-of-animals-at-the-zoo",
+                "text": "There are many types of animals at the zoo."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to write using a computer keyboard or typewriter",
+        "examples": [
+            {
+                "code": "type_example_the-secretary-quickly-typed-the-letter-for-her-boss",
+                "text": "The secretary quickly typed the letter for her boss."
+            },
+            {
+                "code": "type_example_he-accurately-typed-every-word-on-the-document",
+                "text": "He accurately typed every word on the document."
+            },
+            {
+                "code": "type_example_she-typed-exactly-what-was-said",
+                "text": "She typed exactly what was said."
+            },
+            {
+                "code": "type_example_he-typed-the-report-on-the-computer",
+                "text": "He typed the report on the computer."
+            },
+            {
+                "code": "type_example_she-typed-the-document-on-the-computer",
+                "text": "She typed the document on the computer."
+            }
+        ]
+    }
+]

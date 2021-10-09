@@ -1,0 +1,36 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to act in a certain way to make people believe something",
+        "examples": [
+            {
+                "code": "pretend_example_can-you-at-least-pretend-to-like-sports",
+                "text": "Can you at least pretend to like sports?"
+            },
+            {
+                "code": "pretend_example_let-s-just-pretend-it-never-happened",
+                "text": "Let's just pretend it never happened."
+            },
+            {
+                "code": "pretend_example_i-can-no-longer-pretend-to-like-you",
+                "text": "I can no longer pretend to like you."
+            },
+            {
+                "code": "pretend_example_i-tried-to-pretend-to-enjoy-the-movie",
+                "text": "I tried to pretend to enjoy the movie."
+            },
+            {
+                "code": "pretend_example_stop-pretending-to-be-something-you-re-not",
+                "text": "Stop pretending to be something you're not."
+            },
+            {
+                "code": "pretend_example_don-t-pretend-to-be-asleep",
+                "text": "Don't pretend to be asleep."
+            },
+            {
+                "code": "pretend_example_he-pretended-to-his-family-that-he-was-a-famous-actor",
+                "text": "He pretended to his family that he was a famous actor."
+            }
+        ]
+    }
+]

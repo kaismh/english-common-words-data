@@ -1,0 +1,56 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a two-wheeled vehicle with pedals",
+        "examples": [
+            {
+                "code": "bicycle_example_she-rides-her-bicycle-to-school",
+                "text": "She rides her bicycle to school."
+            },
+            {
+                "code": "bicycle_example_we-got-on-our-bicycles-and-left",
+                "text": "We got on our bicycles and left."
+            },
+            {
+                "code": "bicycle_example_she-pedals-her-bicycle-quickly",
+                "text": "She pedals her bicycle quickly."
+            },
+            {
+                "code": "bicycle_example_he-fell-off-his-bicycle",
+                "text": "He fell off his bicycle."
+            },
+            {
+                "code": "bicycle_example_we-re-going-to-rent-a-bicycle-for-our-trip",
+                "text": "We're going to rent a bicycle for our trip."
+            },
+            {
+                "code": "bicycle_example_don-t-park-the-bicycle-in-the-road",
+                "text": "Don't park the bicycle in the road."
+            },
+            {
+                "code": "bicycle_example_they-went-on-a-bicycle-ride",
+                "text": "They went on a bicycle ride."
+            },
+            {
+                "code": "bicycle_example_i-need-to-buy-a-new-bicycle-chain",
+                "text": "I need to buy a new bicycle chain."
+            },
+            {
+                "code": "bicycle_example_does-the-city-have-bicycle-lanes",
+                "text": "Does the city have bicycle lanes?"
+            },
+            {
+                "code": "bicycle_example_i-was-in-a-bicycle-accident",
+                "text": "I was in a bicycle accident."
+            },
+            {
+                "code": "bicycle_example_we-came-home-by-bicycle",
+                "text": "We came home by bicycle."
+            },
+            {
+                "code": "bicycle_example_she-was-doing-tricks-on-her-bicycle",
+                "text": "She was doing tricks on her bicycle."
+            }
+        ]
+    }
+]

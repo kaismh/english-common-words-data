@@ -1,0 +1,92 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a small piece of something",
+        "examples": [
+            {
+                "code": "detail_example_we-forgot-the-little-detail-at-the-end",
+                "text": "We forgot the little detail at the end."
+            },
+            {
+                "code": "detail_example_you-left-out-major-details-from-your-autobiography",
+                "text": "You left out major details from your autobiography."
+            },
+            {
+                "code": "detail_example_his-paintings-have-fascinating-detail",
+                "text": "His paintings have fascinating detail."
+            },
+            {
+                "code": "detail_example_the-witness-told-me-the-graphic-details-of-the-crime",
+                "text": "The witness told me the graphic details of the crime."
+            },
+            {
+                "code": "detail_example_the-police-asked-for-complete-details-of-the-accident",
+                "text": "The police asked for complete details of the accident."
+            },
+            {
+                "code": "detail_example_she-told-me-the-intimate-details-of-their-first-date",
+                "text": "She told me the intimate details of their first date."
+            },
+            {
+                "code": "detail_example_the-salary-is-an-important-detail",
+                "text": "The salary is an important detail."
+            },
+            {
+                "code": "detail_example_let-s-try-to-overlook-the-insignificant-detail",
+                "text": "Let's try to overlook the insignificant detail."
+            },
+            {
+                "code": "detail_example_we-need-the-factual-details-to-finish-the-report",
+                "text": "We need the factual details to finish the report."
+            },
+            {
+                "code": "detail_example_can-you-give-me-more-details",
+                "text": "Can you give me more details?"
+            },
+            {
+                "code": "detail_example_please-provide-more-detail-in-your-report",
+                "text": "Please provide more detail in your report."
+            },
+            {
+                "code": "detail_example_you-should-disclose-this-important-detail",
+                "text": "You should disclose this important detail."
+            },
+            {
+                "code": "detail_example_the-report-contains-a-crucial-detail",
+                "text": "The report contains a crucial detail."
+            },
+            {
+                "code": "detail_example_we-need-to-discuss-the-details-of-the-contract",
+                "text": "We need to discuss the details of the contract."
+            },
+            {
+                "code": "detail_example_who-is-going-to-handle-the-details-of-the-wedding",
+                "text": "Who is going to handle the details of the wedding."
+            },
+            {
+                "code": "detail_example_he-examined-the-plan-in-detail",
+                "text": "He examined the plan in detail."
+            },
+            {
+                "code": "detail_example_the-boss-went-into-detail-about-his-performance",
+                "text": "The boss went into detail about his performance."
+            },
+            {
+                "code": "detail_example_look-at-the-website-for-more-details",
+                "text": "Look at the website for more details."
+            },
+            {
+                "code": "detail_example_the-lawyers-explained-the-details-of-the-contract",
+                "text": "The lawyers explained the details of the contract."
+            },
+            {
+                "code": "detail_example_please-give-me-more-details-on-your-wedding",
+                "text": "Please give me more details on your wedding."
+            },
+            {
+                "code": "detail_example_they-are-arguing-over-the-details-of-the-report",
+                "text": "They are arguing over the details of the report."
+            }
+        ]
+    }
+]

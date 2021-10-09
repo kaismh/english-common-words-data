@@ -1,0 +1,52 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a covering for hands made of fabric with individual parts for each finger",
+        "examples": [
+            {
+                "code": "glove_example_she-wore-long-gloves-with-her-gown",
+                "text": "She wore long gloves with her gown."
+            },
+            {
+                "code": "glove_example_he-wears-fingerless-gloves-so-he-can-use-his-fingers-more-easily",
+                "text": "He wears fingerless gloves so he can use his fingers more easily."
+            },
+            {
+                "code": "glove_example_he-wore-protective-gloves-while-working-with-glass",
+                "text": "He wore protective gloves while working with glass."
+            },
+            {
+                "code": "glove_example_she-got-a-new-pair-of-leather-gloves",
+                "text": "She got a new pair of leather gloves."
+            },
+            {
+                "code": "glove_example_the-doctor-put-on-latex-gloves-before-the-examination",
+                "text": "The doctor put on latex gloves before the examination."
+            },
+            {
+                "code": "glove_example_do-you-know-where-my-baseball-glove-is",
+                "text": "Do you know where my baseball glove is?"
+            },
+            {
+                "code": "glove_example_i-can-t-find-my-boxing-gloves",
+                "text": "I can't find my boxing gloves."
+            },
+            {
+                "code": "glove_example_i-m-having-trouble-putting-on-these-gloves",
+                "text": "I'm having trouble putting on these gloves."
+            },
+            {
+                "code": "glove_example_she-took-off-the-gloves-to-tie-her-shoes",
+                "text": "She took off the gloves to tie her shoes."
+            },
+            {
+                "code": "glove_example_i-need-a-new-pair-of-gloves",
+                "text": "I need a new pair of gloves."
+            },
+            {
+                "code": "glove_example_i-think-there-are-napkins-in-the-glove-box",
+                "text": "I think there are napkins in the glove box."
+            }
+        ]
+    }
+]

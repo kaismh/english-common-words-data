@@ -1,0 +1,44 @@
+[
+    {
+        "type": "(noun)",
+        "mean": "a short moment in time; one unit of sixty in a full minute",
+        "examples": [
+            {
+                "code": "second_example_i-saw-him-for-a-brief-second-then-he-disappeared",
+                "text": "I saw him for a brief second, then he disappeared."
+            },
+            {
+                "code": "second_example_it-just-takes-a-single-second-for-everything-to-change",
+                "text": "It just takes a single second for everything to change."
+            },
+            {
+                "code": "second_example_it-will-only-take-a-second",
+                "text": "It will only take a second."
+            },
+            {
+                "code": "second_example_do-you-have-a-second-to-chat",
+                "text": "Do you have a second to chat?"
+            },
+            {
+                "code": "second_example_please-wait-a-second",
+                "text": "Please wait a second."
+            },
+            {
+                "code": "second_example_just-think-about-it-for-a-second",
+                "text": "Just think about it for a second."
+            },
+            {
+                "code": "second_example_i-ll-be-there-in-a-second",
+                "text": "I'll be there in a second."
+            },
+            {
+                "code": "second_example_the-police-arrived-within-seconds",
+                "text": "The police arrived within seconds."
+            },
+            {
+                "code": "second_example_i-like-watching-the-second-hand-on-a-clock",
+                "text": "I like watching the second hand on a clock."
+            }
+        ]
+    }
+]

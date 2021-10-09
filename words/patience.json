@@ -1,0 +1,48 @@
+[
+    {
+        "type": "(n)",
+        "mean": "ability to wait for a long period of time without getting upset or angry",
+        "examples": [
+            {
+                "code": "patience_example_she-lacks-patience-when-dealing-with-other-people",
+                "text": "She lacks patience when dealing with other people."
+            },
+            {
+                "code": "patience_example_we-appreciate-your-patience",
+                "text": "We appreciate your patience."
+            },
+            {
+                "code": "patience_example_working-at-a-hospital-requires-patience-and-understanding",
+                "text": "Working at a hospital requires patience and understanding."
+            },
+            {
+                "code": "patience_example_my-patience-with-you-is-wearing-thin",
+                "text": "My patience with you is wearing thin."
+            },
+            {
+                "code": "patience_example_parents-should-try-to-keep-their-patience",
+                "text": "Parents should try to keep their patience."
+            },
+            {
+                "code": "patience_example_i-am-running-out-of-patience-with-him",
+                "text": "I am running out of patience with him."
+            },
+            {
+                "code": "patience_example_i-have-little-patience-for-rude-people",
+                "text": "I have little patience for rude people."
+            },
+            {
+                "code": "patience_example_my-teacher-has-great-patience-for-misbehaving-children",
+                "text": "My teacher has great patience for misbehaving children."
+            },
+            {
+                "code": "patience_example_i-have-no-patience-for-lazy-people",
+                "text": "I have no patience for lazy people."
+            },
+            {
+                "code": "patience_example_she-treats-the-kids-with-patience",
+                "text": "She treats the kids with patience."
+            }
+        ]
+    }
+]

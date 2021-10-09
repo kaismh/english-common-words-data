@@ -1,0 +1,36 @@
+[
+    {
+        "type": "(n)",
+        "mean": "someone working in an office, store or hotel",
+        "examples": [
+            {
+                "code": "clerk_example_he-works-as-a-bank-clerk",
+                "text": "He works as a bank clerk."
+            },
+            {
+                "code": "clerk_example_we-ll-ask-the-hotel-clerk-for-directions",
+                "text": "We'll ask the hotel clerk for directions."
+            },
+            {
+                "code": "clerk_example_do-you-like-working-as-a-grocery-clerk",
+                "text": "Do you like working as a grocery clerk?"
+            },
+            {
+                "code": "clerk_example_she-works-as-an-accounting-clerk-in-a-business-office",
+                "text": "She works as an accounting clerk in a business office."
+            },
+            {
+                "code": "clerk_example_the-clerk-filed-away-the-important-documents",
+                "text": "The clerk filed away the important documents."
+            },
+            {
+                "code": "clerk_example_let-s-ask-the-front-desk-clerk-for-information",
+                "text": "Let's ask the front desk clerk for information."
+            },
+            {
+                "code": "clerk_example_the-sales-clerk-rang-up-our-purchases",
+                "text": "The sales clerk rang up our purchases."
+            }
+        ]
+    }
+]

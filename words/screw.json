@@ -1,0 +1,50 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a narrow metal pointed cylinder that holds things together",
+        "examples": [
+            {
+                "code": "screw_example_please-pass-me-the-wood-screw",
+                "text": "Please pass me the wood screw."
+            },
+            {
+                "code": "screw_example_there-is-a-loose-screw-on-the-ground",
+                "text": "There is a loose screw on the ground."
+            },
+            {
+                "code": "screw_example_i-need-to-loosen-this-screw",
+                "text": "I need to loosen this screw."
+            },
+            {
+                "code": "screw_example_carl-removed-the-screw-from-the-wood",
+                "text": "Carl removed the screw from the wood."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to attach something with a screw; to attach a lid with a twisting motion",
+        "examples": [
+            {
+                "code": "screw_example_he-firmly-screwed-in-the-light-bulb",
+                "text": "He firmly screwed in the light bulb."
+            },
+            {
+                "code": "screw_example_screw-the-lid-down-tightly",
+                "text": "Screw the lid down tightly."
+            },
+            {
+                "code": "screw_example_she-screwed-the-bolt-into-the-door",
+                "text": "She screwed the bolt into the door."
+            },
+            {
+                "code": "screw_example_i-screwed-the-lid-back-on-the-jar",
+                "text": "I screwed the lid back on the jar."
+            },
+            {
+                "code": "screw_example_the-table-was-screwed-to-the-floor",
+                "text": "The table was screwed to the floor."
+            }
+        ]
+    }
+]

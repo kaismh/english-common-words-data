@@ -1,0 +1,74 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to rescue someone; to keep something for future use, especially money",
+        "examples": [
+            {
+                "code": "save_example_the-firefighter-saved-the-kitten",
+                "text": "The firefighter saved the kitten."
+            },
+            {
+                "code": "save_example_please-save-your-receipt",
+                "text": "Please save your receipt."
+            },
+            {
+                "code": "save_example_it-is-important-to-save-the-planet",
+                "text": "It is important to save the planet."
+            },
+            {
+                "code": "save_example_i-want-to-save-my-marriage",
+                "text": "I want to save my marriage."
+            },
+            {
+                "code": "save_example_i-need-to-save-money-for-college",
+                "text": "I need to save money for college."
+            },
+            {
+                "code": "save_example_the-seat-belt-probably-saved-her-life",
+                "text": "The seat belt probably saved her life."
+            },
+            {
+                "code": "save_example_i-am-saving-up-to-buy-a-house",
+                "text": "I am saving up to buy a house."
+            },
+            {
+                "code": "save_example_they-saved-the-painting-from-being-ruined-in-the-rain",
+                "text": "They saved the painting from being ruined in the rain."
+            },
+            {
+                "code": "save_example_we-are-trying-to-save-for-our-honeymoon",
+                "text": "We are trying to save for our honeymoon."
+            },
+            {
+                "code": "save_example_steven-was-able-to-save-money-on-printing-costs",
+                "text": "Steven was able to save money on printing costs."
+            }
+        ]
+    },
+    {
+        "type": "(n)",
+        "mean": "an action that stops a goal from being scored, usually in soccer or hockey",
+        "examples": [
+            {
+                "code": "save_example_the-goalie-made-an-excellent-save",
+                "text": "The goalie made an excellent save."
+            },
+            {
+                "code": "save_example_who-made-that-diving-save",
+                "text": "Who made that diving save?"
+            },
+            {
+                "code": "save_example_did-you-see-that-amazing-save",
+                "text": "Did you see that amazing save?"
+            },
+            {
+                "code": "save_example_how-did-he-make-that-diving-save",
+                "text": "How did he make that diving save?"
+            },
+            {
+                "code": "save_example_there-were-some-great-saves-by-both-goalkeepers",
+                "text": "There were some great saves by both goalkeepers."
+            }
+        ]
+    }
+]

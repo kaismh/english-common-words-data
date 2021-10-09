@@ -1,0 +1,40 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a feeling of satisfaction when one does something well; a good feeling one has for oneself",
+        "examples": [
+            {
+                "code": "pride_example_she-takes-great-pride-in-her-son-s-accomplishments",
+                "text": "She takes great pride in her son's accomplishments."
+            },
+            {
+                "code": "pride_example_his-foolish-pride-would-not-allow-him-to-ask-for-help",
+                "text": "His foolish pride would not allow him to ask for help."
+            },
+            {
+                "code": "pride_example_he-had-to-get-over-his-wounded-pride",
+                "text": "He had to get over his wounded pride."
+            },
+            {
+                "code": "pride_example_he-has-great-pride-in-his-daughter-s-achievements",
+                "text": "He has great pride in his daughter's achievements."
+            },
+            {
+                "code": "pride_example_he-did-not-mean-to-hurt-his-friend-s-pride",
+                "text": "He did not mean to hurt his friend's pride."
+            },
+            {
+                "code": "pride_example_she-swallowed-her-pride-and-apologized-first",
+                "text": "She swallowed her pride and apologized first."
+            },
+            {
+                "code": "pride_example_how-can-we-restore-pride-in-our-company",
+                "text": "How can we restore pride in our company?"
+            },
+            {
+                "code": "pride_example_she-refused-help-out-of-pride",
+                "text": "She refused help out of pride."
+            }
+        ]
+    }
+]

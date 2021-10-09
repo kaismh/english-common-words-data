@@ -1,0 +1,36 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to make something go to another place; to deliver",
+        "examples": [
+            {
+                "code": "send_example_please-send-the-mail-to-my-new-address",
+                "text": "Please send the mail to my new address."
+            },
+            {
+                "code": "send_example_she-sends-him-a-letter-every-week",
+                "text": "She sends him a letter every week."
+            },
+            {
+                "code": "send_example_he-will-send-him-an-apology-tonight",
+                "text": "He will send him an apology tonight."
+            },
+            {
+                "code": "send_example_the-military-is-sending-soldiers-to-battle",
+                "text": "The military is sending soldiers to battle."
+            },
+            {
+                "code": "send_example_i-need-to-quickly-send-this-email-to-my-boss",
+                "text": "I need to quickly send this email to my boss."
+            },
+            {
+                "code": "send_example_i-need-to-send-this-package-off-fast",
+                "text": "I need to send this package off fast."
+            },
+            {
+                "code": "send_example_i-reluctantly-sent-her-an-invitation",
+                "text": "I reluctantly sent her an invitation."
+            }
+        ]
+    }
+]

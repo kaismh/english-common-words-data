@@ -1,0 +1,40 @@
+[
+    {
+        "type": "(n)",
+        "mean": "something that you must do because of a duty or promise",
+        "examples": [
+            {
+                "code": "obligation_example_she-never-fulfills-her-obligations",
+                "text": "She never fulfills her obligations."
+            },
+            {
+                "code": "obligation_example_i-have-too-many-obligations",
+                "text": "I have too many obligations."
+            },
+            {
+                "code": "obligation_example_i-feel-an-obligation-to-help-them",
+                "text": "I feel an obligation to help them."
+            },
+            {
+                "code": "obligation_example_what-kind-of-legal-obligations-do-you-have",
+                "text": "What kind of legal obligations do you have?"
+            },
+            {
+                "code": "obligation_example_he-has-many-personal-obligations",
+                "text": "He has many personal obligations."
+            },
+            {
+                "code": "obligation_example_i-have-an-obligation-to-her",
+                "text": "I have an obligation to her."
+            },
+            {
+                "code": "obligation_example_it-comes-without-obligation",
+                "text": "It comes without obligation."
+            },
+            {
+                "code": "obligation_example_i-am-under-no-obligation-to-purchase-something",
+                "text": "I am under no obligation to purchase something."
+            }
+        ]
+    }
+]

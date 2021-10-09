@@ -1,0 +1,48 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the form of money used in a country",
+        "examples": [
+            {
+                "code": "currency_example_they-prefer-domestic-currency",
+                "text": "They prefer domestic currency."
+            },
+            {
+                "code": "currency_example_they-have-a-stable-currency",
+                "text": "They have a stable currency."
+            },
+            {
+                "code": "currency_example_that-bank-can-change-currency",
+                "text": "That bank can change currency."
+            },
+            {
+                "code": "currency_example_they-think-the-currency-will-rise",
+                "text": "They think the currency will rise."
+            },
+            {
+                "code": "currency_example_where-can-we-convert-our-currency",
+                "text": "Where can we convert our currency?"
+            },
+            {
+                "code": "currency_example_we-were-issued-foreign-currency",
+                "text": "We were issued foreign currency."
+            },
+            {
+                "code": "currency_example_we-must-use-domestic-currency-while-there",
+                "text": "We must use domestic currency while there."
+            },
+            {
+                "code": "currency_example_how-do-we-buy-foreign-currency",
+                "text": "How do we buy foreign currency?"
+            },
+            {
+                "code": "currency_example_most-airports-have-currency-conversion",
+                "text": "Most airports have currency conversion."
+            },
+            {
+                "code": "currency_example_please-give-me-200-in-american-currency",
+                "text": "Please give me $200 in American currency."
+            }
+        ]
+    }
+]

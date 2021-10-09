@@ -1,0 +1,52 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to move towards a person or place; to arrive at a place",
+        "examples": [
+            {
+                "code": "come_example_the-bus-comes-every-fifteen-minutes",
+                "text": "The bus comes every fifteen minutes."
+            },
+            {
+                "code": "come_example_this-chance-only-comes-once-in-a-lifetime",
+                "text": "This chance only comes once in a lifetime."
+            },
+            {
+                "code": "come_example_a-hurricane-is-coming",
+                "text": "A hurricane is coming!"
+            },
+            {
+                "code": "come_example_the-mail-comes-in-the-afternoon",
+                "text": "The mail comes in the afternoon."
+            },
+            {
+                "code": "come_example_the-announcement-came-as-a-shock",
+                "text": "The announcement came as a shock."
+            },
+            {
+                "code": "come_example_come-out-with-your-hands-up",
+                "text": "Come out with your hands up!"
+            },
+            {
+                "code": "come_example_please-come-over-here",
+                "text": "Please come over here."
+            },
+            {
+                "code": "come_example_come-to-me",
+                "text": "Come to me."
+            },
+            {
+                "code": "come_example_can-you-come-over-to-play",
+                "text": "Can you come over to play?"
+            },
+            {
+                "code": "come_example_he-is-coming-over-soon",
+                "text": "He is coming over soon."
+            },
+            {
+                "code": "come_example_please-come-back",
+                "text": "Please come back."
+            }
+        ]
+    }
+]

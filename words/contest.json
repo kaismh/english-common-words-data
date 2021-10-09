@@ -1,0 +1,94 @@
+[
+    {
+        "type": "(n)",
+        "mean": "an event that can be won or lost",
+        "examples": [
+            {
+                "code": "contest_example_the-basketball-game-was-a-close-contest",
+                "text": "The basketball game was a close contest."
+            },
+            {
+                "code": "contest_example_they-won-a-fair-contest",
+                "text": "They won a fair contest."
+            },
+            {
+                "code": "contest_example_the-match-was-an-exciting-contest",
+                "text": "The match was an exciting contest."
+            },
+            {
+                "code": "contest_example_the-bitter-contest-ended-in-an-argument",
+                "text": "The bitter contest ended in an argument."
+            },
+            {
+                "code": "contest_example_five-teams-are-participating-in-an-international-contest",
+                "text": "Five teams are participating in an international contest."
+            },
+            {
+                "code": "contest_example_she-entered-a-beauty-contest",
+                "text": "She entered a beauty contest."
+            },
+            {
+                "code": "contest_example_they-will-have-a-contest",
+                "text": "They will have a contest."
+            },
+            {
+                "code": "contest_example_who-will-compete-in-the-contest",
+                "text": "Who will compete in the contest?"
+            },
+            {
+                "code": "contest_example_someone-will-lose-the-contest",
+                "text": "Someone will lose the contest."
+            },
+            {
+                "code": "contest_example_the-contest-takes-place-this-weekend",
+                "text": "The contest takes place this weekend."
+            },
+            {
+                "code": "contest_example_people-were-silent-during-the-contest",
+                "text": "People were silent during the contest."
+            },
+            {
+                "code": "contest_example_she-was-not-in-the-contest",
+                "text": "She was not in the contest."
+            },
+            {
+                "code": "contest_example_he-is-out-of-the-contest-for-cheating",
+                "text": "He is out of the contest for cheating."
+            },
+            {
+                "code": "contest_example_the-best-teams-are-having-a-contest-against-each-other",
+                "text": "The best teams are having a contest against each other."
+            },
+            {
+                "code": "contest_example_there-will-be-a-contest-between-the-best-two-players",
+                "text": "There will be a contest between the best two players."
+            },
+            {
+                "code": "contest_example_did-you-see-the-contest-for-the-best-dancer",
+                "text": "Did you see the contest for the best dancer?"
+            },
+            {
+                "code": "contest_example_we-will-have-a-contest-with-our-friends",
+                "text": "We will have a contest with our friends."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to fight against something; to argue or not accept something",
+        "examples": [
+            {
+                "code": "contest_example_he-bitterly-contested-the-election-results",
+                "text": "He bitterly contested the election results."
+            },
+            {
+                "code": "contest_example_the-race-was-closely-contested",
+                "text": "The race was closely contested."
+            },
+            {
+                "code": "contest_example_she-successfully-contested-the-results-of-the-game",
+                "text": "She successfully contested the results of the game."
+            }
+        ]
+    }
+]

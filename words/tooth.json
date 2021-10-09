@@ -1,0 +1,76 @@
+[
+    {
+        "type": "(n)",
+        "mean": "one of the bones in the mouth used for chewing or biting food",
+        "examples": [
+            {
+                "code": "tooth_example_she-has-a-chipped-tooth",
+                "text": "She has a chipped tooth."
+            },
+            {
+                "code": "tooth_example_he-has-a-loose-tooth",
+                "text": "He has a loose tooth."
+            },
+            {
+                "code": "tooth_example_the-child-has-rotten-teeth",
+                "text": "The child has rotten teeth."
+            },
+            {
+                "code": "tooth_example_she-needs-braces-to-fix-her-buck-teeth",
+                "text": "She needs braces to fix her buck teeth."
+            },
+            {
+                "code": "tooth_example_her-smile-showed-her-straight-teeth",
+                "text": "Her smile showed her straight teeth."
+            },
+            {
+                "code": "tooth_example_she-fell-and-lost-a-permanent-tooth",
+                "text": "She fell and lost a permanent tooth."
+            },
+            {
+                "code": "tooth_example_he-lost-a-back-tooth",
+                "text": "He lost a back tooth."
+            },
+            {
+                "code": "tooth_example_she-has-to-get-her-wisdom-tooth-pulled",
+                "text": "She has to get her wisdom tooth pulled."
+            },
+            {
+                "code": "tooth_example_he-lost-three-teeth",
+                "text": "He lost three teeth."
+            },
+            {
+                "code": "tooth_example_her-tooth-fell-out",
+                "text": "Her tooth fell out."
+            },
+            {
+                "code": "tooth_example_please-brush-your-teeth-before-going-to-bed",
+                "text": "Please brush your teeth before going to bed."
+            },
+            {
+                "code": "tooth_example_the-child-s-teeth-are-rotting-from-too-much-candy",
+                "text": "The child's teeth are rotting from too much candy."
+            },
+            {
+                "code": "tooth_example_she-waited-for-the-tooth-fairy",
+                "text": "She waited for the tooth fairy."
+            },
+            {
+                "code": "tooth_example_he-suffers-from-tooth-decay",
+                "text": "He suffers from tooth decay."
+            },
+            {
+                "code": "tooth_example_brush-in-between-your-teeth",
+                "text": "Brush in between your teeth."
+            },
+            {
+                "code": "tooth_example_he-had-something-stuck-in-his-teeth",
+                "text": "He had something stuck in his teeth."
+            },
+            {
+                "code": "tooth_example_she-got-braces-on-her-teeth",
+                "text": "She got braces on her teeth."
+            }
+        ]
+    }
+]

@@ -1,0 +1,110 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the last game or match in a competition; an end of quarter, semester or year exam",
+        "examples": [
+            {
+                "code": "final_example_the-team-made-it-to-the-regional-finals",
+                "text": "The team made it to the regional finals."
+            },
+            {
+                "code": "final_example_they-lost-in-the-tournament-final",
+                "text": "They lost in the tournament final."
+            },
+            {
+                "code": "final_example_that-team-is-always-in-the-men-s-finals",
+                "text": "That team is always in the men's finals."
+            },
+            {
+                "code": "final_example_she-is-always-busy-before-school-finals",
+                "text": "She is always busy before school finals."
+            },
+            {
+                "code": "final_example_they-are-hosting-the-world-cup-finals-next-year",
+                "text": "They are hosting the World Cup finals next year."
+            },
+            {
+                "code": "final_example_the-team-made-it-to-the-finals",
+                "text": "The team made it to the finals."
+            },
+            {
+                "code": "final_example_the-usa-and-argentina-will-compete-in-the-finals",
+                "text": "The USA and Argentina will compete in the finals."
+            },
+            {
+                "code": "final_example_they-won-the-finals",
+                "text": "They won the finals."
+            },
+            {
+                "code": "final_example_the-finals-will-take-place-next-weekend",
+                "text": "The finals will take place next weekend."
+            },
+            {
+                "code": "final_example_they-are-studying-for-finals",
+                "text": "They are studying for finals."
+            },
+            {
+                "code": "final_example_i-have-three-finals-next-week",
+                "text": "I have three finals next week."
+            },
+            {
+                "code": "final_example_he-passed-his-final",
+                "text": "He passed his final."
+            }
+        ]
+    },
+    {
+        "type": "(adj)",
+        "mean": "last; happening at the end of something",
+        "examples": [
+            {
+                "code": "final_example_they-gave-me-their-final-answer",
+                "text": "They gave me their final answer."
+            },
+            {
+                "code": "final_example_that-s-the-final-word-on-that-subject",
+                "text": "That's the final word on that subject."
+            },
+            {
+                "code": "final_example_their-final-meeting-was-three-weeks-before-he-died",
+                "text": "Their final meeting was three weeks before he died."
+            },
+            {
+                "code": "final_example_that-was-just-one-final-defeat",
+                "text": "That was just one final defeat."
+            },
+            {
+                "code": "final_example_the-final-result-wasn-t-very-good",
+                "text": "The final result wasn't very good."
+            },
+            {
+                "code": "final_example_we-are-in-the-final-phase-of-the-process",
+                "text": "We are in the final phase of the process."
+            },
+            {
+                "code": "final_example_we-have-almost-reached-our-final-destination",
+                "text": "We have almost reached our final destination."
+            },
+            {
+                "code": "final_example_she-is-in-the-final-month-of-the-program",
+                "text": "She is in the final month of the program."
+            },
+            {
+                "code": "final_example_we-are-preparing-for-a-final-showdown",
+                "text": "We are preparing for a final showdown."
+            },
+            {
+                "code": "final_example_i-m-on-the-final-page",
+                "text": "I'm on the final page."
+            },
+            {
+                "code": "final_example_this-is-your-final-reminder",
+                "text": "This is your final reminder."
+            },
+            {
+                "code": "final_example_i-just-received-the-final-payment",
+                "text": "I just received the final payment."
+            }
+        ]
+    }
+]

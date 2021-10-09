@@ -1,0 +1,106 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a series of steps done to achieve a particular result",
+        "examples": [
+            {
+                "code": "process_example_how-can-we-slow-down-the-aging-process",
+                "text": "How can we slow down the aging process?"
+            },
+            {
+                "code": "process_example_bad-diet-and-no-exercise-speed-up-the-aging-process",
+                "text": "Bad diet and no exercise speed up the aging process."
+            },
+            {
+                "code": "process_example_we-went-through-the-process-together",
+                "text": "We went through the process together."
+            },
+            {
+                "code": "process_example_we-repeated-the-process-over-and-over-again",
+                "text": "We repeated the process over and over again."
+            },
+            {
+                "code": "process_example_the-selection-process-occurs-in-the-fall",
+                "text": "The selection process occurs in the fall."
+            },
+            {
+                "code": "process_example_how-does-the-process-work",
+                "text": "How does the process work?"
+            },
+            {
+                "code": "process_example_building-a-house-is-a-slow-process",
+                "text": "Building a house is a slow process."
+            },
+            {
+                "code": "process_example_raising-children-is-an-ongoing-process",
+                "text": "Raising children is an ongoing process."
+            },
+            {
+                "code": "process_example_students-studied-the-chemical-process-in-science-class",
+                "text": "Students studied the chemical process in science class."
+            },
+            {
+                "code": "process_example_the-aging-process-affects-everyone",
+                "text": "The aging process affects everyone."
+            },
+            {
+                "code": "process_example_we-learned-about-the-creative-process-in-art-class",
+                "text": "We learned about the creative process in art class."
+            },
+            {
+                "code": "process_example_i-m-trying-to-understand-his-thought-process",
+                "text": "I'm trying to understand his thought process."
+            },
+            {
+                "code": "process_example_buying-a-house-is-not-a-short-process",
+                "text": "Buying a house is not a short process."
+            },
+            {
+                "code": "process_example_we-are-guaranteed-due-process-by-the-law",
+                "text": "We are guaranteed due process by the law."
+            },
+            {
+                "code": "process_example_the-process-of-cleaning-the-oven-takes-an-hour",
+                "text": "The process of cleaning the oven takes an hour."
+            },
+            {
+                "code": "process_example_the-process-for-reporting-student-grades-is-slow",
+                "text": "The process for reporting student grades is slow."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to change something through several steps; to prepare an official document, application, or request",
+        "examples": [
+            {
+                "code": "process_example_we-will-process-the-information-soon",
+                "text": "We will process the information soon."
+            },
+            {
+                "code": "process_example_the-application-was-not-fully-processed",
+                "text": "The application was not fully processed."
+            },
+            {
+                "code": "process_example_i-quickly-processed-what-was-going-on",
+                "text": "I quickly processed what was going on."
+            },
+            {
+                "code": "process_example_some-requests-are-automatically-processed",
+                "text": "Some requests are automatically processed."
+            },
+            {
+                "code": "process_example_she-processes-the-milk-into-cheese",
+                "text": "She processes the milk into cheese."
+            },
+            {
+                "code": "process_example_the-grapes-will-be-processed-for-wine",
+                "text": "The grapes will be processed for wine."
+            },
+            {
+                "code": "process_example_your-paperwork-will-be-processed-by-our-office-within-a-week",
+                "text": "Your paperwork will be processed by our office within a week."
+            }
+        ]
+    }
+]

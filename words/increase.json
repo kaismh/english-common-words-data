@@ -1,0 +1,94 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to become greater in size, amount or number.",
+        "examples": [
+            {
+                "code": "increase_example_his-temperature-increased-dramatically",
+                "text": "His temperature increased dramatically."
+            },
+            {
+                "code": "increase_example_gradually-increase-the-medication",
+                "text": "Gradually increase the medication."
+            },
+            {
+                "code": "increase_example_the-price-increased-slightly-in-one-year",
+                "text": "The price increased slightly in one year."
+            },
+            {
+                "code": "increase_example_sales-have-increased-by-10-percent",
+                "text": "Sales have increased by 10 percent."
+            },
+            {
+                "code": "increase_example_homes-in-that-area-are-expected-to-increase-in-price",
+                "text": "Homes in that area are expected to increase in price."
+            },
+            {
+                "code": "increase_example_poor-eyesight-increases-with-age",
+                "text": "Poor eyesight increases with age."
+            }
+        ]
+    },
+    {
+        "type": "(n)",
+        "mean": "a rise in the size, amount or number.",
+        "examples": [
+            {
+                "code": "increase_example_he-received-a-huge-increase-in-pay",
+                "text": "He received a huge increase in pay."
+            },
+            {
+                "code": "increase_example_our-business-had-a-modest-increase-in-profit",
+                "text": "Our business had a modest increase in profit."
+            },
+            {
+                "code": "increase_example_she-experienced-a-sudden-increase-in-blood-pressure",
+                "text": "She experienced a sudden increase in blood pressure."
+            },
+            {
+                "code": "increase_example_he-was-hoping-for-a-pay-increase",
+                "text": "He was hoping for a pay increase."
+            },
+            {
+                "code": "increase_example_they-are-protesting-the-price-increase",
+                "text": "They are protesting the price increase."
+            },
+            {
+                "code": "increase_example_profits-show-a-steady-increase",
+                "text": "Profits show a steady increase."
+            },
+            {
+                "code": "increase_example_many-cities-are-experiencing-an-increase-in-unemployment",
+                "text": "Many cities are experiencing an increase in unemployment."
+            },
+            {
+                "code": "increase_example_we-achieved-a-small-increase-in-profits",
+                "text": "We achieved a small increase in profits."
+            },
+            {
+                "code": "increase_example_population-growth-has-led-to-an-increase-in-traffic",
+                "text": "Population growth has led to an increase in traffic."
+            },
+            {
+                "code": "increase_example_we-are-predicting-an-increase-in-sales-this-holiday",
+                "text": "We are predicting an increase in sales this holiday."
+            },
+            {
+                "code": "increase_example_the-governor-proposed-a-tax-increase",
+                "text": "The governor proposed a tax increase."
+            },
+            {
+                "code": "increase_example_the-company-announced-an-increase-in-sales",
+                "text": "The company announced an increase in sales."
+            },
+            {
+                "code": "increase_example_crime-in-the-area-is-on-the-increase",
+                "text": "Crime in the area is on the increase."
+            },
+            {
+                "code": "increase_example_he-asked-for-an-increase-in-allowance",
+                "text": "He asked for an increase in allowance."
+            }
+        ]
+    }
+]

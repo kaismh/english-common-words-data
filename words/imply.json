@@ -1,0 +1,28 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to strongly suggest something without actually saying it directly",
+        "examples": [
+            {
+                "code": "imply_example_he-strongly-implied-that-the-company-was-in-trouble",
+                "text": "He strongly implied that the company was in trouble."
+            },
+            {
+                "code": "imply_example_the-article-falsely-implied-that-he-was-responsible-for-the-accident",
+                "text": "The article falsely implied that he was responsible for the accident."
+            },
+            {
+                "code": "imply_example_he-simply-implied-that-she-was-overreacting",
+                "text": "He simply implied that she was overreacting."
+            },
+            {
+                "code": "imply_example_the-report-seems-to-imply-that-i-had-made-a-mistake",
+                "text": "The report seems to imply that I had made a mistake."
+            },
+            {
+                "code": "imply_example_she-never-intended-to-imply-that-it-was-his-fault",
+                "text": "She never intended to imply that it was his fault."
+            }
+        ]
+    }
+]

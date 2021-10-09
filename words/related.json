@@ -1,0 +1,28 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "connected; belonging to the same family",
+        "examples": [
+            {
+                "code": "related_example_i-have-a-related-question",
+                "text": "I have a related question."
+            },
+            {
+                "code": "related_example_on-a-related-note-do-you-want-to-have-dinner",
+                "text": "On a related note, do you want to have dinner?"
+            },
+            {
+                "code": "related_example_she-is-distantly-related-to-the-queen",
+                "text": "She is distantly related to the queen."
+            },
+            {
+                "code": "related_example_these-topics-are-loosely-related",
+                "text": "These topics are loosely related."
+            },
+            {
+                "code": "related_example_i-am-related-to-him-on-my-mother-s-side",
+                "text": "I am related to him on my mother's side."
+            }
+        ]
+    }
+]

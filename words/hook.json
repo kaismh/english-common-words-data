@@ -1,0 +1,46 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a curved piece of metal used to hang or catch things",
+        "examples": [
+            {
+                "code": "hook_example_i-need-to-replace-this-coat-hook",
+                "text": "I need to replace this coat hook."
+            },
+            {
+                "code": "hook_example_i-put-the-worm-on-the-fish-hook",
+                "text": "I put the worm on the fish hook."
+            },
+            {
+                "code": "hook_example_there-s-a-pig-hanging-from-the-meat-hook",
+                "text": "There's a pig hanging from the meat hook."
+            },
+            {
+                "code": "hook_example_please-hang-your-jacket-on-one-of-the-hooks",
+                "text": "Please hang your jacket on one of the hooks."
+            },
+            {
+                "code": "hook_example_the-fish-bit-the-hook",
+                "text": "The fish bit the hook."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to put something through a curved piece of metal used to hang or catch things; to catch",
+        "examples": [
+            {
+                "code": "hook_example_they-finally-hooked-some-trout",
+                "text": "They finally hooked some trout."
+            },
+            {
+                "code": "hook_example_they-hooked-arms-and-walked-into-the-party-together",
+                "text": "They hooked arms and walked into the party together."
+            },
+            {
+                "code": "hook_example_i-hooked-the-pieces-together-to-make-a-long-necklace",
+                "text": "I hooked the pieces together to make a long necklace."
+            }
+        ]
+    }
+]

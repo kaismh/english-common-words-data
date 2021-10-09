@@ -1,0 +1,36 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the study of numbers, shapes, equations, and measurements; numerical calculations",
+        "examples": [
+            {
+                "code": "math_example_i-study-math-in-school",
+                "text": "I study math in school."
+            },
+            {
+                "code": "math_example_he-teaches-math-in-college",
+                "text": "He teaches math in college."
+            },
+            {
+                "code": "math_example_i-am-taking-a-math-class",
+                "text": "I am taking a math class."
+            },
+            {
+                "code": "math_example_i-m-studying-for-a-math-test-tomorrow",
+                "text": "I'm studying for a math test tomorrow."
+            },
+            {
+                "code": "math_example_that-was-a-hard-math-problem-on-the-test",
+                "text": "That was a hard math problem on the test."
+            },
+            {
+                "code": "math_example_i-am-learning-applied-math",
+                "text": "I am learning applied math."
+            },
+            {
+                "code": "math_example_he-teaches-elementary-math",
+                "text": "He teaches elementary math."
+            }
+        ]
+    }
+]

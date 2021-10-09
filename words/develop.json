@@ -1,0 +1,28 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to build or grow",
+        "examples": [
+            {
+                "code": "develop_example_the-child-is-developing-abnormally-in-the-womb",
+                "text": "The child is developing abnormally in the womb."
+            },
+            {
+                "code": "develop_example_she-naturally-developed-curly-hair-as-she-got-older",
+                "text": "She naturally developed curly hair as she got older."
+            },
+            {
+                "code": "develop_example_children-develop-quickly",
+                "text": "Children develop quickly."
+            },
+            {
+                "code": "develop_example_the-disease-will-develop-over-time",
+                "text": "The disease will develop over time."
+            },
+            {
+                "code": "develop_example_she-is-trying-to-develop-her-ability",
+                "text": "She is trying to develop her ability."
+            }
+        ]
+    }
+]

@@ -1,0 +1,48 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a basic rule or law; a belief that helps one decide what is right or wrong and influences one's actions",
+        "examples": [
+            {
+                "code": "principle_example_the-basic-principle-of-economics-is-supply-and-demand",
+                "text": "The basic principle of economics is supply and demand."
+            },
+            {
+                "code": "principle_example_one-of-the-core-principles-of-life-is-happiness",
+                "text": "One of the core principles of life is happiness."
+            },
+            {
+                "code": "principle_example_people-s-rights-are-the-founding-principles-of-this-country",
+                "text": "People's rights are the founding principles of this country."
+            },
+            {
+                "code": "principle_example_she-returned-the-lost-money-because-of-her-moral-principles",
+                "text": "She returned the lost money because of her moral principles."
+            },
+            {
+                "code": "principle_example_the-hotel-embraces-the-principles-of-environmentally-friendly-living",
+                "text": "The hotel embraces the principles of environmentally- friendly living."
+            },
+            {
+                "code": "principle_example_she-sticks-to-her-principles-even-under-pressure",
+                "text": "She sticks to her principles even under pressure."
+            },
+            {
+                "code": "principle_example_cheating-violates-her-moral-principles",
+                "text": "Cheating violates her moral principles."
+            },
+            {
+                "code": "principle_example_he-abandoned-his-principles-and-cheated-on-the-test",
+                "text": "He abandoned his principles and cheated on the test."
+            },
+            {
+                "code": "principle_example_living-together-before-marriage-is-against-her-principles",
+                "text": "Living together before marriage is against her principles."
+            },
+            {
+                "code": "principle_example_she-argued-her-side-on-principle",
+                "text": "She argued her side on principle."
+            }
+        ]
+    }
+]

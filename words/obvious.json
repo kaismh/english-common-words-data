@@ -1,0 +1,56 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "easy to see or understand; clear",
+        "examples": [
+            {
+                "code": "obvious_example_the-answer-was-obvious",
+                "text": "The answer was obvious."
+            },
+            {
+                "code": "obvious_example_it-looked-obvious-she-was-bored",
+                "text": "It looked obvious she was bored."
+            },
+            {
+                "code": "obvious_example_the-city-is-an-obvious-target",
+                "text": "The city is an obvious target."
+            },
+            {
+                "code": "obvious_example_the-school-has-some-obvious-advantages",
+                "text": "The school has some obvious advantages."
+            },
+            {
+                "code": "obvious_example_there-is-no-obvious-answer",
+                "text": "There is no obvious answer."
+            },
+            {
+                "code": "obvious_example_he-is-the-obvious-suspect",
+                "text": "He is the obvious suspect."
+            },
+            {
+                "code": "obvious_example_that-is-the-obvious-conclusion",
+                "text": "That is the obvious conclusion."
+            },
+            {
+                "code": "obvious_example_there-is-no-obvious-connection-between-them",
+                "text": "There is no obvious connection between them."
+            },
+            {
+                "code": "obvious_example_the-truth-was-not-completely-obvious",
+                "text": "The truth was not completely obvious."
+            },
+            {
+                "code": "obvious_example_her-hatred-for-him-was-extremely-obvious",
+                "text": "Her hatred for him was extremely obvious."
+            },
+            {
+                "code": "obvious_example_it-was-increasingly-obvious-that-she-was-having-a-bad-time-at-the-party",
+                "text": "It was increasingly obvious that she was having a bad time at the party."
+            },
+            {
+                "code": "obvious_example_it-is-obvious-to-me-that-he-needs-to-change",
+                "text": "It is obvious to me that he needs to change."
+            }
+        ]
+    }
+]

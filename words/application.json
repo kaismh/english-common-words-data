@@ -1,0 +1,44 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the way in which something is used; written request; computer program",
+        "examples": [
+            {
+                "code": "application_example_i-finally-sent-in-my-job-application",
+                "text": "I finally sent in my job application."
+            },
+            {
+                "code": "application_example_we-re-trying-to-sell-our-software-application",
+                "text": "We're trying to sell our software application."
+            },
+            {
+                "code": "application_example_our-company-is-accepting-applications",
+                "text": "Our company is accepting applications."
+            },
+            {
+                "code": "application_example_i-decided-to-withdraw-my-application",
+                "text": "I decided to withdraw my application."
+            },
+            {
+                "code": "application_example_you-can-download-the-application-from-the-internet",
+                "text": "You can download the application from the internet."
+            },
+            {
+                "code": "application_example_our-loan-application-was-approved",
+                "text": "Our loan application was approved."
+            },
+            {
+                "code": "application_example_he-missed-the-application-deadline",
+                "text": "He missed the application deadline."
+            },
+            {
+                "code": "application_example_please-submit-application-forms-to-the-front-office",
+                "text": "Please submit application forms to the front office."
+            },
+            {
+                "code": "application_example_the-application-procedure-is-very-time-consuming",
+                "text": "The application procedure is very time-consuming."
+            }
+        ]
+    }
+]

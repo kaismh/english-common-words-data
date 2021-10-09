@@ -1,0 +1,72 @@
+[
+    {
+        "type": "(n)",
+        "mean": "general state of someone or something; the general health of a human or animal; an illness",
+        "examples": [
+            {
+                "code": "condition_example_the-car-is-in-excellent-condition",
+                "text": "The car is in excellent condition."
+            },
+            {
+                "code": "condition_example_the-house-is-in-bad-condition",
+                "text": "The house is in bad condition."
+            },
+            {
+                "code": "condition_example_the-man-restored-the-old-car-to-its-original-condition",
+                "text": "The man restored the old car to its original condition."
+            },
+            {
+                "code": "condition_example_he-is-in-serious-condition-at-the-hospital",
+                "text": "He is in serious condition at the hospital."
+            },
+            {
+                "code": "condition_example_he-cannot-move-in-his-weakened-condition",
+                "text": "He cannot move in his weakened condition."
+            },
+            {
+                "code": "condition_example_her-physical-condition-is-getting-worse",
+                "text": "Her physical condition is getting worse."
+            },
+            {
+                "code": "condition_example_the-child-has-a-medical-condition",
+                "text": "The child has a medical condition."
+            },
+            {
+                "code": "condition_example_she-lives-with-a-chronic-condition",
+                "text": "She lives with a chronic condition."
+            },
+            {
+                "code": "condition_example_the-antique-dealer-is-evaluating-the-coin-s-condition",
+                "text": "The antique dealer is evaluating the coin's condition."
+            },
+            {
+                "code": "condition_example_we-hope-her-condition-improves",
+                "text": "We hope her condition improves."
+            },
+            {
+                "code": "condition_example_the-condition-may-get-worse",
+                "text": "The condition may get worse."
+            },
+            {
+                "code": "condition_example_the-doctors-are-monitoring-her-condition",
+                "text": "The doctors are monitoring her condition."
+            },
+            {
+                "code": "condition_example_the-person-has-a-heart-condition",
+                "text": "The person has a heart condition."
+            },
+            {
+                "code": "condition_example_i-was-born-with-a-medical-condition",
+                "text": "I was born with a medical condition."
+            },
+            {
+                "code": "condition_example_how-will-they-treat-her-condition",
+                "text": "How will they treat her condition?"
+            },
+            {
+                "code": "condition_example_the-house-is-in-excellent-condition",
+                "text": "The house is in excellent condition."
+            }
+        ]
+    }
+]

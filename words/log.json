@@ -1,0 +1,60 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a large piece of wood that has been cut from or has fallen off a tree; a regular record of time or observations",
+        "examples": [
+            {
+                "code": "log_example_they-have-a-large-pile-of-cut-logs",
+                "text": "They have a large pile of cut logs."
+            },
+            {
+                "code": "log_example_we-all-sat-around-the-burning-logs",
+                "text": "We all sat around the burning logs."
+            },
+            {
+                "code": "log_example_floating-logs-began-to-block-the-dam",
+                "text": "Floating logs began to block the dam."
+            },
+            {
+                "code": "log_example_the-manager-wanted-a-detailed-log-of-his-work",
+                "text": "The manager wanted a detailed log of his work."
+            },
+            {
+                "code": "log_example_his-phone-log-became-important-evidence",
+                "text": "His phone log became important evidence."
+            },
+            {
+                "code": "log_example_we-spent-all-day-splitting-logs",
+                "text": "We spent all day splitting logs."
+            },
+            {
+                "code": "log_example_he-added-another-log-to-the-fire",
+                "text": "He added another log to the fire."
+            },
+            {
+                "code": "log_example_he-tossed-more-logs-on-the-fire",
+                "text": "He tossed more logs on the fire."
+            },
+            {
+                "code": "log_example_dry-logs-burn-much-better",
+                "text": "Dry logs burn much better."
+            },
+            {
+                "code": "log_example_she-kept-a-log-of-their-travels",
+                "text": "She kept a log of their travels."
+            },
+            {
+                "code": "log_example_he-updated-his-work-log",
+                "text": "He updated his work log."
+            },
+            {
+                "code": "log_example_they-built-a-log-cabin-in-the-mountains",
+                "text": "They built a log cabin in the mountains."
+            },
+            {
+                "code": "log_example_i-had-to-complete-the-log-book",
+                "text": "I had to complete the log book."
+            }
+        ]
+    }
+]

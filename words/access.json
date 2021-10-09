@@ -1,0 +1,66 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the ability or right to use something or see someone; an entrance to a place",
+        "examples": [
+            {
+                "code": "access_example_he-has-direct-access-to-the-building",
+                "text": "He has direct access to the building."
+            },
+            {
+                "code": "access_example_the-elevator-provides-easy-access-to-my-office",
+                "text": "The elevator provides easy access to my office."
+            },
+            {
+                "code": "access_example_this-coffee-shop-provides-internet-access",
+                "text": "This coffee shop provides Internet access."
+            },
+            {
+                "code": "access_example_you-cannot-gain-access-without-identification",
+                "text": "You cannot gain access without identification."
+            },
+            {
+                "code": "access_example_the-security-guard-would-not-allow-access-to-the-building",
+                "text": "The security guard would not allow access to the building."
+            },
+            {
+                "code": "access_example_i-was-refused-access-because-i-did-not-have-a-key",
+                "text": "I was refused access because I did not have a key."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to be able to use something or enter a building; to be able to open a computer file or website",
+        "examples": [
+            {
+                "code": "access_example_she-can-remotely-access-her-company-computer-from-home",
+                "text": "She can remotely access her company computer from home."
+            },
+            {
+                "code": "access_example_she-secretly-accessed-the-confidential-files-on-co-worker-s-computer",
+                "text": "She secretly accessed the confidential files on co-worker's computer."
+            },
+            {
+                "code": "access_example_how-can-i-quickly-access-my-bank-account-from-another-country",
+                "text": "How can I quickly access my bank account from another country?"
+            },
+            {
+                "code": "access_example_he-successfully-accessed-his-bank-account-with-the-correct-password",
+                "text": "He successfully accessed his bank account with the correct password."
+            },
+            {
+                "code": "access_example_the-robbers-quietly-accessed-entrance-to-the-building",
+                "text": "The robbers quietly accessed entrance to the building."
+            },
+            {
+                "code": "access_example_i-need-to-access-my-computer",
+                "text": "I need to access my computer."
+            },
+            {
+                "code": "access_example_i-need-to-gain-access-to-the-building",
+                "text": "I need to gain access to the building."
+            }
+        ]
+    }
+]

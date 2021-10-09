@@ -1,0 +1,36 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to go to a place or event",
+        "examples": [
+            {
+                "code": "attend_example_he-regularly-attends-meetings",
+                "text": "He regularly attends meetings."
+            },
+            {
+                "code": "attend_example_we-are-unable-to-attend-the-party",
+                "text": "We are unable to attend the party."
+            },
+            {
+                "code": "attend_example_i-attend-church-with-my-family",
+                "text": "I attend church with my family."
+            },
+            {
+                "code": "attend_example_we-attend-the-same-college",
+                "text": "We attend the same college."
+            },
+            {
+                "code": "attend_example_we-attended-the-meeting-together",
+                "text": "We attended the meeting together."
+            },
+            {
+                "code": "attend_example_he-attended-the-birth-of-the-child",
+                "text": "He attended the birth of the child."
+            },
+            {
+                "code": "attend_example_she-s-attending-the-soccer-game-with-her-sons",
+                "text": "She's attending the soccer game with her sons."
+            }
+        ]
+    }
+]

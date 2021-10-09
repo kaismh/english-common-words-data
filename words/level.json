@@ -1,0 +1,64 @@
+[
+    {
+        "type": "(n)",
+        "mean": "an amount, size or number",
+        "examples": [
+            {
+                "code": "level_example_the-company-s-production-has-reached-a-high-level",
+                "text": "The company's production has reached a high level."
+            },
+            {
+                "code": "level_example_excessive-levels-of-bacteria-were-found-on-the-surface",
+                "text": "Excessive levels of bacteria were found on the surface."
+            },
+            {
+                "code": "level_example_we-need-to-bring-his-blood-pressure-back-to-a-normal-level",
+                "text": "We need to bring his blood pressure back to a normal level."
+            },
+            {
+                "code": "level_example_the-city-s-crime-level-seems-to-be-increasing-every-year",
+                "text": "The city's crime level seems to be increasing every year."
+            },
+            {
+                "code": "level_example_my-father-needs-to-check-his-cholesterol-level-every-three-months",
+                "text": "My father needs to check his cholesterol level every three months."
+            },
+            {
+                "code": "level_example_his-confidence-level-is-increasing-each-day",
+                "text": "His confidence level is increasing each day."
+            },
+            {
+                "code": "level_example_i-finally-reached-the-highest-level-in-this-video-game",
+                "text": "I finally reached the highest level in this video game."
+            },
+            {
+                "code": "level_example_interest-rates-should-remain-at-the-current-level",
+                "text": "Interest rates should remain at the current level."
+            },
+            {
+                "code": "level_example_they-need-to-increase-the-production-level",
+                "text": "They need to increase the production level."
+            },
+            {
+                "code": "level_example_she-needs-to-check-her-blood-sugar-level",
+                "text": "She needs to check her blood-sugar level."
+            },
+            {
+                "code": "level_example_his-blood-pressure-level-went-up-this-week",
+                "text": "His blood pressure level went up this week."
+            },
+            {
+                "code": "level_example_it-was-located-above-sea-level",
+                "text": "It was located above sea level."
+            },
+            {
+                "code": "level_example_he-needs-to-keep-his-blood-pressure-at-a-safe-level",
+                "text": "He needs to keep his blood pressure at a safe level."
+            },
+            {
+                "code": "level_example_she-needs-to-reduce-her-level-of-stress",
+                "text": "She needs to reduce her level of stress."
+            }
+        ]
+    }
+]

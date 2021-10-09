@@ -1,0 +1,60 @@
+[
+    {
+        "type": "(n)",
+        "mean": "place that has streets, houses, and small buildings; a place smaller than a city",
+        "examples": [
+            {
+                "code": "town_example_i-was-born-in-a-small-town",
+                "text": "I was born in a small town."
+            },
+            {
+                "code": "town_example_he-comes-from-a-big-town",
+                "text": "He comes from a big town."
+            },
+            {
+                "code": "town_example_the-nearest-town-is-20-miles-away",
+                "text": "The nearest town is 20 miles away."
+            },
+            {
+                "code": "town_example_it-s-turning-into-a-booming-town",
+                "text": "It's turning into a booming town."
+            },
+            {
+                "code": "town_example_where-is-your-home-town",
+                "text": "Where is your home town?"
+            },
+            {
+                "code": "town_example_i-am-moving-out-of-town",
+                "text": "I am moving out of town."
+            },
+            {
+                "code": "town_example_our-grandfathers-built-this-town",
+                "text": "Our grandfathers built this town."
+            },
+            {
+                "code": "town_example_we-live-on-this-side-of-town",
+                "text": "We live on this side of town."
+            },
+            {
+                "code": "town_example_this-town-is-growing",
+                "text": "This town is growing."
+            },
+            {
+                "code": "town_example_he-was-out-of-town-all-week",
+                "text": "He was out of town all week."
+            },
+            {
+                "code": "town_example_we-ll-be-back-in-town-next-week",
+                "text": "We'll be back in town next week."
+            },
+            {
+                "code": "town_example_we-are-attending-the-town-meeting-tonight",
+                "text": "We are attending the town meeting tonight."
+            },
+            {
+                "code": "town_example_everyone-is-gathering-at-the-town-hall",
+                "text": "Everyone is gathering at the town hall."
+            }
+        ]
+    }
+]

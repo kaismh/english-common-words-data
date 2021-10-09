@@ -1,0 +1,118 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to stretch your arm to get something; to arrive somewhere",
+        "examples": [
+            {
+                "code": "reach_example_he-tried-to-reach-the-top-shelf",
+                "text": "He tried to reach the top shelf."
+            },
+            {
+                "code": "reach_example_the-train-reached-the-station-at-noon",
+                "text": "The train reached the station at noon."
+            },
+            {
+                "code": "reach_example_the-two-parties-reached-an-agreement",
+                "text": "The two parties reached an agreement."
+            },
+            {
+                "code": "reach_example_he-reached-a-point-where-he-stopped-caring",
+                "text": "He reached a point where he stopped caring."
+            },
+            {
+                "code": "reach_example_we-reached-home-very-late",
+                "text": "We reached home very late."
+            },
+            {
+                "code": "reach_example_they-reached-a-settlement-in-court",
+                "text": "They reached a settlement in court."
+            },
+            {
+                "code": "reach_example_we-have-reached-our-destination",
+                "text": "We have reached our destination."
+            },
+            {
+                "code": "reach_example_she-is-reached-adulthood-before-she-learned-to-read",
+                "text": "She is reached adulthood before she learned to read."
+            },
+            {
+                "code": "reach_example_he-has-reached-the-age-to-drive",
+                "text": "He has reached the age to drive."
+            },
+            {
+                "code": "reach_example_we-finally-reached-the-border",
+                "text": "We finally reached the border."
+            },
+            {
+                "code": "reach_example_the-temperature-reached-almost-90-degrees-today",
+                "text": "The temperature reached almost 90 degrees today."
+            },
+            {
+                "code": "reach_example_i-have-reached-a-conclusion",
+                "text": "I have reached a conclusion."
+            },
+            {
+                "code": "reach_example_the-divers-reached-the-surface-safely",
+                "text": "The divers reached the surface safely."
+            },
+            {
+                "code": "reach_example_we-finally-reached-a-deal",
+                "text": "We finally reached a deal."
+            },
+            {
+                "code": "reach_example_she-was-able-to-easily-reach-the-top-shelf",
+                "text": "She was able to easily reach the top shelf."
+            },
+            {
+                "code": "reach_example_she-reached-blindly-for-the-light-switch",
+                "text": "She reached blindly for the light switch."
+            },
+            {
+                "code": "reach_example_he-reached-down-and-tied-his-shoe",
+                "text": "He reached down and tied his shoe."
+            },
+            {
+                "code": "reach_example_she-automatically-reached-for-her-gun",
+                "text": "She automatically reached for her gun."
+            },
+            {
+                "code": "reach_example_he-reached-into-his-coat",
+                "text": "He reached into his coat."
+            },
+            {
+                "code": "reach_example_i-reached-for-the-door",
+                "text": "I reached for the door."
+            },
+            {
+                "code": "reach_example_i-reached-across-the-table",
+                "text": "I reached across the table."
+            },
+            {
+                "code": "reach_example_she-reached-over-the-fence",
+                "text": "She reached over the fence."
+            }
+        ]
+    },
+    {
+        "type": "(n)",
+        "mean": "the distance a person can stretch his or her arm to touch something",
+        "examples": [
+            {
+                "code": "reach_example_pardon-my-reach",
+                "text": "Pardon my reach."
+            },
+            {
+                "code": "reach_example_the-swimmer-has-a-long-reach",
+                "text": "The swimmer has a long reach."
+            },
+            {
+                "code": "reach_example_the-boxer-has-a-long-reach",
+                "text": "The boxer has a long reach."
+            },
+            {
+                "code": "reach_example_the-jar-is-within-reach",
+                "text": "The jar is within reach."
+            }
+        ]
+    }
+]

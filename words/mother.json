@@ -1,0 +1,44 @@
+[
+    {
+        "type": "(n)",
+        "mean": "mom",
+        "examples": [
+            {
+                "code": "mother_example_she-resembles-her-mother",
+                "text": "She resembles her mother."
+            },
+            {
+                "code": "mother_example_she-inherited-her-cooking-skills-from-her-mother",
+                "text": "She inherited her cooking skills from her mother."
+            },
+            {
+                "code": "mother_example_she-has-a-surrogate-mother",
+                "text": "She has a surrogate mother."
+            },
+            {
+                "code": "mother_example_i-am-your-birth-mother",
+                "text": "I am your birth mother."
+            },
+            {
+                "code": "mother_example_she-was-a-teen-mother",
+                "text": "She was a teen mother."
+            },
+            {
+                "code": "mother_example_my-mother-is-unmarried",
+                "text": "My mother is unmarried."
+            },
+            {
+                "code": "mother_example_i-was-raised-by-a-devoted-mother",
+                "text": "I was raised by a devoted mother."
+            },
+            {
+                "code": "mother_example_she-is-a-first-time-mother",
+                "text": "She is a first-time mother."
+            },
+            {
+                "code": "mother_example_i-am-a-stay-at-home-mother",
+                "text": "I am a stay-at-home mother."
+            }
+        ]
+    }
+]

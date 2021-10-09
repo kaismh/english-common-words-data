@@ -1,0 +1,40 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to request something in writing; to use; to make a situation relevant",
+        "examples": [
+            {
+                "code": "apply_example_the-rules-apply-equally-to-all-students",
+                "text": "The rules apply equally to all students."
+            },
+            {
+                "code": "apply_example_the-example-directly-applies-to-this-situation",
+                "text": "The example directly applies to this situation."
+            },
+            {
+                "code": "apply_example_the-directions-say-to-liberally-apply-the-lotion-onto-the-skin",
+                "text": "The directions say to liberally apply the lotion onto the skin."
+            },
+            {
+                "code": "apply_example_she-applies-lipstick-while-driving",
+                "text": "She applies lipstick while driving."
+            },
+            {
+                "code": "apply_example_the-artist-decided-to-apply-more-paint",
+                "text": "The artist decided to apply more paint."
+            },
+            {
+                "code": "apply_example_we-have-to-apply-more-force-to-knock-down-this-wall",
+                "text": "We have to apply more force to knock down this wall."
+            },
+            {
+                "code": "apply_example_farmers-often-apply-fertilizer-to-their-fields",
+                "text": "Farmers often apply fertilizer to their fields."
+            },
+            {
+                "code": "apply_example_to-solve-this-puzzle-we-have-to-apply-our-minds",
+                "text": "To solve this puzzle, we have to apply our minds."
+            }
+        ]
+    }
+]

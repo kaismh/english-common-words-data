@@ -1,0 +1,48 @@
+[
+    {
+        "type": "(n)",
+        "mean": "something that gives fun or enjoyment",
+        "examples": [
+            {
+                "code": "entertainment_example_this-movie-is-good-entertainment",
+                "text": "This movie is good entertainment."
+            },
+            {
+                "code": "entertainment_example_live-entertainment-is-exciting",
+                "text": "Live entertainment is exciting."
+            },
+            {
+                "code": "entertainment_example_there-is-nightly-entertainment-on-the-cruise",
+                "text": "There is nightly entertainment on the cruise."
+            },
+            {
+                "code": "entertainment_example_she-is-looking-for-family-entertainment-on-television",
+                "text": "She is looking for family entertainment on television."
+            },
+            {
+                "code": "entertainment_example_this-hotel-provides-a-lot-of-entertainment-choices",
+                "text": "This hotel provides a lot of entertainment choices."
+            },
+            {
+                "code": "entertainment_example_i-enjoy-live-entertainment",
+                "text": "I enjoy live entertainment."
+            },
+            {
+                "code": "entertainment_example_she-works-in-the-entertainment-industry",
+                "text": "She works in the entertainment industry."
+            },
+            {
+                "code": "entertainment_example_there-is-a-huge-entertainment-center-downtown",
+                "text": "There is a huge entertainment center downtown."
+            },
+            {
+                "code": "entertainment_example_this-show-has-a-high-entertainment-value",
+                "text": "This show has a high entertainment value."
+            },
+            {
+                "code": "entertainment_example_they-have-an-expensive-home-entertainment-system",
+                "text": "They have an expensive home entertainment system."
+            }
+        ]
+    }
+]

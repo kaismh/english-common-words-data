@@ -1,0 +1,78 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the control you have over your behavior and desires",
+        "examples": [
+            {
+                "code": "discipline_example_the-teacher-uses-effective-discipline",
+                "text": "The teacher uses effective discipline."
+            },
+            {
+                "code": "discipline_example_i-don-t-believe-in-harsh-discipline",
+                "text": "I don't believe in harsh discipline."
+            },
+            {
+                "code": "discipline_example_the-child-has-poor-discipline-at-home",
+                "text": "The child has poor discipline at home."
+            },
+            {
+                "code": "discipline_example_student-discipline-has-improved",
+                "text": "Student discipline has improved."
+            },
+            {
+                "code": "discipline_example_following-rules-is-a-part-of-military-discipline",
+                "text": "Following rules is a part of military discipline."
+            },
+            {
+                "code": "discipline_example_the-dancer-has-good-discipline",
+                "text": "The dancer has good discipline."
+            },
+            {
+                "code": "discipline_example_financial-discipline-can-keep-a-business-successful",
+                "text": "Financial discipline can keep a business successful."
+            },
+            {
+                "code": "discipline_example_he-enforces-strict-discipline",
+                "text": "He enforces strict discipline."
+            },
+            {
+                "code": "discipline_example_parents-need-to-instill-discipline",
+                "text": "Parents need to instill discipline."
+            },
+            {
+                "code": "discipline_example_children-learn-discipline",
+                "text": "Children learn discipline."
+            },
+            {
+                "code": "discipline_example_her-kids-lack-discipline",
+                "text": "Her kids lack discipline."
+            },
+            {
+                "code": "discipline_example_we-need-to-maintain-discipline-in-the-classrooms",
+                "text": "We need to maintain discipline in the classrooms."
+            },
+            {
+                "code": "discipline_example_he-has-great-discipline",
+                "text": "He has great discipline."
+            },
+            {
+                "code": "discipline_example_this-job-demands-mental-discipline",
+                "text": "This job demands mental discipline."
+            },
+            {
+                "code": "discipline_example_the-class-has-discipline-problems",
+                "text": "The class has discipline problems."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to punish someone for bad behavior",
+        "examples": [
+            {
+                "code": "discipline_example_she-harshly-disciplined-her-child",
+                "text": "She harshly disciplined her child."
+            }
+        ]
+    }
+]

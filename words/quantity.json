@@ -1,0 +1,32 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the amount of something",
+        "examples": [
+            {
+                "code": "quantity_example_we-ordered-a-large-quantity-of-fine-wine",
+                "text": "We ordered a large quantity of fine wine."
+            },
+            {
+                "code": "quantity_example_the-bag-holds-a-small-quantity-of-candy",
+                "text": "The bag holds a small quantity of candy."
+            },
+            {
+                "code": "quantity_example_the-store-has-a-limited-quantity-of-the-new-product",
+                "text": "The store has a limited quantity of the new product."
+            },
+            {
+                "code": "quantity_example_what-is-the-maximum-quantity-we-can-order",
+                "text": "What is the maximum quantity we can order?"
+            },
+            {
+                "code": "quantity_example_we-have-a-large-quantity-of-fish",
+                "text": "We have a large quantity of fish."
+            },
+            {
+                "code": "quantity_example_we-buy-household-products-in-quantity",
+                "text": "We buy household products in quantity."
+            }
+        ]
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the real facts; the quality of being honest",
+        "examples": [
+            {
+                "code": "truth_example_i-want-the-absolute-truth",
+                "text": "I want the absolute truth."
+            },
+            {
+                "code": "truth_example_please-tell-the-court-the-whole-truth",
+                "text": "Please tell the court the whole truth."
+            },
+            {
+                "code": "truth_example_what-is-the-exact-truth",
+                "text": "What is the exact truth?"
+            },
+            {
+                "code": "truth_example_he-s-discovered-the-hidden-truth",
+                "text": "He's discovered the hidden truth."
+            },
+            {
+                "code": "truth_example_she-told-him-the-awful-truth-about-his-best-friend",
+                "text": "She told him the awful truth about his best friend."
+            },
+            {
+                "code": "truth_example_he-told-the-truth-to-the-police",
+                "text": "He told the truth to the police."
+            },
+            {
+                "code": "truth_example_he-found-out-the-truth-about-his-family",
+                "text": "He found out the truth about his family."
+            },
+            {
+                "code": "truth_example_she-tried-to-hide-the-truth-from-her-friends",
+                "text": "She tried to hide the truth from her friends."
+            },
+            {
+                "code": "truth_example_you-can-t-handle-the-truth",
+                "text": "You can't handle the truth."
+            },
+            {
+                "code": "truth_example_do-you-know-the-whole-truth",
+                "text": "Do you know the whole truth?"
+            },
+            {
+                "code": "truth_example_she-likes-to-bend-the-truth",
+                "text": "She likes to bend the truth."
+            },
+            {
+                "code": "truth_example_the-truth-came-out",
+                "text": "The truth came out."
+            },
+            {
+                "code": "truth_example_he-lied-about-the-truth",
+                "text": "He lied about the truth."
+            },
+            {
+                "code": "truth_example_what-s-the-real-truth-behind-all-of-the-talk",
+                "text": "What's the real truth behind all of the talk?"
+            },
+            {
+                "code": "truth_example_is-there-truth-in-her-stories",
+                "text": "Is there truth in her stories?"
+            }
+        ]
+    }
+]

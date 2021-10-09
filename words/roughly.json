@@ -1,0 +1,44 @@
+[
+    {
+        "type": "(adv)",
+        "mean": "approximately; not exactly; in a way that is not gentle",
+        "examples": [
+            {
+                "code": "roughly_example_the-animals-were-treated-roughly",
+                "text": "The animals were treated roughly."
+            },
+            {
+                "code": "roughly_example_the-waiters-roughly-divided-the-tips-for-that-evening",
+                "text": "The waiters roughly divided the tips for that evening."
+            },
+            {
+                "code": "roughly_example_we-roughly-counted-over-500-people-at-the-event",
+                "text": "We roughly counted over 500 people at the event."
+            },
+            {
+                "code": "roughly_example_the-security-guard-told-us-roughly-that-it-was-closing-time",
+                "text": "The security guard told us roughly that it was closing time."
+            },
+            {
+                "code": "roughly_example_the-cashier-roughly-threw-our-bags-into-the-shopping-cart",
+                "text": "The cashier roughly threw our bags into the shopping cart."
+            },
+            {
+                "code": "roughly_example_the-price-has-roughly-doubled-in-amount",
+                "text": "The price has roughly doubled in amount."
+            },
+            {
+                "code": "roughly_example_their-skills-are-roughly-equal",
+                "text": "Their skills are roughly equal."
+            },
+            {
+                "code": "roughly_example_the-recipe-calls-for-roughly-chopped-onions",
+                "text": "The recipe calls for roughly chopped onions."
+            },
+            {
+                "code": "roughly_example_the-temperature-is-roughly-normal-for-this-time-of-the-year",
+                "text": "The temperature is roughly normal for this time of the year."
+            }
+        ]
+    }
+]

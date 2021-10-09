@@ -1,0 +1,60 @@
+[
+    {
+        "type": "(n)",
+        "mean": "an idea; an understanding of something",
+        "examples": [
+            {
+                "code": "concept_example_she-does-not-understand-the-basic-concept-of-math",
+                "text": "She does not understand the basic concept of math."
+            },
+            {
+                "code": "concept_example_our-class-is-analyzing-the-central-concept-of-the-book",
+                "text": "Our class is analyzing the central concept of the book."
+            },
+            {
+                "code": "concept_example_it-is-a-difficult-concept-to-understand",
+                "text": "It is a difficult concept to understand."
+            },
+            {
+                "code": "concept_example_what-a-bizarre-concept",
+                "text": "What a bizarre concept."
+            },
+            {
+                "code": "concept_example_sharing-is-a-useful-concept-to-teach-little-children",
+                "text": "Sharing is a useful concept to teach little children."
+            },
+            {
+                "code": "concept_example_the-electric-car-is-a-new-concept",
+                "text": "The electric car is a new concept."
+            },
+            {
+                "code": "concept_example_she-doesn-t-have-a-concept-of-saving-money",
+                "text": "She doesn't have a concept of saving money."
+            },
+            {
+                "code": "concept_example_do-you-understand-the-basic-concept",
+                "text": "Do you understand the basic concept?"
+            },
+            {
+                "code": "concept_example_scientists-are-inventing-new-concepts-all-the-time",
+                "text": "Scientists are inventing new concepts all the time."
+            },
+            {
+                "code": "concept_example_how-can-we-apply-this-concept-to-our-daily-lives",
+                "text": "How can we apply this concept to our daily lives."
+            },
+            {
+                "code": "concept_example_he-will-explain-his-concept-with-pictures",
+                "text": "He will explain his concept with pictures."
+            },
+            {
+                "code": "concept_example_let-s-discuss-this-new-concept-at-the-office-meeting",
+                "text": "Let's discuss this new concept at the office meeting."
+            },
+            {
+                "code": "concept_example_he-is-always-late-because-he-has-no-concept-of-time",
+                "text": "He is always late because he has no concept of time."
+            }
+        ]
+    }
+]

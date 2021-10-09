@@ -1,0 +1,70 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a long, thin mark; a row of people or things; a cable, wire, or pipe that carries power, gas, water, or communication",
+        "examples": [
+            {
+                "code": "line_example_she-drew-a-long-line-on-the-chalk-board",
+                "text": "She drew a long line on the chalk board."
+            },
+            {
+                "code": "line_example_he-learned-about-parallel-lines-in-geometry-class",
+                "text": "He learned about parallel lines in geometry class."
+            },
+            {
+                "code": "line_example_please-sign-on-the-dotted-line",
+                "text": "Please sign on the dotted line."
+            },
+            {
+                "code": "line_example_we-just-crossed-the-state-line",
+                "text": "We just crossed the state line."
+            },
+            {
+                "code": "line_example_we-are-standing-in-a-long-line",
+                "text": "We are standing in a long line."
+            },
+            {
+                "code": "line_example_we-re-at-the-end-of-the-checkout-line",
+                "text": "We're at the end of the checkout line."
+            },
+            {
+                "code": "line_example_the-gas-line-was-disconnected",
+                "text": "The gas line was disconnected."
+            },
+            {
+                "code": "line_example_the-boy-draws-very-straight-lines",
+                "text": "The boy draws very straight lines."
+            },
+            {
+                "code": "line_example_please-form-a-line-here",
+                "text": "Please form a line here."
+            },
+            {
+                "code": "line_example_the-company-connected-the-power-lines",
+                "text": "The company connected the power lines."
+            },
+            {
+                "code": "line_example_please-walk-in-a-straight-line",
+                "text": "Please walk in a straight line."
+            },
+            {
+                "code": "line_example_start-each-paragraph-on-a-new-line",
+                "text": "Start each paragraph on a new line."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to place things neatly in a row",
+        "examples": [
+            {
+                "code": "line_example_she-lined-the-shelf-with-potted-flowers",
+                "text": "She lined the shelf with potted flowers."
+            },
+            {
+                "code": "line_example_eager-fans-lined-the-street-to-see-the-movie-star",
+                "text": "Eager fans lined the street to see the movie star."
+            }
+        ]
+    }
+]

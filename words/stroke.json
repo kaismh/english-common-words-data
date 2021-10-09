@@ -1,0 +1,70 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to rub gently in one direction",
+        "examples": [
+            {
+                "code": "stroke_example_he-gently-stroked-her-hand",
+                "text": "He gently stroked her hand."
+            },
+            {
+                "code": "stroke_example_she-softly-stroked-away-his-hair",
+                "text": "She softly stroked away his hair."
+            },
+            {
+                "code": "stroke_example_she-gently-stroked-her-baby-s-back-to-put-her-sleep",
+                "text": "She gently stroked her baby's back to put her sleep."
+            },
+            {
+                "code": "stroke_example_he-tenderly-stroked-his-wife-s-face",
+                "text": "He tenderly stroked his wife's face."
+            },
+            {
+                "code": "stroke_example_she-stroked-her-husband-s-hair-while-he-lay-sleeping",
+                "text": "She stroked her husband's hair while he lay sleeping."
+            }
+        ]
+    },
+    {
+        "type": "(n)",
+        "mean": "a repeated movement with the arm; a serious illness when a blood vessel bursts in the brain",
+        "examples": [
+            {
+                "code": "stroke_example_the-artist-paints-with-long-strokes",
+                "text": "The artist paints with long strokes."
+            },
+            {
+                "code": "stroke_example_the-tennis-player-has-a-strong-forehand-stroke",
+                "text": "The tennis player has a strong forehand stroke."
+            },
+            {
+                "code": "stroke_example_the-swimmer-needs-to-work-on-her-downward-stroke",
+                "text": "The swimmer needs to work on her downward stroke."
+            },
+            {
+                "code": "stroke_example_he-had-a-massive-stroke-last-month",
+                "text": "He had a massive stroke last month."
+            },
+            {
+                "code": "stroke_example_how-many-strokes-can-you-do",
+                "text": "How many strokes can you do?"
+            },
+            {
+                "code": "stroke_example_she-had-a-major-stroke-and-became-paralyzed-on-one-side-of-her-body",
+                "text": "She had a major stroke and became paralyzed on one side of her body."
+            },
+            {
+                "code": "stroke_example_the-stroke-left-him-unable-to-walk",
+                "text": "The stroke left him unable to walk."
+            },
+            {
+                "code": "stroke_example_my-grandmother-is-a-stroke-survivor",
+                "text": "My grandmother is a stroke survivor."
+            },
+            {
+                "code": "stroke_example_he-took-a-stroke-prevention-seminar",
+                "text": "He took a stroke prevention seminar."
+            }
+        ]
+    }
+]

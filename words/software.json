@@ -1,0 +1,52 @@
+[
+    {
+        "type": "(n)",
+        "mean": "computer programs that perform certain functions",
+        "examples": [
+            {
+                "code": "software_example_he-had-to-update-his-accounting-software",
+                "text": "He had to update his accounting software."
+            },
+            {
+                "code": "software_example_the-company-invented-a-new-face-recognition-software",
+                "text": "The company invented a new face-recognition software."
+            },
+            {
+                "code": "software_example_he-has-free-software-on-his-computer",
+                "text": "He has free software on his computer."
+            },
+            {
+                "code": "software_example_my-old-computer-is-unable-to-run-that-software",
+                "text": "My old computer is unable to run that software."
+            },
+            {
+                "code": "software_example_he-creates-new-software-for-his-company",
+                "text": "He creates new software for his company."
+            },
+            {
+                "code": "software_example_you-can-buy-editing-software-online",
+                "text": "You can buy editing software online."
+            },
+            {
+                "code": "software_example_you-need-to-update-your-antivirus-software-regularly",
+                "text": "You need to update your antivirus software regularly."
+            },
+            {
+                "code": "software_example_he-is-the-new-software-developer-for-our-company",
+                "text": "He is the new software developer for our company."
+            },
+            {
+                "code": "software_example_she-just-got-hired-by-a-software-company",
+                "text": "She just got hired by a software company."
+            },
+            {
+                "code": "software_example_the-new-software-program-will-run-on-both-pc-and-mac",
+                "text": "The new software program will run on both PC and Mac."
+            },
+            {
+                "code": "software_example_the-software-industry-is-very-competitive",
+                "text": "The software industry is very competitive."
+            }
+        ]
+    }
+]

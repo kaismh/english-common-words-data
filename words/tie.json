@@ -1,0 +1,78 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to join two pieces of string together in a knot or bow",
+        "examples": [
+            {
+                "code": "tie_example_make-sure-you-securely-tie-the-ropes",
+                "text": "Make sure you securely tie the ropes."
+            },
+            {
+                "code": "tie_example_her-shoelaces-were-loosely-tied",
+                "text": "Her shoelaces were loosely tied."
+            },
+            {
+                "code": "tie_example_he-carefully-tied-his-daughter-s-hair-ribbons",
+                "text": "He carefully tied his daughter's hair ribbons."
+            },
+            {
+                "code": "tie_example_she-tied-her-hair-back-with-a-rubber-band",
+                "text": "She tied her hair back with a rubber band."
+            },
+            {
+                "code": "tie_example_he-tied-the-rope-around-the-tree",
+                "text": "He tied the rope around the tree."
+            }
+        ]
+    },
+    {
+        "type": "(n)",
+        "mean": "a long fabric worn around the neck with a shirt; the same score at a game",
+        "examples": [
+            {
+                "code": "tie_example_he-wore-a-bow-tie-to-the-party",
+                "text": "He wore a bow tie to the party."
+            },
+            {
+                "code": "tie_example_it-was-a-black-tie-event",
+                "text": "It was a black tie event."
+            },
+            {
+                "code": "tie_example_he-only-wears-silk-ties",
+                "text": "He only wears silk ties."
+            },
+            {
+                "code": "tie_example_he-straightened-his-tie-before-the-interview",
+                "text": "He straightened his tie before the interview."
+            },
+            {
+                "code": "tie_example_he-wore-a-tie-to-work",
+                "text": "He wore a tie to work."
+            },
+            {
+                "code": "tie_example_the-game-ended-in-a-tie",
+                "text": "The game ended in a tie."
+            },
+            {
+                "code": "tie_example_the-referee-called-it-a-tie",
+                "text": "The referee called it a tie."
+            },
+            {
+                "code": "tie_example_she-won-the-tie-breaker",
+                "text": "She won the tie breaker."
+            },
+            {
+                "code": "tie_example_it-was-a-tie-game",
+                "text": "It was a tie game."
+            },
+            {
+                "code": "tie_example_it-was-a-tie-between-spain-and-germany",
+                "text": "It was a tie between Spain and Germany."
+            },
+            {
+                "code": "tie_example_there-was-a-tie-for-the-gold-medal",
+                "text": "There was a tie for the gold medal."
+            }
+        ]
+    }
+]

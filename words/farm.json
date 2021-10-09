@@ -1,0 +1,126 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a large piece of land used for growing crops or and raising animals",
+        "examples": [
+            {
+                "code": "farm_example_he-owns-a-large-farm",
+                "text": "He owns a large farm."
+            },
+            {
+                "code": "farm_example_we-bought-the-apples-from-a-local-farm",
+                "text": "We bought the apples from a local farm."
+            },
+            {
+                "code": "farm_example_he-will-take-over-the-family-farm",
+                "text": "He will take over the family farm."
+            },
+            {
+                "code": "farm_example_they-visited-a-traditional-farm",
+                "text": "They visited a traditional farm."
+            },
+            {
+                "code": "farm_example_the-students-toured-a-pig-farm",
+                "text": "The students toured a pig farm."
+            },
+            {
+                "code": "farm_example_they-own-a-small-farm",
+                "text": "They own a small farm."
+            },
+            {
+                "code": "farm_example_he-manages-a-pig-farm",
+                "text": "He manages a pig farm."
+            },
+            {
+                "code": "farm_example_they-are-trying-to-start-an-organic-farm",
+                "text": "They are trying to start an organic farm."
+            },
+            {
+                "code": "farm_example_she-lives-on-her-family-s-farm",
+                "text": "She lives on her family's farm."
+            },
+            {
+                "code": "farm_example_he-will-inherit-the-family-farm",
+                "text": "He will inherit the family farm."
+            },
+            {
+                "code": "farm_example_the-students-visited-a-local-farm",
+                "text": "The students visited a local farm."
+            },
+            {
+                "code": "farm_example_their-farm-is-located-outside-chicago",
+                "text": "Their farm is located outside Chicago."
+            },
+            {
+                "code": "farm_example_this-farm-grows-a-lot-of-corn",
+                "text": "This farm grows a lot of corn."
+            },
+            {
+                "code": "farm_example_he-sells-his-farm-products-at-the-market-each-week",
+                "text": "He sells his farm products at the market each week."
+            },
+            {
+                "code": "farm_example_the-children-had-never-seen-farm-animals-before",
+                "text": "The children had never seen farm animals before."
+            },
+            {
+                "code": "farm_example_she-does-a-lot-of-farm-work-before-school-every-day",
+                "text": "She does a lot of farm work before school every day."
+            },
+            {
+                "code": "farm_example_we-toured-the-farm-buildings",
+                "text": "We toured the farm buildings."
+            },
+            {
+                "code": "farm_example_be-careful-around-farm-machinery",
+                "text": "Be careful around farm machinery."
+            },
+            {
+                "code": "farm_example_they-want-to-increase-farm-subsidies",
+                "text": "They want to increase farm subsidies."
+            },
+            {
+                "code": "farm_example_farm-production-was-down-this-year",
+                "text": "Farm production was down this year."
+            },
+            {
+                "code": "farm_example_they-learned-about-farm-life-on-the-fieldtrip",
+                "text": "They learned about farm life on the fieldtrip."
+            },
+            {
+                "code": "farm_example_we-drove-through-a-lot-of-farm-country-today",
+                "text": "We drove through a lot of farm country today."
+            },
+            {
+                "code": "farm_example_she-lived-on-a-farm-her-whole-life",
+                "text": "She lived on a farm her whole life."
+            },
+            {
+                "code": "farm_example_the-cow-escaped-from-a-nearby-farm",
+                "text": "The cow escaped from a nearby farm."
+            },
+            {
+                "code": "farm_example_they-saw-cattle-at-a-local-farm",
+                "text": "They saw cattle at a local farm."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to grow crops or raise animals",
+        "examples": [
+            {
+                "code": "farm_example_more-people-are-farming-organically-these-days",
+                "text": "More people are farming organically these days."
+            },
+            {
+                "code": "farm_example_they-farm-salmon-along-the-shore",
+                "text": "They farm salmon along the shore."
+            },
+            {
+                "code": "farm_example_the-family-has-been-farming-these-lands-for-many-years",
+                "text": "The family has been farming these lands for many years."
+            }
+        ]
+    }
+]

@@ -1,0 +1,90 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to think about bad things that have happened or may happen and to feel unhappy or afraid about them",
+        "examples": [
+            {
+                "code": "worry_example_i-constantly-worry-about-my-children",
+                "text": "I constantly worry about my children."
+            },
+            {
+                "code": "worry_example_my-sister-worries-excessively-about-her-finances",
+                "text": "My sister worries excessively about her finances."
+            },
+            {
+                "code": "worry_example_he-is-terribly-worried-about-being-alone",
+                "text": "He is terribly worried about being alone."
+            },
+            {
+                "code": "worry_example_he-began-to-worry-about-his-health",
+                "text": "He began to worry about his health."
+            },
+            {
+                "code": "worry_example_he-worries-about-his-mother",
+                "text": "He worries about his mother."
+            },
+            {
+                "code": "worry_example_stop-worrying-your-parents-with-all-of-your-problems",
+                "text": "Stop worrying your parents with all of your problems."
+            }
+        ]
+    },
+    {
+        "type": "(n)",
+        "mean": "a feeling of thinking bad things may happen",
+        "examples": [
+            {
+                "code": "worry_example_my-biggest-worry-is-that-my-children-will-not-go-to-college",
+                "text": "My biggest worry is that my children will not go to college."
+            },
+            {
+                "code": "worry_example_unemployment-is-a-real-worry-for-many-people",
+                "text": "Unemployment is a real worry for many people."
+            },
+            {
+                "code": "worry_example_stop-giving-your-mother-unnecessary-worries",
+                "text": "Stop giving your mother unnecessary worries."
+            },
+            {
+                "code": "worry_example_his-mother-s-health-has-been-a-constant-worry",
+                "text": "His mother's health has been a constant worry."
+            },
+            {
+                "code": "worry_example_he-suffers-from-financial-worries",
+                "text": "He suffers from financial worries."
+            },
+            {
+                "code": "worry_example_she-has-too-many-worries-in-her-life",
+                "text": "She has too many worries in her life."
+            },
+            {
+                "code": "worry_example_please-voice-your-worries-if-you-feel-uncomfortable-with-anything",
+                "text": "Please voice your worries if you feel uncomfortable with anything."
+            },
+            {
+                "code": "worry_example_i-m-sorry-to-add-to-your-worries",
+                "text": "I'm sorry to add to your worries."
+            },
+            {
+                "code": "worry_example_go-out-and-forget-your-worries",
+                "text": "Go out and forget your worries."
+            },
+            {
+                "code": "worry_example_let-me-try-to-ease-your-worries",
+                "text": "Let me try to ease your worries."
+            },
+            {
+                "code": "worry_example_the-doctors-tried-to-dismiss-my-worries-but-i-knew-something-was-wrong",
+                "text": "The doctors tried to dismiss my worries, but I knew something was wrong."
+            },
+            {
+                "code": "worry_example_she-has-worries-over-every-little-thing",
+                "text": "She has worries over every little thing."
+            },
+            {
+                "code": "worry_example_her-children-are-a-constant-worry-to-her",
+                "text": "Her children are a constant worry to her."
+            }
+        ]
+    }
+]

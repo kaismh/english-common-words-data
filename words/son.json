@@ -1,0 +1,44 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a male child",
+        "examples": [
+            {
+                "code": "son_example_she-recently-had-a-baby-son",
+                "text": "She recently had a baby son."
+            },
+            {
+                "code": "son_example_they-enjoy-raising-their-infant-son",
+                "text": "They enjoy raising their infant son."
+            },
+            {
+                "code": "son_example_they-have-two-teenage-sons",
+                "text": "They have two teenage sons."
+            },
+            {
+                "code": "son_example_he-is-the-only-son-in-his-family",
+                "text": "He is the only son in his family."
+            },
+            {
+                "code": "son_example_he-is-an-adopted-son",
+                "text": "He is an adopted son."
+            },
+            {
+                "code": "son_example_they-have-three-teenage-sons",
+                "text": "They have three teenage sons."
+            },
+            {
+                "code": "son_example_his-wife-gave-birth-to-twin-sons",
+                "text": "His wife gave birth to twin sons."
+            },
+            {
+                "code": "son_example_they-have-raised-two-wonderful-sons",
+                "text": "They have raised two wonderful sons."
+            },
+            {
+                "code": "son_example_her-son-grew-up-without-a-father",
+                "text": "Her son grew up without a father."
+            }
+        ]
+    }
+]

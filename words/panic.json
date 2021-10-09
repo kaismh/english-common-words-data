@@ -1,0 +1,72 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a state of fear and confusion",
+        "examples": [
+            {
+                "code": "panic_example_press-the-panic-button-if-you-need-help",
+                "text": "Press the panic button if you need help."
+            },
+            {
+                "code": "panic_example_i-usually-a-have-a-panic-attack-when-hosting-a-big-party",
+                "text": "I usually a have a panic attack when hosting a big party."
+            },
+            {
+                "code": "panic_example_he-suffers-from-panic-disorders",
+                "text": "He suffers from panic disorders."
+            },
+            {
+                "code": "panic_example_we-installed-a-panic-room-just-in-case-of-emergencies",
+                "text": "We installed a panic room just in case of emergencies."
+            },
+            {
+                "code": "panic_example_he-went-into-panic-mode-when-the-caterers-didn-t-show-up-for-the-wedding",
+                "text": "He went into panic mode when the caterers didn't show up for the wedding."
+            },
+            {
+                "code": "panic_example_in-the-days-leading-up-to-the-performance-there-was-a-sense-of-mounting-panic",
+                "text": "In the days leading up to the performance, there was a sense of mounting panic."
+            },
+            {
+                "code": "panic_example_the-country-was-in-a-state-of-widespread-panic",
+                "text": "The country was in a state of widespread panic."
+            },
+            {
+                "code": "panic_example_she-went-into-sheer-panic-when-she-couldn-t-find-her-son",
+                "text": "She went into sheer panic when she couldn't find her son."
+            },
+            {
+                "code": "panic_example_the-virus-caused-sheer-panic-among-the-city",
+                "text": "The virus caused sheer panic among the city."
+            },
+            {
+                "code": "panic_example_he-felt-total-panic-when-he-lost-the-engagement-ring",
+                "text": "He felt total panic when he lost the engagement ring."
+            },
+            {
+                "code": "panic_example_she-was-filled-with-panic-before-going-on-stage",
+                "text": "She was filled with panic before going on stage."
+            },
+            {
+                "code": "panic_example_panic-is-rising-in-the-community-over-the-killer-disease",
+                "text": "Panic is rising in the community over the killer disease."
+            },
+            {
+                "code": "panic_example_she-looked-around-in-panic-for-a-place-to-hide",
+                "text": "She looked around in panic for a place to hide."
+            },
+            {
+                "code": "panic_example_she-froze-with-panic-when-she-saw-the-robber-in-her-house",
+                "text": "She froze with panic when she saw the robber in her house."
+            },
+            {
+                "code": "panic_example_there-is-nationwide-panic-about-a-flu-epidemic",
+                "text": "There is nationwide panic about a flu epidemic."
+            },
+            {
+                "code": "panic_example_there-was-panic-among-the-community",
+                "text": "There was panic among the community."
+            }
+        ]
+    }
+]

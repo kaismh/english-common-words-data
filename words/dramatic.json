@@ -1,0 +1,36 @@
+[
+    {
+        "type": "(n)",
+        "mean": "emotional; extreme",
+        "examples": [
+            {
+                "code": "dramatic_example_he-is-dramatic",
+                "text": "He is dramatic."
+            },
+            {
+                "code": "dramatic_example_she-is-extremely-dramatic",
+                "text": "She is extremely dramatic."
+            },
+            {
+                "code": "dramatic_example_the-boy-acted-fairly-dramatic-when-he-saw-his-injury",
+                "text": "The boy acted fairly dramatic when he saw his injury."
+            },
+            {
+                "code": "dramatic_example_she-gave-a-dramatic-announcement",
+                "text": "She gave a dramatic announcement."
+            },
+            {
+                "code": "dramatic_example_we-saw-a-dramatic-scene",
+                "text": "We saw a dramatic scene."
+            },
+            {
+                "code": "dramatic_example_what-a-dramatic-actor",
+                "text": "What a dramatic actor!"
+            },
+            {
+                "code": "dramatic_example_her-work-had-a-dramatic-impact",
+                "text": "Her work had a dramatic impact."
+            }
+        ]
+    }
+]

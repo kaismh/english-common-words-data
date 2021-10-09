@@ -1,0 +1,52 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "greater than the average height",
+        "examples": [
+            {
+                "code": "tall_example_i-want-you-to-stand-tall",
+                "text": "I want you to stand tall."
+            },
+            {
+                "code": "tall_example_she-is-very-tall",
+                "text": "She is very tall."
+            },
+            {
+                "code": "tall_example_she-is-quite-tall-for-her-age",
+                "text": "She is quite tall for her age."
+            },
+            {
+                "code": "tall_example_that-is-a-tall-building",
+                "text": "That is a tall building."
+            },
+            {
+                "code": "tall_example_what-a-tall-child",
+                "text": "What a tall child."
+            },
+            {
+                "code": "tall_example_we-bought-tall-chairs-for-the-kitchen",
+                "text": "We bought tall chairs for the kitchen."
+            },
+            {
+                "code": "tall_example_why-are-you-so-tall",
+                "text": "Why are you so tall?"
+            },
+            {
+                "code": "tall_example_kids-are-so-tall-these-days",
+                "text": "Kids are so tall these days."
+            },
+            {
+                "code": "tall_example_my-father-is-tall",
+                "text": "My father is tall."
+            },
+            {
+                "code": "tall_example_i-hope-i-m-tall-like-my-grandfather",
+                "text": "I hope I'm tall like my grandfather."
+            },
+            {
+                "code": "tall_example_my-mom-is-not-tall-at-all",
+                "text": "My mom is not tall at all."
+            }
+        ]
+    }
+]

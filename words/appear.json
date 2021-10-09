@@ -1,0 +1,44 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to be seen; to seem",
+        "examples": [
+            {
+                "code": "appear_example_the-magician-suddenly-appeared-on-stage",
+                "text": "The magician suddenly appeared on stage."
+            },
+            {
+                "code": "appear_example_superman-first-appeared-in-1933",
+                "text": "Superman first appeared in 1933."
+            },
+            {
+                "code": "appear_example_he-usually-appears-sleepy",
+                "text": "He usually appears sleepy."
+            },
+            {
+                "code": "appear_example_he-finally-appeared-at-the-party",
+                "text": "He finally appeared at the party."
+            },
+            {
+                "code": "appear_example_i-d-like-to-appear-on-television",
+                "text": "I'd like to appear on television."
+            },
+            {
+                "code": "appear_example_scary-clowns-appear-in-my-dreams",
+                "text": "Scary clowns appear in my dreams."
+            },
+            {
+                "code": "appear_example_the-ad-appeared-in-the-new-magazine",
+                "text": "The ad appeared in the new magazine."
+            },
+            {
+                "code": "appear_example_an-airplane-appeared-in-the-sky",
+                "text": "An airplane appeared in the sky."
+            },
+            {
+                "code": "appear_example_a-smile-appeared-on-his-face",
+                "text": "A smile appeared on his face."
+            }
+        ]
+    }
+]

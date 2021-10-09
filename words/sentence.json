@@ -1,0 +1,86 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a group of words that expresses a statement or question; the punishment given by a court of law",
+        "examples": [
+            {
+                "code": "sentence_example_please-keep-your-sentences-short",
+                "text": "Please keep your sentences short."
+            },
+            {
+                "code": "sentence_example_she-is-learning-how-to-write-long-sentences",
+                "text": "She is learning how to write long sentences."
+            },
+            {
+                "code": "sentence_example_this-is-a-great-opening-sentence",
+                "text": "This is a great opening sentence."
+            },
+            {
+                "code": "sentence_example_the-maximum-sentence-for-this-crime-is-two-years",
+                "text": "The maximum sentence for this crime is two years."
+            },
+            {
+                "code": "sentence_example_jesse-was-given-a-long-sentence-by-the-judge",
+                "text": "Jesse was given a long sentence by the judge."
+            },
+            {
+                "code": "sentence_example_i-felt-he-was-given-a-harsh-sentence",
+                "text": "I felt he was given a harsh sentence."
+            },
+            {
+                "code": "sentence_example_john-will-face-a-death-sentence",
+                "text": "John will face a death sentence."
+            },
+            {
+                "code": "sentence_example_begin-your-sentences-with-a-capital-letter",
+                "text": "Begin your sentences with a capital letter."
+            },
+            {
+                "code": "sentence_example_finish-your-sentences-with-a-period",
+                "text": "Finish your sentences with a period."
+            },
+            {
+                "code": "sentence_example_will-you-read-the-next-sentence",
+                "text": "Will you read the next sentence?"
+            },
+            {
+                "code": "sentence_example_does-the-sentence-contain-a-subject",
+                "text": "Does the sentence contain a subject?"
+            },
+            {
+                "code": "sentence_example_jane-received-a-long-prison-sentence",
+                "text": "Jane received a long prison sentence."
+            },
+            {
+                "code": "sentence_example_mark-will-serve-a-short-sentence-for-his-crime",
+                "text": "Mark will serve a short sentence for his crime."
+            },
+            {
+                "code": "sentence_example_the-judge-reduced-his-sentence",
+                "text": "The judge reduced his sentence."
+            },
+            {
+                "code": "sentence_example_he-will-serve-a-one-year-sentence-for-burglary",
+                "text": "He will serve a one year sentence for burglary."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to officially state in court the punishment of the crime",
+        "examples": [
+            {
+                "code": "sentence_example_i-hereby-sentence-you-to-life-in-prison-for-premeditated-murder",
+                "text": "I hereby sentence you to life in prison for premeditated murder."
+            },
+            {
+                "code": "sentence_example_she-was-sentenced-for-identity-theft",
+                "text": "She was sentenced for identity theft."
+            },
+            {
+                "code": "sentence_example_he-was-sentenced-to-ten-years-for-armed-robbery",
+                "text": "He was sentenced to ten years for armed robbery."
+            }
+        ]
+    }
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a man",
+        "examples": [
+            {
+                "code": "guy_example_he-s-a-decent-guy",
+                "text": "He's a decent guy."
+            },
+            {
+                "code": "guy_example_she-met-a-cute-guy",
+                "text": "She met a cute guy."
+            },
+            {
+                "code": "guy_example_people-think-he-is-a-crazy-guy",
+                "text": "People think he is a crazy guy."
+            },
+            {
+                "code": "guy_example_he-is-just-a-normal-guy",
+                "text": "He is just a normal guy."
+            },
+            {
+                "code": "guy_example_the-poor-guy-hasn-t-had-any-luck-these-days",
+                "text": "The poor guy hasn't had any luck these days."
+            },
+            {
+                "code": "guy_example_her-brother-is-a-big-guy",
+                "text": "Her brother is a big guy."
+            },
+            {
+                "code": "guy_example_that-guy-is-my-brother",
+                "text": "That guy is my brother."
+            },
+            {
+                "code": "guy_example_good-afternoon-guys-and-gals",
+                "text": "Good afternoon, guys and gals."
+            },
+            {
+                "code": "guy_example_which-guy-did-it",
+                "text": "Which guy did it?"
+            },
+            {
+                "code": "guy_example_those-guys-are-dangerous",
+                "text": "Those guys are dangerous."
+            },
+            {
+                "code": "guy_example_these-guys-are-innocent",
+                "text": "These guys are innocent."
+            }
+        ]
+    }
+]

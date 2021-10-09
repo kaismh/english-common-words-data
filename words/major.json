@@ -1,0 +1,106 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "important; big",
+        "examples": [
+            {
+                "code": "major_example_there-s-going-to-be-a-major-storm-tomorrow",
+                "text": "There's going to be a major storm tomorrow."
+            },
+            {
+                "code": "major_example_she-s-a-major-celebrity",
+                "text": "She's a major celebrity."
+            },
+            {
+                "code": "major_example_this-work-is-a-major-challenge-for-him",
+                "text": "This work is a major challenge for him."
+            },
+            {
+                "code": "major_example_this-is-a-major-event-for-our-organization",
+                "text": "This is a major event for our organization."
+            },
+            {
+                "code": "major_example_he-is-playing-baseball-in-the-major-leagues-now",
+                "text": "He is playing baseball in the major leagues now."
+            },
+            {
+                "code": "major_example_he-was-a-major-influence-on-us",
+                "text": "He was a major influence on us."
+            },
+            {
+                "code": "major_example_he-played-a-major-part-in-the-play",
+                "text": "He played a major part in the play."
+            },
+            {
+                "code": "major_example_they-signed-a-contract-with-a-major-label",
+                "text": "They signed a contract with a major label."
+            },
+            {
+                "code": "major_example_we-have-made-some-major-improvements-recently",
+                "text": "We have made some major improvements recently."
+            },
+            {
+                "code": "major_example_we-had-to-make-a-major-decision",
+                "text": "We had to make a major decision."
+            },
+            {
+                "code": "major_example_we-live-by-a-major-port",
+                "text": "We live by a major port."
+            },
+            {
+                "code": "major_example_this-is-a-major-addition-to-our-family",
+                "text": "This is a major addition to our family."
+            },
+            {
+                "code": "major_example_she-had-to-have-major-surgery",
+                "text": "She had to have major surgery."
+            },
+            {
+                "code": "major_example_this-was-a-major-step",
+                "text": "This was a major step."
+            },
+            {
+                "code": "major_example_the-virus-did-not-attack-any-major-organs",
+                "text": "The virus did not attack any major organs."
+            },
+            {
+                "code": "major_example_there-was-a-major-outbreak-in-the-area",
+                "text": "There was a major outbreak in the area."
+            },
+            {
+                "code": "major_example_there-was-a-major-upset-during-the-game-yesterday",
+                "text": "There was a major upset during the game yesterday."
+            },
+            {
+                "code": "major_example_she-attends-a-major-university",
+                "text": "She attends a major university."
+            },
+            {
+                "code": "major_example_i-have-made-a-major-discovery",
+                "text": "I have made a major discovery."
+            },
+            {
+                "code": "major_example_there-will-be-major-consequences",
+                "text": "There will be major consequences."
+            },
+            {
+                "code": "major_example_we-have-had-a-major-accident",
+                "text": "We have had a major accident."
+            }
+        ]
+    },
+    {
+        "type": "(n)",
+        "mean": "a main field of study at a college; an officer in the military",
+        "examples": [
+            {
+                "code": "major_example_i-am-pursuing-a-history-major-at-the-state-university",
+                "text": "I am pursuing a history major at the state university."
+            },
+            {
+                "code": "major_example_my-brother-is-an-army-major",
+                "text": "My brother is an army major."
+            }
+        ]
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to ask someone to go somewhere or do something",
+        "examples": [
+            {
+                "code": "invite_example_he-was-formally-invited-to-the-banquet",
+                "text": "He was formally invited to the banquet."
+            },
+            {
+                "code": "invite_example_she-kindly-invited-our-family-to-dinner",
+                "text": "She kindly invited our family to dinner."
+            },
+            {
+                "code": "invite_example_they-have-invited-us-over-for-dessert",
+                "text": "They have invited us over for dessert."
+            },
+            {
+                "code": "invite_example_he-was-invited-back-to-their-house",
+                "text": "He was invited back to their house."
+            },
+            {
+                "code": "invite_example_he-practically-invited-himself-over-for-dinner",
+                "text": "He practically invited himself over for dinner."
+            },
+            {
+                "code": "invite_example_she-likes-to-invite-people-into-her-home",
+                "text": "She likes to invite people into her home."
+            },
+            {
+                "code": "invite_example_let-s-invite-her-family-for-dinner",
+                "text": "Let's invite her family for dinner."
+            },
+            {
+                "code": "invite_example_i-don-t-want-to-invite-him-to-the-party",
+                "text": "I don't want to invite him to the party."
+            },
+            {
+                "code": "invite_example_she-invited-her-neighbors-to-stay-for-dinner",
+                "text": "She invited her neighbors to stay for dinner."
+            }
+        ]
+    }
+]

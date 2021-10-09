@@ -1,0 +1,88 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the act of mentioning someone or something; someone who is asked to give information about someone else's abilities or characteristics; a book, magazine, or newspaper used to find information",
+        "examples": [
+            {
+                "code": "reference_example_she-often-makes-references-to-her-former-boss",
+                "text": "She often makes references to her former boss."
+            },
+            {
+                "code": "reference_example_the-report-contains-a-reference-to-a-specific-incident",
+                "text": "The report contains a reference to a specific incident."
+            },
+            {
+                "code": "reference_example_i-need-three-references-on-the-application",
+                "text": "I need three references on the application."
+            },
+            {
+                "code": "reference_example_the-job-asks-for-at-least-two-references",
+                "text": "The job asks for at least two references."
+            },
+            {
+                "code": "reference_example_i-need-to-check-his-references",
+                "text": "I need to check his references."
+            },
+            {
+                "code": "reference_example_he-cited-ten-references-for-his-research-paper",
+                "text": "He cited ten references for his research paper."
+            },
+            {
+                "code": "reference_example_this-is-a-great-reference-book-for-your-report",
+                "text": "This is a great reference book for your report."
+            },
+            {
+                "code": "reference_example_you-can-find-it-in-the-reference-section-of-the-school-library",
+                "text": "You can find it in the reference section of the school library."
+            },
+            {
+                "code": "reference_example_he-made-a-passing-reference-to-religion-in-his-speech",
+                "text": "He made a passing reference to religion in his speech."
+            },
+            {
+                "code": "reference_example_in-his-lectures-he-makes-frequent-references-to-his-political-views",
+                "text": "In his lectures, he makes frequent references to his political views."
+            },
+            {
+                "code": "reference_example_she-was-a-good-character-reference",
+                "text": "She was a good character reference."
+            },
+            {
+                "code": "reference_example_she-gave-me-a-good-reference-for-this-job",
+                "text": "She gave me a good reference for this job."
+            },
+            {
+                "code": "reference_example_use-this-book-for-further-reference",
+                "text": "Use this book for further reference."
+            },
+            {
+                "code": "reference_example_he-used-several-online-references",
+                "text": "He used several online references."
+            },
+            {
+                "code": "reference_example_this-book-is-an-excellent-reference-for-medical-terms",
+                "text": "This book is an excellent reference for medical terms."
+            },
+            {
+                "code": "reference_example_he-made-a-reference-to-his-political-views-in-class",
+                "text": "He made a reference to his political views in class."
+            },
+            {
+                "code": "reference_example_keep-a-copy-for-your-future-reference",
+                "text": "Keep a copy for your future reference."
+            },
+            {
+                "code": "reference_example_will-you-be-a-character-reference-for-me",
+                "text": "Will you be a character reference for me?"
+            },
+            {
+                "code": "reference_example_i-need-a-reference-from-your-previous-employer",
+                "text": "I need a reference from your previous employer."
+            },
+            {
+                "code": "reference_example_i-am-calling-in-reference-to-your-application",
+                "text": "I am calling in reference to your application."
+            }
+        ]
+    }
+]

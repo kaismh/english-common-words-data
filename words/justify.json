@@ -1,0 +1,28 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to provide a good reason for something",
+        "examples": [
+            {
+                "code": "justify_example_he-couldn-t-truly-justify-what-he-said",
+                "text": "He couldn't truly justify what he said."
+            },
+            {
+                "code": "justify_example_she-could-hardly-justify-her-bad-behavior",
+                "text": "She could hardly justify her bad behavior."
+            },
+            {
+                "code": "justify_example_he-tried-to-justify-his-behavior",
+                "text": "He tried to justify his behavior."
+            },
+            {
+                "code": "justify_example_she-needs-to-justify-her-actions",
+                "text": "She needs to justify her actions."
+            },
+            {
+                "code": "justify_example_how-will-you-justify-your-behavior-to-your-boss",
+                "text": "How will you justify your behavior to your boss?"
+            }
+        ]
+    }
+]

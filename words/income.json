@@ -1,0 +1,80 @@
+[
+    {
+        "type": "(n)",
+        "mean": "money earned for work or business investments",
+        "examples": [
+            {
+                "code": "income_example_he-has-a-high-income-job",
+                "text": "He has a high income job."
+            },
+            {
+                "code": "income_example_he-has-sufficient-income-to-buy-a-vacation-home",
+                "text": "He has sufficient income to buy a vacation home."
+            },
+            {
+                "code": "income_example_she-was-living-on-a-fixed-income",
+                "text": "She was living on a fixed income."
+            },
+            {
+                "code": "income_example_i-need-some-additional-income-as-soon-as-possible",
+                "text": "I need some additional income as soon as possible."
+            },
+            {
+                "code": "income_example_his-investments-were-bringing-in-steady-income",
+                "text": "His investments were bringing in steady income."
+            },
+            {
+                "code": "income_example_what-is-your-annual-income",
+                "text": "What is your annual income?"
+            },
+            {
+                "code": "income_example_their-combined-income-was-over-70000-a-year",
+                "text": "Their combined income was over $70,000 a year."
+            },
+            {
+                "code": "income_example_she-has-a-steady-income-from-her-multiple-properties",
+                "text": "She has a steady income from her multiple properties."
+            },
+            {
+                "code": "income_example_i-need-to-increase-my-income",
+                "text": "I need to increase my income."
+            },
+            {
+                "code": "income_example_most-people-live-on-a-fixed-income",
+                "text": "Most people live on a fixed income."
+            },
+            {
+                "code": "income_example_the-annual-income-is-rising-in-that-area",
+                "text": "The annual income is rising in that area."
+            },
+            {
+                "code": "income_example_her-annual-income-exceeds-the-maximum-amount-for-government-benefits",
+                "text": "Her annual income exceeds the maximum amount for government benefits."
+            },
+            {
+                "code": "income_example_he-belongs-to-a-different-income-level",
+                "text": "He belongs to a different income level."
+            },
+            {
+                "code": "income_example_the-income-disparity-between-the-economic-classes-is-getting-wider",
+                "text": "The income disparity between the economic classes is getting wider."
+            },
+            {
+                "code": "income_example_i-need-to-pay-income-tax-this-year",
+                "text": "I need to pay income tax this year."
+            },
+            {
+                "code": "income_example_i-need-to-receive-my-income-statement-before-i-file-my-taxes",
+                "text": "I need to receive my income statement before I file my taxes."
+            },
+            {
+                "code": "income_example_the-city-makes-good-income-from-tourism",
+                "text": "The city makes good income from tourism."
+            },
+            {
+                "code": "income_example_it-s-difficult-to-live-on-a-fixed-income",
+                "text": "It's difficult to live on a fixed income."
+            }
+        ]
+    }
+]

@@ -1,0 +1,48 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the quality of sound; the way of speaking or writing that shows how someone feels",
+        "examples": [
+            {
+                "code": "tone_example_his-voice-has-a-low-tone",
+                "text": "His voice has a low tone."
+            },
+            {
+                "code": "tone_example_the-baby-likes-the-soft-tone-of-her-mother-s-voice",
+                "text": "The baby likes the soft tone of her mother's voice."
+            },
+            {
+                "code": "tone_example_he-played-the-instrument-in-a-different-tone",
+                "text": "He played the instrument in a different tone."
+            },
+            {
+                "code": "tone_example_he-answered-her-question-in-a-sarcastic-tone",
+                "text": "He answered her question in a sarcastic tone."
+            },
+            {
+                "code": "tone_example_the-letter-was-written-in-a-negative-tone",
+                "text": "The letter was written in a negative tone."
+            },
+            {
+                "code": "tone_example_he-speaks-in-a-low-tone",
+                "text": "He speaks in a low tone."
+            },
+            {
+                "code": "tone_example_did-you-notice-the-tone-of-his-voice",
+                "text": "Did you notice the tone of his voice?"
+            },
+            {
+                "code": "tone_example_she-should-soften-her-tone",
+                "text": "She should soften her tone."
+            },
+            {
+                "code": "tone_example_he-changed-his-tone-when-his-boss-entered-the-room",
+                "text": "He changed his tone when his boss entered the room."
+            },
+            {
+                "code": "tone_example_she-scolded-her-children-in-an-angry-tone",
+                "text": "She scolded her children in an angry tone."
+            }
+        ]
+    }
+]

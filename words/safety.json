@@ -1,0 +1,84 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a state or place that is protected from danger",
+        "examples": [
+            {
+                "code": "safety_example_the-seatbelt-was-created-for-extra-safety",
+                "text": "The seatbelt was created for extra safety."
+            },
+            {
+                "code": "safety_example_we-need-to-be-more-careful-about-child-safety",
+                "text": "We need to be more careful about child safety."
+            },
+            {
+                "code": "safety_example_the-school-worked-hard-to-increase-public-safety",
+                "text": "The school worked hard to increase public safety."
+            },
+            {
+                "code": "safety_example_the-children-are-learning-about-fire-safety",
+                "text": "The children are learning about fire safety."
+            },
+            {
+                "code": "safety_example_the-company-assures-safety-for-all-workers",
+                "text": "The company assures safety for all workers."
+            },
+            {
+                "code": "safety_example_pollution-is-threatening-the-safety-of-our-planet",
+                "text": "Pollution is threatening the safety of our planet."
+            },
+            {
+                "code": "safety_example_the-hikers-thought-they-might-never-reach-safety",
+                "text": "The hikers thought they might never reach safety."
+            },
+            {
+                "code": "safety_example_the-boat-has-safety-controls",
+                "text": "The boat has safety controls."
+            },
+            {
+                "code": "safety_example_we-need-to-take-safety-precautions",
+                "text": "We need to take safety precautions."
+            },
+            {
+                "code": "safety_example_did-you-follow-all-the-safety-procedures",
+                "text": "Did you follow all the safety procedures?"
+            },
+            {
+                "code": "safety_example_you-must-follow-the-safety-rules",
+                "text": "You must follow the safety rules."
+            },
+            {
+                "code": "safety_example_talk-to-jim-about-any-safety-concerns",
+                "text": "Talk to Jim about any safety concerns."
+            },
+            {
+                "code": "safety_example_please-wear-your-safety-glasses",
+                "text": "Please wear your safety glasses."
+            },
+            {
+                "code": "safety_example_is-this-old-building-a-safety-hazard",
+                "text": "Is this old building a safety hazard?"
+            },
+            {
+                "code": "safety_example_the-building-failed-the-safety-check",
+                "text": "The building failed the safety check."
+            },
+            {
+                "code": "safety_example_we-hired-a-safety-inspector-to-inspect-the-building",
+                "text": "We hired a safety inspector to inspect the building."
+            },
+            {
+                "code": "safety_example_wear-a-helmet-for-safety",
+                "text": "Wear a helmet for safety."
+            },
+            {
+                "code": "safety_example_we-ran-to-safety-before-the-building-burned-down",
+                "text": "We ran to safety before the building burned down."
+            },
+            {
+                "code": "safety_example_she-chooses-to-stay-in-the-safety-of-her-room",
+                "text": "She chooses to stay in the safety of her room."
+            }
+        ]
+    }
+]

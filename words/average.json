@@ -1,0 +1,66 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "calculated by adding figures together and then dividing the total by the number of figures; usual or normal",
+        "examples": [
+            {
+                "code": "average_example_the-average-child-watches-too-much-television",
+                "text": "The average child watches too much television."
+            },
+            {
+                "code": "average_example_this-is-a-product-for-the-average-consumer",
+                "text": "This is a product for the average consumer."
+            },
+            {
+                "code": "average_example_what-is-the-average-cost-of-houses-in-this-neighborhood",
+                "text": "What is the average cost of houses in this neighborhood?"
+            },
+            {
+                "code": "average_example_what-is-the-average-income-in-this-state",
+                "text": "What is the average income in this state?"
+            },
+            {
+                "code": "average_example_the-average-rainfall-in-this-city-is-high",
+                "text": "The average rainfall in this city is high."
+            },
+            {
+                "code": "average_example_what-is-the-average-intelligence-of-americans",
+                "text": "What is the average intelligence of Americans?"
+            }
+        ]
+    },
+    {
+        "type": "(n)",
+        "mean": "the result of adding figures together and then dividing the total by the number of figures; the usual or normal level",
+        "examples": [
+            {
+                "code": "average_example_please-calculate-the-annual-average-of-wages",
+                "text": "Please calculate the annual average of wages."
+            },
+            {
+                "code": "average_example_his-overall-average-at-work-is-really-good",
+                "text": "His overall average at work is really good."
+            },
+            {
+                "code": "average_example_she-has-a-poor-batting-average",
+                "text": "She has a poor batting average."
+            },
+            {
+                "code": "average_example_we-re-going-to-exceed-our-average-this-year",
+                "text": "We're going to exceed our average this year."
+            },
+            {
+                "code": "average_example_i-need-to-calculate-the-average",
+                "text": "I need to calculate the average."
+            },
+            {
+                "code": "average_example_his-grades-are-below-the-state-average",
+                "text": "His grades are below the state average."
+            },
+            {
+                "code": "average_example_on-average-he-s-the-best-player-on-the-team",
+                "text": "On average, he's the best player on the team."
+            }
+        ]
+    }
+]

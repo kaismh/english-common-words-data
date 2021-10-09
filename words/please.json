@@ -1,0 +1,94 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to satisfy; to make happy",
+        "examples": [
+            {
+                "code": "please_example_she-has-to-please-everyone",
+                "text": "She has to please everyone."
+            },
+            {
+                "code": "please_example_i-cannot-please-him",
+                "text": "I cannot please him."
+            },
+            {
+                "code": "please_example_i-tried-to-please-her",
+                "text": "I tried to please her."
+            },
+            {
+                "code": "please_example_they-aim-to-please-their-customers",
+                "text": "They aim to please their customers."
+            },
+            {
+                "code": "please_example_her-kindness-pleased-everyone-enormously",
+                "text": "Her kindness pleased everyone enormously."
+            },
+            {
+                "code": "please_example_he-constantly-pleases-his-parents-with-good-grades",
+                "text": "He constantly pleases his parents with good grades."
+            },
+            {
+                "code": "please_example_you-are-hard-to-please",
+                "text": "You are hard to please."
+            },
+            {
+                "code": "please_example_he-is-easy-to-please",
+                "text": "He is easy to please."
+            }
+        ]
+    },
+    {
+        "type": "(adv)",
+        "mean": "used when politely requesting something; used when politely replying 'yes'",
+        "examples": [
+            {
+                "code": "please_example_could-you-please-pass-the-salt-and-pepper",
+                "text": "Could you, please, pass the salt and pepper?"
+            },
+            {
+                "code": "please_example_please-pass-the-salt-and-pepper",
+                "text": "Please pass the salt and pepper."
+            },
+            {
+                "code": "please_example_please-hold-the-elevator",
+                "text": "Please hold the elevator."
+            },
+            {
+                "code": "please_example_please-turn-on-the-lights",
+                "text": "Please turn on the lights."
+            },
+            {
+                "code": "please_example_please-call-me-when-you-have-time",
+                "text": "Please call me when you have time."
+            },
+            {
+                "code": "please_example_please-use-the-other-door",
+                "text": "Please use the other door."
+            },
+            {
+                "code": "please_example_may-i-please-go-with-you",
+                "text": "May I please go with you?"
+            },
+            {
+                "code": "please_example_please-come-in",
+                "text": "Please come in."
+            },
+            {
+                "code": "please_example_would-you-like-more-coffee-yes-please",
+                "text": "'Would you like more coffee?' 'Yes, please.'"
+            },
+            {
+                "code": "please_example_do-you-need-help-yes-please",
+                "text": "'Do you need help?' 'Yes, please.'"
+            },
+            {
+                "code": "please_example_may-i-have-a-seat-please",
+                "text": "'May I have a seat?' 'Please.'"
+            },
+            {
+                "code": "please_example_may-i-come-in-please",
+                "text": "'May I come in?' 'Please.'"
+            }
+        ]
+    }
+]

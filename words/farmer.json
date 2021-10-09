@@ -1,0 +1,56 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a person who grows crops or raises animals",
+        "examples": [
+            {
+                "code": "farmer_example_large-scale-farmers-are-fighting-federal-restrictions",
+                "text": "Large-scale farmers are fighting federal restrictions."
+            },
+            {
+                "code": "farmer_example_the-drought-really-affected-small-farmers",
+                "text": "The drought really affected small farmers."
+            },
+            {
+                "code": "farmer_example_many-tenant-farmers-work-the-land-here",
+                "text": "Many tenant farmers work the land here."
+            },
+            {
+                "code": "farmer_example_many-independent-farmers-are-working-together",
+                "text": "Many independent farmers are working together."
+            },
+            {
+                "code": "farmer_example_we-bought-produce-from-local-farmers-at-the-market",
+                "text": "We bought produce from local farmers at the market."
+            },
+            {
+                "code": "farmer_example_a-livestock-farmer-spoke-to-the-class",
+                "text": "A livestock farmer spoke to the class."
+            },
+            {
+                "code": "farmer_example_he-is-a-peanut-farmer",
+                "text": "He is a peanut farmer."
+            },
+            {
+                "code": "farmer_example_the-farmer-milks-the-cows-every-morning",
+                "text": "The farmer milks the cows every morning."
+            },
+            {
+                "code": "farmer_example_farmers-wake-up-at-dawn",
+                "text": "Farmers wake up at dawn."
+            },
+            {
+                "code": "farmer_example_the-farmer-lives-on-a-farm",
+                "text": "The farmer lives on a farm."
+            },
+            {
+                "code": "farmer_example_the-farmer-has-many-animals",
+                "text": "The farmer has many animals."
+            },
+            {
+                "code": "farmer_example_farmers-produce-food-so-we-can-eat",
+                "text": "Farmers produce food so we can eat."
+            }
+        ]
+    }
+]

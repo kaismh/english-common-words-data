@@ -1,0 +1,96 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a machine that takes movies or pictures",
+        "examples": [
+            {
+                "code": "camera_example_i-bought-a-disposable-camera",
+                "text": "I bought a disposable camera."
+            },
+            {
+                "code": "camera_example_the-photographer-used-a-high-resolution-camera",
+                "text": "The photographer used a high-resolution camera."
+            },
+            {
+                "code": "camera_example_don-t-look-at-the-television-cameras",
+                "text": "Don't look at the television cameras."
+            },
+            {
+                "code": "camera_example_the-military-uses-infrared-cameras",
+                "text": "The military uses infrared cameras."
+            },
+            {
+                "code": "camera_example_james-bond-has-a-spy-camera",
+                "text": "James Bond has a spy camera."
+            },
+            {
+                "code": "camera_example_the-criminal-was-caught-on-the-security-camera",
+                "text": "The criminal was caught on the security camera."
+            },
+            {
+                "code": "camera_example_just-aim-the-camera-and-click",
+                "text": "Just aim the camera and click."
+            },
+            {
+                "code": "camera_example_do-you-know-how-to-use-a-camera",
+                "text": "Do you know how to use a camera?"
+            },
+            {
+                "code": "camera_example_my-daughter-loves-to-pose-for-the-camera",
+                "text": "My daughter loves to pose for the camera."
+            },
+            {
+                "code": "camera_example_you-need-to-face-the-camera",
+                "text": "You need to face the camera."
+            },
+            {
+                "code": "camera_example_we-need-to-install-the-cameras",
+                "text": "We need to install the cameras."
+            },
+            {
+                "code": "camera_example_the-camera-filmed-the-crime",
+                "text": "The camera filmed the crime."
+            },
+            {
+                "code": "camera_example_the-camera-focused-in-on-her-face",
+                "text": "The camera focused in on her face."
+            },
+            {
+                "code": "camera_example_the-camera-crew-was-setting-up-for-the-photo-shoot",
+                "text": "The camera crew was setting up for the photo shoot."
+            },
+            {
+                "code": "camera_example_he-s-the-camera-operator",
+                "text": "He's the camera operator."
+            },
+            {
+                "code": "camera_example_where-s-my-camera-bag",
+                "text": "Where's my camera bag?"
+            },
+            {
+                "code": "camera_example_we-need-to-adjust-the-camera-angle",
+                "text": "We need to adjust the camera angle."
+            },
+            {
+                "code": "camera_example_the-movie-was-made-with-camera-tricks",
+                "text": "The movie was made with camera tricks."
+            },
+            {
+                "code": "camera_example_take-a-picture-with-your-camera-phone",
+                "text": "Take a picture with your camera phone."
+            },
+            {
+                "code": "camera_example_i-was-almost-blinded-by-the-camera-flash",
+                "text": "I was almost blinded by the camera flash."
+            },
+            {
+                "code": "camera_example_she-loves-to-be-in-front-of-the-camera",
+                "text": "She loves to be in front of the camera."
+            },
+            {
+                "code": "camera_example_it-all-happened-on-camera",
+                "text": "It all happened on camera."
+            }
+        ]
+    }
+]

@@ -1,0 +1,36 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the written form of a play or movie",
+        "examples": [
+            {
+                "code": "script_example_he-submitted-his-original-script",
+                "text": "He submitted his original script."
+            },
+            {
+                "code": "script_example_this-is-a-very-good-script",
+                "text": "This is a very good script."
+            },
+            {
+                "code": "script_example_the-author-prepared-the-script-for-the-readers",
+                "text": "The author prepared the script for the readers."
+            },
+            {
+                "code": "script_example_the-class-read-the-script-together",
+                "text": "The class read the script together."
+            },
+            {
+                "code": "script_example_the-script-editor-was-very-pleased-with-the-work",
+                "text": "The script editor was very pleased with the work."
+            },
+            {
+                "code": "script_example_it-is-a-script-about-a-farmer-s-life",
+                "text": "It is a script about a farmer's life."
+            },
+            {
+                "code": "script_example_here-is-a-script-for-a-children-s-tv-show",
+                "text": "Here is a script for a children's TV show."
+            }
+        ]
+    }
+]

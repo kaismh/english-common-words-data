@@ -1,0 +1,44 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "doing something well without wasting time, energy or money",
+        "examples": [
+            {
+                "code": "efficient_example_this-factory-is-very-efficient",
+                "text": "This factory is very efficient."
+            },
+            {
+                "code": "efficient_example_we-are-working-to-make-the-process-more-efficient",
+                "text": "We are working to make the process more efficient."
+            },
+            {
+                "code": "efficient_example_over-time-she-will-become-more-efficient",
+                "text": "Over time, she will become more efficient."
+            },
+            {
+                "code": "efficient_example_these-machines-are-very-efficient",
+                "text": "These machines are very efficient."
+            },
+            {
+                "code": "efficient_example_this-new-system-is-perfectly-efficient",
+                "text": "This new system is perfectly efficient."
+            },
+            {
+                "code": "efficient_example_he-is-not-very-efficient-at-his-job",
+                "text": "He is not very efficient at his job."
+            },
+            {
+                "code": "efficient_example_this-is-a-very-efficient-machine",
+                "text": "This is a very efficient machine."
+            },
+            {
+                "code": "efficient_example_we-are-trying-to-find-a-more-efficient-way",
+                "text": "We are trying to find a more efficient way."
+            },
+            {
+                "code": "efficient_example_efficient-technology-helps-us-work-better",
+                "text": "Efficient technology helps us work better."
+            }
+        ]
+    }
+]

@@ -1,0 +1,82 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a bag or box containing items or goods; a combined set of benefits or special deals",
+        "examples": [
+            {
+                "code": "package_example_i-just-got-a-big-package-in-the-mail",
+                "text": "I just got a big package in the mail."
+            },
+            {
+                "code": "package_example_the-retirement-package-for-this-job-includes-many-great-perks",
+                "text": "The retirement package for this job includes many great perks."
+            },
+            {
+                "code": "package_example_the-complete-package-includes-a-free-yearly-trip-to-hawaii",
+                "text": "The complete package includes a free yearly trip to Hawaii."
+            },
+            {
+                "code": "package_example_she-opened-the-package-right-away",
+                "text": "She opened the package right away."
+            },
+            {
+                "code": "package_example_wrap-the-package-with-tape",
+                "text": "Wrap the package with tape."
+            },
+            {
+                "code": "package_example_i-will-mail-the-package-tomorrow-morning",
+                "text": "I will mail the package tomorrow morning."
+            },
+            {
+                "code": "package_example_the-mailman-finally-delivered-the-package-i-ve-been-waiting-for",
+                "text": "The mailman finally delivered the package I've been waiting for."
+            },
+            {
+                "code": "package_example_we-got-a-small-package-from-china-yesterday",
+                "text": "We got a small package from China yesterday."
+            },
+            {
+                "code": "package_example_the-package-came-on-tuesday",
+                "text": "The package came on Tuesday."
+            },
+            {
+                "code": "package_example_this-package-contains-my-online-order",
+                "text": "This package contains my online order."
+            },
+            {
+                "code": "package_example_we-offer-a-great-benefits-package-here",
+                "text": "We offer a great benefits package here."
+            },
+            {
+                "code": "package_example_i-accepted-their-employment-package",
+                "text": "I accepted their employment package."
+            },
+            {
+                "code": "package_example_there-are-so-many-great-benefits-in-this-new-employment-package",
+                "text": "There are so many great benefits in this new employment package."
+            },
+            {
+                "code": "package_example_i-ordered-a-package-of-tea-from-india",
+                "text": "I ordered a package of tea from India."
+            },
+            {
+                "code": "package_example_i-received-a-package-deal-which-includes-insurance-unlimited-texting-and-internet-access",
+                "text": "I received a package deal which includes insurance, unlimited texting, and internet access."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to place items into a container for shipment",
+        "examples": [
+            {
+                "code": "package_example_make-sure-you-carefully-package-the-dishes-when-you-move",
+                "text": "Make sure you carefully package the dishes when you move."
+            },
+            {
+                "code": "package_example_we-are-packaging-our-products-to-sell-in-stores",
+                "text": "We are packaging our products to sell in stores."
+            }
+        ]
+    }
+]

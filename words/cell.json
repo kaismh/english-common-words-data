@@ -1,0 +1,60 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the smallest living part of the body; a small room for prisoners",
+        "examples": [
+            {
+                "code": "cell_example_hair-is-made-of-dead-cells",
+                "text": "Hair is made of dead cells."
+            },
+            {
+                "code": "cell_example_radiation-damages-living-cells",
+                "text": "Radiation damages living cells."
+            },
+            {
+                "code": "cell_example_the-scientist-studies-blood-cells",
+                "text": "The scientist studies blood cells."
+            },
+            {
+                "code": "cell_example_we-are-studying-animal-cells",
+                "text": "We are studying animal cells."
+            },
+            {
+                "code": "cell_example_she-was-put-in-a-jail-cell",
+                "text": "She was put in a jail cell."
+            },
+            {
+                "code": "cell_example_the-body-cannot-create-new-brain-cells",
+                "text": "The body cannot create new brain cells."
+            },
+            {
+                "code": "cell_example_cancer-attacks-healthy-cells",
+                "text": "Cancer attacks healthy cells."
+            },
+            {
+                "code": "cell_example_the-doctor-collected-cancerous-cells-from-the-patient",
+                "text": "The doctor collected cancerous cells from the patient."
+            },
+            {
+                "code": "cell_example_cells-divide-in-order-to-reproduce",
+                "text": "Cells divide in order to reproduce."
+            },
+            {
+                "code": "cell_example_brain-cells-die-from-too-much-drug-use",
+                "text": "Brain cells die from too much drug use."
+            },
+            {
+                "code": "cell_example_we-are-learning-about-cell-growth-in-biology-class",
+                "text": "We are learning about cell growth in biology class."
+            },
+            {
+                "code": "cell_example_the-cell-s-nucleus-was-damaged",
+                "text": "The cell's nucleus was damaged."
+            },
+            {
+                "code": "cell_example_he-was-kept-in-the-holding-cell-at-the-police-station",
+                "text": "He was kept in the holding cell at the police station."
+            }
+        ]
+    }
+]

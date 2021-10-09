@@ -1,0 +1,28 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "lower in standing or rank",
+        "examples": [
+            {
+                "code": "junior_example_she-is-a-junior-partner-in-the-law-firm",
+                "text": "She is a junior partner in the law firm."
+            },
+            {
+                "code": "junior_example_he-is-a-relatively-junior-member-of-the-team",
+                "text": "He is a relatively junior member of the team."
+            },
+            {
+                "code": "junior_example_she-is-still-junior-to-everyone-at-the-office",
+                "text": "She is still junior to everyone at the office."
+            },
+            {
+                "code": "junior_example_he-attends-a-junior-college",
+                "text": "He attends a junior college."
+            },
+            {
+                "code": "junior_example_she-goes-to-junior-high-school",
+                "text": "She goes to junior high school."
+            }
+        ]
+    }
+]

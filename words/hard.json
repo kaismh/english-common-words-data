@@ -1,0 +1,110 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "solid or stiff; difficult; severe or harsh",
+        "examples": [
+            {
+                "code": "hard_example_school-is-getting-hard",
+                "text": "School is getting hard."
+            },
+            {
+                "code": "hard_example_that-couch-feels-rather-hard",
+                "text": "That couch feels rather hard."
+            },
+            {
+                "code": "hard_example_keep-that-in-the-fridge-so-it-stays-hard",
+                "text": "Keep that in the fridge so it stays hard."
+            },
+            {
+                "code": "hard_example_she-always-makes-things-hard-for-everyone",
+                "text": "She always makes things hard for everyone."
+            },
+            {
+                "code": "hard_example_i-found-the-assignment-very-hard",
+                "text": "I found the assignment very hard."
+            },
+            {
+                "code": "hard_example_that-test-was-extremely-hard",
+                "text": "That test was extremely hard."
+            },
+            {
+                "code": "hard_example_the-ice-cream-is-a-little-hard",
+                "text": "The ice cream is a little hard."
+            },
+            {
+                "code": "hard_example_the-hard-bench-was-not-comfortable",
+                "text": "The hard bench was not comfortable."
+            },
+            {
+                "code": "hard_example_he-hit-his-head-on-the-hard-ground",
+                "text": "He hit his head on the hard ground."
+            },
+            {
+                "code": "hard_example_she-learned-a-hard-lesson-today",
+                "text": "She learned a hard lesson today."
+            },
+            {
+                "code": "hard_example_she-had-a-really-hard-day",
+                "text": "She had a really hard day."
+            },
+            {
+                "code": "hard_example_that-was-a-hard-time-for-me",
+                "text": "That was a hard time for me."
+            },
+            {
+                "code": "hard_example_that-was-a-hard-decision",
+                "text": "That was a hard decision."
+            },
+            {
+                "code": "hard_example_he-asks-a-lot-of-hard-questions",
+                "text": "He asks a lot of hard questions."
+            },
+            {
+                "code": "hard_example_she-gave-him-a-hard-smack",
+                "text": "She gave him a hard smack."
+            }
+        ]
+    },
+    {
+        "type": "(adv)",
+        "mean": "with great effort",
+        "examples": [
+            {
+                "code": "hard_example_he-laughed-hard-at-the-joke",
+                "text": "He laughed hard at the joke."
+            },
+            {
+                "code": "hard_example_he-was-breathing-hard-after-climbing-stairs",
+                "text": "He was breathing hard after climbing stairs."
+            },
+            {
+                "code": "hard_example_she-is-concentrating-hard-on-the-assignment",
+                "text": "She is concentrating hard on the assignment."
+            },
+            {
+                "code": "hard_example_he-really-fought-hard",
+                "text": "He really fought hard."
+            },
+            {
+                "code": "hard_example_it-is-raining-really-hard",
+                "text": "It is raining really hard."
+            },
+            {
+                "code": "hard_example_she-kicked-him-hard",
+                "text": "She kicked him hard."
+            },
+            {
+                "code": "hard_example_they-have-been-practicing-hard",
+                "text": "They have been practicing hard."
+            },
+            {
+                "code": "hard_example_he-ran-hard-to-keep-up-with-the-group",
+                "text": "He ran hard to keep up with the group."
+            },
+            {
+                "code": "hard_example_she-cried-hard-when-she-heard-the-news",
+                "text": "She cried hard when she heard the news."
+            }
+        ]
+    }
+]

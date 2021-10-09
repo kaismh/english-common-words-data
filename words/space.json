@@ -1,0 +1,98 @@
+[
+    {
+        "type": "(n)",
+        "mean": "an empty area; an available area; the area beyond the earth's atmosphere",
+        "examples": [
+            {
+                "code": "space_example_she-has-a-wide-open-space-in-her-backyard-for-her-two-dogs",
+                "text": "She has a wide-open space in her backyard for her two dogs."
+            },
+            {
+                "code": "space_example_my-wife-complains-that-we-don-t-have-ample-living-space",
+                "text": "My wife complains that we don't have ample living space."
+            },
+            {
+                "code": "space_example_his-office-has-limited-storage-space",
+                "text": "His office has limited storage space."
+            },
+            {
+                "code": "space_example_they-are-looking-for-a-vacant-office-space",
+                "text": "They are looking for a vacant office space."
+            },
+            {
+                "code": "space_example_she-can-t-work-in-confined-spaces",
+                "text": "She can't work in confined spaces."
+            },
+            {
+                "code": "space_example_the-teacher-told-us-to-fill-in-the-blank-spaces",
+                "text": "The teacher told us to fill in the blank spaces."
+            },
+            {
+                "code": "space_example_he-couldn-t-find-a-parking-space",
+                "text": "He couldn't find a parking space."
+            },
+            {
+                "code": "space_example_i-wish-i-could-have-my-own-personal-space",
+                "text": "I wish I could have my own personal space."
+            },
+            {
+                "code": "space_example_i-want-to-explore-outer-space",
+                "text": "I want to explore outer space."
+            },
+            {
+                "code": "space_example_our-large-sofa-took-up-too-much-space",
+                "text": "Our large sofa took up too much space."
+            },
+            {
+                "code": "space_example_he-is-sharing-office-space-with-his-wife",
+                "text": "He is sharing office space with his wife."
+            },
+            {
+                "code": "space_example_we-need-to-make-space-for-our-new-furniture",
+                "text": "We need to make space for our new furniture."
+            },
+            {
+                "code": "space_example_we-can-t-waste-space-in-our-small-apartment",
+                "text": "We can't waste space in our small apartment."
+            },
+            {
+                "code": "space_example_i-want-to-go-into-outer-space-someday",
+                "text": "I want to go into outer space someday."
+            },
+            {
+                "code": "space_example_there-was-no-space-between-the-bed-and-the-wall",
+                "text": "There was no space between the bed and the wall."
+            },
+            {
+                "code": "space_example_my-son-is-fascinated-by-space-exploration",
+                "text": "My son is fascinated by space exploration."
+            },
+            {
+                "code": "space_example_my-husband-works-for-the-space-program",
+                "text": "My husband works for the space program."
+            },
+            {
+                "code": "space_example_the-astronauts-are-on-a-space-mission",
+                "text": "The astronauts are on a space mission."
+            },
+            {
+                "code": "space_example_the-engineer-designed-the-space-rocket",
+                "text": "The engineer designed the space rocket."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to leave an empty place between things",
+        "examples": [
+            {
+                "code": "space_example_make-sure-to-evenly-space-the-seeds-before-planting",
+                "text": "Make sure to evenly space the seeds before planting."
+            },
+            {
+                "code": "space_example_the-flowers-were-evenly-spaced-apart",
+                "text": "The flowers were evenly spaced apart."
+            }
+        ]
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the part of the body located below the chest where food is digested",
+        "examples": [
+            {
+                "code": "stomach_example_she-told-me-not-to-run-on-an-empty-stomach",
+                "text": "She told me not to run on an empty stomach."
+            },
+            {
+                "code": "stomach_example_he-left-work-early-due-to-an-upset-stomach",
+                "text": "He left work early due to an upset stomach."
+            },
+            {
+                "code": "stomach_example_i-have-always-had-a-sensitive-stomach",
+                "text": "I have always had a sensitive stomach."
+            },
+            {
+                "code": "stomach_example_she-got-a-firm-stomach-after-months-of-working-out",
+                "text": "She got a firm stomach after months of working out."
+            },
+            {
+                "code": "stomach_example_pregnancy-gives-women-fat-stomachs",
+                "text": "Pregnancy gives women fat stomachs."
+            },
+            {
+                "code": "stomach_example_the-bumpy-boat-ride-turned-his-stomach",
+                "text": "The bumpy boat ride turned his stomach."
+            },
+            {
+                "code": "stomach_example_my-stomach-won-t-stop-rumbling",
+                "text": "My stomach won't stop rumbling."
+            },
+            {
+                "code": "stomach_example_she-ate-soup-to-settle-her-stomach",
+                "text": "She ate soup to settle her stomach."
+            },
+            {
+                "code": "stomach_example_she-is-trying-to-hold-in-her-stomach",
+                "text": "She is trying to hold in her stomach."
+            },
+            {
+                "code": "stomach_example_she-was-holding-her-stomach-because-she-was-in-so-much-pain",
+                "text": "She was holding her stomach because she was in so much pain."
+            },
+            {
+                "code": "stomach_example_he-patted-his-full-stomach",
+                "text": "He patted his full stomach."
+            },
+            {
+                "code": "stomach_example_he-was-punched-in-the-stomach",
+                "text": "He was punched in the stomach."
+            },
+            {
+                "code": "stomach_example_she-was-struggling-with-a-stomach-ache",
+                "text": "She was struggling with a stomach ache."
+            },
+            {
+                "code": "stomach_example_my-friend-has-stomach-cancer",
+                "text": "My friend has stomach cancer."
+            },
+            {
+                "code": "stomach_example_the-pain-in-his-stomach-went-away",
+                "text": "The pain in his stomach went away."
+            },
+            {
+                "code": "stomach_example_i-like-to-sleep-on-my-stomach",
+                "text": "I like to sleep on my stomach."
+            }
+        ]
+    }
+]

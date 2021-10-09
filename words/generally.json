@@ -1,0 +1,68 @@
+[
+    {
+        "type": "(adv)",
+        "mean": "not specifically; mostly",
+        "examples": [
+            {
+                "code": "generally_example_his-answer-was-generally-acceptable",
+                "text": "His answer was generally acceptable."
+            },
+            {
+                "code": "generally_example_she-is-a-generally-optimistic-person",
+                "text": "She is a generally optimistic person."
+            },
+            {
+                "code": "generally_example_the-comments-have-been-generally-positive",
+                "text": "The comments have been generally positive."
+            },
+            {
+                "code": "generally_example_he-is-generally-unaware-of-what-goes-on-when-he-s-not-here",
+                "text": "He is generally unaware of what goes on when he's not here."
+            },
+            {
+                "code": "generally_example_this-medicine-is-generally-effective",
+                "text": "This medicine is generally effective."
+            },
+            {
+                "code": "generally_example_the-weather-here-is-generally-mild",
+                "text": "The weather here is generally mild."
+            },
+            {
+                "code": "generally_example_the-two-sides-generally-agree-on-education-funding",
+                "text": "The two sides generally agree on education funding."
+            },
+            {
+                "code": "generally_example_he-generally-assumes-we-re-getting-our-work-done",
+                "text": "He generally assumes we're getting our work done."
+            },
+            {
+                "code": "generally_example_they-have-generally-avoided-this-issue",
+                "text": "They have generally avoided this issue."
+            },
+            {
+                "code": "generally_example_drivers-generally-exceed-the-speed-limit",
+                "text": "Drivers generally exceed the speed limit."
+            },
+            {
+                "code": "generally_example_this-process-generally-involves-a-lot-of-negotiation",
+                "text": "This process generally involves a lot of negotiation."
+            },
+            {
+                "code": "generally_example_she-generally-maintains-a-liberal-view-of-politics",
+                "text": "She generally maintains a liberal view of politics."
+            },
+            {
+                "code": "generally_example_he-generally-permits-us-to-choose-our-own-projects",
+                "text": "He generally permits us to choose our own projects."
+            },
+            {
+                "code": "generally_example_the-outbreak-is-generally-confined-to-a-small-area",
+                "text": "The outbreak is generally confined to a small area."
+            },
+            {
+                "code": "generally_example_they-generally-recommend-getting-to-the-airport-two-hours-early",
+                "text": "They generally recommend getting to the airport two hours early."
+            }
+        ]
+    }
+]

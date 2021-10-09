@@ -1,0 +1,110 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to allow",
+        "examples": [
+            {
+                "code": "permit_example_we-will-have-a-picnic-if-the-weather-permits",
+                "text": "We will have a picnic if the weather permits."
+            },
+            {
+                "code": "permit_example_the-city-permitted-the-use-of-the-abandoned-building",
+                "text": "The city permitted the use of the abandoned building."
+            },
+            {
+                "code": "permit_example_the-school-normally-permits-visitors",
+                "text": "The school normally permits visitors."
+            },
+            {
+                "code": "permit_example_his-grandmother-never-permits-strangers-in-the-house",
+                "text": "His grandmother never permits strangers in the house."
+            },
+            {
+                "code": "permit_example_he-finally-permitted-them-to-leave",
+                "text": "He finally permitted them to leave."
+            },
+            {
+                "code": "permit_example_she-is-not-legally-permitted-to-leave-the-country",
+                "text": "She is not legally permitted to leave the country."
+            },
+            {
+                "code": "permit_example_children-are-not-permitted-to-play-here",
+                "text": "Children are not permitted to play here."
+            },
+            {
+                "code": "permit_example_this-is-not-permitted-by-law",
+                "text": "This is not permitted by law."
+            }
+        ]
+    },
+    {
+        "type": "(n)",
+        "mean": "an official, written document allowing someone to do something",
+        "examples": [
+            {
+                "code": "permit_example_the-city-issues-permits-by-mail",
+                "text": "The city issues permits by mail."
+            },
+            {
+                "code": "permit_example_you-can-apply-for-a-parking-permit-at-the-front-desk",
+                "text": "You can apply for a parking permit at the front desk."
+            },
+            {
+                "code": "permit_example_my-permit-expired-last-month",
+                "text": "My permit expired last month."
+            },
+            {
+                "code": "permit_example_you-must-have-a-permit-to-drive-that-truck",
+                "text": "You must have a permit to drive that truck."
+            },
+            {
+                "code": "permit_example_you-need-a-permit-to-enter-the-building",
+                "text": "You need a permit to enter the building."
+            },
+            {
+                "code": "permit_example_a-permit-is-required-for-all-pet-owners",
+                "text": "A permit is required for all pet owners."
+            },
+            {
+                "code": "permit_example_i-just-renewed-my-hunting-permit",
+                "text": "I just renewed my hunting permit."
+            },
+            {
+                "code": "permit_example_homeowners-need-a-special-permit-to-build-swimming-pools",
+                "text": "Homeowners need a special permit to build swimming pools."
+            },
+            {
+                "code": "permit_example_i-bought-a-temporary-permit-to-park-in-this-lot",
+                "text": "I bought a temporary permit to park in this lot."
+            },
+            {
+                "code": "permit_example_do-you-have-a-valid-permit-to-park-here",
+                "text": "Do you have a valid permit to park here?"
+            },
+            {
+                "code": "permit_example_are-you-a-permit-holder",
+                "text": "Are you a permit holder?"
+            },
+            {
+                "code": "permit_example_i-need-to-submit-my-permit-application",
+                "text": "I need to submit my permit application."
+            },
+            {
+                "code": "permit_example_you-need-a-permit-for-parking",
+                "text": "You need a permit for parking."
+            },
+            {
+                "code": "permit_example_we-can-only-go-sailing-with-a-boat-permit",
+                "text": "We can only go sailing with a boat permit."
+            },
+            {
+                "code": "permit_example_you-cannot-hunt-without-a-permit",
+                "text": "You cannot hunt without a permit."
+            },
+            {
+                "code": "permit_example_access-to-the-building-is-by-permit-only",
+                "text": "Access to the building is by permit only."
+            }
+        ]
+    }
+]

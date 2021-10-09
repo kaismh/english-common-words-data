@@ -1,0 +1,48 @@
+[
+    {
+        "type": "(n)",
+        "mean": "an explanation or idea of why or how something happens",
+        "examples": [
+            {
+                "code": "theory_example_the-new-theory-is-not-believable",
+                "text": "The new theory is not believable."
+            },
+            {
+                "code": "theory_example_we-are-learning-economic-theories-in-college",
+                "text": "We are learning economic theories in college."
+            },
+            {
+                "code": "theory_example_they-have-different-theories-about-what-happened",
+                "text": "They have different theories about what happened."
+            },
+            {
+                "code": "theory_example_there-are-many-conspiracy-theories-out-there",
+                "text": "There are many conspiracy theories out there."
+            },
+            {
+                "code": "theory_example_he-needs-more-evidence-to-prove-his-theory",
+                "text": "He needs more evidence to prove his theory."
+            },
+            {
+                "code": "theory_example_let-s-test-her-theory-to-see-if-it-works",
+                "text": "Let's test her theory to see if it works."
+            },
+            {
+                "code": "theory_example_she-presented-her-theory-to-the-board",
+                "text": "She presented her theory to the board."
+            },
+            {
+                "code": "theory_example_they-confirmed-his-theory",
+                "text": "They confirmed his theory."
+            },
+            {
+                "code": "theory_example_they-have-a-theory-as-to-how-the-accident-occurred",
+                "text": "They have a theory as to how the accident occurred."
+            },
+            {
+                "code": "theory_example_he-has-a-theory-about-why-men-and-women-are-so-different",
+                "text": "He has a theory about why men and women are so different."
+            }
+        ]
+    }
+]

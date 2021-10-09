@@ -1,0 +1,32 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a big store that sells food, drinks and other household items",
+        "examples": [
+            {
+                "code": "supermarket_example_some-things-are-only-sold-at-major-supermarkets",
+                "text": "Some things are only sold at major supermarkets."
+            },
+            {
+                "code": "supermarket_example_we-try-to-shop-at-our-local-supermarket",
+                "text": "We try to shop at our local supermarket."
+            },
+            {
+                "code": "supermarket_example_the-supermarket-giant-forced-small-markets-to-close",
+                "text": "The supermarket giant forced small markets to close."
+            },
+            {
+                "code": "supermarket_example_sale-items-are-displayed-in-front-of-supermarket-aisles",
+                "text": "Sale items are displayed in front of supermarket aisles."
+            },
+            {
+                "code": "supermarket_example_the-supermarket-clerk-is-very-friendly",
+                "text": "The supermarket clerk is very friendly."
+            },
+            {
+                "code": "supermarket_example_supermarket-brands-are-cheaper-than-name-brand-items",
+                "text": "Supermarket brands are cheaper than name brand items."
+            }
+        ]
+    }
+]

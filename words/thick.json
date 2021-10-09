@@ -1,0 +1,40 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "having a large distance between two sides of an object; hard to see through liquids, fog, smoke, or air",
+        "examples": [
+            {
+                "code": "thick_example_the-book-is-thick",
+                "text": "The book is thick."
+            },
+            {
+                "code": "thick_example_the-mattress-pad-feels-thick",
+                "text": "The mattress pad feels thick."
+            },
+            {
+                "code": "thick_example_it-was-hard-to-stir-the-thick-soup",
+                "text": "It was hard to stir the thick soup."
+            },
+            {
+                "code": "thick_example_we-could-not-see-through-the-thick-fog",
+                "text": "We could not see through the thick fog."
+            },
+            {
+                "code": "thick_example_the-layer-of-fat-is-very-thick",
+                "text": "The layer of fat is very thick."
+            },
+            {
+                "code": "thick_example_the-milkshake-is-very-thick",
+                "text": "The milkshake is very thick."
+            },
+            {
+                "code": "thick_example_the-smoke-was-too-thick-to-walk-through",
+                "text": "The smoke was too thick to walk through."
+            },
+            {
+                "code": "thick_example_the-sky-was-filled-with-thick-smoke",
+                "text": "The sky was filled with thick smoke."
+            }
+        ]
+    }
+]

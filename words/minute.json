@@ -1,0 +1,94 @@
+[
+    {
+        "type": "(n)",
+        "mean": "60 seconds; a brief moment",
+        "examples": [
+            {
+                "code": "minute_example_we-counted-the-minutes-until-they-came",
+                "text": "We counted the minutes until they came."
+            },
+            {
+                "code": "minute_example_the-minutes-passed-slowly",
+                "text": "The minutes passed slowly."
+            },
+            {
+                "code": "minute_example_the-meeting-lasted-30-minutes",
+                "text": "The meeting lasted 30 minutes."
+            },
+            {
+                "code": "minute_example_we-spent-a-few-minutes-together",
+                "text": "We spent a few minutes together."
+            },
+            {
+                "code": "minute_example_this-will-only-take-a-minute",
+                "text": "This will only take a minute."
+            },
+            {
+                "code": "minute_example_can-i-have-a-minute-with-you",
+                "text": "Can I have a minute with you?"
+            },
+            {
+                "code": "minute_example_can-you-wait-a-minute",
+                "text": "Can you wait a minute?"
+            },
+            {
+                "code": "minute_example_the-minute-hand-is-wrong",
+                "text": "The minute hand is wrong."
+            },
+            {
+                "code": "minute_example_we-spent-several-minutes-waiting",
+                "text": "We spent several minutes waiting."
+            },
+            {
+                "code": "minute_example_i-got-hungrier-with-each-passing-minute",
+                "text": "I got hungrier with each passing minute."
+            },
+            {
+                "code": "minute_example_i-waited-a-full-minute",
+                "text": "I waited a full minute."
+            },
+            {
+                "code": "minute_example_she-always-waits-until-the-last-minute",
+                "text": "She always waits until the last minute."
+            },
+            {
+                "code": "minute_example_do-you-have-a-spare-minute",
+                "text": "Do you have a spare minute?"
+            },
+            {
+                "code": "minute_example_he-was-gone-the-next-minute",
+                "text": "He was gone the next minute."
+            },
+            {
+                "code": "minute_example_we-ll-be-there-in-a-minute",
+                "text": "We'll be there in a minute."
+            },
+            {
+                "code": "minute_example_i-was-only-there-for-a-minute",
+                "text": "I was only there for a minute."
+            },
+            {
+                "code": "minute_example_she-got-there-after-a-few-minutes",
+                "text": "She got there after a few minutes."
+            }
+        ]
+    },
+    {
+        "type": "(adj)",
+        "mean": "tiny; very small",
+        "examples": [
+            {
+                "code": "minute_example_there-s-a-minute-quantity-of-food-left",
+                "text": "There's a minute quantity of food left."
+            },
+            {
+                "code": "minute_example_we-found-minute-traces-of-lead",
+                "text": "We found minute traces of lead."
+            },
+            {
+                "code": "minute_example_i-don-t-know-all-of-the-minute-details",
+                "text": "I don't know all of the minute details."
+            }
+        ]
+    }
+]

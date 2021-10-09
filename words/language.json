@@ -1,0 +1,64 @@
+[
+    {
+        "type": "(n)",
+        "mean": "words people use to communicate their thoughts and feelings; a system of communication used by a particular group of people",
+        "examples": [
+            {
+                "code": "language_example_john-s-first-language-is-spanish",
+                "text": "John's first language is Spanish."
+            },
+            {
+                "code": "language_example_how-many-foreign-languages-do-you-speak",
+                "text": "How many foreign languages do you speak?"
+            },
+            {
+                "code": "language_example_canada-s-official-languages-are-english-and-french",
+                "text": "Canada's official languages are English and French."
+            },
+            {
+                "code": "language_example_the-original-manuscripts-were-written-in-an-unknown-language",
+                "text": "The original manuscripts were written in an unknown language."
+            },
+            {
+                "code": "language_example_english-has-become-an-international-language",
+                "text": "English has become an international language."
+            },
+            {
+                "code": "language_example_he-had-a-habit-of-using-bad-language",
+                "text": "He had a habit of using bad language."
+            },
+            {
+                "code": "language_example_he-spoke-three-languages-fluently",
+                "text": "He spoke three languages fluently."
+            },
+            {
+                "code": "language_example_she-had-a-passion-to-learn-a-different-language",
+                "text": "She had a passion to learn a different language."
+            },
+            {
+                "code": "language_example_the-teacher-told-him-to-watch-his-language",
+                "text": "The teacher told him to watch his language."
+            },
+            {
+                "code": "language_example_the-letter-was-written-in-very-offensive-language",
+                "text": "The letter was written in very offensive language."
+            },
+            {
+                "code": "language_example_they-developed-a-new-method-of-language-learning",
+                "text": "They developed a new method of language learning."
+            },
+            {
+                "code": "language_example_her-son-needs-help-in-language-development",
+                "text": "Her son needs help in language development."
+            },
+            {
+                "code": "language_example_she-is-taking-spanish-language-lessons",
+                "text": "She is taking Spanish language lessons."
+            },
+            {
+                "code": "language_example_they-could-not-communicate-because-of-the-language-barrier",
+                "text": "They could not communicate because of the language barrier."
+            }
+        ]
+    }
+]

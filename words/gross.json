@@ -1,0 +1,54 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "a total amount before anything is taken away; disgusting, rude or offensive; obvious",
+        "examples": [
+            {
+                "code": "gross_example_we-need-to-calculate-the-gross-assets",
+                "text": "We need to calculate the gross assets."
+            },
+            {
+                "code": "gross_example_that-was-a-gross-misuse-of-public-funds",
+                "text": "That was a gross misuse of public funds."
+            },
+            {
+                "code": "gross_example_what-is-the-gross-margin",
+                "text": "What is the gross margin?"
+            },
+            {
+                "code": "gross_example_they-are-being-investigated-for-gross-corruption",
+                "text": "They are being investigated for gross corruption."
+            },
+            {
+                "code": "gross_example_there-is-gross-inequality-here",
+                "text": "There is gross inequality here."
+            },
+            {
+                "code": "gross_example_you-should-be-embarrassed-by-your-gross-behavior",
+                "text": "You should be embarrassed by your gross behavior."
+            }
+        ]
+    },
+    {
+        "type": "(n)",
+        "mean": "total amount before anything is taken away",
+        "examples": [
+            {
+                "code": "gross_example_they-reported-a-record-box-office-gross",
+                "text": "They reported a record box office gross."
+            },
+            {
+                "code": "gross_example_we-are-trying-to-increase-our-gross-for-the-new-quarter",
+                "text": "We are trying to increase our gross for the new quarter."
+            },
+            {
+                "code": "gross_example_the-taxes-are-taken-out-of-the-gross",
+                "text": "The taxes are taken out of the gross."
+            },
+            {
+                "code": "gross_example_deduct-all-fee-and-charges-from-the-gross",
+                "text": "Deduct all fee and charges from the gross."
+            }
+        ]
+    }
+]

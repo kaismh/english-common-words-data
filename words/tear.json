@@ -1,0 +1,102 @@
+[
+    {
+        "type": "(n)",
+        "mean": "fluid coming from the eyes resulting from an emotion",
+        "examples": [
+            {
+                "code": "tear_example_she-shed-a-sad-tear",
+                "text": "She shed a sad tear."
+            },
+            {
+                "code": "tear_example_the-child-was-confused-by-her-mom-s-happy-tears",
+                "text": "The child was confused by her mom's happy tears."
+            },
+            {
+                "code": "tear_example_those-were-real-tears",
+                "text": "Those were real tears."
+            },
+            {
+                "code": "tear_example_he-was-weeping-uncontrollable-tears",
+                "text": "He was weeping uncontrollable tears."
+            },
+            {
+                "code": "tear_example_he-shed-tears-of-joy",
+                "text": "He shed tears of joy!"
+            },
+            {
+                "code": "tear_example_she-wiped-a-tear-off-her-cheek",
+                "text": "She wiped a tear off her cheek."
+            },
+            {
+                "code": "tear_example_his-tears-stung-his-eyes",
+                "text": "His tears stung his eyes."
+            },
+            {
+                "code": "tear_example_there-was-a-tear-drop-on-her-face",
+                "text": "There was a tear drop on her face."
+            },
+            {
+                "code": "tear_example_the-police-threw-tear-gas-into-the-crowd",
+                "text": "The police threw tear gas into the crowd."
+            },
+            {
+                "code": "tear_example_she-went-to-the-teacher-in-tears",
+                "text": "She went to the teacher in tears."
+            },
+            {
+                "code": "tear_example_he-cried-tears-over-his-lost-dog",
+                "text": "He cried tears over his lost dog."
+            }
+        ]
+    },
+    {
+        "type": "(v | n)",
+        "mean": "to rip fabric or paper",
+        "examples": [
+            {
+                "code": "tear_example_that-was-a-big-tear-in-her-dress",
+                "text": "That was a big tear in her dress."
+            },
+            {
+                "code": "tear_example_they-found-a-strange-tear-in-the-curtains",
+                "text": "They found a strange tear in the curtains."
+            },
+            {
+                "code": "tear_example_he-made-a-small-tear-in-the-book",
+                "text": "He made a small tear in the book."
+            },
+            {
+                "code": "tear_example_he-found-a-tear-in-his-shirt",
+                "text": "He found a tear in his shirt."
+            },
+            {
+                "code": "tear_example_she-fixed-the-tear-on-her-daughter-s-skirt",
+                "text": "She fixed the tear on her daughter's skirt."
+            },
+            {
+                "code": "tear_example_tissue-paper-tears-easily",
+                "text": "Tissue paper tears easily."
+            },
+            {
+                "code": "tear_example_he-carefully-tore-the-paper-in-half",
+                "text": "He carefully tore the paper in half."
+            },
+            {
+                "code": "tear_example_she-will-tear-paper-out-of-the-notebook",
+                "text": "She will tear paper out of the notebook."
+            },
+            {
+                "code": "tear_example_the-dress-tore-at-the-seams",
+                "text": "The dress tore at the seams."
+            },
+            {
+                "code": "tear_example_this-fabric-has-a-tear-in-it",
+                "text": "This fabric has a tear in it."
+            },
+            {
+                "code": "tear_example_there-are-tears-within-the-pages-of-the-book",
+                "text": "There are tears within the pages of the book."
+            }
+        ]
+    }
+]

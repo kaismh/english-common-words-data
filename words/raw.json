@@ -1,0 +1,36 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "uncooked; not manufactured; fresh",
+        "examples": [
+            {
+                "code": "raw_example_he-is-full-of-raw-emotion",
+                "text": "He is full of raw emotion."
+            },
+            {
+                "code": "raw_example_i-love-eating-raw-vegetables",
+                "text": "I love eating raw vegetables."
+            },
+            {
+                "code": "raw_example_be-careful-with-raw-meat",
+                "text": "Be careful with raw meat."
+            },
+            {
+                "code": "raw_example_we-need-raw-materials",
+                "text": "We need raw materials."
+            },
+            {
+                "code": "raw_example_the-nurse-was-tending-to-the-raw-wound-on-his-arm",
+                "text": "The nurse was tending to the raw wound on his arm."
+            },
+            {
+                "code": "raw_example_she-sang-until-her-throat-felt-raw",
+                "text": "She sang until her throat felt raw."
+            },
+            {
+                "code": "raw_example_we-sent-the-food-back-because-it-was-raw",
+                "text": "We sent the food back because it was raw."
+            }
+        ]
+    }
+]

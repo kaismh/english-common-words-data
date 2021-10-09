@@ -1,0 +1,58 @@
+[
+    {
+        "type": "(n)",
+        "mean": "trouble or annoyance",
+        "examples": [
+            {
+                "code": "bother_example_i-don-t-want-to-be-a-bother-but-could-you-help-me",
+                "text": "I don't want to be a bother, but could you help me?"
+            },
+            {
+                "code": "bother_example_please-do-not-go-to-any-bother-just-for-me",
+                "text": "Please do not go to any bother just for me."
+            },
+            {
+                "code": "bother_example_cleaning-the-house-would-save-me-the-bother",
+                "text": "Cleaning the house would save me the bother."
+            },
+            {
+                "code": "bother_example_he-is-becoming-a-bother-to-many-people",
+                "text": "He is becoming a bother to many people."
+            },
+            {
+                "code": "bother_example_helping-you-is-not-a-bother-to-me",
+                "text": "Helping you is not a bother to me."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to trouble or annoy",
+        "examples": [
+            {
+                "code": "bother_example_my-head-is-really-bothering-me-today",
+                "text": "My head is really bothering me today."
+            },
+            {
+                "code": "bother_example_lying-bothers-my-conscience",
+                "text": "Lying bothers my conscience."
+            },
+            {
+                "code": "bother_example_stop-bothering-me",
+                "text": "Stop bothering me!"
+            },
+            {
+                "code": "bother_example_he-keeps-bothering-his-older-sister",
+                "text": "He keeps bothering his older sister."
+            },
+            {
+                "code": "bother_example_you-are-bothering-me-go-away",
+                "text": "You are bothering me. Go away."
+            },
+            {
+                "code": "bother_example_he-always-bothers-people",
+                "text": "He always bothers people."
+            }
+        ]
+    }
+]

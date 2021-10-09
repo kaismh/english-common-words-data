@@ -1,0 +1,40 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a person who has special knowledge and skill relating to a particular job or an area of study",
+        "examples": [
+            {
+                "code": "specialist_example_we-are-on-a-waiting-list-to-see-the-leading-cancer-specialist-in-the-country",
+                "text": "We are on a waiting list to see the leading cancer specialist in the country."
+            },
+            {
+                "code": "specialist_example_she-made-an-appointment-to-see-an-eye-specialist",
+                "text": "She made an appointment to see an eye specialist."
+            },
+            {
+                "code": "specialist_example_i-am-looking-for-an-experienced-marketing-specialist",
+                "text": "I am looking for an experienced marketing specialist."
+            },
+            {
+                "code": "specialist_example_he-is-training-to-be-a-communications-specialist",
+                "text": "He is training to be a communications specialist."
+            },
+            {
+                "code": "specialist_example_the-company-hired-a-computer-specialist",
+                "text": "The company hired a computer specialist."
+            },
+            {
+                "code": "specialist_example_she-went-to-see-a-finance-specialist",
+                "text": "She went to see a finance specialist."
+            },
+            {
+                "code": "specialist_example_she-is-a-specialist-in-mental-health",
+                "text": "She is a specialist in mental-health."
+            },
+            {
+                "code": "specialist_example_he-is-a-specialist-on-fertility-issues",
+                "text": "He is a specialist on fertility issues."
+            }
+        ]
+    }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a man-made material that is light and strong and can be formed into various shapes",
+        "examples": [
+            {
+                "code": "plastic_example_the-cheese-is-wrapped-in-plastic",
+                "text": "The cheese is wrapped in plastic."
+            },
+            {
+                "code": "plastic_example_some-cities-recycle-plastic",
+                "text": "Some cities recycle plastic."
+            },
+            {
+                "code": "plastic_example_our-company-makes-plastic",
+                "text": "Our company makes plastic."
+            },
+            {
+                "code": "plastic_example_it-is-made-of-thin-plastic",
+                "text": "It is made of thin plastic."
+            },
+            {
+                "code": "plastic_example_we-wrapped-the-blankets-in-see-through-plastic",
+                "text": "We wrapped the blankets in see-through plastic."
+            }
+        ]
+    },
+    {
+        "type": "(adj)",
+        "mean": "made of a man-made material that is light and strong and can be formed into various shapes; not real",
+        "examples": [
+            {
+                "code": "plastic_example_would-you-like-a-plastic-bag",
+                "text": "Would you like a plastic bag?"
+            },
+            {
+                "code": "plastic_example_i-always-use-plastic-gloves",
+                "text": "I always use plastic gloves."
+            },
+            {
+                "code": "plastic_example_there-is-a-plastic-coating-on-the-furniture",
+                "text": "There is a plastic coating on the furniture."
+            },
+            {
+                "code": "plastic_example_i-opened-the-plastic-wrapper",
+                "text": "I opened the plastic wrapper."
+            },
+            {
+                "code": "plastic_example_she-wants-to-get-plastic-surgery",
+                "text": "She wants to get plastic surgery."
+            },
+            {
+                "code": "plastic_example_he-is-a-plastic-surgeon",
+                "text": "He is a plastic surgeon."
+            }
+        ]
+    }
+]

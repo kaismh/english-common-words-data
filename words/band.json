@@ -1,0 +1,36 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a group of people who play music together; a group of people who do something together",
+        "examples": [
+            {
+                "code": "band_example_i-m-forming-a-rock-band",
+                "text": "I'm forming a rock band."
+            },
+            {
+                "code": "band_example_the-school-band-played-at-the-football-game",
+                "text": "The school band played at the football game."
+            },
+            {
+                "code": "band_example_a-small-band-of-people-are-gathering-at-the-coffee-shop",
+                "text": "A small band of people are gathering at the coffee shop."
+            },
+            {
+                "code": "band_example_she-wants-to-form-a-band",
+                "text": "She wants to form a band."
+            },
+            {
+                "code": "band_example_he-conducts-the-band",
+                "text": "He conducts the band."
+            },
+            {
+                "code": "band_example_their-band-played-last-night",
+                "text": "Their band played last night."
+            },
+            {
+                "code": "band_example_a-band-of-people-gathered-outside-of-the-building",
+                "text": "A band of people gathered outside of the building."
+            }
+        ]
+    }
+]

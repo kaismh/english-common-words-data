@@ -1,0 +1,56 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "demanding that people obey rules exactly and behave properly",
+        "examples": [
+            {
+                "code": "strict_example_he-was-raised-in-very-strict-conditions",
+                "text": "He was raised in very strict conditions."
+            },
+            {
+                "code": "strict_example_i-am-telling-you-this-in-strict-confidentiality",
+                "text": "I am telling you this in strict confidentiality."
+            },
+            {
+                "code": "strict_example_he-has-strict-control-over-his-students",
+                "text": "He has strict control over his students."
+            },
+            {
+                "code": "strict_example_she-has-a-strict-curfew-of-eleven-o-clock",
+                "text": "She has a strict curfew of eleven o'clock."
+            },
+            {
+                "code": "strict_example_he-is-under-a-strict-deadline",
+                "text": "He is under a strict deadline."
+            },
+            {
+                "code": "strict_example_she-is-on-a-strict-diet-of-only-fruits-and-vegetables",
+                "text": "She is on a strict diet of only fruits and vegetables."
+            },
+            {
+                "code": "strict_example_my-strict-father-would-never-let-me-go-to-school-dances",
+                "text": "My strict father would never let me go to school dances."
+            },
+            {
+                "code": "strict_example_we-must-follow-the-strict-guidelines-of-the-company",
+                "text": "We must follow the strict guidelines of the company."
+            },
+            {
+                "code": "strict_example_you-will-face-strict-penalties-for-drunk-driving",
+                "text": "You will face strict penalties for drunk driving."
+            },
+            {
+                "code": "strict_example_they-have-very-strict-rules-on-the-playground",
+                "text": "They have very strict rules on the playground."
+            },
+            {
+                "code": "strict_example_my-parents-are-very-strict",
+                "text": "My parents are very strict."
+            },
+            {
+                "code": "strict_example_my-parents-are-very-strict-with-us",
+                "text": "My parents are very strict with us."
+            }
+        ]
+    }
+]

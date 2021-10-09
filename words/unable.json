@@ -1,0 +1,44 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "not being able",
+        "examples": [
+            {
+                "code": "unable_example_they-are-just-unable-to-get-the-job-done",
+                "text": "They are just unable to get the job done."
+            },
+            {
+                "code": "unable_example_she-is-totally-unable-to-understand-what-i-am-saying",
+                "text": "She is totally unable to understand what I am saying."
+            },
+            {
+                "code": "unable_example_he-is-still-unable-to-walk-after-the-accident",
+                "text": "He is still unable to walk after the accident."
+            },
+            {
+                "code": "unable_example_she-is-physically-unable-to-do-anything-after-her-surgery",
+                "text": "She is physically unable to do anything after her surgery."
+            },
+            {
+                "code": "unable_example_he-is-mentally-unable-to-cope-after-his-wife-s-death",
+                "text": "He is mentally unable to cope after his wife's death."
+            },
+            {
+                "code": "unable_example_he-seems-unable-to-move",
+                "text": "He seems unable to move."
+            },
+            {
+                "code": "unable_example_she-is-unable-to-walk",
+                "text": "She is unable to walk."
+            },
+            {
+                "code": "unable_example_the-boxer-is-unable-to-compete",
+                "text": "The boxer is unable to compete."
+            },
+            {
+                "code": "unable_example_i-m-unable-to-understand-him",
+                "text": "I'm unable to understand him."
+            }
+        ]
+    }
+]

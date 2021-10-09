@@ -1,0 +1,52 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "related to politics; related to the government",
+        "examples": [
+            {
+                "code": "political_example_he-is-a-political-candidate",
+                "text": "He is a political candidate."
+            },
+            {
+                "code": "political_example_do-you-belong-to-a-political-party",
+                "text": "Do you belong to a political party?"
+            },
+            {
+                "code": "political_example_what-are-your-political-ties",
+                "text": "What are your political ties?"
+            },
+            {
+                "code": "political_example_i-don-t-care-about-political-issues",
+                "text": "I don't care about political issues."
+            },
+            {
+                "code": "political_example_she-studied-political-science",
+                "text": "She studied political science."
+            },
+            {
+                "code": "political_example_her-political-career-is-not-going-well",
+                "text": "Her political career is not going well."
+            },
+            {
+                "code": "political_example_they-are-having-a-political-discussion",
+                "text": "They are having a political discussion."
+            },
+            {
+                "code": "political_example_she-is-getting-too-political-for-my-taste",
+                "text": "She is getting too political for my taste."
+            },
+            {
+                "code": "political_example_my-father-is-very-political",
+                "text": "My father is very political."
+            },
+            {
+                "code": "political_example_the-discussion-is-getting-very-political",
+                "text": "The discussion is getting very political."
+            },
+            {
+                "code": "political_example_it-was-a-purely-political-move",
+                "text": "It was a purely political move."
+            }
+        ]
+    }
+]

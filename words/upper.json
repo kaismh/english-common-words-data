@@ -1,0 +1,32 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "located above something else; located higher",
+        "examples": [
+            {
+                "code": "upper_example_he-has-a-tattoo-on-his-upper-arm",
+                "text": "He has a tattoo on his upper arm."
+            },
+            {
+                "code": "upper_example_his-upper-teeth-are-missing",
+                "text": "His upper teeth are missing."
+            },
+            {
+                "code": "upper_example_she-has-upper-body-strength",
+                "text": "She has upper body strength."
+            },
+            {
+                "code": "upper_example_do-you-have-pain-in-your-upper-chest",
+                "text": "Do you have pain in your upper chest?"
+            },
+            {
+                "code": "upper_example_they-are-part-of-the-upper-class",
+                "text": "They are part of the upper class."
+            },
+            {
+                "code": "upper_example_i-have-a-cut-on-my-upper-lip",
+                "text": "I have a cut on my upper lip."
+            }
+        ]
+    }
+]

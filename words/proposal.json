@@ -1,0 +1,48 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a suggested idea or plan; a way of officially asking someone to marry you",
+        "examples": [
+            {
+                "code": "proposal_example_the-boss-accepted-his-proposal",
+                "text": "The boss accepted his proposal."
+            },
+            {
+                "code": "proposal_example_he-withdrew-his-budget-proposal",
+                "text": "He withdrew his budget proposal."
+            },
+            {
+                "code": "proposal_example_let-s-discuss-the-new-proposal",
+                "text": "Let's discuss the new proposal."
+            },
+            {
+                "code": "proposal_example_he-made-a-proposal-at-the-meeting",
+                "text": "He made a proposal at the meeting."
+            },
+            {
+                "code": "proposal_example_she-developed-a-proposal-for-a-new-project",
+                "text": "She developed a proposal for a new project."
+            },
+            {
+                "code": "proposal_example_she-received-a-marriage-proposal",
+                "text": "She received a marriage proposal."
+            },
+            {
+                "code": "proposal_example_he-submitted-a-formal-proposal-for-the-project",
+                "text": "He submitted a formal proposal for the project."
+            },
+            {
+                "code": "proposal_example_her-initial-proposal-was-rejected",
+                "text": "Her initial proposal was rejected."
+            },
+            {
+                "code": "proposal_example_she-accepted-his-marriage-proposal",
+                "text": "She accepted his marriage proposal."
+            },
+            {
+                "code": "proposal_example_he-submitted-a-new-proposal-for-the-budget",
+                "text": "He submitted a new proposal for the budget."
+            }
+        ]
+    }
+]

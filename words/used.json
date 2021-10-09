@@ -1,0 +1,36 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "was owned or handled before",
+        "examples": [
+            {
+                "code": "used_example_that-is-a-commonly-used-phrase",
+                "text": "That is a commonly used phrase."
+            },
+            {
+                "code": "used_example_our-rarely-used-piano-is-being-sold",
+                "text": "Our rarely used piano is being sold."
+            },
+            {
+                "code": "used_example_we-are-donating-lightly-used-clothes",
+                "text": "We are donating lightly used clothes."
+            },
+            {
+                "code": "used_example_the-couch-is-used-but-we-ll-take-it-anyway",
+                "text": "The couch is used, but we'll take it anyway."
+            },
+            {
+                "code": "used_example_used-books-are-cheaper-than-new-ones",
+                "text": "Used books are cheaper than new ones."
+            },
+            {
+                "code": "used_example_he-works-at-a-used-car-dealership",
+                "text": "He works at a used car dealership."
+            },
+            {
+                "code": "used_example_the-charity-takes-used-clothing",
+                "text": "The charity takes used clothing."
+            }
+        ]
+    }
+]

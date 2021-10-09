@@ -1,0 +1,78 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a problem; a difficult situation",
+        "examples": [
+            {
+                "code": "trouble_example_i-m-in-big-trouble",
+                "text": "I'm in big trouble."
+            },
+            {
+                "code": "trouble_example_we-have-been-having-marital-troubles",
+                "text": "We have been having marital troubles."
+            },
+            {
+                "code": "trouble_example_he-is-going-through-financial-troubles",
+                "text": "He is going through financial troubles."
+            },
+            {
+                "code": "trouble_example_there-have-been-current-troubles-in-the-neighborhood",
+                "text": "There have been current troubles in the neighborhood."
+            },
+            {
+                "code": "trouble_example_we-re-having-car-trouble",
+                "text": "We're having car trouble."
+            },
+            {
+                "code": "trouble_example_the-kids-are-looking-for-trouble",
+                "text": "The kids are looking for trouble."
+            },
+            {
+                "code": "trouble_example_please-stay-out-of-trouble",
+                "text": "Please stay out of trouble."
+            },
+            {
+                "code": "trouble_example_leave-your-troubles-at-work",
+                "text": "Leave your troubles at work."
+            },
+            {
+                "code": "trouble_example_i-don-t-want-to-cause-any-trouble",
+                "text": "I don't want to cause any trouble."
+            },
+            {
+                "code": "trouble_example_the-visit-by-the-police-means-trouble",
+                "text": "The visit by the police means trouble."
+            },
+            {
+                "code": "trouble_example_he-is-always-getting-into-trouble-at-school",
+                "text": "He is always getting into trouble at school."
+            },
+            {
+                "code": "trouble_example_she-is-having-trouble-with-her-homework",
+                "text": "She is having trouble with her homework."
+            },
+            {
+                "code": "trouble_example_there-has-been-some-trouble-between-the-two-brothers",
+                "text": "There has been some trouble between the two brothers."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to bother or disturb",
+        "examples": [
+            {
+                "code": "trouble_example_the-bad-news-deeply-troubled-him-for-days",
+                "text": "The bad news deeply troubled him for days."
+            },
+            {
+                "code": "trouble_example_i-don-t-want-to-trouble-you-but-could-you-help-me",
+                "text": "I don't want to trouble you, but could you help me?"
+            },
+            {
+                "code": "trouble_example_i-hate-to-trouble-you-but-could-you-give-me-a-ride-home",
+                "text": "I hate to trouble you, but could you give me a ride home?"
+            }
+        ]
+    }
+]

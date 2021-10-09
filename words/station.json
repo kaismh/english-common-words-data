@@ -1,0 +1,68 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a place where public transportation regularly stops to let passengers on and off; a place where a particular service is offered; a radio or television company",
+        "examples": [
+            {
+                "code": "station_example_i-will-pick-him-up-at-the-train-station",
+                "text": "I will pick him up at the train station."
+            },
+            {
+                "code": "station_example_we-need-to-get-off-at-the-next-station",
+                "text": "We need to get off at the next station."
+            },
+            {
+                "code": "station_example_i-feel-safe-with-the-police-station-across-the-street",
+                "text": "I feel safe with the police station across the street."
+            },
+            {
+                "code": "station_example_he-works-at-a-gas-station",
+                "text": "He works at a gas station."
+            },
+            {
+                "code": "station_example_that-s-my-favorite-radio-station",
+                "text": "That's my favorite radio station."
+            },
+            {
+                "code": "station_example_we-got-to-the-station-too-late",
+                "text": "We got to the station too late."
+            },
+            {
+                "code": "station_example_the-bus-will-leave-the-station-at-11am",
+                "text": "The bus will leave the station at 11am."
+            },
+            {
+                "code": "station_example_the-train-arrived-at-the-main-station-an-hour-late",
+                "text": "The train arrived at the Main Station an hour late."
+            },
+            {
+                "code": "station_example_he-runs-the-gas-station-in-the-evenings",
+                "text": "He runs the gas station in the evenings."
+            },
+            {
+                "code": "station_example_i-listen-to-this-radio-station-on-my-way-to-work",
+                "text": "I listen to this radio station on my way to work."
+            },
+            {
+                "code": "station_example_the-radio-station-broadcasts-classical-music",
+                "text": "The radio station broadcasts classical music."
+            },
+            {
+                "code": "station_example_let-s-meet-at-the-station-parking-lot",
+                "text": "Let's meet at the station parking lot."
+            },
+            {
+                "code": "station_example_i-ran-into-him-in-the-station-building",
+                "text": "I ran into him in the station building."
+            },
+            {
+                "code": "station_example_he-is-the-gas-station-manager",
+                "text": "He is the gas station manager."
+            },
+            {
+                "code": "station_example_we-are-getting-off-at-the-next-station",
+                "text": "We are getting off at the next station."
+            }
+        ]
+    }
+]

@@ -1,0 +1,78 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a piece of metal shaped to fit into a lock; one of the buttons or bars on a computer or piano",
+        "examples": [
+            {
+                "code": "key_example_he-kept-the-master-key-in-a-safe-place",
+                "text": "He kept the master key in a safe place."
+            },
+            {
+                "code": "key_example_she-was-looking-for-her-apartment-key",
+                "text": "She was looking for her apartment key."
+            },
+            {
+                "code": "key_example_we-need-to-replace-some-of-the-computer-keys",
+                "text": "We need to replace some of the computer keys."
+            },
+            {
+                "code": "key_example_she-turned-the-key-in-the-lock",
+                "text": "She turned the key in the lock."
+            },
+            {
+                "code": "key_example_he-forgot-to-take-the-key-from-the-door",
+                "text": "He forgot to take the key from the door."
+            },
+            {
+                "code": "key_example_she-used-the-spare-key-to-get-in-the-house",
+                "text": "She used the spare key to get in the house."
+            },
+            {
+                "code": "key_example_he-left-a-key-with-his-parents",
+                "text": "He left a key with his parents."
+            },
+            {
+                "code": "key_example_i-accidently-locked-the-keys-in-my-car",
+                "text": "I accidently locked the keys in my car."
+            },
+            {
+                "code": "key_example_you-need-a-key-to-open-the-safe",
+                "text": "You need a key to open the safe."
+            },
+            {
+                "code": "key_example_press-the-enter-key-twice",
+                "text": "Press the enter key twice."
+            },
+            {
+                "code": "key_example_you-have-to-lock-it-with-a-key",
+                "text": "You have to lock it with a key."
+            },
+            {
+                "code": "key_example_she-doesn-t-have-the-key-for-the-room",
+                "text": "She doesn't have the key for the room."
+            }
+        ]
+    },
+    {
+        "type": "(adj)",
+        "mean": "very important",
+        "examples": [
+            {
+                "code": "key_example_he-has-a-key-advantage-with-his-height",
+                "text": "He has a key advantage with his height."
+            },
+            {
+                "code": "key_example_she-is-a-key-contributor-to-this-project",
+                "text": "She is a key contributor to this project."
+            },
+            {
+                "code": "key_example_we-re-missing-the-key-ingredient",
+                "text": "We're missing the key ingredient."
+            },
+            {
+                "code": "key_example_he-is-the-key-suspect-in-the-murder",
+                "text": "He is the key suspect in the murder."
+            }
+        ]
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a round fruit with a red or green peel picked from trees",
+        "examples": [
+            {
+                "code": "apple_example_i-like-sweet-apples",
+                "text": "I like sweet apples."
+            },
+            {
+                "code": "apple_example_that-is-a-juicy-apple",
+                "text": "That is a juicy apple."
+            },
+            {
+                "code": "apple_example_she-bit-into-a-shiny-apple",
+                "text": "She bit into a shiny apple."
+            },
+            {
+                "code": "apple_example_my-mother-slices-apples-before-eating-them",
+                "text": "My mother slices apples before eating them."
+            },
+            {
+                "code": "apple_example_we-have-an-apple-orchard",
+                "text": "We have an apple orchard."
+            },
+            {
+                "code": "apple_example_let-s-make-apple-cider",
+                "text": "Let's make apple cider."
+            }
+        ]
+    }
+]

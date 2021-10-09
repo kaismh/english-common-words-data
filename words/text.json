@@ -1,0 +1,50 @@
+[
+    {
+        "type": "(n)",
+        "mean": "written words",
+        "examples": [
+            {
+                "code": "text_example_i-want-to-see-the-full-text-of-the-story",
+                "text": "I want to see the full text of the story."
+            },
+            {
+                "code": "text_example_please-send-all-communications-by-electronic-text",
+                "text": "Please send all communications by electronic text."
+            },
+            {
+                "code": "text_example_he-edited-the-text-of-the-story",
+                "text": "He edited the text of the story."
+            },
+            {
+                "code": "text_example_she-printed-the-text-of-the-whole-essay",
+                "text": "She printed the text of the whole essay."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to type a message using a mobile phone",
+        "examples": [
+            {
+                "code": "text_example_he-texted-me-this-morning",
+                "text": "He texted me this morning."
+            },
+            {
+                "code": "text_example_please-text-me-your-address",
+                "text": "Please text me your address."
+            },
+            {
+                "code": "text_example_text-me-when-you-get-near",
+                "text": "Text me when you get near."
+            },
+            {
+                "code": "text_example_do-not-text-and-drive",
+                "text": "Do not text and drive."
+            },
+            {
+                "code": "text_example_text-me-when-you-re-done",
+                "text": "Text me when you're done."
+            }
+        ]
+    }
+]

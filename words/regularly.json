@@ -1,0 +1,52 @@
+[
+    {
+        "type": "(adv)",
+        "mean": "often; on a steady basis",
+        "examples": [
+            {
+                "code": "regularly_example_i-service-my-car-regularly",
+                "text": "I service my car regularly."
+            },
+            {
+                "code": "regularly_example_we-travel-together-regularly",
+                "text": "We travel together regularly."
+            },
+            {
+                "code": "regularly_example_the-animals-are-tested-regularly-for-illness",
+                "text": "The animals are tested regularly for illness."
+            },
+            {
+                "code": "regularly_example_i-use-my-phone-regularly",
+                "text": "I use my phone regularly."
+            },
+            {
+                "code": "regularly_example_this-kind-of-thing-occurs-regularly",
+                "text": "This kind of thing occurs regularly."
+            },
+            {
+                "code": "regularly_example_i-try-to-pray-regularly",
+                "text": "I try to pray regularly."
+            },
+            {
+                "code": "regularly_example_i-commute-there-regularly",
+                "text": "I commute there regularly."
+            },
+            {
+                "code": "regularly_example_we-attend-school-regularly",
+                "text": "We attend school regularly."
+            },
+            {
+                "code": "regularly_example_she-updates-her-blog-regularly",
+                "text": "She updates her blog regularly."
+            },
+            {
+                "code": "regularly_example_we-meet-regularly",
+                "text": "We meet regularly."
+            },
+            {
+                "code": "regularly_example_the-athletes-practice-regularly",
+                "text": "The athletes practice regularly."
+            }
+        ]
+    }
+]

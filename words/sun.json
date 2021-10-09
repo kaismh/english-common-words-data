@@ -1,0 +1,92 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the star in the sky that lights and heats up the earth during the day",
+        "examples": [
+            {
+                "code": "sun_example_the-golden-sun-shines-brightly-in-the-sky",
+                "text": "The golden sun shines brightly in the sky."
+            },
+            {
+                "code": "sun_example_we-wake-with-the-rising-sun",
+                "text": "We wake with the rising sun."
+            },
+            {
+                "code": "sun_example_we-love-to-watch-the-setting-sun-on-the-horizon",
+                "text": "We love to watch the setting sun on the horizon."
+            },
+            {
+                "code": "sun_example_we-got-sunburned-by-the-hot-sun",
+                "text": "We got sunburned by the hot sun."
+            },
+            {
+                "code": "sun_example_the-plant-needs-direct-sun",
+                "text": "The plant needs direct sun."
+            },
+            {
+                "code": "sun_example_the-morning-sun-shines-through-my-kitchen-window",
+                "text": "The morning sun shines through my kitchen window."
+            },
+            {
+                "code": "sun_example_the-tree-blocks-the-sun-from-shining-into-my-bedroom",
+                "text": "The tree blocks the sun from shining into my bedroom."
+            },
+            {
+                "code": "sun_example_we-are-soaking-up-the-sun-while-lying-on-the-beach",
+                "text": "We are soaking up the sun while lying on the beach."
+            },
+            {
+                "code": "sun_example_getting-too-much-sun-is-bad-for-your-skin",
+                "text": "Getting too much sun is bad for your skin."
+            },
+            {
+                "code": "sun_example_the-sun-rises-in-the-east-and-sets-in-the-west",
+                "text": "The sun rises in the east and sets in the west."
+            },
+            {
+                "code": "sun_example_the-sun-is-peeking-through-the-dark-clouds",
+                "text": "The sun is peeking through the dark clouds."
+            },
+            {
+                "code": "sun_example_the-sun-shines-brightly-over-the-horizon",
+                "text": "The sun shines brightly over the horizon."
+            },
+            {
+                "code": "sun_example_the-villagers-worship-the-sun-gods",
+                "text": "The villagers worship the sun gods."
+            },
+            {
+                "code": "sun_example_i-need-a-sun-hat-to-keep-the-sun-out-of-my-eyes",
+                "text": "I need a sun hat to keep the sun out of my eyes."
+            },
+            {
+                "code": "sun_example_she-wears-sunglasses-to-protect-her-eyes",
+                "text": "She wears sunglasses to protect her eyes."
+            },
+            {
+                "code": "sun_example_she-has-bad-skin-due-to-sun-damage",
+                "text": "She has bad skin due to sun damage."
+            },
+            {
+                "code": "sun_example_they-were-in-the-sun-too-long",
+                "text": "They were in the sun too long."
+            },
+            {
+                "code": "sun_example_it-s-best-to-stay-out-of-the-sun",
+                "text": "It's best to stay out of the sun."
+            },
+            {
+                "code": "sun_example_i-love-lounging-under-the-sun",
+                "text": "I love lounging under the sun."
+            },
+            {
+                "code": "sun_example_do-not-look-directly-at-the-sun",
+                "text": "Do not look directly at the sun."
+            },
+            {
+                "code": "sun_example_i-could-feel-the-sun-on-my-back",
+                "text": "I could feel the sun on my back."
+            }
+        ]
+    }
+]

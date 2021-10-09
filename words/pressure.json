@@ -1,0 +1,96 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the act of force; the force of weight against something",
+        "examples": [
+            {
+                "code": "pressure_example_he-puts-a-lot-of-pressure-on-his-son",
+                "text": "He puts a lot of pressure on his son."
+            },
+            {
+                "code": "pressure_example_the-volcano-builds-up-pressure-before-it-explodes",
+                "text": "The volcano builds up pressure before it explodes."
+            },
+            {
+                "code": "pressure_example_the-air-pressure-is-falling",
+                "text": "The air pressure is falling."
+            },
+            {
+                "code": "pressure_example_i-can-t-handle-the-pressure-at-my-new-job",
+                "text": "I can't handle the pressure at my new job."
+            },
+            {
+                "code": "pressure_example_don-t-give-in-to-peer-pressure",
+                "text": "Don't give in to peer pressure."
+            },
+            {
+                "code": "pressure_example_i-have-to-relieve-the-pressure-on-my-foot",
+                "text": "I have to relieve the pressure on my foot."
+            },
+            {
+                "code": "pressure_example_keep-pressure-on-the-wound",
+                "text": "Keep pressure on the wound."
+            },
+            {
+                "code": "pressure_example_the-pressure-is-mounting",
+                "text": "The pressure is mounting."
+            },
+            {
+                "code": "pressure_example_i-bought-a-pressure-cooker",
+                "text": "I bought a pressure cooker."
+            },
+            {
+                "code": "pressure_example_don-t-open-the-pressure-valve",
+                "text": "Don't open the pressure valve."
+            },
+            {
+                "code": "pressure_example_look-at-the-pressure-gauge",
+                "text": "Look at the pressure gauge."
+            },
+            {
+                "code": "pressure_example_he-has-a-high-pressure-job",
+                "text": "He has a high pressure job."
+            },
+            {
+                "code": "pressure_example_there-is-international-pressure-to-sign-the-treaty",
+                "text": "There is international pressure to sign the treaty."
+            },
+            {
+                "code": "pressure_example_he-is-under-considerable-pressure",
+                "text": "He is under considerable pressure."
+            },
+            {
+                "code": "pressure_example_the-air-pressure-is-dropping",
+                "text": "The air pressure is dropping."
+            },
+            {
+                "code": "pressure_example_the-added-pressure-of-owning-a-house-is-stressing-her-out",
+                "text": "The added pressure of owning a house is stressing her out."
+            },
+            {
+                "code": "pressure_example_peer-pressure-is-especially-strong-amongst-teens",
+                "text": "Peer pressure is especially strong amongst teens."
+            },
+            {
+                "code": "pressure_example_the-external-pressure-is-affecting-the-structure",
+                "text": "The external pressure is affecting the structure."
+            },
+            {
+                "code": "pressure_example_i-have-to-check-my-blood-pressure-daily",
+                "text": "I have to check my blood pressure daily."
+            },
+            {
+                "code": "pressure_example_i-am-under-pressure-to-finish-my-work",
+                "text": "I am under pressure to finish my work."
+            },
+            {
+                "code": "pressure_example_i-put-pressure-on-the-cut",
+                "text": "I put pressure on the cut."
+            },
+            {
+                "code": "pressure_example_we-are-getting-a-lot-of-pressure-from-the-president-to-finish-the-project-quickly",
+                "text": "We are getting a lot of pressure from the president to finish the project quickly."
+            }
+        ]
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "type": "(adv)",
+        "mean": "not inside a place or thing",
+        "examples": [
+            {
+                "code": "outside_example_i-usually-work-outside",
+                "text": "I usually work outside."
+            },
+            {
+                "code": "outside_example_we-stood-outside-and-waited",
+                "text": "We stood outside and waited."
+            },
+            {
+                "code": "outside_example_will-you-wait-outside",
+                "text": "Will you wait outside?"
+            }
+        ]
+    },
+    {
+        "type": "(adj)",
+        "mean": "located on the outer part of something",
+        "examples": [
+            {
+                "code": "outside_example_can-i-have-an-outside-line",
+                "text": "Can I have an outside line?"
+            },
+            {
+                "code": "outside_example_i-need-outside-assistance",
+                "text": "I need outside assistance."
+            },
+            {
+                "code": "outside_example_we-have-outside-investments",
+                "text": "We have outside investments."
+            }
+        ]
+    }
+]

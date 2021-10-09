@@ -1,0 +1,48 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "having both of something; having combined things",
+        "examples": [
+            {
+                "code": "mixed_example_the-movie-met-mixed-reviews",
+                "text": "The movie met mixed reviews."
+            },
+            {
+                "code": "mixed_example_i-ordered-a-mixed-drink",
+                "text": "I ordered a mixed drink."
+            },
+            {
+                "code": "mixed_example_the-class-met-with-mixed-results",
+                "text": "The class met with mixed results."
+            },
+            {
+                "code": "mixed_example_she-comes-from-a-mixed-background",
+                "text": "She comes from a mixed background."
+            },
+            {
+                "code": "mixed_example_we-have-mixed-emotions-about-each-other",
+                "text": "We have mixed emotions about each other."
+            },
+            {
+                "code": "mixed_example_this-has-been-a-mixed-blessing",
+                "text": "This has been a mixed blessing."
+            },
+            {
+                "code": "mixed_example_she-had-a-mixed-reaction-to-the-news",
+                "text": "She had a mixed reaction to the news."
+            },
+            {
+                "code": "mixed_example_he-is-sending-me-mixed-messages",
+                "text": "He is sending me mixed messages."
+            },
+            {
+                "code": "mixed_example_she-lives-in-an-ethnically-mixed-neighborhood",
+                "text": "She lives in an ethnically mixed neighborhood."
+            },
+            {
+                "code": "mixed_example_the-educational-level-is-evenly-mixed-in-each-classroom",
+                "text": "The educational level is evenly mixed in each classroom."
+            }
+        ]
+    }
+]

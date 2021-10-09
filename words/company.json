@@ -1,0 +1,80 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a business that makes or sells products and services",
+        "examples": [
+            {
+                "code": "company_example_starbucks-is-a-big-company-in-seattle",
+                "text": "Starbucks is a big company in Seattle."
+            },
+            {
+                "code": "company_example_she-works-for-a-successful-company",
+                "text": "She works for a successful company."
+            },
+            {
+                "code": "company_example_someone-wants-to-buy-our-family-owned-company",
+                "text": "Someone wants to buy our family-owned company."
+            },
+            {
+                "code": "company_example_that-state-owned-company-gets-support-from-the-government",
+                "text": "That state-owned company gets support from the government."
+            },
+            {
+                "code": "company_example_they-are-suing-the-drug-company",
+                "text": "They are suing the drug company."
+            },
+            {
+                "code": "company_example_he-started-his-company-with-very-little-money",
+                "text": "He started his company with very little money."
+            },
+            {
+                "code": "company_example_will-you-be-able-to-manage-the-company-by-yourself",
+                "text": "Will you be able to manage the company by yourself?"
+            },
+            {
+                "code": "company_example_our-company-is-growing-very-fast",
+                "text": "Our company is growing very fast."
+            },
+            {
+                "code": "company_example_he-will-sell-the-company-next-year",
+                "text": "He will sell the company next year."
+            },
+            {
+                "code": "company_example_i-would-like-to-join-your-company",
+                "text": "I would like to join your company."
+            },
+            {
+                "code": "company_example_he-is-leaving-the-company",
+                "text": "He is leaving the company."
+            },
+            {
+                "code": "company_example_that-company-makes-quality-products",
+                "text": "That company makes quality products."
+            },
+            {
+                "code": "company_example_the-company-boss-made-a-surprise-visit",
+                "text": "The company boss made a surprise visit."
+            },
+            {
+                "code": "company_example_they-hired-a-new-company-director",
+                "text": "They hired a new company director."
+            },
+            {
+                "code": "company_example_there-was-an-announcement-from-the-company-representative",
+                "text": "There was an announcement from the company representative."
+            },
+            {
+                "code": "company_example_the-job-comes-with-a-company-car",
+                "text": "The job comes with a company car."
+            },
+            {
+                "code": "company_example_she-did-not-like-the-company-name",
+                "text": "She did not like the company name."
+            },
+            {
+                "code": "company_example_he-has-friends-in-the-company",
+                "text": "He has friends in the company."
+            }
+        ]
+    }
+]

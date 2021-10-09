@@ -1,0 +1,108 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a thought, plan or suggestion",
+        "examples": [
+            {
+                "code": "idea_example_that-is-a-great-idea",
+                "text": "That is a great idea."
+            },
+            {
+                "code": "idea_example_what-an-interesting-idea",
+                "text": "What an interesting idea!"
+            },
+            {
+                "code": "idea_example_we-need-to-think-of-some-creative-ideas",
+                "text": "We need to think of some creative ideas."
+            },
+            {
+                "code": "idea_example_that-is-an-absurd-idea",
+                "text": "That is an absurd idea."
+            },
+            {
+                "code": "idea_example_that-project-started-with-an-ambitious-idea",
+                "text": "That project started with an ambitious idea."
+            },
+            {
+                "code": "idea_example_she-gave-me-a-basic-idea-of-what-she-wanted",
+                "text": "She gave me a basic idea of what she wanted."
+            },
+            {
+                "code": "idea_example_the-whole-idea-came-from-john",
+                "text": "The whole idea came from John."
+            },
+            {
+                "code": "idea_example_do-you-have-any-ideas-of-how-we-can-fix-the-problem",
+                "text": "Do you have any ideas of how we can fix the problem?"
+            },
+            {
+                "code": "idea_example_he-got-the-idea-from-his-brother",
+                "text": "He got the idea from his brother."
+            },
+            {
+                "code": "idea_example_let-s-try-to-come-up-with-a-new-idea",
+                "text": "Let's try to come up with a new idea."
+            },
+            {
+                "code": "idea_example_you-should-try-to-promote-your-idea",
+                "text": "You should try to promote your idea."
+            },
+            {
+                "code": "idea_example_we-all-welcome-the-idea-of-replacing-the-old-computers-at-work",
+                "text": "We all welcome the idea of replacing the old computers at work."
+            },
+            {
+                "code": "idea_example_you-should-consider-the-idea-of-pursuing-a-new-career",
+                "text": "You should consider the idea of pursuing a new career."
+            },
+            {
+                "code": "idea_example_brainstorming-is-a-good-way-of-generating-new-ideas",
+                "text": "Brainstorming is a good way of generating new ideas."
+            },
+            {
+                "code": "idea_example_let-s-explore-new-ideas",
+                "text": "Let's explore new ideas."
+            },
+            {
+                "code": "idea_example_we-need-to-implement-the-new-idea",
+                "text": "We need to implement the new idea."
+            },
+            {
+                "code": "idea_example_he-accused-the-company-of-stealing-his-idea",
+                "text": "He accused the company of stealing his idea."
+            },
+            {
+                "code": "idea_example_crazy-ideas-were-forming-in-his-mind",
+                "text": "Crazy ideas were forming in his mind."
+            },
+            {
+                "code": "idea_example_my-idea-didn-t-work-out-as-well-as-i-had-hoped",
+                "text": "My idea didn't work out as well as I had hoped."
+            },
+            {
+                "code": "idea_example_his-great-idea-led-to-a-successful-business",
+                "text": "His great idea led to a successful business."
+            },
+            {
+                "code": "idea_example_he-expressed-his-ideas-to-his-boss",
+                "text": "He expressed his ideas to his boss."
+            },
+            {
+                "code": "idea_example_he-rejected-her-ideas-again",
+                "text": "He rejected her ideas again."
+            },
+            {
+                "code": "idea_example_i-have-an-idea-about-how-to-resolve-the-issue",
+                "text": "I have an idea about how to resolve the issue."
+            },
+            {
+                "code": "idea_example_do-you-have-an-idea-for-improving-communication-in-your-department",
+                "text": "Do you have an idea for improving communication in your department?"
+            },
+            {
+                "code": "idea_example_he-had-the-idea-of-starting-a-new-company",
+                "text": "He had the idea of starting a new company."
+            }
+        ]
+    }
+]

@@ -1,0 +1,66 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "usual; what would be expected",
+        "examples": [
+            {
+                "code": "normal_example_she-looks-normal",
+                "text": "She looks normal."
+            },
+            {
+                "code": "normal_example_under-normal-circumstances-i-would-go",
+                "text": "Under normal circumstances, I would go."
+            },
+            {
+                "code": "normal_example_what-s-the-normal-way-to-do-this",
+                "text": "What's the normal way to do this?"
+            },
+            {
+                "code": "normal_example_she-had-a-normal-temperature",
+                "text": "She had a normal temperature."
+            },
+            {
+                "code": "normal_example_i-had-a-normal-childhood",
+                "text": "I had a normal childhood."
+            },
+            {
+                "code": "normal_example_she-is-a-normal-woman",
+                "text": "She is a normal woman."
+            },
+            {
+                "code": "normal_example_we-are-having-a-normal-conversation",
+                "text": "We are having a normal conversation."
+            },
+            {
+                "code": "normal_example_they-are-normal-people",
+                "text": "They are normal people."
+            },
+            {
+                "code": "normal_example_it-was-a-totally-normal-day",
+                "text": "It was a totally normal day."
+            },
+            {
+                "code": "normal_example_he-s-a-relatively-normal-person",
+                "text": "He's a relatively normal person."
+            },
+            {
+                "code": "normal_example_this-is-normal-for-me",
+                "text": "This is normal for me."
+            }
+        ]
+    },
+    {
+        "type": "(n)",
+        "mean": "the usual state or level",
+        "examples": [
+            {
+                "code": "normal_example_things-returned-to-normal",
+                "text": "Things returned to normal."
+            },
+            {
+                "code": "normal_example_temperatures-have-been-above-normal-all-winter",
+                "text": "Temperatures have been above normal all winter."
+            }
+        ]
+    }
+]

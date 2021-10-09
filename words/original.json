@@ -1,0 +1,60 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "first; interestingly different",
+        "examples": [
+            {
+                "code": "original_example_i-read-the-original-report",
+                "text": "I read the original report."
+            },
+            {
+                "code": "original_example_i-saw-the-original-cast-of-the-show",
+                "text": "I saw the original cast of the show."
+            },
+            {
+                "code": "original_example_i-kept-the-original-packaging",
+                "text": "I kept the original packaging."
+            },
+            {
+                "code": "original_example_my-original-intention-was-to-call-her",
+                "text": "My original intention was to call her."
+            },
+            {
+                "code": "original_example_what-was-the-original-story",
+                "text": "What was the original story?"
+            },
+            {
+                "code": "original_example_the-original-purpose-was-to-finish-the-work",
+                "text": "The original purpose was to finish the work."
+            },
+            {
+                "code": "original_example_the-original-ending-was-sad",
+                "text": "The original ending was sad."
+            },
+            {
+                "code": "original_example_the-original-flavor-is-the-best",
+                "text": "The original flavor is the best."
+            },
+            {
+                "code": "original_example_who-is-the-original-owner",
+                "text": "Who is the original owner?"
+            },
+            {
+                "code": "original_example_where-are-the-original-copies",
+                "text": "Where are the original copies?"
+            },
+            {
+                "code": "original_example_he-has-very-original-ideas",
+                "text": "He has very original ideas."
+            },
+            {
+                "code": "original_example_her-designs-are-completely-original",
+                "text": "Her designs are completely original."
+            },
+            {
+                "code": "original_example_she-is-the-original-owner-of-the-house",
+                "text": "She is the original owner of the house."
+            }
+        ]
+    }
+]

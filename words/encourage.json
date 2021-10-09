@@ -1,0 +1,48 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to give someone support or hope",
+        "examples": [
+            {
+                "code": "encourage_example_she-was-greatly-encouraged-by-the-kind-note",
+                "text": "She was greatly encouraged by the kind note."
+            },
+            {
+                "code": "encourage_example_we-should-strongly-encourage-good-study-habits",
+                "text": "We should strongly encourage good study habits."
+            },
+            {
+                "code": "encourage_example_her-friends-openly-encouraged-her-to-lie",
+                "text": "Her friends openly encouraged her to lie."
+            },
+            {
+                "code": "encourage_example_the-assignment-was-designed-to-encourage-creativity",
+                "text": "The assignment was designed to encourage creativity."
+            },
+            {
+                "code": "encourage_example_parents-aim-to-encourage-good-behavior-from-their-children",
+                "text": "Parents aim to encourage good behavior from their children."
+            },
+            {
+                "code": "encourage_example_my-teacher-highly-encourages-participation-during-class",
+                "text": "My teacher highly encourages participation during class."
+            },
+            {
+                "code": "encourage_example_the-new-policy-was-designed-to-encourage-diversity",
+                "text": "The new policy was designed to encourage diversity."
+            },
+            {
+                "code": "encourage_example_this-book-was-written-to-encourage-debate",
+                "text": "This book was written to encourage debate."
+            },
+            {
+                "code": "encourage_example_the-teacher-wanted-to-encourage-confidence-in-her-students",
+                "text": "The teacher wanted to encourage confidence in her students."
+            },
+            {
+                "code": "encourage_example_we-hope-the-new-laws-don-t-encourage-violence",
+                "text": "We hope the new laws don't encourage violence."
+            }
+        ]
+    }
+]

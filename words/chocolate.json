@@ -1,0 +1,52 @@
+[
+    {
+        "type": "(n)",
+        "mean": "sweet, brown food made from cacao beans",
+        "examples": [
+            {
+                "code": "chocolate_example_i-love-dark-chocolate",
+                "text": "I love dark chocolate."
+            },
+            {
+                "code": "chocolate_example_we-re-baking-with-unsweetened-chocolate",
+                "text": "We're baking with unsweetened chocolate."
+            },
+            {
+                "code": "chocolate_example_would-you-like-a-cup-of-hot-chocolate",
+                "text": "Would you like a cup of hot chocolate?"
+            },
+            {
+                "code": "chocolate_example_the-baker-breaks-up-the-chocolate-before-melting-it",
+                "text": "The baker breaks up the chocolate before melting it."
+            },
+            {
+                "code": "chocolate_example_the-chocolate-melted-in-the-sun",
+                "text": "The chocolate melted in the sun."
+            },
+            {
+                "code": "chocolate_example_the-peanuts-are-covered-in-chocolate",
+                "text": "The peanuts are covered in chocolate."
+            },
+            {
+                "code": "chocolate_example_she-added-chocolate-chips-into-the-cake",
+                "text": "She added chocolate chips into the cake."
+            },
+            {
+                "code": "chocolate_example_she-loves-chocolate-bars",
+                "text": "She loves chocolate bars."
+            },
+            {
+                "code": "chocolate_example_i-would-like-chocolate-brownies-for-my-birthday",
+                "text": "I would like chocolate brownies for my birthday."
+            },
+            {
+                "code": "chocolate_example_he-s-buying-a-chocolate-milkshake",
+                "text": "He's buying a chocolate milkshake."
+            },
+            {
+                "code": "chocolate_example_do-you-have-any-chocolate-sauce",
+                "text": "Do you have any chocolate sauce?"
+            }
+        ]
+    }
+]

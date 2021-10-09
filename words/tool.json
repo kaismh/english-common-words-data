@@ -1,0 +1,56 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a piece of equipment used for fixing or building things; something that helps you accomplish something",
+        "examples": [
+            {
+                "code": "tool_example_everyone-should-have-a-set-of-basic-tools",
+                "text": "Everyone should have a set of basic tools."
+            },
+            {
+                "code": "tool_example_this-is-the-right-tool-for-the-job",
+                "text": "This is the right tool for the job."
+            },
+            {
+                "code": "tool_example_power-tools-are-required-for-the-job",
+                "text": "Power tools are required for the job."
+            },
+            {
+                "code": "tool_example_schools-use-various-educational-tools-to-help-students",
+                "text": "Schools use various educational tools to help students."
+            },
+            {
+                "code": "tool_example_the-internet-has-become-a-helpful-tool-for-many-companies-today",
+                "text": "The Internet has become a helpful tool for many companies today."
+            },
+            {
+                "code": "tool_example_he-uses-dangerous-tools",
+                "text": "He uses dangerous tools."
+            },
+            {
+                "code": "tool_example_you-should-sharpen-your-tools-often",
+                "text": "You should sharpen your tools often."
+            },
+            {
+                "code": "tool_example_the-computer-company-is-constantly-developing-new-tools",
+                "text": "The computer company is constantly developing new tools."
+            },
+            {
+                "code": "tool_example_she-uses-online-tools-to-create-designs",
+                "text": "She uses online tools to create designs."
+            },
+            {
+                "code": "tool_example_the-internet-has-become-a-helpful-tool-for-many-companies-today",
+                "text": "The Internet has become a helpful tool for many companies today."
+            },
+            {
+                "code": "tool_example_she-wears-a-tool-belt",
+                "text": "She wears a tool belt."
+            },
+            {
+                "code": "tool_example_he-received-a-tool-box-for-his-birthday",
+                "text": "He received a tool box for his birthday."
+            }
+        ]
+    }
+]

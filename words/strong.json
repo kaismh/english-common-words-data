@@ -1,0 +1,60 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "having great physical or mental strength; having a sharp taste or odor",
+        "examples": [
+            {
+                "code": "strong_example_she-felt-strong-after-the-surgery",
+                "text": "She felt strong after the surgery."
+            },
+            {
+                "code": "strong_example_our-team-finished-strong",
+                "text": "Our team finished strong."
+            },
+            {
+                "code": "strong_example_garlic-and-onions-smell-strong",
+                "text": "Garlic and onions smell strong."
+            },
+            {
+                "code": "strong_example_all-the-weight-lifting-has-made-him-very-strong",
+                "text": "All the weight lifting has made him very strong."
+            },
+            {
+                "code": "strong_example_she-is-extremely-strong",
+                "text": "She is extremely strong."
+            },
+            {
+                "code": "strong_example_i-don-t-think-you-re-strong-enough-to-lift-the-table",
+                "text": "I don't think you're strong enough to lift the table."
+            },
+            {
+                "code": "strong_example_he-is-not-very-physically-strong",
+                "text": "He is not very physically strong."
+            },
+            {
+                "code": "strong_example_he-was-showing-off-his-strong-muscles",
+                "text": "He was showing off his strong muscles."
+            },
+            {
+                "code": "strong_example_the-drink-has-a-strong-smell",
+                "text": "The drink has a strong smell."
+            },
+            {
+                "code": "strong_example_i-have-a-strong-affection-for-her",
+                "text": "I have a strong affection for her."
+            },
+            {
+                "code": "strong_example_there-is-strong-proof-that-he-is-innocent",
+                "text": "There is strong proof that he is innocent."
+            },
+            {
+                "code": "strong_example_there-are-strong-criticisms-of-his-teaching-style",
+                "text": "There are strong criticisms of his teaching style."
+            },
+            {
+                "code": "strong_example_there-was-strong-opposition-to-the-war",
+                "text": "There was strong opposition to the war."
+            }
+        ]
+    }
+]

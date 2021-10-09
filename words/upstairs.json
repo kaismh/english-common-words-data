@@ -1,0 +1,42 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "located above the first floor of a building or house",
+        "examples": [
+            {
+                "code": "upstairs_example_please-use-the-upstairs-bathroom",
+                "text": "Please use the upstairs bathroom."
+            },
+            {
+                "code": "upstairs_example_he-lives-in-the-upstairs-apartment",
+                "text": "He lives in the upstairs apartment."
+            },
+            {
+                "code": "upstairs_example_our-upstairs-neighbor-is-very-noisy",
+                "text": "Our upstairs neighbor is very noisy."
+            }
+        ]
+    },
+    {
+        "type": "(n)",
+        "mean": "the floor in a building or house that is above the first floor",
+        "examples": [
+            {
+                "code": "upstairs_example_the-upstairs-is-empty",
+                "text": "The upstairs is empty."
+            },
+            {
+                "code": "upstairs_example_we-live-upstairs",
+                "text": "We live upstairs."
+            },
+            {
+                "code": "upstairs_example_they-rent-the-upstairs",
+                "text": "They rent the upstairs."
+            },
+            {
+                "code": "upstairs_example_we-moved-the-bathroom-upstairs",
+                "text": "We moved the bathroom upstairs."
+            }
+        ]
+    }
+]

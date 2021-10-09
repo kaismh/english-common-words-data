@@ -1,0 +1,60 @@
+[
+    {
+        "type": "(n)",
+        "mean": "something that might happen or exist",
+        "examples": [
+            {
+                "code": "possibility_example_let-s-explore-all-of-the-possibilities",
+                "text": "Let's explore all of the possibilities."
+            },
+            {
+                "code": "possibility_example_my-job-has-opened-up-new-possibilities-for-me",
+                "text": "My job has opened up new possibilities for me."
+            },
+            {
+                "code": "possibility_example_don-t-rule-out-the-possibility-of-a-company-merger",
+                "text": "Don't rule out the possibility of a company merger."
+            },
+            {
+                "code": "possibility_example_you-need-to-face-the-possibility-that-she-will-not-come-back",
+                "text": "You need to face the possibility that she will not come back."
+            },
+            {
+                "code": "possibility_example_he-raised-a-new-possibility",
+                "text": "He raised a new possibility."
+            },
+            {
+                "code": "possibility_example_how-can-we-reduce-the-possibility-of-bankruptcy",
+                "text": "How can we reduce the possibility of bankruptcy?"
+            },
+            {
+                "code": "possibility_example_don-t-risk-the-possibility-of-losing-the-house",
+                "text": "Don't risk the possibility of losing the house."
+            },
+            {
+                "code": "possibility_example_losing-the-house-remains-a-possibility",
+                "text": "Losing the house remains a possibility."
+            },
+            {
+                "code": "possibility_example_there-is-a-tiny-possibility-that-i-miss-the-show",
+                "text": "There is a tiny possibility that I miss the show."
+            },
+            {
+                "code": "possibility_example_you-will-have-endless-possibilities-at-your-new-job",
+                "text": "You will have endless possibilities at your new job."
+            },
+            {
+                "code": "possibility_example_there-are-many-possibilities-out-there",
+                "text": "There are many possibilities out there."
+            },
+            {
+                "code": "possibility_example_that-s-the-only-possibility-i-can-think-of",
+                "text": "That's the only possibility I can think of."
+            },
+            {
+                "code": "possibility_example_there-is-a-possibility-of-rain-this-afternoon",
+                "text": "There is a possibility of rain this afternoon."
+            }
+        ]
+    }
+]

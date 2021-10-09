@@ -1,0 +1,56 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to defeat something; to be strongly affected by something",
+        "examples": [
+            {
+                "code": "overcome_example_i-managed-to-overcome-my-issues",
+                "text": "I managed to overcome my issues."
+            },
+            {
+                "code": "overcome_example_she-helped-me-overcome-my-problems",
+                "text": "She helped me overcome my problems."
+            },
+            {
+                "code": "overcome_example_sleep-overcame-him-finally",
+                "text": "Sleep overcame him finally."
+            },
+            {
+                "code": "overcome_example_she-overcame-her-fears",
+                "text": "She overcame her fears."
+            },
+            {
+                "code": "overcome_example_i-overcame-the-obstacles",
+                "text": "I overcame the obstacles."
+            },
+            {
+                "code": "overcome_example_he-overcame-temptation",
+                "text": "He overcame temptation."
+            },
+            {
+                "code": "overcome_example_we-overcame-our-challenges",
+                "text": "We overcame our challenges."
+            },
+            {
+                "code": "overcome_example_i-completely-overcame-my-fear-of-heights",
+                "text": "I completely overcame my fear of heights."
+            },
+            {
+                "code": "overcome_example_she-easily-overcame-her-obstacles",
+                "text": "She easily overcame her obstacles."
+            },
+            {
+                "code": "overcome_example_he-was-almost-overcome-with-smoke",
+                "text": "He was almost overcome with smoke."
+            },
+            {
+                "code": "overcome_example_she-was-completely-overcome-with-joy",
+                "text": "She was completely overcome with joy."
+            },
+            {
+                "code": "overcome_example_i-was-overcome-with-emotion",
+                "text": "I was overcome with emotion."
+            }
+        ]
+    }
+]

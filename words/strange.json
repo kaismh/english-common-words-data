@@ -1,0 +1,48 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "different from what is usual, normal or expected",
+        "examples": [
+            {
+                "code": "strange_example_she-acted-very-strange-today",
+                "text": "She acted very strange today."
+            },
+            {
+                "code": "strange_example_for-some-reason-the-pizza-tasted-strange",
+                "text": "For some reason, the pizza tasted strange."
+            },
+            {
+                "code": "strange_example_her-child-s-behavior-was-considered-very-strange",
+                "text": "Her child's behavior was considered very strange."
+            },
+            {
+                "code": "strange_example_he-was-acting-extremely-strange-tonight",
+                "text": "He was acting extremely strange tonight."
+            },
+            {
+                "code": "strange_example_he-s-nice-but-a-little-strange",
+                "text": "He's nice, but a little strange."
+            },
+            {
+                "code": "strange_example_the-food-tasted-strange-to-us",
+                "text": "The food tasted strange to us."
+            },
+            {
+                "code": "strange_example_he-has-a-strange-habit",
+                "text": "He has a strange habit."
+            },
+            {
+                "code": "strange_example_he-gave-us-a-strange-look",
+                "text": "He gave us a strange look."
+            },
+            {
+                "code": "strange_example_that-was-a-strange-idea",
+                "text": "That was a strange idea."
+            },
+            {
+                "code": "strange_example_i-had-a-strange-dream",
+                "text": "I had a strange dream."
+            }
+        ]
+    }
+]

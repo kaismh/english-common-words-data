@@ -1,0 +1,36 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to expect or be excited about something",
+        "examples": [
+            {
+                "code": "anticipate_example_i-am-highly-anticipating-my-vacation",
+                "text": "I am highly anticipating my vacation."
+            },
+            {
+                "code": "anticipate_example_i-am-nervously-anticipating-my-test-results",
+                "text": "I am nervously anticipating my test results."
+            },
+            {
+                "code": "anticipate_example_we-were-anticipating-your-arrival",
+                "text": "We were anticipating your arrival."
+            },
+            {
+                "code": "anticipate_example_he-s-always-anticipating-a-problem",
+                "text": "He's always anticipating a problem."
+            },
+            {
+                "code": "anticipate_example_the-new-restaurant-is-anticipating-a-large-crowd",
+                "text": "The new restaurant is anticipating a large crowd."
+            },
+            {
+                "code": "anticipate_example_we-don-t-anticipate-things-getting-any-better",
+                "text": "We don't anticipate things getting any better."
+            },
+            {
+                "code": "anticipate_example_the-bill-was-higher-than-we-anticipated",
+                "text": "The bill was higher than we anticipated."
+            }
+        ]
+    }
+]

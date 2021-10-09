@@ -1,0 +1,88 @@
+[
+    {
+        "type": "(n)",
+        "mean": "time spent away from home for enjoyment",
+        "examples": [
+            {
+                "code": "vacation_example_i-want-to-go-on-a-tropical-vacation",
+                "text": "I want to go on a tropical vacation."
+            },
+            {
+                "code": "vacation_example_we-take-an-annual-vacation-to-palm-springs",
+                "text": "We take an annual vacation to Palm Springs."
+            },
+            {
+                "code": "vacation_example_the-children-are-on-summer-vacation",
+                "text": "The children are on summer vacation."
+            },
+            {
+                "code": "vacation_example_we-need-a-little-vacation",
+                "text": "We need a little vacation."
+            },
+            {
+                "code": "vacation_example_we-go-on-a-family-vacation-once-a-year",
+                "text": "We go on a family vacation once a year."
+            },
+            {
+                "code": "vacation_example_hawaii-is-my-dream-vacation",
+                "text": "Hawaii is my dream vacation."
+            },
+            {
+                "code": "vacation_example_we-take-a-vacation-to-europe-every-five-years",
+                "text": "We take a vacation to Europe every five years."
+            },
+            {
+                "code": "vacation_example_we-are-planning-a-vacation-to-hawaii",
+                "text": "We are planning a vacation to Hawaii."
+            },
+            {
+                "code": "vacation_example_i-spent-my-vacation-in-mexico",
+                "text": "I spent my vacation in Mexico."
+            },
+            {
+                "code": "vacation_example_we-booked-our-vacation-with-a-travel-agent",
+                "text": "We booked our vacation with a travel agent."
+            },
+            {
+                "code": "vacation_example_we-had-to-cancel-our-dream-vacation",
+                "text": "We had to cancel our dream vacation."
+            },
+            {
+                "code": "vacation_example_i-need-a-vacation",
+                "text": "I need a vacation."
+            },
+            {
+                "code": "vacation_example_rain-ruined-our-vacation",
+                "text": "Rain ruined our vacation."
+            },
+            {
+                "code": "vacation_example_family-vacations-are-the-best",
+                "text": "Family vacations are the best."
+            },
+            {
+                "code": "vacation_example_hawaii-is-a-popular-vacation-spot",
+                "text": "Hawaii is a popular vacation spot."
+            },
+            {
+                "code": "vacation_example_we-own-a-vacation-home",
+                "text": "We own a vacation home."
+            },
+            {
+                "code": "vacation_example_what-are-your-vacation-plans",
+                "text": "What are your vacation plans?"
+            },
+            {
+                "code": "vacation_example_would-you-like-to-see-our-vacation-photos",
+                "text": "Would you like to see our vacation photos?"
+            },
+            {
+                "code": "vacation_example_we-are-going-on-a-vacation-to-europe",
+                "text": "We are going on a vacation to Europe."
+            },
+            {
+                "code": "vacation_example_we-are-planning-a-vacation-for-our-anniversary",
+                "text": "We are planning a vacation for our anniversary."
+            }
+        ]
+    }
+]

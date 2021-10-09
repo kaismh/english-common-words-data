@@ -1,0 +1,40 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to exchange something for money",
+        "examples": [
+            {
+                "code": "sell_example_we-were-unable-to-sell-our-house",
+                "text": "We were unable to sell our house."
+            },
+            {
+                "code": "sell_example_john-wants-to-sell-his-car",
+                "text": "John wants to sell his car."
+            },
+            {
+                "code": "sell_example_the-store-sells-shoes-at-low-prices",
+                "text": "The store sells shoes at low prices."
+            },
+            {
+                "code": "sell_example_they-sold-their-car-for-5000",
+                "text": "They sold their car for $5000."
+            },
+            {
+                "code": "sell_example_she-sold-her-house-to-a-friend",
+                "text": "She sold her house to a friend."
+            },
+            {
+                "code": "sell_example_the-company-sells-cars",
+                "text": "The company sells cars."
+            },
+            {
+                "code": "sell_example_this-store-sells-only-shoes",
+                "text": "This store sells only shoes."
+            },
+            {
+                "code": "sell_example_the-store-sells-my-books-for-5",
+                "text": "The store sells my books for $5."
+            }
+        ]
+    }
+]

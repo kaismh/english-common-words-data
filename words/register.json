@@ -1,0 +1,66 @@
+[
+    {
+        "type": "(n)",
+        "mean": "an official list of names; a machine for counting money",
+        "examples": [
+            {
+                "code": "register_example_i-looked-for-his-name-in-the-guest-register",
+                "text": "I looked for his name in the guest register."
+            },
+            {
+                "code": "register_example_i-work-the-cash-register",
+                "text": "I work the cash register."
+            },
+            {
+                "code": "register_example_who-is-working-the-register",
+                "text": "Who is working the register?"
+            },
+            {
+                "code": "register_example_i-found-his-name-in-the-guest-register",
+                "text": "I found his name in the guest register."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to sign up for something",
+        "examples": [
+            {
+                "code": "register_example_i-need-to-register-for-my-classes",
+                "text": "I need to register for my classes."
+            },
+            {
+                "code": "register_example_you-should-register-for-school",
+                "text": "You should register for school."
+            },
+            {
+                "code": "register_example_i-registered-for-school",
+                "text": "I registered for school."
+            },
+            {
+                "code": "register_example_i-officially-registered-for-college",
+                "text": "I officially registered for college."
+            },
+            {
+                "code": "register_example_you-did-not-properly-register-for-a-marriage-license",
+                "text": "You did not properly register for a marriage license."
+            },
+            {
+                "code": "register_example_i-registered-online",
+                "text": "I registered online."
+            },
+            {
+                "code": "register_example_she-registered-for-school",
+                "text": "She registered for school."
+            },
+            {
+                "code": "register_example_i-registered-with-my-parents",
+                "text": "I registered with my parents."
+            },
+            {
+                "code": "register_example_i-am-registered-as-the-vehicle-owner",
+                "text": "I am registered as the vehicle owner."
+            }
+        ]
+    }
+]

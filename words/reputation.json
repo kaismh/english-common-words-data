@@ -1,0 +1,64 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the opinion people have about someone",
+        "examples": [
+            {
+                "code": "reputation_example_we-have-a-great-reputation-in-this-town",
+                "text": "We have a great reputation in this town."
+            },
+            {
+                "code": "reputation_example_he-destroyed-my-reputation",
+                "text": "He destroyed my reputation."
+            },
+            {
+                "code": "reputation_example_can-the-shamed-politician-salvage-his-reputation",
+                "text": "Can the shamed politician salvage his reputation?"
+            },
+            {
+                "code": "reputation_example_she-deserves-her-reputation",
+                "text": "She deserves her reputation."
+            },
+            {
+                "code": "reputation_example_her-reputation-suffered-after-the-scandal",
+                "text": "Her reputation suffered after the scandal."
+            },
+            {
+                "code": "reputation_example_the-company-s-reputation-is-based-on-good-reviews",
+                "text": "The company's reputation is based on good reviews."
+            },
+            {
+                "code": "reputation_example_he-gained-quite-a-reputation-after-the-incident",
+                "text": "He gained quite a reputation after the incident."
+            },
+            {
+                "code": "reputation_example_how-can-we-improve-the-company-s-reputation",
+                "text": "How can we improve the company's reputation?"
+            },
+            {
+                "code": "reputation_example_she-has-earned-a-solid-reputation",
+                "text": "She has earned a solid reputation."
+            },
+            {
+                "code": "reputation_example_she-has-a-tarnished-reputation",
+                "text": "She has a tarnished reputation."
+            },
+            {
+                "code": "reputation_example_his-professional-reputation-as-a-trustworthy-individual-is-at-risk",
+                "text": "His professional reputation as a trustworthy individual is at risk."
+            },
+            {
+                "code": "reputation_example_he-has-an-international-reputation",
+                "text": "He has an international reputation."
+            },
+            {
+                "code": "reputation_example_the-school-is-known-for-its-academic-reputation",
+                "text": "The school is known for its academic reputation."
+            },
+            {
+                "code": "reputation_example_her-reputation-as-a-strict-teacher-is-well-earned",
+                "text": "Her reputation as a strict teacher is well-earned."
+            }
+        ]
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to have the same belief or opinion",
+        "examples": [
+            {
+                "code": "agree_example_when-it-comes-to-politics-we-completely-agree",
+                "text": "When it comes to politics, we completely agree."
+            },
+            {
+                "code": "agree_example_she-finally-agreed-to-marry-me",
+                "text": "She finally agreed to marry me."
+            },
+            {
+                "code": "agree_example_we-unanimously-agree-that-his-idea-will-work",
+                "text": "We unanimously agree that his idea will work."
+            },
+            {
+                "code": "agree_example_he-graciously-agreed-to-drive-me-home",
+                "text": "He graciously agreed to drive me home."
+            },
+            {
+                "code": "agree_example_we-have-to-agree-on-a-research-topic",
+                "text": "We have to agree on a research topic."
+            },
+            {
+                "code": "agree_example_i-tend-to-agree-with-her-opinions",
+                "text": "I tend to agree with her opinions."
+            },
+            {
+                "code": "agree_example_we-can-never-agree-about-where-to-eat",
+                "text": "We can never agree about where to eat."
+            },
+            {
+                "code": "agree_example_i-don-t-agree-with-you",
+                "text": "I don't agree with you."
+            },
+            {
+                "code": "agree_example_she-agreed-to-my-suggestion",
+                "text": "She agreed to my suggestion."
+            }
+        ]
+    }
+]

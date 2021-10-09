@@ -1,0 +1,40 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to think that something is true or could happen",
+        "examples": [
+            {
+                "code": "suppose_example_dogs-are-generally-supposed-to-be-loyal",
+                "text": "Dogs are generally supposed to be loyal."
+            },
+            {
+                "code": "suppose_example_summers-are-commonly-supposed-to-be-warm",
+                "text": "Summers are commonly supposed to be warm."
+            },
+            {
+                "code": "suppose_example_just-suppose-you-were-me-what-would-you-do",
+                "text": "Just suppose you were me, what would you do?"
+            },
+            {
+                "code": "suppose_example_he-was-supposed-to-be-here-at-noon",
+                "text": "He was supposed to be here at noon."
+            },
+            {
+                "code": "suppose_example_you-are-supposed-to-be-at-school",
+                "text": "You are supposed to be at school."
+            },
+            {
+                "code": "suppose_example_suppose-you-won-a-million-dollars-what-would-you-do-with-the-money",
+                "text": "Suppose you won a million dollars. What would you do with the money?"
+            },
+            {
+                "code": "suppose_example_suppose-for-a-second-you-were-rich-and-famous-where-would-you-live",
+                "text": "Suppose for a second you were rich and famous. Where would you live?"
+            },
+            {
+                "code": "suppose_example_i-suppose-you-are-right-again",
+                "text": "I suppose you are right again."
+            }
+        ]
+    }
+]

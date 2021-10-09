@@ -1,0 +1,48 @@
+[
+    {
+        "type": "(n)",
+        "mean": "unnatural substance",
+        "examples": [
+            {
+                "code": "chemical_example_we-try-to-avoid-synthetic-chemicals",
+                "text": "We try to avoid synthetic chemicals."
+            },
+            {
+                "code": "chemical_example_the-factory-dumped-dangerous-chemicals-into-the-river",
+                "text": "The factory dumped dangerous chemicals into the river."
+            },
+            {
+                "code": "chemical_example_they-manufacture-chemicals",
+                "text": "They manufacture chemicals."
+            },
+            {
+                "code": "chemical_example_the-government-needs-to-control-where-chemicals-are-dumped",
+                "text": "The government needs to control where chemicals are dumped."
+            },
+            {
+                "code": "chemical_example_this-food-contains-chemicals",
+                "text": "This food contains chemicals."
+            },
+            {
+                "code": "chemical_example_we-don-t-use-chemicals-on-our-farm",
+                "text": "We don't use chemicals on our farm."
+            },
+            {
+                "code": "chemical_example_the-vegetables-may-have-been-exposed-to-chemicals",
+                "text": "The vegetables may have been exposed to chemicals."
+            },
+            {
+                "code": "chemical_example_we-don-t-want-a-chemical-factory-near-our-home",
+                "text": "We don't want a chemical factory near our home."
+            },
+            {
+                "code": "chemical_example_they-were-developing-chemical-weapons",
+                "text": "They were developing chemical weapons."
+            },
+            {
+                "code": "chemical_example_the-chemical-industry-should-be-regulated",
+                "text": "The chemical industry should be regulated."
+            }
+        ]
+    }
+]

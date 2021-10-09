@@ -1,0 +1,138 @@
+[
+    {
+        "type": "(n)",
+        "mean": "organized activities over a period of time to achieve a certain goal",
+        "examples": [
+            {
+                "code": "campaign_example_the-politician-ran-a-big-campaign",
+                "text": "The politician ran a big campaign."
+            },
+            {
+                "code": "campaign_example_it-was-an-effective-campaign",
+                "text": "It was an effective campaign."
+            },
+            {
+                "code": "campaign_example_they-ran-a-bitter-campaign",
+                "text": "They ran a bitter campaign."
+            },
+            {
+                "code": "campaign_example_we-formed-a-joint-campaign",
+                "text": "We formed a joint campaign."
+            },
+            {
+                "code": "campaign_example_her-congressional-campaign-was-successful",
+                "text": "Her congressional campaign was successful."
+            },
+            {
+                "code": "campaign_example_the-democratic-campaign-will-be-very-competitive",
+                "text": "The Democratic campaign will be very competitive."
+            },
+            {
+                "code": "campaign_example_he-ran-an-ad-campaign-to-get-more-publicity",
+                "text": "He ran an ad campaign to get more publicity."
+            },
+            {
+                "code": "campaign_example_we-were-very-successful-with-our-fundraising-campaign",
+                "text": "We were very successful with our fundraising campaign."
+            },
+            {
+                "code": "campaign_example_they-began-a-lengthy-campaign",
+                "text": "They began a lengthy campaign."
+            },
+            {
+                "code": "campaign_example_they-conducted-a-clean-campaign",
+                "text": "They conducted a clean campaign."
+            },
+            {
+                "code": "campaign_example_we-need-to-organize-a-new-campaign",
+                "text": "We need to organize a new campaign."
+            },
+            {
+                "code": "campaign_example_will-you-join-our-campaign",
+                "text": "Will you join our campaign?"
+            },
+            {
+                "code": "campaign_example_near-the-end-they-intensified-their-campaigns",
+                "text": "Near the end they intensified their campaigns."
+            },
+            {
+                "code": "campaign_example_her-campaign-aimed-at-changing-an-unfair-law",
+                "text": "Her campaign aimed at changing an unfair law."
+            },
+            {
+                "code": "campaign_example_his-campaign-failed",
+                "text": "His campaign failed."
+            },
+            {
+                "code": "campaign_example_i-am-her-campaign-aide",
+                "text": "I am her campaign aide."
+            },
+            {
+                "code": "campaign_example_who-is-on-your-campaign-team",
+                "text": "Who is on your campaign team?"
+            },
+            {
+                "code": "campaign_example_this-is-our-campaign-headquarters",
+                "text": "This is our campaign headquarters."
+            },
+            {
+                "code": "campaign_example_this-has-become-an-important-campaign-issue",
+                "text": "This has become an important campaign issue."
+            },
+            {
+                "code": "campaign_example_he-ran-a-lot-of-campaign-ads",
+                "text": "He ran a lot of campaign ads."
+            },
+            {
+                "code": "campaign_example_we-need-more-campaign-contributions",
+                "text": "We need more campaign contributions."
+            },
+            {
+                "code": "campaign_example_the-campaign-trail-will-be-long-and-difficult",
+                "text": "The campaign trail will be long and difficult."
+            },
+            {
+                "code": "campaign_example_he-ran-a-hard-campaign-against-his-opponent",
+                "text": "He ran a hard campaign against his opponent."
+            },
+            {
+                "code": "campaign_example_the-campaign-by-the-candidate-was-hard-fought",
+                "text": "The campaign by the candidate was hard-fought."
+            },
+            {
+                "code": "campaign_example_we-are-campaigning-for-more-parks-in-the-city",
+                "text": "We are campaigning for more parks in the city."
+            },
+            {
+                "code": "campaign_example_i-hardly-slept-during-the-campaign",
+                "text": "I hardly slept during the campaign."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to participate in organized activities for a certain goal",
+        "examples": [
+            {
+                "code": "campaign_example_he-is-actively-campaigning-for-the-promotion",
+                "text": "He is actively campaigning for the promotion."
+            },
+            {
+                "code": "campaign_example_the-candidates-must-campaign-hard-if-they-want-to-win",
+                "text": "The candidates must campaign hard if they want to win."
+            },
+            {
+                "code": "campaign_example_we-successfully-campaigned-for-new-sidewalks-on-our-street",
+                "text": "We successfully campaigned for new sidewalks on our street."
+            },
+            {
+                "code": "campaign_example_they-are-campaigning-against-allowing-a-liquor-store-in-the-neighborhood",
+                "text": "They are campaigning against allowing a liquor store in the neighborhood."
+            },
+            {
+                "code": "campaign_example_they-are-campaigning-for-repairs-of-the-road-conditions",
+                "text": "They are campaigning for repairs of the road conditions."
+            }
+        ]
+    }
+]

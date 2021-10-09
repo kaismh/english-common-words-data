@@ -1,0 +1,60 @@
+[
+    {
+        "type": "(n)",
+        "mean": "an image in a mirror, water or shiny surface; the act of sending back light, sound or heat from a surface; a description of someone; a long, deep thought",
+        "examples": [
+            {
+                "code": "reflection_example_his-reflection-appeared-in-the-water",
+                "text": "His reflection appeared in the water."
+            },
+            {
+                "code": "reflection_example_she-admired-her-reflection-in-the-window",
+                "text": "She admired her reflection in the window."
+            },
+            {
+                "code": "reflection_example_his-comments-give-a-true-reflection-of-his-personality",
+                "text": "His comments give a true reflection of his personality."
+            },
+            {
+                "code": "reflection_example_i-saw-a-clear-reflection-in-the-pool",
+                "text": "I saw a clear reflection in the pool."
+            },
+            {
+                "code": "reflection_example_there-is-light-reflection-from-the-windows",
+                "text": "There is light reflection from the windows."
+            },
+            {
+                "code": "reflection_example_her-behavior-gives-a-true-reflection-of-her-personality",
+                "text": "Her behavior gives a true reflection of her personality."
+            },
+            {
+                "code": "reflection_example_that-test-is-a-poor-reflection-of-her-overall-grades",
+                "text": "That test is a poor reflection of her overall grades."
+            },
+            {
+                "code": "reflection_example_that-child-s-lack-of-manners-is-a-direct-reflection-of-poor-parenting",
+                "text": "That child's lack of manners is a direct reflection of poor parenting."
+            },
+            {
+                "code": "reflection_example_after-careful-reflection-i-decided-to-take-a-year-off-from-college",
+                "text": "After careful reflection, I decided to take a year off from college."
+            },
+            {
+                "code": "reflection_example_i-saw-my-reflection-on-the-glass-table",
+                "text": "I saw my reflection on the glass table."
+            },
+            {
+                "code": "reflection_example_there-is-a-reflection-of-light-from-the-window",
+                "text": "There is a reflection of light from the window."
+            },
+            {
+                "code": "reflection_example_that-is-not-a-reflection-of-his-real-personality",
+                "text": "That is not a reflection of his real personality."
+            },
+            {
+                "code": "reflection_example_after-careful-reflection-i-have-made-a-decision",
+                "text": "After careful reflection, I have made a decision."
+            }
+        ]
+    }
+]

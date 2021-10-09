@@ -1,0 +1,64 @@
+[
+    {
+        "type": "(adv)",
+        "mean": "from a lower to higher place",
+        "examples": [
+            {
+                "code": "up_example_he-looked-up-at-the-sky",
+                "text": "He looked up at the sky."
+            },
+            {
+                "code": "up_example_she-hung-a-photo-up-on-the-wall",
+                "text": "She hung a photo up on the wall."
+            },
+            {
+                "code": "up_example_they-climbed-up-to-the-top-of-the-mountain",
+                "text": "They climbed up to the top of the mountain."
+            }
+        ]
+    },
+    {
+        "type": "(adj)",
+        "mean": "in a high place",
+        "examples": [
+            {
+                "code": "up_example_we-took-the-up-escalator-to-the-next-floor",
+                "text": "We took the up escalator to the next floor."
+            },
+            {
+                "code": "up_example_we-took-the-up-escalator",
+                "text": "We took the up escalator."
+            },
+            {
+                "code": "up_example_he-pushed-the-up-button-for-the-elevator",
+                "text": "He pushed the up button for the elevator."
+            }
+        ]
+    },
+    {
+        "type": "(prep)",
+        "mean": "from a lower to higher place",
+        "examples": [
+            {
+                "code": "up_example_we-walked-up-the-street",
+                "text": "We walked up the street."
+            },
+            {
+                "code": "up_example_we-climbed-up-the-mountain",
+                "text": "We climbed up the mountain."
+            },
+            {
+                "code": "up_example_prices-are-going-up",
+                "text": "Prices are going up."
+            },
+            {
+                "code": "up_example_i-got-up-early-today",
+                "text": "I got up early today."
+            },
+            {
+                "code": "up_example_wake-up",
+                "text": "Wake up!"
+            }
+        ]
+    }
+]

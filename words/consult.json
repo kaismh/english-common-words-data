@@ -1,0 +1,40 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to go to someone for advice",
+        "examples": [
+            {
+                "code": "consult_example_she-closely-consulted-her-parents-about-her-divorce",
+                "text": "She closely consulted her parents about her divorce."
+            },
+            {
+                "code": "consult_example_he-frequently-consults-his-lawyer-about-legal-issues",
+                "text": "He frequently consults his lawyer about legal issues."
+            },
+            {
+                "code": "consult_example_she-was-properly-consulted-by-her-attorney",
+                "text": "She was properly consulted by her attorney."
+            },
+            {
+                "code": "consult_example_you-need-to-consult-your-doctor-before-dieting",
+                "text": "You need to consult your doctor before dieting."
+            },
+            {
+                "code": "consult_example_i-would-consult-your-teacher-about-your-question",
+                "text": "I would consult your teacher about your question."
+            },
+            {
+                "code": "consult_example_they-will-consult-with-their-team",
+                "text": "They will consult with their team."
+            },
+            {
+                "code": "consult_example_i-would-consult-the-lawyer",
+                "text": "I would consult the lawyer."
+            },
+            {
+                "code": "consult_example_first-consult-the-map-for-directions",
+                "text": "First consult the map for directions."
+            }
+        ]
+    }
+]

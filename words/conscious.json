@@ -1,0 +1,44 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "aware of something; awake and able to see, hear, and feel",
+        "examples": [
+            {
+                "code": "conscious_example_the-child-was-barely-conscious-after-the-accident",
+                "text": "The child was barely conscious after the accident."
+            },
+            {
+                "code": "conscious_example_the-president-is-highly-conscious-of-america-s-problems",
+                "text": "The president is highly conscious of America's problems."
+            },
+            {
+                "code": "conscious_example_she-is-completely-conscious-of-what-is-going-on",
+                "text": "She is completely conscious of what is going on."
+            },
+            {
+                "code": "conscious_example_the-group-is-environmentally-conscious",
+                "text": "The group is environmentally conscious."
+            },
+            {
+                "code": "conscious_example_the-patient-is-conscious",
+                "text": "The patient is conscious."
+            },
+            {
+                "code": "conscious_example_she-must-stay-conscious-until-we-get-to-the-hospital",
+                "text": "She must stay conscious until we get to the hospital."
+            },
+            {
+                "code": "conscious_example_you-must-keep-him-conscious-on-the-way-to-the-hospital",
+                "text": "You must keep him conscious on the way to the hospital."
+            },
+            {
+                "code": "conscious_example_i-am-conscious-of-her-needs",
+                "text": "I am conscious of her needs."
+            },
+            {
+                "code": "conscious_example_he-made-a-conscious-choice",
+                "text": "He made a conscious choice."
+            }
+        ]
+    }
+]

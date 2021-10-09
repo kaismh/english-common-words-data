@@ -1,0 +1,60 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to show that something is true or real using facts or information",
+        "examples": [
+            {
+                "code": "prove_example_i-was-able-to-prove-that-i-was-right",
+                "text": "I was able to prove that I was right."
+            },
+            {
+                "code": "prove_example_he-needs-to-prove-that-he-is-innocent",
+                "text": "He needs to prove that he is innocent."
+            },
+            {
+                "code": "prove_example_the-scientist-proved-the-hypothesis",
+                "text": "The scientist proved the hypothesis."
+            },
+            {
+                "code": "prove_example_the-attorneys-proved-her-innocence",
+                "text": "The attorneys proved her innocence."
+            },
+            {
+                "code": "prove_example_she-proved-her-love",
+                "text": "She proved her love."
+            },
+            {
+                "code": "prove_example_the-evidence-proved-that-he-was-guilty",
+                "text": "The evidence proved that he was guilty."
+            },
+            {
+                "code": "prove_example_research-has-proven-that-animals-have-languages",
+                "text": "Research has proven that animals have languages."
+            },
+            {
+                "code": "prove_example_she-proved-the-allegations",
+                "text": "She proved the allegations."
+            },
+            {
+                "code": "prove_example_i-was-able-to-prove-conclusively-that-he-was-there",
+                "text": "I was able to prove conclusively that he was there."
+            },
+            {
+                "code": "prove_example_they-scientifically-proved-it",
+                "text": "They scientifically proved it."
+            },
+            {
+                "code": "prove_example_unless-you-can-prove-otherwise-i-m-right",
+                "text": "Unless you can prove otherwise, I'm right."
+            },
+            {
+                "code": "prove_example_that-will-only-prove-he-was-right",
+                "text": "That will only prove he was right."
+            },
+            {
+                "code": "prove_example_he-proved-his-innocence-to-the-court",
+                "text": "He proved his innocence to the court."
+            }
+        ]
+    }
+]

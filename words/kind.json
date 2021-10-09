@@ -1,0 +1,62 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "friendly; considerate",
+        "examples": [
+            {
+                "code": "kind_example_she-is-always-kind-to-me",
+                "text": "She is always kind to me."
+            },
+            {
+                "code": "kind_example_he-is-an-extremely-kind-person",
+                "text": "He is an extremely kind person."
+            },
+            {
+                "code": "kind_example_it-was-very-kind-of-you-to-help",
+                "text": "It was very kind of you to help."
+            },
+            {
+                "code": "kind_example_my-boss-has-been-very-kind-to-me",
+                "text": "My boss has been very kind to me."
+            }
+        ]
+    },
+    {
+        "type": "(n)",
+        "mean": "a group of people or things that are similar",
+        "examples": [
+            {
+                "code": "kind_example_she-likes-all-kinds-of-sports",
+                "text": "She likes all kinds of sports."
+            },
+            {
+                "code": "kind_example_he-has-the-same-kind-of-shoes-as-me",
+                "text": "He has the same kind of shoes as me."
+            },
+            {
+                "code": "kind_example_he-only-likes-certain-kinds-of-cars",
+                "text": "He only likes certain kinds of cars."
+            },
+            {
+                "code": "kind_example_they-played-a-unique-kind-of-music-at-the-party",
+                "text": "They played a unique kind of music at the party."
+            },
+            {
+                "code": "kind_example_he-always-eats-the-right-kind-of-food",
+                "text": "He always eats the right kind of food."
+            },
+            {
+                "code": "kind_example_comedy-is-her-favorite-kind-of-movie",
+                "text": "Comedy is her favorite kind of movie."
+            },
+            {
+                "code": "kind_example_the-store-had-books-of-every-kind",
+                "text": "The store had books of every kind."
+            },
+            {
+                "code": "kind_example_she-bought-a-special-kind-of-oil",
+                "text": "She bought a special kind of oil."
+            }
+        ]
+    }
+]

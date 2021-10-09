@@ -1,0 +1,58 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a device that opens or shuts with a key or a combination",
+        "examples": [
+            {
+                "code": "lock_example_he-bought-a-new-combination-lock-for-his-house",
+                "text": "He bought a new combination lock for his house."
+            },
+            {
+                "code": "lock_example_my-car-has-child-safety-locks-on-the-back-doors",
+                "text": "My car has child safety locks on the back doors."
+            },
+            {
+                "code": "lock_example_he-lost-the-key-for-the-bicycle-lock",
+                "text": "He lost the key for the bicycle lock."
+            },
+            {
+                "code": "lock_example_we-installed-new-locks-after-the-burglary",
+                "text": "We installed new locks after the burglary."
+            },
+            {
+                "code": "lock_example_the-robber-picked-the-lock",
+                "text": "The robber picked the lock."
+            },
+            {
+                "code": "lock_example_she-checked-all-the-locks-before-she-left",
+                "text": "She checked all the locks before she left."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to fasten something with a lock",
+        "examples": [
+            {
+                "code": "lock_example_he-carefully-locked-all-the-doors-in-the-house",
+                "text": "He carefully locked all the doors in the house."
+            },
+            {
+                "code": "lock_example_the-door-locks-automatically",
+                "text": "The door locks automatically."
+            },
+            {
+                "code": "lock_example_he-was-locked-away-for-five-years-for-his-crime",
+                "text": "He was locked away for five years for his crime."
+            },
+            {
+                "code": "lock_example_she-forgot-to-lock-the-car-door",
+                "text": "She forgot to lock the car door."
+            },
+            {
+                "code": "lock_example_he-locked-himself-in-the-bedroom",
+                "text": "He locked himself in the bedroom."
+            }
+        ]
+    }
+]

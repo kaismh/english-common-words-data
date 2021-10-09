@@ -1,0 +1,138 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the act of using your hand or object to touch someone or something in a forceful way; something very popular",
+        "examples": [
+            {
+                "code": "hit_example_he-made-a-direct-hit-to-his-opponent",
+                "text": "He made a direct hit to his opponent."
+            },
+            {
+                "code": "hit_example_the-show-was-an-immediate-hit",
+                "text": "The show was an immediate hit."
+            },
+            {
+                "code": "hit_example_the-movie-was-a-surprise-hit",
+                "text": "The movie was a surprise hit."
+            },
+            {
+                "code": "hit_example_all-of-his-movies-have-been-box-office-hits",
+                "text": "All of his movies have been box-office hits."
+            },
+            {
+                "code": "hit_example_the-boxer-took-a-direct-hit",
+                "text": "The boxer took a direct hit."
+            },
+            {
+                "code": "hit_example_he-fears-he-s-now-on-their-hit-list",
+                "text": "He fears he's now on their hit list."
+            },
+            {
+                "code": "hit_example_he-hired-a-hit-squad-to-kill-his-enemy",
+                "text": "He hired a hit squad to kill his enemy."
+            },
+            {
+                "code": "hit_example_she-has-another-hit-album",
+                "text": "She has another hit album."
+            },
+            {
+                "code": "hit_example_this-show-is-a-big-hit-with-teens",
+                "text": "This show is a big hit with teens."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to use your hand or an object to touch someone or something in a forceful way; to have a bad effect; to reach",
+        "examples": [
+            {
+                "code": "hit_example_she-hit-him-hard",
+                "text": "She hit him hard."
+            },
+            {
+                "code": "hit_example_the-ball-hit-him-directly-in-the-head",
+                "text": "The ball hit him directly in the head."
+            },
+            {
+                "code": "hit_example_i-was-nearly-hit-by-a-car-while-walking-to-work",
+                "text": "I was nearly hit by a car while walking to work."
+            },
+            {
+                "code": "hit_example_i-accidentally-hit-him-in-the-head",
+                "text": "I accidentally hit him in the head."
+            },
+            {
+                "code": "hit_example_we-were-badly-hit-by-budget-cuts",
+                "text": "We were badly hit by budget cuts."
+            },
+            {
+                "code": "hit_example_i-really-wanted-to-hit-him-but-i-didn-t",
+                "text": "I really wanted to hit him but I didn't."
+            },
+            {
+                "code": "hit_example_i-thought-the-car-was-going-to-hit-me-but-it-stopped-in-time",
+                "text": "I thought the car was going to hit me but it stopped in time."
+            },
+            {
+                "code": "hit_example_the-ball-hit-him-in-the-head",
+                "text": "The ball hit him in the head."
+            },
+            {
+                "code": "hit_example_he-hit-the-spider-with-a-magazine",
+                "text": "He hit the spider with a magazine."
+            },
+            {
+                "code": "hit_example_the-arrow-hit-the-target",
+                "text": "The arrow hit the target."
+            },
+            {
+                "code": "hit_example_the-storm-hit-the-city-directly",
+                "text": "The storm hit the city directly."
+            },
+            {
+                "code": "hit_example_a-car-hit-a-pedestrian-today",
+                "text": "A car hit a pedestrian today."
+            },
+            {
+                "code": "hit_example_the-idea-hit-him-suddenly",
+                "text": "The idea hit him suddenly."
+            },
+            {
+                "code": "hit_example_pain-hit-her-suddenly",
+                "text": "Pain hit her suddenly."
+            },
+            {
+                "code": "hit_example_the-ball-hit-him-in-the-leg",
+                "text": "The ball hit him in the leg."
+            },
+            {
+                "code": "hit_example_she-hit-her-head-on-the-cupboard-door",
+                "text": "She hit her head on the cupboard door."
+            },
+            {
+                "code": "hit_example_he-hit-a-bump-in-the-road-and-fell-off-his-bike",
+                "text": "He hit a bump in the road and fell off his bike."
+            },
+            {
+                "code": "hit_example_i-can-t-believe-he-hit-the-lottery",
+                "text": "I can't believe he hit the lottery."
+            },
+            {
+                "code": "hit_example_he-has-finally-hit-middle-age",
+                "text": "He has finally hit middle age."
+            },
+            {
+                "code": "hit_example_the-book-hit-the-ground",
+                "text": "The book hit the ground."
+            },
+            {
+                "code": "hit_example_he-hit-his-opponent",
+                "text": "He hit his opponent."
+            },
+            {
+                "code": "hit_example_the-story-hasn-t-hit-the-news-yet",
+                "text": "The story hasn't hit the news yet."
+            }
+        ]
+    }
+]

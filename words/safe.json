@@ -1,0 +1,94 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "not dangerous",
+        "examples": [
+            {
+                "code": "safe_example_she-feels-safe-with-him",
+                "text": "She feels safe with him."
+            },
+            {
+                "code": "safe_example_this-neighborhood-seems-safe",
+                "text": "This neighborhood seems safe."
+            },
+            {
+                "code": "safe_example_these-documents-will-remain-safe-with-us",
+                "text": "These documents will remain safe with us."
+            },
+            {
+                "code": "safe_example_keep-your-purse-safe-by-carrying-it-with-you",
+                "text": "Keep your purse safe by carrying it with you."
+            },
+            {
+                "code": "safe_example_the-food-was-not-considered-safe-to-eat",
+                "text": "The food was not considered safe to eat."
+            },
+            {
+                "code": "safe_example_this-car-is-extremely-safe",
+                "text": "This car is extremely safe."
+            },
+            {
+                "code": "safe_example_downtown-is-not-entirely-safe-at-night",
+                "text": "Downtown is not entirely safe at night."
+            },
+            {
+                "code": "safe_example_flying-is-perfectly-safe",
+                "text": "Flying is perfectly safe."
+            },
+            {
+                "code": "safe_example_this-hotel-is-in-a-comparatively-safe-neighborhood",
+                "text": "This hotel is in a comparatively safe neighborhood."
+            },
+            {
+                "code": "safe_example_they-were-safe-from-attack",
+                "text": "They were safe from attack."
+            },
+            {
+                "code": "safe_example_the-credit-card-will-be-safe-with-me",
+                "text": "The credit card will be safe with me."
+            },
+            {
+                "code": "safe_example_we-wish-you-a-safe-trip",
+                "text": "We wish you a safe trip."
+            },
+            {
+                "code": "safe_example_we-want-our-kids-to-live-in-a-safe-environment",
+                "text": "We want our kids to live in a safe environment."
+            },
+            {
+                "code": "safe_example_he-has-a-low-insurance-rate-for-being-a-safe-driver",
+                "text": "He has a low insurance rate for being a safe driver."
+            },
+            {
+                "code": "safe_example_don-t-worry-this-is-a-safe-drug",
+                "text": "Don't worry, this is a safe drug."
+            },
+            {
+                "code": "safe_example_that-s-a-safe-guess",
+                "text": "That's a safe guess."
+            }
+        ]
+    },
+    {
+        "type": "(n)",
+        "mean": "a locked cabinet to store valuable things or money",
+        "examples": [
+            {
+                "code": "safe_example_the-hotel-safe-is-in-this-room",
+                "text": "The hotel safe is in this room."
+            },
+            {
+                "code": "safe_example_we-put-our-money-in-a-wall-safe",
+                "text": "We put our money in a wall safe."
+            },
+            {
+                "code": "safe_example_please-open-the-safe",
+                "text": "Please open the safe."
+            },
+            {
+                "code": "safe_example_the-robber-cracked-the-safe",
+                "text": "The robber cracked the safe."
+            }
+        ]
+    }
+]

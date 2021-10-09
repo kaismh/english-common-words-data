@@ -1,0 +1,68 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "attracting attention because something is exciting or unusual",
+        "examples": [
+            {
+                "code": "interesting_example_the-book-is-interesting",
+                "text": "The book is interesting."
+            },
+            {
+                "code": "interesting_example_the-movie-became-interesting-towards-the-end",
+                "text": "The movie became interesting towards the end."
+            },
+            {
+                "code": "interesting_example_i-find-her-stories-very-interesting",
+                "text": "I find her stories very interesting."
+            },
+            {
+                "code": "interesting_example_the-movie-is-extremely-interesting",
+                "text": "The movie is extremely interesting."
+            },
+            {
+                "code": "interesting_example_his-grandfather-s-war-stories-are-deeply-interesting",
+                "text": "His grandfather's war stories are deeply interesting."
+            },
+            {
+                "code": "interesting_example_i-find-both-of-your-stories-equally-interesting",
+                "text": "I find both of your stories equally interesting."
+            },
+            {
+                "code": "interesting_example_i-find-her-stories-not-at-all-interesting",
+                "text": "I find her stories not at all interesting."
+            },
+            {
+                "code": "interesting_example_this-book-is-truly-interesting",
+                "text": "This book is truly interesting."
+            },
+            {
+                "code": "interesting_example_he-is-always-interesting",
+                "text": "He is always interesting."
+            },
+            {
+                "code": "interesting_example_the-show-is-not-very-interesting-for-young-children",
+                "text": "The show is not very interesting for young children."
+            },
+            {
+                "code": "interesting_example_there-was-an-interesting-article-in-the-newspaper-today",
+                "text": "There was an interesting article in the newspaper today."
+            },
+            {
+                "code": "interesting_example_we-had-an-interesting-conversation",
+                "text": "We had an interesting conversation."
+            },
+            {
+                "code": "interesting_example_the-scientists-made-an-interesting-discovery",
+                "text": "The scientists made an interesting discovery."
+            },
+            {
+                "code": "interesting_example_skydiving-was-an-interesting-experience",
+                "text": "Skydiving was an interesting experience."
+            },
+            {
+                "code": "interesting_example_there-are-many-interesting-people-in-the-world",
+                "text": "There are many interesting people in the world."
+            }
+        ]
+    }
+]

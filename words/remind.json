@@ -1,0 +1,40 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to help someone remember something",
+        "examples": [
+            {
+                "code": "remind_example_i-keep-reminding-him-to-do-it",
+                "text": "I keep reminding him to do it."
+            },
+            {
+                "code": "remind_example_stop-reminding-me-i-ll-do-it",
+                "text": "Stop reminding me. I'll do it."
+            },
+            {
+                "code": "remind_example_she-continued-to-remind-him",
+                "text": "She continued to remind him."
+            },
+            {
+                "code": "remind_example_i-am-going-to-remind-you-every-day",
+                "text": "I am going to remind you every day."
+            },
+            {
+                "code": "remind_example_i-gently-reminded-him-one-more-time",
+                "text": "I gently reminded him one more time."
+            },
+            {
+                "code": "remind_example_i-constantly-remind-her-to-not-forget-her-homework",
+                "text": "I constantly remind her to not forget her homework."
+            },
+            {
+                "code": "remind_example_she-suddenly-reminded-me-that-we-have-to-go-to-the-airport",
+                "text": "She suddenly reminded me that we have to go to the airport."
+            },
+            {
+                "code": "remind_example_she-reminded-me-about-dinner",
+                "text": "She reminded me about dinner."
+            }
+        ]
+    }
+]

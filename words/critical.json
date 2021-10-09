@@ -1,0 +1,56 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "showing disapproval; very important or serious",
+        "examples": [
+            {
+                "code": "critical_example_the-teacher-became-critical-of-her-work",
+                "text": "The teacher became critical of her work."
+            },
+            {
+                "code": "critical_example_the-meeting-is-critical",
+                "text": "The meeting is critical."
+            },
+            {
+                "code": "critical_example_her-mother-is-extremely-critical-of-her-children",
+                "text": "Her mother is extremely critical of her children."
+            },
+            {
+                "code": "critical_example_you-are-being-overly-critical-about-dinner",
+                "text": "You are being overly critical about dinner."
+            },
+            {
+                "code": "critical_example_her-son-is-a-little-critical-about-everything",
+                "text": "Her son is a little critical about everything."
+            },
+            {
+                "code": "critical_example_being-on-time-is-really-critical",
+                "text": "Being on time is really critical."
+            },
+            {
+                "code": "critical_example_the-presentation-is-critical-for-the-company",
+                "text": "The presentation is critical for the company."
+            },
+            {
+                "code": "critical_example_she-is-in-critical-condition-at-the-hospital",
+                "text": "She is in critical condition at the hospital."
+            },
+            {
+                "code": "critical_example_she-has-a-critical-eye-for-business",
+                "text": "She has a critical eye for business."
+            },
+            {
+                "code": "critical_example_he-lost-critical-information",
+                "text": "He lost critical information."
+            },
+            {
+                "code": "critical_example_healthcare-is-a-critical-issue",
+                "text": "Healthcare is a critical issue."
+            },
+            {
+                "code": "critical_example_he-doesn-t-handle-critical-situations-well",
+                "text": "He doesn't handle critical situations well."
+            }
+        ]
+    }
+]

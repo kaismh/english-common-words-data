@@ -1,0 +1,110 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a liquid you swallow",
+        "examples": [
+            {
+                "code": "drink_example_would-you-like-a-cold-drink",
+                "text": "Would you like a cold drink?"
+            },
+            {
+                "code": "drink_example_she-prefers-strong-drinks",
+                "text": "She prefers strong drinks."
+            },
+            {
+                "code": "drink_example_let-s-have-a-celebratory-drink",
+                "text": "Let's have a celebratory drink."
+            },
+            {
+                "code": "drink_example_the-meal-includes-a-free-drink",
+                "text": "The meal includes a free drink."
+            },
+            {
+                "code": "drink_example_sit-down-and-have-a-drink",
+                "text": "Sit down and have a drink."
+            },
+            {
+                "code": "drink_example_do-you-want-a-drink",
+                "text": "Do you want a drink?"
+            },
+            {
+                "code": "drink_example_she-sipped-on-a-hot-drink",
+                "text": "She sipped on a hot drink."
+            },
+            {
+                "code": "drink_example_take-a-drink",
+                "text": "Take a drink."
+            },
+            {
+                "code": "drink_example_they-want-to-go-out-for-a-drink",
+                "text": "They want to go out for a drink?"
+            },
+            {
+                "code": "drink_example_buy-me-a-drink",
+                "text": "Buy me a drink."
+            },
+            {
+                "code": "drink_example_do-they-offer-drinks",
+                "text": "Do they offer drinks?"
+            },
+            {
+                "code": "drink_example_be-careful-not-to-spill-your-drink",
+                "text": "Be careful not to spill your drink."
+            },
+            {
+                "code": "drink_example_would-you-like-ice-in-your-drink",
+                "text": "Would you like ice in your drink?"
+            },
+            {
+                "code": "drink_example_may-i-have-a-drink-of-water",
+                "text": "May I have a drink of water?"
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to swallow liquid; to drink alcohol",
+        "examples": [
+            {
+                "code": "drink_example_drink-it-down",
+                "text": "Drink it down."
+            },
+            {
+                "code": "drink_example_it-s-your-birthday-so-drink-up",
+                "text": "It's your birthday, so drink up."
+            },
+            {
+                "code": "drink_example_he-drinks-excessively",
+                "text": "He drinks excessively."
+            },
+            {
+                "code": "drink_example_please-drink-in-moderation",
+                "text": "Please drink in moderation."
+            },
+            {
+                "code": "drink_example_do-not-drink-alone",
+                "text": "Do not drink alone."
+            },
+            {
+                "code": "drink_example_she-drinks-coffee-from-her-favorite-mug",
+                "text": "She drinks coffee from her favorite mug."
+            },
+            {
+                "code": "drink_example_her-child-drinks-milk-through-a-straw",
+                "text": "Her child drinks milk through a straw."
+            },
+            {
+                "code": "drink_example_i-would-like-to-drink-some-juice",
+                "text": "I would like to drink some juice."
+            },
+            {
+                "code": "drink_example_he-drank-a-bottle-of-wine",
+                "text": "He drank a bottle of wine."
+            },
+            {
+                "code": "drink_example_do-you-drink-alcohol",
+                "text": "Do you drink alcohol?"
+            }
+        ]
+    }
+]

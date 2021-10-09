@@ -1,0 +1,56 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a certain way of doing something",
+        "examples": [
+            {
+                "code": "method_example_i-use-the-same-method-as-my-mother",
+                "text": "I use the same method as my mother."
+            },
+            {
+                "code": "method_example_we-adopted-a-new-method-of-conducting-research",
+                "text": "We adopted a new method of conducting research."
+            },
+            {
+                "code": "method_example_we-need-to-change-our-old-methods",
+                "text": "We need to change our old methods."
+            },
+            {
+                "code": "method_example_the-changes-involve-a-new-method",
+                "text": "The changes involve a new method."
+            },
+            {
+                "code": "method_example_how-does-the-new-method-work",
+                "text": "How does the new method work?"
+            },
+            {
+                "code": "method_example_we-are-studying-the-scientific-method",
+                "text": "We are studying the scientific method."
+            },
+            {
+                "code": "method_example_we-found-a-good-method-of-testing",
+                "text": "We found a good method of testing."
+            },
+            {
+                "code": "method_example_what-is-your-preferred-method",
+                "text": "What is your preferred method?"
+            },
+            {
+                "code": "method_example_they-have-various-methods",
+                "text": "They have various methods."
+            },
+            {
+                "code": "method_example_they-use-proper-research-methods",
+                "text": "They use proper research methods."
+            },
+            {
+                "code": "method_example_she-uses-a-special-method-of-teaching",
+                "text": "She uses a special method of teaching."
+            },
+            {
+                "code": "method_example_there-is-an-easier-method-for-baking-bread",
+                "text": "There is an easier method for baking bread."
+            }
+        ]
+    }
+]

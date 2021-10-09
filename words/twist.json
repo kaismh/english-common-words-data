@@ -1,0 +1,82 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to bend or turn into a particular shape or form",
+        "examples": [
+            {
+                "code": "twist_example_he-twisted-his-ankle-badly",
+                "text": "He twisted his ankle badly."
+            },
+            {
+                "code": "twist_example_the-cowboy-quickly-twisted-his-rope",
+                "text": "The cowboy quickly twisted his rope."
+            },
+            {
+                "code": "twist_example_she-slowly-twisted-the-doorknob-of-the-baby-s-room",
+                "text": "She slowly twisted the doorknob of the baby's room."
+            },
+            {
+                "code": "twist_example_she-twisted-the-facts-to-make-herself-look-good",
+                "text": "She twisted the facts to make herself look good."
+            },
+            {
+                "code": "twist_example_he-twisted-his-ankle-playing-baseball",
+                "text": "He twisted his ankle playing baseball."
+            },
+            {
+                "code": "twist_example_he-twisted-my-words-to-make-it-look-like-i-was-lying",
+                "text": "He twisted my words to make it look like I was lying."
+            },
+            {
+                "code": "twist_example_she-twisted-the-rope-around-the-pole",
+                "text": "She twisted the rope around the pole."
+            }
+        ]
+    },
+    {
+        "type": "(n)",
+        "mean": "an unexpected change in events; a bend or a turn in a particular shape or form",
+        "examples": [
+            {
+                "code": "twist_example_there-was-a-shocking-twist-at-the-end-of-the-book",
+                "text": "There was a shocking twist at the end of the book."
+            },
+            {
+                "code": "twist_example_the-director-added-a-modern-twist-to-the-old-movie",
+                "text": "The director added a modern twist to the old movie."
+            },
+            {
+                "code": "twist_example_the-final-twist-in-the-movie-series-was-completely-unexpected",
+                "text": "The final twist in the movie series was completely unexpected."
+            },
+            {
+                "code": "twist_example_he-opened-the-bottle-cap-with-a-slight-twist",
+                "text": "He opened the bottle cap with a slight twist."
+            },
+            {
+                "code": "twist_example_the-mountain-road-is-full-of-scary-twists-and-turns",
+                "text": "The mountain road is full of scary twists and turns."
+            },
+            {
+                "code": "twist_example_there-is-a-clever-twist-at-the-end-of-the-book",
+                "text": "There is a clever twist at the end of the book."
+            },
+            {
+                "code": "twist_example_the-director-added-a-weird-twist-to-the-original-story",
+                "text": "The director added a weird twist to the original story."
+            },
+            {
+                "code": "twist_example_the-movie-has-a-strange-twist-at-the-end",
+                "text": "The movie has a strange twist at the end."
+            },
+            {
+                "code": "twist_example_the-movie-ended-with-a-twist",
+                "text": "The movie ended with a twist."
+            },
+            {
+                "code": "twist_example_i-love-movies-with-twist-endings",
+                "text": "I love movies with twist endings."
+            }
+        ]
+    }
+]

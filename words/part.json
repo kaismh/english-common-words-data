@@ -1,0 +1,120 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a piece or portion of something; a role or responsibility",
+        "examples": [
+            {
+                "code": "part_example_his-work-is-to-assemble-car-parts",
+                "text": "His work is to assemble car parts."
+            },
+            {
+                "code": "part_example_the-work-was-divided-into-equal-parts",
+                "text": "The work was divided into equal parts."
+            },
+            {
+                "code": "part_example_she-plays-the-part-of-the-evil-stepmother-in-the-movie",
+                "text": "She plays the part of the evil stepmother in the movie."
+            },
+            {
+                "code": "part_example_he-took-part-in-the-scandal",
+                "text": "He took part in the scandal."
+            },
+            {
+                "code": "part_example_i-need-to-go-to-the-hardware-store-to-pick-up-some-replacement-parts",
+                "text": "I need to go to the hardware store to pick up some replacement parts."
+            },
+            {
+                "code": "part_example_the-best-part-about-working-here-is-the-customers",
+                "text": "The best part about working here is the customers."
+            },
+            {
+                "code": "part_example_did-you-see-the-first-part-of-the-concert",
+                "text": "Did you see the first part of the concert?"
+            },
+            {
+                "code": "part_example_last-summer-i-traveled-through-the-southern-part-of-mongolia",
+                "text": "Last summer, I traveled through the southern part of Mongolia."
+            },
+            {
+                "code": "part_example_the-upper-part-of-my-arm-hurts",
+                "text": "The upper part of my arm hurts."
+            },
+            {
+                "code": "part_example_my-children-are-a-big-part-of-my-life",
+                "text": "My children are a big part of my life."
+            },
+            {
+                "code": "part_example_we-sliced-the-pie-into-eight-equal-parts",
+                "text": "We sliced the pie into eight equal parts."
+            },
+            {
+                "code": "part_example_the-robot-is-a-combination-of-many-separate-parts",
+                "text": "The robot is a combination of many separate parts."
+            },
+            {
+                "code": "part_example_names-of-body-parts-are-similar-in-english-and-spanish",
+                "text": "Names of body parts are similar in English and Spanish."
+            },
+            {
+                "code": "part_example_she-has-a-small-part-in-the-play",
+                "text": "She has a small part in the play."
+            },
+            {
+                "code": "part_example_do-you-have-the-part-number-for-the-broken-piece",
+                "text": "Do you have the part number for the broken piece?"
+            },
+            {
+                "code": "part_example_cut-the-cake-in-six-equal-parts",
+                "text": "Cut the cake in six equal parts."
+            },
+            {
+                "code": "part_example_she-has-a-small-part-in-the-play",
+                "text": "She has a small part in the play."
+            },
+            {
+                "code": "part_example_he-is-playing-the-part-of-hamlet",
+                "text": "He is playing the part of Hamlet."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to separate",
+        "examples": [
+            {
+                "code": "part_example_i-usually-part-my-hair-in-the-middle",
+                "text": "I usually part my hair in the middle."
+            },
+            {
+                "code": "part_example_the-clouds-parted-and-the-sun-came-out",
+                "text": "The clouds parted and the sun came out."
+            },
+            {
+                "code": "part_example_the-crowd-parted-as-the-singer-walked-through-the-aisle",
+                "text": "The crowd parted as the singer walked through the aisle."
+            },
+            {
+                "code": "part_example_after-their-big-argument-the-close-friends-parted-ways",
+                "text": "After their big argument, the close friends parted ways."
+            }
+        ]
+    },
+    {
+        "type": "(adj)",
+        "mean": "not complete; a portion of a whole",
+        "examples": [
+            {
+                "code": "part_example_she-is-part-owner-of-the-restaurant",
+                "text": "She is part owner of the restaurant."
+            },
+            {
+                "code": "part_example_i-think-the-dog-is-part-german-shepherd",
+                "text": "I think the dog is part German shepherd."
+            },
+            {
+                "code": "part_example_it-is-only-part-truth",
+                "text": "It is only part truth."
+            }
+        ]
+    }
+]

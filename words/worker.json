@@ -1,0 +1,80 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a person who does a job",
+        "examples": [
+            {
+                "code": "worker_example_she-is-a-hard-worker",
+                "text": "She is a hard worker."
+            },
+            {
+                "code": "worker_example_he-got-fired-for-being-a-slow-worker",
+                "text": "He got fired for being a slow worker."
+            },
+            {
+                "code": "worker_example_the-department-store-is-hiring-part-time-workers",
+                "text": "The department store is hiring part-time workers."
+            },
+            {
+                "code": "worker_example_we-are-in-need-of-volunteer-workers-at-the-food-bank",
+                "text": "We are in need of volunteer workers at the food bank."
+            },
+            {
+                "code": "worker_example_average-workers-make-minimum-wage",
+                "text": "Average workers make minimum wage."
+            },
+            {
+                "code": "worker_example_rescue-workers-are-needed-at-the-earthquake-site",
+                "text": "Rescue workers are needed at the earthquake site."
+            },
+            {
+                "code": "worker_example_daycare-workers-should-be-monitored",
+                "text": "Daycare workers should be monitored."
+            },
+            {
+                "code": "worker_example_the-company-has-over-one-hundred-workers",
+                "text": "The company has over one hundred workers."
+            },
+            {
+                "code": "worker_example_they-pay-their-workers-more-than-minimum-wage",
+                "text": "They pay their workers more than minimum wage."
+            },
+            {
+                "code": "worker_example_most-workers-earn-minimum-wage-at-that-restaurant",
+                "text": "Most workers earn minimum wage at that restaurant."
+            },
+            {
+                "code": "worker_example_the-stores-are-hiring-workers-during-the-holidays",
+                "text": "The stores are hiring workers during the holidays."
+            },
+            {
+                "code": "worker_example_the-big-company-laid-off-half-of-their-workers",
+                "text": "The big company laid off half of their workers."
+            },
+            {
+                "code": "worker_example_unions-protect-workers-from-unfair-labor-practices",
+                "text": "Unions protect workers from unfair labor practices."
+            },
+            {
+                "code": "worker_example_the-workers-organized-a-union-to-defend-themselves-from-unfair-labor-practices",
+                "text": "The workers organized a union to defend themselves from unfair labor practices."
+            },
+            {
+                "code": "worker_example_over-one-hundred-workers-lost-their-jobs-before-christmas",
+                "text": "Over one hundred workers lost their jobs before Christmas."
+            },
+            {
+                "code": "worker_example_workers-voted-to-strike",
+                "text": "Workers voted to strike."
+            },
+            {
+                "code": "worker_example_he-is-seeking-worker-compensation",
+                "text": "He is seeking worker compensation."
+            },
+            {
+                "code": "worker_example_the-union-is-demanding-worker-rights",
+                "text": "The union is demanding worker rights."
+            }
+        ]
+    }
+]

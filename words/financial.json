@@ -1,0 +1,68 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "relating to finance or money",
+        "examples": [
+            {
+                "code": "financial_example_he-provided-free-financial-advice-to-those-in-need",
+                "text": "He provided free financial advice to those in need."
+            },
+            {
+                "code": "financial_example_the-financial-market-is-on-edge-today",
+                "text": "The financial market is on edge today."
+            },
+            {
+                "code": "financial_example_they-are-calling-for-financial-reform",
+                "text": "They are calling for financial reform."
+            },
+            {
+                "code": "financial_example_she-is-trying-to-increase-her-financial-independence",
+                "text": "She is trying to increase her financial independence."
+            },
+            {
+                "code": "financial_example_he-was-accused-of-financial-misconduct",
+                "text": "He was accused of financial misconduct."
+            },
+            {
+                "code": "financial_example_they-are-reviewing-his-financial-records",
+                "text": "They are reviewing his financial records."
+            },
+            {
+                "code": "financial_example_they-are-providing-financial-assistance-to-those-affected-by-the-disaster",
+                "text": "They are providing financial assistance to those affected by the disaster."
+            },
+            {
+                "code": "financial_example_his-financial-success-is-impressive",
+                "text": "His financial success is impressive."
+            },
+            {
+                "code": "financial_example_we-are-close-to-a-financial-disaster",
+                "text": "We are close to a financial disaster."
+            },
+            {
+                "code": "financial_example_they-released-the-financial-projections-for-the-industry",
+                "text": "They released the financial projections for the industry."
+            },
+            {
+                "code": "financial_example_those-with-financial-need-will-receive-scholarships",
+                "text": "Those with financial need will receive scholarships."
+            },
+            {
+                "code": "financial_example_the-financial-consequence-will-be-big",
+                "text": "The financial consequence will be big."
+            },
+            {
+                "code": "financial_example_she-is-a-financial-burden",
+                "text": "She is a financial burden."
+            },
+            {
+                "code": "financial_example_he-is-a-financial-specialist",
+                "text": "He is a financial specialist."
+            },
+            {
+                "code": "financial_example_he-has-a-lot-of-financial-obligations",
+                "text": "He has a lot of financial obligations."
+            }
+        ]
+    }
+]

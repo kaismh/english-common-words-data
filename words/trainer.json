@@ -1,0 +1,40 @@
+[
+    {
+        "type": "(n)",
+        "mean": "someone who helps people in sports or teaches animals skills and tricks",
+        "examples": [
+            {
+                "code": "trainer_example_the-dog-trainer-helped-us-with-our-new-puppy",
+                "text": "The dog trainer helped us with our new puppy."
+            },
+            {
+                "code": "trainer_example_i-need-a-personal-trainer-to-help-me-exercise",
+                "text": "I need a personal trainer to help me exercise."
+            },
+            {
+                "code": "trainer_example_the-football-coach-hired-a-trainer-for-his-athletes",
+                "text": "The football coach hired a trainer for his athletes."
+            },
+            {
+                "code": "trainer_example_the-trainer-helps-people-work-out",
+                "text": "The trainer helps people work out."
+            },
+            {
+                "code": "trainer_example_my-trainer-motivates-me-to-work-out-daily",
+                "text": "My trainer motivates me to work out daily."
+            },
+            {
+                "code": "trainer_example_i-lost-weight-with-a-personal-trainer",
+                "text": "I lost weight with a personal trainer."
+            },
+            {
+                "code": "trainer_example_i-learned-about-diet-and-exercise-from-my-trainer",
+                "text": "I learned about diet and exercise from my trainer."
+            },
+            {
+                "code": "trainer_example_we-need-a-trainer-for-our-dog",
+                "text": "We need a trainer for our dog."
+            }
+        ]
+    }
+]

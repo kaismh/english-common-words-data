@@ -1,0 +1,32 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to explain what someone or something is like",
+        "examples": [
+            {
+                "code": "describe_example_can-you-accurately-describe-the-lost-wallet",
+                "text": "Can you accurately describe the lost wallet."
+            },
+            {
+                "code": "describe_example_she-vividly-described-the-painting",
+                "text": "She vividly described the painting."
+            },
+            {
+                "code": "describe_example_he-clearly-described-the-situation-to-his-boss",
+                "text": "He clearly described the situation to his boss."
+            },
+            {
+                "code": "describe_example_the-man-briefly-described-what-happened",
+                "text": "The man briefly described what happened."
+            },
+            {
+                "code": "describe_example_i-cannot-describe-how-it-happened",
+                "text": "I cannot describe how it happened."
+            },
+            {
+                "code": "describe_example_can-you-describe-the-effect",
+                "text": "Can you describe the effect?"
+            }
+        ]
+    }
+]

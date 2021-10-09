@@ -1,0 +1,142 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a number of people gathered together; number of things put together",
+        "examples": [
+            {
+                "code": "group_example_he-is-used-to-speaking-in-front-of-large-groups",
+                "text": "He is used to speaking in front of large groups."
+            },
+            {
+                "code": "group_example_she-has-a-select-group-of-friends",
+                "text": "She has a select group of friends."
+            },
+            {
+                "code": "group_example_a-diverse-group-of-people-came-to-the-meeting",
+                "text": "A diverse group of people came to the meeting."
+            },
+            {
+                "code": "group_example_we-are-dealing-with-an-organized-group",
+                "text": "We are dealing with an organized group."
+            },
+            {
+                "code": "group_example_the-dominant-group-usually-gets-its-way",
+                "text": "The dominant group usually gets its way."
+            },
+            {
+                "code": "group_example_they-are-doing-research-with-different-cultural-groups",
+                "text": "They are doing research with different cultural groups."
+            },
+            {
+                "code": "group_example_some-animals-live-in-large-family-groups",
+                "text": "Some animals live in large family groups."
+            },
+            {
+                "code": "group_example_he-doesn-t-relate-well-to-those-in-his-peer-group",
+                "text": "He doesn't relate well to those in his peer group."
+            },
+            {
+                "code": "group_example_he-is-leading-a-discussion-group",
+                "text": "He is leading a discussion group."
+            },
+            {
+                "code": "group_example_she-attends-a-self-help-group",
+                "text": "She attends a self-help group."
+            },
+            {
+                "code": "group_example_she-belongs-to-a-church-group",
+                "text": "She belongs to a church group."
+            },
+            {
+                "code": "group_example_they-are-organizing-a-parent-group",
+                "text": "They are organizing a parent group."
+            },
+            {
+                "code": "group_example_she-is-leading-a-discussion-group",
+                "text": "She is leading a discussion group."
+            },
+            {
+                "code": "group_example_he-represents-the-environmental-group",
+                "text": "He represents the environmental group."
+            },
+            {
+                "code": "group_example_she-joined-a-theater-group",
+                "text": "She joined a theater group."
+            },
+            {
+                "code": "group_example_he-left-the-group-last-year-when-he-moved",
+                "text": "He left the group last year when he moved."
+            },
+            {
+                "code": "group_example_the-group-split-up-in-a-disagreement-over-priorities",
+                "text": "The group split up in a disagreement over priorities."
+            },
+            {
+                "code": "group_example_this-group-includes-people-of-all-ages",
+                "text": "This group includes people of all ages."
+            },
+            {
+                "code": "group_example_he-is-a-group-leader",
+                "text": "He is a group leader."
+            },
+            {
+                "code": "group_example_we-will-be-having-a-group-discussion-today",
+                "text": "We will be having a group discussion today."
+            },
+            {
+                "code": "group_example_she-doesn-t-like-doing-group-work",
+                "text": "She doesn't like doing group work."
+            },
+            {
+                "code": "group_example_we-will-take-a-group-photo",
+                "text": "We will take a group photo."
+            },
+            {
+                "code": "group_example_we-will-get-more-done-if-we-work-as-a-group",
+                "text": "We will get more done if we work as a group."
+            },
+            {
+                "code": "group_example_there-are-only-three-boys-in-the-group",
+                "text": "There are only three boys in the group."
+            },
+            {
+                "code": "group_example_she-will-meet-with-a-group-of-students-today",
+                "text": "She will meet with a group of students today."
+            },
+            {
+                "code": "group_example_there-is-some-disagreement-within-the-group",
+                "text": "There is some disagreement within the group."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to put or bring together; to organize by similarities",
+        "examples": [
+            {
+                "code": "group_example_the-items-are-closely-grouped",
+                "text": "The items are closely grouped."
+            },
+            {
+                "code": "group_example_the-clothing-items-are-grouped-together-by-color",
+                "text": "The clothing items are grouped together by color."
+            },
+            {
+                "code": "group_example_they-are-grouped-by-size",
+                "text": "They are grouped by size."
+            },
+            {
+                "code": "group_example_everyone-grouped-around-the-television",
+                "text": "Everyone grouped around the television."
+            },
+            {
+                "code": "group_example_the-books-are-grouped-into-three-categories",
+                "text": "The books are grouped into three categories."
+            },
+            {
+                "code": "group_example_she-was-grouped-with-two-of-her-best-friends",
+                "text": "She was grouped with two of her best friends."
+            }
+        ]
+    }
+]

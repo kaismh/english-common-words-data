@@ -1,0 +1,92 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a space between things; a period of time; difference; where something is missing",
+        "examples": [
+            {
+                "code": "gap_example_there-is-a-huge-gap-under-the-door",
+                "text": "There is a huge gap under the door."
+            },
+            {
+                "code": "gap_example_she-has-a-narrow-gap-between-her-front-teeth",
+                "text": "She has a narrow gap between her front teeth."
+            },
+            {
+                "code": "gap_example_there-was-a-long-gap-in-between-his-two-jobs",
+                "text": "There was a long gap in between his two jobs."
+            },
+            {
+                "code": "gap_example_there-was-an-awkward-gap-in-the-middle-of-our-conversation",
+                "text": "There was an awkward gap in the middle of our conversation."
+            },
+            {
+                "code": "gap_example_there-is-a-big-gap-between-the-two-runners-in-the-race",
+                "text": "There is a big gap between the two runners in the race."
+            },
+            {
+                "code": "gap_example_there-seems-to-be-a-growing-gap-between-the-two-generations",
+                "text": "There seems to be a growing gap between the two generations."
+            },
+            {
+                "code": "gap_example_they-are-trying-to-address-the-current-cultural-gap",
+                "text": "They are trying to address the current cultural gap."
+            },
+            {
+                "code": "gap_example_we-are-discussing-the-current-income-gap",
+                "text": "We are discussing the current income gap."
+            },
+            {
+                "code": "gap_example_make-sure-you-leave-a-gap-for-the-window-trim",
+                "text": "Make sure you leave a gap for the window trim."
+            },
+            {
+                "code": "gap_example_we-need-to-seal-the-gap-around-the-door",
+                "text": "We need to seal the gap around the door."
+            },
+            {
+                "code": "gap_example_can-you-find-something-to-span-the-gap",
+                "text": "Can you find something to span the gap?"
+            },
+            {
+                "code": "gap_example_as-they-got-closer-a-gap-appeared-between-the-rocks",
+                "text": "As they got closer, a gap appeared between the rocks."
+            },
+            {
+                "code": "gap_example_a-gap-in-the-traffic-finally-opened-up",
+                "text": "A gap in the traffic finally opened up."
+            },
+            {
+                "code": "gap_example_they-are-trying-to-bridge-the-gap-in-the-different-learning-levels",
+                "text": "They are trying to bridge the gap in the different learning levels."
+            },
+            {
+                "code": "gap_example_the-gap-between-the-rich-and-poor-is-widening",
+                "text": "The gap between the rich and poor is widening."
+            },
+            {
+                "code": "gap_example_her-departure-left-a-gap-in-the-organization",
+                "text": "Her departure left a gap in the organization."
+            },
+            {
+                "code": "gap_example_let-me-know-when-you-see-any-gaps-in-the-plan",
+                "text": "Let me know when you see any gaps in the plan."
+            },
+            {
+                "code": "gap_example_they-slipped-through-a-gap-in-the-fence",
+                "text": "They slipped through a gap in the fence."
+            },
+            {
+                "code": "gap_example_leave-a-small-gap-between-each-piece",
+                "text": "Leave a small gap between each piece."
+            },
+            {
+                "code": "gap_example_she-wants-to-fill-the-gap-in-her-schedule",
+                "text": "She wants to fill the gap in her schedule."
+            },
+            {
+                "code": "gap_example_she-returned-to-the-workforce-after-a-long-gap",
+                "text": "She returned to the workforce after a long gap."
+            }
+        ]
+    }
+]

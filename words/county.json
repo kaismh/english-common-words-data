@@ -1,0 +1,32 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a part of a state or region",
+        "examples": [
+            {
+                "code": "county_example_the-river-runs-all-the-way-to-the-border-county",
+                "text": "The river runs all the way to the border county."
+            },
+            {
+                "code": "county_example_he-represents-the-county",
+                "text": "He represents the county."
+            },
+            {
+                "code": "county_example_do-you-live-in-this-county",
+                "text": "Do you live in this county?"
+            },
+            {
+                "code": "county_example_all-county-residents-can-vote",
+                "text": "All county residents can vote."
+            },
+            {
+                "code": "county_example_contact-the-county-judge",
+                "text": "Contact the county judge."
+            },
+            {
+                "code": "county_example_meet-him-at-the-county-courthouse",
+                "text": "Meet him at the county courthouse."
+            }
+        ]
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "type": "(n)",
+        "mean": "someone who studies history; an expert in history",
+        "examples": [
+            {
+                "code": "historian_example_a-respected-historian-will-give-a-lecture-next-week",
+                "text": "A respected historian will give a lecture next week."
+            },
+            {
+                "code": "historian_example_serious-historians-are-still-debating-that-issue",
+                "text": "Serious historians are still debating that issue."
+            },
+            {
+                "code": "historian_example_we-met-with-the-group-s-official-historian",
+                "text": "We met with the group's official historian."
+            },
+            {
+                "code": "historian_example_a-local-historian-might-know-more-details",
+                "text": "A local historian might know more details."
+            },
+            {
+                "code": "historian_example_the-famous-historian-published-a-book-on-the-renaissance-era",
+                "text": "The famous historian published a book on the Renaissance Era."
+            },
+            {
+                "code": "historian_example_historians-study-the-history-of-places-and-times",
+                "text": "Historians study the history of places and times."
+            }
+        ]
+    }
+]

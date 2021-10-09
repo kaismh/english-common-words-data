@@ -1,0 +1,86 @@
+[
+    {
+        "type": "(n)",
+        "mean": "air that moves quickly",
+        "examples": [
+            {
+                "code": "wind_example_the-strong-wind-knocked-down-the-tree",
+                "text": "The strong wind knocked down the tree."
+            },
+            {
+                "code": "wind_example_there-is-a-light-wind-coming-from-the-beach",
+                "text": "There is a light wind coming from the beach."
+            },
+            {
+                "code": "wind_example_the-icy-wind-made-it-feel-even-colder",
+                "text": "The icy wind made it feel even colder."
+            },
+            {
+                "code": "wind_example_the-desert-wind-felt-warm",
+                "text": "The desert wind felt warm."
+            },
+            {
+                "code": "wind_example_he-braved-the-wind-and-walked-home",
+                "text": "He braved the wind and walked home."
+            },
+            {
+                "code": "wind_example_i-do-not-know-if-the-trees-can-withstand-the-wind",
+                "text": "I do not know if the trees can withstand the wind."
+            },
+            {
+                "code": "wind_example_the-wind-picked-up-speed-in-the-last-hour",
+                "text": "The wind picked up speed in the last hour."
+            },
+            {
+                "code": "wind_example_the-wind-is-coming-from-the-east",
+                "text": "The wind is coming from the east."
+            },
+            {
+                "code": "wind_example_the-wind-conditions-keep-changing",
+                "text": "The wind conditions keep changing."
+            },
+            {
+                "code": "wind_example_the-wind-chill-makes-it-feel-even-colder",
+                "text": "The wind chill makes it feel even colder."
+            },
+            {
+                "code": "wind_example_this-town-s-electricity-runs-on-wind-power",
+                "text": "This town's electricity runs on wind power."
+            },
+            {
+                "code": "wind_example_we-could-hear-the-wind-chimes-all-night",
+                "text": "We could hear the wind chimes all night."
+            },
+            {
+                "code": "wind_example_they-were-having-a-hard-time-running-against-the-wind",
+                "text": "They were having a hard time running against the wind."
+            },
+            {
+                "code": "wind_example_the-piece-of-paper-was-carried-away-by-the-wind",
+                "text": "The piece of paper was carried away by the wind."
+            },
+            {
+                "code": "wind_example_the-banner-was-waving-in-the-wind",
+                "text": "The banner was waving in the wind."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to twist and turn",
+        "examples": [
+            {
+                "code": "wind_example_the-road-narrowly-winds-up-the-mountain",
+                "text": "The road narrowly winds up the mountain."
+            },
+            {
+                "code": "wind_example_make-sure-you-wind-the-bandage-tightly-around-the-wound",
+                "text": "Make sure you wind the bandage tightly around the wound."
+            },
+            {
+                "code": "wind_example_the-road-winds-around-the-mountain",
+                "text": "The road winds around the mountain."
+            }
+        ]
+    }
+]

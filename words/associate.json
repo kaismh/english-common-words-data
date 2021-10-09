@@ -1,0 +1,48 @@
+[
+    {
+        "type": "(n)",
+        "mean": "someone you work with or do business with",
+        "examples": [
+            {
+                "code": "associate_example_she-is-a-close-associate",
+                "text": "She is a close associate."
+            }
+        ]
+    },
+    {
+        "type": "(adj)",
+        "mean": "having a lower rank or level in a particular job or organization",
+        "examples": [
+            {
+                "code": "associate_example_i-m-working-as-an-associate-professor",
+                "text": "I'm working as an associate professor."
+            },
+            {
+                "code": "associate_example_he-s-studying-for-an-associate-degree",
+                "text": "He's studying for an associate degree."
+            },
+            {
+                "code": "associate_example_he-is-currently-an-associate-member-of-the-club",
+                "text": "He is currently an associate member of the club."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to find the relationship between things; to be or join together",
+        "examples": [
+            {
+                "code": "associate_example_people-associate-drugs-with-addiction",
+                "text": "People associate drugs with addiction."
+            },
+            {
+                "code": "associate_example_she-has-been-associating-with-the-wrong-crowd",
+                "text": "She has been associating with the wrong crowd."
+            },
+            {
+                "code": "associate_example_i-don-t-want-to-associate-with-those-kinds-of-people",
+                "text": "I don't want to associate with those kinds of people."
+            }
+        ]
+    }
+]

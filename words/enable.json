@@ -1,0 +1,20 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to help make it possible for someone to do something",
+        "examples": [
+            {
+                "code": "enable_example_this-feature-enables-us-to-work-faster",
+                "text": "This feature enables us to work faster."
+            },
+            {
+                "code": "enable_example_technology-enables-people-to-do-many-things-more-quickly",
+                "text": "Technology enables people to do many things more quickly."
+            },
+            {
+                "code": "enable_example_this-new-system-quickly-enables-us-to-locate-lost-items",
+                "text": "This new system quickly enables us to locate lost items."
+            }
+        ]
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a group of people formed for a particular purpose; the way something is arranged or planned",
+        "examples": [
+            {
+                "code": "organization_example_i-established-the-organization-25-years-ago",
+                "text": "I established the organization 25 years ago."
+            },
+            {
+                "code": "organization_example_when-did-you-join-the-organization",
+                "text": "When did you join the organization?"
+            },
+            {
+                "code": "organization_example_he-works-at-a-nonprofit-organization",
+                "text": "He works at a nonprofit organization."
+            },
+            {
+                "code": "organization_example_i-work-for-a-community-organization",
+                "text": "I work for a community organization."
+            },
+            {
+                "code": "organization_example_she-runs-a-charitable-organization",
+                "text": "She runs a charitable organization."
+            },
+            {
+                "code": "organization_example_we-are-working-for-a-large-organization",
+                "text": "We are working for a large organization."
+            },
+            {
+                "code": "organization_example_he-has-poor-organization",
+                "text": "He has poor organization."
+            },
+            {
+                "code": "organization_example_the-job-requires-effective-organization",
+                "text": "The job requires effective organization."
+            },
+            {
+                "code": "organization_example_the-people-in-the-organization-are-friendly",
+                "text": "The people in the organization are friendly."
+            }
+        ]
+    }
+]

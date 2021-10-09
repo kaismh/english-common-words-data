@@ -1,0 +1,72 @@
+[
+    {
+        "type": "(n)",
+        "mean": "someone who is very good at something; owner of a dog",
+        "examples": [
+            {
+                "code": "master_example_dogs-are-trained-to-serve-their-masters",
+                "text": "Dogs are trained to serve their masters."
+            },
+            {
+                "code": "master_example_she-is-a-master-carpenter",
+                "text": "She is a master carpenter."
+            },
+            {
+                "code": "master_example_he-was-a-chess-master",
+                "text": "He was a chess master."
+            },
+            {
+                "code": "master_example_he-is-a-master-of-disguise",
+                "text": "He is a master of disguise."
+            }
+        ]
+    },
+    {
+        "type": "(adj)",
+        "mean": "having great skills; most important or largest",
+        "examples": [
+            {
+                "code": "master_example_i-have-the-master-document",
+                "text": "I have the master document."
+            },
+            {
+                "code": "master_example_do-you-know-the-master-plan",
+                "text": "Do you know the master plan?"
+            },
+            {
+                "code": "master_example_the-master-bathroom-is-upstairs",
+                "text": "The master bathroom is upstairs."
+            },
+            {
+                "code": "master_example_he-is-a-master-teacher",
+                "text": "He is a master teacher."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to become very good at something",
+        "examples": [
+            {
+                "code": "master_example_he-failed-to-master-the-instrument",
+                "text": "He failed to master the instrument."
+            },
+            {
+                "code": "master_example_i-mastered-the-basics-easily",
+                "text": "I mastered the basics easily."
+            },
+            {
+                "code": "master_example_she-mastered-the-technique",
+                "text": "She mastered the technique."
+            },
+            {
+                "code": "master_example_you-will-quickly-master-the-language",
+                "text": "You will quickly master the language."
+            },
+            {
+                "code": "master_example_he-completely-mastered-how-to-play-the-game",
+                "text": "He completely mastered how to play the game."
+            }
+        ]
+    }
+]

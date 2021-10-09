@@ -1,0 +1,32 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to cause something to move through the air with your hands",
+        "examples": [
+            {
+                "code": "throw_example_he-quickly-threw-sand-on-the-fire",
+                "text": "He quickly threw sand on the fire."
+            },
+            {
+                "code": "throw_example_she-accidentally-threw-the-project-in-the-trash-can",
+                "text": "She accidentally threw the project in the trash can."
+            },
+            {
+                "code": "throw_example_she-carelessly-throws-her-clothes-all-over-the-floor",
+                "text": "She carelessly throws her clothes all over the floor."
+            },
+            {
+                "code": "throw_example_he-angrily-threw-his-keys-at-the-wall",
+                "text": "He angrily threw his keys at the wall."
+            },
+            {
+                "code": "throw_example_she-threw-the-ball-at-him",
+                "text": "She threw the ball at him."
+            },
+            {
+                "code": "throw_example_she-wanted-to-throw-her-arms-around-him",
+                "text": "She wanted to throw her arms around him."
+            }
+        ]
+    }
+]

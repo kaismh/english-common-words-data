@@ -1,0 +1,134 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a drawing showing how something is made; the style of something",
+        "examples": [
+            {
+                "code": "design_example_the-graphic-design-is-beautiful",
+                "text": "The graphic design is beautiful."
+            },
+            {
+                "code": "design_example_he-works-on-software-design",
+                "text": "He works on software design."
+            },
+            {
+                "code": "design_example_it-s-a-basic-design",
+                "text": "It's a basic design."
+            },
+            {
+                "code": "design_example_the-new-model-has-an-excellent-design",
+                "text": "The new model has an excellent design."
+            },
+            {
+                "code": "design_example_we-prefer-the-bold-design",
+                "text": "We prefer the bold design."
+            },
+            {
+                "code": "design_example_we-like-classical-designs",
+                "text": "We like classical designs."
+            },
+            {
+                "code": "design_example_the-artist-creates-simple-designs",
+                "text": "The artist creates simple designs."
+            },
+            {
+                "code": "design_example_she-created-a-cool-design",
+                "text": "She created a cool design."
+            },
+            {
+                "code": "design_example_he-needs-to-improve-the-design",
+                "text": "He needs to improve the design."
+            },
+            {
+                "code": "design_example_we-followed-the-original-design",
+                "text": "We followed the original design."
+            },
+            {
+                "code": "design_example_the-quilt-has-a-complex-design",
+                "text": "The quilt has a complex design."
+            },
+            {
+                "code": "design_example_he-owns-a-design-business",
+                "text": "He owns a design business."
+            },
+            {
+                "code": "design_example_the-woman-is-a-design-consultant",
+                "text": "The woman is a design consultant."
+            },
+            {
+                "code": "design_example_the-design-staff-is-working-on-the-project",
+                "text": "The design staff is working on the project."
+            },
+            {
+                "code": "design_example_have-you-seen-the-design-department",
+                "text": "Have you seen the design department?"
+            },
+            {
+                "code": "design_example_where-are-we-in-the-design-process",
+                "text": "Where are we in the design process?"
+            },
+            {
+                "code": "design_example_we-are-using-a-new-design-tool",
+                "text": "We are using a new design tool."
+            },
+            {
+                "code": "design_example_i-like-that-design-concept",
+                "text": "I like that design concept."
+            },
+            {
+                "code": "design_example_what-are-the-design-requirements",
+                "text": "What are the design requirements?"
+            },
+            {
+                "code": "design_example_we-came-across-a-design-challenge",
+                "text": "We came across a design challenge."
+            },
+            {
+                "code": "design_example_they-are-modifying-the-design-features",
+                "text": "They are modifying the design features."
+            },
+            {
+                "code": "design_example_her-design-for-the-new-building-is-incredible",
+                "text": "Her design for the new building is incredible."
+            },
+            {
+                "code": "design_example_it-is-very-complex-in-design",
+                "text": "It is very complex in design."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to create or draw how something is made or built",
+        "examples": [
+            {
+                "code": "design_example_the-building-was-carefully-designed-by-a-new-architect",
+                "text": "The building was carefully designed by a new architect."
+            },
+            {
+                "code": "design_example_he-designed-the-cake-beautifully",
+                "text": "He designed the cake beautifully."
+            },
+            {
+                "code": "design_example_she-has-clothes-specially-designed-for-her-daughters",
+                "text": "She has clothes specially designed for her daughters."
+            },
+            {
+                "code": "design_example_the-company-largely-designs-airplanes",
+                "text": "The company largely designs airplanes."
+            },
+            {
+                "code": "design_example_they-initially-designed-it-to-accommodate-less-people",
+                "text": "They initially designed it to accommodate less people."
+            },
+            {
+                "code": "design_example_did-you-design-the-boat",
+                "text": "Did you design the boat?"
+            },
+            {
+                "code": "design_example_the-machine-is-designed-for-everyday-use",
+                "text": "The machine is designed for everyday use."
+            }
+        ]
+    }
+]

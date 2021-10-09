@@ -1,0 +1,52 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to make something more clear or understandable",
+        "examples": [
+            {
+                "code": "explain_example_the-teacher-fully-explained-his-expectations-to-the-class",
+                "text": "The teacher fully explained his expectations to the class."
+            },
+            {
+                "code": "explain_example_he-partially-explained-his-reasons-for-being-late",
+                "text": "He partially explained his reasons for being late."
+            },
+            {
+                "code": "explain_example_this-problem-cannot-be-easily-explained",
+                "text": "This problem cannot be easily explained."
+            },
+            {
+                "code": "explain_example_she-carefully-explained-the-problem",
+                "text": "She carefully explained the problem."
+            },
+            {
+                "code": "explain_example_the-salesperson-patiently-explained-how-the-product-works",
+                "text": "The salesperson patiently explained how the product works."
+            },
+            {
+                "code": "explain_example_he-was-able-to-explain-why-he-was-late",
+                "text": "He was able to explain why he was late."
+            },
+            {
+                "code": "explain_example_the-teacher-attempted-to-explain-the-concept-to-students",
+                "text": "The teacher attempted to explain the concept to students."
+            },
+            {
+                "code": "explain_example_it-might-help-to-explain-it-more-simply",
+                "text": "It might help to explain it more simply."
+            },
+            {
+                "code": "explain_example_she-let-him-explain-before-punishing-him",
+                "text": "She let him explain before punishing him."
+            },
+            {
+                "code": "explain_example_he-tried-to-explain-the-concept-to-me",
+                "text": "He tried to explain the concept to me."
+            },
+            {
+                "code": "explain_example_they-explained-about-their-actions",
+                "text": "They explained about their actions."
+            }
+        ]
+    }
+]

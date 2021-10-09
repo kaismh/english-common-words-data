@@ -1,0 +1,76 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the state of feeling safe; protection from danger",
+        "examples": [
+            {
+                "code": "security_example_bob-has-great-job-security",
+                "text": "Bob has great job security."
+            },
+            {
+                "code": "security_example_we-need-greater-security-in-our-building",
+                "text": "We need greater security in our building."
+            },
+            {
+                "code": "security_example_the-airport-has-heightened-security",
+                "text": "The airport has heightened security."
+            },
+            {
+                "code": "security_example_airline-security-is-getting-tighter",
+                "text": "Airline security is getting tighter."
+            },
+            {
+                "code": "security_example_home-security-is-becoming-necessary-in-our-neighborhood",
+                "text": "Home security is becoming necessary in our neighborhood."
+            },
+            {
+                "code": "security_example_they-have-better-security-in-the-apartment-building",
+                "text": "They have better security in the apartment building."
+            },
+            {
+                "code": "security_example_her-job-gives-her-the-financial-security-to-live-in-luxury",
+                "text": "Her job gives her the financial security to live in luxury."
+            },
+            {
+                "code": "security_example_we-need-to-improve-security-at-school",
+                "text": "We need to improve security at school."
+            },
+            {
+                "code": "security_example_people-in-the-armed-forces-protect-our-national-security",
+                "text": "People in the armed forces protect our national security."
+            },
+            {
+                "code": "security_example_can-you-ensure-the-security-of-the-passengers",
+                "text": "Can you ensure the security of the passengers?"
+            },
+            {
+                "code": "security_example_she-compromised-our-security-by-telling-people-the-alarm-code",
+                "text": "She compromised our security by telling people the alarm code."
+            },
+            {
+                "code": "security_example_we-hired-a-new-security-guard",
+                "text": "We hired a new security guard."
+            },
+            {
+                "code": "security_example_we-are-installing-a-security-camera-at-the-building-entrance",
+                "text": "We are installing a security camera at the building entrance."
+            },
+            {
+                "code": "security_example_the-security-risk-is-low",
+                "text": "The security risk is low."
+            },
+            {
+                "code": "security_example_we-have-serious-security-issues",
+                "text": "We have serious security issues."
+            },
+            {
+                "code": "security_example_there-was-a-company-wide-security-breach",
+                "text": "There was a company-wide security breach."
+            },
+            {
+                "code": "security_example_the-locks-provide-security-against-robberies",
+                "text": "The locks provide security against robberies."
+            }
+        ]
+    }
+]

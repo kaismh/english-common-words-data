@@ -1,0 +1,32 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to make a connection",
+        "examples": [
+            {
+                "code": "relate_example_i-am-trying-to-relate-to-him-but-it-is-not-easy",
+                "text": "I am trying to relate to him, but it is not easy."
+            },
+            {
+                "code": "relate_example_i-can-relate-to-what-he-s-saying",
+                "text": "I can relate to what he's saying."
+            },
+            {
+                "code": "relate_example_after-she-related-her-experience-to-me-i-was-shocked",
+                "text": "After she related her experience to me, I was shocked."
+            },
+            {
+                "code": "relate_example_i-can-closely-relate-to-my-students",
+                "text": "I can closely relate to my students."
+            },
+            {
+                "code": "relate_example_i-specifically-relate-to-this-age-group",
+                "text": "I specifically relate to this age group."
+            },
+            {
+                "code": "relate_example_i-can-t-relate-to-her-at-all",
+                "text": "I can't relate to her at all."
+            }
+        ]
+    }
+]

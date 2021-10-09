@@ -1,0 +1,52 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the comparison of two things",
+        "examples": [
+            {
+                "code": "ratio_example_we-increased-the-ratio-of-water-to-flour",
+                "text": "We increased the ratio of water to flour."
+            },
+            {
+                "code": "ratio_example_we-have-an-equal-ratio-of-parent-volunteers-and-students",
+                "text": "We have an equal ratio of parent volunteers and students."
+            },
+            {
+                "code": "ratio_example_how-can-we-improve-the-teacher-to-student-ratio",
+                "text": "How can we improve the teacher to student ratio?"
+            },
+            {
+                "code": "ratio_example_we-need-to-calculate-the-teacher-to-student-ratio",
+                "text": "We need to calculate the teacher to student ratio."
+            },
+            {
+                "code": "ratio_example_the-ratio-of-milk-to-chocolate-is-too-high",
+                "text": "The ratio of milk to chocolate is too high."
+            },
+            {
+                "code": "ratio_example_what-is-the-school-s-gender-ratio",
+                "text": "What is the school's gender ratio?"
+            },
+            {
+                "code": "ratio_example_the-student-to-teacher-ratio-is-four-to-three",
+                "text": "The student to teacher ratio is four to three."
+            },
+            {
+                "code": "ratio_example_we-need-to-measure-the-benefit-to-risk-ratio",
+                "text": "We need to measure the benefit to risk ratio."
+            },
+            {
+                "code": "ratio_example_the-ratio-of-water-to-salt-is-too-high",
+                "text": "The ratio of water to salt is too high."
+            },
+            {
+                "code": "ratio_example_we-measured-the-water-and-flour-in-a-ratio-of-one-to-three",
+                "text": "We measured the water and flour in a ratio of one to three."
+            },
+            {
+                "code": "ratio_example_we-are-measuring-the-ratio-between-the-two-liquids",
+                "text": "We are measuring the ratio between the two liquids."
+            }
+        ]
+    }
+]

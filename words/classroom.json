@@ -1,0 +1,36 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a room in a school where students are taught",
+        "examples": [
+            {
+                "code": "classroom_example_the-children-participate-in-the-classroom-discussion",
+                "text": "The children participate in the classroom discussion."
+            },
+            {
+                "code": "classroom_example_the-classroom-setting-is-very-structured",
+                "text": "The classroom setting is very structured."
+            },
+            {
+                "code": "classroom_example_the-classroom-teacher-is-very-strict",
+                "text": "The classroom teacher is very strict."
+            },
+            {
+                "code": "classroom_example_the-school-needs-new-classroom-desks",
+                "text": "The school needs new classroom desks."
+            },
+            {
+                "code": "classroom_example_the-students-entered-the-classroom",
+                "text": "The students entered the classroom."
+            },
+            {
+                "code": "classroom_example_students-are-studying-in-the-classroom",
+                "text": "Students are studying in the classroom."
+            },
+            {
+                "code": "classroom_example_the-school-needs-bigger-classrooms",
+                "text": "The school needs bigger classrooms."
+            }
+        ]
+    }
+]

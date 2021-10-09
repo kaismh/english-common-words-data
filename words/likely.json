@@ -1,0 +1,40 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "possible; expected to happen",
+        "examples": [
+            {
+                "code": "likely_example_it-appears-likely-that-he-will-win-the-election",
+                "text": "It appears likely that he will win the election."
+            },
+            {
+                "code": "likely_example_it-is-becoming-likely-that-we-will-have-to-close-the-business",
+                "text": "It is becoming likely that we will have to close the business."
+            },
+            {
+                "code": "likely_example_their-actions-are-making-divorce-more-likely",
+                "text": "Their actions are making divorce more likely."
+            },
+            {
+                "code": "likely_example_it-seems-very-likely-that-he-will-resign-soon",
+                "text": "It seems very likely that he will resign soon."
+            },
+            {
+                "code": "likely_example_it-s-highly-likely-that-the-factory-will-shut-down",
+                "text": "It's highly likely that the factory will shut down."
+            },
+            {
+                "code": "likely_example_they-re-hardly-likely-to-get-home-before-midnight",
+                "text": "They're hardly likely to get home before midnight."
+            },
+            {
+                "code": "likely_example_he-is-the-likely-candidate",
+                "text": "He is the likely candidate."
+            },
+            {
+                "code": "likely_example_it-is-the-likely-cause-of-the-situation",
+                "text": "It is the likely cause of the situation."
+            }
+        ]
+    }
+]

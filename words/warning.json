@@ -1,0 +1,60 @@
+[
+    {
+        "type": "(n)",
+        "mean": "an action that tells someone about a danger or a bad thing that might happen; a statement that bad behavior will be punished if it happens again",
+        "examples": [
+            {
+                "code": "warning_example_the-city-issued-an-urgent-warning-of-a-tornado-coming-to-the-area",
+                "text": "The city issued an urgent warning of a tornado coming to the area."
+            },
+            {
+                "code": "warning_example_we-received-advance-warning-about-the-flood",
+                "text": "We received advance warning about the flood."
+            },
+            {
+                "code": "warning_example_the-company-has-given-her-several-verbal-warnings",
+                "text": "The company has given her several verbal warnings."
+            },
+            {
+                "code": "warning_example_the-teacher-gave-the-misbehaving-student-a-strong-warning",
+                "text": "The teacher gave the misbehaving student a strong warning."
+            },
+            {
+                "code": "warning_example_it-is-important-to-put-health-warnings-on-certain-packages",
+                "text": "It is important to put health warnings on certain packages."
+            },
+            {
+                "code": "warning_example_the-referee-gave-the-soccer-player-a-warning-during-the-game",
+                "text": "The referee gave the soccer player a warning during the game."
+            },
+            {
+                "code": "warning_example_he-receives-many-warnings-for-not-doing-homework",
+                "text": "He receives many warnings for not doing homework."
+            },
+            {
+                "code": "warning_example_they-ignored-the-warning",
+                "text": "They ignored the warning."
+            },
+            {
+                "code": "warning_example_the-lifeguards-posted-a-warning-about-possible-sharks-in-the-area",
+                "text": "The lifeguards posted a warning about possible sharks in the area."
+            },
+            {
+                "code": "warning_example_a-security-alarm-provides-a-warning-of-an-intruder",
+                "text": "A security alarm provides a warning of an intruder."
+            },
+            {
+                "code": "warning_example_there-was-a-warning-about-a-flood-in-our-area",
+                "text": "There was a warning about a flood in our area."
+            },
+            {
+                "code": "warning_example_the-police-warned-against-leaving-windows-unlocked",
+                "text": "The police warned against leaving windows unlocked."
+            },
+            {
+                "code": "warning_example_they-ignored-the-warning-sign",
+                "text": "They ignored the warning sign."
+            }
+        ]
+    }
+]

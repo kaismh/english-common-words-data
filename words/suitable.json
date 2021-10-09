@@ -1,0 +1,72 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "right or appropriate for a particular purpose or occasion",
+        "examples": [
+            {
+                "code": "suitable_example_the-exercise-video-is-especially-suitable-for-beginners",
+                "text": "The exercise video is especially suitable for beginners."
+            },
+            {
+                "code": "suitable_example_the-table-is-perfectly-suitable-for-eight-guests",
+                "text": "The table is perfectly suitable for eight guests."
+            },
+            {
+                "code": "suitable_example_the-playground-is-quite-suitable-for-young-children",
+                "text": "The playground is quite suitable for young children."
+            },
+            {
+                "code": "suitable_example_her-clothing-is-not-really-suitable-for-work",
+                "text": "Her clothing is not really suitable for work."
+            },
+            {
+                "code": "suitable_example_the-movie-is-suitable-for-young-children",
+                "text": "The movie is suitable for young children."
+            },
+            {
+                "code": "suitable_example_they-make-music-suitable-for-children",
+                "text": "They make music suitable for children."
+            },
+            {
+                "code": "suitable_example_we-find-the-accommodations-suitable-for-guests",
+                "text": "We find the accommodations suitable for guests."
+            },
+            {
+                "code": "suitable_example_the-organization-provides-suitable-drinking-water-to-poor-countries",
+                "text": "The organization provides suitable drinking water to poor countries."
+            },
+            {
+                "code": "suitable_example_the-television-show-is-not-suitable-for-young-children",
+                "text": "The television show is not suitable for young children."
+            },
+            {
+                "code": "suitable_example_some-websites-are-suitable-as-learning-tools",
+                "text": "Some websites are suitable as learning tools."
+            },
+            {
+                "code": "suitable_example_her-living-conditions-are-not-suitable-to-her-growth",
+                "text": "Her living conditions are not suitable to her growth."
+            },
+            {
+                "code": "suitable_example_the-hotel-provided-suitable-accommodations-for-the-wedding-party",
+                "text": "The hotel provided suitable accommodations for the wedding party."
+            },
+            {
+                "code": "suitable_example_can-you-provide-a-suitable-alternative",
+                "text": "Can you provide a suitable alternative?"
+            },
+            {
+                "code": "suitable_example_we-have-found-a-suitable-applicant-for-the-job",
+                "text": "We have found a suitable applicant for the job."
+            },
+            {
+                "code": "suitable_example_she-needs-a-suitable-outfit-for-work",
+                "text": "She needs a suitable outfit for work."
+            },
+            {
+                "code": "suitable_example_we-are-looking-for-a-suitable-location-for-the-retirement-party",
+                "text": "We are looking for a suitable location for the retirement party."
+            }
+        ]
+    }
+]

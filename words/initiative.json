@@ -1,0 +1,64 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a new plan; the ability to act independently",
+        "examples": [
+            {
+                "code": "initiative_example_they-proposed-a-new-initiative",
+                "text": "They proposed a new initiative."
+            },
+            {
+                "code": "initiative_example_the-proposed-initiative-is-confusing",
+                "text": "The proposed initiative is confusing."
+            },
+            {
+                "code": "initiative_example_that-was-a-practical-initiative",
+                "text": "That was a practical initiative."
+            },
+            {
+                "code": "initiative_example_they-worked-on-a-collaborative-initiative-all-night",
+                "text": "They worked on a collaborative initiative all night."
+            },
+            {
+                "code": "initiative_example_he-has-great-initiative-when-it-comes-to-getting-things-done",
+                "text": "He has great initiative when it comes to getting things done."
+            },
+            {
+                "code": "initiative_example_our-group-will-undertake-a-new-initiative",
+                "text": "Our group will undertake a new initiative."
+            },
+            {
+                "code": "initiative_example_we-have-been-involved-in-this-initiative-for-a-long-time",
+                "text": "We have been involved in this initiative for a long time."
+            },
+            {
+                "code": "initiative_example_the-last-initiative-was-rejected",
+                "text": "The last initiative was rejected."
+            },
+            {
+                "code": "initiative_example_the-committee-endorsed-the-new-initiative",
+                "text": "The committee endorsed the new initiative."
+            },
+            {
+                "code": "initiative_example_he-had-the-initiative-to-start-a-new-company",
+                "text": "He had the initiative to start a new company."
+            },
+            {
+                "code": "initiative_example_we-are-against-the-new-initiative",
+                "text": "We are against the new initiative."
+            },
+            {
+                "code": "initiative_example_the-latest-initiative-by-the-governor-sounds-interesting",
+                "text": "The latest initiative by the governor sounds interesting."
+            },
+            {
+                "code": "initiative_example_an-initiative-for-gun-control-is-needed",
+                "text": "An initiative for gun control is needed."
+            },
+            {
+                "code": "initiative_example_the-state-s-new-initiative-on-gun-control-is-not-popular-with-the-voters",
+                "text": "The state's new initiative on gun control is not popular with the voters."
+            }
+        ]
+    }
+]

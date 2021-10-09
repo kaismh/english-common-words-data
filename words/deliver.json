@@ -1,0 +1,56 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to take something to a person or place; to provide a service; to help a baby to be born",
+        "examples": [
+            {
+                "code": "deliver_example_they-will-deliver-the-package-free-of-charge",
+                "text": "They will deliver the package free of charge."
+            },
+            {
+                "code": "deliver_example_they-consistently-deliver-quality-service",
+                "text": "They consistently deliver quality service."
+            },
+            {
+                "code": "deliver_example_the-company-effectively-delivers-the-right-message",
+                "text": "The company effectively delivers the right message."
+            },
+            {
+                "code": "deliver_example_the-nurse-safely-delivered-the-baby",
+                "text": "The nurse safely delivered the baby."
+            },
+            {
+                "code": "deliver_example_i-will-deliver-it-to-you",
+                "text": "I will deliver it to you."
+            },
+            {
+                "code": "deliver_example_the-letter-will-be-delivered-by-email",
+                "text": "The letter will be delivered by email."
+            },
+            {
+                "code": "deliver_example_the-baby-was-delivered-by-cesarean-section",
+                "text": "The baby was delivered by cesarean section."
+            },
+            {
+                "code": "deliver_example_the-doctor-delivered-the-baby",
+                "text": "The doctor delivered the baby."
+            },
+            {
+                "code": "deliver_example_he-tried-to-deliver-the-mail",
+                "text": "He tried to deliver the mail."
+            },
+            {
+                "code": "deliver_example_the-products-were-never-delivered",
+                "text": "The products were never delivered."
+            },
+            {
+                "code": "deliver_example_we-have-someone-deliver-the-milk",
+                "text": "We have someone deliver the milk."
+            },
+            {
+                "code": "deliver_example_no-one-wanted-to-deliver-the-bad-news",
+                "text": "No one wanted to deliver the bad news."
+            }
+        ]
+    }
+]

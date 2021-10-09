@@ -1,0 +1,74 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a feeling of being uncertain or lacking trust",
+        "examples": [
+            {
+                "code": "doubt_example_we-have-considerable-doubt-in-his-abilities",
+                "text": "We have considerable doubt in his abilities."
+            },
+            {
+                "code": "doubt_example_i-have-slight-doubt-that-she-can-do-it",
+                "text": "I have slight doubt that she can do it."
+            },
+            {
+                "code": "doubt_example_we-have-seen-growing-doubt-within-the-department",
+                "text": "We have seen growing doubt within the department."
+            },
+            {
+                "code": "doubt_example_the-woman-has-reasonable-doubt",
+                "text": "The woman has reasonable doubt."
+            },
+            {
+                "code": "doubt_example_his-actions-raise-doubt",
+                "text": "His actions raise doubt."
+            },
+            {
+                "code": "doubt_example_his-boss-felt-doubt-about-the-project",
+                "text": "His boss felt doubt about the project."
+            },
+            {
+                "code": "doubt_example_her-speech-cleared-up-any-doubt",
+                "text": "Her speech cleared up any doubt."
+            },
+            {
+                "code": "doubt_example_doubt-surrounds-the-new-law",
+                "text": "Doubt surrounds the new law."
+            },
+            {
+                "code": "doubt_example_doubt-remains-as-to-who-is-the-rightful-owner-of-the-property",
+                "text": "Doubt remains as to who is the rightful owner of the property."
+            },
+            {
+                "code": "doubt_example_she-is-without-a-doubt-my-best-friend",
+                "text": "She is without a doubt my best friend."
+            },
+            {
+                "code": "doubt_example_they-have-serious-doubt-about-his-ability",
+                "text": "They have serious doubt about his ability."
+            },
+            {
+                "code": "doubt_example_there-is-no-doubt-in-my-mind-that-she-is-the-right-candidate",
+                "text": "There is no doubt in my mind that she is the right candidate."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to feel uncertain or to lack trust",
+        "examples": [
+            {
+                "code": "doubt_example_i-highly-doubt-she-will-be-fired",
+                "text": "I highly doubt she will be fired."
+            },
+            {
+                "code": "doubt_example_i-privately-doubted-he-would-get-the-job",
+                "text": "I privately doubted he would get the job."
+            },
+            {
+                "code": "doubt_example_we-doubt-his-ability",
+                "text": "We doubt his ability."
+            }
+        ]
+    }
+]

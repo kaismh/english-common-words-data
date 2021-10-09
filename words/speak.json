@@ -1,0 +1,88 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to talk; to use one's voice to say something; to know a language",
+        "examples": [
+            {
+                "code": "speak_example_we-spoke-briefly-after-the-meeting",
+                "text": "We spoke briefly after the meeting."
+            },
+            {
+                "code": "speak_example_he-hardly-speaks-to-me-anymore",
+                "text": "He hardly speaks to me anymore."
+            },
+            {
+                "code": "speak_example_you-need-to-speak-more-loudly",
+                "text": "You need to speak more loudly."
+            },
+            {
+                "code": "speak_example_she-spoke-eloquently-at-the-convention",
+                "text": "She spoke eloquently at the convention."
+            },
+            {
+                "code": "speak_example_she-speaks-lovingly-to-her-daughter",
+                "text": "She speaks lovingly to her daughter."
+            },
+            {
+                "code": "speak_example_he-speaks-spanish-fluently",
+                "text": "He speaks Spanish fluently."
+            },
+            {
+                "code": "speak_example_i-wanted-to-speak-to-her",
+                "text": "I wanted to speak to her."
+            },
+            {
+                "code": "speak_example_no-one-dares-to-speak-to-him-when-he-is-angry",
+                "text": "No one dares to speak to him when he is angry."
+            },
+            {
+                "code": "speak_example_we-were-not-allowed-to-speak-during-the-class",
+                "text": "We were not allowed to speak during the class."
+            },
+            {
+                "code": "speak_example_i-heard-him-speak-at-the-seminar",
+                "text": "I heard him speak at the seminar."
+            },
+            {
+                "code": "speak_example_we-invited-dr-smith-to-speak-at-our-conference",
+                "text": "We invited Dr. Smith to speak at our conference."
+            },
+            {
+                "code": "speak_example_she-is-able-to-speak-three-languages",
+                "text": "She is able to speak three languages."
+            },
+            {
+                "code": "speak_example_i-cannot-speak-french-well",
+                "text": "I cannot speak French well."
+            },
+            {
+                "code": "speak_example_he-learned-to-speak-several-foreign-languages",
+                "text": "He learned to speak several foreign languages."
+            },
+            {
+                "code": "speak_example_speak-to-me-about-your-problem",
+                "text": "Speak to me about your problem."
+            },
+            {
+                "code": "speak_example_he-spoke-on-gun-control",
+                "text": "He spoke on gun control."
+            },
+            {
+                "code": "speak_example_the-manager-will-speak-with-all-the-employees",
+                "text": "The manager will speak with all the employees."
+            },
+            {
+                "code": "speak_example_she-spoke-very-well-of-him",
+                "text": "She spoke very well of him."
+            },
+            {
+                "code": "speak_example_i-will-be-speaking-to-a-group-of-teenagers",
+                "text": "I will be speaking to a group of teenagers."
+            },
+            {
+                "code": "speak_example_he-wants-us-to-speak-in-english",
+                "text": "He wants us to speak in English."
+            }
+        ]
+    }
+]

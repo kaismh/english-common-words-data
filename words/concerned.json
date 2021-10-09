@@ -1,0 +1,48 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "worried about something",
+        "examples": [
+            {
+                "code": "concerned_example_i-am-really-concerned-about-you",
+                "text": "I am really concerned about you."
+            },
+            {
+                "code": "concerned_example_we-are-extremely-concerned-about-our-jobs",
+                "text": "We are extremely concerned about our jobs."
+            },
+            {
+                "code": "concerned_example_aren-t-you-a-little-concerned",
+                "text": "Aren't you a little concerned?"
+            },
+            {
+                "code": "concerned_example_parents-are-naturally-concerned-about-their-children",
+                "text": "Parents are naturally concerned about their children."
+            },
+            {
+                "code": "concerned_example_she-is-very-concerned-about-him",
+                "text": "She is very concerned about him."
+            },
+            {
+                "code": "concerned_example_he-became-more-and-more-concerned-about-his-future",
+                "text": "He became more and more concerned about his future."
+            },
+            {
+                "code": "concerned_example_she-remained-concerned-about-safety-in-the-schools",
+                "text": "She remained concerned about safety in the schools."
+            },
+            {
+                "code": "concerned_example_she-is-concerned-about-her-grades",
+                "text": "She is concerned about her grades."
+            },
+            {
+                "code": "concerned_example_they-are-concerned-at-the-thought-of-selling-their-house",
+                "text": "They are concerned at the thought of selling their house."
+            },
+            {
+                "code": "concerned_example_we-are-concerned-for-her-future",
+                "text": "We are concerned for her future."
+            }
+        ]
+    }
+]

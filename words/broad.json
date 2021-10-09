@@ -1,0 +1,40 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "wide; general",
+        "examples": [
+            {
+                "code": "broad_example_his-area-of-study-is-extremely-broad",
+                "text": "His area of study is extremely broad."
+            },
+            {
+                "code": "broad_example_the-discussion-topics-were-quite-broad",
+                "text": "The discussion topics were quite broad."
+            },
+            {
+                "code": "broad_example_this-road-isn-t-broad-enough",
+                "text": "This road isn't broad enough."
+            },
+            {
+                "code": "broad_example_this-product-has-broad-appeal",
+                "text": "This product has broad appeal."
+            },
+            {
+                "code": "broad_example_the-meeting-will-cover-a-broad-area-of-topics",
+                "text": "The meeting will cover a broad area of topics."
+            },
+            {
+                "code": "broad_example_she-likes-men-with-broad-backs",
+                "text": "She likes men with broad backs."
+            },
+            {
+                "code": "broad_example_this-is-a-very-broad-river",
+                "text": "This is a very broad river."
+            },
+            {
+                "code": "broad_example_there-was-a-broad-variety-of-food-at-the-reception",
+                "text": "There was a broad variety of food at the reception."
+            }
+        ]
+    }
+]

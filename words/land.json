@@ -1,0 +1,98 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to return to the ground after a flight; to fall or return to the ground",
+        "examples": [
+            {
+                "code": "land_example_the-plane-landed-safely",
+                "text": "The plane landed safely."
+            },
+            {
+                "code": "land_example_she-landed-awkwardly-and-injured-her-hip",
+                "text": "She landed awkwardly and injured her hip."
+            },
+            {
+                "code": "land_example_the-dancer-landed-gracefully-into-her-partner-s-arms",
+                "text": "The dancer landed gracefully into her partner's arms."
+            },
+            {
+                "code": "land_example_the-plane-is-about-to-land-soon",
+                "text": "The plane is about to land soon."
+            },
+            {
+                "code": "land_example_the-plane-was-forced-to-land-in-a-field",
+                "text": "The plane was forced to land in a field."
+            },
+            {
+                "code": "land_example_the-pilot-managed-to-land-the-plane-safely",
+                "text": "The pilot managed to land the plane safely."
+            },
+            {
+                "code": "land_example_we-are-due-to-land-at-10-a-m",
+                "text": "We are due to land at 10 a.m."
+            },
+            {
+                "code": "land_example_she-fell-and-landed-on-her-back",
+                "text": "She fell and landed on her back."
+            }
+        ]
+    },
+    {
+        "type": "(n)",
+        "mean": "the surface of the earth; ground",
+        "examples": [
+            {
+                "code": "land_example_after-seven-days-on-a-cruise-it-was-good-to-be-on-dry-land",
+                "text": "After seven days on a cruise, it was good to be on dry land."
+            },
+            {
+                "code": "land_example_this-is-good-land-for-farming",
+                "text": "This is good land for farming."
+            },
+            {
+                "code": "land_example_nothing-can-grow-in-this-dry-land",
+                "text": "Nothing can grow in this dry land."
+            },
+            {
+                "code": "land_example_this-is-private-land",
+                "text": "This is private land."
+            },
+            {
+                "code": "land_example_they-used-the-empty-land-to-play-soccer",
+                "text": "They used the empty land to play soccer."
+            },
+            {
+                "code": "land_example_the-explorers-reached-land-after-a-long-voyage",
+                "text": "The explorers reached land after a long voyage."
+            },
+            {
+                "code": "land_example_he-bought-land-as-an-investment",
+                "text": "He bought land as an investment."
+            },
+            {
+                "code": "land_example_they-were-trying-to-sell-their-land",
+                "text": "They were trying to sell their land."
+            },
+            {
+                "code": "land_example_she-inherited-land-from-her-grandfather",
+                "text": "She inherited land from her grandfather."
+            },
+            {
+                "code": "land_example_it-s-impossible-to-reach-the-island-by-land",
+                "text": "It's impossible to reach the island by land."
+            },
+            {
+                "code": "land_example_some-animals-can-live-on-land-and-in-water",
+                "text": "Some animals can live on land and in water."
+            },
+            {
+                "code": "land_example_my-father-invested-money-for-land-development",
+                "text": "My father invested money for land development."
+            },
+            {
+                "code": "land_example_there-has-been-an-ongoing-land-dispute-between-the-two-neighbors",
+                "text": "There has been an ongoing land dispute between the two neighbors."
+            }
+        ]
+    }
+]

@@ -1,0 +1,146 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a sharp tip; a particular place or time; the main idea or detail; a small dot; a unit of scoring in a game",
+        "examples": [
+            {
+                "code": "point_example_i-see-your-point",
+                "text": "I see your point."
+            },
+            {
+                "code": "point_example_he-missed-the-point",
+                "text": "He missed the point."
+            },
+            {
+                "code": "point_example_you-have-a-great-point",
+                "text": "You have a great point."
+            },
+            {
+                "code": "point_example_she-made-a-good-point",
+                "text": "She made a good point."
+            },
+            {
+                "code": "point_example_she-argued-her-point",
+                "text": "She argued her point."
+            },
+            {
+                "code": "point_example_i-have-reached-this-point-in-my-life-through-a-lot-of-effort",
+                "text": "I have reached this point in my life through a lot of effort."
+            },
+            {
+                "code": "point_example_we-added-up-the-points",
+                "text": "We added up the points."
+            },
+            {
+                "code": "point_example_the-team-gained-a-point-in-the-last-quarter",
+                "text": "The team gained a point in the last quarter."
+            },
+            {
+                "code": "point_example_one-point-was-deducted",
+                "text": "One point was deducted."
+            },
+            {
+                "code": "point_example_what-was-the-point-difference",
+                "text": "What was the point difference?"
+            },
+            {
+                "code": "point_example_that-knife-has-a-sharp-point",
+                "text": "That knife has a sharp point!"
+            },
+            {
+                "code": "point_example_that-was-a-low-point-in-his-career",
+                "text": "That was a low point in his career."
+            },
+            {
+                "code": "point_example_what-is-the-focal-point-of-the-room",
+                "text": "What is the focal point of the room?"
+            },
+            {
+                "code": "point_example_i-think-he-missed-the-whole-point",
+                "text": "I think he missed the whole point."
+            },
+            {
+                "code": "point_example_she-made-an-interesting-point",
+                "text": "She made an interesting point."
+            },
+            {
+                "code": "point_example_what-is-the-boiling-point-of-water",
+                "text": "What is the boiling point of water?"
+            },
+            {
+                "code": "point_example_she-uses-too-many-exclamation-points-in-her-writing",
+                "text": "She uses too many exclamation points in her writing!"
+            },
+            {
+                "code": "point_example_she-forgot-the-decimal-point",
+                "text": "She forgot the decimal point."
+            },
+            {
+                "code": "point_example_she-won-the-set-point",
+                "text": "She won the set point."
+            },
+            {
+                "code": "point_example_he-scored-bonus-points",
+                "text": "He scored bonus points."
+            },
+            {
+                "code": "point_example_the-point-of-school-is-to-learn",
+                "text": "The point of school is to learn."
+            },
+            {
+                "code": "point_example_what-s-the-point-in-trying",
+                "text": "What's the point in trying?"
+            },
+            {
+                "code": "point_example_i-am-to-the-point-where-i-don-t-care-anymore",
+                "text": "I am to the point where I don't care anymore."
+            },
+            {
+                "code": "point_example_please-stay-on-the-point",
+                "text": "Please stay on the point."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to show where something is using your index finger; to aim at something or someone",
+        "examples": [
+            {
+                "code": "point_example_she-pointed-the-gun-downward",
+                "text": "She pointed the gun downward."
+            },
+            {
+                "code": "point_example_he-pointed-to-the-road-ahead",
+                "text": "He pointed to the road ahead."
+            },
+            {
+                "code": "point_example_he-aimlessly-pointed-her-finger-in-the-air",
+                "text": "He aimlessly pointed her finger in the air."
+            },
+            {
+                "code": "point_example_you-should-never-point-that-at-anyone",
+                "text": "You should never point that at anyone."
+            },
+            {
+                "code": "point_example_he-pointed-to-the-sky",
+                "text": "He pointed to the sky."
+            },
+            {
+                "code": "point_example_she-pointed-with-her-finger",
+                "text": "She pointed with her finger."
+            },
+            {
+                "code": "point_example_stop-pointing-your-finger-at-me",
+                "text": "Stop pointing your finger at me!"
+            },
+            {
+                "code": "point_example_she-keeps-pointing-her-finger-at-people",
+                "text": "She keeps pointing her finger at people."
+            },
+            {
+                "code": "point_example_he-pointed-a-gun-at-them",
+                "text": "He pointed a gun at them."
+            }
+        ]
+    }
+]

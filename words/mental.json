@@ -1,0 +1,60 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "having to do with the mind",
+        "examples": [
+            {
+                "code": "mental_example_can-you-form-a-mental-picture",
+                "text": "Can you form a mental picture?"
+            },
+            {
+                "code": "mental_example_it-requires-mental-exertion",
+                "text": "It requires mental exertion."
+            },
+            {
+                "code": "mental_example_she-has-poor-mental-fitness",
+                "text": "She has poor mental fitness."
+            },
+            {
+                "code": "mental_example_her-mental-agility-is-failing",
+                "text": "Her mental agility is failing."
+            },
+            {
+                "code": "mental_example_he-suffers-from-mental-problems",
+                "text": "He suffers from mental problems."
+            },
+            {
+                "code": "mental_example_he-has-a-good-mental-attitude",
+                "text": "He has a good mental attitude."
+            },
+            {
+                "code": "mental_example_he-was-sent-to-a-mental-asylum",
+                "text": "He was sent to a mental asylum."
+            },
+            {
+                "code": "mental_example_she-is-experiencing-great-mental-anguish",
+                "text": "She is experiencing great mental anguish."
+            },
+            {
+                "code": "mental_example_he-had-a-mental-breakdown",
+                "text": "He had a mental breakdown."
+            },
+            {
+                "code": "mental_example_he-has-a-mental-disease",
+                "text": "He has a mental disease."
+            },
+            {
+                "code": "mental_example_he-does-mental-arithmetic-to-work-his-brain",
+                "text": "He does mental arithmetic to work his brain."
+            },
+            {
+                "code": "mental_example_she-is-a-mental-patient",
+                "text": "She is a mental patient."
+            },
+            {
+                "code": "mental_example_what-is-her-mental-condition",
+                "text": "What is her mental condition?"
+            }
+        ]
+    }
+]

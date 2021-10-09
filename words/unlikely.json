@@ -1,0 +1,28 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "not likely to happen",
+        "examples": [
+            {
+                "code": "unlikely_example_it-is-very-unlikely-he-will-change-his-mind",
+                "text": "It is very unlikely he will change his mind."
+            },
+            {
+                "code": "unlikely_example_the-plan-is-unlikely-to-succeed",
+                "text": "The plan is unlikely to succeed."
+            },
+            {
+                "code": "unlikely_example_it-remains-unlikely-that-he-will-change-his-mind",
+                "text": "It remains unlikely that he will change his mind."
+            },
+            {
+                "code": "unlikely_example_he-was-the-unlikely-candidate",
+                "text": "He was the unlikely candidate."
+            },
+            {
+                "code": "unlikely_example_that-was-an-unlikely-explanation",
+                "text": "That was an unlikely explanation."
+            }
+        ]
+    }
+]

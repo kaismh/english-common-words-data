@@ -1,0 +1,96 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "well-known; easily recognized; having a good knowledge of something",
+        "examples": [
+            {
+                "code": "familiar_example_this-place-is-very-familiar",
+                "text": "This place is very familiar."
+            },
+            {
+                "code": "familiar_example_her-voice-sounds-very-familiar",
+                "text": "Her voice sounds very familiar."
+            },
+            {
+                "code": "familiar_example_we-are-becoming-familiar-with-the-new-neighborhood",
+                "text": "We are becoming familiar with the new neighborhood."
+            },
+            {
+                "code": "familiar_example_she-seems-familiar-with-this-topic",
+                "text": "She seems familiar with this topic."
+            },
+            {
+                "code": "familiar_example_this-situation-is-extremely-familiar",
+                "text": "This situation is extremely familiar."
+            },
+            {
+                "code": "familiar_example_i-m-becoming-increasingly-familiar-with-the-subject",
+                "text": "I'm becoming increasingly familiar with the subject."
+            },
+            {
+                "code": "familiar_example_the-subject-is-familiar-enough-to-me",
+                "text": "The subject is familiar enough to me."
+            },
+            {
+                "code": "familiar_example_the-application-process-is-already-familiar",
+                "text": "The application process is already familiar."
+            },
+            {
+                "code": "familiar_example_this-place-is-strangely-familiar",
+                "text": "This place is strangely familiar."
+            },
+            {
+                "code": "familiar_example_their-failure-is-all-too-familiar",
+                "text": "Their failure is all too familiar."
+            },
+            {
+                "code": "familiar_example_i-need-to-be-thoroughly-familiar-with-this-process",
+                "text": "I need to be thoroughly familiar with this process."
+            },
+            {
+                "code": "familiar_example_her-face-seems-rather-familiar-to-me",
+                "text": "Her face seems rather familiar to me."
+            },
+            {
+                "code": "familiar_example_her-familiar-aches-were-bothering-her-again",
+                "text": "Her familiar aches were bothering her again."
+            },
+            {
+                "code": "familiar_example_he-told-a-familiar-tale-to-the-children",
+                "text": "He told a familiar tale to the children."
+            },
+            {
+                "code": "familiar_example_she-gave-a-familiar-example-of-the-problem",
+                "text": "She gave a familiar example of the problem."
+            },
+            {
+                "code": "familiar_example_we-re-facing-a-familiar-dilemma",
+                "text": "We're facing a familiar dilemma."
+            },
+            {
+                "code": "familiar_example_we-re-no-longer-in-familiar-territory",
+                "text": "We're no longer in familiar territory."
+            },
+            {
+                "code": "familiar_example_she-tried-to-remember-a-familiar-landmark",
+                "text": "She tried to remember a familiar landmark."
+            },
+            {
+                "code": "familiar_example_a-familiar-figure-appeared-in-front-of-her",
+                "text": "A familiar figure appeared in front of her."
+            },
+            {
+                "code": "familiar_example_there-was-a-familiar-odor-in-the-room",
+                "text": "There was a familiar odor in the room."
+            },
+            {
+                "code": "familiar_example_she-has-a-familiar-face",
+                "text": "She has a familiar face."
+            },
+            {
+                "code": "familiar_example_a-familiar-pattern-is-emerging-here",
+                "text": "A familiar pattern is emerging here."
+            }
+        ]
+    }
+]

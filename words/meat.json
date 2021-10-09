@@ -1,0 +1,68 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the flesh of the animal that can be eaten",
+        "examples": [
+            {
+                "code": "meat_example_i-do-not-eat-meat",
+                "text": "I do not eat meat."
+            },
+            {
+                "code": "meat_example_she-cut-the-meat-with-a-cleaver",
+                "text": "She cut the meat with a cleaver."
+            },
+            {
+                "code": "meat_example_the-meat-is-going-to-spoil-if-you-do-not-refrigerate-it-soon",
+                "text": "The meat is going to spoil if you do not refrigerate it soon."
+            },
+            {
+                "code": "meat_example_you-should-marinate-the-meat-for-24-hours",
+                "text": "You should marinate the meat for 24 hours."
+            },
+            {
+                "code": "meat_example_children-should-chew-meat-slowly",
+                "text": "Children should chew meat slowly."
+            },
+            {
+                "code": "meat_example_i-am-not-a-meat-eater",
+                "text": "I am not a meat eater."
+            },
+            {
+                "code": "meat_example_these-meatballs-are-too-salty",
+                "text": "These meatballs are too salty."
+            },
+            {
+                "code": "meat_example_the-meatloaf-is-stale",
+                "text": "The meatloaf is stale."
+            },
+            {
+                "code": "meat_example_i-work-in-meat-packing",
+                "text": "I work in meat packing."
+            },
+            {
+                "code": "meat_example_she-uses-a-meat-grinder-in-the-kitchen",
+                "text": "She uses a meat grinder in the kitchen."
+            },
+            {
+                "code": "meat_example_meat-consumption-is-huge-in-this-country",
+                "text": "Meat consumption is huge in this country."
+            },
+            {
+                "code": "meat_example_i-prefer-red-meat",
+                "text": "I prefer red meat."
+            },
+            {
+                "code": "meat_example_raw-meat-was-left-on-the-counter",
+                "text": "Raw meat was left on the counter."
+            },
+            {
+                "code": "meat_example_the-refrigerator-smells-like-rotting-meat",
+                "text": "The refrigerator smells like rotting meat."
+            },
+            {
+                "code": "meat_example_the-meat-is-very-tough",
+                "text": "The meat is very tough."
+            }
+        ]
+    }
+]

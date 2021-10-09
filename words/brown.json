@@ -1,0 +1,42 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to turn something brown through cooking",
+        "examples": [
+            {
+                "code": "brown_example_she-browned-the-meat-on-the-stove",
+                "text": "She browned the meat on the stove."
+            }
+        ]
+    },
+    {
+        "type": "(adj)",
+        "mean": "having the color of chocolate or coffee",
+        "examples": [
+            {
+                "code": "brown_example_he-likes-his-meat-extremely-brown",
+                "text": "He likes his meat extremely brown."
+            },
+            {
+                "code": "brown_example_she-has-dark-brown-hair",
+                "text": "She has dark brown hair."
+            },
+            {
+                "code": "brown_example_he-painted-the-walls-chocolate-brown",
+                "text": "He painted the walls chocolate brown."
+            },
+            {
+                "code": "brown_example_she-brings-her-lunch-in-a-brown-bag",
+                "text": "She brings her lunch in a brown bag."
+            },
+            {
+                "code": "brown_example_i-ll-buy-brown-rice-at-the-grocery-story",
+                "text": "I'll buy brown rice at the grocery story."
+            },
+            {
+                "code": "brown_example_he-has-brown-hair",
+                "text": "He has brown hair."
+            }
+        ]
+    }
+]

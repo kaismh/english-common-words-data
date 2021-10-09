@@ -1,0 +1,36 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to accept or agree",
+        "examples": [
+            {
+                "code": "approve_example_i-fully-approve-of-your-decision",
+                "text": "I fully approve of your decision."
+            },
+            {
+                "code": "approve_example_i-don-t-personally-approve-of-tattoos-but-it-s-your-choice",
+                "text": "I don't personally approve of tattoos, but it's your choice."
+            },
+            {
+                "code": "approve_example_our-proposal-was-formally-approved-today",
+                "text": "Our proposal was formally approved today."
+            },
+            {
+                "code": "approve_example_the-law-was-unanimously-approved-by-congress",
+                "text": "The law was unanimously approved by Congress."
+            },
+            {
+                "code": "approve_example_he-does-not-approve-of-his-daughter-s-boyfriend",
+                "text": "He does not approve of his daughter's boyfriend."
+            },
+            {
+                "code": "approve_example_her-manager-must-approve-the-designs",
+                "text": "Her manager must approve the designs."
+            },
+            {
+                "code": "approve_example_her-manager-must-approve-the-report",
+                "text": "Her manager must approve the report."
+            }
+        ]
+    }
+]

@@ -1,0 +1,48 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the process of medically repairing a person's body by opening it up; an organized event that consists of many people doing different things",
+        "examples": [
+            {
+                "code": "operation_example_he-ran-the-whole-operation-alone",
+                "text": "He ran the whole operation alone."
+            },
+            {
+                "code": "operation_example_he-performed-the-operation-yesterday",
+                "text": "He performed the operation yesterday."
+            },
+            {
+                "code": "operation_example_he-needs-an-operation-on-his-leg",
+                "text": "He needs an operation on his leg."
+            },
+            {
+                "code": "operation_example_he-needs-an-emergency-operation",
+                "text": "He needs an emergency operation."
+            },
+            {
+                "code": "operation_example_they-launched-a-rescue-operation",
+                "text": "They launched a rescue operation."
+            },
+            {
+                "code": "operation_example_day-to-day-operations-are-going-smoothly",
+                "text": "Day-to-day operations are going smoothly."
+            },
+            {
+                "code": "operation_example_this-is-a-delicate-operation",
+                "text": "This is a delicate operation."
+            },
+            {
+                "code": "operation_example_he-was-awake-during-the-operation",
+                "text": "He was awake during the operation."
+            },
+            {
+                "code": "operation_example_the-operation-on-her-heart-went-well",
+                "text": "The operation on her heart went well."
+            },
+            {
+                "code": "operation_example_the-business-is-still-in-operation",
+                "text": "The business is still in operation."
+            }
+        ]
+    }
+]

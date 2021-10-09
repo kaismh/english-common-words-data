@@ -1,0 +1,52 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "not needing helping from other people; not influenced or controlled by other people",
+        "examples": [
+            {
+                "code": "independent_example_he-became-independent-at-a-young-age",
+                "text": "He became independent at a young age."
+            },
+            {
+                "code": "independent_example_she-is-very-independent",
+                "text": "She is very independent."
+            },
+            {
+                "code": "independent_example_living-alone-made-her-a-lot-more-independent",
+                "text": "Living alone made her a lot more independent."
+            },
+            {
+                "code": "independent_example_she-remained-independent-in-her-old-age",
+                "text": "She remained independent in her old age."
+            },
+            {
+                "code": "independent_example_she-may-be-blind-but-she-is-completely-independent",
+                "text": "She may be blind, but she is completely independent."
+            },
+            {
+                "code": "independent_example_she-is-a-very-independent-woman",
+                "text": "She is a very independent woman."
+            },
+            {
+                "code": "independent_example_he-was-financially-independent-by-the-age-of-eighteen",
+                "text": "He was financially independent by the age of eighteen."
+            },
+            {
+                "code": "independent_example_she-is-becoming-increasingly-independent-from-her-parents",
+                "text": "She is becoming increasingly independent from her parents."
+            },
+            {
+                "code": "independent_example_she-is-enjoying-her-newly-independent-life",
+                "text": "She is enjoying her newly independent life."
+            },
+            {
+                "code": "independent_example_we-started-an-organization-that-is-completely-independent-of-the-government",
+                "text": "We started an organization that is completely independent of the government."
+            },
+            {
+                "code": "independent_example_she-wants-to-be-independent-from-her-parents",
+                "text": "She wants to be independent from her parents."
+            }
+        ]
+    }
+]

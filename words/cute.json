@@ -1,0 +1,36 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "pretty or good looking",
+        "examples": [
+            {
+                "code": "cute_example_she-is-a-cute-baby",
+                "text": "She is a cute baby."
+            },
+            {
+                "code": "cute_example_they-are-a-cute-couple",
+                "text": "They are a cute couple."
+            },
+            {
+                "code": "cute_example_he-is-a-cute-guy",
+                "text": "He is a cute guy."
+            },
+            {
+                "code": "cute_example_the-woman-has-a-cute-face",
+                "text": "The woman has a cute face."
+            },
+            {
+                "code": "cute_example_the-puppy-is-so-cute",
+                "text": "The puppy is so cute."
+            },
+            {
+                "code": "cute_example_i-hate-to-say-this-but-the-baby-is-not-very-cute",
+                "text": "I hate to say this, but the baby is not very cute."
+            },
+            {
+                "code": "cute_example_her-son-is-extremely-cute",
+                "text": "Her son is extremely cute."
+            }
+        ]
+    }
+]

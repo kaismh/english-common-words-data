@@ -1,0 +1,36 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the dirty and harmful things in the environment",
+        "examples": [
+            {
+                "code": "pollution_example_overconsumption-causes-pollution",
+                "text": "Overconsumption causes pollution."
+            },
+            {
+                "code": "pollution_example_that-factory-generates-pollution",
+                "text": "That factory generates pollution."
+            },
+            {
+                "code": "pollution_example_how-can-we-prevent-pollution",
+                "text": "How can we prevent pollution?"
+            },
+            {
+                "code": "pollution_example_we-need-to-monitor-noise-pollution",
+                "text": "We need to monitor noise pollution."
+            },
+            {
+                "code": "pollution_example_air-pollution-is-getting-worse",
+                "text": "Air pollution is getting worse."
+            },
+            {
+                "code": "pollution_example_the-pollution-level-is-very-high",
+                "text": "The pollution level is very high."
+            },
+            {
+                "code": "pollution_example_we-need-pollution-control",
+                "text": "We need pollution control."
+            }
+        ]
+    }
+]

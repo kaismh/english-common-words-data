@@ -1,0 +1,126 @@
+[
+    {
+        "type": "(n)",
+        "mean": "one of two opposite feelings, conditions, or situations",
+        "examples": [
+            {
+                "code": "extreme_example_their-opinions-are-at-opposite-extremes",
+                "text": "Their opinions are at opposite extremes."
+            },
+            {
+                "code": "extreme_example_he-took-self-control-to-a-new-extreme",
+                "text": "He took self-control to a new extreme."
+            },
+            {
+                "code": "extreme_example_antarctica-is-a-difficult-place-to-live-due-to-the-temperature-extremes",
+                "text": "Antarctica is a difficult place to live due to the temperature extremes."
+            },
+            {
+                "code": "extreme_example_their-views-were-at-the-political-extremes",
+                "text": "Their views were at the political extremes."
+            },
+            {
+                "code": "extreme_example_he-tries-to-avoid-going-to-extremes",
+                "text": "He tries to avoid going to extremes."
+            },
+            {
+                "code": "extreme_example_they-will-go-to-any-extreme-to-get-their-way",
+                "text": "They will go to any extreme to get their way."
+            },
+            {
+                "code": "extreme_example_he-takes-exercising-to-an-unsafe-extreme",
+                "text": "He takes exercising to an unsafe extreme."
+            },
+            {
+                "code": "extreme_example_they-pushed-her-patience-to-the-extreme",
+                "text": "They pushed her patience to the extreme."
+            },
+            {
+                "code": "extreme_example_we-want-a-compromise-between-the-extremes",
+                "text": "We want a compromise between the extremes."
+            },
+            {
+                "code": "extreme_example_her-opinion-is-always-at-one-extreme",
+                "text": "Her opinion is always at one extreme."
+            }
+        ]
+    },
+    {
+        "type": "(adj)",
+        "mean": "very great; very serious or severe",
+        "examples": [
+            {
+                "code": "extreme_example_his-opinion-is-very-extreme",
+                "text": "His opinion is very extreme."
+            },
+            {
+                "code": "extreme_example_they-consider-skydiving-too-extreme",
+                "text": "They consider skydiving too extreme."
+            },
+            {
+                "code": "extreme_example_she-became-an-extreme-vegetarian-after-watching-the-documentary-on-meat",
+                "text": "She became an extreme vegetarian after watching the documentary on meat."
+            },
+            {
+                "code": "extreme_example_this-policy-is-really-extreme",
+                "text": "This policy is really extreme."
+            },
+            {
+                "code": "extreme_example_the-changes-aren-t-particularly-extreme",
+                "text": "The changes aren't particularly extreme."
+            },
+            {
+                "code": "extreme_example_some-of-her-opinions-are-rather-extreme",
+                "text": "Some of her opinions are rather extreme."
+            },
+            {
+                "code": "extreme_example_she-was-in-extreme-pain-before-her-surgery",
+                "text": "She was in extreme pain before her surgery."
+            },
+            {
+                "code": "extreme_example_he-managed-to-escape-the-extreme-poverty-of-his-youth",
+                "text": "He managed to escape the extreme poverty of his youth."
+            },
+            {
+                "code": "extreme_example_extreme-cold-isn-t-good-for-your-body",
+                "text": "Extreme cold isn't good for your body."
+            },
+            {
+                "code": "extreme_example_he-is-suffering-from-extreme-stress-right-now",
+                "text": "He is suffering from extreme stress right now."
+            },
+            {
+                "code": "extreme_example_they-called-for-an-end-to-the-extreme-violence",
+                "text": "They called for an end to the extreme violence."
+            },
+            {
+                "code": "extreme_example_the-doctor-said-it-was-an-extreme-case",
+                "text": "The doctor said it was an extreme case."
+            },
+            {
+                "code": "extreme_example_she-expressed-her-extreme-disappointment",
+                "text": "She expressed her extreme disappointment."
+            },
+            {
+                "code": "extreme_example_the-extreme-weather-is-not-good-for-farmers",
+                "text": "The extreme weather is not good for farmers."
+            },
+            {
+                "code": "extreme_example_they-placed-extreme-importance-on-the-issue",
+                "text": "They placed extreme importance on the issue."
+            },
+            {
+                "code": "extreme_example_that-was-an-extreme-reaction",
+                "text": "That was an extreme reaction."
+            },
+            {
+                "code": "extreme_example_they-expressed-their-extreme-views",
+                "text": "They expressed their extreme views."
+            },
+            {
+                "code": "extreme_example_he-pushed-the-project-to-an-extreme-degree",
+                "text": "He pushed the project to an extreme degree."
+            }
+        ]
+    }
+]

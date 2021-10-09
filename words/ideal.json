@@ -1,0 +1,82 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a person or thing regarded as perfect; the standard of perfection",
+        "examples": [
+            {
+                "code": "ideal_example_we-expect-high-ideals-from-our-leaders",
+                "text": "We expect high ideals from our leaders."
+            },
+            {
+                "code": "ideal_example_he-has-a-traditional-ideal-of-marriage",
+                "text": "He has a traditional ideal of marriage."
+            },
+            {
+                "code": "ideal_example_you-and-i-have-very-different-ethical-ideals",
+                "text": "You and I have very different ethical ideals."
+            },
+            {
+                "code": "ideal_example_her-father-does-not-agree-with-her-liberal-ideals",
+                "text": "Her father does not agree with her liberal ideals."
+            },
+            {
+                "code": "ideal_example_his-parents-are-committed-to-the-old-ideals",
+                "text": "His parents are committed to the old ideals."
+            },
+            {
+                "code": "ideal_example_my-wife-and-i-share-the-same-ideals",
+                "text": "My wife and I share the same ideals."
+            },
+            {
+                "code": "ideal_example_a-reporter-must-strive-for-the-ideals-of-truth",
+                "text": "A reporter must strive for the ideals of truth."
+            },
+            {
+                "code": "ideal_example_the-religious-leader-was-accused-of-betraying-his-moral-ideals",
+                "text": "The religious leader was accused of betraying his moral ideals."
+            },
+            {
+                "code": "ideal_example_your-words-and-actions-should-reflect-your-ideals",
+                "text": "Your words and actions should reflect your ideals."
+            }
+        ]
+    },
+    {
+        "type": "(adj)",
+        "mean": "perfect",
+        "examples": [
+            {
+                "code": "ideal_example_the-large-house-makes-it-ideal-for-their-growing-family",
+                "text": "The large house makes it ideal for their growing family."
+            },
+            {
+                "code": "ideal_example_i-consider-our-neighborhood-ideal-to-raise-a-family",
+                "text": "I consider our neighborhood ideal to raise a family."
+            },
+            {
+                "code": "ideal_example_that-church-is-an-absolutely-ideal-location-for-a-wedding",
+                "text": "That church is an absolutely ideal location for a wedding."
+            },
+            {
+                "code": "ideal_example_her-work-schedule-is-practically-ideal-for-a-single-mom",
+                "text": "Her work schedule is practically ideal for a single mom."
+            },
+            {
+                "code": "ideal_example_the-classroom-setting-was-ideal-for-learning",
+                "text": "The classroom setting was ideal for learning."
+            },
+            {
+                "code": "ideal_example_she-is-an-ideal-candidate-for-the-job",
+                "text": "She is an ideal candidate for the job."
+            },
+            {
+                "code": "ideal_example_the-hotel-provided-the-ideal-conditions-for-an-outdoor-wedding",
+                "text": "The hotel provided the ideal conditions for an outdoor wedding."
+            },
+            {
+                "code": "ideal_example_he-was-offered-an-ideal-opportunity-to-display-his-talent",
+                "text": "He was offered an ideal opportunity to display his talent."
+            }
+        ]
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "having to do with seeing",
+        "examples": [
+            {
+                "code": "visual_example_i-am-a-very-visual-person",
+                "text": "I am a very visual person."
+            },
+            {
+                "code": "visual_example_she-is-studying-visual-arts",
+                "text": "She is studying visual arts."
+            },
+            {
+                "code": "visual_example_what-visual-characteristics-do-you-find-attractive",
+                "text": "What visual characteristics do you find attractive?"
+            },
+            {
+                "code": "visual_example_he-made-a-visual-appearance",
+                "text": "He made a visual appearance."
+            },
+            {
+                "code": "visual_example_please-give-me-a-visual-clue",
+                "text": "Please give me a visual clue."
+            },
+            {
+                "code": "visual_example_they-made-visual-contact-with-the-lost-hikers",
+                "text": "They made visual contact with the lost hikers."
+            },
+            {
+                "code": "visual_example_there-are-no-visual-symptoms",
+                "text": "There are no visual symptoms."
+            }
+        ]
+    },
+    {
+        "type": "(n)",
+        "mean": "something you look at that can help you understand better",
+        "examples": [
+            {
+                "code": "visual_example_he-included-some-powerful-visuals-in-his-presentation",
+                "text": "He included some powerful visuals in his presentation."
+            },
+            {
+                "code": "visual_example_her-description-of-the-painting-left-me-with-a-bad-visual",
+                "text": "Her description of the painting left me with a bad visual."
+            },
+            {
+                "code": "visual_example_he-included-visuals-in-his-presentation",
+                "text": "He included visuals in his presentation."
+            },
+            {
+                "code": "visual_example_she-created-a-visual-of-the-story-in-her-mind",
+                "text": "She created a visual of the story in her mind."
+            },
+            {
+                "code": "visual_example_pie-charts-and-graphs-are-great-visual-aids-for-learning",
+                "text": "Pie charts and graphs are great visual aids for learning."
+            }
+        ]
+    }
+]

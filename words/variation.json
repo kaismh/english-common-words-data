@@ -1,0 +1,48 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a change from the usual way or format",
+        "examples": [
+            {
+                "code": "variation_example_that-is-a-nice-variation-of-the-song",
+                "text": "That is a nice variation of the song."
+            },
+            {
+                "code": "variation_example_there-is-a-slight-variation-in-color",
+                "text": "There is a slight variation in color."
+            },
+            {
+                "code": "variation_example_there-are-different-variations-of-that-fairy-tale",
+                "text": "There are different variations of that fairy tale."
+            },
+            {
+                "code": "variation_example_that-is-a-considerable-variation-to-the-original-song",
+                "text": "That is a considerable variation to the original song."
+            },
+            {
+                "code": "variation_example_a-slight-variation-occurred-in-the-play-from-the-book",
+                "text": "A slight variation occurred in the play from the book."
+            },
+            {
+                "code": "variation_example_she-sang-a-variation-of-a-popular-song",
+                "text": "She sang a variation of a popular song."
+            },
+            {
+                "code": "variation_example_the-director-showed-different-variations-of-the-movie-ending",
+                "text": "The director showed different variations of the movie ending."
+            },
+            {
+                "code": "variation_example_did-you-find-different-variations-of-the-book",
+                "text": "Did you find different variations of the book?"
+            },
+            {
+                "code": "variation_example_there-is-a-slight-variation-in-the-color-of-the-fabric",
+                "text": "There is a slight variation in the color of the fabric."
+            },
+            {
+                "code": "variation_example_there-are-variations-between-the-two-dialects-of-the-same-language",
+                "text": "There are variations between the two dialects of the same language."
+            }
+        ]
+    }
+]

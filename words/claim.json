@@ -1,0 +1,110 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a statement that something is true; the demand or right to have something",
+        "examples": [
+            {
+                "code": "claim_example_i-didn-t-believe-his-false-claim",
+                "text": "I didn't believe his false claim."
+            },
+            {
+                "code": "claim_example_that-s-an-absurd-claim",
+                "text": "That's an absurd claim!"
+            },
+            {
+                "code": "claim_example_the-insurance-company-will-investigate-the-large-claim",
+                "text": "The insurance company will investigate the large claim."
+            },
+            {
+                "code": "claim_example_she-received-a-lot-of-money-for-her-accident-claim",
+                "text": "She received a lot of money for her accident claim."
+            },
+            {
+                "code": "claim_example_he-has-a-strong-claim-in-this-property",
+                "text": "He has a strong claim in this property."
+            },
+            {
+                "code": "claim_example_the-company-made-bogus-claims-that-their-products-were-safe",
+                "text": "The company made bogus claims that their products were safe."
+            },
+            {
+                "code": "claim_example_she-has-challenged-my-claim",
+                "text": "She has challenged my claim."
+            },
+            {
+                "code": "claim_example_you-better-prove-your-claim-with-facts",
+                "text": "You better prove your claim with facts."
+            },
+            {
+                "code": "claim_example_the-insurance-company-will-evaluate-the-claim",
+                "text": "The insurance company will evaluate the claim."
+            },
+            {
+                "code": "claim_example_the-claim-was-allowed-in-court",
+                "text": "The claim was allowed in court."
+            },
+            {
+                "code": "claim_example_did-you-file-a-claim-for-damages",
+                "text": "Did you file a claim for damages?"
+            },
+            {
+                "code": "claim_example_he-decided-to-drop-the-claim",
+                "text": "He decided to drop the claim."
+            },
+            {
+                "code": "claim_example_we-won-our-claim",
+                "text": "We won our claim."
+            },
+            {
+                "code": "claim_example_i-am-staking-my-claim-to-this-property",
+                "text": "I am staking my claim to this property."
+            },
+            {
+                "code": "claim_example_you-ll-need-to-establish-your-claim",
+                "text": "You'll need to establish your claim."
+            },
+            {
+                "code": "claim_example_the-human-resources-department-is-investigating-claims-about-sexual-harassment-in-the-office",
+                "text": "The human resources department is investigating claims about sexual harassment in the office."
+            },
+            {
+                "code": "claim_example_she-filed-a-claim-against-her-former-employer",
+                "text": "She filed a claim against her former employer."
+            },
+            {
+                "code": "claim_example_he-filed-a-claim-for-damages-to-his-car",
+                "text": "He filed a claim for damages to his car."
+            },
+            {
+                "code": "claim_example_we-have-a-claim-on-our-grandfather-s-land",
+                "text": "We have a claim on our grandfather's land."
+            },
+            {
+                "code": "claim_example_she-lost-the-claim-to-the-property",
+                "text": "She lost the claim to the property."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to say that something is true; to ask for something that belongs to you or that you think you have the right to have",
+        "examples": [
+            {
+                "code": "claim_example_he-justifiably-claimed-credit-for-the-idea",
+                "text": "He justifiably claimed credit for the idea."
+            },
+            {
+                "code": "claim_example_she-falsely-claimed-that-it-was-an-accident",
+                "text": "She falsely claimed that it was an accident."
+            },
+            {
+                "code": "claim_example_they-frequently-claim-that-they-have-no-money",
+                "text": "They frequently claim that they have no money."
+            },
+            {
+                "code": "claim_example_she-tried-to-claim-that-her-dog-ate-her-homework",
+                "text": "She tried to claim that her dog ate her homework."
+            }
+        ]
+    }
+]

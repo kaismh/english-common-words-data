@@ -1,0 +1,40 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to have a different opinion about something; to not agree",
+        "examples": [
+            {
+                "code": "disagree_example_the-directors-sharply-disagree",
+                "text": "The directors sharply disagree."
+            },
+            {
+                "code": "disagree_example_my-mother-will-respectfully-disagree-with-me",
+                "text": "My mother will respectfully disagree with me."
+            },
+            {
+                "code": "disagree_example_she-and-her-father-simply-disagree",
+                "text": "She and her father simply disagree."
+            },
+            {
+                "code": "disagree_example_the-president-openly-disagrees-on-the-issue",
+                "text": "The president openly disagrees on the issue."
+            },
+            {
+                "code": "disagree_example_the-two-men-obviously-disagree-with-each-other",
+                "text": "The two men obviously disagree with each other."
+            },
+            {
+                "code": "disagree_example_they-disagree-about-everything",
+                "text": "They disagree about everything."
+            },
+            {
+                "code": "disagree_example_we-disagree-on-this-issue",
+                "text": "We disagree on this issue."
+            },
+            {
+                "code": "disagree_example_my-grandparents-disagree-with-the-church",
+                "text": "My grandparents disagree with the church."
+            }
+        ]
+    }
+]

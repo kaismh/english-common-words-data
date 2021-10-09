@@ -1,0 +1,32 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "certain to happen; unavoidable",
+        "examples": [
+            {
+                "code": "inevitable_example_that-street-is-so-dangerous-the-accident-was-inevitable",
+                "text": "That street is so dangerous, the accident was inevitable."
+            },
+            {
+                "code": "inevitable_example_the-change-in-policy-became-inevitable",
+                "text": "The change in policy became inevitable."
+            },
+            {
+                "code": "inevitable_example_fighting-with-his-boss-made-his-resignation-inevitable",
+                "text": "Fighting with his boss made his resignation inevitable."
+            },
+            {
+                "code": "inevitable_example_he-sees-failure-as-inevitable",
+                "text": "He sees failure as inevitable."
+            },
+            {
+                "code": "inevitable_example_selling-their-home-was-virtually-inevitable",
+                "text": "Selling their home was virtually inevitable."
+            },
+            {
+                "code": "inevitable_example_getting-hurt-in-the-game-is-almost-inevitable",
+                "text": "Getting hurt in the game is almost inevitable."
+            }
+        ]
+    }
+]

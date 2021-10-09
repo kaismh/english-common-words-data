@@ -1,0 +1,64 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a global computer network",
+        "examples": [
+            {
+                "code": "internet_example_he-needs-wireless-internet-to-do-his-work",
+                "text": "He needs wireless Internet to do his work."
+            },
+            {
+                "code": "internet_example_she-goes-on-the-internet-daily",
+                "text": "She goes on the Internet daily."
+            },
+            {
+                "code": "internet_example_some-countries-have-attempted-to-regulate-the-internet",
+                "text": "Some countries have attempted to regulate the Internet."
+            },
+            {
+                "code": "internet_example_he-is-trying-to-develop-his-own-internet-site",
+                "text": "He is trying to develop his own Internet site."
+            },
+            {
+                "code": "internet_example_internet-cafes-are-becoming-more-popular",
+                "text": "Internet cafes are becoming more popular."
+            },
+            {
+                "code": "internet_example_the-boy-had-unlimited-internet-access",
+                "text": "The boy had unlimited Internet access."
+            },
+            {
+                "code": "internet_example_what-is-the-internet-website-address",
+                "text": "What is the Internet website address?"
+            },
+            {
+                "code": "internet_example_which-internet-browser-is-the-easiest-to-navigate",
+                "text": "Which Internet browser is the easiest to navigate?"
+            },
+            {
+                "code": "internet_example_our-company-uses-the-largest-internet-provider",
+                "text": "Our company uses the largest Internet provider."
+            },
+            {
+                "code": "internet_example_more-people-are-using-internet-banking",
+                "text": "More people are using Internet banking."
+            },
+            {
+                "code": "internet_example_we-have-a-slow-internet-connection",
+                "text": "We have a slow Internet connection."
+            },
+            {
+                "code": "internet_example_internet-security-is-very-important-these-days",
+                "text": "Internet security is very important these days."
+            },
+            {
+                "code": "internet_example_he-is-always-on-the-internet",
+                "text": "He is always on the Internet."
+            },
+            {
+                "code": "internet_example_it-is-possible-to-earn-a-college-degree-over-the-internet",
+                "text": "It is possible to earn a college degree over the Internet."
+            }
+        ]
+    }
+]

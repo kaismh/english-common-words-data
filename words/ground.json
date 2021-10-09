@@ -1,0 +1,160 @@
+[
+    {
+        "type": "(n)",
+        "mean": "surface of the earth; location used for a specific purpose; area surrounding a large building; area of interest, study or discussion; reason",
+        "examples": [
+            {
+                "code": "ground_example_he-slept-on-the-firm-ground",
+                "text": "He slept on the firm ground."
+            },
+            {
+                "code": "ground_example_she-walked-carefully-across-the-muddy-ground",
+                "text": "She walked carefully across the muddy ground."
+            },
+            {
+                "code": "ground_example_the-fertile-ground-produced-a-good-crop",
+                "text": "The fertile ground produced a good crop."
+            },
+            {
+                "code": "ground_example_we-need-to-move-to-high-ground",
+                "text": "We need to move to high ground."
+            },
+            {
+                "code": "ground_example_there-is-nothing-but-open-ground-here",
+                "text": "There is nothing but open ground here."
+            },
+            {
+                "code": "ground_example_they-can-t-build-anything-on-this-rocky-ground",
+                "text": "They can't build anything on this rocky ground."
+            },
+            {
+                "code": "ground_example_we-need-to-find-some-level-ground",
+                "text": "We need to find some level ground."
+            },
+            {
+                "code": "ground_example_this-was-once-a-burial-ground",
+                "text": "This was once a burial ground."
+            },
+            {
+                "code": "ground_example_they-are-designating-new-hunting-grounds",
+                "text": "They are designating new hunting grounds."
+            },
+            {
+                "code": "ground_example_this-is-a-protected-breeding-ground",
+                "text": "This is a protected breeding ground."
+            },
+            {
+                "code": "ground_example_the-resort-has-extensive-grounds",
+                "text": "The resort has extensive grounds."
+            },
+            {
+                "code": "ground_example_they-toured-the-castle-grounds",
+                "text": "They toured the castle grounds."
+            },
+            {
+                "code": "ground_example_they-are-trying-to-find-some-middle-ground",
+                "text": "They are trying to find some middle ground."
+            },
+            {
+                "code": "ground_example_he-has-reasonable-grounds-to-sue",
+                "text": "He has reasonable grounds to sue."
+            },
+            {
+                "code": "ground_example_we-must-consider-the-moral-grounds-of-this-decision",
+                "text": "We must consider the moral grounds of this decision."
+            },
+            {
+                "code": "ground_example_they-cited-economic-grounds-for-the-changes",
+                "text": "They cited economic grounds for the changes."
+            },
+            {
+                "code": "ground_example_the-glass-broke-when-it-hit-the-ground",
+                "text": "The glass broke when it hit the ground."
+            },
+            {
+                "code": "ground_example_don-t-let-that-touch-the-ground",
+                "text": "Don't let that touch the ground."
+            },
+            {
+                "code": "ground_example_the-balloon-was-too-heavy-to-leave-the-ground",
+                "text": "The balloon was too heavy to leave the ground."
+            },
+            {
+                "code": "ground_example_leaves-covered-the-ground",
+                "text": "Leaves covered the ground."
+            },
+            {
+                "code": "ground_example_she-has-legitimate-grounds-for-a-lawsuit",
+                "text": "She has legitimate grounds for a lawsuit."
+            },
+            {
+                "code": "ground_example_they-crossed-the-palace-grounds",
+                "text": "They crossed the palace grounds."
+            },
+            {
+                "code": "ground_example_we-already-covered-this-ground",
+                "text": "We already covered this ground."
+            },
+            {
+                "code": "ground_example_the-apartment-is-at-ground-level",
+                "text": "The apartment is at ground level."
+            },
+            {
+                "code": "ground_example_they-buried-it-in-the-ground",
+                "text": "They buried it in the ground."
+            },
+            {
+                "code": "ground_example_he-slept-on-the-ground",
+                "text": "He slept on the ground."
+            },
+            {
+                "code": "ground_example_they-built-a-room-above-the-ground",
+                "text": "They built a room above the ground."
+            },
+            {
+                "code": "ground_example_there-are-natural-waterways-under-the-ground-here",
+                "text": "There are natural waterways under the ground here."
+            },
+            {
+                "code": "ground_example_his-behavior-was-grounds-for-a-suspension",
+                "text": "His behavior was grounds for a suspension."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to provide a reason for; to keep from leaving the area",
+        "examples": [
+            {
+                "code": "ground_example_her-teaching-methods-are-firmly-grounded-in-her-students",
+                "text": "Her teaching methods are firmly grounded in her students."
+            },
+            {
+                "code": "ground_example_his-work-has-been-historically-grounded-in-the-minds-of-his-followers",
+                "text": "His work has been historically grounded in the minds of his followers."
+            },
+            {
+                "code": "ground_example_bad-weather-grounded-the-flight",
+                "text": "Bad weather grounded the flight."
+            }
+        ]
+    },
+    {
+        "type": "(adj)",
+        "mean": "made into very small pieces or a powder",
+        "examples": [
+            {
+                "code": "ground_example_the-recipe-calls-for-ground-beef",
+                "text": "The recipe calls for ground beef."
+            },
+            {
+                "code": "ground_example_i-need-some-ground-spices",
+                "text": "I need some ground spices."
+            },
+            {
+                "code": "ground_example_do-you-want-ground-coffee-or-whole-bean",
+                "text": "Do you want ground coffee or whole bean?"
+            }
+        ]
+    }
+]

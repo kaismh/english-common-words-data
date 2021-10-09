@@ -1,0 +1,36 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "having the skill and imagination to make something new or different",
+        "examples": [
+            {
+                "code": "creative_example_he-is-very-creative",
+                "text": "He is very creative."
+            },
+            {
+                "code": "creative_example_she-is-extremely-creative",
+                "text": "She is extremely creative."
+            },
+            {
+                "code": "creative_example_he-has-a-creative-ability",
+                "text": "He has a creative ability."
+            },
+            {
+                "code": "creative_example_the-company-has-become-a-creative-force",
+                "text": "The company has become a creative force."
+            },
+            {
+                "code": "creative_example_creative-expression-is-important",
+                "text": "Creative expression is important."
+            },
+            {
+                "code": "creative_example_she-has-a-creative-imagination",
+                "text": "She has a creative imagination."
+            },
+            {
+                "code": "creative_example_he-is-a-very-creative-person",
+                "text": "He is a very creative person."
+            }
+        ]
+    }
+]

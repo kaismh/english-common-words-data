@@ -1,0 +1,52 @@
+[
+    {
+        "type": "(n)",
+        "mean": "facts or information that show something is true or real",
+        "examples": [
+            {
+                "code": "proof_example_do-you-have-any-proof-that-he-did-that",
+                "text": "Do you have any proof that he did that?"
+            },
+            {
+                "code": "proof_example_i-want-proof-that-this-happened",
+                "text": "I want proof that this happened."
+            },
+            {
+                "code": "proof_example_did-you-see-proof-of-it",
+                "text": "Did you see proof of it?"
+            },
+            {
+                "code": "proof_example_i-showed-you-proof-already",
+                "text": "I showed you proof already."
+            },
+            {
+                "code": "proof_example_this-rock-is-proof-that-the-earth-is-very-old",
+                "text": "This rock is proof that the earth is very old."
+            },
+            {
+                "code": "proof_example_i-need-solid-proof-that-she-was-there",
+                "text": "I need solid proof that she was there."
+            },
+            {
+                "code": "proof_example_she-is-living-proof-that-it-can-be-done",
+                "text": "She is living proof that it can be done."
+            },
+            {
+                "code": "proof_example_she-offered-written-proof",
+                "text": "She offered written proof."
+            },
+            {
+                "code": "proof_example_i-have-final-proof-that-he-caused-the-accident",
+                "text": "I have final proof that he caused the accident."
+            },
+            {
+                "code": "proof_example_she-showed-us-proof-of-alien-life",
+                "text": "She showed us proof of alien life."
+            },
+            {
+                "code": "proof_example_you-shouldn-t-say-such-things-without-proof",
+                "text": "You shouldn't say such things without proof."
+            }
+        ]
+    }
+]

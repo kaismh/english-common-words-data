@@ -1,0 +1,122 @@
+[
+    {
+        "type": "(n)",
+        "mean": "an equal amount of two or more things; the amount of money in a financial account; the act of staying in a position without falling",
+        "examples": [
+            {
+                "code": "balance_example_children-need-to-find-an-ideal-balance-between-study-and-play",
+                "text": "Children need to find an ideal balance between study and play."
+            },
+            {
+                "code": "balance_example_what-is-the-right-balance-of-meat-and-vegetables-in-my-diet",
+                "text": "What is the right balance of meat and vegetables in my diet?"
+            },
+            {
+                "code": "balance_example_we-must-preserve-the-ecological-balance-of-the-planet",
+                "text": "We must preserve the ecological balance of the planet."
+            },
+            {
+                "code": "balance_example_this-city-has-an-even-ethnic-balance",
+                "text": "This city has an even ethnic balance."
+            },
+            {
+                "code": "balance_example_the-election-shifted-the-political-balance-of-power",
+                "text": "The election shifted the political balance of power."
+            },
+            {
+                "code": "balance_example_new-rules-were-created-to-ensure-competitive-balance",
+                "text": "New rules were created to ensure competitive balance."
+            },
+            {
+                "code": "balance_example_that-gymnast-has-excellent-balance",
+                "text": "That gymnast has excellent balance."
+            },
+            {
+                "code": "balance_example_i-need-to-check-my-bank-balance",
+                "text": "I need to check my bank balance."
+            },
+            {
+                "code": "balance_example_we-re-attempting-to-find-a-balance-between-the-opposing-sides",
+                "text": "We're attempting to find a balance between the opposing sides."
+            },
+            {
+                "code": "balance_example_man-made-items-have-disturbed-the-balance-of-nature",
+                "text": "Man-made items have disturbed the balance of nature."
+            },
+            {
+                "code": "balance_example_you-should-maintain-a-balance-between-work-and-relaxation",
+                "text": "You should maintain a balance between work and relaxation."
+            },
+            {
+                "code": "balance_example_after-drinking-she-had-difficulty-keeping-her-balance",
+                "text": "After drinking, she had difficulty keeping her balance."
+            },
+            {
+                "code": "balance_example_yoga-seems-to-improve-my-balance",
+                "text": "Yoga seems to improve my balance."
+            },
+            {
+                "code": "balance_example_the-medication-threw-off-my-balance",
+                "text": "The medication threw off my balance."
+            },
+            {
+                "code": "balance_example_give-me-a-moment-to-recover-my-balance",
+                "text": "Give me a moment to recover my balance."
+            },
+            {
+                "code": "balance_example_i-need-to-check-my-account-balance",
+                "text": "I need to check my account balance."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to give equal amounts; to stay in a position without falling",
+        "examples": [
+            {
+                "code": "balance_example_he-carefully-balanced-the-bowl-on-his-head",
+                "text": "He carefully balanced the bowl on his head."
+            },
+            {
+                "code": "balance_example_this-painting-beautifully-balances-technique-and-creativity",
+                "text": "This painting beautifully balances technique and creativity."
+            },
+            {
+                "code": "balance_example_many-working-mothers-are-successfully-balancing-jobs-and-family",
+                "text": "Many working mothers are successfully balancing jobs and family."
+            },
+            {
+                "code": "balance_example_i-have-to-balance-work-and-family",
+                "text": "I have to balance work and family."
+            },
+            {
+                "code": "balance_example_he-failed-to-balance-his-time-wisely",
+                "text": "He failed to balance his time wisely."
+            },
+            {
+                "code": "balance_example_he-manages-to-successfully-balance-home-and-work",
+                "text": "He manages to successfully balance home and work."
+            },
+            {
+                "code": "balance_example_the-waiter-balances-many-dishes-on-his-arms",
+                "text": "The waiter balances many dishes on his arms."
+            },
+            {
+                "code": "balance_example_she-successfully-balances-family-life-with-her-work-schedule",
+                "text": "She successfully balances family life with her work schedule."
+            },
+            {
+                "code": "balance_example_his-job-is-to-balance-the-budget-of-the-company",
+                "text": "His job is to balance the budget of the company."
+            },
+            {
+                "code": "balance_example_she-is-learning-to-balance-equations-in-math",
+                "text": "She is learning to balance equations in math."
+            },
+            {
+                "code": "balance_example_waiters-are-good-at-balancing-trays",
+                "text": "Waiters are good at balancing trays."
+            }
+        ]
+    }
+]

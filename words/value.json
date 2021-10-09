@@ -1,0 +1,78 @@
+[
+    {
+        "type": "(n)",
+        "mean": "how much money something is worth; the price",
+        "examples": [
+            {
+                "code": "value_example_what-is-the-true-value-of-that-diamond-ring",
+                "text": "What is the true value of that diamond ring?"
+            },
+            {
+                "code": "value_example_the-total-value-of-the-property-has-doubled",
+                "text": "The total value of the property has doubled."
+            },
+            {
+                "code": "value_example_what-is-the-property-value-of-that-area",
+                "text": "What is the property value of that area?"
+            },
+            {
+                "code": "value_example_i-purchased-the-car-at-face-value",
+                "text": "I purchased the car at face value."
+            },
+            {
+                "code": "value_example_how-do-we-increase-the-value-of-our-home",
+                "text": "How do we increase the value of our home?"
+            },
+            {
+                "code": "value_example_the-value-of-a-used-car-decreases-every-year",
+                "text": "The value of a used car decreases every year."
+            },
+            {
+                "code": "value_example_the-bank-helped-me-calculate-the-value-of-my-house",
+                "text": "The bank helped me calculate the value of my house."
+            },
+            {
+                "code": "value_example_i-wish-cars-kept-their-value",
+                "text": "I wish cars kept their value."
+            },
+            {
+                "code": "value_example_they-overestimated-the-value-of-their-property",
+                "text": "They overestimated the value of their property."
+            },
+            {
+                "code": "value_example_my-stock-has-dropped-in-value",
+                "text": "My stock has dropped in value."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to think something is important",
+        "examples": [
+            {
+                "code": "value_example_i-truly-value-our-friendship",
+                "text": "I truly value our friendship."
+            },
+            {
+                "code": "value_example_i-have-come-to-value-my-family-more-and-more",
+                "text": "I have come to value my family more and more."
+            },
+            {
+                "code": "value_example_he-is-valued-for-his-continuous-service-to-the-church",
+                "text": "He is valued for his continuous service to the church."
+            },
+            {
+                "code": "value_example_food-is-as-valued-as-money-in-some-countries",
+                "text": "Food is as valued as money in some countries."
+            },
+            {
+                "code": "value_example_i-value-your-friendship",
+                "text": "I value your friendship."
+            },
+            {
+                "code": "value_example_i-value-freedom",
+                "text": "I value freedom."
+            }
+        ]
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "type": "(adv)",
+        "mean": "in a truthful or fair way; with sincerity",
+        "examples": [
+            {
+                "code": "honestly_example_he-honestly-believes-he-s-right",
+                "text": "He honestly believes he's right."
+            },
+            {
+                "code": "honestly_example_they-answered-honestly",
+                "text": "They answered honestly."
+            },
+            {
+                "code": "honestly_example_do-you-honestly-expect-me-to-believe-you",
+                "text": "Do you honestly expect me to believe you?"
+            },
+            {
+                "code": "honestly_example_she-honestly-admitted-to-the-mistake",
+                "text": "She honestly admitted to the mistake."
+            },
+            {
+                "code": "honestly_example_i-honestly-don-t-know-what-happened",
+                "text": "I honestly don't know what happened."
+            },
+            {
+                "code": "honestly_example_can-you-honestly-tell-me-what-you-know",
+                "text": "Can you honestly tell me what you know?"
+            },
+            {
+                "code": "honestly_example_i-honestly-don-t-care-about-the-situation",
+                "text": "I honestly don't care about the situation."
+            },
+            {
+                "code": "honestly_example_can-you-honestly-say-that",
+                "text": "Can you honestly say that?"
+            }
+        ]
+    }
+]

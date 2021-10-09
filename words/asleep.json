@@ -1,0 +1,32 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "not awake; sleeping",
+        "examples": [
+            {
+                "code": "asleep_example_our-baby-is-sound-asleep",
+                "text": "Our baby is sound asleep."
+            },
+            {
+                "code": "asleep_example_i-was-almost-asleep-when-the-phone-rang",
+                "text": "I was almost asleep when the phone rang."
+            },
+            {
+                "code": "asleep_example_is-she-still-asleep",
+                "text": "Is she still asleep?"
+            },
+            {
+                "code": "asleep_example_he-remained-asleep-during-the-fire-alarm",
+                "text": "He remained asleep during the fire alarm."
+            },
+            {
+                "code": "asleep_example_i-couldn-t-fall-asleep-last-night",
+                "text": "I couldn't fall asleep last night."
+            },
+            {
+                "code": "asleep_example_everyone-was-asleep",
+                "text": "Everyone was asleep."
+            }
+        ]
+    }
+]

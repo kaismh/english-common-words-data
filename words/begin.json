@@ -1,0 +1,52 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to start",
+        "examples": [
+            {
+                "code": "begin_example_the-play-will-begin-soon",
+                "text": "The play will begin soon."
+            },
+            {
+                "code": "begin_example_the-fireworks-suddenly-began-to-go-off",
+                "text": "The fireworks suddenly began to go off."
+            },
+            {
+                "code": "begin_example_after-a-rain-delay-the-game-will-finally-begin",
+                "text": "After a rain delay, the game will finally begin."
+            },
+            {
+                "code": "begin_example_the-musicians-slowly-began-to-play",
+                "text": "The musicians slowly began to play."
+            },
+            {
+                "code": "begin_example_we-began-the-show-again",
+                "text": "We began the show again."
+            },
+            {
+                "code": "begin_example_the-show-is-expected-to-begin-at-noon",
+                "text": "The show is expected to begin at noon."
+            },
+            {
+                "code": "begin_example_will-you-be-ready-to-begin-on-time",
+                "text": "Will you be ready to begin on time?"
+            },
+            {
+                "code": "begin_example_the-show-is-going-to-begin-soon",
+                "text": "The show is going to begin soon."
+            },
+            {
+                "code": "begin_example_the-party-will-begin-with-dancing",
+                "text": "The party will begin with dancing."
+            },
+            {
+                "code": "begin_example_we-need-to-begin-by-noon",
+                "text": "We need to begin by noon."
+            },
+            {
+                "code": "begin_example_did-the-ceremony-begin-on-time",
+                "text": "Did the ceremony begin on time?"
+            }
+        ]
+    }
+]

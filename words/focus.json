@@ -1,0 +1,154 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the center of attention; special interest; the point where something is seen clearly",
+        "examples": [
+            {
+                "code": "focus_example_the-main-focus-of-this-article-is-about-women-s-rights",
+                "text": "The main focus of this article is about women's rights."
+            },
+            {
+                "code": "focus_example_tomorrow-s-debate-will-have-a-special-focus-on-the-economy",
+                "text": "Tomorrow's debate will have a special focus on the economy."
+            },
+            {
+                "code": "focus_example_she-s-placing-a-greater-focus-on-creativity-in-her-classroom",
+                "text": "She's placing a greater focus on creativity in her classroom."
+            },
+            {
+                "code": "focus_example_she-adjusted-the-settings-until-the-image-was-in-sharp-focus",
+                "text": "She adjusted the settings until the image was in sharp focus."
+            },
+            {
+                "code": "focus_example_her-studies-remain-her-main-focus",
+                "text": "Her studies remain her main focus."
+            },
+            {
+                "code": "focus_example_maybe-this-new-project-will-give-him-some-focus",
+                "text": "Maybe this new project will give him some focus."
+            },
+            {
+                "code": "focus_example_the-focus-of-his-studies-has-narrowed-since-he-started-school",
+                "text": "The focus of his studies has narrowed since he started school."
+            },
+            {
+                "code": "focus_example_he-really-lacks-focus",
+                "text": "He really lacks focus."
+            },
+            {
+                "code": "focus_example_he-s-starting-to-lose-focus-of-the-big-picture",
+                "text": "He's starting to lose focus of the big picture."
+            },
+            {
+                "code": "focus_example_she-struggles-to-maintain-her-focus",
+                "text": "She struggles to maintain her focus."
+            },
+            {
+                "code": "focus_example_they-tried-changing-the-focus-to-something-else",
+                "text": "They tried changing the focus to something else."
+            },
+            {
+                "code": "focus_example_they-are-placing-the-focus-of-the-class-on-communication",
+                "text": "They are placing the focus of the class on communication."
+            },
+            {
+                "code": "focus_example_the-image-slowly-came-into-focus",
+                "text": "The image slowly came into focus."
+            },
+            {
+                "code": "focus_example_the-focus-of-the-policy-is-prevention",
+                "text": "The focus of the policy is prevention."
+            },
+            {
+                "code": "focus_example_his-focus-is-on-getting-good-grades",
+                "text": "His focus is on getting good grades."
+            },
+            {
+                "code": "focus_example_turn-the-knob-until-the-image-is-in-focus",
+                "text": "Turn the knob until the image is in focus."
+            },
+            {
+                "code": "focus_example_everything-is-out-of-focus-in-this-picture",
+                "text": "Everything is out of focus in this picture."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to give special attention; to adjust your eyes; to adjust the sharpness of an image",
+        "examples": [
+            {
+                "code": "focus_example_her-research-focuses-mostly-on-young-children",
+                "text": "Her research focuses mostly on young children."
+            },
+            {
+                "code": "focus_example_he-is-clearly-focused-on-finishing-his-degree",
+                "text": "He is clearly focused on finishing his degree."
+            },
+            {
+                "code": "focus_example_the-documentary-focuses-closely-on-his-career",
+                "text": "The documentary focuses closely on his career."
+            },
+            {
+                "code": "focus_example_the-police-initially-focused-on-the-wrong-person",
+                "text": "The police initially focused on the wrong person."
+            },
+            {
+                "code": "focus_example_she-focused-hard-on-the-image-in-front-of-her",
+                "text": "She focused hard on the image in front of her."
+            },
+            {
+                "code": "focus_example_the-camera-is-set-to-focus-automatically",
+                "text": "The camera is set to focus automatically."
+            },
+            {
+                "code": "focus_example_she-needs-to-focus-on-her-work",
+                "text": "She needs to focus on her work."
+            },
+            {
+                "code": "focus_example_he-tried-to-focus-on-his-homework-but-it-was-too-noisy",
+                "text": "He tried to focus on his homework but it was too noisy."
+            },
+            {
+                "code": "focus_example_she-tends-to-focus-on-herself",
+                "text": "She tends to focus on herself."
+            },
+            {
+                "code": "focus_example_he-decided-to-focus-on-his-studies-rather-than-having-fun",
+                "text": "He decided to focus on his studies rather than having fun."
+            },
+            {
+                "code": "focus_example_having-a-routine-might-help-you-to-focus",
+                "text": "Having a routine might help you to focus."
+            },
+            {
+                "code": "focus_example_we-need-to-focus-on-the-issue-at-hand",
+                "text": "We need to focus on the issue at hand."
+            },
+            {
+                "code": "focus_example_he-focused-on-the-computer-screen",
+                "text": "He focused on the computer screen."
+            },
+            {
+                "code": "focus_example_they-focused-their-attention-on-finishing-the-project",
+                "text": "They focused their attention on finishing the project."
+            },
+            {
+                "code": "focus_example_she-tried-to-focus-the-camera",
+                "text": "She tried to focus the camera."
+            },
+            {
+                "code": "focus_example_she-focused-her-eyes-on-the-image-in-the-book",
+                "text": "She focused her eyes on the image in the book."
+            },
+            {
+                "code": "focus_example_he-focused-the-spotlight-on-the-stage",
+                "text": "He focused the spotlight on the stage."
+            },
+            {
+                "code": "focus_example_they-are-trying-to-focus-their-strategy",
+                "text": "They are trying to focus their strategy."
+            }
+        ]
+    }
+]

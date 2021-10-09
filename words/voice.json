@@ -1,0 +1,106 @@
+[
+    {
+        "type": "(n)",
+        "mean": "sounds made when speaking or singing",
+        "examples": [
+            {
+                "code": "voice_example_she-has-a-beautiful-voice",
+                "text": "She has a beautiful voice."
+            },
+            {
+                "code": "voice_example_his-loud-voice-scares-the-children",
+                "text": "His loud voice scares the children."
+            },
+            {
+                "code": "voice_example_the-cartoon-character-has-a-squeaky-voice",
+                "text": "The cartoon character has a squeaky voice."
+            },
+            {
+                "code": "voice_example_it-s-nice-to-hear-a-friendly-voice-on-the-phone",
+                "text": "It's nice to hear a friendly voice on the phone."
+            },
+            {
+                "code": "voice_example_she-kept-a-calm-voice-during-the-accident",
+                "text": "She kept a calm voice during the accident."
+            },
+            {
+                "code": "voice_example_he-has-a-funny-voice",
+                "text": "He has a funny voice."
+            },
+            {
+                "code": "voice_example_we-could-hear-a-female-voice-inside-the-house",
+                "text": "We could hear a female voice inside the house."
+            },
+            {
+                "code": "voice_example_she-has-a-beautiful-singing-voice",
+                "text": "She has a beautiful singing voice."
+            },
+            {
+                "code": "voice_example_i-can-hear-your-voice-from-the-other-room",
+                "text": "I can hear your voice from the other room."
+            },
+            {
+                "code": "voice_example_the-teacher-raised-her-voice-in-anger",
+                "text": "The teacher raised her voice in anger."
+            },
+            {
+                "code": "voice_example_his-voice-echoed-in-the-tunnel",
+                "text": "His voice echoed in the tunnel."
+            },
+            {
+                "code": "voice_example_his-voice-faded-as-he-walked-away",
+                "text": "His voice faded as he walked away."
+            },
+            {
+                "code": "voice_example_his-voice-was-cracking-as-he-was-giving-his-farewell-speech",
+                "text": "His voice was cracking as he was giving his farewell speech."
+            },
+            {
+                "code": "voice_example_do-you-know-that-voice",
+                "text": "Do you know that voice?"
+            },
+            {
+                "code": "voice_example_i-need-to-check-my-voicemail-several-times-a-day",
+                "text": "I need to check my voicemail several times a day."
+            },
+            {
+                "code": "voice_example_the-computer-system-uses-voice-recognition-for-added-security",
+                "text": "The computer system uses voice recognition for added security."
+            },
+            {
+                "code": "voice_example_he-is-a-voice-coach",
+                "text": "He is a voice coach."
+            },
+            {
+                "code": "voice_example_she-is-taking-voice-lessons",
+                "text": "She is taking voice lessons."
+            },
+            {
+                "code": "voice_example_there-was-anger-in-his-voice",
+                "text": "There was anger in his voice."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to speak",
+        "examples": [
+            {
+                "code": "voice_example_he-angrily-voiced-his-opinion-at-the-meeting",
+                "text": "He angrily voiced his opinion at the meeting."
+            },
+            {
+                "code": "voice_example_she-happily-voiced-her-excitement-about-the-party",
+                "text": "She happily voiced her excitement about the party."
+            },
+            {
+                "code": "voice_example_she-voiced-her-opinion-about-the-situation",
+                "text": "She voiced her opinion about the situation."
+            },
+            {
+                "code": "voice_example_he-voiced-his-anger",
+                "text": "He voiced his anger."
+            }
+        ]
+    }
+]

@@ -1,0 +1,96 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the way someone is greeted; something that is said or done when someone arrives to make the person feel happy",
+        "examples": [
+            {
+                "code": "welcome_example_the-grandparents-received-a-warm-welcome-at-the-airport",
+                "text": "The grandparents received a warm welcome at the airport."
+            },
+            {
+                "code": "welcome_example_the-mean-teacher-got-a-cold-welcome-from-her-students-on-the-first-day-of-class",
+                "text": "The mean teacher got a cold welcome from her students on the first day of class."
+            },
+            {
+                "code": "welcome_example_he-received-a-hero-s-welcome-after-he-returned-from-the-military",
+                "text": "He received a hero's welcome after he returned from the military."
+            },
+            {
+                "code": "welcome_example_they-received-a-special-welcome-from-their-family",
+                "text": "They received a special welcome from their family."
+            },
+            {
+                "code": "welcome_example_let-s-give-a-nice-welcome-to-the-new-couple",
+                "text": "Let's give a nice welcome to the new couple."
+            },
+            {
+                "code": "welcome_example_we-do-not-want-to-overstay-our-welcome",
+                "text": "We do not want to overstay our welcome."
+            },
+            {
+                "code": "welcome_example_she-received-a-nice-welcome-from-her-mother-in-law",
+                "text": "She received a nice welcome from her mother-in-law."
+            },
+            {
+                "code": "welcome_example_they-received-a-warm-welcome-to-the-neighborhood",
+                "text": "They received a warm welcome to the neighborhood."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to greet someone in a friendly way",
+        "examples": [
+            {
+                "code": "welcome_example_the-flight-attendant-warmly-welcomed-the-passengers",
+                "text": "The flight attendant warmly welcomed the passengers."
+            },
+            {
+                "code": "welcome_example_let-s-kindly-welcome-all-new-visitors",
+                "text": "Let's kindly welcome all new visitors."
+            },
+            {
+                "code": "welcome_example_i-would-like-to-officially-welcome-mr-and-mrs-johnson-to-the-group",
+                "text": "I would like to officially welcome Mr. and Mrs. Johnson to the group."
+            },
+            {
+                "code": "welcome_example_let-s-welcome-back-our-teammate",
+                "text": "Let's welcome back our teammate."
+            },
+            {
+                "code": "welcome_example_they-welcomed-us-with-open-arms",
+                "text": "They welcomed us with open arms."
+            },
+            {
+                "code": "welcome_example_they-welcomed-us-into-their-group",
+                "text": "They welcomed us into their group."
+            },
+            {
+                "code": "welcome_example_we-are-excited-to-welcome-a-new-member-of-the-team",
+                "text": "We are excited to welcome a new member of the team."
+            }
+        ]
+    },
+    {
+        "type": "(adj)",
+        "mean": "making someone feel happy and wanted",
+        "examples": [
+            {
+                "code": "welcome_example_you-are-always-welcome-in-our-house",
+                "text": "You are always welcome in our house."
+            },
+            {
+                "code": "welcome_example_your-great-ideas-are-extremely-welcome-right-now",
+                "text": "Your great ideas are extremely welcome right now."
+            },
+            {
+                "code": "welcome_example_new-patients-are-welcome-at-the-doctor-s-office",
+                "text": "New patients are welcome at the doctor's office."
+            },
+            {
+                "code": "welcome_example_people-of-all-ages-are-welcome-to-the-party",
+                "text": "People of all ages are welcome to the party."
+            }
+        ]
+    }
+]

@@ -1,0 +1,36 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to remove pain or worry; to ease; to discharge",
+        "examples": [
+            {
+                "code": "relieve_example_this-tea-will-relieve-constipation",
+                "text": "This tea will relieve constipation."
+            },
+            {
+                "code": "relieve_example_she-took-medication-to-relieve-her-anxiety",
+                "text": "She took medication to relieve her anxiety."
+            },
+            {
+                "code": "relieve_example_he-tried-to-relieve-her-suffering",
+                "text": "He tried to relieve her suffering."
+            },
+            {
+                "code": "relieve_example_i-did-it-to-relieve-boredom",
+                "text": "I did it to relieve boredom."
+            },
+            {
+                "code": "relieve_example_he-relieved-her-from-duty",
+                "text": "He relieved her from duty."
+            },
+            {
+                "code": "relieve_example_the-medicine-temporarily-relieved-her-symptoms",
+                "text": "The medicine temporarily relieved her symptoms."
+            },
+            {
+                "code": "relieve_example_he-was-relieved-from-duty",
+                "text": "He was relieved from duty."
+            }
+        ]
+    }
+]

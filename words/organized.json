@@ -1,0 +1,40 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "neatly arranged; clearly planned",
+        "examples": [
+            {
+                "code": "organized_example_i-need-to-get-more-organized",
+                "text": "I need to get more organized."
+            },
+            {
+                "code": "organized_example_she-seems-really-organized",
+                "text": "She seems really organized."
+            },
+            {
+                "code": "organized_example_the-organized-crime-is-bad-here",
+                "text": "The organized crime is bad here."
+            },
+            {
+                "code": "organized_example_i-am-interested-in-organized-religion",
+                "text": "I am interested in organized religion."
+            },
+            {
+                "code": "organized_example_we-were-properly-organized-for-the-event",
+                "text": "We were properly organized for the event."
+            },
+            {
+                "code": "organized_example_he-is-highly-organized",
+                "text": "He is highly organized."
+            },
+            {
+                "code": "organized_example_everything-in-his-office-is-neatly-organized",
+                "text": "Everything in his office is neatly organized."
+            },
+            {
+                "code": "organized_example_the-books-are-carefully-organized",
+                "text": "The books are carefully organized."
+            }
+        ]
+    }
+]

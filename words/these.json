@@ -1,0 +1,74 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "plural form for this",
+        "examples": [
+            {
+                "code": "these_example_these-people-are-waiting",
+                "text": "These people are waiting."
+            },
+            {
+                "code": "these_example_these-muffins-are-delicious",
+                "text": "These muffins are delicious."
+            },
+            {
+                "code": "these_example_these-toys-are-for-charity",
+                "text": "These toys are for charity."
+            },
+            {
+                "code": "these_example_it-s-been-very-cold-these-days",
+                "text": "It's been very cold these days."
+            },
+            {
+                "code": "these_example_these-houses-are-expensive",
+                "text": "These houses are expensive."
+            }
+        ]
+    },
+    {
+        "type": "(pro)",
+        "mean": "plural form for this",
+        "examples": [
+            {
+                "code": "these_example_these-are-going-to-charity",
+                "text": "These are going to charity."
+            },
+            {
+                "code": "these_example_these-are-not-yours",
+                "text": "These are not yours."
+            },
+            {
+                "code": "these_example_these-are-mine",
+                "text": "These are mine."
+            },
+            {
+                "code": "these_example_these-were-expensive",
+                "text": "These were expensive."
+            },
+            {
+                "code": "these_example_these-are-my-favorites",
+                "text": "These are my favorites."
+            },
+            {
+                "code": "these_example_where-did-you-find-these",
+                "text": "Where did you find these?"
+            },
+            {
+                "code": "these_example_i-would-like-to-buy-these",
+                "text": "I would like to buy these."
+            },
+            {
+                "code": "these_example_i-like-these",
+                "text": "I like these."
+            },
+            {
+                "code": "these_example_i-found-these-at-the-bookstore",
+                "text": "I found these at the bookstore."
+            },
+            {
+                "code": "these_example_i-am-going-to-keep-these",
+                "text": "I am going to keep these."
+            }
+        ]
+    }
+]

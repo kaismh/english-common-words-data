@@ -1,0 +1,56 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a large town",
+        "examples": [
+            {
+                "code": "city_example_i-m-from-a-big-city",
+                "text": "I'm from a big city."
+            },
+            {
+                "code": "city_example_new-york-is-a-bustling-city",
+                "text": "New York is a bustling city."
+            },
+            {
+                "code": "city_example_rome-is-an-ancient-city",
+                "text": "Rome is an ancient city."
+            },
+            {
+                "code": "city_example_countries-compete-to-become-the-host-city-for-the-next-olympics",
+                "text": "Countries compete to become the host city for the next Olympics."
+            },
+            {
+                "code": "city_example_when-was-this-city-built",
+                "text": "When was this city built?"
+            },
+            {
+                "code": "city_example_this-city-has-really-grown",
+                "text": "This city has really grown."
+            },
+            {
+                "code": "city_example_are-you-a-city-boy",
+                "text": "Are you a city boy?"
+            },
+            {
+                "code": "city_example_they-are-building-a-new-city-block",
+                "text": "They are building a new city block."
+            },
+            {
+                "code": "city_example_they-need-to-install-more-city-lights",
+                "text": "They need to install more city lights."
+            },
+            {
+                "code": "city_example_he-has-a-meeting-with-the-city-council",
+                "text": "He has a meeting with the city council."
+            },
+            {
+                "code": "city_example_do-you-enjoy-city-life",
+                "text": "Do you enjoy city life?"
+            },
+            {
+                "code": "city_example_i-live-just-outside-the-city-limits",
+                "text": "I live just outside the city limits."
+            }
+        ]
+    }
+]

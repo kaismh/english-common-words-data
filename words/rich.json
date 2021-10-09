@@ -1,0 +1,60 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "having lots of money; having a full content; having a strong taste or flavor",
+        "examples": [
+            {
+                "code": "rich_example_she-got-rich-after-opening-the-business",
+                "text": "She got rich after opening the business."
+            },
+            {
+                "code": "rich_example_all-of-her-jewels-make-her-look-very-rich",
+                "text": "All of her jewels make her look very rich."
+            },
+            {
+                "code": "rich_example_the-chocolate-dessert-is-very-rich-in-sugar",
+                "text": "The chocolate dessert is very rich in sugar."
+            },
+            {
+                "code": "rich_example_the-mansion-is-owned-by-a-rich-man",
+                "text": "The mansion is owned by a rich man."
+            },
+            {
+                "code": "rich_example_there-are-a-lot-of-rich-people-in-this-city",
+                "text": "There are a lot of rich people in this city."
+            },
+            {
+                "code": "rich_example_the-food-is-very-rich",
+                "text": "The food is very rich."
+            },
+            {
+                "code": "rich_example_she-has-a-rich-family",
+                "text": "She has a rich family."
+            },
+            {
+                "code": "rich_example_she-has-rich-relatives",
+                "text": "She has rich relatives."
+            },
+            {
+                "code": "rich_example_i-ate-a-rich-dessert",
+                "text": "I ate a rich dessert."
+            },
+            {
+                "code": "rich_example_we-have-a-rich-history",
+                "text": "We have a rich history."
+            },
+            {
+                "code": "rich_example_he-has-a-rich-imagination",
+                "text": "He has a rich imagination."
+            },
+            {
+                "code": "rich_example_she-is-very-rich",
+                "text": "She is very rich."
+            },
+            {
+                "code": "rich_example_the-country-is-rich-in-oil",
+                "text": "The country is rich in oil."
+            }
+        ]
+    }
+]

@@ -1,0 +1,84 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a group of people that decide the guilt or innocence of someone in a court case",
+        "examples": [
+            {
+                "code": "jury_example_he-was-found-guilty-by-a-federal-grand-jury",
+                "text": "He was found guilty by a federal grand jury."
+            },
+            {
+                "code": "jury_example_the-first-trial-ended-with-a-hung-jury",
+                "text": "The first trial ended with a hung jury."
+            },
+            {
+                "code": "jury_example_the-12-member-jury-will-decide-his-fate",
+                "text": "The 12-member jury will decide his fate."
+            },
+            {
+                "code": "jury_example_the-case-will-be-heard-by-a-criminal-jury",
+                "text": "The case will be heard by a criminal jury."
+            },
+            {
+                "code": "jury_example_she-served-on-a-jury-for-the-first-time",
+                "text": "She served on a jury for the first time."
+            },
+            {
+                "code": "jury_example_tell-the-jury-what-happened-that-night",
+                "text": "Tell the jury what happened that night."
+            },
+            {
+                "code": "jury_example_her-testimony-swayed-the-jury",
+                "text": "Her testimony swayed the jury."
+            },
+            {
+                "code": "jury_example_the-jury-heard-the-testimony-of-the-woman",
+                "text": "The jury heard the testimony of the woman."
+            },
+            {
+                "code": "jury_example_the-jury-delivered-a-unanimous-verdict",
+                "text": "The jury delivered a unanimous verdict."
+            },
+            {
+                "code": "jury_example_the-jury-acquitted-him-of-his-crimes",
+                "text": "The jury acquitted him of his crimes."
+            },
+            {
+                "code": "jury_example_the-jury-deliberated-for-several-days-before-reaching-a-verdict",
+                "text": "The jury deliberated for several days before reaching a verdict."
+            },
+            {
+                "code": "jury_example_he-received-a-letter-for-jury-duty",
+                "text": "He received a letter for jury duty."
+            },
+            {
+                "code": "jury_example_the-jury-selection-took-a-long-time",
+                "text": "The jury selection took a long time."
+            },
+            {
+                "code": "jury_example_she-lost-faith-in-the-jury-system",
+                "text": "She lost faith in the jury system."
+            },
+            {
+                "code": "jury_example_the-case-is-going-to-a-jury-trial",
+                "text": "The case is going to a jury trial."
+            },
+            {
+                "code": "jury_example_jury-members-are-in-seclusion",
+                "text": "Jury members are in seclusion."
+            },
+            {
+                "code": "jury_example_the-trial-will-take-place-before-a-jury",
+                "text": "The trial will take place before a jury."
+            },
+            {
+                "code": "jury_example_there-were-only-three-men-on-the-jury",
+                "text": "There were only three men on the jury."
+            },
+            {
+                "code": "jury_example_the-trial-began-with-a-jury-of-three-women-and-nine-men",
+                "text": "The trial began with a jury of three women and nine men."
+            }
+        ]
+    }
+]

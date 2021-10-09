@@ -1,0 +1,52 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "really surprising in a good way",
+        "examples": [
+            {
+                "code": "amazing_example_you-have-an-amazing-appetite",
+                "text": "You have an amazing appetite."
+            },
+            {
+                "code": "amazing_example_this-food-looks-amazing",
+                "text": "This food looks amazing."
+            },
+            {
+                "code": "amazing_example_this-music-sounds-amazing",
+                "text": "This music sounds amazing."
+            },
+            {
+                "code": "amazing_example_the-music-teachers-find-her-talent-amazing",
+                "text": "The music teachers find her talent amazing."
+            },
+            {
+                "code": "amazing_example_this-book-is-absolutely-amazing",
+                "text": "This book is absolutely amazing."
+            },
+            {
+                "code": "amazing_example_this-is-the-most-amazing-thing-i-ve-ever-seen",
+                "text": "This is the most amazing thing I've ever seen."
+            },
+            {
+                "code": "amazing_example_this-music-is-just-amazing",
+                "text": "This music is just amazing."
+            },
+            {
+                "code": "amazing_example_this-is-an-amazing-movie",
+                "text": "This is an amazing movie."
+            },
+            {
+                "code": "amazing_example_what-an-amazing-idea",
+                "text": "What an amazing idea!"
+            },
+            {
+                "code": "amazing_example_i-have-amazing-luck-playing-cards",
+                "text": "I have amazing luck playing cards."
+            },
+            {
+                "code": "amazing_example_that-car-has-amazing-speed",
+                "text": "That car has amazing speed."
+            }
+        ]
+    }
+]

@@ -1,0 +1,90 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to point or show where people should go; to be in charge of a film, movie, or play",
+        "examples": [
+            {
+                "code": "direct_example_the-advertisement-is-directed-mainly-at-kids",
+                "text": "The advertisement is directed mainly at kids."
+            },
+            {
+                "code": "direct_example_he-directed-the-traffic-straight-to-the-tunnel",
+                "text": "He directed the traffic straight to the tunnel."
+            },
+            {
+                "code": "direct_example_every-scene-of-the-film-was-expertly-directed",
+                "text": "Every scene of the film was expertly directed."
+            },
+            {
+                "code": "direct_example_the-movie-was-directed-by-a-famous-actor",
+                "text": "The movie was directed by a famous actor."
+            },
+            {
+                "code": "direct_example_we-ve-seen-insults-directed-against-them",
+                "text": "We've seen insults directed against them."
+            },
+            {
+                "code": "direct_example_they-directed-him-into-the-room",
+                "text": "They directed him into the room."
+            },
+            {
+                "code": "direct_example_the-children-were-directed-onto-the-stage",
+                "text": "The children were directed onto the stage."
+            },
+            {
+                "code": "direct_example_please-direct-your-attention-to-the-screen",
+                "text": "Please direct your attention to the screen."
+            },
+            {
+                "code": "direct_example_she-directed-the-episode",
+                "text": "She directed the episode."
+            }
+        ]
+    },
+    {
+        "type": "(adj)",
+        "mean": "straightforward; going from one place to another without stopping",
+        "examples": [
+            {
+                "code": "direct_example_the-woman-is-direct",
+                "text": "The woman is direct."
+            },
+            {
+                "code": "direct_example_the-lawyer-asked-extremely-direct-questions",
+                "text": "The lawyer asked extremely direct questions."
+            },
+            {
+                "code": "direct_example_i-like-her-refreshingly-direct-personality",
+                "text": "I like her refreshingly direct personality."
+            },
+            {
+                "code": "direct_example_the-problem-demands-direct-action",
+                "text": "The problem demands direct action."
+            },
+            {
+                "code": "direct_example_there-is-a-direct-comparison-between-the-two-products",
+                "text": "There is a direct comparison between the two products."
+            },
+            {
+                "code": "direct_example_they-use-a-direct-approach",
+                "text": "They use a direct approach."
+            },
+            {
+                "code": "direct_example_he-was-given-a-direct-challenge",
+                "text": "He was given a direct challenge."
+            },
+            {
+                "code": "direct_example_he-suffered-a-direct-hit-to-his-face",
+                "text": "He suffered a direct hit to his face."
+            },
+            {
+                "code": "direct_example_i-use-direct-deposit",
+                "text": "I use direct deposit."
+            },
+            {
+                "code": "direct_example_we-would-like-a-direct-flight",
+                "text": "We would like a direct flight."
+            }
+        ]
+    }
+]

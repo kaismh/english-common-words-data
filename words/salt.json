@@ -1,0 +1,54 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a natural white substance used to flavor food",
+        "examples": [
+            {
+                "code": "salt_example_the-chef-likes-to-use-sea-salt",
+                "text": "The chef likes to use sea salt."
+            },
+            {
+                "code": "salt_example_mary-said-she-could-taste-the-salt",
+                "text": "Mary said she could taste the salt."
+            },
+            {
+                "code": "salt_example_don-t-add-too-much-salt",
+                "text": "Don't add too much salt."
+            },
+            {
+                "code": "salt_example_please-pass-the-salt",
+                "text": "Please pass the salt."
+            },
+            {
+                "code": "salt_example_does-this-contain-a-lot-of-salt",
+                "text": "Does this contain a lot of salt?"
+            },
+            {
+                "code": "salt_example_what-is-the-salt-content-of-the-soup",
+                "text": "What is the salt content of the soup?"
+            },
+            {
+                "code": "salt_example_i-need-to-reduce-my-salt-intake",
+                "text": "I need to reduce my salt intake."
+            },
+            {
+                "code": "salt_example_the-salt-water-makes-my-eyes-burn",
+                "text": "The salt water makes my eyes burn."
+            }
+        ]
+    },
+    {
+        "type": "(adj)",
+        "mean": "containing salt",
+        "examples": [
+            {
+                "code": "salt_example_the-beach-tastes-like-salt-water",
+                "text": "The beach tastes like salt water."
+            },
+            {
+                "code": "salt_example_we-walked-across-the-salt-flats-in-utah",
+                "text": "We walked across the salt flats in Utah."
+            }
+        ]
+    }
+]

@@ -1,0 +1,108 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to receive; to succeed or achieve; to become",
+        "examples": [
+            {
+                "code": "get_example_the-weather-is-getting-warmer",
+                "text": "The weather is getting warmer."
+            },
+            {
+                "code": "get_example_the-winner-will-get-his-prize-tomorrow",
+                "text": "The winner will get his prize tomorrow."
+            },
+            {
+                "code": "get_example_he-will-get-another-chance-tomorrow",
+                "text": "He will get another chance tomorrow."
+            },
+            {
+                "code": "get_example_he-got-a-good-education-before-moving-to-the-us",
+                "text": "He got a good education before moving to the US."
+            },
+            {
+                "code": "get_example_we-got-approval-for-our-plan",
+                "text": "We got approval for our plan."
+            },
+            {
+                "code": "get_example_they-got-a-lot-of-complaints-about-the-article",
+                "text": "They got a lot of complaints about the article."
+            },
+            {
+                "code": "get_example_she-gets-a-lot-of-enjoyment-from-doing-art",
+                "text": "She gets a lot of enjoyment from doing art."
+            },
+            {
+                "code": "get_example_he-finally-got-recognition-for-his-work",
+                "text": "He finally got recognition for his work."
+            },
+            {
+                "code": "get_example_did-you-get-a-receipt",
+                "text": "Did you get a receipt?"
+            },
+            {
+                "code": "get_example_she-got-her-inspiration-while-traveling-in-europe",
+                "text": "She got her inspiration while traveling in Europe."
+            },
+            {
+                "code": "get_example_i-finally-get-a-vacation",
+                "text": "I finally get a vacation."
+            },
+            {
+                "code": "get_example_we-got-tickets-for-the-game",
+                "text": "We got tickets for the game."
+            },
+            {
+                "code": "get_example_we-got-instructions-on-how-to-complete-the-task",
+                "text": "We got instructions on how to complete the task."
+            },
+            {
+                "code": "get_example_she-got-her-degree-in-english-literature",
+                "text": "She got her degree in English literature."
+            },
+            {
+                "code": "get_example_we-got-an-invitation-to-their-wedding",
+                "text": "We got an invitation to their wedding."
+            },
+            {
+                "code": "get_example_did-you-get-my-message",
+                "text": "Did you get my message?"
+            },
+            {
+                "code": "get_example_she-got-a-package-in-the-mail",
+                "text": "She got a package in the mail."
+            },
+            {
+                "code": "get_example_he-got-a-scholarship-to-harvard",
+                "text": "He got a scholarship to Harvard."
+            },
+            {
+                "code": "get_example_she-got-a-warning-for-her-behavior",
+                "text": "She got a warning for her behavior."
+            },
+            {
+                "code": "get_example_they-got-many-donations-at-the-event",
+                "text": "They got many donations at the event."
+            },
+            {
+                "code": "get_example_i-hope-she-gets-the-hint",
+                "text": "I hope she gets the hint."
+            },
+            {
+                "code": "get_example_she-got-a-cramp-in-her-leg",
+                "text": "She got a cramp in her leg."
+            },
+            {
+                "code": "get_example_he-got-a-reward-for-saving-the-boy",
+                "text": "He got a reward for saving the boy."
+            },
+            {
+                "code": "get_example_he-got-a-lot-of-exposure-at-the-event",
+                "text": "He got a lot of exposure at the event."
+            },
+            {
+                "code": "get_example_she-got-a-tan-on-vacation",
+                "text": "She got a tan on vacation."
+            }
+        ]
+    }
+]

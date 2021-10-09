@@ -1,0 +1,28 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the study of buying and selling goods and services",
+        "examples": [
+            {
+                "code": "economics_example_we-will-study-applied-economics-in-this-class",
+                "text": "We will study applied economics in this class."
+            },
+            {
+                "code": "economics_example_she-had-to-learn-about-global-economics-for-her-new-job",
+                "text": "She had to learn about global economics for her new job."
+            },
+            {
+                "code": "economics_example_you-should-have-an-understanding-of-basic-economics-to-run-a-business",
+                "text": "You should have an understanding of basic economics to run a business."
+            },
+            {
+                "code": "economics_example_i-am-studying-economics-in-college",
+                "text": "I am studying economics in college."
+            },
+            {
+                "code": "economics_example_the-presidential-candidates-are-focusing-on-economics",
+                "text": "The presidential candidates are focusing on economics."
+            }
+        ]
+    }
+]

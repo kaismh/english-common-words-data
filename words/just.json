@@ -1,0 +1,114 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "morally fair and right",
+        "examples": [
+            {
+                "code": "just_example_he-was-awarded-a-just-settlement-for-his-injuries",
+                "text": "He was awarded a just settlement for his injuries."
+            },
+            {
+                "code": "just_example_we-hope-to-live-in-a-just-society",
+                "text": "We hope to live in a just society."
+            },
+            {
+                "code": "just_example_is-there-a-just-cause-for-war",
+                "text": "Is there a just cause for war?"
+            },
+            {
+                "code": "just_example_i-hope-he-gets-his-just-punishment-for-doing-what-he-did",
+                "text": "I hope he gets his just punishment for doing what he did."
+            },
+            {
+                "code": "just_example_we-felt-it-was-a-just-decision",
+                "text": "We felt it was a just decision."
+            }
+        ]
+    },
+    {
+        "type": "(adv)",
+        "mean": "exactly; happening a short while ago; barely",
+        "examples": [
+            {
+                "code": "just_example_he-arrived-just-in-time-to-see-the-birth-of-his-baby",
+                "text": "He arrived just in time to see the birth of his baby."
+            },
+            {
+                "code": "just_example_i-just-saw-her-in-the-lobby",
+                "text": "I just saw her in the lobby."
+            },
+            {
+                "code": "just_example_i-just-noticed-the-dent-on-the-car",
+                "text": "I just noticed the dent on the car."
+            },
+            {
+                "code": "just_example_you-are-just-like-your-mother",
+                "text": "You are just like your mother."
+            },
+            {
+                "code": "just_example_you-look-just-like-your-sister",
+                "text": "You look just like your sister."
+            },
+            {
+                "code": "just_example_you-act-just-like-your-brother",
+                "text": "You act just like your brother."
+            },
+            {
+                "code": "just_example_i-just-knew-something-was-wrong-when-i-walked-into-the-room",
+                "text": "I just knew something was wrong when I walked into the room."
+            },
+            {
+                "code": "just_example_she-just-returned-from-serving-in-the-army",
+                "text": "She just returned from serving in the army."
+            },
+            {
+                "code": "just_example_i-just-don-t-understand-men",
+                "text": "I just don't understand men."
+            },
+            {
+                "code": "just_example_my-wedding-dress-fits-just-right",
+                "text": "My wedding dress fits just right."
+            },
+            {
+                "code": "just_example_i-just-bought-a-new-house",
+                "text": "I just bought a new house."
+            },
+            {
+                "code": "just_example_i-just-came-here-to-see-you",
+                "text": "I just came here to see you."
+            },
+            {
+                "code": "just_example_we-just-got-married",
+                "text": "We just got married."
+            },
+            {
+                "code": "just_example_she-just-had-a-baby",
+                "text": "She just had a baby."
+            },
+            {
+                "code": "just_example_we-just-ate-dinner",
+                "text": "We just ate dinner."
+            },
+            {
+                "code": "just_example_it-was-just-a-small-scratch",
+                "text": "It was just a small scratch."
+            },
+            {
+                "code": "just_example_it-was-just-a-joke",
+                "text": "It was just a joke."
+            },
+            {
+                "code": "just_example_it-just-happened-a-few-minutes-ago",
+                "text": "It just happened a few minutes ago."
+            },
+            {
+                "code": "just_example_he-just-left",
+                "text": "He just left."
+            },
+            {
+                "code": "just_example_i-just-finished-the-book",
+                "text": "I just finished the book."
+            }
+        ]
+    }
+]

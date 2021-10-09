@@ -1,0 +1,58 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "not far away",
+        "examples": [
+            {
+                "code": "nearby_example_they-visited-a-nearby-town",
+                "text": "They visited a nearby town."
+            },
+            {
+                "code": "nearby_example_we-went-to-a-nearby-hotel",
+                "text": "We went to a nearby hotel."
+            },
+            {
+                "code": "nearby_example_they-lived-on-a-nearby-farm",
+                "text": "They lived on a nearby farm."
+            },
+            {
+                "code": "nearby_example_are-there-any-nearby-schools",
+                "text": "Are there any nearby schools?"
+            }
+        ]
+    },
+    {
+        "type": "(adv)",
+        "mean": "at short distance away, not far away",
+        "examples": [
+            {
+                "code": "nearby_example_i-live-nearby",
+                "text": "I live nearby."
+            },
+            {
+                "code": "nearby_example_she-attends-school-nearby",
+                "text": "She attends school nearby."
+            },
+            {
+                "code": "nearby_example_i-work-nearby",
+                "text": "I work nearby."
+            },
+            {
+                "code": "nearby_example_is-the-school-nearby",
+                "text": "Is the school nearby?"
+            },
+            {
+                "code": "nearby_example_are-you-nearby",
+                "text": "Are you nearby?"
+            },
+            {
+                "code": "nearby_example_we-moved-here-because-everything-is-nearby",
+                "text": "We moved here because everything is nearby."
+            },
+            {
+                "code": "nearby_example_what-is-nearby",
+                "text": "What is nearby?"
+            }
+        ]
+    }
+]

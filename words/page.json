@@ -1,0 +1,80 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a sheet of paper in a book, magazine, or newspaper",
+        "examples": [
+            {
+                "code": "page_example_turn-to-page-five",
+                "text": "Turn to page five."
+            },
+            {
+                "code": "page_example_can-you-turn-the-page",
+                "text": "Can you turn the page?"
+            },
+            {
+                "code": "page_example_i-am-looking-for-the-page-with-the-graph",
+                "text": "I am looking for the page with the graph."
+            },
+            {
+                "code": "page_example_for-homework-tonight-read-the-last-ten-pages",
+                "text": "For homework tonight, read the last ten pages."
+            },
+            {
+                "code": "page_example_if-you-scroll-to-the-bottom-of-the-page-you-will-see-the-link",
+                "text": "If you scroll to the bottom of the page, you will see the link."
+            },
+            {
+                "code": "page_example_she-scanned-the-first-ten-pages-of-the-book-and-found-it-boring",
+                "text": "She scanned the first ten pages of the book and found it boring."
+            },
+            {
+                "code": "page_example_she-wrote-ten-pages-for-her-college-essay",
+                "text": "She wrote ten pages for her college essay."
+            },
+            {
+                "code": "page_example_the-first-page-provides-information-about-the-author",
+                "text": "The first page provides information about the author."
+            },
+            {
+                "code": "page_example_what-page-number-are-you-on-right-now",
+                "text": "What page number are you on right now?"
+            },
+            {
+                "code": "page_example_the-book-illustrator-produced-a-beautiful-page-design",
+                "text": "The book illustrator produced a beautiful page design."
+            },
+            {
+                "code": "page_example_what-is-the-page-size-of-the-magazine",
+                "text": "What is the page size of the magazine?"
+            },
+            {
+                "code": "page_example_start-your-list-on-a-new-page",
+                "text": "Start your list on a new page."
+            },
+            {
+                "code": "page_example_be-sure-to-include-a-cover-page-in-your-report",
+                "text": "Be sure to include a cover page in your report."
+            },
+            {
+                "code": "page_example_i-wrote-a-full-page-of-notes-in-chemistry-class-today",
+                "text": "I wrote a full page of notes in Chemistry class today."
+            },
+            {
+                "code": "page_example_the-first-page-of-his-novel-gives-a-dedication",
+                "text": "The first page of his novel gives a dedication."
+            },
+            {
+                "code": "page_example_open-your-books-to-page-57",
+                "text": "Open your books to page 57."
+            },
+            {
+                "code": "page_example_you-can-find-the-answers-on-the-back-page",
+                "text": "You can find the answers on the back page."
+            },
+            {
+                "code": "page_example_she-quickly-looked-over-the-page",
+                "text": "She quickly looked over the page."
+            }
+        ]
+    }
+]

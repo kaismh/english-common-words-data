@@ -1,0 +1,76 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "not having much money; being low in quality; deserving pity",
+        "examples": [
+            {
+                "code": "poor_example_this-is-a-poor-nation",
+                "text": "This is a poor nation."
+            },
+            {
+                "code": "poor_example_that-is-a-poor-excuse-for-being-late",
+                "text": "That is a poor excuse for being late."
+            },
+            {
+                "code": "poor_example_she-has-a-poor-diet",
+                "text": "She has a poor diet."
+            },
+            {
+                "code": "poor_example_there-are-a-lot-of-poor-people-in-this-city",
+                "text": "There are a lot of poor people in this city."
+            },
+            {
+                "code": "poor_example_he-has-poor-eyesight",
+                "text": "He has poor eyesight."
+            },
+            {
+                "code": "poor_example_they-have-poor-nutrition",
+                "text": "They have poor nutrition."
+            },
+            {
+                "code": "poor_example_my-family-is-very-poor",
+                "text": "My family is very poor."
+            },
+            {
+                "code": "poor_example_the-lighting-here-is-poor",
+                "text": "The lighting here is poor."
+            },
+            {
+                "code": "poor_example_my-radio-gets-poor-reception",
+                "text": "My radio gets poor reception."
+            },
+            {
+                "code": "poor_example_he-is-a-poor-sport",
+                "text": "He is a poor sport."
+            },
+            {
+                "code": "poor_example_she-made-a-poor-choice",
+                "text": "She made a poor choice."
+            },
+            {
+                "code": "poor_example_he-is-a-poor-judge-of-character",
+                "text": "He is a poor judge of character."
+            },
+            {
+                "code": "poor_example_he-has-a-record-of-poor-workmanship",
+                "text": "He has a record of poor workmanship."
+            },
+            {
+                "code": "poor_example_their-products-are-of-poor-quality",
+                "text": "Their products are of poor quality."
+            },
+            {
+                "code": "poor_example_i-have-a-poor-opinion-of-her",
+                "text": "I have a poor opinion of her."
+            },
+            {
+                "code": "poor_example_that-poor-man-needs-help",
+                "text": "That poor man needs help."
+            },
+            {
+                "code": "poor_example_this-is-the-result-of-a-poor-education",
+                "text": "This is the result of a poor education."
+            }
+        ]
+    }
+]

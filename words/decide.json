@@ -1,0 +1,64 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to make a choice after thinking about it",
+        "examples": [
+            {
+                "code": "decide_example_we-need-to-eventually-decide-on-a-vacation-spot",
+                "text": "We need to eventually decide on a vacation spot."
+            },
+            {
+                "code": "decide_example_please-decide-wisely",
+                "text": "Please decide wisely."
+            },
+            {
+                "code": "decide_example_do-i-need-to-decide-immediately",
+                "text": "Do I need to decide immediately?"
+            },
+            {
+                "code": "decide_example_she-suddenly-decided-to-join-them-on-their-trip",
+                "text": "She suddenly decided to join them on their trip."
+            },
+            {
+                "code": "decide_example_he-reluctantly-decided-to-go-to-the-party",
+                "text": "He reluctantly decided to go to the party."
+            },
+            {
+                "code": "decide_example_they-collectively-decided-to-close-the-business",
+                "text": "They collectively decided to close the business."
+            },
+            {
+                "code": "decide_example_i-am-unable-to-decide-what-to-do",
+                "text": "I am unable to decide what to do."
+            },
+            {
+                "code": "decide_example_you-have-to-decide-between-the-two-candidates",
+                "text": "You have to decide between the two candidates."
+            },
+            {
+                "code": "decide_example_i-will-try-to-decide-tonight",
+                "text": "I will try to decide tonight."
+            },
+            {
+                "code": "decide_example_we-cannot-decide-between-the-two-plans",
+                "text": "We cannot decide between the two plans."
+            },
+            {
+                "code": "decide_example_the-couple-will-decide-on-a-restaurant",
+                "text": "The couple will decide on a restaurant."
+            },
+            {
+                "code": "decide_example_the-company-decided-against-the-design",
+                "text": "The company decided against the design."
+            },
+            {
+                "code": "decide_example_the-court-will-decide",
+                "text": "The court will decide."
+            },
+            {
+                "code": "decide_example_the-panel-will-decide-the-case",
+                "text": "The panel will decide the case."
+            }
+        ]
+    }
+]

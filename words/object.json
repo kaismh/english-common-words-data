@@ -1,0 +1,46 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a thing that can be seen or touched, but is not alive",
+        "examples": [
+            {
+                "code": "object_example_we-saw-a-moving-object",
+                "text": "We saw a moving object."
+            },
+            {
+                "code": "object_example_she-takes-pictures-of-inanimate-objects",
+                "text": "She takes pictures of inanimate objects."
+            },
+            {
+                "code": "object_example_i-have-too-many-material-objects",
+                "text": "I have too many material objects."
+            },
+            {
+                "code": "object_example_he-was-playing-with-a-small-object",
+                "text": "He was playing with a small object."
+            },
+            {
+                "code": "object_example_he-treats-her-like-a-sex-object",
+                "text": "He treats her like a sex object."
+            },
+            {
+                "code": "object_example_he-is-the-object-of-her-affection",
+                "text": "He is the object of her affection."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to refuse; to say no; to disagree",
+        "examples": [
+            {
+                "code": "object_example_we-strongly-object-to-the-new-rule",
+                "text": "We strongly object to the new rule."
+            },
+            {
+                "code": "object_example_i-object-to-the-low-grade",
+                "text": "I object to the low grade."
+            }
+        ]
+    }
+]

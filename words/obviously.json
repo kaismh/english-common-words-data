@@ -1,0 +1,36 @@
+[
+    {
+        "type": "(adv)",
+        "mean": "clearly; in a way that is easy to see or understand",
+        "examples": [
+            {
+                "code": "obviously_example_we-obviously-need-more-help",
+                "text": "We obviously need more help."
+            },
+            {
+                "code": "obviously_example_they-obviously-disagree",
+                "text": "They obviously disagree."
+            },
+            {
+                "code": "obviously_example_they-obviously-lack-fun",
+                "text": "They obviously lack fun."
+            },
+            {
+                "code": "obviously_example_they-obviously-adore-their-grandchildren",
+                "text": "They obviously adore their grandchildren."
+            },
+            {
+                "code": "obviously_example_that-answer-is-obviously-incorrect",
+                "text": "That answer is obviously incorrect."
+            },
+            {
+                "code": "obviously_example_she-is-obviously-confused-about-the-situation",
+                "text": "She is obviously confused about the situation."
+            },
+            {
+                "code": "obviously_example_he-is-obviously-delighted-about-having-a-baby",
+                "text": "He is obviously delighted about having a baby."
+            }
+        ]
+    }
+]

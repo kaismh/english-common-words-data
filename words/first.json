@@ -1,0 +1,86 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "earliest in time; highest in importance",
+        "examples": [
+            {
+                "code": "first_example_they-are-celebrating-their-first-anniversary",
+                "text": "They are celebrating their first anniversary."
+            },
+            {
+                "code": "first_example_he-just-released-his-first-album",
+                "text": "He just released his first album."
+            },
+            {
+                "code": "first_example_they-were-leading-at-the-end-of-the-first-half",
+                "text": "They were leading at the end of the first half."
+            },
+            {
+                "code": "first_example_she-won-first-place-in-the-competition",
+                "text": "She won first place in the competition."
+            },
+            {
+                "code": "first_example_he-is-in-his-first-semester-of-grad-school",
+                "text": "He is in his first semester of grad school."
+            },
+            {
+                "code": "first_example_she-rarely-speaks-her-first-language-now",
+                "text": "She rarely speaks her first language now."
+            },
+            {
+                "code": "first_example_her-grandfather-was-one-of-the-first-settlers-of-the-area",
+                "text": "Her grandfather was one of the first settlers of the area."
+            },
+            {
+                "code": "first_example_that-wasn-t-my-first-decision",
+                "text": "That wasn't my first decision."
+            },
+            {
+                "code": "first_example_my-first-instinct-was-to-jump-in-after-him",
+                "text": "My first instinct was to jump in after him."
+            },
+            {
+                "code": "first_example_i-was-full-after-the-first-course",
+                "text": "I was full after the first course."
+            },
+            {
+                "code": "first_example_he-will-never-forget-their-first-meeting",
+                "text": "He will never forget their first meeting."
+            },
+            {
+                "code": "first_example_she-was-his-first-love",
+                "text": "She was his first love."
+            },
+            {
+                "code": "first_example_this-should-be-your-first-priority",
+                "text": "This should be your first priority."
+            },
+            {
+                "code": "first_example_he-gave-the-students-their-first-warning",
+                "text": "He gave the students their first warning."
+            }
+        ]
+    },
+    {
+        "type": "(adv)",
+        "mean": "before anyone or anything else; for the first time",
+        "examples": [
+            {
+                "code": "first_example_he-first-appeared-on-tv-in-1950",
+                "text": "He first appeared on TV in 1950."
+            },
+            {
+                "code": "first_example_they-first-discovered-this-behavior-ten-years-ago",
+                "text": "They first discovered this behavior ten years ago."
+            },
+            {
+                "code": "first_example_i-first-met-you-at-the-office-party",
+                "text": "I first met you at the office party."
+            },
+            {
+                "code": "first_example_they-were-first-introduced-by-her-best-friend",
+                "text": "They were first introduced by her best friend."
+            }
+        ]
+    }
+]

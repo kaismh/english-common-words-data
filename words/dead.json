@@ -1,0 +1,74 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "not alive",
+        "examples": [
+            {
+                "code": "dead_example_the-man-is-dead",
+                "text": "The man is dead."
+            },
+            {
+                "code": "dead_example_our-cat-looks-dead",
+                "text": "Our cat looks dead."
+            },
+            {
+                "code": "dead_example_he-dropped-dead-from-a-heart-attack",
+                "text": "He dropped dead from a heart attack."
+            },
+            {
+                "code": "dead_example_the-cop-shot-him-dead",
+                "text": "The cop shot him dead."
+            },
+            {
+                "code": "dead_example_they-found-her-dead",
+                "text": "They found her dead."
+            },
+            {
+                "code": "dead_example_the-grandmother-was-declared-dead-at-the-hospital",
+                "text": "The grandmother was declared dead at the hospital."
+            },
+            {
+                "code": "dead_example_the-animal-was-almost-dead-when-we-found-it",
+                "text": "The animal was almost dead when we found it."
+            },
+            {
+                "code": "dead_example_the-dead-animal-lay-in-the-road",
+                "text": "The dead animal lay in the road."
+            },
+            {
+                "code": "dead_example_he-has-a-dead-brother",
+                "text": "He has a dead brother."
+            }
+        ]
+    },
+    {
+        "type": "(adv)",
+        "mean": "very; completely",
+        "examples": [
+            {
+                "code": "dead_example_the-class-was-dead-boring",
+                "text": "The class was dead boring."
+            },
+            {
+                "code": "dead_example_the-room-was-dead-calm",
+                "text": "The room was dead calm."
+            },
+            {
+                "code": "dead_example_you-are-dead-wrong",
+                "text": "You are dead wrong."
+            },
+            {
+                "code": "dead_example_she-was-dead-scared",
+                "text": "She was dead scared."
+            },
+            {
+                "code": "dead_example_the-car-came-to-a-dead-stop",
+                "text": "The car came to a dead stop."
+            },
+            {
+                "code": "dead_example_there-was-dead-silence",
+                "text": "There was dead silence."
+            }
+        ]
+    }
+]

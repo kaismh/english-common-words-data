@@ -1,0 +1,36 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a combination",
+        "examples": [
+            {
+                "code": "mixture_example_the-cake-mixture-consists-of-milk-flour-and-sugar",
+                "text": "The cake mixture consists of milk, flour and sugar."
+            },
+            {
+                "code": "mixture_example_add-the-wet-mixture-into-the-bowl",
+                "text": "Add the wet mixture into the bowl."
+            },
+            {
+                "code": "mixture_example_stir-the-egg-mixture-for-a-few-minutes",
+                "text": "Stir the egg mixture for a few minutes."
+            },
+            {
+                "code": "mixture_example_this-is-a-good-mixture-of-musical-styles",
+                "text": "This is a good mixture of musical styles."
+            },
+            {
+                "code": "mixture_example_we-have-an-even-mixture-of-flour-and-egg",
+                "text": "We have an even mixture of flour and egg."
+            },
+            {
+                "code": "mixture_example_vodka-and-beer-make-a-potent-mixture",
+                "text": "Vodka and beer make a potent mixture."
+            },
+            {
+                "code": "mixture_example_i-made-a-mixture-of-sugar-and-honey",
+                "text": "I made a mixture of sugar and honey."
+            }
+        ]
+    }
+]

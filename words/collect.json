@@ -1,0 +1,36 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to gather people or things together",
+        "examples": [
+            {
+                "code": "collect_example_the-crowd-collected-in-the-town-hall",
+                "text": "The crowd collected in the town hall."
+            },
+            {
+                "code": "collect_example_she-collects-stamps",
+                "text": "She collects stamps."
+            },
+            {
+                "code": "collect_example_the-police-will-collect-the-evidence",
+                "text": "The police will collect the evidence."
+            },
+            {
+                "code": "collect_example_he-is-here-to-collect-money",
+                "text": "He is here to collect money."
+            },
+            {
+                "code": "collect_example_when-do-they-collect-the-trash",
+                "text": "When do they collect the trash?"
+            },
+            {
+                "code": "collect_example_she-quickly-collected-her-books-and-left-the-library",
+                "text": "She quickly collected her books and left the library."
+            },
+            {
+                "code": "collect_example_the-police-carefully-collected-the-evidence",
+                "text": "The police carefully collected the evidence."
+            }
+        ]
+    }
+]

@@ -1,0 +1,194 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "correct, ninety degrees; opposite of left; good",
+        "examples": [
+            {
+                "code": "right_example_this-chicken-doesn-t-taste-right",
+                "text": "This chicken doesn't taste right."
+            },
+            {
+                "code": "right_example_this-doesn-t-feel-right",
+                "text": "This doesn't feel right."
+            },
+            {
+                "code": "right_example_you-are-right",
+                "text": "You are right!"
+            },
+            {
+                "code": "right_example_the-cake-didn-t-turn-out-right",
+                "text": "The cake didn't turn out right."
+            },
+            {
+                "code": "right_example_i-got-the-answer-right",
+                "text": "I got the answer right."
+            },
+            {
+                "code": "right_example_please-try-to-make-things-right-again",
+                "text": "Please try to make things right again."
+            },
+            {
+                "code": "right_example_she-turned-right",
+                "text": "She turned right."
+            },
+            {
+                "code": "right_example_she-doesn-t-have-the-right-attitude-about-this",
+                "text": "She doesn't have the right attitude about this."
+            },
+            {
+                "code": "right_example_make-sure-you-cut-a-right-angle",
+                "text": "Make sure you cut a right angle."
+            },
+            {
+                "code": "right_example_i-can-t-find-the-right-words",
+                "text": "I can't find the right words."
+            },
+            {
+                "code": "right_example_the-price-is-right-for-the-car",
+                "text": "The price is right for the car."
+            },
+            {
+                "code": "right_example_are-you-sure-you-have-the-right-number",
+                "text": "Are you sure you have the right number?"
+            },
+            {
+                "code": "right_example_i-don-t-think-this-is-the-right-size",
+                "text": "I don't think this is the right size."
+            },
+            {
+                "code": "right_example_the-right-side-is-broken",
+                "text": "The right side is broken."
+            },
+            {
+                "code": "right_example_i-don-t-know-if-i-made-the-right-decision",
+                "text": "I don't know if I made the right decision."
+            },
+            {
+                "code": "right_example_i-got-into-the-right-lane",
+                "text": "I got into the right lane."
+            },
+            {
+                "code": "right_example_cover-your-right-eye",
+                "text": "Cover your right eye."
+            },
+            {
+                "code": "right_example_this-is-not-the-right-place-to-have-a-wedding",
+                "text": "This is not the right place to have a wedding."
+            },
+            {
+                "code": "right_example_i-will-see-you-under-the-right-circumstances",
+                "text": "I will see you under the right circumstances."
+            },
+            {
+                "code": "right_example_i-gave-him-the-right-answer",
+                "text": "I gave him the right answer."
+            },
+            {
+                "code": "right_example_my-right-arm-is-broken",
+                "text": "My right arm is broken."
+            },
+            {
+                "code": "right_example_he-is-the-right-person-for-the-job",
+                "text": "He is the right person for the job."
+            },
+            {
+                "code": "right_example_he-made-a-right-turn-at-the-intersection",
+                "text": "He made a right turn at the intersection."
+            },
+            {
+                "code": "right_example_you-were-right-about-everything",
+                "text": "You were right about everything."
+            }
+        ]
+    },
+    {
+        "type": "(adv)",
+        "mean": "correctly",
+        "examples": [
+            {
+                "code": "right_example_this-is-spelled-right",
+                "text": "This is spelled right."
+            },
+            {
+                "code": "right_example_she-guessed-right",
+                "text": "She guessed right."
+            }
+        ]
+    },
+    {
+        "type": "(n)",
+        "mean": "something morally good; something that a person is legally allowed to have or do",
+        "examples": [
+            {
+                "code": "right_example_the-law-recognized-their-rights",
+                "text": "The law recognized their rights."
+            },
+            {
+                "code": "right_example_we-have-the-right-to-refuse",
+                "text": "We have the right to refuse."
+            },
+            {
+                "code": "right_example_i-know-my-rights",
+                "text": "I know my rights."
+            },
+            {
+                "code": "right_example_i-demanded-my-rights",
+                "text": "I demanded my rights."
+            },
+            {
+                "code": "right_example_she-signed-away-her-rights",
+                "text": "She signed away her rights."
+            },
+            {
+                "code": "right_example_i-purchased-the-film-rights",
+                "text": "I purchased the film rights."
+            },
+            {
+                "code": "right_example_this-organization-violates-human-rights",
+                "text": "This organization violates human rights."
+            },
+            {
+                "code": "right_example_that-infringes-upon-our-rights",
+                "text": "That infringes upon our rights."
+            },
+            {
+                "code": "right_example_voting-is-one-of-our-basic-rights-as-a-citizen",
+                "text": "Voting is one of our basic rights as a citizen."
+            },
+            {
+                "code": "right_example_we-fought-for-equal-rights",
+                "text": "We fought for equal rights."
+            },
+            {
+                "code": "right_example_she-bought-the-film-rights",
+                "text": "She bought the film rights."
+            },
+            {
+                "code": "right_example_human-rights-are-important",
+                "text": "Human rights are important."
+            },
+            {
+                "code": "right_example_homeschooling-our-children-is-well-within-our-legal-rights",
+                "text": "Homeschooling our children is well within our legal rights."
+            },
+            {
+                "code": "right_example_she-was-in-the-right-to-fire-him",
+                "text": "She was in the right to fire him."
+            },
+            {
+                "code": "right_example_i-am-within-my-legal-rights",
+                "text": "I am within my legal rights."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to correct",
+        "examples": [
+            {
+                "code": "right_example_how-can-i-right-this-wrong",
+                "text": "How can I right this wrong?"
+            }
+        ]
+    }
+]

@@ -1,0 +1,48 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a day of celebration",
+        "examples": [
+            {
+                "code": "holiday_example_monday-is-a-public-holiday",
+                "text": "Monday is a public holiday."
+            },
+            {
+                "code": "holiday_example_this-is-an-important-christian-holiday",
+                "text": "This is an important Christian holiday."
+            },
+            {
+                "code": "holiday_example_are-you-going-anywhere-for-the-winter-holiday",
+                "text": "Are you going anywhere for the winter holiday?"
+            },
+            {
+                "code": "holiday_example_we-try-to-celebrate-the-holidays-together",
+                "text": "We try to celebrate the holidays together."
+            },
+            {
+                "code": "holiday_example_i-can-t-wait-for-the-holiday-weekend",
+                "text": "I can't wait for the holiday weekend."
+            },
+            {
+                "code": "holiday_example_the-holiday-season-is-approaching-quickly",
+                "text": "The holiday season is approaching quickly."
+            },
+            {
+                "code": "holiday_example_she-s-just-not-in-the-holiday-spirit",
+                "text": "She's just not in the holiday spirit."
+            },
+            {
+                "code": "holiday_example_we-re-just-spreading-some-holiday-cheer",
+                "text": "We're just spreading some holiday cheer."
+            },
+            {
+                "code": "holiday_example_we-re-having-a-holiday-party",
+                "text": "We're having a holiday party."
+            },
+            {
+                "code": "holiday_example_we-need-to-go-shopping-for-holiday-decorations",
+                "text": "We need to go shopping for holiday decorations."
+            }
+        ]
+    }
+]

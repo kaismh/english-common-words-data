@@ -1,0 +1,40 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the study of the natural and physical world through tests and experiments",
+        "examples": [
+            {
+                "code": "science_example_she-is-a-writer-of-popular-science-books",
+                "text": "She is a writer of popular science books."
+            },
+            {
+                "code": "science_example_our-class-will-be-studying-environmental-science",
+                "text": "Our class will be studying environmental science."
+            },
+            {
+                "code": "science_example_experimentation-is-important-to-advancing-science",
+                "text": "Experimentation is important to advancing science."
+            },
+            {
+                "code": "science_example_the-science-experiment-was-a-disaster",
+                "text": "The science experiment was a disaster."
+            },
+            {
+                "code": "science_example_our-science-teacher-conducted-an-experiment-in-class",
+                "text": "Our science teacher conducted an experiment in class."
+            },
+            {
+                "code": "science_example_science-education-is-important-for-medical-advancement",
+                "text": "Science education is important for medical advancement."
+            },
+            {
+                "code": "science_example_please-refer-to-your-science-textbook",
+                "text": "Please refer to your science textbook."
+            },
+            {
+                "code": "science_example_the-science-of-technology-is-advancing-at-a-rapid-rate",
+                "text": "The science of technology is advancing at a rapid rate."
+            }
+        ]
+    }
+]

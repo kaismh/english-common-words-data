@@ -1,0 +1,94 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to use force to move something towards your body",
+        "examples": [
+            {
+                "code": "pull_example_he-pulled-the-trigger-and-killed-him",
+                "text": "He pulled the trigger and killed him."
+            },
+            {
+                "code": "pull_example_pull-the-rope-to-start-the-machine",
+                "text": "Pull the rope to start the machine."
+            },
+            {
+                "code": "pull_example_he-pulled-the-plug-out-of-the-outlet",
+                "text": "He pulled the plug out of the outlet."
+            },
+            {
+                "code": "pull_example_the-little-boy-pulled-her-hair",
+                "text": "The little boy pulled her hair."
+            },
+            {
+                "code": "pull_example_the-dogs-pulled-his-sled",
+                "text": "The dogs pulled his sled."
+            },
+            {
+                "code": "pull_example_the-horse-is-pulling-a-cart",
+                "text": "The horse is pulling a cart."
+            },
+            {
+                "code": "pull_example_the-dentist-pulled-his-tooth",
+                "text": "The dentist pulled his tooth."
+            },
+            {
+                "code": "pull_example_he-pulled-out-a-chair-for-his-wife",
+                "text": "He pulled out a chair for his wife."
+            },
+            {
+                "code": "pull_example_she-pulled-off-her-sweater",
+                "text": "She pulled off her sweater."
+            },
+            {
+                "code": "pull_example_he-pulled-out-the-extra-table",
+                "text": "He pulled out the extra table."
+            },
+            {
+                "code": "pull_example_he-pulled-his-dog-away-from-the-scared-boy",
+                "text": "He pulled his dog away from the scared boy."
+            },
+            {
+                "code": "pull_example_i-quickly-pulled-the-rope",
+                "text": "I quickly pulled the rope."
+            },
+            {
+                "code": "pull_example_i-pulled-hard-on-the-leash",
+                "text": "I pulled hard on the leash."
+            },
+            {
+                "code": "pull_example_stop-pulling-on-my-cat-s-tail",
+                "text": "Stop pulling on my cat's tail."
+            },
+            {
+                "code": "pull_example_she-pulled-at-my-arm",
+                "text": "She pulled at my arm."
+            },
+            {
+                "code": "pull_example_she-pulled-the-handle-toward-her",
+                "text": "She pulled the handle toward her."
+            }
+        ]
+    },
+    {
+        "type": "(n)",
+        "mean": "the act of using force to move something towards your body",
+        "examples": [
+            {
+                "code": "pull_example_i-felt-a-sudden-pull-at-the-rope",
+                "text": "I felt a sudden pull at the rope."
+            },
+            {
+                "code": "pull_example_he-gave-a-pull-on-the-rope",
+                "text": "He gave a pull on the rope."
+            },
+            {
+                "code": "pull_example_just-give-it-a-good-pull",
+                "text": "Just give it a good pull."
+            },
+            {
+                "code": "pull_example_she-felt-a-sudden-pull-on-the-rope",
+                "text": "She felt a sudden pull on the rope."
+            }
+        ]
+    }
+]

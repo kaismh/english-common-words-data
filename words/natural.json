@@ -1,0 +1,80 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "not made or caused by humans; normal or expected",
+        "examples": [
+            {
+                "code": "natural_example_your-feelings-are-very-natural",
+                "text": "Your feelings are very natural."
+            },
+            {
+                "code": "natural_example_i-try-to-paint-with-natural-lighting",
+                "text": "I try to paint with natural lighting."
+            },
+            {
+                "code": "natural_example_do-you-know-a-natural-cure-for-this",
+                "text": "Do you know a natural cure for this?"
+            },
+            {
+                "code": "natural_example_this-table-is-made-of-natural-wood",
+                "text": "This table is made of natural wood."
+            },
+            {
+                "code": "natural_example_the-country-exports-natural-gas",
+                "text": "The country exports natural gas."
+            },
+            {
+                "code": "natural_example_this-is-a-natural-disaster",
+                "text": "This is a natural disaster."
+            },
+            {
+                "code": "natural_example_what-is-the-natural-vegetation-like",
+                "text": "What is the natural vegetation like?"
+            },
+            {
+                "code": "natural_example_they-have-a-natural-bond",
+                "text": "They have a natural bond."
+            },
+            {
+                "code": "natural_example_she-wants-a-natural-childbirth",
+                "text": "She wants a natural childbirth."
+            },
+            {
+                "code": "natural_example_the-land-is-very-beautiful-in-its-natural-state",
+                "text": "The land is very beautiful in its natural state."
+            },
+            {
+                "code": "natural_example_he-studies-natural-science",
+                "text": "He studies natural science."
+            },
+            {
+                "code": "natural_example_that-is-a-natural-reaction",
+                "text": "That is a natural reaction."
+            },
+            {
+                "code": "natural_example_he-has-many-natural-talents",
+                "text": "He has many natural talents."
+            },
+            {
+                "code": "natural_example_we-only-use-natural-ingredients-in-our-products",
+                "text": "We only use natural ingredients in our products."
+            },
+            {
+                "code": "natural_example_her-hair-seems-natural-to-me",
+                "text": "Her hair seems natural to me."
+            },
+            {
+                "code": "natural_example_the-list-of-ingredients-sounds-natural-to-me",
+                "text": "The list of ingredients sounds natural to me."
+            },
+            {
+                "code": "natural_example_it-s-perfectly-natural-to-feel-upset-about-losing",
+                "text": "It's perfectly natural to feel upset about losing."
+            },
+            {
+                "code": "natural_example_this-bread-is-100-natural",
+                "text": "This bread is 100% natural."
+            }
+        ]
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "type": "(n)",
+        "mean": "something that is needed",
+        "examples": [
+            {
+                "code": "requirement_example_she-did-not-meet-the-requirements",
+                "text": "She did not meet the requirements."
+            },
+            {
+                "code": "requirement_example_what-are-your-graduation-requirements",
+                "text": "What are your graduation requirements?"
+            },
+            {
+                "code": "requirement_example_we-have-several-important-requirements",
+                "text": "We have several important requirements."
+            },
+            {
+                "code": "requirement_example_the-job-has-specific-requirements",
+                "text": "The job has specific requirements."
+            },
+            {
+                "code": "requirement_example_there-are-many-necessary-requirements-for-this-position",
+                "text": "There are many necessary requirements for this position."
+            },
+            {
+                "code": "requirement_example_i-haven-t-fulfilled-the-main-requirements",
+                "text": "I haven't fulfilled the main requirements."
+            },
+            {
+                "code": "requirement_example_what-are-the-current-requirements-for-college",
+                "text": "What are the current requirements for college?"
+            },
+            {
+                "code": "requirement_example_what-are-the-requirements-for-graduation",
+                "text": "What are the requirements for graduation?"
+            }
+        ]
+    }
+]

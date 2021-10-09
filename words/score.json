@@ -1,0 +1,66 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the number or points or goals a person or team has in a contest or game",
+        "examples": [
+            {
+                "code": "score_example_she-received-a-low-score-on-her-gymnastics-routine",
+                "text": "She received a low score on her gymnastics routine."
+            },
+            {
+                "code": "score_example_what-was-the-final-score",
+                "text": "What was the final score?"
+            },
+            {
+                "code": "score_example_you-got-the-best-score-in-the-game",
+                "text": "You got the best score in the game."
+            },
+            {
+                "code": "score_example_who-is-going-to-keep-score",
+                "text": "Who is going to keep score."
+            },
+            {
+                "code": "score_example_at-half-time-the-score-was-tied",
+                "text": "At half-time, the score was tied."
+            },
+            {
+                "code": "score_example_he-made-the-winning-score-against-his-former-team",
+                "text": "He made the winning score against his former team."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to make a point or a goal in a game or contest",
+        "examples": [
+            {
+                "code": "score_example_she-scored-twice-in-the-first-half",
+                "text": "She scored twice in the first half."
+            },
+            {
+                "code": "score_example_you-nearly-scored-on-the-first-shot",
+                "text": "You nearly scored on the first shot!"
+            },
+            {
+                "code": "score_example_our-team-finally-scored",
+                "text": "Our team finally scored!"
+            },
+            {
+                "code": "score_example_jimmy-tried-to-score-at-the-last-second",
+                "text": "Jimmy tried to score at the last second."
+            },
+            {
+                "code": "score_example_she-was-able-to-score-three-times",
+                "text": "She was able to score three times."
+            },
+            {
+                "code": "score_example_the-crowd-went-wild-when-the-team-scored-against-the-rival",
+                "text": "The crowd went wild when the team scored against the rival."
+            },
+            {
+                "code": "score_example_he-has-not-yet-scored-for-his-new-team",
+                "text": "He has not yet scored for his new team."
+            }
+        ]
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "shy or ashamed; socially uncomfortable",
+        "examples": [
+            {
+                "code": "embarrassed_example_he-is-embarrassed-by-all-the-attention",
+                "text": "He is embarrassed by all the attention."
+            },
+            {
+                "code": "embarrassed_example_my-friend-became-embarrassed-when-he-didn-t-know-the-answer",
+                "text": "My friend became embarrassed when he didn't know the answer."
+            },
+            {
+                "code": "embarrassed_example_he-was-extremely-embarrassed-about-his-test-score",
+                "text": "He was extremely embarrassed about his test score."
+            },
+            {
+                "code": "embarrassed_example_she-was-clearly-embarrassed-at-giving-the-wrong-answer",
+                "text": "She was clearly embarrassed at giving the wrong answer."
+            },
+            {
+                "code": "embarrassed_example_he-is-easily-embarrassed",
+                "text": "He is easily embarrassed."
+            },
+            {
+                "code": "embarrassed_example_she-was-embarrassed-by-her-friend-s-behavior",
+                "text": "She was embarrassed by her friend's behavior."
+            },
+            {
+                "code": "embarrassed_example_my-sister-was-embarrassed-about-her-bad-grades",
+                "text": "My sister was embarrassed about her bad grades."
+            },
+            {
+                "code": "embarrassed_example_he-let-out-an-embarrassed-laugh",
+                "text": "He let out an embarrassed laugh."
+            },
+            {
+                "code": "embarrassed_example_there-was-an-embarrassed-silence-after-he-dropped-his-plate",
+                "text": "There was an embarrassed silence after he dropped his plate."
+            }
+        ]
+    }
+]

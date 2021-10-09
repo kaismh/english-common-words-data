@@ -1,0 +1,148 @@
+[
+    {
+        "type": "(n)",
+        "mean": "an airplane trip; act of flying; a set of stairs",
+        "examples": [
+            {
+                "code": "flight_example_he-booked-a-round-trip-flight-to-europe",
+                "text": "He booked a round-trip flight to Europe."
+            },
+            {
+                "code": "flight_example_the-outbound-flight-was-delayed-by-bad-weather",
+                "text": "The outbound flight was delayed by bad weather."
+            },
+            {
+                "code": "flight_example_she-took-a-commercial-flight-to-chicago",
+                "text": "She took a commercial flight to Chicago."
+            },
+            {
+                "code": "flight_example_the-regular-flight-was-cancelled",
+                "text": "The regular flight was cancelled."
+            },
+            {
+                "code": "flight_example_there-is-a-direct-flight-to-hawaii",
+                "text": "There is a direct flight to Hawaii."
+            },
+            {
+                "code": "flight_example_i-have-a-short-flight-home",
+                "text": "I have a short flight home."
+            },
+            {
+                "code": "flight_example_he-takes-three-international-flights-a-month",
+                "text": "He takes three international flights a month."
+            },
+            {
+                "code": "flight_example_we-booked-an-early-flight",
+                "text": "We booked an early flight."
+            },
+            {
+                "code": "flight_example_he-is-doing-training-flights",
+                "text": "He is doing training flights."
+            },
+            {
+                "code": "flight_example_he-participated-in-space-flights",
+                "text": "He participated in space flights."
+            },
+            {
+                "code": "flight_example_they-took-a-hot-air-balloon-flight",
+                "text": "They took a hot air balloon flight."
+            },
+            {
+                "code": "flight_example_the-jet-was-the-first-to-achieve-supersonic-flight",
+                "text": "The jet was the first to achieve supersonic flight."
+            },
+            {
+                "code": "flight_example_there-is-a-narrow-flight-of-stairs-in-their-house",
+                "text": "There is a narrow flight of stairs in their house."
+            },
+            {
+                "code": "flight_example_he-caught-an-early-flight-home",
+                "text": "He caught an early flight home."
+            },
+            {
+                "code": "flight_example_they-just-made-their-flight",
+                "text": "They just made their flight."
+            },
+            {
+                "code": "flight_example_she-booked-a-flight-to-rome",
+                "text": "She booked a flight to Rome."
+            },
+            {
+                "code": "flight_example_the-team-chartered-a-flight-to-the-game",
+                "text": "The team chartered a flight to the game."
+            },
+            {
+                "code": "flight_example_she-called-to-confirm-her-flight",
+                "text": "She called to confirm her flight."
+            },
+            {
+                "code": "flight_example_their-flight-was-diverted-because-of-bad-weather",
+                "text": "Their flight was diverted because of bad weather."
+            },
+            {
+                "code": "flight_example_the-flight-took-off-on-time",
+                "text": "The flight took off on time."
+            },
+            {
+                "code": "flight_example_we-watched-a-flock-of-geese-take-flight",
+                "text": "We watched a flock of geese take flight."
+            },
+            {
+                "code": "flight_example_few-mammals-have-achieved-flight",
+                "text": "Few mammals have achieved flight."
+            },
+            {
+                "code": "flight_example_he-climbs-three-flights-of-stairs-every-day-at-the-office",
+                "text": "He climbs three flights of stairs every day at the office."
+            },
+            {
+                "code": "flight_example_she-checked-her-flight-schedule",
+                "text": "She checked her flight schedule."
+            },
+            {
+                "code": "flight_example_there-have-been-many-flight-delays-today",
+                "text": "There have been many flight delays today."
+            },
+            {
+                "code": "flight_example_he-is-a-flight-attendant",
+                "text": "He is a flight attendant."
+            },
+            {
+                "code": "flight_example_the-flight-crew-prepared-the-plane-for-departure",
+                "text": "The flight crew prepared the plane for departure."
+            },
+            {
+                "code": "flight_example_he-checked-the-flight-instruments",
+                "text": "He checked the flight instruments."
+            },
+            {
+                "code": "flight_example_he-is-going-to-flight-school",
+                "text": "He is going to flight school."
+            },
+            {
+                "code": "flight_example_they-are-looking-for-the-flight-recorder-in-the-wreckage",
+                "text": "They are looking for the flight recorder in the wreckage."
+            },
+            {
+                "code": "flight_example_he-practiced-in-a-flight-simulator",
+                "text": "He practiced in a flight simulator."
+            },
+            {
+                "code": "flight_example_the-normal-flight-path-goes-over-the-water",
+                "text": "The normal flight path goes over the water."
+            },
+            {
+                "code": "flight_example_passengers-cannot-smoke-during-the-flight",
+                "text": "Passengers cannot smoke during the flight."
+            },
+            {
+                "code": "flight_example_they-took-a-flight-from-los-angeles",
+                "text": "They took a flight from Los Angeles."
+            },
+            {
+                "code": "flight_example_the-classroom-is-up-a-flight-of-stairs",
+                "text": "The classroom is up a flight of stairs."
+            }
+        ]
+    }
+]

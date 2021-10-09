@@ -1,0 +1,238 @@
+[
+    {
+        "type": "(n)",
+        "mean": "something said or written; a conversation; a promise; information",
+        "examples": [
+            {
+                "code": "word_example_he-likes-to-use-big-words-around-adults",
+                "text": "He likes to use big words around adults."
+            },
+            {
+                "code": "word_example_her-children-use-polite-words",
+                "text": "Her children use polite words."
+            },
+            {
+                "code": "word_example_he-says-mean-words-to-his-brother",
+                "text": "He says mean words to his brother."
+            },
+            {
+                "code": "word_example_the-teacher-uses-simple-words-in-class",
+                "text": "The teacher uses simple words in class."
+            },
+            {
+                "code": "word_example_what-were-his-exact-words",
+                "text": "What were his exact words?"
+            },
+            {
+                "code": "word_example_he-memorized-some-key-words-for-his-speech",
+                "text": "He memorized some key words for his speech."
+            },
+            {
+                "code": "word_example_find-the-wrong-word-in-the-sentence",
+                "text": "Find the wrong word in the sentence."
+            },
+            {
+                "code": "word_example_he-learned-bad-words-from-his-friend",
+                "text": "He learned bad words from his friend."
+            },
+            {
+                "code": "word_example_i-ll-let-you-in-if-you-say-the-magic-word",
+                "text": "I'll let you in if you say the magic word."
+            },
+            {
+                "code": "word_example_he-always-has-to-have-the-final-word-during-arguments",
+                "text": "He always has to have the final word during arguments."
+            },
+            {
+                "code": "word_example_thank-you-for-your-encouraging-words",
+                "text": "Thank you for your encouraging words."
+            },
+            {
+                "code": "word_example_your-words-are-meaningless-to-me",
+                "text": "Your words are meaningless to me."
+            },
+            {
+                "code": "word_example_she-had-a-quick-word-with-her-son-and-he-didn-t-misbehave-again",
+                "text": "She had a quick word with her son and he didn't misbehave again."
+            },
+            {
+                "code": "word_example_what-is-another-word-for-car",
+                "text": "What is another word for car?"
+            },
+            {
+                "code": "word_example_can-i-have-a-word-with-you",
+                "text": "Can I have a word with you?"
+            },
+            {
+                "code": "word_example_she-uses-a-lot-of-big-words-to-impress-people",
+                "text": "She uses a lot of big words to impress people."
+            },
+            {
+                "code": "word_example_do-not-mention-any-word-of-this-to-him",
+                "text": "Do not mention any word of this to him."
+            },
+            {
+                "code": "word_example_how-do-you-pronounce-this-word",
+                "text": "How do you pronounce this word?"
+            },
+            {
+                "code": "word_example_he-often-misuses-that-word",
+                "text": "He often misuses that word."
+            },
+            {
+                "code": "word_example_i-do-not-speak-a-word-of-chinese",
+                "text": "I do not speak a word of Chinese."
+            },
+            {
+                "code": "word_example_look-up-the-word-in-the-dictionary",
+                "text": "Look up the word in the dictionary."
+            },
+            {
+                "code": "word_example_choose-your-words-carefully-with-sensitive-people",
+                "text": "Choose your words carefully with sensitive people."
+            },
+            {
+                "code": "word_example_please-translate-these-words-for-me",
+                "text": "Please translate these words for me."
+            },
+            {
+                "code": "word_example_what-does-this-word-mean",
+                "text": "What does this word mean?"
+            },
+            {
+                "code": "word_example_words-cannot-express-how-thankful-i-am",
+                "text": "Words cannot express how thankful I am."
+            },
+            {
+                "code": "word_example_the-word-begins-with-the-letter-b",
+                "text": "The word begins with the letter b."
+            },
+            {
+                "code": "word_example_please-repeat-the-word",
+                "text": "Please repeat the word."
+            },
+            {
+                "code": "word_example_she-whispered-the-secret-word-in-my-ear",
+                "text": "She whispered the secret word in my ear."
+            },
+            {
+                "code": "word_example_he-typed-the-words-on-a-piece-of-paper",
+                "text": "He typed the words on a piece of paper."
+            },
+            {
+                "code": "word_example_i-could-not-read-a-word-of-it",
+                "text": "I could not read a word of it."
+            },
+            {
+                "code": "word_example_he-erased-the-bad-word",
+                "text": "He erased the bad word."
+            },
+            {
+                "code": "word_example_she-memorized-all-of-the-words-to-the-famous-speech",
+                "text": "She memorized all of the words to the famous speech."
+            },
+            {
+                "code": "word_example_i-give-you-my-word-that-i-will-do-everything-i-can",
+                "text": "I give you my word that I will do everything I can."
+            },
+            {
+                "code": "word_example_i-hope-you-keep-your-word-about-helping-me",
+                "text": "I hope you keep your word about helping me."
+            },
+            {
+                "code": "word_example_describe-in-your-own-words-what-happened",
+                "text": "Describe in your own words what happened."
+            },
+            {
+                "code": "word_example_he-never-breaks-his-word",
+                "text": "He never breaks his word."
+            },
+            {
+                "code": "word_example_please-trust-my-word-on-this",
+                "text": "Please trust my word on this."
+            },
+            {
+                "code": "word_example_how-could-you-doubt-my-words",
+                "text": "How could you doubt my words?"
+            },
+            {
+                "code": "word_example_please-send-word-to-my-family-that-i-am-doing-well",
+                "text": "Please send word to my family that I am doing well."
+            },
+            {
+                "code": "word_example_did-you-get-word-of-what-happened-to-them",
+                "text": "Did you get word of what happened to them?"
+            },
+            {
+                "code": "word_example_she-spread-the-word-about-massive-layoffs-at-the-company",
+                "text": "She spread the word about massive layoffs at the company."
+            },
+            {
+                "code": "word_example_just-say-the-word-and-i-will-be-there",
+                "text": "Just say the word and I will be there."
+            },
+            {
+                "code": "word_example_please-tell-the-jury-in-your-own-words-what-happened",
+                "text": "Please tell the jury in your own words what happened."
+            },
+            {
+                "code": "word_example_what-is-the-spanish-word-for-restroom",
+                "text": "What is the Spanish word for restroom?"
+            },
+            {
+                "code": "word_example_we-had-a-word-about-her-behavior",
+                "text": "We had a word about her behavior."
+            },
+            {
+                "code": "word_example_can-we-have-a-word-from-our-guest",
+                "text": "Can we have a word from our guest?"
+            },
+            {
+                "code": "word_example_let-me-give-you-a-word-of-advice",
+                "text": "Let me give you a word of advice."
+            },
+            {
+                "code": "word_example_i-need-a-quick-word-with-you",
+                "text": "I need a quick word with you."
+            },
+            {
+                "code": "word_example_would-you-like-to-play-a-word-game",
+                "text": "Would you like to play a word game?"
+            },
+            {
+                "code": "word_example_her-word-choice-was-offensive",
+                "text": "Her word choice was offensive."
+            },
+            {
+                "code": "word_example_the-therapist-had-the-couple-play-word-association",
+                "text": "The therapist had the couple play word association."
+            },
+            {
+                "code": "word_example_the-essay-contest-has-a-minimum-word-count",
+                "text": "The essay contest has a minimum word count."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to write or say something",
+        "examples": [
+            {
+                "code": "word_example_the-lawyer-needs-to-carefully-word-the-question",
+                "text": "The lawyer needs to carefully word the question."
+            },
+            {
+                "code": "word_example_the-instructions-were-poorly-worded",
+                "text": "The instructions were poorly worded."
+            },
+            {
+                "code": "word_example_the-school-has-strongly-worded-their-stance-on-bullying",
+                "text": "The school has strongly worded their stance on bullying."
+            },
+            {
+                "code": "word_example_try-to-word-it-differently-and-see-if-they-understand",
+                "text": "Try to word it differently and see if they understand."
+            }
+        ]
+    }
+]

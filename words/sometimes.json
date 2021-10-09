@@ -1,0 +1,56 @@
+[
+    {
+        "type": "(adv)",
+        "mean": "not all of the time; occasionally",
+        "examples": [
+            {
+                "code": "sometimes_example_mixing-drugs-can-be-sometimes-fatal",
+                "text": "Mixing drugs can be sometimes fatal."
+            },
+            {
+                "code": "sometimes_example_she-is-sometimes-lonely",
+                "text": "She is sometimes lonely."
+            },
+            {
+                "code": "sometimes_example_he-gets-sometimes-angry-at-himself",
+                "text": "He gets sometimes angry at himself."
+            },
+            {
+                "code": "sometimes_example_side-effects-sometimes-occur-with-this-drug",
+                "text": "Side effects sometimes occur with this drug."
+            },
+            {
+                "code": "sometimes_example_i-sometimes-refer-to-the-internet-for-help",
+                "text": "I sometimes refer to the Internet for help."
+            },
+            {
+                "code": "sometimes_example_i-sometimes-wonder-what-is-going-on-in-his-head",
+                "text": "I sometimes wonder what is going on in his head."
+            },
+            {
+                "code": "sometimes_example_everyone-makes-mistakes-sometimes",
+                "text": "Everyone makes mistakes sometimes."
+            },
+            {
+                "code": "sometimes_example_sometimes-i-just-want-to-be-alone",
+                "text": "Sometimes, I just want to be alone."
+            },
+            {
+                "code": "sometimes_example_sometimes-people-don-t-understand-what-i-m-saying",
+                "text": "Sometimes, people don't understand what I'm saying."
+            },
+            {
+                "code": "sometimes_example_sometimes-i-just-want-to-quit-school",
+                "text": "Sometimes, I just want to quit school."
+            },
+            {
+                "code": "sometimes_example_sometimes-people-are-mean-to-me",
+                "text": "Sometimes, people are mean to me."
+            },
+            {
+                "code": "sometimes_example_sometimes-it-s-necessary-to-be-strict",
+                "text": "Sometimes, it's necessary to be strict."
+            }
+        ]
+    }
+]

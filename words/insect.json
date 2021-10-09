@@ -1,0 +1,56 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a small creature with six legs that usually has wings; a bug",
+        "examples": [
+            {
+                "code": "insect_example_he-is-studying-flying-insects",
+                "text": "He is studying flying insects."
+            },
+            {
+                "code": "insect_example_watch-out-for-harmful-insects",
+                "text": "Watch out for harmful insects."
+            },
+            {
+                "code": "insect_example_ants-are-considered-social-insects",
+                "text": "Ants are considered social insects."
+            },
+            {
+                "code": "insect_example_this-bug-spray-will-repel-all-kinds-of-insects",
+                "text": "This bug spray will repel all kinds of insects."
+            },
+            {
+                "code": "insect_example_the-sticky-paper-is-used-to-trap-insects",
+                "text": "The sticky paper is used to trap insects."
+            },
+            {
+                "code": "insect_example_sweet-things-seem-to-attract-insects",
+                "text": "Sweet things seem to attract insects."
+            },
+            {
+                "code": "insect_example_an-insect-was-buzzing-around-the-room",
+                "text": "An insect was buzzing around the room."
+            },
+            {
+                "code": "insect_example_insects-were-swarming-around-the-picnic-table",
+                "text": "Insects were swarming around the picnic table."
+            },
+            {
+                "code": "insect_example_an-insect-bit-my-brother-s-hand",
+                "text": "An insect bit my brother's hand."
+            },
+            {
+                "code": "insect_example_the-old-house-had-an-insect-infestation",
+                "text": "The old house had an insect infestation."
+            },
+            {
+                "code": "insect_example_his-skin-was-red-because-of-an-insect-bite",
+                "text": "His skin was red because of an insect bite."
+            },
+            {
+                "code": "insect_example_we-need-to-buy-lots-of-insect-repellent-for-camping",
+                "text": "We need to buy lots of insect repellent for camping."
+            }
+        ]
+    }
+]

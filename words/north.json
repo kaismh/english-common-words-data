@@ -1,0 +1,38 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "one of the four directions on a compass; the direction that is on your right when you watch the sun set",
+        "examples": [
+            {
+                "code": "north_example_let-s-meet-at-the-north-entrance",
+                "text": "Let's meet at the north entrance."
+            },
+            {
+                "code": "north_example_the-north-wind-is-blowing",
+                "text": "The north wind is blowing."
+            },
+            {
+                "code": "north_example_it-s-located-in-the-north-wing",
+                "text": "It's located in the north wing."
+            },
+            {
+                "code": "north_example_we-could-see-the-north-star",
+                "text": "We could see the north star."
+            },
+            {
+                "code": "north_example_how-cold-is-it-at-the-north-pole",
+                "text": "How cold is it at the North Pole?"
+            }
+        ]
+    },
+    {
+        "type": "(adv)",
+        "mean": "opposite of south",
+        "examples": [
+            {
+                "code": "north_example_they-traveled-north",
+                "text": "They traveled north."
+            }
+        ]
+    }
+]

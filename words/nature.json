@@ -1,0 +1,52 @@
+[
+    {
+        "type": "(n)",
+        "mean": "things in the world not made or caused by humans; character of someone or something",
+        "examples": [
+            {
+                "code": "nature_example_he-showed-his-true-nature",
+                "text": "He showed his true nature."
+            },
+            {
+                "code": "nature_example_we-want-to-return-to-nature",
+                "text": "We want to return to nature."
+            },
+            {
+                "code": "nature_example_this-color-cannot-be-found-in-nature",
+                "text": "This color cannot be found in nature."
+            },
+            {
+                "code": "nature_example_we-have-to-respect-the-laws-of-nature",
+                "text": "We have to respect the laws of nature."
+            },
+            {
+                "code": "nature_example_she-is-a-nature-lover",
+                "text": "She is a nature lover."
+            },
+            {
+                "code": "nature_example_let-s-visit-a-nature-reserve",
+                "text": "Let's visit a nature reserve."
+            },
+            {
+                "code": "nature_example_i-don-t-understand-human-nature",
+                "text": "I don't understand human nature."
+            },
+            {
+                "code": "nature_example_what-is-his-real-nature",
+                "text": "What is his real nature?"
+            },
+            {
+                "code": "nature_example_we-enjoy-mother-nature",
+                "text": "We enjoy mother nature."
+            },
+            {
+                "code": "nature_example_he-has-a-good-nature",
+                "text": "He has a good nature."
+            },
+            {
+                "code": "nature_example_this-document-is-of-a-sensitive-nature",
+                "text": "This document is of a sensitive nature."
+            }
+        ]
+    }
+]

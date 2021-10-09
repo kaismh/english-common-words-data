@@ -1,0 +1,102 @@
+[
+    {
+        "type": "(n)",
+        "mean": "an outdoor festival with farm animals and amusement rides; an event for people or businesses to display and sell their products",
+        "examples": [
+            {
+                "code": "fair_example_the-annual-fair-is-this-weekend",
+                "text": "The annual fair is this weekend."
+            },
+            {
+                "code": "fair_example_we-are-going-to-the-book-fair-this-weekend",
+                "text": "We are going to the book fair this weekend."
+            },
+            {
+                "code": "fair_example_they-are-going-to-a-career-fair-at-the-college-today",
+                "text": "They are going to a career fair at the college today."
+            },
+            {
+                "code": "fair_example_the-county-fair-is-always-in-august",
+                "text": "The county fair is always in August."
+            },
+            {
+                "code": "fair_example_they-always-attend-the-county-fair",
+                "text": "They always attend the county fair."
+            },
+            {
+                "code": "fair_example_the-school-is-holding-a-career-fair-for-students",
+                "text": "The school is holding a career fair for students."
+            },
+            {
+                "code": "fair_example_the-book-fair-will-take-place-at-the-city-library",
+                "text": "The book fair will take place at the city library."
+            },
+            {
+                "code": "fair_example_i-bought-some-holiday-decorations-at-the-craft-fair",
+                "text": "I bought some holiday decorations at the craft fair."
+            }
+        ]
+    },
+    {
+        "type": "(adj)",
+        "mean": "right or acceptable; treating equally",
+        "examples": [
+            {
+                "code": "fair_example_her-decision-seems-fair",
+                "text": "Her decision seems fair."
+            },
+            {
+                "code": "fair_example_she-tried-to-make-the-competition-fair",
+                "text": "She tried to make the competition fair."
+            },
+            {
+                "code": "fair_example_i-think-this-is-a-fair-compromise",
+                "text": "I think this is a fair compromise."
+            },
+            {
+                "code": "fair_example_his-grading-seems-completely-fair",
+                "text": "His grading seems completely fair."
+            },
+            {
+                "code": "fair_example_i-don-t-think-that-decision-is-quite-fair",
+                "text": "I don't think that decision is quite fair."
+            },
+            {
+                "code": "fair_example_his-judging-abilities-are-hardly-fair",
+                "text": "His judging abilities are hardly fair."
+            },
+            {
+                "code": "fair_example_his-ruling-doesn-t-seem-fair-to-me",
+                "text": "His ruling doesn't seem fair to me."
+            },
+            {
+                "code": "fair_example_we-need-to-make-a-fair-comparison",
+                "text": "We need to make a fair comparison."
+            },
+            {
+                "code": "fair_example_they-made-a-fair-exchange-of-goods",
+                "text": "They made a fair exchange of goods."
+            },
+            {
+                "code": "fair_example_each-student-should-receive-a-fair-amount-of-the-prize",
+                "text": "Each student should receive a fair amount of the prize."
+            },
+            {
+                "code": "fair_example_i-don-t-think-her-comment-was-fair",
+                "text": "I don't think her comment was fair."
+            },
+            {
+                "code": "fair_example_he-gave-you-fair-warning-that-he-would-do-that",
+                "text": "He gave you fair warning that he would do that."
+            },
+            {
+                "code": "fair_example_they-argued-that-it-was-not-a-fair-election",
+                "text": "They argued that it was not a fair election."
+            },
+            {
+                "code": "fair_example_they-agreed-on-a-fair-price",
+                "text": "They agreed on a fair price."
+            }
+        ]
+    }
+]

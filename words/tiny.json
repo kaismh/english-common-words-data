@@ -1,0 +1,40 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "very small",
+        "examples": [
+            {
+                "code": "tiny_example_he-made-a-tiny-hole-in-the-paper",
+                "text": "He made a tiny hole in the paper."
+            },
+            {
+                "code": "tiny_example_she-feels-tiny-in-the-crowd",
+                "text": "She feels tiny in the crowd."
+            },
+            {
+                "code": "tiny_example_the-crack-is-very-tiny",
+                "text": "The crack is very tiny."
+            },
+            {
+                "code": "tiny_example_her-waist-is-extremely-tiny",
+                "text": "Her waist is extremely tiny."
+            },
+            {
+                "code": "tiny_example_i-just-want-a-tiny-amount",
+                "text": "I just want a tiny amount."
+            },
+            {
+                "code": "tiny_example_what-a-tiny-apartment",
+                "text": "What a tiny apartment."
+            },
+            {
+                "code": "tiny_example_it-was-just-a-tiny-crack",
+                "text": "It was just a tiny crack."
+            },
+            {
+                "code": "tiny_example_the-baby-has-a-tiny-face",
+                "text": "The baby has a tiny face."
+            }
+        ]
+    }
+]

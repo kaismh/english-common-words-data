@@ -1,0 +1,44 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the situation that actually exists in real life",
+        "examples": [
+            {
+                "code": "reality_example_you-can-t-ignore-reality",
+                "text": "You can't ignore reality."
+            },
+            {
+                "code": "reality_example_the-movie-captures-the-reality-of-living-on-the-streets",
+                "text": "The movie captures the reality of living on the streets."
+            },
+            {
+                "code": "reality_example_you-need-to-understand-the-reality-of-the-situation",
+                "text": "You need to understand the reality of the situation."
+            },
+            {
+                "code": "reality_example_she-needs-a-reality-check",
+                "text": "She needs a reality check."
+            },
+            {
+                "code": "reality_example_reality-tv-is-very-popular",
+                "text": "Reality TV is very popular."
+            },
+            {
+                "code": "reality_example_homelessness-is-a-harsh-reality",
+                "text": "Homelessness is a harsh reality."
+            },
+            {
+                "code": "reality_example_unemployment-is-a-daily-reality-to-some-people",
+                "text": "Unemployment is a daily reality to some people."
+            },
+            {
+                "code": "reality_example_in-reality-i-don-t-know",
+                "text": "In reality, I don't know."
+            },
+            {
+                "code": "reality_example_the-reality-of-the-situation-is-unknown",
+                "text": "The reality of the situation is unknown."
+            }
+        ]
+    }
+]

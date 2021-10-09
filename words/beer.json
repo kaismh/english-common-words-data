@@ -1,0 +1,80 @@
+[
+    {
+        "type": "(n)",
+        "mean": "an alcoholic drink made from malt or barley",
+        "examples": [
+            {
+                "code": "beer_example_this-is-good-beer",
+                "text": "This is good beer."
+            },
+            {
+                "code": "beer_example_i-don-t-like-cheap-beer",
+                "text": "I don't like cheap beer."
+            },
+            {
+                "code": "beer_example_i-love-cold-beer",
+                "text": "I love cold beer."
+            },
+            {
+                "code": "beer_example_she-prefers-domestic-beer",
+                "text": "She prefers domestic beer."
+            },
+            {
+                "code": "beer_example_i-usually-order-bottled-beer-at-restaurants",
+                "text": "I usually order bottled beer at restaurants."
+            },
+            {
+                "code": "beer_example_do-you-like-beer",
+                "text": "Do you like beer?"
+            },
+            {
+                "code": "beer_example_let-s-go-to-the-store-to-buy-beer",
+                "text": "Let's go to the store to buy beer."
+            },
+            {
+                "code": "beer_example_i-ll-pour-you-some-beer",
+                "text": "I'll pour you some beer."
+            },
+            {
+                "code": "beer_example_she-was-upset-when-she-spilled-her-beer",
+                "text": "She was upset when she spilled her beer."
+            },
+            {
+                "code": "beer_example_the-beer-is-chilling-in-the-fridge",
+                "text": "The beer is chilling in the fridge."
+            },
+            {
+                "code": "beer_example_he-brews-his-own-beer",
+                "text": "He brews his own beer."
+            },
+            {
+                "code": "beer_example_is-he-a-beer-lover",
+                "text": "Is he a beer lover?"
+            },
+            {
+                "code": "beer_example_we-need-to-take-out-the-beer-bottles",
+                "text": "We need to take out the beer bottles."
+            },
+            {
+                "code": "beer_example_beer-consumption-goes-up-during-the-holiday",
+                "text": "Beer consumption goes up during the holiday."
+            },
+            {
+                "code": "beer_example_beer-commercials-aren-t-allowed-on-this-tv-channel",
+                "text": "Beer commercials aren't allowed on this TV channel."
+            },
+            {
+                "code": "beer_example_he-s-developed-a-large-beer-belly",
+                "text": "He's developed a large beer belly."
+            },
+            {
+                "code": "beer_example_please-recycle-the-beer-cans",
+                "text": "Please recycle the beer cans."
+            },
+            {
+                "code": "beer_example_i-ll-order-a-glass-of-beer",
+                "text": "I'll order a glass of beer."
+            }
+        ]
+    }
+]

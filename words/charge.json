@@ -1,0 +1,150 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the amount of money owed for goods and services; an accusation of a crime; control of something; a sudden and quick attack",
+        "examples": [
+            {
+                "code": "charge_example_there-was-a-heavy-charge-on-my-phone-bill",
+                "text": "There was a heavy charge on my phone bill."
+            },
+            {
+                "code": "charge_example_i-ll-paint-your-house-for-a-small-charge",
+                "text": "I'll paint your house for a small charge."
+            },
+            {
+                "code": "charge_example_what-is-the-total-charge",
+                "text": "What is the total charge?"
+            },
+            {
+                "code": "charge_example_the-service-charge-is-ridiculously-expensive",
+                "text": "The service charge is ridiculously expensive."
+            },
+            {
+                "code": "charge_example_some-cable-channels-will-require-an-extra-charge",
+                "text": "Some cable channels will require an extra charge."
+            },
+            {
+                "code": "charge_example_there-is-an-admission-charge",
+                "text": "There is an admission charge."
+            },
+            {
+                "code": "charge_example_murder-is-a-serious-charge",
+                "text": "Murder is a serious charge."
+            },
+            {
+                "code": "charge_example_the-defendant-is-hoping-for-a-reduced-charge",
+                "text": "The defendant is hoping for a reduced charge."
+            },
+            {
+                "code": "charge_example_this-is-a-baseless-charge-against-me",
+                "text": "This is a baseless charge against me."
+            },
+            {
+                "code": "charge_example_he-ll-go-to-court-to-fight-the-criminal-charge",
+                "text": "He'll go to court to fight the criminal charge."
+            },
+            {
+                "code": "charge_example_the-president-has-complete-charge-of-the-company",
+                "text": "The president has complete charge of the company."
+            },
+            {
+                "code": "charge_example_i-ll-take-temporary-charge-until-the-boss-comes-back",
+                "text": "I'll take temporary charge until the boss comes back."
+            },
+            {
+                "code": "charge_example_my-bank-is-imposing-heavy-charges-on-my-account",
+                "text": "My bank is imposing heavy charges on my account."
+            },
+            {
+                "code": "charge_example_i-ve-been-incurring-late-charges-every-month",
+                "text": "I've been incurring late charges every month."
+            },
+            {
+                "code": "charge_example_she-said-she-could-waive-the-charges",
+                "text": "She said she could waive the charges."
+            },
+            {
+                "code": "charge_example_the-police-brought-a-charge-against-the-suspect",
+                "text": "The police brought a charge against the suspect."
+            },
+            {
+                "code": "charge_example_the-charge-was-dropped-because-of-the-new-evidence",
+                "text": "The charge was dropped because of the new evidence."
+            },
+            {
+                "code": "charge_example_do-you-admit-to-the-charge",
+                "text": "Do you admit to the charge?"
+            },
+            {
+                "code": "charge_example_they-will-investigate-the-criminal-charge",
+                "text": "They will investigate the criminal charge."
+            },
+            {
+                "code": "charge_example_if-you-want-the-promotion-you-will-need-to-take-charge-of-this-project",
+                "text": "If you want the promotion, you will need to take charge of this project."
+            },
+            {
+                "code": "charge_example_she-placed-him-in-charge",
+                "text": "She placed him in charge."
+            },
+            {
+                "code": "charge_example_the-general-led-the-charge-against-the-enemy",
+                "text": "The general led the charge against the enemy."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to ask for money that is owed; to accuse somebody; to run toward something",
+        "examples": [
+            {
+                "code": "charge_example_the-phone-company-will-charge-the-fee-directly-to-my-account",
+                "text": "The phone company will charge the fee directly to my account."
+            },
+            {
+                "code": "charge_example_he-was-formally-charged-with-the-robbery",
+                "text": "He was formally charged with the robbery."
+            },
+            {
+                "code": "charge_example_the-soldiers-blindly-charged-into-battle",
+                "text": "The soldiers blindly charged into battle."
+            },
+            {
+                "code": "charge_example_she-charged-headfirst-into-the-haystack",
+                "text": "She charged headfirst into the haystack."
+            },
+            {
+                "code": "charge_example_how-much-did-they-charge-us-for-dinner",
+                "text": "How much did they charge us for dinner?"
+            },
+            {
+                "code": "charge_example_we-were-surprised-when-they-all-charged-at-us",
+                "text": "We were surprised when they all charged at us."
+            },
+            {
+                "code": "charge_example_it-will-be-charged-to-your-credit-card",
+                "text": "It will be charged to your credit card."
+            },
+            {
+                "code": "charge_example_she-was-charged-in-connection-with-the-bank-robbery",
+                "text": "She was charged in connection with the bank robbery."
+            },
+            {
+                "code": "charge_example_am-i-being-charged-with-a-crime",
+                "text": "Am I being charged with a crime?"
+            },
+            {
+                "code": "charge_example_i-charged-around-the-corner-without-looking",
+                "text": "I charged around the corner without looking."
+            },
+            {
+                "code": "charge_example_the-children-all-charged-down-the-hill",
+                "text": "The children all charged down the hill."
+            },
+            {
+                "code": "charge_example_don-t-charge-out-of-the-house",
+                "text": "Don't charge out of the house."
+            }
+        ]
+    }
+]

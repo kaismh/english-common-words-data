@@ -1,0 +1,70 @@
+[
+    {
+        "type": "(n)",
+        "mean": "basic things in order to live; the care of someone or something",
+        "examples": [
+            {
+                "code": "keep_example_he-is-doing-work-around-the-house-to-earn-his-keep",
+                "text": "He is doing work around the house to earn his keep."
+            },
+            {
+                "code": "keep_example_you-need-to-work-for-your-keep-around-here",
+                "text": "You need to work for your keep around here."
+            },
+            {
+                "code": "keep_example_the-children-are-in-my-keep-for-the-weekend",
+                "text": "The children are in my keep for the weekend."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to have something and not throw or give it away; to stay the same; to continue to do something",
+        "examples": [
+            {
+                "code": "keep_example_dry-foods-keep-well-in-cool-dark-places",
+                "text": "Dry foods keep well in cool, dark places."
+            },
+            {
+                "code": "keep_example_nothing-keeps-his-attention",
+                "text": "Nothing keeps his attention."
+            },
+            {
+                "code": "keep_example_we-kept-our-appointment",
+                "text": "We kept our appointment."
+            },
+            {
+                "code": "keep_example_keep-the-change",
+                "text": "Keep the change."
+            },
+            {
+                "code": "keep_example_keep-your-composure",
+                "text": "Keep your composure."
+            },
+            {
+                "code": "keep_example_keep-a-copy-for-your-records",
+                "text": "Keep a copy for your records."
+            },
+            {
+                "code": "keep_example_keep-your-distance",
+                "text": "Keep your distance."
+            },
+            {
+                "code": "keep_example_she-keeps-a-diary",
+                "text": "She keeps a diary."
+            },
+            {
+                "code": "keep_example_he-kept-his-promise",
+                "text": "He kept his promise."
+            },
+            {
+                "code": "keep_example_who-is-keeping-score",
+                "text": "Who is keeping score?"
+            },
+            {
+                "code": "keep_example_can-you-keep-a-secret",
+                "text": "Can you keep a secret?"
+            }
+        ]
+    }
+]

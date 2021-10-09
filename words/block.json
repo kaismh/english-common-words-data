@@ -1,0 +1,74 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a hard piece of something; large divided building; area of land from one street to another; the loss of being able to do something",
+        "examples": [
+            {
+                "code": "block_example_a-huge-block-of-concrete-fell-off-the-building",
+                "text": "A huge block of concrete fell off the building."
+            },
+            {
+                "code": "block_example_they-used-a-machine-to-load-the-cement-blocks",
+                "text": "They used a machine to load the cement blocks."
+            },
+            {
+                "code": "block_example_they-love-playing-with-building-blocks",
+                "text": "They love playing with building blocks."
+            },
+            {
+                "code": "block_example_this-city-block-is-filled-with-office-buildings",
+                "text": "This city block is filled with office buildings."
+            },
+            {
+                "code": "block_example_i-had-a-mental-block-and-forgot-my-password",
+                "text": "I had a mental block and forgot my password."
+            },
+            {
+                "code": "block_example_the-author-is-suffering-from-writer-s-block",
+                "text": "The author is suffering from writer's block."
+            },
+            {
+                "code": "block_example_let-s-take-a-walk-around-the-block",
+                "text": "Let's take a walk around the block."
+            },
+            {
+                "code": "block_example_i-live-five-blocks-from-you",
+                "text": "I live five blocks from you."
+            },
+            {
+                "code": "block_example_we-live-on-that-block",
+                "text": "We live on that block."
+            },
+            {
+                "code": "block_example_you-can-use-that-block-of-wood",
+                "text": "You can use that block of wood."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to stop someone from passing through or doing something",
+        "examples": [
+            {
+                "code": "block_example_the-police-completely-blocked-the-street",
+                "text": "The police completely blocked the street."
+            },
+            {
+                "code": "block_example_they-blocked-off-the-main-highway",
+                "text": "They blocked off the main highway."
+            },
+            {
+                "code": "block_example_the-security-guards-effectively-blocked-the-protestors-from-entering-the-building",
+                "text": "The security guards effectively blocked the protestors from entering the building."
+            },
+            {
+                "code": "block_example_he-tried-to-block-me-from-entering",
+                "text": "He tried to block me from entering."
+            },
+            {
+                "code": "block_example_they-blocked-the-water-with-sandbags",
+                "text": "They blocked the water with sandbags."
+            }
+        ]
+    }
+]

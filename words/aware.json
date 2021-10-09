@@ -1,0 +1,44 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "knowing that something is present or is happening",
+        "examples": [
+            {
+                "code": "aware_example_we-are-aware-of-the-new-school-rules",
+                "text": "We are aware of the new school rules."
+            },
+            {
+                "code": "aware_example_she-seemed-aware-of-the-surprise-party",
+                "text": "She seemed aware of the surprise party."
+            },
+            {
+                "code": "aware_example_we-were-asked-to-stay-aware-of-recent-burglaries-in-the-area",
+                "text": "We were asked to stay aware of recent burglaries in the area."
+            },
+            {
+                "code": "aware_example_we-are-fully-aware-that-this-will-not-be-easy",
+                "text": "We are fully aware that this will not be easy."
+            },
+            {
+                "code": "aware_example_she-was-barely-aware-of-the-dangers-up-ahead",
+                "text": "She was barely aware of the dangers up ahead."
+            },
+            {
+                "code": "aware_example_i-was-painfully-aware-of-the-sad-situation",
+                "text": "I was painfully aware of the sad situation."
+            },
+            {
+                "code": "aware_example_we-became-increasingly-aware-that-the-problem-was-not-going-to-go-away",
+                "text": "We became increasingly aware that the problem was not going to go away."
+            },
+            {
+                "code": "aware_example_good-citizens-are-socially-aware",
+                "text": "Good citizens are socially aware."
+            },
+            {
+                "code": "aware_example_they-were-aware-of-crime-in-that-area",
+                "text": "They were aware of crime in that area."
+            }
+        ]
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "having the color when mixing red and blue",
+        "examples": [
+            {
+                "code": "purple_example_her-dress-was-light-purple",
+                "text": "Her dress was light purple."
+            },
+            {
+                "code": "purple_example_the-dress-is-slightly-purple",
+                "text": "The dress is slightly purple."
+            },
+            {
+                "code": "purple_example_i-painted-the-house-a-purple-color",
+                "text": "I painted the house a purple color."
+            },
+            {
+                "code": "purple_example_she-has-a-purple-birthmark",
+                "text": "She has a purple birthmark."
+            },
+            {
+                "code": "purple_example_she-likes-purple-grapes",
+                "text": "She likes purple grapes."
+            }
+        ]
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a small living organism that can cause diseases, which can spread from one person to another; something hidden inside the computer to destroy or damage the computer system",
+        "examples": [
+            {
+                "code": "virus_example_the-deadly-virus-spread-quickly-across-the-country",
+                "text": "The deadly virus spread quickly across the country."
+            },
+            {
+                "code": "virus_example_many-people-are-sick-with-the-flu-virus-this-season",
+                "text": "Many people are sick with the flu virus this season."
+            },
+            {
+                "code": "virus_example_he-caught-a-nasty-virus",
+                "text": "He caught a nasty virus."
+            },
+            {
+                "code": "virus_example_scientists-are-examining-the-live-virus",
+                "text": "Scientists are examining the live virus."
+            },
+            {
+                "code": "virus_example_the-computer-virus-stole-personal-information",
+                "text": "The computer virus stole personal information."
+            },
+            {
+                "code": "virus_example_she-contracted-an-unknown-virus",
+                "text": "She contracted an unknown virus."
+            },
+            {
+                "code": "virus_example_the-cold-virus-spreads-easily-from-person-to-person",
+                "text": "The cold virus spreads easily from person to person."
+            },
+            {
+                "code": "virus_example_the-virus-is-attacking-her-immune-system",
+                "text": "The virus is attacking her immune system."
+            },
+            {
+                "code": "virus_example_the-doctors-were-not-able-to-detect-the-virus",
+                "text": "The doctors were not able to detect the virus."
+            },
+            {
+                "code": "virus_example_the-virus-spread",
+                "text": "The virus spread."
+            },
+            {
+                "code": "virus_example_our-computer-is-infected-with-a-virus",
+                "text": "Our computer is infected with a virus."
+            },
+            {
+                "code": "virus_example_she-contracted-a-virus-infection",
+                "text": "She contracted a virus infection."
+            },
+            {
+                "code": "virus_example_scientists-have-developed-a-virus-vaccine",
+                "text": "Scientists have developed a virus vaccine."
+            },
+            {
+                "code": "virus_example_doctors-are-concerned-about-virus-transmission",
+                "text": "Doctors are concerned about virus transmission."
+            },
+            {
+                "code": "virus_example_we-saw-a-virus-threat-on-our-computer",
+                "text": "We saw a virus threat on our computer."
+            },
+            {
+                "code": "virus_example_we-need-virus-protection-on-our-computer",
+                "text": "We need virus protection on our computer."
+            }
+        ]
+    }
+]

@@ -1,0 +1,110 @@
+[
+    {
+        "type": "(n)",
+        "mean": "someone who likes or enjoys something very much; a device for moving or blowing air",
+        "examples": [
+            {
+                "code": "fan_example_she-is-a-big-fan-of-pop-music",
+                "text": "She is a big fan of pop music."
+            },
+            {
+                "code": "fan_example_my-dad-is-my-number-one-fan",
+                "text": "My dad is my number-one fan."
+            },
+            {
+                "code": "fan_example_he-is-a-lifelong-fan-of-the-dallas-cowboys",
+                "text": "He is a lifelong fan of the Dallas Cowboys."
+            },
+            {
+                "code": "fan_example_the-band-s-hard-core-fans-follow-them-from-show-to-show",
+                "text": "The band's hard-core fans follow them from show to show."
+            },
+            {
+                "code": "fan_example_she-was-nearly-killed-by-an-obsessive-fan",
+                "text": "She was nearly killed by an obsessive fan."
+            },
+            {
+                "code": "fan_example_he-is-a-big-baseball-fan",
+                "text": "He is a big baseball fan."
+            },
+            {
+                "code": "fan_example_two-groups-of-opposing-fans-got-into-an-argument-after-the-game",
+                "text": "Two groups of opposing fans got into an argument after the game."
+            },
+            {
+                "code": "fan_example_she-uses-an-electric-fan-to-keep-the-room-cool",
+                "text": "She uses an electric fan to keep the room cool."
+            },
+            {
+                "code": "fan_example_the-machine-contains-a-cooling-fan",
+                "text": "The machine contains a cooling fan."
+            },
+            {
+                "code": "fan_example_i-am-not-a-big-fan-of-pop-music",
+                "text": "I am not a big fan of pop music."
+            },
+            {
+                "code": "fan_example_she-is-becoming-a-fan-of-soccer",
+                "text": "She is becoming a fan of soccer."
+            },
+            {
+                "code": "fan_example_she-is-a-big-fan-of-his-movies",
+                "text": "She is a big fan of his movies."
+            },
+            {
+                "code": "fan_example_his-latest-movie-should-please-his-fans",
+                "text": "His latest movie should please his fans."
+            },
+            {
+                "code": "fan_example_his-comments-might-alienate-his-fans",
+                "text": "His comments might alienate his fans."
+            },
+            {
+                "code": "fan_example_fans-flock-to-the-stadium-on-game-day",
+                "text": "Fans flock to the stadium on game day."
+            },
+            {
+                "code": "fan_example_the-fans-lined-up-hours-before-the-show",
+                "text": "The fans lined up hours before the show."
+            },
+            {
+                "code": "fan_example_millions-of-football-fans-watch-the-super-bowl-every-year",
+                "text": "Millions of football fans watch the Super Bowl every year."
+            },
+            {
+                "code": "fan_example_the-fans-cheered-loudly",
+                "text": "The fans cheered loudly."
+            },
+            {
+                "code": "fan_example_the-fan-blew-cool-air-around-the-room",
+                "text": "The fan blew cool air around the room."
+            },
+            {
+                "code": "fan_example_she-received-concert-information-from-his-fan-club",
+                "text": "She received concert information from his fan club."
+            },
+            {
+                "code": "fan_example_the-band-receives-hundreds-of-fan-letters-daily",
+                "text": "The band receives hundreds of fan letters daily."
+            },
+            {
+                "code": "fan_example_they-are-trying-to-expand-their-fan-base",
+                "text": "They are trying to expand their fan base."
+            },
+            {
+                "code": "fan_example_he-needs-to-replace-a-fan-belt",
+                "text": "He needs to replace a fan belt."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to move or blow air with a device or by waving your hands",
+        "examples": [
+            {
+                "code": "fan_example_she-used-a-newspaper-to-fan-the-fire",
+                "text": "She used a newspaper to fan the fire."
+            }
+        ]
+    }
+]

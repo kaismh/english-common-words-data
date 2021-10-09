@@ -1,0 +1,48 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "hard, challenging",
+        "examples": [
+            {
+                "code": "difficult_example_the-situation-is-difficult",
+                "text": "The situation is difficult."
+            },
+            {
+                "code": "difficult_example_a-job-can-become-difficult",
+                "text": "A job can become difficult."
+            },
+            {
+                "code": "difficult_example_the-noise-made-studying-difficult",
+                "text": "The noise made studying difficult."
+            },
+            {
+                "code": "difficult_example_i-found-the-math-difficult",
+                "text": "I found the math difficult."
+            },
+            {
+                "code": "difficult_example_her-homework-was-extremely-difficult",
+                "text": "Her homework was extremely difficult."
+            },
+            {
+                "code": "difficult_example_the-problem-was-fairly-difficult",
+                "text": "The problem was fairly difficult."
+            },
+            {
+                "code": "difficult_example_i-took-on-a-difficult-assignment",
+                "text": "I took on a difficult assignment."
+            },
+            {
+                "code": "difficult_example_that-was-a-difficult-exam",
+                "text": "That was a difficult exam."
+            },
+            {
+                "code": "difficult_example_she-had-a-difficult-birth",
+                "text": "She had a difficult birth."
+            },
+            {
+                "code": "difficult_example_he-is-in-a-difficult-position",
+                "text": "He is in a difficult position."
+            }
+        ]
+    }
+]

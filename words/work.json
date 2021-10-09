@@ -1,0 +1,234 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a job where a person makes money; an effort to get things done; a place where a person does his or her job; repairs",
+        "examples": [
+            {
+                "code": "work_example_it-is-hard-work-standing-up-all-day",
+                "text": "It is hard work standing up all day."
+            },
+            {
+                "code": "work_example_we-appreciate-her-hours-of-dedicated-work",
+                "text": "We appreciate her hours of dedicated work."
+            },
+            {
+                "code": "work_example_helping-young-kids-is-rewarding-work",
+                "text": "Helping young kids is rewarding work."
+            },
+            {
+                "code": "work_example_they-hired-extra-people-to-do-the-heavy-work",
+                "text": "They hired extra people to do the heavy work."
+            },
+            {
+                "code": "work_example_he-always-looks-for-easy-work",
+                "text": "He always looks for easy work."
+            },
+            {
+                "code": "work_example_data-entry-is-tedious-work",
+                "text": "Data entry is tedious work."
+            },
+            {
+                "code": "work_example_her-son-asked-for-extra-work-around-the-house-to-make-some-money",
+                "text": "Her son asked for extra work around the house to make some money."
+            },
+            {
+                "code": "work_example_the-contractor-does-excellent-work-on-kitchens",
+                "text": "The contractor does excellent work on kitchens."
+            },
+            {
+                "code": "work_example_the-contractor-did-poor-work-on-our-house",
+                "text": "The contractor did poor work on our house."
+            },
+            {
+                "code": "work_example_please-do-your-own-work",
+                "text": "Please do your own work."
+            },
+            {
+                "code": "work_example_i-am-looking-for-full-time-work",
+                "text": "I am looking for full-time work."
+            },
+            {
+                "code": "work_example_she-does-a-lot-of-volunteer-work-on-the-weekends",
+                "text": "She does a lot of volunteer work on the weekends."
+            },
+            {
+                "code": "work_example_she-is-good-at-administrative-work",
+                "text": "She is good at administrative work."
+            },
+            {
+                "code": "work_example_the-roads-need-extensive-work",
+                "text": "The roads need extensive work."
+            },
+            {
+                "code": "work_example_his-mistakes-make-more-work-for-me",
+                "text": "His mistakes make more work for me."
+            },
+            {
+                "code": "work_example_we-get-more-work-during-tax-season",
+                "text": "We get more work during tax season."
+            },
+            {
+                "code": "work_example_let-s-begin-work-on-the-house",
+                "text": "Let's begin work on the house."
+            },
+            {
+                "code": "work_example_they-completed-work-on-the-project",
+                "text": "They completed work on the project."
+            },
+            {
+                "code": "work_example_work-was-halted-because-of-the-strike",
+                "text": "Work was halted because of the strike."
+            },
+            {
+                "code": "work_example_their-work-is-checked-regularly",
+                "text": "Their work is checked regularly."
+            },
+            {
+                "code": "work_example_we-truly-admire-his-work",
+                "text": "We truly admire his work."
+            },
+            {
+                "code": "work_example_the-new-program-requires-a-lot-of-work",
+                "text": "The new program requires a lot of work."
+            },
+            {
+                "code": "work_example_please-submit-your-work-by-the-end-of-the-day",
+                "text": "Please submit your work by the end of the day."
+            },
+            {
+                "code": "work_example_i-am-looking-for-work",
+                "text": "I am looking for work."
+            },
+            {
+                "code": "work_example_i-want-to-return-to-work-after-i-have-the-baby",
+                "text": "I want to return to work after I have the baby."
+            },
+            {
+                "code": "work_example_i-love-my-work",
+                "text": "I love my work."
+            },
+            {
+                "code": "work_example_i-am-very-busy-at-work",
+                "text": "I am very busy at work."
+            },
+            {
+                "code": "work_example_he-has-been-out-of-work-for-three-months",
+                "text": "He has been out of work for three months."
+            },
+            {
+                "code": "work_example_we-met-through-work",
+                "text": "We met through work."
+            },
+            {
+                "code": "work_example_i-need-to-do-some-work-on-the-house",
+                "text": "I need to do some work on the house."
+            },
+            {
+                "code": "work_example_he-does-a-lot-of-work-with-charities",
+                "text": "He does a lot of work with charities."
+            },
+            {
+                "code": "work_example_she-has-good-work-ethic",
+                "text": "She has good work ethic."
+            },
+            {
+                "code": "work_example_he-has-a-busy-work-schedule",
+                "text": "He has a busy work schedule."
+            },
+            {
+                "code": "work_example_please-keep-your-work-surface-clean",
+                "text": "Please keep your work surface clean."
+            },
+            {
+                "code": "work_example_we-have-a-pleasant-work-environment",
+                "text": "We have a pleasant work environment."
+            },
+            {
+                "code": "work_example_please-don-t-call-me-during-work-hours",
+                "text": "Please don't call me during work hours."
+            },
+            {
+                "code": "work_example_she-is-in-the-country-on-a-work-visa",
+                "text": "She is in the country on a work visa."
+            },
+            {
+                "code": "work_example_he-doesn-t-have-enough-work-experience",
+                "text": "He doesn't have enough work experience."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to do a job for money; to make an effort; to function properly",
+        "examples": [
+            {
+                "code": "work_example_she-works-hard-all-day",
+                "text": "She works hard all day."
+            },
+            {
+                "code": "work_example_i-choose-to-work-part-time",
+                "text": "I choose to work part-time."
+            },
+            {
+                "code": "work_example_we-are-learning-to-work-effectively-together",
+                "text": "We are learning to work effectively together."
+            },
+            {
+                "code": "work_example_i-have-been-actively-working-on-the-presentation-for-weeks",
+                "text": "I have been actively working on the presentation for weeks."
+            },
+            {
+                "code": "work_example_we-have-worked-closely-for-many-years",
+                "text": "We have worked closely for many years."
+            },
+            {
+                "code": "work_example_i-enjoy-working-alone",
+                "text": "I enjoy working alone."
+            },
+            {
+                "code": "work_example_she-works-directly-with-her-managers",
+                "text": "She works directly with her managers."
+            },
+            {
+                "code": "work_example_the-computer-works-perfectly-now",
+                "text": "The computer works perfectly now."
+            },
+            {
+                "code": "work_example_he-was-working-illegally-in-this-country",
+                "text": "He was working illegally in this country."
+            },
+            {
+                "code": "work_example_he-chooses-to-work-alone",
+                "text": "He chooses to work alone."
+            },
+            {
+                "code": "work_example_the-employees-are-refusing-to-work-because-of-the-strike",
+                "text": "The employees are refusing to work because of the strike."
+            },
+            {
+                "code": "work_example_the-printer-is-working-fine-now",
+                "text": "The printer is working fine now."
+            },
+            {
+                "code": "work_example_she-is-working-as-a-receptionist",
+                "text": "She is working as a receptionist."
+            },
+            {
+                "code": "work_example_i-have-been-working-at-the-store-all-night",
+                "text": "I have been working at the store all night."
+            },
+            {
+                "code": "work_example_he-works-for-an-insurance-company",
+                "text": "He works for an insurance company."
+            },
+            {
+                "code": "work_example_he-is-working-on-a-master-s-in-education",
+                "text": "He is working on a Master's in Education."
+            },
+            {
+                "code": "work_example_the-people-i-work-with-are-nice",
+                "text": "The people I work with are nice."
+            }
+        ]
+    }
+]

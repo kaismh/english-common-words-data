@@ -1,0 +1,82 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to be in a flat position; to say something that is not true",
+        "examples": [
+            {
+                "code": "lie_example_i-m-going-to-lie-down-in-the-room",
+                "text": "I'm going to lie down in the room."
+            },
+            {
+                "code": "lie_example_the-boy-just-lay-there-looking-at-me",
+                "text": "The boy just lay there looking at me."
+            },
+            {
+                "code": "lie_example_he-was-lying-comfortably-on-the-bed",
+                "text": "He was lying comfortably on the bed."
+            },
+            {
+                "code": "lie_example_he-constantly-lies-to-everyone",
+                "text": "He constantly lies to everyone."
+            },
+            {
+                "code": "lie_example_she-likes-to-lie-on-her-back",
+                "text": "She likes to lie on her back."
+            },
+            {
+                "code": "lie_example_she-is-lying-in-bed",
+                "text": "She is lying in bed."
+            },
+            {
+                "code": "lie_example_she-lies-about-her-job",
+                "text": "She lies about her job."
+            },
+            {
+                "code": "lie_example_he-lied-to-me",
+                "text": "He lied to me."
+            }
+        ]
+    },
+    {
+        "type": "(n)",
+        "mean": "a false statement",
+        "examples": [
+            {
+                "code": "lie_example_how-could-he-tell-such-a-big-lie",
+                "text": "How could he tell such a big lie?"
+            },
+            {
+                "code": "lie_example_that-s-an-absolute-lie",
+                "text": "That's an absolute lie."
+            },
+            {
+                "code": "lie_example_she-told-a-little-lie-to-her-mother",
+                "text": "She told a little lie to her mother."
+            },
+            {
+                "code": "lie_example_that-is-a-total-lie",
+                "text": "That is a total lie!"
+            },
+            {
+                "code": "lie_example_he-tells-so-many-lies",
+                "text": "He tells so many lies."
+            },
+            {
+                "code": "lie_example_don-t-believe-his-lies",
+                "text": "Don't believe his lies."
+            },
+            {
+                "code": "lie_example_they-exposed-her-lies-to-the-media",
+                "text": "They exposed her lies to the media."
+            },
+            {
+                "code": "lie_example_he-lived-a-lie-for-20-years",
+                "text": "He lived a lie for 20 years."
+            },
+            {
+                "code": "lie_example_the-police-used-a-lie-detector-on-the-suspect",
+                "text": "The police used a lie detector on the suspect."
+            }
+        ]
+    }
+]

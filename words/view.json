@@ -1,0 +1,102 @@
+[
+    {
+        "type": "(n)",
+        "mean": "what you think about something; an opinion; what you can see from a certain place",
+        "examples": [
+            {
+                "code": "view_example_he-has-very-strong-views-about-politics",
+                "text": "He has very strong views about politics."
+            },
+            {
+                "code": "view_example_they-have-conflicting-views-on-gay-marriage",
+                "text": "They have conflicting views on gay marriage."
+            },
+            {
+                "code": "view_example_his-political-views-are-not-popular-with-his-friends",
+                "text": "His political views are not popular with his friends."
+            },
+            {
+                "code": "view_example_our-hotel-room-has-a-good-view-of-the-ocean",
+                "text": "Our hotel room has a good view of the ocean."
+            },
+            {
+                "code": "view_example_we-had-an-awful-view-at-the-game",
+                "text": "We had an awful view at the game."
+            },
+            {
+                "code": "view_example_we-had-a-clear-view-of-the-game-from-our-seats",
+                "text": "We had a clear view of the game from our seats."
+            },
+            {
+                "code": "view_example_they-expressed-their-views-at-the-town-meeting",
+                "text": "They expressed their views at the town meeting."
+            },
+            {
+                "code": "view_example_please-explain-your-views-on-this-topic",
+                "text": "Please explain your views on this topic."
+            },
+            {
+                "code": "view_example_he-challenged-the-speaker-s-views-in-front-of-the-audience",
+                "text": "He challenged the speaker's views in front of the audience."
+            },
+            {
+                "code": "view_example_we-accept-her-views-on-this-sensitive-topic",
+                "text": "We accept her views on this sensitive topic."
+            },
+            {
+                "code": "view_example_you-should-reconsider-your-views-on-this-subject",
+                "text": "You should reconsider your views on this subject."
+            },
+            {
+                "code": "view_example_his-views-do-not-reflect-the-company",
+                "text": "His views do not reflect the company."
+            },
+            {
+                "code": "view_example_you-should-respect-other-people-s-views",
+                "text": "You should respect other people's views."
+            },
+            {
+                "code": "view_example_we-have-a-great-view-of-the-mountains",
+                "text": "We have a great view of the mountains."
+            },
+            {
+                "code": "view_example_her-views-on-politics-made-her-unpopular",
+                "text": "Her views on politics made her unpopular."
+            },
+            {
+                "code": "view_example_he-has-a-great-view-from-his-house",
+                "text": "He has a great view from his house."
+            },
+            {
+                "code": "view_example_there-is-a-great-view-of-the-ocean",
+                "text": "There is a great view of the ocean."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to look at something",
+        "examples": [
+            {
+                "code": "view_example_the-police-carefully-viewed-the-evidence",
+                "text": "The police carefully viewed the evidence."
+            },
+            {
+                "code": "view_example_the-television-program-was-mostly-viewed-by-teenagers",
+                "text": "The television program was mostly viewed by teenagers."
+            },
+            {
+                "code": "view_example_the-art-exhibit-was-viewed-by-hundreds-of-people",
+                "text": "The art exhibit was viewed by hundreds of people."
+            },
+            {
+                "code": "view_example_the-concert-is-best-viewed-from-the-front-of-the-stage",
+                "text": "The concert is best viewed from the front of the stage."
+            },
+            {
+                "code": "view_example_did-you-view-the-video",
+                "text": "Did you view the video?"
+            }
+        ]
+    }
+]

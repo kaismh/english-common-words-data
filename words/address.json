@@ -1,0 +1,82 @@
+[
+    {
+        "type": "(n)",
+        "mean": "location of a home or business; a speech",
+        "examples": [
+            {
+                "code": "address_example_this-is-my-home-address",
+                "text": "This is my home address."
+            },
+            {
+                "code": "address_example_what-is-your-email-address",
+                "text": "What is your email address?"
+            },
+            {
+                "code": "address_example_the-speaker-gave-a-short-address",
+                "text": "The speaker gave a short address."
+            },
+            {
+                "code": "address_example_you-have-the-wrong-address",
+                "text": "You have the wrong address."
+            },
+            {
+                "code": "address_example_please-give-me-your-address",
+                "text": "Please give me your address."
+            },
+            {
+                "code": "address_example_i-need-your-address",
+                "text": "I need your address."
+            },
+            {
+                "code": "address_example_who-gave-you-my-address",
+                "text": "Who gave you my address?"
+            },
+            {
+                "code": "address_example_our-address-is-located-on-the-back",
+                "text": "Our address is located on the back."
+            },
+            {
+                "code": "address_example_do-you-have-my-address",
+                "text": "Do you have my address?"
+            },
+            {
+                "code": "address_example_what-is-your-address",
+                "text": "What is your address?"
+            },
+            {
+                "code": "address_example_where-can-i-find-their-address",
+                "text": "Where can I find their address?"
+            },
+            {
+                "code": "address_example_could-you-give-me-their-address",
+                "text": "Could you give me their address?"
+            },
+            {
+                "code": "address_example_their-address-is-not-listed",
+                "text": "Their address is not listed."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to speak to someone; to deal with a problem; to write a home address",
+        "examples": [
+            {
+                "code": "address_example_please-address-him-directly",
+                "text": "Please address him directly."
+            },
+            {
+                "code": "address_example_the-union-failed-to-address-our-needs",
+                "text": "The union failed to address our needs."
+            },
+            {
+                "code": "address_example_the-issue-was-addressed-to-me",
+                "text": "The issue was addressed to me."
+            },
+            {
+                "code": "address_example_please-address-her-as-doctor-smith",
+                "text": "Please address her as 'Doctor Smith'."
+            }
+        ]
+    }
+]

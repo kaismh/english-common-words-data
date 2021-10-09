@@ -1,0 +1,80 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the area inside the entrance of a building; a long passageway in a building with rooms on both sides; a building or large room used for a specific purpose",
+        "examples": [
+            {
+                "code": "hall_example_he-waited-in-the-front-hall",
+                "text": "He waited in the front hall."
+            },
+            {
+                "code": "hall_example_she-went-slowly-down-the-narrow-hall",
+                "text": "She went slowly down the narrow hall."
+            },
+            {
+                "code": "hall_example_the-hall-is-empty",
+                "text": "The hall is empty."
+            },
+            {
+                "code": "hall_example_the-event-is-in-the-main-hall",
+                "text": "The event is in the main hall."
+            },
+            {
+                "code": "hall_example_we-rented-the-banquet-hall",
+                "text": "We rented the banquet hall."
+            },
+            {
+                "code": "hall_example_this-is-a-popular-wedding-hall",
+                "text": "This is a popular wedding hall."
+            },
+            {
+                "code": "hall_example_the-meeting-will-be-at-the-town-hall",
+                "text": "The meeting will be at the town hall."
+            },
+            {
+                "code": "hall_example_there-is-a-protest-outside-city-hall",
+                "text": "There is a protest outside city hall."
+            },
+            {
+                "code": "hall_example_he-lived-in-a-residence-hall-during-his-first-year-of-college",
+                "text": "He lived in a residence hall during his first year of college."
+            },
+            {
+                "code": "hall_example_this-hall-leads-to-the-back-door",
+                "text": "This hall leads to the back door."
+            },
+            {
+                "code": "hall_example_people-filled-the-event-hall",
+                "text": "People filled the event hall."
+            },
+            {
+                "code": "hall_example_she-is-across-the-hall",
+                "text": "She is across the hall."
+            },
+            {
+                "code": "hall_example_they-walked-along-the-hall",
+                "text": "They walked along the hall."
+            },
+            {
+                "code": "hall_example_his-office-is-at-the-end-of-the-hall",
+                "text": "His office is at the end of the hall."
+            },
+            {
+                "code": "hall_example_go-to-the-end-of-the-hall-and-turn-left",
+                "text": "Go to the end of the hall and turn left."
+            },
+            {
+                "code": "hall_example_he-s-standing-in-the-hall",
+                "text": "He's standing in the hall."
+            },
+            {
+                "code": "hall_example_everyone-filled-into-the-hall-for-the-speech",
+                "text": "Everyone filled into the hall for the speech."
+            },
+            {
+                "code": "hall_example_they-walked-through-the-hall-and-greeted-guests",
+                "text": "They walked through the hall and greeted guests."
+            }
+        ]
+    }
+]

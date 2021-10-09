@@ -1,0 +1,56 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a substance that cures or treats an illness; the study of illnesses and how to treat or cure them",
+        "examples": [
+            {
+                "code": "medicine_example_you-should-take-the-medicine-two-times-a-day",
+                "text": "You should take the medicine two times a day."
+            },
+            {
+                "code": "medicine_example_i-cannot-swallow-medicine",
+                "text": "I cannot swallow medicine."
+            },
+            {
+                "code": "medicine_example_she-is-practicing-medicine",
+                "text": "She is practicing medicine."
+            },
+            {
+                "code": "medicine_example_he-is-not-permitted-to-prescribe-medicine",
+                "text": "He is not permitted to prescribe medicine."
+            },
+            {
+                "code": "medicine_example_there-is-nothing-left-in-the-medicine-cabinet",
+                "text": "There is nothing left in the medicine cabinet."
+            },
+            {
+                "code": "medicine_example_i-use-a-medicine-dropper-on-my-baby",
+                "text": "I use a medicine dropper on my baby."
+            },
+            {
+                "code": "medicine_example_i-took-some-prescription-medicine",
+                "text": "I took some prescription medicine."
+            },
+            {
+                "code": "medicine_example_the-medicine-was-too-strong",
+                "text": "The medicine was too strong."
+            },
+            {
+                "code": "medicine_example_she-is-learning-about-herbal-medicine",
+                "text": "She is learning about herbal medicine."
+            },
+            {
+                "code": "medicine_example_many-people-use-western-medicine",
+                "text": "Many people use Western medicine."
+            },
+            {
+                "code": "medicine_example_he-studied-veterinary-medicine-in-college",
+                "text": "He studied veterinary medicine in college."
+            },
+            {
+                "code": "medicine_example_he-takes-medicine-for-high-blood-pressure",
+                "text": "He takes medicine for high blood pressure."
+            }
+        ]
+    }
+]

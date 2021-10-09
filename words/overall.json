@@ -1,0 +1,46 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "including everything or everyone; in total",
+        "examples": [
+            {
+                "code": "overall_example_his-overall-fitness-is-great",
+                "text": "His overall fitness is great."
+            },
+            {
+                "code": "overall_example_the-overall-experience-was-fine",
+                "text": "The overall experience was fine."
+            },
+            {
+                "code": "overall_example_the-overall-majority-agrees",
+                "text": "The overall majority agrees."
+            },
+            {
+                "code": "overall_example_what-has-been-the-overall-change",
+                "text": "What has been the overall change?"
+            }
+        ]
+    },
+    {
+        "type": "(adv)",
+        "mean": "with everything included",
+        "examples": [
+            {
+                "code": "overall_example_overall-she-s-a-very-nice-person",
+                "text": "Overall, she's a very nice person."
+            },
+            {
+                "code": "overall_example_we-did-well-overall",
+                "text": "We did well overall."
+            },
+            {
+                "code": "overall_example_overall-we-really-didn-t-do-that-bad",
+                "text": "Overall, we really didn't do that bad."
+            },
+            {
+                "code": "overall_example_overall-the-event-was-a-success",
+                "text": "Overall, the event was a success."
+            }
+        ]
+    }
+]

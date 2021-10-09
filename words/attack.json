@@ -1,0 +1,102 @@
+[
+    {
+        "type": "(n)",
+        "mean": "an act of trying to hurt someone or something; a sudden illness",
+        "examples": [
+            {
+                "code": "attack_example_we-were-shocked-by-the-brutal-attack",
+                "text": "We were shocked by the brutal attack."
+            },
+            {
+                "code": "attack_example_the-sneak-attack-caught-everyone-off-guard",
+                "text": "The sneak attack caught everyone off guard."
+            },
+            {
+                "code": "attack_example_we-won-t-tolerate-sexual-attacks",
+                "text": "We won't tolerate sexual attacks."
+            },
+            {
+                "code": "attack_example_he-was-the-victim-of-a-random-attack",
+                "text": "He was the victim of a random attack."
+            },
+            {
+                "code": "attack_example_the-army-is-afraid-of-suicide-attacks",
+                "text": "The army is afraid of suicide attacks."
+            },
+            {
+                "code": "attack_example_she-had-a-sudden-asthma-attack",
+                "text": "She had a sudden asthma attack."
+            },
+            {
+                "code": "attack_example_the-boys-carried-out-attacks-on-strangers",
+                "text": "The boys carried out attacks on strangers."
+            },
+            {
+                "code": "attack_example_i-blocked-the-attacks-with-my-ninja-skills",
+                "text": "I blocked the attacks with my ninja skills."
+            },
+            {
+                "code": "attack_example_where-did-the-attack-occur",
+                "text": "Where did the attack occur?"
+            },
+            {
+                "code": "attack_example_he-is-experiencing-a-heart-attack",
+                "text": "He is experiencing a heart attack."
+            },
+            {
+                "code": "attack_example_stress-can-cause-panic-attacks",
+                "text": "Stress can cause panic attacks."
+            },
+            {
+                "code": "attack_example_we-hope-to-resist-their-attack",
+                "text": "We hope to resist their attack."
+            },
+            {
+                "code": "attack_example_the-city-was-scared-of-the-recent-attacks-against-women",
+                "text": "The city was scared of the recent attacks against women."
+            },
+            {
+                "code": "attack_example_the-number-of-violent-attacks-by-young-children-are-increasing",
+                "text": "The number of violent attacks by young children are increasing."
+            },
+            {
+                "code": "attack_example_the-country-is-under-attack-by-rebel-forces",
+                "text": "The country is under attack by rebel forces."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to try to hurt someone or something; to tell someone what he or she has done wrong",
+        "examples": [
+            {
+                "code": "attack_example_the-bear-brutally-attacked-the-hikers",
+                "text": "The bear brutally attacked the hikers."
+            },
+            {
+                "code": "attack_example_he-was-physically-attacked-outside-of-his-house",
+                "text": "He was physically attacked outside of his house."
+            },
+            {
+                "code": "attack_example_they-were-repeatedly-attacked-by-bees",
+                "text": "They were repeatedly attacked by bees."
+            },
+            {
+                "code": "attack_example_he-was-strongly-attacked-by-the-media-after-the-scandal-came-out",
+                "text": "He was strongly attacked by the media after the scandal came out."
+            },
+            {
+                "code": "attack_example_she-was-attacked-by-a-stranger",
+                "text": "She was attacked by a stranger."
+            },
+            {
+                "code": "attack_example_he-was-attacked-with-a-knife",
+                "text": "He was attacked with a knife."
+            },
+            {
+                "code": "attack_example_she-was-attacked-for-being-different-than-the-others",
+                "text": "She was attacked for being different than the others."
+            }
+        ]
+    }
+]

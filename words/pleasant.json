@@ -1,0 +1,36 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "enjoyable; likeable",
+        "examples": [
+            {
+                "code": "pleasant_example_she-seems-pleasant",
+                "text": "She seems pleasant."
+            },
+            {
+                "code": "pleasant_example_the-weather-feels-pleasant-today",
+                "text": "The weather feels pleasant today."
+            },
+            {
+                "code": "pleasant_example_i-found-him-quite-pleasant",
+                "text": "I found him quite pleasant."
+            },
+            {
+                "code": "pleasant_example_we-had-an-extremely-pleasant-time",
+                "text": "We had an extremely pleasant time."
+            },
+            {
+                "code": "pleasant_example_she-is-quite-pleasant",
+                "text": "She is quite pleasant."
+            },
+            {
+                "code": "pleasant_example_she-is-always-pleasant-to-people",
+                "text": "She is always pleasant to people."
+            },
+            {
+                "code": "pleasant_example_we-had-a-pleasant-evening",
+                "text": "We had a pleasant evening."
+            }
+        ]
+    }
+]

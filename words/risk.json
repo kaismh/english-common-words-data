@@ -1,0 +1,142 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the chance of danger or harm",
+        "examples": [
+            {
+                "code": "risk_example_we-calculated-the-risk",
+                "text": "We calculated the risk."
+            },
+            {
+                "code": "risk_example_i-took-a-risk-by-coming-here",
+                "text": "I took a risk by coming here."
+            },
+            {
+                "code": "risk_example_we-want-to-eliminate-the-risk",
+                "text": "We want to eliminate the risk."
+            },
+            {
+                "code": "risk_example_we-increased-our-risk-of-exposure",
+                "text": "We increased our risk of exposure."
+            },
+            {
+                "code": "risk_example_we-have-to-manage-risk-carefully",
+                "text": "We have to manage risk carefully."
+            },
+            {
+                "code": "risk_example_this-activity-heightens-your-risk-of-injury",
+                "text": "This activity heightens your risk of injury."
+            },
+            {
+                "code": "risk_example_she-faced-a-lot-of-risk",
+                "text": "She faced a lot of risk."
+            },
+            {
+                "code": "risk_example_we-should-consider-this-a-risk",
+                "text": "We should consider this a risk."
+            },
+            {
+                "code": "risk_example_he-works-in-risk-management",
+                "text": "He works in risk management."
+            },
+            {
+                "code": "risk_example_we-are-in-a-high-risk-group",
+                "text": "We are in a high risk group."
+            },
+            {
+                "code": "risk_example_there-is-always-a-degree-of-risk",
+                "text": "There is always a degree of risk."
+            },
+            {
+                "code": "risk_example_we-need-to-do-a-risk-assessment",
+                "text": "We need to do a risk assessment."
+            },
+            {
+                "code": "risk_example_what-are-the-risk-factors",
+                "text": "What are the risk factors?"
+            },
+            {
+                "code": "risk_example_we-took-a-calculated-risk",
+                "text": "We took a calculated risk."
+            },
+            {
+                "code": "risk_example_there-is-moderate-risk-involved",
+                "text": "There is moderate risk involved."
+            },
+            {
+                "code": "risk_example_there-is-an-elevated-risk-associated-with-that-medication",
+                "text": "There is an elevated risk associated with that medication."
+            },
+            {
+                "code": "risk_example_she-is-taking-unnecessary-risks",
+                "text": "She is taking unnecessary risks."
+            },
+            {
+                "code": "risk_example_is-this-an-acceptable-risk",
+                "text": "Is this an acceptable risk?"
+            },
+            {
+                "code": "risk_example_is-this-a-high-risk-business-venture",
+                "text": "Is this a high risk business venture?"
+            },
+            {
+                "code": "risk_example_what-are-the-long-term-risks-of-this-medication",
+                "text": "What are the long-term risks of this medication?"
+            },
+            {
+                "code": "risk_example_there-is-a-risk-of-contamination",
+                "text": "There is a risk of contamination."
+            },
+            {
+                "code": "risk_example_her-life-is-at-risk",
+                "text": "Her life is at risk."
+            },
+            {
+                "code": "risk_example_the-treatment-could-be-a-possible-risk-to-her-health",
+                "text": "The treatment could be a possible risk to her health."
+            },
+            {
+                "code": "risk_example_he-s-taking-a-big-risk-by-investing-his-life-savings-into-his-latest-business-plan",
+                "text": "He's taking a big risk by investing his life savings into his latest business plan."
+            },
+            {
+                "code": "risk_example_there-s-a-risk-of-getting-food-poisoning-from-undercooked-meat",
+                "text": "There's a risk of getting food poisoning from undercooked meat."
+            },
+            {
+                "code": "risk_example_smoking-can-increase-your-risk-for-lung-cancer",
+                "text": "Smoking can increase your risk for lung cancer."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to take a chance even if facing danger or harm",
+        "examples": [
+            {
+                "code": "risk_example_i-am-willing-to-risk-it-all",
+                "text": "I am willing to risk it all."
+            },
+            {
+                "code": "risk_example_i-cannot-risk-their-lives",
+                "text": "I cannot risk their lives."
+            },
+            {
+                "code": "risk_example_you-are-risking-your-life",
+                "text": "You are risking your life."
+            },
+            {
+                "code": "risk_example_we-risked-everything",
+                "text": "We risked everything."
+            },
+            {
+                "code": "risk_example_she-is-risking-her-life-savings-on-one-business-idea",
+                "text": "She is risking her life savings on one business idea."
+            },
+            {
+                "code": "risk_example_i-would-risk-everything-for-you",
+                "text": "I would risk everything for you."
+            }
+        ]
+    }
+]

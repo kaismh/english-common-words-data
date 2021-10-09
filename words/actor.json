@@ -1,0 +1,32 @@
+[
+    {
+        "type": "(n)",
+        "mean": "someone who performs in a movie or play",
+        "examples": [
+            {
+                "code": "actor_example_harrison-ford-is-an-accomplished-actor",
+                "text": "Harrison Ford is an accomplished actor."
+            },
+            {
+                "code": "actor_example_he-is-an-aspiring-actor",
+                "text": "He is an aspiring actor."
+            },
+            {
+                "code": "actor_example_the-movie-director-is-auditioning-actors",
+                "text": "The movie director is auditioning actors."
+            },
+            {
+                "code": "actor_example_the-actor-performed-her-part-well",
+                "text": "The actor performed her part well."
+            },
+            {
+                "code": "actor_example_the-actor-won-the-award-for-best-actor",
+                "text": "The actor won the award for Best Actor."
+            },
+            {
+                "code": "actor_example_the-actor-retired-from-show-business",
+                "text": "The actor retired from show business."
+            }
+        ]
+    }
+]

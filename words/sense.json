@@ -1,0 +1,102 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a physical or mental feeling that your body experiences; an understanding",
+        "examples": [
+            {
+                "code": "sense_example_dogs-have-a-great-sense-of-smell",
+                "text": "Dogs have a great sense of smell."
+            },
+            {
+                "code": "sense_example_she-has-a-poor-sense-of-taste",
+                "text": "She has a poor sense of taste."
+            },
+            {
+                "code": "sense_example_she-does-not-have-a-clear-sense-of-direction",
+                "text": "She does not have a clear sense of direction."
+            },
+            {
+                "code": "sense_example_he-felt-an-overwhelming-sense-of-sadness-after-hearing-the-bad-news",
+                "text": "He felt an overwhelming sense of sadness after hearing the bad news."
+            },
+            {
+                "code": "sense_example_there-s-a-growing-sense-of-fear-in-the-neighborhood",
+                "text": "There's a growing sense of fear in the neighborhood."
+            },
+            {
+                "code": "sense_example_she-has-no-basic-sense-of-time",
+                "text": "She has no basic sense of time."
+            },
+            {
+                "code": "sense_example_my-dog-has-a-great-sense-of-smell",
+                "text": "My dog has a great sense of smell."
+            },
+            {
+                "code": "sense_example_joni-lost-her-sense-of-hearing-when-she-was-a-child",
+                "text": "Joni lost her sense of hearing when she was a child."
+            },
+            {
+                "code": "sense_example_lack-of-sleep-must-have-dulled-your-senses",
+                "text": "Lack of sleep must have dulled your senses."
+            },
+            {
+                "code": "sense_example_i-experienced-a-new-sense-of-freedom",
+                "text": "I experienced a new sense of freedom."
+            },
+            {
+                "code": "sense_example_the-new-park-created-a-shared-sense-of-community-in-the-neighborhood",
+                "text": "The new park created a shared sense of community in the neighborhood."
+            },
+            {
+                "code": "sense_example_she-lacks-a-sense-of-direction",
+                "text": "She lacks a sense of direction."
+            },
+            {
+                "code": "sense_example_the-recent-burglaries-have-heightened-everyone-s-senses",
+                "text": "The recent burglaries have heightened everyone's senses."
+            },
+            {
+                "code": "sense_example_he-can-experience-the-world-through-his-other-senses",
+                "text": "He can experience the world through his other senses."
+            },
+            {
+                "code": "sense_example_john-lost-his-sense-of-touch",
+                "text": "John lost his sense of touch."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to feel or be aware of something",
+        "examples": [
+            {
+                "code": "sense_example_i-immediately-sensed-he-was-not-happy-with-the-situation",
+                "text": "I immediately sensed he was not happy with the situation."
+            },
+            {
+                "code": "sense_example_he-clearly-sensed-the-opportunity",
+                "text": "He clearly sensed the opportunity."
+            },
+            {
+                "code": "sense_example_you-could-almost-sense-the-tension-before-entering-the-room",
+                "text": "You could almost sense the tension before entering the room."
+            },
+            {
+                "code": "sense_example_i-just-sensed-something-was-wrong",
+                "text": "I just sensed something was wrong."
+            },
+            {
+                "code": "sense_example_felix-could-sense-the-disapproval-from-his-boss",
+                "text": "Felix could sense the disapproval from his boss."
+            },
+            {
+                "code": "sense_example_there-was-a-sense-of-danger-in-the-area",
+                "text": "There was a sense of danger in the area."
+            },
+            {
+                "code": "sense_example_the-teacher-could-sense-the-child-s-frustration",
+                "text": "The teacher could sense the child's frustration."
+            }
+        ]
+    }
+]

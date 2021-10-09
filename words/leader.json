@@ -1,0 +1,40 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the person who leads a group, organization, or country",
+        "examples": [
+            {
+                "code": "leader_example_he-is-an-inspirational-leader",
+                "text": "He is an inspirational leader."
+            },
+            {
+                "code": "leader_example_she-became-a-powerful-leader-in-the-company",
+                "text": "She became a powerful leader in the company."
+            },
+            {
+                "code": "leader_example_we-came-to-realize-that-he-was-a-corrupt-leader",
+                "text": "We came to realize that he was a corrupt leader."
+            },
+            {
+                "code": "leader_example_he-is-the-elected-leader-of-the-group",
+                "text": "He is the elected leader of the group."
+            },
+            {
+                "code": "leader_example_he-is-a-well-known-political-leader",
+                "text": "He is a well-known political leader."
+            },
+            {
+                "code": "leader_example_she-was-elected-as-the-leader-of-the-organization",
+                "text": "She was elected as the leader of the organization."
+            },
+            {
+                "code": "leader_example_he-became-the-new-leader-after-the-elections",
+                "text": "He became the new leader after the elections."
+            },
+            {
+                "code": "leader_example_she-is-a-powerful-leader-in-her-field",
+                "text": "She is a powerful leader in her field."
+            }
+        ]
+    }
+]

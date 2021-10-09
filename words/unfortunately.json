@@ -1,0 +1,44 @@
+[
+    {
+        "type": "(adv)",
+        "mean": "in an unlucky or sad way",
+        "examples": [
+            {
+                "code": "unfortunately_example_unfortunately-he-was-fired-from-his-job-today",
+                "text": "Unfortunately, he was fired from his job today."
+            },
+            {
+                "code": "unfortunately_example_unfortunately-i-missed-the-bus-again",
+                "text": "Unfortunately, I missed the bus again."
+            },
+            {
+                "code": "unfortunately_example_he-was-unfortunately-named-after-his-grandmother",
+                "text": "He was, unfortunately, named after his grandmother."
+            },
+            {
+                "code": "unfortunately_example_unfortunately-i-will-not-be-able-to-attend",
+                "text": "Unfortunately, I will not be able to attend."
+            },
+            {
+                "code": "unfortunately_example_unfortunately-the-product-is-sold-out",
+                "text": "Unfortunately, the product is sold out."
+            },
+            {
+                "code": "unfortunately_example_unfortunately-there-is-no-more-pie",
+                "text": "Unfortunately, there is no more pie."
+            },
+            {
+                "code": "unfortunately_example_unfortunately-the-marriage-ended-in-divorce",
+                "text": "Unfortunately, the marriage ended in divorce."
+            },
+            {
+                "code": "unfortunately_example_unfortunately-she-did-not-get-the-job",
+                "text": "Unfortunately, she did not get the job."
+            },
+            {
+                "code": "unfortunately_example_unfortunately-the-store-was-closed-before-we-got-there",
+                "text": "Unfortunately, the store was closed before we got there."
+            }
+        ]
+    }
+]

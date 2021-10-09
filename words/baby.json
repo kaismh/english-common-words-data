@@ -1,0 +1,88 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a very young child or animal",
+        "examples": [
+            {
+                "code": "baby_example_they-have-a-newborn-baby",
+                "text": "They have a newborn baby."
+            },
+            {
+                "code": "baby_example_what-a-beautiful-baby",
+                "text": "What a beautiful baby!"
+            },
+            {
+                "code": "baby_example_crying-babies-give-me-stress",
+                "text": "Crying babies give me stress."
+            },
+            {
+                "code": "baby_example_growing-babies-need-a-lot-of-sleep",
+                "text": "Growing babies need a lot of sleep."
+            },
+            {
+                "code": "baby_example_that-couple-wants-a-baby",
+                "text": "That couple wants a baby."
+            },
+            {
+                "code": "baby_example_she-s-afraid-to-give-birth-to-a-baby",
+                "text": "She's afraid to give birth to a baby."
+            },
+            {
+                "code": "baby_example_the-doctor-delivers-many-babies-a-day",
+                "text": "The doctor delivers many babies a day."
+            },
+            {
+                "code": "baby_example_where-was-your-baby-conceived",
+                "text": "Where was your baby conceived?"
+            },
+            {
+                "code": "baby_example_what-will-you-name-your-baby",
+                "text": "What will you name your baby?"
+            },
+            {
+                "code": "baby_example_i-breast-feed-my-baby",
+                "text": "I breast-feed my baby."
+            },
+            {
+                "code": "baby_example_we-have-to-comfort-our-baby-at-night",
+                "text": "We have to comfort our baby at night."
+            },
+            {
+                "code": "baby_example_they-re-hoping-to-adopt-a-baby",
+                "text": "They're hoping to adopt a baby."
+            },
+            {
+                "code": "baby_example_the-baby-is-crawling",
+                "text": "The baby is crawling."
+            },
+            {
+                "code": "baby_example_the-baby-is-due-in-march",
+                "text": "The baby is due in March."
+            },
+            {
+                "code": "baby_example_i-have-a-baby-boy",
+                "text": "I have a baby boy."
+            },
+            {
+                "code": "baby_example_look-at-the-baby-birds",
+                "text": "Look at the baby birds."
+            },
+            {
+                "code": "baby_example_i-need-to-buy-baby-clothes",
+                "text": "I need to buy baby clothes."
+            },
+            {
+                "code": "baby_example_they-gave-us-a-new-baby-stroller",
+                "text": "They gave us a new baby stroller."
+            },
+            {
+                "code": "baby_example_we-prefer-not-to-use-baby-talk-with-our-kids",
+                "text": "We prefer not to use baby talk with our kids."
+            },
+            {
+                "code": "baby_example_she-s-planning-a-baby-shower",
+                "text": "She's planning a baby shower."
+            }
+        ]
+    }
+]

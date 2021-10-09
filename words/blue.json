@@ -1,0 +1,32 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "having the color of a clear sky during the day; sad or depressed",
+        "examples": [
+            {
+                "code": "blue_example_my-car-is-aqua-blue",
+                "text": "My car is aqua blue."
+            },
+            {
+                "code": "blue_example_i-like-blue-cheese-on-my-salad",
+                "text": "I like blue cheese on my salad."
+            },
+            {
+                "code": "blue_example_she-has-blue-eyes",
+                "text": "She has blue eyes."
+            },
+            {
+                "code": "blue_example_look-at-the-blue-sky",
+                "text": "Look at the blue sky."
+            },
+            {
+                "code": "blue_example_i-feel-blue-today",
+                "text": "I feel blue today."
+            },
+            {
+                "code": "blue_example_gray-skies-make-me-blue",
+                "text": "Gray skies make me blue."
+            }
+        ]
+    }
+]

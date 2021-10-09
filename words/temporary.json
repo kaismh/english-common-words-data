@@ -1,0 +1,36 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "not permanent; lasts only for a short time",
+        "examples": [
+            {
+                "code": "temporary_example_i-need-a-temporary-job",
+                "text": "I need a temporary job."
+            },
+            {
+                "code": "temporary_example_the-move-is-temporary",
+                "text": "The move is temporary."
+            },
+            {
+                "code": "temporary_example_my-brother-s-visit-is-strictly-temporary",
+                "text": "My brother's visit is strictly temporary."
+            },
+            {
+                "code": "temporary_example_he-is-working-on-a-temporary-basis",
+                "text": "He is working on a temporary basis."
+            },
+            {
+                "code": "temporary_example_she-needs-temporary-work",
+                "text": "She needs temporary work."
+            },
+            {
+                "code": "temporary_example_the-medicine-will-give-you-temporary-relief",
+                "text": "The medicine will give you temporary relief."
+            },
+            {
+                "code": "temporary_example_they-need-a-temporary-stay",
+                "text": "They need a temporary stay."
+            }
+        ]
+    }
+]

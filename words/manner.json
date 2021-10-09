@@ -1,0 +1,68 @@
+[
+    {
+        "type": "(n)",
+        "mean": "behavior; way of acting",
+        "examples": [
+            {
+                "code": "manner_example_please-mind-your-manners",
+                "text": "Please mind your manners."
+            },
+            {
+                "code": "manner_example_you-should-teach-that-kid-some-manners",
+                "text": "You should teach that kid some manners."
+            },
+            {
+                "code": "manner_example_she-learned-good-manners-from-her-parents",
+                "text": "She learned good manners from her parents."
+            },
+            {
+                "code": "manner_example_his-manner-changed-when-he-saw-his-mother",
+                "text": "His manner changed when he saw his mother."
+            },
+            {
+                "code": "manner_example_show-me-your-good-manners",
+                "text": "Show me your good manners."
+            },
+            {
+                "code": "manner_example_he-has-terrible-manners",
+                "text": "He has terrible manners."
+            },
+            {
+                "code": "manner_example_we-should-approach-this-is-an-objective-manner",
+                "text": "We should approach this is an objective manner."
+            },
+            {
+                "code": "manner_example_she-has-a-very-mild-manner",
+                "text": "She has a very mild manner."
+            },
+            {
+                "code": "manner_example_is-this-his-usual-manner",
+                "text": "Is this his usual manner?"
+            },
+            {
+                "code": "manner_example_she-has-a-calm-manner-about-her",
+                "text": "She has a calm manner about her."
+            },
+            {
+                "code": "manner_example_your-child-has-good-manners",
+                "text": "Your child has good manners."
+            },
+            {
+                "code": "manner_example_her-table-manners-are-awful",
+                "text": "Her table manners are awful."
+            },
+            {
+                "code": "manner_example_they-acted-in-a-friendly-manner",
+                "text": "They acted in a friendly manner."
+            },
+            {
+                "code": "manner_example_he-has-a-very-kind-manner",
+                "text": "He has a very kind manner."
+            },
+            {
+                "code": "manner_example_there-is-something-in-his-manner-that-irritates-people",
+                "text": "There is something in his manner that irritates people."
+            }
+        ]
+    }
+]

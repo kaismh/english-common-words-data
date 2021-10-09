@@ -1,0 +1,44 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to do something wrong or illegal; to promise something",
+        "examples": [
+            {
+                "code": "commit_example_he-is-going-to-jail-for-committing-a-crime",
+                "text": "He is going to jail for committing a crime."
+            },
+            {
+                "code": "commit_example_he-was-arrested-for-committing-murder",
+                "text": "He was arrested for committing murder."
+            },
+            {
+                "code": "commit_example_they-lost-the-contest-for-committing-an-error",
+                "text": "They lost the contest for committing an error."
+            },
+            {
+                "code": "commit_example_she-committed-an-act-of-kindness",
+                "text": "She committed an act of kindness."
+            },
+            {
+                "code": "commit_example_they-are-getting-a-divorce-because-she-committed-adultery",
+                "text": "They are getting a divorce because she committed adultery."
+            },
+            {
+                "code": "commit_example_they-cannot-believe-he-committed-suicide",
+                "text": "They cannot believe he committed suicide."
+            },
+            {
+                "code": "commit_example_she-never-commits-to-anything",
+                "text": "She never commits to anything."
+            },
+            {
+                "code": "commit_example_he-often-commits-to-too-many-things",
+                "text": "He often commits to too many things."
+            },
+            {
+                "code": "commit_example_they-are-faithfully-committed-to-each-other",
+                "text": "They are faithfully committed to each other."
+            }
+        ]
+    }
+]

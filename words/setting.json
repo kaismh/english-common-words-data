@@ -1,0 +1,60 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the place where something happens; the controls that can set the speed, temperature, or levels on a machine",
+        "examples": [
+            {
+                "code": "setting_example_we-can-see-animals-in-their-natural-setting",
+                "text": "We can see animals in their natural setting."
+            },
+            {
+                "code": "setting_example_this-picture-has-a-peaceful-setting",
+                "text": "This picture has a peaceful setting."
+            },
+            {
+                "code": "setting_example_this-is-an-ideal-setting-for-a-wedding",
+                "text": "This is an ideal setting for a wedding."
+            },
+            {
+                "code": "setting_example_the-play-was-based-in-a-rural-setting",
+                "text": "The play was based in a rural setting."
+            },
+            {
+                "code": "setting_example_i-enjoy-an-outdoor-setting",
+                "text": "I enjoy an outdoor setting."
+            },
+            {
+                "code": "setting_example_the-discussion-took-place-in-a-public-setting",
+                "text": "The discussion took place in a public setting."
+            },
+            {
+                "code": "setting_example_the-machine-was-set-to-a-high-setting",
+                "text": "The machine was set to a high setting."
+            },
+            {
+                "code": "setting_example_we-need-to-change-the-security-setting-on-the-computer",
+                "text": "We need to change the security setting on the computer."
+            },
+            {
+                "code": "setting_example_the-beach-provides-the-perfect-setting-for-romantic-walks",
+                "text": "The beach provides the perfect setting for romantic walks."
+            },
+            {
+                "code": "setting_example_we-changed-the-setting-on-the-dryer",
+                "text": "We changed the setting on the dryer."
+            },
+            {
+                "code": "setting_example_please-choose-the-desired-setting",
+                "text": "Please choose the desired setting."
+            },
+            {
+                "code": "setting_example_i-prefer-parties-in-casual-settings",
+                "text": "I prefer parties in casual settings."
+            },
+            {
+                "code": "setting_example_this-is-an-ideal-setting-for-a-wedding",
+                "text": "This is an ideal setting for a wedding."
+            }
+        ]
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the amount of money a person makes at a job",
+        "examples": [
+            {
+                "code": "salary_example_the-worker-makes-a-big-salary",
+                "text": "The worker makes a big salary."
+            },
+            {
+                "code": "salary_example_our-base-salary-is-45000",
+                "text": "Our base salary is $45,000."
+            },
+            {
+                "code": "salary_example_the-company-pays-a-great-salary",
+                "text": "The company pays a great salary."
+            },
+            {
+                "code": "salary_example_jimmy-earns-a-low-salary",
+                "text": "Jimmy earns a low salary."
+            },
+            {
+                "code": "salary_example_his-hard-work-will-raise-his-salary",
+                "text": "His hard work will raise his salary."
+            },
+            {
+                "code": "salary_example_this-position-has-a-good-salary-package",
+                "text": "This position has a good salary package."
+            },
+            {
+                "code": "salary_example_all-teachers-received-a-10-salary-increase",
+                "text": "All teachers received a 10% salary increase."
+            },
+            {
+                "code": "salary_example_it-is-hard-to-raise-a-family-on-a-low-salary",
+                "text": "It is hard to raise a family on a low salary."
+            }
+        ]
+    }
+]

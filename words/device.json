@@ -1,0 +1,48 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a piece of equipment that has a specific job",
+        "examples": [
+            {
+                "code": "device_example_that-is-a-clever-device",
+                "text": "That is a clever device."
+            },
+            {
+                "code": "device_example_her-phone-is-a-hand-held-device",
+                "text": "Her phone is a hand-held device."
+            },
+            {
+                "code": "device_example_his-tablet-is-a-digital-device",
+                "text": "His tablet is a digital device."
+            },
+            {
+                "code": "device_example_he-is-developing-a-communication-device",
+                "text": "He is developing a communication device."
+            },
+            {
+                "code": "device_example_the-bomb-is-an-explosive-device",
+                "text": "The bomb is an explosive device."
+            },
+            {
+                "code": "device_example_all-airplanes-are-fitted-with-a-safety-device",
+                "text": "All airplanes are fitted with a safety device."
+            },
+            {
+                "code": "device_example_how-do-you-connect-the-device",
+                "text": "How do you connect the device?"
+            },
+            {
+                "code": "device_example_the-engineer-will-build-the-device",
+                "text": "The engineer will build the device."
+            },
+            {
+                "code": "device_example_do-you-know-how-to-use-the-device",
+                "text": "Do you know how to use the device?"
+            },
+            {
+                "code": "device_example_the-device-is-helpful-for-communicating-wirelessly",
+                "text": "The device is helpful for communicating wirelessly."
+            }
+        ]
+    }
+]

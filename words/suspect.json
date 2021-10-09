@@ -1,0 +1,104 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "guilty; not innocent",
+        "examples": [
+            {
+                "code": "suspect_example_her-behavior-was-extremely-suspect-at-the-crime-scene",
+                "text": "Her behavior was extremely suspect at the crime scene."
+            },
+            {
+                "code": "suspect_example_his-attitude-was-deeply-suspect-after-the-accident",
+                "text": "His attitude was deeply suspect after the accident."
+            },
+            {
+                "code": "suspect_example_he-is-becoming-increasingly-suspect-since-the-robberies",
+                "text": "He is becoming increasingly suspect since the robberies."
+            },
+            {
+                "code": "suspect_example_her-reasons-are-a-little-suspect-for-wanting-to-help-us",
+                "text": "Her reasons are a little suspect for wanting to help us."
+            },
+            {
+                "code": "suspect_example_he-seems-a-little-suspect-to-me",
+                "text": "He seems a little suspect to me."
+            }
+        ]
+    },
+    {
+        "type": "(n)",
+        "mean": "someone who may have committed a crime or wrongdoing",
+        "examples": [
+            {
+                "code": "suspect_example_he-is-the-prime-suspect-in-her-murder",
+                "text": "He is the prime suspect in her murder."
+            },
+            {
+                "code": "suspect_example_she-would-be-the-obvious-suspect-in-the-theft-case",
+                "text": "She would be the obvious suspect in the theft case."
+            },
+            {
+                "code": "suspect_example_the-police-identified-the-murder-suspect",
+                "text": "The police identified the murder suspect."
+            },
+            {
+                "code": "suspect_example_the-suspect-was-captured-at-his-home",
+                "text": "The suspect was captured at his home."
+            },
+            {
+                "code": "suspect_example_the-police-interrogated-the-suspect-for-many-hours",
+                "text": "The police interrogated the suspect for many hours."
+            },
+            {
+                "code": "suspect_example_the-suspect-was-charged-with-the-murder",
+                "text": "The suspect was charged with the murder."
+            },
+            {
+                "code": "suspect_example_the-robbery-suspect-was-released-after-posting-bail",
+                "text": "The robbery suspect was released after posting bail."
+            },
+            {
+                "code": "suspect_example_he-is-a-suspect-in-the-thefts",
+                "text": "He is a suspect in the thefts."
+            },
+            {
+                "code": "suspect_example_she-is-a-suspect-for-the-double-murders",
+                "text": "She is a suspect for the double murders."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to think something may be true; to think someone is guilty of a crime or wrongdoing",
+        "examples": [
+            {
+                "code": "suspect_example_she-strongly-suspects-that-her-co-worker-is-stealing-money-from-the-company",
+                "text": "She strongly suspects that her co-worker is stealing money from the company."
+            },
+            {
+                "code": "suspect_example_i-always-suspected-he-was-capable-of-bad-things",
+                "text": "I always suspected he was capable of bad things."
+            },
+            {
+                "code": "suspect_example_she-immediately-suspected-her-husband-of-cheating",
+                "text": "She immediately suspected her husband of cheating."
+            },
+            {
+                "code": "suspect_example_they-wrongly-suspected-him-of-committing-the-crime",
+                "text": "They wrongly suspected him of committing the crime."
+            },
+            {
+                "code": "suspect_example_i-am-beginning-to-suspect-something-is-wrong",
+                "text": "I am beginning to suspect something is wrong."
+            },
+            {
+                "code": "suspect_example_do-you-have-reason-to-suspect-she-is-stealing",
+                "text": "Do you have reason to suspect she is stealing?"
+            },
+            {
+                "code": "suspect_example_he-was-suspected-of-committing-murder",
+                "text": "He was suspected of committing murder."
+            }
+        ]
+    }
+]

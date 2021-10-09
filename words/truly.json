@@ -1,0 +1,48 @@
+[
+    {
+        "type": "(adv)",
+        "mean": "honestly; really",
+        "examples": [
+            {
+                "code": "truly_example_i-am-truly-happy-for-you",
+                "text": "I am truly happy for you."
+            },
+            {
+                "code": "truly_example_his-performance-was-truly-amazing",
+                "text": "His performance was truly amazing!"
+            },
+            {
+                "code": "truly_example_i-am-truly-grateful-for-this-opportunity",
+                "text": "I am truly grateful for this opportunity."
+            },
+            {
+                "code": "truly_example_it-was-truly-shocking-to-hear-his-confession",
+                "text": "It was truly shocking to hear his confession."
+            },
+            {
+                "code": "truly_example_i-am-truly-sorry-for-what-i-did",
+                "text": "I am truly sorry for what I did."
+            },
+            {
+                "code": "truly_example_i-truly-appreciate-your-generosity",
+                "text": "I truly appreciate your generosity."
+            },
+            {
+                "code": "truly_example_i-truly-believe-you-were-right",
+                "text": "I truly believe you were right."
+            },
+            {
+                "code": "truly_example_you-truly-deserve-the-award",
+                "text": "You truly deserve the award."
+            },
+            {
+                "code": "truly_example_she-truly-loves-going-to-school",
+                "text": "She truly loves going to school."
+            },
+            {
+                "code": "truly_example_do-you-truly-understand-what-is-going-on",
+                "text": "Do you truly understand what is going on?"
+            }
+        ]
+    }
+]

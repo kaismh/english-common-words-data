@@ -1,0 +1,170 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a possibility; an opportunity; a risk; luck",
+        "examples": [
+            {
+                "code": "chance_example_there-s-a-good-chance-our-office-will-get-the-contract",
+                "text": "There's a good chance our office will get the contract."
+            },
+            {
+                "code": "chance_example_there-s-a-decent-chance-of-rain-this-weekend",
+                "text": "There's a decent chance of rain this weekend."
+            },
+            {
+                "code": "chance_example_we-have-a-fighting-chance-to-win-this-game",
+                "text": "We have a fighting chance to win this game."
+            },
+            {
+                "code": "chance_example_it-s-a-small-chance-but-i-ll-take-it",
+                "text": "It's a small chance, but I'll take it."
+            },
+            {
+                "code": "chance_example_we-have-little-chance-of-victory",
+                "text": "We have little chance of victory."
+            },
+            {
+                "code": "chance_example_what-are-the-soldier-s-survival-chances",
+                "text": "What are the soldier's survival chances?"
+            },
+            {
+                "code": "chance_example_the-candidate-has-a-small-election-chance",
+                "text": "The candidate has a small election chance."
+            },
+            {
+                "code": "chance_example_the-player-s-injury-could-hurt-the-team-s-playoff-chances",
+                "text": "The player's injury could hurt the team's playoff chances."
+            },
+            {
+                "code": "chance_example_men-and-women-must-be-given-an-equal-chance",
+                "text": "Men and women must be given an equal chance."
+            },
+            {
+                "code": "chance_example_this-is-a-wonderful-chance-for-you",
+                "text": "This is a wonderful chance for you."
+            },
+            {
+                "code": "chance_example_i-ll-give-you-one-final-chance",
+                "text": "I'll give you one final chance."
+            },
+            {
+                "code": "chance_example_there-are-no-second-chances-in-life-threatening-situations",
+                "text": "There are no second chances in life-threatening situations."
+            },
+            {
+                "code": "chance_example_i-met-my-wife-by-mere-chance",
+                "text": "I met my wife by mere chance."
+            },
+            {
+                "code": "chance_example_the-company-s-failure-was-due-to-unlucky-chance",
+                "text": "The company's failure was due to unlucky chance."
+            },
+            {
+                "code": "chance_example_just-give-me-a-chance-and-you-won-t-be-sorry",
+                "text": "Just give me a chance and you won't be sorry."
+            },
+            {
+                "code": "chance_example_do-we-stand-a-chance",
+                "text": "Do we stand a chance?"
+            },
+            {
+                "code": "chance_example_how-would-you-rate-their-chances-of-winning",
+                "text": "How would you rate their chances of winning?"
+            },
+            {
+                "code": "chance_example_this-could-really-boost-my-chance-for-success",
+                "text": "This could really boost my chance for success."
+            },
+            {
+                "code": "chance_example_a-mistake-could-compromise-her-chances-for-a-promotion",
+                "text": "A mistake could compromise her chances for a promotion."
+            },
+            {
+                "code": "chance_example_the-enemy-s-new-weapon-has-destroyed-our-chance-of-winning-the-war",
+                "text": "The enemy's new weapon has destroyed our chance of winning the war."
+            },
+            {
+                "code": "chance_example_everyone-deserves-a-chance-in-life",
+                "text": "Everyone deserves a chance in life."
+            },
+            {
+                "code": "chance_example_did-you-have-a-chance-to-see-the-grand-canyon",
+                "text": "Did you have a chance to see the Grand Canyon?"
+            },
+            {
+                "code": "chance_example_thank-you-for-offering-me-the-chance-of-a-lifetime",
+                "text": "Thank you for offering me the chance of a lifetime."
+            },
+            {
+                "code": "chance_example_she-s-still-awaiting-her-big-chance",
+                "text": "She's still awaiting her big chance."
+            },
+            {
+                "code": "chance_example_my-broken-leg-denied-me-the-chance-to-compete",
+                "text": "My broken leg denied me the chance to compete."
+            },
+            {
+                "code": "chance_example_if-you-spot-your-chance-take-it",
+                "text": "If you spot your chance, take it!"
+            },
+            {
+                "code": "chance_example_she-jumped-at-the-chance-of-a-new-challenge",
+                "text": "She jumped at the chance of a new challenge."
+            },
+            {
+                "code": "chance_example_the-team-blew-their-chances",
+                "text": "The team blew their chances."
+            },
+            {
+                "code": "chance_example_you-must-be-ready-when-a-life-changing-chance-arises",
+                "text": "You must be ready when a life-changing chance arises."
+            },
+            {
+                "code": "chance_example_we-ll-have-to-take-a-chance",
+                "text": "We'll have to take a chance."
+            },
+            {
+                "code": "chance_example_he-never-leaves-anything-to-chance",
+                "text": "He never leaves anything to chance."
+            },
+            {
+                "code": "chance_example_what-are-the-chances-of-victory",
+                "text": "What are the chances of victory?"
+            },
+            {
+                "code": "chance_example_i-think-we-have-a-good-chance-for-success",
+                "text": "I think we have a good chance for success."
+            },
+            {
+                "code": "chance_example_you-should-take-a-chance-on-her",
+                "text": "You should take a chance on her."
+            },
+            {
+                "code": "chance_example_the-scientists-wanted-to-make-sure-the-results-weren-t-due-to-chance",
+                "text": "The scientists wanted to make sure the results weren't due to chance."
+            },
+            {
+                "code": "chance_example_we-found-it-through-chance",
+                "text": "We found it through chance."
+            }
+        ]
+    },
+    {
+        "type": "(adj)",
+        "mean": "not planned",
+        "examples": [
+            {
+                "code": "chance_example_i-met-my-wife-thought-a-chance-meeting",
+                "text": "I met my wife thought a chance meeting."
+            },
+            {
+                "code": "chance_example_we-found-dinosaur-fossils-through-a-chance-discovery",
+                "text": "We found dinosaur fossils through a chance discovery."
+            },
+            {
+                "code": "chance_example_a-great-idea-was-formed-through-a-chance-conversation",
+                "text": "A great idea was formed through a chance conversation."
+            }
+        ]
+    }
+]

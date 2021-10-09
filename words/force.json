@@ -1,0 +1,198 @@
+[
+    {
+        "type": "(n)",
+        "mean": "physical strength or power; effect that causes movement; social or political power or influence; a group of people",
+        "examples": [
+            {
+                "code": "force_example_it-takes-great-force-to-lift-a-car",
+                "text": "It takes great force to lift a car."
+            },
+            {
+                "code": "force_example_he-won-the-fight-with-brute-force",
+                "text": "He won the fight with brute force."
+            },
+            {
+                "code": "force_example_their-ability-is-not-at-maximum-force",
+                "text": "Their ability is not at maximum force."
+            },
+            {
+                "code": "force_example_the-police-were-accused-of-using-excessive-force-during-the-riots",
+                "text": "The police were accused of using excessive force during the riots."
+            },
+            {
+                "code": "force_example_he-used-physical-force-to-get-his-way",
+                "text": "He used physical force to get his way."
+            },
+            {
+                "code": "force_example_gravity-is-a-strong-force",
+                "text": "Gravity is a strong force."
+            },
+            {
+                "code": "force_example_this-magnet-has-a-weak-force",
+                "text": "This magnet has a weak force."
+            },
+            {
+                "code": "force_example_there-are-many-internal-forces-that-can-affect-the-outcome",
+                "text": "There are many internal forces that can affect the outcome."
+            },
+            {
+                "code": "force_example_they-are-investigating-the-mechanical-force-at-work",
+                "text": "They are investigating the mechanical force at work."
+            },
+            {
+                "code": "force_example_he-is-a-major-force-within-the-field",
+                "text": "He is a major force within the field."
+            },
+            {
+                "code": "force_example_the-new-incentives-have-been-a-motivating-force-for-students",
+                "text": "The new incentives have been a motivating force for students."
+            },
+            {
+                "code": "force_example_there-are-competitive-forces-trying-to-influence-his-decision",
+                "text": "There are competitive forces trying to influence his decision."
+            },
+            {
+                "code": "force_example_his-family-was-the-driving-force-behind-his-decision",
+                "text": "His family was the driving force behind his decision."
+            },
+            {
+                "code": "force_example_she-s-the-creative-force-behind-the-campaign",
+                "text": "She's the creative force behind the campaign."
+            },
+            {
+                "code": "force_example_there-are-unseen-forces-at-work-here",
+                "text": "There are unseen forces at work here."
+            },
+            {
+                "code": "force_example_he-is-interested-in-supernatural-forces",
+                "text": "He is interested in supernatural forces."
+            },
+            {
+                "code": "force_example_they-formed-a-joint-force-to-combat-the-problem",
+                "text": "They formed a joint force to combat the problem."
+            },
+            {
+                "code": "force_example_he-s-a-member-of-the-elite-forces",
+                "text": "He's a member of the elite forces."
+            },
+            {
+                "code": "force_example_the-allied-forces-joined-the-fight",
+                "text": "The allied forces joined the fight."
+            },
+            {
+                "code": "force_example_they-are-trying-to-fight-off-enemy-forces",
+                "text": "They are trying to fight off enemy forces."
+            },
+            {
+                "code": "force_example_the-police-force-is-taking-on-that-project",
+                "text": "The police force is taking on that project."
+            },
+            {
+                "code": "force_example_combat-forces-are-preparing-for-the-attack",
+                "text": "Combat forces are preparing for the attack."
+            },
+            {
+                "code": "force_example_he-always-uses-force-to-get-his-way",
+                "text": "He always uses force to get his way."
+            },
+            {
+                "code": "force_example_they-took-the-goods-by-force",
+                "text": "They took the goods by force."
+            },
+            {
+                "code": "force_example_the-city-felt-the-force-of-the-storm",
+                "text": "The city felt the force of the storm."
+            },
+            {
+                "code": "force_example_they-increased-the-force-of-the-magnet",
+                "text": "They increased the force of the magnet."
+            },
+            {
+                "code": "force_example_this-produces-a-strong-force",
+                "text": "This produces a strong force."
+            },
+            {
+                "code": "force_example_if-you-apply-too-much-force-it-will-break",
+                "text": "If you apply too much force, it will break."
+            },
+            {
+                "code": "force_example_they-are-trying-to-balance-the-forces-of-nature",
+                "text": "They are trying to balance the forces of nature."
+            },
+            {
+                "code": "force_example_he-remains-a-force-in-the-industry",
+                "text": "He remains a force in the industry."
+            },
+            {
+                "code": "force_example_he-wants-to-fight-the-forces-of-change",
+                "text": "He wants to fight the forces of change."
+            },
+            {
+                "code": "force_example_they-are-creating-a-task-force-to-deal-with-that-issue",
+                "text": "They are creating a task force to deal with that issue."
+            },
+            {
+                "code": "force_example_they-mobilized-armed-forces-to-deal-with-the-attack",
+                "text": "They mobilized armed forces to deal with the attack."
+            },
+            {
+                "code": "force_example_he-is-leading-the-task-force-on-the-economy",
+                "text": "He is leading the task force on the economy."
+            },
+            {
+                "code": "force_example_the-two-groups-have-joined-forces-on-that-issue",
+                "text": "The two groups have joined forces on that issue."
+            },
+            {
+                "code": "force_example_rebel-forces-control-that-region",
+                "text": "Rebel forces control that region."
+            },
+            {
+                "code": "force_example_they-enforce-the-laws-by-force",
+                "text": "They enforce the laws by force."
+            },
+            {
+                "code": "force_example_they-are-measuring-the-force-between-the-particles",
+                "text": "They are measuring the force between the particles."
+            },
+            {
+                "code": "force_example_her-family-was-the-force-behind-her-decision",
+                "text": "Her family was the force behind her decision."
+            },
+            {
+                "code": "force_example_his-ideas-have-been-a-force-for-changes-in-policy",
+                "text": "His ideas have been a force for changes in policy."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to use physical strength; to make someone do something he or she does not want to do",
+        "examples": [
+            {
+                "code": "force_example_circumstances-forced-us-to-make-a-quick-decision",
+                "text": "Circumstances forced us to make a quick decision."
+            },
+            {
+                "code": "force_example_the-weather-forced-a-cancellation",
+                "text": "The weather forced a cancellation."
+            },
+            {
+                "code": "force_example_the-police-forced-his-confession",
+                "text": "The police forced his confession."
+            },
+            {
+                "code": "force_example_they-forced-the-lock-and-got-into-the-building",
+                "text": "They forced the lock and got into the building."
+            },
+            {
+                "code": "force_example_she-forced-a-smile",
+                "text": "She forced a smile."
+            },
+            {
+                "code": "force_example_they-forced-his-resignation",
+                "text": "They forced his resignation."
+            }
+        ]
+    }
+]

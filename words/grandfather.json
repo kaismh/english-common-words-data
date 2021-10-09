@@ -1,0 +1,52 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the father of your mother or father",
+        "examples": [
+            {
+                "code": "grandfather_example_her-paternal-grandfather-served-in-world-war-ii",
+                "text": "Her paternal grandfather served in World War II."
+            },
+            {
+                "code": "grandfather_example_he-tries-to-be-a-doting-grandfather",
+                "text": "He tries to be a doting grandfather."
+            },
+            {
+                "code": "grandfather_example_i-have-a-stubborn-grandfather",
+                "text": "I have a stubborn grandfather."
+            },
+            {
+                "code": "grandfather_example_my-grandfather-lived-through-world-war-i",
+                "text": "My grandfather lived through World War I."
+            },
+            {
+                "code": "grandfather_example_my-grandfather-tells-many-war-stories",
+                "text": "My grandfather tells many war stories."
+            },
+            {
+                "code": "grandfather_example_my-grandfather-passed-away-many-years-ago",
+                "text": "My grandfather passed away many years ago."
+            },
+            {
+                "code": "grandfather_example_how-old-is-your-grandfather",
+                "text": "How old is your grandfather?"
+            },
+            {
+                "code": "grandfather_example_my-grandfather-is-getting-old",
+                "text": "My grandfather is getting old."
+            },
+            {
+                "code": "grandfather_example_my-grandfather-doesn-t-remember-things-well-anymore",
+                "text": "My grandfather doesn't remember things well anymore."
+            },
+            {
+                "code": "grandfather_example_he-is-my-grandfather-on-my-father-s-side",
+                "text": "He is my grandfather on my father's side."
+            },
+            {
+                "code": "grandfather_example_my-grandfather-is-90-years-old",
+                "text": "My grandfather is 90 years old."
+            }
+        ]
+    }
+]

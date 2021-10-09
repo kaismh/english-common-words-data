@@ -1,0 +1,70 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to be on your feet in an upright position; to be patient with something or someone",
+        "examples": [
+            {
+                "code": "stand_example_please-stand-still-while-i-take-your-picture",
+                "text": "Please stand still while I take your picture."
+            },
+            {
+                "code": "stand_example_he-stood-awkwardly-in-front-of-the-arguing-couple",
+                "text": "He stood awkwardly in front of the arguing couple."
+            },
+            {
+                "code": "stand_example_he-stood-barefoot-in-the-sand",
+                "text": "He stood barefoot in the sand."
+            },
+            {
+                "code": "stand_example_her-parents-stood-quietly-by-her-side",
+                "text": "Her parents stood quietly by her side."
+            },
+            {
+                "code": "stand_example_they-re-just-standing-around-doing-nothing",
+                "text": "They're just standing around doing nothing."
+            },
+            {
+                "code": "stand_example_he-is-unable-to-stand-for-a-long-time",
+                "text": "He is unable to stand for a long time."
+            },
+            {
+                "code": "stand_example_i-don-t-know-how-you-can-stand-the-heat",
+                "text": "I don't know how you can stand the heat."
+            },
+            {
+                "code": "stand_example_she-cannot-stand-him",
+                "text": "She cannot stand him."
+            }
+        ]
+    },
+    {
+        "type": "(n)",
+        "mean": "a strong effort to defend or oppose something; a small booth or counter where you can buy small items",
+        "examples": [
+            {
+                "code": "stand_example_he-took-a-tough-stand-against-the-war",
+                "text": "He took a tough stand against the war."
+            },
+            {
+                "code": "stand_example_she-works-at-a-hamburger-stand-on-the-weekends",
+                "text": "She works at a hamburger stand on the weekends."
+            },
+            {
+                "code": "stand_example_he-took-a-strong-stand-against-the-war",
+                "text": "He took a strong stand against the war."
+            },
+            {
+                "code": "stand_example_the-kids-set-up-a-lemonade-stand-in-their-neighborhood",
+                "text": "The kids set up a lemonade stand in their neighborhood."
+            },
+            {
+                "code": "stand_example_he-has-taken-a-public-stand-on-the-issue-of-gun-control",
+                "text": "He has taken a public stand on the issue of gun control."
+            },
+            {
+                "code": "stand_example_she-made-a-strong-stand-against-the-war",
+                "text": "She made a strong stand against the war."
+            }
+        ]
+    }
+]

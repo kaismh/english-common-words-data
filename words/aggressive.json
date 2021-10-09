@@ -1,0 +1,28 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "behaving in a threatening way; ready to fight or attack",
+        "examples": [
+            {
+                "code": "aggressive_example_that-criminal-looks-aggressive",
+                "text": "That criminal looks aggressive."
+            },
+            {
+                "code": "aggressive_example_certain-medications-can-make-people-aggressive",
+                "text": "Certain medications can make people aggressive."
+            },
+            {
+                "code": "aggressive_example_the-boxer-is-extremely-aggressive",
+                "text": "The boxer is extremely aggressive."
+            },
+            {
+                "code": "aggressive_example_she-became-increasingly-aggressive",
+                "text": "She became increasingly aggressive."
+            },
+            {
+                "code": "aggressive_example_my-cat-is-aggressive-toward-my-dog",
+                "text": "My cat is aggressive toward my dog."
+            }
+        ]
+    }
+]

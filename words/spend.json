@@ -1,0 +1,52 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to use money to pay for something; to pass time",
+        "examples": [
+            {
+                "code": "spend_example_learn-how-to-spend-your-money-wisely",
+                "text": "Learn how to spend your money wisely."
+            },
+            {
+                "code": "spend_example_she-spends-her-money-freely-on-shopping",
+                "text": "She spends her money freely on shopping."
+            },
+            {
+                "code": "spend_example_she-regularly-spends-her-vacation-time-in-paris",
+                "text": "She regularly spends her vacation time in Paris."
+            },
+            {
+                "code": "spend_example_she-spends-a-lot-of-money-on-shoes",
+                "text": "She spends a lot of money on shoes."
+            },
+            {
+                "code": "spend_example_how-did-you-spend-your-day",
+                "text": "How did you spend your day?"
+            },
+            {
+                "code": "spend_example_she-spends-her-whole-allowance-each-week",
+                "text": "She spends her whole allowance each week."
+            },
+            {
+                "code": "spend_example_i-spent-most-of-my-childhood-at-the-beach",
+                "text": "I spent most of my childhood at the beach."
+            },
+            {
+                "code": "spend_example_he-spent-a-fortune-on-fast-cars",
+                "text": "He spent a fortune on fast cars."
+            },
+            {
+                "code": "spend_example_she-spent-a-lifetime-searching-for-her-biological-mother",
+                "text": "She spent a lifetime searching for her biological mother."
+            },
+            {
+                "code": "spend_example_she-spends-too-much-money-at-department-stores",
+                "text": "She spends too much money at department stores."
+            },
+            {
+                "code": "spend_example_where-did-you-spend-your-vacation",
+                "text": "Where did you spend your vacation?"
+            }
+        ]
+    }
+]

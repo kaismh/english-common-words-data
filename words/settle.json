@@ -1,0 +1,32 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to end by reaching an agreement",
+        "examples": [
+            {
+                "code": "settle_example_i-hope-to-settle-the-argument-peacefully",
+                "text": "I hope to settle the argument peacefully."
+            },
+            {
+                "code": "settle_example_we-finally-settled-the-matter",
+                "text": "We finally settled the matter."
+            },
+            {
+                "code": "settle_example_it-will-need-to-be-settled-eventually",
+                "text": "It will need to be settled eventually."
+            },
+            {
+                "code": "settle_example_they-agreed-to-settle-out-of-court",
+                "text": "They agreed to settle out of court."
+            },
+            {
+                "code": "settle_example_don-t-settle-for-anything-less",
+                "text": "Don't settle for anything less."
+            },
+            {
+                "code": "settle_example_we-finally-settled-on-an-apartment",
+                "text": "We finally settled on an apartment."
+            }
+        ]
+    }
+]

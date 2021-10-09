@@ -1,0 +1,86 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the act of buying something; the act of getting something by giving money for it",
+        "examples": [
+            {
+                "code": "purchase_example_she-made-a-cash-purchase",
+                "text": "She made a cash purchase."
+            },
+            {
+                "code": "purchase_example_be-careful-with-online-purchases",
+                "text": "Be careful with online purchases."
+            },
+            {
+                "code": "purchase_example_the-boat-was-an-expensive-purchase",
+                "text": "The boat was an expensive purchase."
+            },
+            {
+                "code": "purchase_example_we-make-bulk-purchases-at-a-large-warehouse-store",
+                "text": "We make bulk purchases at a large warehouse store."
+            },
+            {
+                "code": "purchase_example_my-husband-makes-impulse-purchases",
+                "text": "My husband makes impulse purchases."
+            },
+            {
+                "code": "purchase_example_the-electric-car-was-a-smart-purchase",
+                "text": "The electric car was a smart purchase."
+            },
+            {
+                "code": "purchase_example_she-pays-for-her-purchases-in-cash",
+                "text": "She pays for her purchases in cash."
+            },
+            {
+                "code": "purchase_example_what-is-the-purchase-price-of-the-house",
+                "text": "What is the purchase price of the house?"
+            },
+            {
+                "code": "purchase_example_what-is-the-purchase-tax-in-that-state",
+                "text": "What is the purchase tax in that state?"
+            },
+            {
+                "code": "purchase_example_i-would-like-to-track-my-purchase-order",
+                "text": "I would like to track my purchase order."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to buy something; to give money for something",
+        "examples": [
+            {
+                "code": "purchase_example_they-recently-purchased-a-new-car",
+                "text": "They recently purchased a new car."
+            },
+            {
+                "code": "purchase_example_i-purchase-books-online",
+                "text": "I purchase books online."
+            },
+            {
+                "code": "purchase_example_i-wish-to-purchase-a-new-house-by-the-end-of-this-year",
+                "text": "I wish to purchase a new house by the end of this year."
+            },
+            {
+                "code": "purchase_example_i-cannot-afford-to-purchase-a-new-car",
+                "text": "I cannot afford to purchase a new car."
+            },
+            {
+                "code": "purchase_example_we-can-afford-to-purchase-new-furniture",
+                "text": "We can afford to purchase new furniture."
+            },
+            {
+                "code": "purchase_example_she-is-willing-to-purchase-50-books-for-the-school-library",
+                "text": "She is willing to purchase 50 books for the school library."
+            },
+            {
+                "code": "purchase_example_they-purchased-the-house-for-less-than-what-it-is-worth",
+                "text": "They purchased the house for less than what it is worth."
+            },
+            {
+                "code": "purchase_example_we-purchased-our-car-from-a-used-dealership",
+                "text": "We purchased our car from a used dealership."
+            }
+        ]
+    }
+]

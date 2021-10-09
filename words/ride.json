@@ -1,0 +1,122 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to go somewhere in a vehicle; to sit on an animal as it moves",
+        "examples": [
+            {
+                "code": "ride_example_i-like-to-ride-horses",
+                "text": "I like to ride horses."
+            },
+            {
+                "code": "ride_example_we-rode-the-subway-to-the-city",
+                "text": "We rode the subway to the city."
+            },
+            {
+                "code": "ride_example_he-rode-the-elevator-to-the-top-floor",
+                "text": "He rode the elevator to the top floor."
+            },
+            {
+                "code": "ride_example_she-can-ride-a-skateboard-well",
+                "text": "She can ride a skateboard well."
+            },
+            {
+                "code": "ride_example_we-rode-several-miles-to-get-there",
+                "text": "We rode several miles to get there."
+            },
+            {
+                "code": "ride_example_can-we-ride-along",
+                "text": "Can we ride along?"
+            },
+            {
+                "code": "ride_example_he-rode-off-in-anger",
+                "text": "He rode off in anger."
+            },
+            {
+                "code": "ride_example_i-rode-around-all-night",
+                "text": "I rode around all night."
+            },
+            {
+                "code": "ride_example_they-saw-us-ride-past",
+                "text": "They saw us ride past."
+            },
+            {
+                "code": "ride_example_i-rode-with-my-friends",
+                "text": "I rode with my friends."
+            },
+            {
+                "code": "ride_example_i-rode-on-the-bike",
+                "text": "I rode on the bike."
+            },
+            {
+                "code": "ride_example_we-rode-in-the-car",
+                "text": "We rode in the car."
+            },
+            {
+                "code": "ride_example_we-rode-from-the-village",
+                "text": "We rode from the village."
+            },
+            {
+                "code": "ride_example_we-rode-up-the-street",
+                "text": "We rode up the street."
+            }
+        ]
+    },
+    {
+        "type": "(n)",
+        "mean": "a way of traveling in a car or on an animal; a large machine at an amusement park that people go on for fun",
+        "examples": [
+            {
+                "code": "ride_example_just-try-to-enjoy-the-ride",
+                "text": "Just try to enjoy the ride."
+            },
+            {
+                "code": "ride_example_we-should-go-for-a-ride-on-our-bicycles",
+                "text": "We should go for a ride on our bicycles."
+            },
+            {
+                "code": "ride_example_he-asked-for-a-ride-from-his-friend",
+                "text": "He asked for a ride from his friend."
+            },
+            {
+                "code": "ride_example_i-gave-her-a-ride-to-work",
+                "text": "I gave her a ride to work."
+            },
+            {
+                "code": "ride_example_i-have-a-ride-to-school",
+                "text": "I have a ride to school."
+            },
+            {
+                "code": "ride_example_i-went-on-a-roller-coaster-ride",
+                "text": "I went on a roller-coaster ride."
+            },
+            {
+                "code": "ride_example_we-took-our-daughter-for-a-camel-ride",
+                "text": "We took our daughter for a camel ride."
+            },
+            {
+                "code": "ride_example_he-went-for-a-short-bike-ride",
+                "text": "He went for a short bike ride."
+            },
+            {
+                "code": "ride_example_we-had-a-rough-ride",
+                "text": "We had a rough ride."
+            },
+            {
+                "code": "ride_example_the-plane-ride-was-short",
+                "text": "The plane ride was short."
+            },
+            {
+                "code": "ride_example_we-took-a-ride-from-him",
+                "text": "We took a ride from him."
+            },
+            {
+                "code": "ride_example_we-took-a-ride-in-the-car",
+                "text": "We took a ride in the car."
+            },
+            {
+                "code": "ride_example_we-took-a-ride-to-the-beach",
+                "text": "We took a ride to the beach."
+            }
+        ]
+    }
+]

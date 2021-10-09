@@ -1,0 +1,36 @@
+[
+    {
+        "type": "(n)",
+        "mean": "something that happens by mistake or without plan; unexpected damage",
+        "examples": [
+            {
+                "code": "accident_example_she-was-in-a-terrible-accident",
+                "text": "She was in a terrible accident."
+            },
+            {
+                "code": "accident_example_we-found-it-by-pure-accident",
+                "text": "We found it by pure accident."
+            },
+            {
+                "code": "accident_example_we-can-prevent-accidents-if-we-are-more-careful",
+                "text": "We can prevent accidents if we are more careful."
+            },
+            {
+                "code": "accident_example_how-did-she-survive-the-accident",
+                "text": "How did she survive the accident?"
+            },
+            {
+                "code": "accident_example_lack-of-sleep-caused-the-accident",
+                "text": "Lack of sleep caused the accident."
+            },
+            {
+                "code": "accident_example_without-proper-safety-an-accident-can-occur",
+                "text": "Without proper safety, an accident can occur."
+            },
+            {
+                "code": "accident_example_my-wife-and-i-met-by-accident",
+                "text": "My wife and I met by accident."
+            }
+        ]
+    }
+]

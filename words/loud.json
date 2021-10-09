@@ -1,0 +1,28 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "very noticeable in sound; making a lot of noise",
+        "examples": [
+            {
+                "code": "loud_example_the-music-is-very-loud-inside",
+                "text": "The music is very loud inside."
+            },
+            {
+                "code": "loud_example_she-turned-the-television-up-loud",
+                "text": "She turned the television up loud."
+            },
+            {
+                "code": "loud_example_his-voice-was-extremely-loud",
+                "text": "His voice was extremely loud."
+            },
+            {
+                "code": "loud_example_the-little-boy-s-screams-are-incredibly-loud",
+                "text": "The little boy's screams are incredibly loud."
+            },
+            {
+                "code": "loud_example_we-heard-a-loud-noise",
+                "text": "We heard a loud noise."
+            }
+        ]
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "type": "(n)",
+        "mean": "small town",
+        "examples": [
+            {
+                "code": "village_example_the-hurricane-affected-the-neighboring-villages",
+                "text": "The hurricane affected the neighboring villages."
+            },
+            {
+                "code": "village_example_we-studied-about-the-ancient-villages-of-africa",
+                "text": "We studied about the ancient villages of Africa."
+            },
+            {
+                "code": "village_example_he-is-from-a-remote-village-outside-of-the-city",
+                "text": "He is from a remote village outside of the city."
+            },
+            {
+                "code": "village_example_they-work-in-a-fishing-village",
+                "text": "They work in a fishing village."
+            },
+            {
+                "code": "village_example_she-is-from-another-village",
+                "text": "She is from another village."
+            },
+            {
+                "code": "village_example_she-comes-from-the-next-village",
+                "text": "She comes from the next village."
+            },
+            {
+                "code": "village_example_the-village-was-destroyed-by-a-hurricane",
+                "text": "The village was destroyed by a hurricane."
+            },
+            {
+                "code": "village_example_the-village-houses-over-50-fishermen",
+                "text": "The village houses over 50 fishermen."
+            }
+        ]
+    }
+]

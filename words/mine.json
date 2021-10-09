@@ -1,0 +1,62 @@
+[
+    {
+        "type": "(n)",
+        "mean": "an underground natural source of precious minerals; an underground explosive",
+        "examples": [
+            {
+                "code": "mine_example_they-work-in-a-mine",
+                "text": "They work in a mine."
+            },
+            {
+                "code": "mine_example_the-mine-produces-an-enormous-amount-of-minerals",
+                "text": "The mine produces an enormous amount of minerals."
+            },
+            {
+                "code": "mine_example_the-mine-went-off-unexpectedly",
+                "text": "The mine went off unexpectedly."
+            },
+            {
+                "code": "mine_example_our-truck-hit-a-mine",
+                "text": "Our truck hit a mine."
+            },
+            {
+                "code": "mine_example_they-carefully-removed-the-mines",
+                "text": "They carefully removed the mines."
+            },
+            {
+                "code": "mine_example_the-soldiers-detected-an-active-mine",
+                "text": "The soldiers detected an active mine."
+            },
+            {
+                "code": "mine_example_he-works-in-a-diamond-mine",
+                "text": "He works in a diamond mine."
+            },
+            {
+                "code": "mine_example_they-were-trapped-in-a-deep-mine",
+                "text": "They were trapped in a deep mine."
+            },
+            {
+                "code": "mine_example_he-set-off-a-land-mine",
+                "text": "He set off a land mine."
+            },
+            {
+                "code": "mine_example_the-workers-were-stuck-in-a-mineshaft-for-hours",
+                "text": "The workers were stuck in a mineshaft for hours."
+            },
+            {
+                "code": "mine_example_they-found-gold-in-the-mine",
+                "text": "They found gold in the mine."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to dig holes in the ground to search for precious minerals",
+        "examples": [
+            {
+                "code": "mine_example_they-are-mining-gold",
+                "text": "They are mining gold."
+            }
+        ]
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "type": "(n)",
+        "mean": "an official who carefully checks things to make sure everything is in good condition; a police officer",
+        "examples": [
+            {
+                "code": "inspector_example_he-is-the-chief-inspector",
+                "text": "He is the chief inspector."
+            },
+            {
+                "code": "inspector_example_you-need-to-call-a-building-inspector",
+                "text": "You need to call a building inspector."
+            },
+            {
+                "code": "inspector_example_you-need-to-hire-a-home-inspector-before-you-buy-a-house",
+                "text": "You need to hire a home inspector before you buy a house."
+            },
+            {
+                "code": "inspector_example_the-health-inspector-suggested-that-the-restaurant-close-for-repairs",
+                "text": "The health inspector suggested that the restaurant close for repairs."
+            },
+            {
+                "code": "inspector_example_that-deputy-inspector-is-in-charge-of-our-case",
+                "text": "That deputy inspector is in charge of our case."
+            },
+            {
+                "code": "inspector_example_the-inspector-checked-the-report",
+                "text": "The inspector checked the report."
+            }
+        ]
+    }
+]

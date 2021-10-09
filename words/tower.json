@@ -1,0 +1,58 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a tall narrow building or structure",
+        "examples": [
+            {
+                "code": "tower_example_the-princess-was-locked-in-the-high-tower",
+                "text": "The princess was locked in the high tower."
+            },
+            {
+                "code": "tower_example_the-leaning-tower-of-pisa-is-a-famous-building",
+                "text": "The Leaning Tower of Pisa is a famous building."
+            },
+            {
+                "code": "tower_example_they-visited-the-ancient-towers-in-rome",
+                "text": "They visited the ancient towers in Rome."
+            },
+            {
+                "code": "tower_example_he-constructed-the-glass-tower",
+                "text": "He constructed the glass tower."
+            },
+            {
+                "code": "tower_example_the-tower-fell-during-the-earthquake",
+                "text": "The tower fell during the earthquake."
+            },
+            {
+                "code": "tower_example_the-tower-stood-for-many-years",
+                "text": "The tower stood for many years."
+            },
+            {
+                "code": "tower_example_the-tower-stood-for-many-years",
+                "text": "The tower stood for many years."
+            },
+            {
+                "code": "tower_example_the-tower-was-destroyed-during-the-earthquake",
+                "text": "The tower was destroyed during the earthquake."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to stand taller than others",
+        "examples": [
+            {
+                "code": "tower_example_the-school-star-basketball-player-towers-greatly-over-the-other-students",
+                "text": "The school star basketball player towers greatly over the other students."
+            },
+            {
+                "code": "tower_example_the-elephant-massively-towered-over-the-little-mouse",
+                "text": "The elephant massively towered over the little mouse."
+            },
+            {
+                "code": "tower_example_the-basketball-player-towered-over-his-teammates",
+                "text": "The basketball player towered over his teammates."
+            }
+        ]
+    }
+]

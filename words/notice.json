@@ -1,0 +1,98 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a warning; a written sign telling people about something; attention",
+        "examples": [
+            {
+                "code": "notice_example_how-did-he-escape-notice",
+                "text": "How did he escape notice?"
+            },
+            {
+                "code": "notice_example_if-you-want-to-move-you-need-to-give-notice-to-your-landlord",
+                "text": "If you want to move, you need to give notice to your landlord."
+            },
+            {
+                "code": "notice_example_i-handed-in-my-notice-at-work-last-week",
+                "text": "I handed in my notice at work last week."
+            },
+            {
+                "code": "notice_example_did-you-read-the-notice-on-the-bulletin-board",
+                "text": "Did you read the notice on the bulletin board?"
+            },
+            {
+                "code": "notice_example_i-left-at-short-notice",
+                "text": "I left at short notice."
+            },
+            {
+                "code": "notice_example_did-you-give-prior-notice-to-the-boss",
+                "text": "Did you give prior notice to the boss?"
+            },
+            {
+                "code": "notice_example_did-you-see-the-public-notice",
+                "text": "Did you see the public notice?"
+            },
+            {
+                "code": "notice_example_he-left-without-any-notice",
+                "text": "He left without any notice."
+            },
+            {
+                "code": "notice_example_we-need-to-be-ready-to-go-at-short-notice",
+                "text": "We need to be ready to go at short notice."
+            },
+            {
+                "code": "notice_example_they-took-no-notice-of-her",
+                "text": "They took no notice of her."
+            },
+            {
+                "code": "notice_example_there-were-notices-about-several-robberies-in-the-area",
+                "text": "There were notices about several robberies in the area."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "see",
+        "examples": [
+            {
+                "code": "notice_example_i-pretended-not-to-notice-that-things-were-going-badly",
+                "text": "I pretended not to notice that things were going badly."
+            },
+            {
+                "code": "notice_example_he-didn-t-seem-to-notice-i-was-sad",
+                "text": "He didn't seem to notice I was sad."
+            },
+            {
+                "code": "notice_example_he-notices-everything",
+                "text": "He notices everything."
+            },
+            {
+                "code": "notice_example_i-noticed-a-movement",
+                "text": "I noticed a movement."
+            },
+            {
+                "code": "notice_example_we-noticed-a-pattern",
+                "text": "We noticed a pattern."
+            },
+            {
+                "code": "notice_example_they-noticed-a-smell",
+                "text": "They noticed a smell."
+            },
+            {
+                "code": "notice_example_she-noticed-my-absence",
+                "text": "She noticed my absence."
+            },
+            {
+                "code": "notice_example_they-suddenly-noticed-him",
+                "text": "They suddenly noticed him."
+            },
+            {
+                "code": "notice_example_we-noticed-her-at-once",
+                "text": "We noticed her at once."
+            },
+            {
+                "code": "notice_example_she-finally-noticed-me",
+                "text": "She finally noticed me."
+            }
+        ]
+    }
+]

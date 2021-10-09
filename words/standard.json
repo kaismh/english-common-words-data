@@ -1,0 +1,60 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a level of quality that is considered acceptable",
+        "examples": [
+            {
+                "code": "standard_example_education-is-barely-reaching-decent-standards",
+                "text": "Education is barely reaching decent standards."
+            },
+            {
+                "code": "standard_example_he-has-high-standards-when-it-comes-to-cleaning",
+                "text": "He has high standards when it comes to cleaning."
+            },
+            {
+                "code": "standard_example_the-building-needs-to-be-brought-up-to-modern-standards",
+                "text": "The building needs to be brought up to modern standards."
+            },
+            {
+                "code": "standard_example_you-must-meet-certain-standards-to-join-the-team",
+                "text": "You must meet certain standards to join the team."
+            },
+            {
+                "code": "standard_example_he-expects-the-work-to-be-done-to-a-professional-standard",
+                "text": "He expects the work to be done to a professional standard."
+            },
+            {
+                "code": "standard_example_the-company-has-very-high-standards",
+                "text": "The company has very high standards."
+            },
+            {
+                "code": "standard_example_the-teacher-clearly-defined-the-class-standards",
+                "text": "The teacher clearly defined the class standards."
+            },
+            {
+                "code": "standard_example_the-factory-finally-met-environmental-standards",
+                "text": "The factory finally met environmental standards."
+            },
+            {
+                "code": "standard_example_she-wants-him-to-maintain-strong-academic-standards",
+                "text": "She wants him to maintain strong academic standards."
+            },
+            {
+                "code": "standard_example_you-need-to-raise-your-standards-a-little-bit",
+                "text": "You need to raise your standards a little bit."
+            },
+            {
+                "code": "standard_example_her-work-is-well-above-standard",
+                "text": "Her work is well above standard."
+            },
+            {
+                "code": "standard_example_by-today-s-standards-he-is-not-rich",
+                "text": "By today's standards, he is not rich."
+            },
+            {
+                "code": "standard_example_schools-need-to-bring-the-educational-system-up-to-standard",
+                "text": "Schools need to bring the educational system up to standard."
+            }
+        ]
+    }
+]

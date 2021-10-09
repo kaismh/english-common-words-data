@@ -1,0 +1,82 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a stone; a solid matter that makes up part of the earth's surface; a type of music",
+        "examples": [
+            {
+                "code": "rock_example_the-kids-were-throwing-rocks",
+                "text": "The kids were throwing rocks."
+            },
+            {
+                "code": "rock_example_we-enjoy-rock-climbing",
+                "text": "We enjoy rock climbing."
+            },
+            {
+                "code": "rock_example_he-is-a-rock-climber",
+                "text": "He is a rock climber."
+            },
+            {
+                "code": "rock_example_that-is-a-beautiful-rock-garden",
+                "text": "That is a beautiful rock garden."
+            },
+            {
+                "code": "rock_example_i-love-that-rock-song",
+                "text": "I love that rock song."
+            },
+            {
+                "code": "rock_example_i-listen-to-rock-music",
+                "text": "I listen to rock music."
+            },
+            {
+                "code": "rock_example_we-went-to-a-rock-concert",
+                "text": "We went to a rock concert."
+            },
+            {
+                "code": "rock_example_he-s-a-rock-singer",
+                "text": "He's a rock singer."
+            },
+            {
+                "code": "rock_example_they-re-building-a-wall-with-large-rocks",
+                "text": "They're building a wall with large rocks."
+            },
+            {
+                "code": "rock_example_the-sea-wall-is-made-of-hard-rock",
+                "text": "The sea wall is made of hard rock."
+            },
+            {
+                "code": "rock_example_we-studied-the-volcanic-rock",
+                "text": "We studied the volcanic rock."
+            },
+            {
+                "code": "rock_example_be-careful-on-the-jagged-rocks",
+                "text": "Be careful on the jagged rocks."
+            },
+            {
+                "code": "rock_example_watch-for-falling-rocks",
+                "text": "Watch for falling rocks."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to move back and forth",
+        "examples": [
+            {
+                "code": "rock_example_the-waves-rocked-the-boat",
+                "text": "The waves rocked the boat."
+            },
+            {
+                "code": "rock_example_the-mother-rocked-the-baby-to-sleep",
+                "text": "The mother rocked the baby to sleep."
+            },
+            {
+                "code": "rock_example_she-rocked-the-baby-back-and-forth",
+                "text": "She rocked the baby back and forth."
+            },
+            {
+                "code": "rock_example_the-boat-was-rocking-violently",
+                "text": "The boat was rocking violently."
+            }
+        ]
+    }
+]

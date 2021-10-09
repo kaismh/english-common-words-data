@@ -1,0 +1,44 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to move from one place to another; to pass; to be good with something",
+        "examples": [
+            {
+                "code": "go_example_i-need-the-meeting-to-go-smoothly",
+                "text": "I need the meeting to go smoothly."
+            },
+            {
+                "code": "go_example_it-always-goes-badly",
+                "text": "It always goes badly."
+            },
+            {
+                "code": "go_example_this-class-goes-really-quickly",
+                "text": "This class goes really quickly."
+            },
+            {
+                "code": "go_example_ice-cream-goes-well-with-pie",
+                "text": "Ice cream goes well with pie."
+            },
+            {
+                "code": "go_example_do-these-go-together",
+                "text": "Do these go together?"
+            },
+            {
+                "code": "go_example_ice-cream-goes-well-with-pie",
+                "text": "Ice cream goes well with pie."
+            },
+            {
+                "code": "go_example_let-s-go-to-the-party",
+                "text": "Let's go to the party."
+            },
+            {
+                "code": "go_example_i-will-go-with-you",
+                "text": "I will go with you."
+            },
+            {
+                "code": "go_example_i-want-to-go-to-the-store",
+                "text": "I want to go to the store."
+            }
+        ]
+    }
+]

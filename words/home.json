@@ -1,0 +1,200 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a place where someone lives or comes from; a house; a place that provides care or service",
+        "examples": [
+            {
+                "code": "home_example_he-showed-me-his-childhood-home",
+                "text": "He showed me his childhood home."
+            },
+            {
+                "code": "home_example_this-is-his-adopted-home",
+                "text": "This is his adopted home."
+            },
+            {
+                "code": "home_example_they-are-trying-to-find-a-permanent-home-for-the-puppies",
+                "text": "They are trying to find a permanent home for the puppies."
+            },
+            {
+                "code": "home_example_these-animals-are-in-need-of-a-loving-home",
+                "text": "These animals are in need of a loving home."
+            },
+            {
+                "code": "home_example_they-are-trying-to-help-children-from-single-parent-homes",
+                "text": "They are trying to help children from single-parent homes."
+            },
+            {
+                "code": "home_example_they-have-a-beautiful-home",
+                "text": "They have a beautiful home."
+            },
+            {
+                "code": "home_example_we-just-want-a-modest-home",
+                "text": "We just want a modest home."
+            },
+            {
+                "code": "home_example_they-are-looking-at-new-homes",
+                "text": "They are looking at new homes."
+            },
+            {
+                "code": "home_example_they-are-building-a-custom-home",
+                "text": "They are building a custom home."
+            },
+            {
+                "code": "home_example_they-found-their-dream-home",
+                "text": "They found their dream home."
+            },
+            {
+                "code": "home_example_they-have-a-summer-home-at-the-beach",
+                "text": "They have a summer home at the beach."
+            },
+            {
+                "code": "home_example_she-grew-up-in-a-mobile-home",
+                "text": "She grew up in a mobile home."
+            },
+            {
+                "code": "home_example_he-helps-out-at-a-retirement-home",
+                "text": "He helps out at a retirement home."
+            },
+            {
+                "code": "home_example_they-made-arrangements-with-the-funeral-home",
+                "text": "They made arrangements with the funeral home."
+            },
+            {
+                "code": "home_example_he-will-be-away-from-home-for-the-holidays-this-year",
+                "text": "He will be away from home for the holidays this year."
+            },
+            {
+                "code": "home_example_she-left-home-at-an-early-age",
+                "text": "She left home at an early age."
+            },
+            {
+                "code": "home_example_they-abandoned-their-homes-as-the-storm-approached",
+                "text": "They abandoned their homes as the storm approached."
+            },
+            {
+                "code": "home_example_we-re-trying-to-find-a-permanent-home-for-these-puppies",
+                "text": "We're trying to find a permanent home for these puppies."
+            },
+            {
+                "code": "home_example_they-own-a-second-home-in-florida",
+                "text": "They own a second home in Florida."
+            },
+            {
+                "code": "home_example_she-decorated-her-home-with-purchases-from-antique-stores",
+                "text": "She decorated her home with purchases from antique stores."
+            },
+            {
+                "code": "home_example_their-home-was-destroyed-in-the-storm",
+                "text": "Their home was destroyed in the storm."
+            },
+            {
+                "code": "home_example_they-run-a-nursing-home",
+                "text": "They run a nursing home."
+            },
+            {
+                "code": "home_example_what-s-your-home-address",
+                "text": "What's your home address?"
+            },
+            {
+                "code": "home_example_she-s-concerned-about-their-home-environment",
+                "text": "She's concerned about their home environment."
+            },
+            {
+                "code": "home_example_we-re-shopping-for-new-home-appliances",
+                "text": "We're shopping for new home appliances."
+            },
+            {
+                "code": "home_example_we-watched-old-home-movies",
+                "text": "We watched old home movies."
+            },
+            {
+                "code": "home_example_this-is-designed-for-home-use",
+                "text": "This is designed for home use."
+            },
+            {
+                "code": "home_example_they-re-shopping-for-a-home-computer",
+                "text": "They're shopping for a home computer."
+            },
+            {
+                "code": "home_example_this-room-will-be-our-home-office",
+                "text": "This room will be our home office."
+            },
+            {
+                "code": "home_example_we-ve-tried-a-lot-of-home-remedies",
+                "text": "We've tried a lot of home remedies."
+            },
+            {
+                "code": "home_example_this-ad-is-geared-towards-home-owners",
+                "text": "This ad is geared towards home owners."
+            },
+            {
+                "code": "home_example_home-sales-are-up-this-month",
+                "text": "Home sales are up this month."
+            },
+            {
+                "code": "home_example_we-spent-a-lot-on-home-improvements",
+                "text": "We spent a lot on home improvements."
+            },
+            {
+                "code": "home_example_he-was-unable-to-get-a-home-loan",
+                "text": "He was unable to get a home loan."
+            },
+            {
+                "code": "home_example_she-does-a-lot-of-work-at-home",
+                "text": "She does a lot of work at home."
+            },
+            {
+                "code": "home_example_we-visited-the-home-of-george-washington",
+                "text": "We visited the home of George Washington."
+            }
+        ]
+    },
+    {
+        "type": "(adj)",
+        "mean": "related to the place where someone lives or the main location of something",
+        "examples": [
+            {
+                "code": "home_example_they-play-better-at-their-home-stadium",
+                "text": "They play better at their home stadium."
+            },
+            {
+                "code": "home_example_they-finally-returned-to-their-home-city",
+                "text": "They finally returned to their home city."
+            },
+            {
+                "code": "home_example_i-love-my-mom-s-home-cooking",
+                "text": "I love my mom's home cooking."
+            },
+            {
+                "code": "home_example_they-promised-home-delivery-by-friday",
+                "text": "They promised home delivery by Friday."
+            },
+            {
+                "code": "home_example_this-store-sells-home-electronics",
+                "text": "This store sells home electronics."
+            },
+            {
+                "code": "home_example_they-are-trying-home-schooling-with-their-children",
+                "text": "They are trying home schooling with their children."
+            }
+        ]
+    },
+    {
+        "type": "(adv)",
+        "mean": "to or at the place where someone lives",
+        "examples": [
+            {
+                "code": "home_example_they-quickly-headed-home",
+                "text": "They quickly headed home."
+            },
+            {
+                "code": "home_example_i-think-i-m-going-to-stay-home",
+                "text": "I think I'm going to stay home."
+            },
+            {
+                "code": "home_example_he-hasn-t-traveled-home-for-a-long-time",
+                "text": "He hasn't traveled home for a long time."
+            }
+        ]
+    }
+]

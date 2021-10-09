@@ -1,0 +1,70 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "more than two of something",
+        "examples": [
+            {
+                "code": "several_example_we-talked-on-several-instances",
+                "text": "We talked on several instances."
+            },
+            {
+                "code": "several_example_i-cited-several-sources-in-my-paper",
+                "text": "I cited several sources in my paper."
+            },
+            {
+                "code": "several_example_there-are-several-ways-to-get-to-my-house",
+                "text": "There are several ways to get to my house."
+            },
+            {
+                "code": "several_example_we-have-several-houses",
+                "text": "We have several houses."
+            },
+            {
+                "code": "several_example_we-haven-t-seen-him-in-several-days",
+                "text": "We haven't seen him in several days."
+            },
+            {
+                "code": "several_example_the-power-was-out-for-several-hours",
+                "text": "The power was out for several hours."
+            },
+            {
+                "code": "several_example_i-m-going-to-the-movies-with-several-people",
+                "text": "I'm going to the movies with several people."
+            }
+        ]
+    },
+    {
+        "type": "(pro)",
+        "mean": "more than two of something; a few people or things",
+        "examples": [
+            {
+                "code": "several_example_several-of-us-are-going-to-the-movies",
+                "text": "Several of us are going to the movies."
+            },
+            {
+                "code": "several_example_several-of-the-visitors-brought-flowers",
+                "text": "Several of the visitors brought flowers."
+            },
+            {
+                "code": "several_example_several-of-the-guests-left-early",
+                "text": "Several of the guests left early."
+            },
+            {
+                "code": "several_example_several-of-the-family-members-got-into-an-argument",
+                "text": "Several of the family members got into an argument."
+            },
+            {
+                "code": "several_example_several-of-the-students-stayed-after-school-to-finish-the-project",
+                "text": "Several of the students stayed after school to finish the project."
+            },
+            {
+                "code": "several_example_several-of-the-teachers-had-a-meeting-after-school",
+                "text": "Several of the teachers had a meeting after school."
+            },
+            {
+                "code": "several_example_several-of-the-employees-were-fired-for-stealing",
+                "text": "Several of the employees were fired for stealing."
+            }
+        ]
+    }
+]

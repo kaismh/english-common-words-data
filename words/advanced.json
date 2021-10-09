@@ -1,0 +1,56 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "having the most recent developed ideas or methods; at the late stage in development",
+        "examples": [
+            {
+                "code": "advanced_example_he-is-advanced-in-his-technical-skills",
+                "text": "He is advanced in his technical skills."
+            },
+            {
+                "code": "advanced_example_he-has-advanced-stage-lung-cancer",
+                "text": "He has advanced stage lung cancer."
+            },
+            {
+                "code": "advanced_example_the-new-hospital-uses-highly-advanced-medical-technology",
+                "text": "The new hospital uses highly advanced medical technology."
+            },
+            {
+                "code": "advanced_example_your-child-is-very-advanced-in-math",
+                "text": "Your child is very advanced in math."
+            },
+            {
+                "code": "advanced_example_our-country-is-technologically-advanced-in-many-areas",
+                "text": "Our country is technologically advanced in many areas."
+            },
+            {
+                "code": "advanced_example_she-is-taking-advanced-classes-in-college",
+                "text": "She is taking advanced classes in college."
+            },
+            {
+                "code": "advanced_example_he-is-studying-for-an-advanced-degree",
+                "text": "He is studying for an advanced degree."
+            },
+            {
+                "code": "advanced_example_the-car-comes-with-advanced-features",
+                "text": "The car comes with advanced features."
+            },
+            {
+                "code": "advanced_example_he-is-in-the-advanced-stages-of-cancer",
+                "text": "He is in the advanced stages of cancer."
+            },
+            {
+                "code": "advanced_example_we-live-in-an-advanced-society",
+                "text": "We live in an advanced society."
+            },
+            {
+                "code": "advanced_example_the-hospital-uses-advanced-technology",
+                "text": "The hospital uses advanced technology."
+            },
+            {
+                "code": "advanced_example_our-school-offers-advanced-math",
+                "text": "Our school offers advanced math."
+            }
+        ]
+    }
+]

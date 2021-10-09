@@ -1,0 +1,106 @@
+[
+    {
+        "type": "(n)",
+        "mean": "fruits and vegetables",
+        "examples": [
+            {
+                "code": "produce_example_i-need-to-buy-some-produce-at-the-market",
+                "text": "I need to buy some produce at the market."
+            },
+            {
+                "code": "produce_example_she-sells-fresh-produce-at-the-farmer-s-market",
+                "text": "She sells fresh produce at the farmer's market."
+            },
+            {
+                "code": "produce_example_he-grows-his-own-produce",
+                "text": "He grows his own produce."
+            },
+            {
+                "code": "produce_example_we-eat-a-lot-of-produce",
+                "text": "We eat a lot of produce."
+            },
+            {
+                "code": "produce_example_the-produce-section-is-over-there",
+                "text": "The produce section is over there."
+            },
+            {
+                "code": "produce_example_we-need-to-get-more-fresh-produce",
+                "text": "We need to get more fresh produce."
+            },
+            {
+                "code": "produce_example_i-buy-supermarket-produce",
+                "text": "I buy supermarket produce."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to make or grow something; to make something in order to sell it",
+        "examples": [
+            {
+                "code": "produce_example_he-always-produces-results",
+                "text": "He always produces results."
+            },
+            {
+                "code": "produce_example_he-produced-his-first-album",
+                "text": "He produced his first album."
+            },
+            {
+                "code": "produce_example_the-law-produced-new-effects",
+                "text": "The law produced new effects."
+            },
+            {
+                "code": "produce_example_the-fire-produced-heat",
+                "text": "The fire produced heat."
+            },
+            {
+                "code": "produce_example_how-do-they-produce-electricity",
+                "text": "How do they produce electricity?"
+            },
+            {
+                "code": "produce_example_they-produce-many-types-of-goods",
+                "text": "They produce many types of goods."
+            },
+            {
+                "code": "produce_example_has-she-produced-evidence-yet",
+                "text": "Has she produced evidence yet?"
+            },
+            {
+                "code": "produce_example_the-tree-is-producing-flowers-again",
+                "text": "The tree is producing flowers again."
+            },
+            {
+                "code": "produce_example_the-generator-produces-energy-for-the-whole-town",
+                "text": "The generator produces energy for the whole town."
+            },
+            {
+                "code": "produce_example_the-products-are-domestically-produced",
+                "text": "The products are domestically produced."
+            },
+            {
+                "code": "produce_example_how-many-cars-do-they-produce-annually",
+                "text": "How many cars do they produce annually?"
+            },
+            {
+                "code": "produce_example_she-typically-produces-enough-dairy-products-for-the-small-town",
+                "text": "She typically produces enough dairy products for the small town."
+            },
+            {
+                "code": "produce_example_the-film-was-professionally-produced",
+                "text": "The film was professionally produced."
+            },
+            {
+                "code": "produce_example_the-show-is-produced-by-his-company",
+                "text": "The show is produced by his company."
+            },
+            {
+                "code": "produce_example_cars-are-produced-in-a-factory",
+                "text": "Cars are produced in a factory."
+            },
+            {
+                "code": "produce_example_we-produce-food-with-organic-ingredients",
+                "text": "We produce food with organic ingredients."
+            }
+        ]
+    }
+]

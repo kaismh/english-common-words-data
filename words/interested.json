@@ -1,0 +1,72 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "wanting to learn more about something or be involved with something",
+        "examples": [
+            {
+                "code": "interested_example_he-is-very-interested-in-the-car",
+                "text": "He is very interested in the car."
+            },
+            {
+                "code": "interested_example_she-became-very-interested-in-real-estate",
+                "text": "She became very interested in real estate."
+            },
+            {
+                "code": "interested_example_he-remained-interested-in-all-kinds-of-sports",
+                "text": "He remained interested in all kinds of sports."
+            },
+            {
+                "code": "interested_example_how-can-we-keep-them-interested",
+                "text": "How can we keep them interested?"
+            },
+            {
+                "code": "interested_example_he-is-extremely-interested-in-the-house-for-sale",
+                "text": "He is extremely interested in the house for sale."
+            },
+            {
+                "code": "interested_example_she-is-greatly-interested-in-learning-about-the-stock-market",
+                "text": "She is greatly interested in learning about the stock market."
+            },
+            {
+                "code": "interested_example_she-is-terribly-interested-in-other-people-s-problems",
+                "text": "She is terribly interested in other people's problems."
+            },
+            {
+                "code": "interested_example_is-he-truly-interested-in-her",
+                "text": "Is he truly interested in her?"
+            },
+            {
+                "code": "interested_example_he-is-not-at-all-interested-in-sports",
+                "text": "He is not at all interested in sports."
+            },
+            {
+                "code": "interested_example_the-candidate-is-mainly-interested-in-the-election-results",
+                "text": "The candidate is mainly interested in the election results."
+            },
+            {
+                "code": "interested_example_i-am-always-interested-in-your-stories",
+                "text": "I am always interested in your stories."
+            },
+            {
+                "code": "interested_example_are-you-still-interested-in-the-boat",
+                "text": "Are you still interested in the boat?"
+            },
+            {
+                "code": "interested_example_i-am-no-longer-interested-in-your-boat",
+                "text": "I am no longer interested in your boat."
+            },
+            {
+                "code": "interested_example_he-is-clearly-interested-in-her",
+                "text": "He is clearly interested in her."
+            },
+            {
+                "code": "interested_example_he-is-interested-in-buying-more-real-estate",
+                "text": "He is interested in buying more real estate."
+            },
+            {
+                "code": "interested_example_all-interested-parties-are-invited-to-the-game",
+                "text": "All interested parties are invited to the game."
+            }
+        ]
+    }
+]

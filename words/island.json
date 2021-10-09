@@ -1,0 +1,32 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a piece of land surrounded by water",
+        "examples": [
+            {
+                "code": "island_example_he-lived-alone-on-a-remote-island",
+                "text": "He lived alone on a remote island."
+            },
+            {
+                "code": "island_example_they-always-wanted-to-visit-a-tropical-island",
+                "text": "They always wanted to visit a tropical island."
+            },
+            {
+                "code": "island_example_they-travel-to-their-island-home-during-the-summer",
+                "text": "They travel to their island home during the summer."
+            },
+            {
+                "code": "island_example_fiji-is-a-small-south-pacific-island-nation",
+                "text": "Fiji is a small South Pacific island nation."
+            },
+            {
+                "code": "island_example_hawaii-is-an-island-paradise",
+                "text": "Hawaii is an island paradise."
+            },
+            {
+                "code": "island_example_they-own-a-house-on-a-tropical-island",
+                "text": "They own a house on a tropical island."
+            }
+        ]
+    }
+]

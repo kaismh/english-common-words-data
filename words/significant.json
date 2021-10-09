@@ -1,0 +1,36 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "very important; having special meaning",
+        "examples": [
+            {
+                "code": "significant_example_his-actions-were-significant",
+                "text": "His actions were significant."
+            },
+            {
+                "code": "significant_example_he-became-significant-to-the-story",
+                "text": "He became significant to the story."
+            },
+            {
+                "code": "significant_example_the-actions-were-considered-significant-to-their-rescue",
+                "text": "The actions were considered significant to their rescue."
+            },
+            {
+                "code": "significant_example_this-house-is-very-significant-to-our-family",
+                "text": "This house is very significant to our family."
+            },
+            {
+                "code": "significant_example_martin-luther-king-jr-was-a-particularly-significant-figure-in-the-civil-rights-era",
+                "text": "Martin Luther King Jr. was a particularly significant figure in the Civil Rights era."
+            },
+            {
+                "code": "significant_example_the-findings-were-historically-significant",
+                "text": "The findings were historically significant."
+            },
+            {
+                "code": "significant_example_her-actions-proved-significant-for-those-around-her",
+                "text": "Her actions proved significant for those around her."
+            }
+        ]
+    }
+]

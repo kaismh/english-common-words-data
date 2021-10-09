@@ -1,0 +1,56 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a school at the highest level of education where you study to get a degree",
+        "examples": [
+            {
+                "code": "university_example_he-was-accepted-to-a-major-university",
+                "text": "He was accepted to a major university."
+            },
+            {
+                "code": "university_example_she-is-going-to-a-private-university",
+                "text": "She is going to a private university."
+            },
+            {
+                "code": "university_example_he-attends-a-university-near-home",
+                "text": "He attends a university near home."
+            },
+            {
+                "code": "university_example_i-applied-to-several-universities",
+                "text": "I applied to several universities."
+            },
+            {
+                "code": "university_example_i-am-entering-a-university-in-the-fall",
+                "text": "I am entering a university in the fall."
+            },
+            {
+                "code": "university_example_she-graduated-from-a-university-last-year",
+                "text": "She graduated from a university last year."
+            },
+            {
+                "code": "university_example_i-am-a-university-graduate",
+                "text": "I am a university graduate."
+            },
+            {
+                "code": "university_example_my-university-professor-is-strict",
+                "text": "My university professor is strict."
+            },
+            {
+                "code": "university_example_i-received-my-university-degree-from-harvard",
+                "text": "I received my university degree from Harvard."
+            },
+            {
+                "code": "university_example_university-tuition-is-high",
+                "text": "University tuition is high."
+            },
+            {
+                "code": "university_example_he-teaches-english-at-the-local-university",
+                "text": "He teaches English at the local university."
+            },
+            {
+                "code": "university_example_she-received-her-degree-from-a-private-university",
+                "text": "She received her degree from a private university."
+            }
+        ]
+    }
+]

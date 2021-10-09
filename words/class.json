@@ -1,0 +1,104 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a group of students; a meeting where students are taught a particular lesson or activity; an economic or social group; a group of things; high quality or style",
+        "examples": [
+            {
+                "code": "class_example_i-teach-a-large-class",
+                "text": "I teach a large class."
+            },
+            {
+                "code": "class_example_you-ll-need-to-join-the-beginner-class",
+                "text": "You'll need to join the beginner class."
+            },
+            {
+                "code": "class_example_biology-class-is-my-favorite",
+                "text": "Biology class is my favorite."
+            },
+            {
+                "code": "class_example_she-wants-to-begin-acting-classes",
+                "text": "She wants to begin acting classes."
+            },
+            {
+                "code": "class_example_i-have-a-day-job-so-i-m-taking-night-classes",
+                "text": "I have a day job, so I'm taking night classes."
+            },
+            {
+                "code": "class_example_when-do-college-classes-begin",
+                "text": "When do college classes begin?"
+            },
+            {
+                "code": "class_example_that-is-an-easy-class-to-pass",
+                "text": "That is an easy class to pass."
+            },
+            {
+                "code": "class_example_how-many-are-in-the-incoming-class",
+                "text": "How many are in the incoming class?"
+            },
+            {
+                "code": "class_example_the-politician-spoke-about-the-middle-class",
+                "text": "The politician spoke about the middle class."
+            },
+            {
+                "code": "class_example_what-is-your-weight-class",
+                "text": "What is your weight class?"
+            },
+            {
+                "code": "class_example_you-have-great-class",
+                "text": "You have great class."
+            },
+            {
+                "code": "class_example_he-never-attends-class",
+                "text": "He never attends class."
+            },
+            {
+                "code": "class_example_i-want-to-sign-up-for-this-class",
+                "text": "I want to sign up for this class."
+            },
+            {
+                "code": "class_example_your-cell-phone-interrupted-class",
+                "text": "Your cell phone interrupted class."
+            },
+            {
+                "code": "class_example_our-school-offers-many-classes",
+                "text": "Our school offers many classes."
+            },
+            {
+                "code": "class_example_i-d-like-you-to-lead-class-today",
+                "text": "I'd like you to lead class today."
+            },
+            {
+                "code": "class_example_my-teacher-always-dismisses-our-class-late",
+                "text": "My teacher always dismisses our class late."
+            },
+            {
+                "code": "class_example_did-you-fail-the-class",
+                "text": "Did you fail the class?"
+            },
+            {
+                "code": "class_example_we-are-going-to-have-a-class-discussion-tomorrow",
+                "text": "We are going to have a class discussion tomorrow."
+            },
+            {
+                "code": "class_example_i-like-my-class-schedule",
+                "text": "I like my class schedule."
+            },
+            {
+                "code": "class_example_she-doesn-t-like-the-new-class-structure",
+                "text": "She doesn't like the new class structure."
+            },
+            {
+                "code": "class_example_society-will-always-face-some-form-of-class-struggle",
+                "text": "Society will always face some form of class struggle."
+            },
+            {
+                "code": "class_example_we-discussed-it-in-class-this-morning",
+                "text": "We discussed it in class this morning."
+            },
+            {
+                "code": "class_example_we-are-part-of-the-middle-class",
+                "text": "We are part of the middle class."
+            }
+        ]
+    }
+]

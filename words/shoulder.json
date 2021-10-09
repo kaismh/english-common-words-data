@@ -1,0 +1,64 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the part of your body between the upper arm and neck; the side of the road",
+        "examples": [
+            {
+                "code": "shoulder_example_he-has-a-dislocated-shoulder",
+                "text": "He has a dislocated shoulder."
+            },
+            {
+                "code": "shoulder_example_she-has-narrow-shoulders",
+                "text": "She has narrow shoulders."
+            },
+            {
+                "code": "shoulder_example_she-showed-off-her-bare-shoulders-in-a-strapless-dress",
+                "text": "She showed off her bare shoulders in a strapless dress."
+            },
+            {
+                "code": "shoulder_example_he-started-to-drive-on-the-narrow-shoulder",
+                "text": "He started to drive on the narrow shoulder."
+            },
+            {
+                "code": "shoulder_example_she-suffered-a-bad-shoulder-injury",
+                "text": "She suffered a bad shoulder injury."
+            },
+            {
+                "code": "shoulder_example_jim-s-shoulder-joint-hurts",
+                "text": "Jim's shoulder joint hurts."
+            },
+            {
+                "code": "shoulder_example_the-shoulder-strap-is-starting-to-rip",
+                "text": "The shoulder strap is starting to rip."
+            },
+            {
+                "code": "shoulder_example_my-daughter-is-now-at-my-shoulder-level",
+                "text": "My daughter is now at my shoulder level."
+            },
+            {
+                "code": "shoulder_example_shoulder-pads-are-out-of-style",
+                "text": "Shoulder pads are out of style."
+            },
+            {
+                "code": "shoulder_example_she-wouldn-t-talk-and-just-shrugged-her-shoulders",
+                "text": "She wouldn't talk and just shrugged her shoulders."
+            },
+            {
+                "code": "shoulder_example_the-doctor-asked-the-patient-to-relax-her-shoulders",
+                "text": "The doctor asked the patient to relax her shoulders."
+            },
+            {
+                "code": "shoulder_example_his-shoulders-tightened-when-she-touched-him",
+                "text": "His shoulders tightened when she touched him."
+            },
+            {
+                "code": "shoulder_example_i-put-my-backpack-over-my-shoulder",
+                "text": "I put my backpack over my shoulder."
+            },
+            {
+                "code": "shoulder_example_the-man-walked-around-with-his-son-on-his-shoulders",
+                "text": "The man walked around with his son on his shoulders."
+            }
+        ]
+    }
+]

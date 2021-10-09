@@ -1,0 +1,28 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a group of people or things; a large amount",
+        "examples": [
+            {
+                "code": "bunch_example_my-daughter-picked-a-huge-bunch-of-flowers",
+                "text": "My daughter picked a huge bunch of flowers."
+            },
+            {
+                "code": "bunch_example_there-was-a-diverse-bunch-of-people-at-the-concert",
+                "text": "There was a diverse bunch of people at the concert."
+            },
+            {
+                "code": "bunch_example_i-work-with-a-nice-bunch-of-people",
+                "text": "I work with a nice bunch of people."
+            },
+            {
+                "code": "bunch_example_there-was-a-lively-bunch-at-the-party",
+                "text": "There was a lively bunch at the party."
+            },
+            {
+                "code": "bunch_example_there-are-a-nice-bunch-of-people-at-work",
+                "text": "There are a nice bunch of people at work."
+            }
+        ]
+    }
+]

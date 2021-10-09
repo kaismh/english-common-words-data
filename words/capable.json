@@ -1,0 +1,36 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "having the ability to do something; having skill",
+        "examples": [
+            {
+                "code": "capable_example_your-new-employee-seems-capable",
+                "text": "Your new employee seems capable."
+            },
+            {
+                "code": "capable_example_she-really-wants-to-prove-herself-capable-of-doing-the-job",
+                "text": "She really wants to prove herself capable of doing the job."
+            },
+            {
+                "code": "capable_example_i-didn-t-believe-him-capable-of-finishing-the-job",
+                "text": "I didn't believe him capable of finishing the job."
+            },
+            {
+                "code": "capable_example_i-am-fully-capable-of-doing-this-myself",
+                "text": "I am fully capable of doing this myself."
+            },
+            {
+                "code": "capable_example_she-is-barely-capable-of-taking-care-of-herself",
+                "text": "She is barely capable of taking care of herself."
+            },
+            {
+                "code": "capable_example_i-m-physically-capable-of-running-a-marathon",
+                "text": "I'm physically capable of running a marathon."
+            },
+            {
+                "code": "capable_example_he-is-extremely-capable-of-handling-any-situation",
+                "text": "He is extremely capable of handling any situation."
+            }
+        ]
+    }
+]

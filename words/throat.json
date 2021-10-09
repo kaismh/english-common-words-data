@@ -1,0 +1,40 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the front part of the neck or the passage that sends food and air from the mouth to the stomach and lungs",
+        "examples": [
+            {
+                "code": "throat_example_she-has-a-sore-throat",
+                "text": "She has a sore throat."
+            },
+            {
+                "code": "throat_example_my-throat-is-dry",
+                "text": "My throat is dry."
+            },
+            {
+                "code": "throat_example_my-throat-hurts-when-i-swallow",
+                "text": "My throat hurts when I swallow."
+            },
+            {
+                "code": "throat_example_the-spicy-food-burned-his-throat",
+                "text": "The spicy food burned his throat."
+            },
+            {
+                "code": "throat_example_he-cleared-his-throat-before-giving-his-speech",
+                "text": "He cleared his throat before giving his speech."
+            },
+            {
+                "code": "throat_example_he-grabbed-him-by-the-throat",
+                "text": "He grabbed him by the throat."
+            },
+            {
+                "code": "throat_example_he-has-a-throat-infection",
+                "text": "He has a throat infection."
+            },
+            {
+                "code": "throat_example_she-has-throat-cancer",
+                "text": "She has throat cancer."
+            }
+        ]
+    }
+]

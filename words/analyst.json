@@ -1,0 +1,36 @@
+[
+    {
+        "type": "(n)",
+        "mean": "person who examines something carefully to try to understand it",
+        "examples": [
+            {
+                "code": "analyst_example_he-is-the-government-s-leading-analyst",
+                "text": "He is the government's leading analyst."
+            },
+            {
+                "code": "analyst_example_our-company-is-hiring-a-political-analyst",
+                "text": "Our company is hiring a political analyst."
+            },
+            {
+                "code": "analyst_example_a-financial-analyst-told-us-where-to-invest",
+                "text": "A financial analyst told us where to invest."
+            },
+            {
+                "code": "analyst_example_the-military-analyst-warned-us-of-danger",
+                "text": "The military analyst warned us of danger."
+            },
+            {
+                "code": "analyst_example_the-analyst-reviewed-the-company-s-budget-plan",
+                "text": "The analyst reviewed the company's budget plan."
+            },
+            {
+                "code": "analyst_example_the-company-hired-an-analyst-to-help-increase-revenue",
+                "text": "The company hired an analyst to help increase revenue."
+            },
+            {
+                "code": "analyst_example_he-works-as-a-leading-analyst-in-accounting-firm",
+                "text": "He works as a leading analyst in accounting firm."
+            }
+        ]
+    }
+]

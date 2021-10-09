@@ -1,0 +1,90 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to use something in a way that is not necessary or useful",
+        "examples": [
+            {
+                "code": "waste_example_he-completely-wasted-the-day-playing-video-games",
+                "text": "He completely wasted the day playing video games."
+            },
+            {
+                "code": "waste_example_she-just-wasted-time-watching-television",
+                "text": "She just wasted time watching television."
+            },
+            {
+                "code": "waste_example_i-do-not-want-to-waste-any-more-time-on-this",
+                "text": "I do not want to waste any more time on this."
+            },
+            {
+                "code": "waste_example_they-wasted-their-time-at-the-casino",
+                "text": "They wasted their time at the casino."
+            },
+            {
+                "code": "waste_example_he-wasted-his-money-on-candy",
+                "text": "He wasted his money on candy."
+            },
+            {
+                "code": "waste_example_don-t-waste-your-money",
+                "text": "Don't waste your money."
+            }
+        ]
+    },
+    {
+        "type": "(n)",
+        "mean": "trash or something not needed",
+        "examples": [
+            {
+                "code": "waste_example_what-a-complete-waste-of-money",
+                "text": "What a complete waste of money!"
+            },
+            {
+                "code": "waste_example_the-factory-is-filled-with-toxic-waste",
+                "text": "The factory is filled with toxic waste."
+            },
+            {
+                "code": "waste_example_that-was-a-huge-waste-of-time",
+                "text": "That was a huge waste of time."
+            },
+            {
+                "code": "waste_example_please-dispose-of-your-household-waste-in-strong-bags",
+                "text": "Please dispose of your household waste in strong bags."
+            },
+            {
+                "code": "waste_example_hospitals-must-carefully-dispose-bodily-waste",
+                "text": "Hospitals must carefully dispose bodily waste."
+            },
+            {
+                "code": "waste_example_companies-create-lots-of-paper-waste",
+                "text": "Companies create lots of paper waste."
+            },
+            {
+                "code": "waste_example_we-are-trying-to-reduce-food-waste-at-home",
+                "text": "We are trying to reduce food waste at home."
+            },
+            {
+                "code": "waste_example_we-need-to-dispose-of-harmful-waste-carefully",
+                "text": "We need to dispose of harmful waste carefully."
+            },
+            {
+                "code": "waste_example_this-is-a-waste-of-time",
+                "text": "This is a waste of time."
+            },
+            {
+                "code": "waste_example_that-land-has-become-a-waste-dump",
+                "text": "That land has become a waste dump."
+            },
+            {
+                "code": "waste_example_waste-disposal-is-carefully-regulated",
+                "text": "Waste disposal is carefully regulated."
+            },
+            {
+                "code": "waste_example_we-are-working-on-waste-reduction",
+                "text": "We are working on waste reduction."
+            },
+            {
+                "code": "waste_example_i-threw-it-in-the-waste-basket",
+                "text": "I threw it in the waste basket."
+            }
+        ]
+    }
+]

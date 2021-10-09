@@ -1,0 +1,40 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "having the color of grass; not ripe; young; environmentally friendly",
+        "examples": [
+            {
+                "code": "green_example_they-painted-the-walls-emerald-green",
+                "text": "They painted the walls emerald green."
+            },
+            {
+                "code": "green_example_the-green-bananas-are-not-ripe",
+                "text": "The green bananas are not ripe."
+            },
+            {
+                "code": "green_example_she-bought-green-apples-at-the-store",
+                "text": "She bought green apples at the store."
+            },
+            {
+                "code": "green_example_you-should-eat-more-green-salad",
+                "text": "You should eat more green salad."
+            },
+            {
+                "code": "green_example_they-want-to-create-green-spaces-in-the-city",
+                "text": "They want to create green spaces in the city."
+            },
+            {
+                "code": "green_example_she-walked-through-the-green-grass",
+                "text": "She walked through the green grass."
+            },
+            {
+                "code": "green_example_the-environmental-group-argued-for-more-green-energy",
+                "text": "The environmental group argued for more green energy."
+            },
+            {
+                "code": "green_example_they-drink-a-lot-of-green-tea",
+                "text": "They drink a lot of green tea."
+            }
+        ]
+    }
+]

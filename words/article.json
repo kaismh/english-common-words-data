@@ -1,0 +1,60 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a piece of writing in a magazine or newspaper; an object or thing",
+        "examples": [
+            {
+                "code": "article_example_she-wrote-a-brilliant-article-for-the-newspaper",
+                "text": "She wrote a brilliant article for the newspaper."
+            },
+            {
+                "code": "article_example_the-newspaper-article-was-controversial",
+                "text": "The newspaper article was controversial."
+            },
+            {
+                "code": "article_example_i-m-reading-a-short-article-about-space-exploration",
+                "text": "I'm reading a short article about space exploration."
+            },
+            {
+                "code": "article_example_he-only-reads-academic-articles",
+                "text": "He only reads academic articles."
+            },
+            {
+                "code": "article_example_did-you-publish-the-newspaper-article",
+                "text": "Did you publish the newspaper article?"
+            },
+            {
+                "code": "article_example_we-read-an-interesting-article",
+                "text": "We read an interesting article."
+            },
+            {
+                "code": "article_example_the-newspaper-printed-a-provocative-article",
+                "text": "The newspaper printed a provocative article."
+            },
+            {
+                "code": "article_example_the-article-appeared-in-the-last-journal-issue",
+                "text": "The article appeared in the last journal issue."
+            },
+            {
+                "code": "article_example_they-manufacture-articles-of-clothing",
+                "text": "They manufacture articles of clothing."
+            },
+            {
+                "code": "article_example_the-store-sells-common-household-articles",
+                "text": "The store sells common household articles."
+            },
+            {
+                "code": "article_example_i-read-a-fascinating-article-in-the-local-newspaper",
+                "text": "I read a fascinating article in the local newspaper."
+            },
+            {
+                "code": "article_example_have-you-read-the-article-about-global-warming",
+                "text": "Have you read the article about global warming?"
+            },
+            {
+                "code": "article_example_i-have-read-many-articles-by-that-author",
+                "text": "I have read many articles by that author."
+            }
+        ]
+    }
+]

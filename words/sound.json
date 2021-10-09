@@ -1,0 +1,138 @@
+[
+    {
+        "type": "(n)",
+        "mean": "something you can hear",
+        "examples": [
+            {
+                "code": "sound_example_we-heard-a-loud-sound-from-outside",
+                "text": "We heard a loud sound from outside."
+            },
+            {
+                "code": "sound_example_the-puppy-made-a-soft-sound",
+                "text": "The puppy made a soft sound."
+            },
+            {
+                "code": "sound_example_she-made-a-high-pitched-sound-with-her-violin",
+                "text": "She made a high-pitched sound with her violin."
+            },
+            {
+                "code": "sound_example_we-woke-up-to-a-horrible-sound",
+                "text": "We woke up to a horrible sound."
+            },
+            {
+                "code": "sound_example_he-experimented-with-different-sounds-on-the-keyboard",
+                "text": "He experimented with different sounds on the keyboard."
+            },
+            {
+                "code": "sound_example_i-love-listening-to-the-sound-of-the-piano",
+                "text": "I love listening to the sound of the piano."
+            },
+            {
+                "code": "sound_example_who-is-making-that-terrible-sound",
+                "text": "Who is making that terrible sound?"
+            },
+            {
+                "code": "sound_example_she-uses-different-animal-sounds-in-her-music",
+                "text": "She uses different animal sounds in her music."
+            },
+            {
+                "code": "sound_example_the-room-was-filled-with-the-sound-of-laughter",
+                "text": "The room was filled with the sound of laughter."
+            },
+            {
+                "code": "sound_example_i-woke-up-to-the-sound-of-thunder",
+                "text": "I woke up to the sound of thunder."
+            },
+            {
+                "code": "sound_example_i-was-interrupted-by-a-loud-sound",
+                "text": "I was interrupted by a loud sound."
+            },
+            {
+                "code": "sound_example_he-jumped-at-the-sound-of-my-voice",
+                "text": "He jumped at the sound of my voice."
+            },
+            {
+                "code": "sound_example_sound-carries-well-in-the-concert-hall",
+                "text": "Sound carries well in the concert hall."
+            },
+            {
+                "code": "sound_example_a-strange-sound-came-from-the-room",
+                "text": "A strange sound came from the room."
+            },
+            {
+                "code": "sound_example_the-terrible-sound-began-to-fade-away",
+                "text": "The terrible sound began to fade away."
+            },
+            {
+                "code": "sound_example_he-jumped-at-the-sound-of-the-doorbell",
+                "text": "He jumped at the sound of the doorbell."
+            },
+            {
+                "code": "sound_example_the-television-is-playing-without-sound",
+                "text": "The television is playing without sound."
+            },
+            {
+                "code": "sound_example_i-heard-the-sound-of-trumpets",
+                "text": "I heard the sound of trumpets."
+            },
+            {
+                "code": "sound_example_there-was-a-weird-sound-coming-from-upstairs",
+                "text": "There was a weird sound coming from upstairs."
+            }
+        ]
+    },
+    {
+        "type": "(adj)",
+        "mean": "being in good condition; sensible",
+        "examples": [
+            {
+                "code": "sound_example_the-building-is-structurally-sound",
+                "text": "The building is structurally sound."
+            },
+            {
+                "code": "sound_example_his-suggestions-seem-very-sound",
+                "text": "His suggestions seem very sound."
+            },
+            {
+                "code": "sound_example_our-deck-is-in-reasonably-sound-condition",
+                "text": "Our deck is in reasonably sound condition."
+            },
+            {
+                "code": "sound_example_he-gives-reasonably-sound-advice",
+                "text": "He gives reasonably sound advice."
+            },
+            {
+                "code": "sound_example_i-wasn-t-sure-if-the-old-house-was-structurally-sound",
+                "text": "I wasn't sure if the old house was structurally sound."
+            },
+            {
+                "code": "sound_example_she-had-perfectly-sound-reasons-for-getting-upset",
+                "text": "She had perfectly sound reasons for getting upset."
+            },
+            {
+                "code": "sound_example_make-sure-it-s-a-financially-sound-investment",
+                "text": "Make sure it's a financially sound investment."
+            },
+            {
+                "code": "sound_example_he-gives-sound-advice",
+                "text": "He gives sound advice."
+            },
+            {
+                "code": "sound_example_the-noise-broke-the-sound-barrier",
+                "text": "The noise broke the sound barrier."
+            },
+            {
+                "code": "sound_example_the-band-performs-a-sound-check-before-the-concert",
+                "text": "The band performs a sound check before the concert."
+            },
+            {
+                "code": "sound_example_the-movie-has-good-sound-effects",
+                "text": "The movie has good sound effects."
+            },
+            {
+                "code": "sound_example_are-you-sure-it-s-a-sound-investment",
+                "text": "Are you sure it's a sound investment?"
+            }
+        ]
+    }
+]

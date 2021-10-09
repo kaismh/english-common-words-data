@@ -1,0 +1,64 @@
+[
+    {
+        "type": "(n)",
+        "mean": "A group of people chosen for a special purpose",
+        "examples": [
+            {
+                "code": "committee_example_the-executive-committee-will-make-all-of-the-big-decisions",
+                "text": "The executive committee will make all of the big decisions."
+            },
+            {
+                "code": "committee_example_a-select-committee-was-formed-to-find-the-right-person-for-the-position",
+                "text": "A select committee was formed to find the right person for the position."
+            },
+            {
+                "code": "committee_example_an-ethics-committee-is-looking-into-her-financial-dealings",
+                "text": "An ethics committee is looking into her financial dealings."
+            },
+            {
+                "code": "committee_example_a-special-committee-was-formed-to-organize-the-big-event",
+                "text": "A special committee was formed to organize the big event."
+            },
+            {
+                "code": "committee_example_we-will-create-a-committee-to-plan-the-annual-event",
+                "text": "We will create a committee to plan the annual event."
+            },
+            {
+                "code": "committee_example_she-serves-on-the-planning-committee",
+                "text": "She serves on the planning committee."
+            },
+            {
+                "code": "committee_example_the-president-will-leave-the-committee",
+                "text": "The president will leave the committee."
+            },
+            {
+                "code": "committee_example_the-committee-meets-every-friday",
+                "text": "The committee meets every Friday."
+            },
+            {
+                "code": "committee_example_the-committee-approved-the-proposal",
+                "text": "The committee approved the proposal."
+            },
+            {
+                "code": "committee_example_committee-members-meet-once-a-week",
+                "text": "Committee members meet once a week."
+            },
+            {
+                "code": "committee_example_please-go-to-the-committee-meeting-on-friday",
+                "text": "Please go to the committee meeting on Friday."
+            },
+            {
+                "code": "committee_example_she-is-the-committee-chairperson",
+                "text": "She is the committee chairperson."
+            },
+            {
+                "code": "committee_example_they-are-on-the-election-committee",
+                "text": "They are on the election committee."
+            },
+            {
+                "code": "committee_example_a-committee-of-voters-will-decide-what-to-do",
+                "text": "A committee of voters will decide what to do."
+            }
+        ]
+    }
+]

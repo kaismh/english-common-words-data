@@ -1,0 +1,52 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "unhappy",
+        "examples": [
+            {
+                "code": "sad_example_he-looks-sad-because-he-lost-his-job",
+                "text": "He looks sad because he lost his job."
+            },
+            {
+                "code": "sad_example_that-story-sounds-sad",
+                "text": "That story sounds sad."
+            },
+            {
+                "code": "sad_example_when-our-dog-died-my-daughter-was-particularly-sad",
+                "text": "When our dog died, my daughter was particularly sad."
+            },
+            {
+                "code": "sad_example_the-boy-was-a-little-sad-because-he-didn-t-get-ice-cream-for-dessert",
+                "text": "The boy was a little sad because he didn't get ice cream for dessert."
+            },
+            {
+                "code": "sad_example_the-movie-had-a-sad-ending",
+                "text": "The movie had a sad ending."
+            },
+            {
+                "code": "sad_example_his-grandmother-s-funeral-was-a-sad-event",
+                "text": "His grandmother's funeral was a sad event."
+            },
+            {
+                "code": "sad_example_she-enjoys-sad-songs",
+                "text": "She enjoys sad songs."
+            },
+            {
+                "code": "sad_example_now-we-have-to-face-the-sad-truth",
+                "text": "Now we have to face the sad truth."
+            },
+            {
+                "code": "sad_example_the-sad-news-made-me-cry",
+                "text": "The sad news made me cry."
+            },
+            {
+                "code": "sad_example_the-student-was-sad-about-her-bad-grade-on-the-exam",
+                "text": "The student was sad about her bad grade on the exam."
+            },
+            {
+                "code": "sad_example_i-feel-sad-for-him",
+                "text": "I feel sad for him."
+            }
+        ]
+    }
+]

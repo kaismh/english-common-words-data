@@ -1,0 +1,52 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the way someone or something looks; the arrival of something",
+        "examples": [
+            {
+                "code": "appearance_example_you-have-an-attractive-appearance",
+                "text": "You have an attractive appearance."
+            },
+            {
+                "code": "appearance_example_her-clothing-gives-her-a-unique-appearance",
+                "text": "Her clothing gives her a unique appearance."
+            },
+            {
+                "code": "appearance_example_the-external-appearance-of-the-car-is-old-and-dirty",
+                "text": "The external appearance of the car is old and dirty."
+            },
+            {
+                "code": "appearance_example_we-should-pay-attention-to-our-personal-appearance",
+                "text": "We should pay attention to our personal appearance."
+            },
+            {
+                "code": "appearance_example_we-were-shocked-by-their-surprise-appearance",
+                "text": "We were shocked by their surprise appearance."
+            },
+            {
+                "code": "appearance_example_his-brief-appearance-was-memorable",
+                "text": "His brief appearance was memorable."
+            },
+            {
+                "code": "appearance_example_he-makes-rare-appearances",
+                "text": "He makes rare appearances."
+            },
+            {
+                "code": "appearance_example_this-was-her-first-public-appearance-in-years",
+                "text": "This was her first public appearance in years."
+            },
+            {
+                "code": "appearance_example_i-d-like-to-alter-my-appearance",
+                "text": "I'd like to alter my appearance."
+            },
+            {
+                "code": "appearance_example_i-try-to-give-the-appearance-of-confidence",
+                "text": "I try to give the appearance of confidence."
+            },
+            {
+                "code": "appearance_example_he-made-a-brief-appearance-at-the-meeting",
+                "text": "He made a brief appearance at the meeting."
+            }
+        ]
+    }
+]

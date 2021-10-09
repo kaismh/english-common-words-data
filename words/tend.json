@@ -1,0 +1,44 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to take care of; to make something more likely to happen",
+        "examples": [
+            {
+                "code": "tend_example_the-mother-lovingly-tends-to-her-children",
+                "text": "The mother lovingly tends to her children."
+            },
+            {
+                "code": "tend_example_she-carefully-tends-her-garden",
+                "text": "She carefully tends her garden."
+            },
+            {
+                "code": "tend_example_i-usually-tend-to-stay-quiet-at-big-gatherings",
+                "text": "I usually tend to stay quiet at big gatherings."
+            },
+            {
+                "code": "tend_example_she-normally-tends-to-be-optimistic-during-difficult-times",
+                "text": "She normally tends to be optimistic during difficult times."
+            },
+            {
+                "code": "tend_example_the-husband-tends-to-his-wife-s-needs",
+                "text": "The husband tends to his wife's needs."
+            },
+            {
+                "code": "tend_example_he-tends-to-be-very-serious-most-of-the-time",
+                "text": "He tends to be very serious most of the time."
+            },
+            {
+                "code": "tend_example_her-tantrums-tend-to-happen-once-a-day",
+                "text": "Her tantrums tend to happen once a day."
+            },
+            {
+                "code": "tend_example_she-tends-to-act-more-sophisticated-when-other-people-are-around",
+                "text": "She tends to act more sophisticated when other people are around."
+            },
+            {
+                "code": "tend_example_she-tends-to-talk-a-lot-when-she-is-nervous",
+                "text": "She tends to talk a lot when she is nervous."
+            }
+        ]
+    }
+]

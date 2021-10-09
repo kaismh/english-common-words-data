@@ -1,0 +1,64 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the hard material that tree trunks and branches are made of; material that is commonly used to make furniture",
+        "examples": [
+            {
+                "code": "wood_example_i-like-the-color-of-natural-wood",
+                "text": "I like the color of natural wood."
+            },
+            {
+                "code": "wood_example_we-need-to-remove-the-rotting-wood",
+                "text": "We need to remove the rotting wood."
+            },
+            {
+                "code": "wood_example_the-gate-is-made-with-solid-wood",
+                "text": "The gate is made with solid wood."
+            },
+            {
+                "code": "wood_example_the-kitchen-cabinets-are-made-with-cherry-wood",
+                "text": "The kitchen cabinets are made with cherry wood."
+            },
+            {
+                "code": "wood_example_the-carpenter-cut-the-wood-to-make-chairs",
+                "text": "The carpenter cut the wood to make chairs."
+            },
+            {
+                "code": "wood_example_the-woodworker-carves-wood-as-a-hobby",
+                "text": "The woodworker carves wood as a hobby."
+            },
+            {
+                "code": "wood_example_he-painted-the-wood-a-dark-color",
+                "text": "He painted the wood a dark color."
+            },
+            {
+                "code": "wood_example_the-campers-burned-wood-to-stay-warm",
+                "text": "The campers burned wood to stay warm."
+            },
+            {
+                "code": "wood_example_the-campers-gathered-wood-for-a-fire",
+                "text": "The campers gathered wood for a fire."
+            },
+            {
+                "code": "wood_example_the-gardeners-spread-wood-chips-on-the-playground",
+                "text": "The gardeners spread wood chips on the playground."
+            },
+            {
+                "code": "wood_example_wood-carving-is-his-passion",
+                "text": "Wood carving is his passion."
+            },
+            {
+                "code": "wood_example_we-cook-using-a-wood-stove",
+                "text": "We cook using a wood stove."
+            },
+            {
+                "code": "wood_example_the-front-gate-has-a-wood-frame",
+                "text": "The front gate has a wood frame."
+            },
+            {
+                "code": "wood_example_all-of-her-furniture-is-made-with-cherry-wood",
+                "text": "All of her furniture is made with cherry wood."
+            }
+        ]
+    }
+]

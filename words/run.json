@@ -1,0 +1,150 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to move quickly by foot; to operate; to manage; to work",
+        "examples": [
+            {
+                "code": "run_example_she-began-to-run",
+                "text": "She began to run."
+            },
+            {
+                "code": "run_example_i-need-to-run-some-errands",
+                "text": "I need to run some errands."
+            },
+            {
+                "code": "run_example_we-ran-a-lap-around-the-field",
+                "text": "We ran a lap around the field."
+            },
+            {
+                "code": "run_example_the-system-usually-runs-smoothly",
+                "text": "The system usually runs smoothly."
+            },
+            {
+                "code": "run_example_he-runs-the-company",
+                "text": "He runs the company."
+            },
+            {
+                "code": "run_example_that-pipe-runs-all-the-way-to-canada",
+                "text": "That pipe runs all the way to Canada."
+            },
+            {
+                "code": "run_example_she-runs-the-firm-alone",
+                "text": "She runs the firm alone."
+            },
+            {
+                "code": "run_example_this-stream-runs-through-the-mountains",
+                "text": "This stream runs through the mountains."
+            },
+            {
+                "code": "run_example_he-ran-a-marathon-last-week",
+                "text": "He ran a marathon last week."
+            },
+            {
+                "code": "run_example_he-ran-home-quickly",
+                "text": "He ran home quickly."
+            },
+            {
+                "code": "run_example_he-ran-headlong-into-the-glass-door",
+                "text": "He ran headlong into the glass door."
+            },
+            {
+                "code": "run_example_our-dog-ran-away",
+                "text": "Our dog ran away."
+            },
+            {
+                "code": "run_example_the-office-is-independently-run-by-two-brothers",
+                "text": "The office is independently run by two brothers."
+            },
+            {
+                "code": "run_example_the-bus-is-running-late",
+                "text": "The bus is running late."
+            },
+            {
+                "code": "run_example_the-car-runs-poorly",
+                "text": "The car runs poorly."
+            },
+            {
+                "code": "run_example_he-ran-toward-the-house",
+                "text": "He ran toward the house."
+            },
+            {
+                "code": "run_example_it-runs-along-the-river",
+                "text": "It runs along the river."
+            },
+            {
+                "code": "run_example_he-ran-off-to-the-city",
+                "text": "He ran off to the city."
+            },
+            {
+                "code": "run_example_the-train-runs-between-the-towns",
+                "text": "The train runs between the towns."
+            },
+            {
+                "code": "run_example_the-train-ran-over-the-log",
+                "text": "The train ran over the log."
+            },
+            {
+                "code": "run_example_the-spilled-water-ran-onto-the-chair",
+                "text": "The spilled water ran onto the chair."
+            },
+            {
+                "code": "run_example_the-motor-ran-at-half-speed",
+                "text": "The motor ran at half speed."
+            },
+            {
+                "code": "run_example_the-engine-runs-on-oil",
+                "text": "The engine runs on oil."
+            }
+        ]
+    },
+    {
+        "type": "(n)",
+        "mean": "the act of moving quickly by foot; an attempt at something; continuous activity; a scoring unit in baseball",
+        "examples": [
+            {
+                "code": "run_example_let-s-go-for-a-run",
+                "text": "Let's go for a run."
+            },
+            {
+                "code": "run_example_she-broke-into-a-run",
+                "text": "She broke into a run."
+            },
+            {
+                "code": "run_example_the-play-is-beginning-its-run-in-the-summer",
+                "text": "The play is beginning its run in the summer."
+            },
+            {
+                "code": "run_example_the-musical-had-a-great-run-on-broadway",
+                "text": "The musical had a great run on Broadway."
+            },
+            {
+                "code": "run_example_the-baseball-player-scored-another-run",
+                "text": "The baseball player scored another run."
+            },
+            {
+                "code": "run_example_i-went-for-a-short-run-today",
+                "text": "I went for a short run today."
+            },
+            {
+                "code": "run_example_his-presidential-run-was-successful",
+                "text": "His presidential run was successful."
+            },
+            {
+                "code": "run_example_the-play-had-a-good-run-on-broadway",
+                "text": "The play had a good run on Broadway."
+            },
+            {
+                "code": "run_example_he-hit-a-home-run",
+                "text": "He hit a home run."
+            },
+            {
+                "code": "run_example_he-scored-the-winning-run",
+                "text": "He scored the winning run."
+            },
+            {
+                "code": "run_example_he-made-a-run-for-office",
+                "text": "He made a run for office."
+            }
+        ]
+    }
+]

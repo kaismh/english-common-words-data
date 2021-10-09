@@ -1,0 +1,64 @@
+[
+    {
+        "type": "(n)",
+        "mean": "something used to close an opening in a wall or fence; an area for arrivals or departures",
+        "examples": [
+            {
+                "code": "gate_example_wait-for-me-by-the-main-gate",
+                "text": "Wait for me by the main gate."
+            },
+            {
+                "code": "gate_example_there-is-a-double-gate-that-leads-to-the-driveway",
+                "text": "There is a double gate that leads to the driveway."
+            },
+            {
+                "code": "gate_example_they-went-through-the-open-gate",
+                "text": "They went through the open gate."
+            },
+            {
+                "code": "gate_example_they-could-not-get-passed-the-locked-gate",
+                "text": "They could not get passed the locked gate."
+            },
+            {
+                "code": "gate_example_there-is-a-metal-gate-in-front-of-the-house",
+                "text": "There is a metal gate in front of the house."
+            },
+            {
+                "code": "gate_example_i-will-meet-you-by-the-park-gate",
+                "text": "I will meet you by the park gate."
+            },
+            {
+                "code": "gate_example_be-sure-to-close-the-security-gate",
+                "text": "Be sure to close the security gate."
+            },
+            {
+                "code": "gate_example_they-announced-the-arrival-gate",
+                "text": "They announced the arrival gate."
+            },
+            {
+                "code": "gate_example_can-you-open-the-gate-for-me",
+                "text": "Can you open the gate for me?"
+            },
+            {
+                "code": "gate_example_be-sure-to-close-the-gate",
+                "text": "Be sure to close the gate."
+            },
+            {
+                "code": "gate_example_the-gate-slammed-behind-him",
+                "text": "The gate slammed behind him."
+            },
+            {
+                "code": "gate_example_the-gate-opened-so-he-could-enter",
+                "text": "The gate opened so he could enter."
+            },
+            {
+                "code": "gate_example_this-gate-leads-to-the-upper-level",
+                "text": "This gate leads to the upper level."
+            },
+            {
+                "code": "gate_example_she-went-through-the-gate",
+                "text": "She went through the gate."
+            }
+        ]
+    }
+]

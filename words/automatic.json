@@ -1,0 +1,36 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "working by itself without anyone operating it; happening without thinking about it",
+        "examples": [
+            {
+                "code": "automatic_example_the-doors-are-automatic",
+                "text": "The doors are automatic."
+            },
+            {
+                "code": "automatic_example_the-machines-are-completely-automatic",
+                "text": "The machines are completely automatic."
+            },
+            {
+                "code": "automatic_example_waking-up-at-dawn-is-almost-automatic-for-some-people",
+                "text": "Waking up at dawn is almost automatic for some people."
+            },
+            {
+                "code": "automatic_example_the-computer-makes-automatic-adjustments-to-the-designs",
+                "text": "The computer makes automatic adjustments to the designs."
+            },
+            {
+                "code": "automatic_example_testing-positive-for-illegal-drugs-is-grounds-for-automatic-termination",
+                "text": "Testing positive for illegal drugs is grounds for automatic termination."
+            },
+            {
+                "code": "automatic_example_automatic-doors-are-used-at-most-supermarkets",
+                "text": "Automatic doors are used at most supermarkets."
+            },
+            {
+                "code": "automatic_example_fighting-at-school-will-lead-to-automatic-suspension",
+                "text": "Fighting at school will lead to automatic suspension."
+            }
+        ]
+    }
+]

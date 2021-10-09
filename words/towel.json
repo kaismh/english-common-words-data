@@ -1,0 +1,48 @@
+[
+    {
+        "type": "(n)",
+        "mean": "cloth or paper used for drying or wiping",
+        "examples": [
+            {
+                "code": "towel_example_please-bring-me-some-fresh-towels",
+                "text": "Please bring me some fresh towels."
+            },
+            {
+                "code": "towel_example_the-hotel-provides-soft-towels",
+                "text": "The hotel provides soft towels."
+            },
+            {
+                "code": "towel_example_she-covered-her-face-with-a-wet-towel",
+                "text": "She covered her face with a wet towel."
+            },
+            {
+                "code": "towel_example_we-brought-our-own-bath-towels",
+                "text": "We brought our own bath towels."
+            },
+            {
+                "code": "towel_example_he-used-a-paper-towel-to-dry-the-dishes",
+                "text": "He used a paper towel to dry the dishes."
+            },
+            {
+                "code": "towel_example_put-dirty-towels-in-the-laundry-basket",
+                "text": "Put dirty towels in the laundry basket."
+            },
+            {
+                "code": "towel_example_please-fold-your-towels",
+                "text": "Please fold your towels."
+            },
+            {
+                "code": "towel_example_she-wrapped-the-towel-around-her-bloody-hand",
+                "text": "She wrapped the towel around her bloody hand."
+            },
+            {
+                "code": "towel_example_he-installed-a-towel-rack-in-the-bathroom",
+                "text": "He installed a towel rack in the bathroom."
+            },
+            {
+                "code": "towel_example_the-paper-towel-holder-is-empty",
+                "text": "The paper towel holder is empty."
+            }
+        ]
+    }
+]

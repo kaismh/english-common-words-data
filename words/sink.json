@@ -1,0 +1,82 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to go below the surface; to fall",
+        "examples": [
+            {
+                "code": "sink_example_the-boat-sank-slowly",
+                "text": "The boat sank slowly."
+            },
+            {
+                "code": "sink_example_her-boots-sank-down-into-the-mud",
+                "text": "Her boots sank down into the mud."
+            },
+            {
+                "code": "sink_example_the-ship-nearly-sank-during-the-storm",
+                "text": "The ship nearly sank during the storm."
+            },
+            {
+                "code": "sink_example_the-ship-began-to-sink",
+                "text": "The ship began to sink."
+            },
+            {
+                "code": "sink_example_the-boat-started-to-sink-beneath-the-water",
+                "text": "The boat started to sink beneath the water."
+            },
+            {
+                "code": "sink_example_he-was-slowly-sinking-into-mud",
+                "text": "He was slowly sinking into mud."
+            },
+            {
+                "code": "sink_example_he-sank-up-to-his-chest-in-quicksand",
+                "text": "He sank up to his chest in quicksand."
+            }
+        ]
+    },
+    {
+        "type": "(n)",
+        "mean": "a wide bowl with a faucet used for washing",
+        "examples": [
+            {
+                "code": "sink_example_i-used-the-bathroom-sink-to-wash-my-hands",
+                "text": "I used the bathroom sink to wash my hands."
+            },
+            {
+                "code": "sink_example_the-sink-is-clogged",
+                "text": "The sink is clogged."
+            },
+            {
+                "code": "sink_example_they-have-a-beautiful-marble-sink",
+                "text": "They have a beautiful marble sink."
+            },
+            {
+                "code": "sink_example_she-filled-the-sink-with-dirty-dishes",
+                "text": "She filled the sink with dirty dishes."
+            },
+            {
+                "code": "sink_example_the-food-clogged-the-sink",
+                "text": "The food clogged the sink."
+            },
+            {
+                "code": "sink_example_please-clear-the-sink",
+                "text": "Please clear the sink."
+            },
+            {
+                "code": "sink_example_jordan-installed-a-stainless-sink-in-the-kitchen",
+                "text": "Jordan installed a stainless sink in the kitchen."
+            },
+            {
+                "code": "sink_example_she-is-at-the-sink-washing-paint-off-her-hands",
+                "text": "She is at the sink washing paint off her hands."
+            },
+            {
+                "code": "sink_example_don-t-put-any-food-particles-down-the-sink",
+                "text": "Don't put any food particles down the sink."
+            },
+            {
+                "code": "sink_example_please-put-your-dishes-in-the-sink",
+                "text": "Please put your dishes in the sink."
+            }
+        ]
+    }
+]

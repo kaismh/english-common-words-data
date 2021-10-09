@@ -1,0 +1,92 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a group of things that work together in an organized way; parts of the body that work together to help the body function as a whole",
+        "examples": [
+            {
+                "code": "system_example_the-current-system-is-not-working-well",
+                "text": "The current system is not working well."
+            },
+            {
+                "code": "system_example_the-office-needs-to-update-to-a-new-system",
+                "text": "The office needs to update to a new system."
+            },
+            {
+                "code": "system_example_the-library-is-working-with-an-outdated-system",
+                "text": "The library is working with an outdated system."
+            },
+            {
+                "code": "system_example_we-need-a-better-system-for-organizing-office-supplies",
+                "text": "We need a better system for organizing office supplies."
+            },
+            {
+                "code": "system_example_people-are-not-happy-with-the-current-legal-system",
+                "text": "People are not happy with the current legal system."
+            },
+            {
+                "code": "system_example_he-spent-a-lot-of-money-upgrading-his-security-system",
+                "text": "He spent a lot of money upgrading his security system."
+            },
+            {
+                "code": "system_example_this-city-has-the-worst-subway-system",
+                "text": "This city has the worst subway system."
+            },
+            {
+                "code": "system_example_he-is-having-problems-with-his-immune-system",
+                "text": "He is having problems with his immune system."
+            },
+            {
+                "code": "system_example_his-company-designed-the-city-s-subway-system",
+                "text": "His company designed the city's subway system."
+            },
+            {
+                "code": "system_example_our-company-introduced-a-new-type-of-heating-system",
+                "text": "Our company introduced a new type of heating system."
+            },
+            {
+                "code": "system_example_he-manages-the-library-computer-system",
+                "text": "He manages the library computer system."
+            },
+            {
+                "code": "system_example_he-is-using-the-welfare-system-to-his-benefit",
+                "text": "He is using the welfare system to his benefit."
+            },
+            {
+                "code": "system_example_computer-operating-systems-are-changing-every-year",
+                "text": "Computer operating systems are changing every year."
+            },
+            {
+                "code": "system_example_he-tested-the-new-operating-system",
+                "text": "He tested the new operating system."
+            },
+            {
+                "code": "system_example_we-need-to-improve-the-city-s-transportation-system",
+                "text": "We need to improve the city's transportation system."
+            },
+            {
+                "code": "system_example_we-have-upgraded-our-old-fashioned-phone-system",
+                "text": "We have upgraded our old-fashioned phone system."
+            },
+            {
+                "code": "system_example_we-installed-a-new-cooling-system",
+                "text": "We installed a new cooling system."
+            },
+            {
+                "code": "system_example_don-t-blame-the-system",
+                "text": "Don't blame the system."
+            },
+            {
+                "code": "system_example_there-is-a-problem-in-the-new-cooling-system",
+                "text": "There is a problem in the new cooling system."
+            },
+            {
+                "code": "system_example_under-the-new-system-children-s-grades-will-be-available-online",
+                "text": "Under the new system, children's grades will be available online."
+            },
+            {
+                "code": "system_example_they-updated-the-system-for-easier-use",
+                "text": "They updated the system for easier use."
+            }
+        ]
+    }
+]

@@ -1,0 +1,86 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to finish",
+        "examples": [
+            {
+                "code": "complete_example_i-hope-to-complete-the-work-on-schedule",
+                "text": "I hope to complete the work on schedule."
+            },
+            {
+                "code": "complete_example_she-successfully-completed-the-essay",
+                "text": "She successfully completed the essay."
+            },
+            {
+                "code": "complete_example_i-just-completed-the-project",
+                "text": "I just completed the project."
+            },
+            {
+                "code": "complete_example_i-fully-completed-the-course",
+                "text": "I fully completed the course."
+            },
+            {
+                "code": "complete_example_i-want-to-complete-the-deal-soon",
+                "text": "I want to complete the deal soon."
+            }
+        ]
+    },
+    {
+        "type": "(adj)",
+        "mean": "full, whole or finished; having all of the parts",
+        "examples": [
+            {
+                "code": "complete_example_the-project-is-complete",
+                "text": "The project is complete."
+            },
+            {
+                "code": "complete_example_this-last-page-makes-the-book-complete",
+                "text": "This last page makes the book complete."
+            },
+            {
+                "code": "complete_example_the-work-on-the-house-is-far-from-complete",
+                "text": "The work on the house is far from complete."
+            },
+            {
+                "code": "complete_example_her-painting-is-almost-complete",
+                "text": "Her painting is almost complete."
+            },
+            {
+                "code": "complete_example_the-project-is-now-complete",
+                "text": "The project is now complete."
+            },
+            {
+                "code": "complete_example_we-are-in-complete-agreement",
+                "text": "We are in complete agreement."
+            },
+            {
+                "code": "complete_example_please-give-a-complete-answer",
+                "text": "Please give a complete answer."
+            },
+            {
+                "code": "complete_example_there-was-a-complete-breakdown-in-communication",
+                "text": "There was a complete breakdown in communication."
+            },
+            {
+                "code": "complete_example_she-made-a-complete-change-in-her-appearance",
+                "text": "She made a complete change in her appearance."
+            },
+            {
+                "code": "complete_example_she-has-a-complete-collection-of-his-artwork",
+                "text": "She has a complete collection of his artwork."
+            },
+            {
+                "code": "complete_example_she-is-in-complete-control",
+                "text": "She is in complete control."
+            },
+            {
+                "code": "complete_example_he-is-a-complete-disappointment",
+                "text": "He is a complete disappointment."
+            },
+            {
+                "code": "complete_example_it-was-a-complete-misunderstanding",
+                "text": "It was a complete misunderstanding."
+            }
+        ]
+    }
+]

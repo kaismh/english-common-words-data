@@ -1,0 +1,28 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the scientific study of substances; human attraction",
+        "examples": [
+            {
+                "code": "chemistry_example_she-teaches-physical-chemistry",
+                "text": "She teaches physical chemistry."
+            },
+            {
+                "code": "chemistry_example_he-is-interested-in-brain-chemistry",
+                "text": "He is interested in brain chemistry."
+            },
+            {
+                "code": "chemistry_example_she-and-i-have-a-strong-sexual-chemistry",
+                "text": "She and I have a strong sexual chemistry."
+            },
+            {
+                "code": "chemistry_example_she-wanted-a-chemistry-set-for-her-birthday",
+                "text": "She wanted a chemistry set for her birthday."
+            },
+            {
+                "code": "chemistry_example_the-physical-chemistry-between-them-was-magical",
+                "text": "The physical chemistry between them was magical."
+            }
+        ]
+    }
+]

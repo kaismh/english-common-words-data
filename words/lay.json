@@ -1,0 +1,32 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to put or place down",
+        "examples": [
+            {
+                "code": "lay_example_she-carefully-laid-the-baby-in-the-crib",
+                "text": "She carefully laid the baby in the crib."
+            },
+            {
+                "code": "lay_example_he-laid-the-napkins-neatly-on-the-table",
+                "text": "He laid the napkins neatly on the table."
+            },
+            {
+                "code": "lay_example_she-laid-the-plates-down-on-the-table",
+                "text": "She laid the plates down on the table."
+            },
+            {
+                "code": "lay_example_he-laid-the-book-aside",
+                "text": "He laid the book aside."
+            },
+            {
+                "code": "lay_example_the-mother-laid-the-child-tenderly-on-her-lap",
+                "text": "The mother laid the child tenderly on her lap."
+            },
+            {
+                "code": "lay_example_she-carefully-laid-a-blanket-over-her-sleeping-son",
+                "text": "She carefully laid a blanket over her sleeping son."
+            }
+        ]
+    }
+]

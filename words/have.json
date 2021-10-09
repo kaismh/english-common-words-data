@@ -1,0 +1,56 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to own or possess; to get or receive something; to contain or include something",
+        "examples": [
+            {
+                "code": "have_example_i-have-many-things",
+                "text": "I have many things."
+            },
+            {
+                "code": "have_example_we-have-visitors",
+                "text": "We have visitors."
+            },
+            {
+                "code": "have_example_i-have-a-cold",
+                "text": "I have a cold."
+            },
+            {
+                "code": "have_example_i-have-no-choice",
+                "text": "I have no choice."
+            },
+            {
+                "code": "have_example_the-muffins-have-nuts-in-them",
+                "text": "The muffins have nuts in them."
+            },
+            {
+                "code": "have_example_did-you-have-lunch",
+                "text": "Did you have lunch?"
+            },
+            {
+                "code": "have_example_i-am-having-surgery-tomorrow",
+                "text": "I am having surgery tomorrow."
+            },
+            {
+                "code": "have_example_do-you-have-time-for-coffee",
+                "text": "Do you have time for coffee?"
+            },
+            {
+                "code": "have_example_i-only-have-five-dollars-in-my-wallet",
+                "text": "I only have five dollars in my wallet."
+            },
+            {
+                "code": "have_example_i-simply-have-no-room-at-my-house",
+                "text": "I simply have no room at my house."
+            },
+            {
+                "code": "have_example_i-definitely-have-the-flu",
+                "text": "I definitely have the flu."
+            },
+            {
+                "code": "have_example_i-still-have-your-book",
+                "text": "I still have your book."
+            }
+        ]
+    }
+]

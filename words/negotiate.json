@@ -1,0 +1,48 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to try to reach an agreement by discussion between people",
+        "examples": [
+            {
+                "code": "negotiate_example_i-helped-him-to-negotiate",
+                "text": "I helped him to negotiate."
+            },
+            {
+                "code": "negotiate_example_we-tried-to-negotiate-a-new-deal",
+                "text": "We tried to negotiate a new deal."
+            },
+            {
+                "code": "negotiate_example_they-are-willing-to-negotiate-a-new-contract",
+                "text": "They are willing to negotiate a new contract."
+            },
+            {
+                "code": "negotiate_example_we-tried-to-negotiate-a-good-price",
+                "text": "We tried to negotiate a good price."
+            },
+            {
+                "code": "negotiate_example_they-are-negotiating-an-agreement",
+                "text": "They are negotiating an agreement."
+            },
+            {
+                "code": "negotiate_example_they-negotiated-the-terms",
+                "text": "They negotiated the terms."
+            },
+            {
+                "code": "negotiate_example_they-negotiated-a-treaty",
+                "text": "They negotiated a treaty."
+            },
+            {
+                "code": "negotiate_example_they-negotiated-secretly",
+                "text": "They negotiated secretly."
+            },
+            {
+                "code": "negotiate_example_we-negotiated-directly-with-the-owners",
+                "text": "We negotiated directly with the owners."
+            },
+            {
+                "code": "negotiate_example_we-are-negotiating-with-them",
+                "text": "We are negotiating with them."
+            }
+        ]
+    }
+]

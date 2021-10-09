@@ -1,0 +1,52 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a series of events happening repeatedly in the same order",
+        "examples": [
+            {
+                "code": "cycle_example_we-will-have-to-wait-for-the-complete-cycle-to-finish",
+                "text": "We will have to wait for the complete cycle to finish."
+            },
+            {
+                "code": "cycle_example_the-seasons-are-a-continuous-cycle",
+                "text": "The seasons are a continuous cycle."
+            },
+            {
+                "code": "cycle_example_life-and-death-is-a-natural-cycle",
+                "text": "Life and death is a natural cycle."
+            },
+            {
+                "code": "cycle_example_we-are-learning-about-the-life-cycles-of-insects",
+                "text": "We are learning about the life cycles of insects."
+            },
+            {
+                "code": "cycle_example_his-snoring-is-disturbing-my-sleep-cycle",
+                "text": "His snoring is disturbing my sleep cycle."
+            },
+            {
+                "code": "cycle_example_i-need-to-start-the-wash-cycle",
+                "text": "I need to start the wash cycle."
+            },
+            {
+                "code": "cycle_example_the-stock-market-follows-an-irregular-cycle",
+                "text": "The stock market follows an irregular cycle."
+            },
+            {
+                "code": "cycle_example_i-need-to-start-the-rinse-cycle",
+                "text": "I need to start the rinse cycle."
+            },
+            {
+                "code": "cycle_example_we-must-break-the-cycle-of-abuse",
+                "text": "We must break the cycle of abuse."
+            },
+            {
+                "code": "cycle_example_have-you-completed-the-first-cycle",
+                "text": "Have you completed the first cycle?"
+            },
+            {
+                "code": "cycle_example_how-can-we-break-the-cycle-of-abuse",
+                "text": "How can we break the cycle of abuse?"
+            }
+        ]
+    }
+]

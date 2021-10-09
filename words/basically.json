@@ -1,0 +1,40 @@
+[
+    {
+        "type": "(adv)",
+        "mean": "mostly; in the most important way",
+        "examples": [
+            {
+                "code": "basically_example_his-conclusion-is-basically-correct",
+                "text": "His conclusion is basically correct."
+            },
+            {
+                "code": "basically_example_this-test-is-basically-meaningless-since-i-have-already-passed-the-class",
+                "text": "This test is basically meaningless since I have already passed the class."
+            },
+            {
+                "code": "basically_example_i-ve-got-a-small-cold-but-i-m-basically-healthy",
+                "text": "I've got a small cold, but I'm basically healthy."
+            },
+            {
+                "code": "basically_example_these-houses-are-basically-the-same",
+                "text": "These houses are basically the same."
+            },
+            {
+                "code": "basically_example_the-classrooms-are-basically-unchanged-since-i-was-in-school",
+                "text": "The classrooms are basically unchanged since I was in school."
+            },
+            {
+                "code": "basically_example_they-basically-ignored-my-advice",
+                "text": "They basically ignored my advice."
+            },
+            {
+                "code": "basically_example_i-basically-agree-with-her-plan",
+                "text": "I basically agree with her plan."
+            },
+            {
+                "code": "basically_example_this-drink-consists-basically-of-alcohol",
+                "text": "This drink consists basically of alcohol."
+            }
+        ]
+    }
+]

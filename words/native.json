@@ -1,0 +1,44 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "connected to the place where someone or something was born or lived for many years",
+        "examples": [
+            {
+                "code": "native_example_he-is-part-native-american",
+                "text": "He is part Native American."
+            },
+            {
+                "code": "native_example_this-bird-is-native-to-our-area",
+                "text": "This bird is native to our area."
+            },
+            {
+                "code": "native_example_the-native-dialect-is-easy-to-understand",
+                "text": "The native dialect is easy to understand."
+            },
+            {
+                "code": "native_example_we-are-learning-about-the-native-traditions-on-the-island",
+                "text": "We are learning about the native traditions on the island."
+            },
+            {
+                "code": "native_example_this-is-my-native-land",
+                "text": "This is my native land."
+            },
+            {
+                "code": "native_example_they-are-native-people",
+                "text": "They are native people."
+            },
+            {
+                "code": "native_example_what-s-your-native-tongue",
+                "text": "What's your native tongue?"
+            },
+            {
+                "code": "native_example_this-plant-is-native-to-our-area",
+                "text": "This plant is native to our area."
+            },
+            {
+                "code": "native_example_she-is-a-native-of-california",
+                "text": "She is a native of California."
+            }
+        ]
+    }
+]

@@ -1,0 +1,96 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a short period of time",
+        "examples": [
+            {
+                "code": "moment_example_she-hesitated-for-a-moment-before-speaking",
+                "text": "She hesitated for a moment before speaking."
+            },
+            {
+                "code": "moment_example_we-spent-a-moment-together",
+                "text": "We spent a moment together."
+            },
+            {
+                "code": "moment_example_can-i-take-a-moment-of-your-time",
+                "text": "Can I take a moment of your time?"
+            },
+            {
+                "code": "moment_example_can-you-give-me-a-moment",
+                "text": "Can you give me a moment?"
+            },
+            {
+                "code": "moment_example_she-relives-that-moment-often",
+                "text": "She relives that moment often."
+            },
+            {
+                "code": "moment_example_the-moment-has-passed",
+                "text": "The moment has passed."
+            },
+            {
+                "code": "moment_example_you-should-seize-the-moment",
+                "text": "You should seize the moment."
+            },
+            {
+                "code": "moment_example_the-moment-you-ve-been-waiting-for-will-come-soon",
+                "text": "The moment you've been waiting for will come soon."
+            },
+            {
+                "code": "moment_example_the-moment-lasted-a-long-time",
+                "text": "The moment lasted a long time."
+            },
+            {
+                "code": "moment_example_the-camera-was-able-to-capture-the-moment",
+                "text": "The camera was able to capture the moment."
+            },
+            {
+                "code": "moment_example_i-liked-him-the-first-moment-i-saw-him",
+                "text": "I liked him the first moment I saw him."
+            },
+            {
+                "code": "moment_example_this-is-the-perfect-moment-for-her",
+                "text": "This is the perfect moment for her."
+            },
+            {
+                "code": "moment_example_we-had-a-passing-moment-together",
+                "text": "We had a passing moment together."
+            },
+            {
+                "code": "moment_example_this-is-a-crucial-moment-for-him",
+                "text": "This is a crucial moment for him."
+            },
+            {
+                "code": "moment_example_the-door-opened-at-the-precise-moment",
+                "text": "The door opened at the precise moment."
+            },
+            {
+                "code": "moment_example_this-has-been-the-happiest-moment-of-my-life",
+                "text": "This has been the happiest moment of my life."
+            },
+            {
+                "code": "moment_example_there-was-a-moment-of-hesitation",
+                "text": "There was a moment of hesitation."
+            },
+            {
+                "code": "moment_example_i-only-saw-her-for-a-moment",
+                "text": "I only saw her for a moment."
+            },
+            {
+                "code": "moment_example_i-wanted-to-marry-her-from-the-moment-i-saw-her",
+                "text": "I wanted to marry her from the moment I saw her."
+            },
+            {
+                "code": "moment_example_i-will-be-there-in-a-moment",
+                "text": "I will be there in a moment."
+            },
+            {
+                "code": "moment_example_he-s-busy-at-the-moment",
+                "text": "He's busy at the moment."
+            },
+            {
+                "code": "moment_example_after-a-moment-i-went-back-inside",
+                "text": "After a moment, I went back inside."
+            }
+        ]
+    }
+]

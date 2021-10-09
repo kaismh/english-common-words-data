@@ -1,0 +1,64 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a part of a cell that controls the appearance or growth of a living thing",
+        "examples": [
+            {
+                "code": "gene_example_they-are-researching-dominant-genes",
+                "text": "They are researching dominant genes."
+            },
+            {
+                "code": "gene_example_her-illness-was-caused-by-an-abnormal-gene",
+                "text": "Her illness was caused by an abnormal gene."
+            },
+            {
+                "code": "gene_example_we-are-still-learning-about-human-genes",
+                "text": "We are still learning about human genes."
+            },
+            {
+                "code": "gene_example_she-carries-the-gene-for-that-illness",
+                "text": "She carries the gene for that illness."
+            },
+            {
+                "code": "gene_example_the-gene-was-passed-on-to-his-children",
+                "text": "The gene was passed on to his children."
+            },
+            {
+                "code": "gene_example_he-inherited-that-gene-from-his-father",
+                "text": "He inherited that gene from his father."
+            },
+            {
+                "code": "gene_example_they-are-working-to-identify-the-gene-that-causes-the-disease",
+                "text": "They are working to identify the gene that causes the disease."
+            },
+            {
+                "code": "gene_example_genes-control-many-human-characteristics",
+                "text": "Genes control many human characteristics."
+            },
+            {
+                "code": "gene_example_that-gene-causes-serious-problems-if-it-mutates",
+                "text": "That gene causes serious problems if it mutates."
+            },
+            {
+                "code": "gene_example_genes-can-evolve-over-time",
+                "text": "Genes can evolve over time."
+            },
+            {
+                "code": "gene_example_they-are-trying-to-map-the-gene-pool",
+                "text": "They are trying to map the gene pool."
+            },
+            {
+                "code": "gene_example_they-found-a-gene-mutation-that-caused-the-disease",
+                "text": "They found a gene mutation that caused the disease."
+            },
+            {
+                "code": "gene_example_he-is-researching-the-gene-sequence",
+                "text": "He is researching the gene sequence."
+            },
+            {
+                "code": "gene_example_the-gene-for-blue-eyes-is-recessive",
+                "text": "The gene for blue eyes is recessive."
+            }
+        ]
+    }
+]

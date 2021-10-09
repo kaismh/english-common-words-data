@@ -1,0 +1,114 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the development or improvement of something",
+        "examples": [
+            {
+                "code": "progress_example_i-have-been-following-his-progress",
+                "text": "I have been following his progress."
+            },
+            {
+                "code": "progress_example_have-you-made-any-progress-yet",
+                "text": "Have you made any progress yet?"
+            },
+            {
+                "code": "progress_example_he-is-hindering-our-progress",
+                "text": "He is hindering our progress."
+            },
+            {
+                "code": "progress_example_he-is-showing-a-lot-of-progress-so-far",
+                "text": "He is showing a lot of progress so far."
+            },
+            {
+                "code": "progress_example_let-s-check-her-progress",
+                "text": "Let's check her progress."
+            },
+            {
+                "code": "progress_example_he-receives-a-monthly-progress-report",
+                "text": "He receives a monthly progress report."
+            },
+            {
+                "code": "progress_example_she-has-made-considerable-progress-on-the-project",
+                "text": "She has made considerable progress on the project."
+            },
+            {
+                "code": "progress_example_there-has-been-good-medical-progress-in-recent-years",
+                "text": "There has been good medical progress in recent years."
+            },
+            {
+                "code": "progress_example_there-has-been-little-progress-on-the-book",
+                "text": "There has been little progress on the book."
+            },
+            {
+                "code": "progress_example_we-need-to-monitor-the-economic-progress-of-this-country",
+                "text": "We need to monitor the economic progress of this country."
+            },
+            {
+                "code": "progress_example_the-plan-is-in-progress",
+                "text": "The plan is in progress."
+            },
+            {
+                "code": "progress_example_they-haven-t-made-progress-with-the-plans",
+                "text": "They haven't made progress with the plans."
+            },
+            {
+                "code": "progress_example_have-you-had-much-progress-on-the-house",
+                "text": "Have you had much progress on the house?"
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to move forward; to get better",
+        "examples": [
+            {
+                "code": "progress_example_as-the-evening-progressed-we-became-closer",
+                "text": "As the evening progressed, we became closer."
+            },
+            {
+                "code": "progress_example_the-disease-is-progressing-quickly",
+                "text": "The disease is progressing quickly."
+            },
+            {
+                "code": "progress_example_as-the-story-progressed-it-became-more-and-more-interesting",
+                "text": "As the story progressed, it became more and more interesting."
+            },
+            {
+                "code": "progress_example_the-relationship-is-progressing-slowly",
+                "text": "The relationship is progressing slowly."
+            },
+            {
+                "code": "progress_example_the-meeting-progressed-slowly",
+                "text": "The meeting progressed slowly."
+            },
+            {
+                "code": "progress_example_the-children-are-progressing-well",
+                "text": "The children are progressing well."
+            },
+            {
+                "code": "progress_example_his-reading-gradually-progressed-with-help",
+                "text": "His reading gradually progressed with help."
+            },
+            {
+                "code": "progress_example_her-schoolwork-failed-to-progress",
+                "text": "Her schoolwork failed to progress."
+            },
+            {
+                "code": "progress_example_how-did-we-progress-beyond-this-state",
+                "text": "How did we progress beyond this state?"
+            },
+            {
+                "code": "progress_example_she-gradually-progressed-up-the-corporate-ladder",
+                "text": "She gradually progressed up the corporate ladder."
+            },
+            {
+                "code": "progress_example_we-need-to-progress-with-the-times",
+                "text": "We need to progress with the times."
+            },
+            {
+                "code": "progress_example_we-are-progressing-towards-a-more-technological-world",
+                "text": "We are progressing towards a more technological world."
+            }
+        ]
+    }
+]

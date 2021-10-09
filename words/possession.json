@@ -1,0 +1,44 @@
+[
+    {
+        "type": "(n)",
+        "mean": "something that someone owns; the state of owning something",
+        "examples": [
+            {
+                "code": "possession_example_he-lost-possession-of-his-home",
+                "text": "He lost possession of his home."
+            },
+            {
+                "code": "possession_example_she-took-possession-of-the-house",
+                "text": "She took possession of the house."
+            },
+            {
+                "code": "possession_example_i-have-to-sell-my-possessions-to-pay-the-rent",
+                "text": "I have to sell my possessions to pay the rent."
+            },
+            {
+                "code": "possession_example_this-ring-is-my-favorite-possession",
+                "text": "This ring is my favorite possession."
+            },
+            {
+                "code": "possession_example_my-grandfather-s-land-is-a-valuable-possession",
+                "text": "My grandfather's land is a valuable possession."
+            },
+            {
+                "code": "possession_example_he-was-arrested-for-unlawful-possession-of-a-gun",
+                "text": "He was arrested for unlawful possession of a gun."
+            },
+            {
+                "code": "possession_example_these-are-all-of-my-worldly-possessions",
+                "text": "These are all of my worldly possessions."
+            },
+            {
+                "code": "possession_example_is-the-car-in-your-possession",
+                "text": "Is the car in your possession?"
+            },
+            {
+                "code": "possession_example_she-was-charged-with-possession-of-illegal-drugs",
+                "text": "She was charged with possession of illegal drugs."
+            }
+        ]
+    }
+]

@@ -1,0 +1,60 @@
+[
+    {
+        "type": "(n)",
+        "mean": "someone you enjoy spending time with and know well",
+        "examples": [
+            {
+                "code": "friend_example_she-talks-to-her-best-friend-every-day",
+                "text": "She talks to her best friend every day."
+            },
+            {
+                "code": "friend_example_he-lives-with-some-good-friends",
+                "text": "He lives with some good friends."
+            },
+            {
+                "code": "friend_example_she-has-been-a-loyal-friend-for-many-years",
+                "text": "She has been a loyal friend for many years."
+            },
+            {
+                "code": "friend_example_he-reconnected-with-a-long-lost-friend",
+                "text": "He reconnected with a long-lost friend."
+            },
+            {
+                "code": "friend_example_she-takes-a-vacation-with-her-lifelong-friends-every-year",
+                "text": "She takes a vacation with her lifelong friends every year."
+            },
+            {
+                "code": "friend_example_does-he-have-any-single-friends",
+                "text": "Does he have any single friends?"
+            },
+            {
+                "code": "friend_example_we-met-through-a-mutual-friend",
+                "text": "We met through a mutual friend."
+            },
+            {
+                "code": "friend_example_she-still-keeps-in-touch-with-many-of-her-childhood-friends",
+                "text": "She still keeps in touch with many of her childhood friends."
+            },
+            {
+                "code": "friend_example_they-became-friends-during-college",
+                "text": "They became friends during college."
+            },
+            {
+                "code": "friend_example_they-have-stayed-friends-for-many-years",
+                "text": "They have stayed friends for many years."
+            },
+            {
+                "code": "friend_example_he-won-t-make-any-friends-with-that-attitude",
+                "text": "He won't make any friends with that attitude."
+            },
+            {
+                "code": "friend_example_she-has-two-really-close-friends",
+                "text": "She has two really close friends."
+            },
+            {
+                "code": "friend_example_she-ran-into-a-friend-from-college",
+                "text": "She ran into a friend from college."
+            }
+        ]
+    }
+]

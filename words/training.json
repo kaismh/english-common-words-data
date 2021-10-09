@@ -1,0 +1,84 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the process of learning skills; the process of preparing for a sports competition by exercising",
+        "examples": [
+            {
+                "code": "training_example_you-must-first-go-through-basic-training-to-move-to-the-next-level",
+                "text": "You must first go through basic training to move to the next level."
+            },
+            {
+                "code": "training_example_he-didn-t-have-any-formal-training-but-he-s-doing-the-job-well",
+                "text": "He didn't have any formal training, but he's doing the job well."
+            },
+            {
+                "code": "training_example_they-have-extensive-training-in-that-field-of-work",
+                "text": "They have extensive training in that field of work."
+            },
+            {
+                "code": "training_example_federal-agents-go-through-thorough-training",
+                "text": "Federal agents go through thorough training."
+            },
+            {
+                "code": "training_example_he-didn-t-receive-proper-training-to-do-the-job-effectively",
+                "text": "He didn't receive proper training to do the job effectively."
+            },
+            {
+                "code": "training_example_job-training-is-necessary-for-this-position",
+                "text": "Job training is necessary for this position."
+            },
+            {
+                "code": "training_example_she-is-going-through-intense-training-for-the-upcoming-marathon",
+                "text": "She is going through intense training for the upcoming marathon."
+            },
+            {
+                "code": "training_example_you-must-have-extensive-training-to-be-a-navy-seal",
+                "text": "You must have extensive training to be a Navy Seal."
+            },
+            {
+                "code": "training_example_she-completed-the-required-training-for-her-new-job",
+                "text": "She completed the required training for her new job."
+            },
+            {
+                "code": "training_example_he-supervises-training-for-all-new-employees",
+                "text": "He supervises training for all new employees."
+            },
+            {
+                "code": "training_example_training-is-required-for-this-position",
+                "text": "Training is required for this position."
+            },
+            {
+                "code": "training_example_you-lack-the-necessary-training-for-this-job",
+                "text": "You lack the necessary training for this job."
+            },
+            {
+                "code": "training_example_the-athletes-reported-to-the-training-camp-early-this-morning",
+                "text": "The athletes reported to the training camp early this morning."
+            },
+            {
+                "code": "training_example_please-refer-to-the-training-manual-for-details",
+                "text": "Please refer to the training manual for details."
+            },
+            {
+                "code": "training_example_you-do-not-have-enough-training-skills-for-this-job",
+                "text": "You do not have enough training skills for this job."
+            },
+            {
+                "code": "training_example_he-is-on-a-strict-training-schedule",
+                "text": "He is on a strict training schedule."
+            },
+            {
+                "code": "training_example_she-has-training-partner",
+                "text": "She has training partner."
+            },
+            {
+                "code": "training_example_training-for-that-job-is-intense",
+                "text": "Training for that job is intense."
+            },
+            {
+                "code": "training_example_she-has-done-well-in-training",
+                "text": "She has done well in training."
+            }
+        ]
+    }
+]

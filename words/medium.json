@@ -1,0 +1,42 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "between small and large; average in size; in the middle",
+        "examples": [
+            {
+                "code": "medium_example_the-thief-was-of-medium-build",
+                "text": "The thief was of medium build."
+            },
+            {
+                "code": "medium_example_i-would-like-a-medium-soda",
+                "text": "I would like a medium soda."
+            }
+        ]
+    },
+    {
+        "type": "(n)",
+        "mean": "a form of communication; materials used by artists",
+        "examples": [
+            {
+                "code": "medium_example_the-television-is-a-popular-communication-medium",
+                "text": "The television is a popular communication medium."
+            },
+            {
+                "code": "medium_example_newspapers-come-in-digital-medium",
+                "text": "Newspapers come in digital medium."
+            },
+            {
+                "code": "medium_example_watercolor-is-her-choice-of-artistic-medium",
+                "text": "Watercolor is her choice of artistic medium."
+            },
+            {
+                "code": "medium_example_many-people-now-communicate-through-online-medium",
+                "text": "Many people now communicate through online medium."
+            },
+            {
+                "code": "medium_example_the-internet-is-a-great-medium-for-research",
+                "text": "The Internet is a great medium for research."
+            }
+        ]
+    }
+]

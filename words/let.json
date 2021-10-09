@@ -1,0 +1,28 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to allow",
+        "examples": [
+            {
+                "code": "let_example_she-reluctantly-let-her-daughter-go-to-the-party",
+                "text": "She reluctantly let her daughter go to the party."
+            },
+            {
+                "code": "let_example_she-always-lets-her-son-do-anything-he-wants",
+                "text": "She always lets her son do anything he wants."
+            },
+            {
+                "code": "let_example_he-never-lets-his-daughter-go-to-school-dances",
+                "text": "He never lets his daughter go to school dances."
+            },
+            {
+                "code": "let_example_let-the-dog-in",
+                "text": "Let the dog in."
+            },
+            {
+                "code": "let_example_let-me-go",
+                "text": "Let me go."
+            }
+        ]
+    }
+]

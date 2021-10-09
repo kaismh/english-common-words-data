@@ -1,0 +1,72 @@
+[
+    {
+        "type": "(n)",
+        "mean": "thin green leaves that usually grow on lawns",
+        "examples": [
+            {
+                "code": "grass_example_he-works-hard-to-keep-the-grass-green",
+                "text": "He works hard to keep the grass green."
+            },
+            {
+                "code": "grass_example_the-yard-is-covered-with-soft-grass",
+                "text": "The yard is covered with soft grass."
+            },
+            {
+                "code": "grass_example_she-loves-the-smell-of-fresh-cut-grass",
+                "text": "She loves the smell of fresh-cut grass."
+            },
+            {
+                "code": "grass_example_he-walked-through-a-field-of-coarse-grass",
+                "text": "He walked through a field of coarse grass."
+            },
+            {
+                "code": "grass_example_the-damp-grass-got-her-shoes-wet",
+                "text": "The damp grass got her shoes wet."
+            },
+            {
+                "code": "grass_example_dry-grass-can-easily-start-fires",
+                "text": "Dry grass can easily start fires."
+            },
+            {
+                "code": "grass_example_cows-eat-a-lot-of-grass",
+                "text": "Cows eat a lot of grass."
+            },
+            {
+                "code": "grass_example_i-need-to-cut-the-grass-today",
+                "text": "I need to cut the grass today."
+            },
+            {
+                "code": "grass_example_the-grass-grows-so-fast",
+                "text": "The grass grows so fast."
+            },
+            {
+                "code": "grass_example_he-collected-the-grass-clippings",
+                "text": "He collected the grass clippings."
+            },
+            {
+                "code": "grass_example_he-covered-the-yard-with-grass-seed",
+                "text": "He covered the yard with grass seed."
+            },
+            {
+                "code": "grass_example_there-was-a-blade-of-grass-stuck-to-her-foot",
+                "text": "There was a blade of grass stuck to her foot."
+            },
+            {
+                "code": "grass_example_they-walked-across-the-freshly-mowed-grass",
+                "text": "They walked across the freshly mowed grass."
+            },
+            {
+                "code": "grass_example_she-likes-to-lie-in-the-grass",
+                "text": "She likes to lie in the grass."
+            },
+            {
+                "code": "grass_example_they-spread-a-blanket-on-the-grass",
+                "text": "They spread a blanket on the grass."
+            },
+            {
+                "code": "grass_example_they-walked-through-the-tall-grass-to-get-to-the-pond",
+                "text": "They walked through the tall grass to get to the pond."
+            }
+        ]
+    }
+]

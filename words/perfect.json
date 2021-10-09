@@ -1,0 +1,114 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "having no mistakes; completely correct",
+        "examples": [
+            {
+                "code": "perfect_example_dinner-was-absolutely-perfect",
+                "text": "Dinner was absolutely perfect."
+            },
+            {
+                "code": "perfect_example_his-test-scores-are-far-from-perfect",
+                "text": "His test scores are far from perfect."
+            },
+            {
+                "code": "perfect_example_her-test-scores-are-almost-perfect",
+                "text": "Her test scores are almost perfect."
+            },
+            {
+                "code": "perfect_example_his-teeth-looked-too-perfect-to-be-real",
+                "text": "His teeth looked too perfect to be real."
+            },
+            {
+                "code": "perfect_example_she-continued-to-style-her-already-perfect-hair",
+                "text": "She continued to style her already perfect hair."
+            },
+            {
+                "code": "perfect_example_the-holiday-decorations-are-perfect",
+                "text": "The holiday decorations are perfect."
+            },
+            {
+                "code": "perfect_example_practice-makes-perfect",
+                "text": "Practice makes perfect."
+            },
+            {
+                "code": "perfect_example_she-is-perfect-for-him",
+                "text": "She is perfect for him."
+            },
+            {
+                "code": "perfect_example_wine-is-the-perfect-accompaniment-to-dinner",
+                "text": "Wine is the perfect accompaniment to dinner."
+            },
+            {
+                "code": "perfect_example_he-can-shoot-with-perfect-accuracy",
+                "text": "He can shoot with perfect accuracy."
+            },
+            {
+                "code": "perfect_example_she-was-not-arrested-because-she-had-the-perfect-alibi",
+                "text": "She was not arrested because she had the perfect alibi."
+            },
+            {
+                "code": "perfect_example_her-son-is-a-perfect-angel",
+                "text": "Her son is a perfect angel."
+            },
+            {
+                "code": "perfect_example_he-gave-the-perfect-answer-to-the-trick-question",
+                "text": "He gave the perfect answer to the trick question."
+            },
+            {
+                "code": "perfect_example_she-maintains-a-perfect-balance-at-work-and-home",
+                "text": "She maintains a perfect balance at work and home."
+            },
+            {
+                "code": "perfect_example_she-has-the-perfect-body",
+                "text": "She has the perfect body."
+            },
+            {
+                "code": "perfect_example_she-is-the-perfect-candidate-for-the-job",
+                "text": "She is the perfect candidate for the job."
+            },
+            {
+                "code": "perfect_example_the-dish-was-a-perfect-blend-of-two-spices",
+                "text": "The dish was a perfect blend of two spices."
+            },
+            {
+                "code": "perfect_example_the-used-car-is-in-perfect-condition",
+                "text": "The used car is in perfect condition."
+            },
+            {
+                "code": "perfect_example_they-make-a-perfect-couple",
+                "text": "They make a perfect couple."
+            },
+            {
+                "code": "perfect_example_she-gave-the-police-a-perfect-description-of-the-thief",
+                "text": "She gave the police a perfect description of the thief."
+            },
+            {
+                "code": "perfect_example_it-was-the-perfect-ending-to-a-great-story",
+                "text": "It was the perfect ending to a great story."
+            },
+            {
+                "code": "perfect_example_it-was-the-perfect-time-to-leave",
+                "text": "It was the perfect time to leave."
+            },
+            {
+                "code": "perfect_example_it-was-perfect-timing-when-they-arrived",
+                "text": "It was perfect timing when they arrived."
+            },
+            {
+                "code": "perfect_example_there-would-be-no-war-in-a-perfect-world",
+                "text": "There would be no war in a perfect world."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to make something without mistakes; to make something completely correct",
+        "examples": [
+            {
+                "code": "perfect_example_he-needs-to-perfect-his-craft",
+                "text": "He needs to perfect his craft."
+            }
+        ]
+    }
+]

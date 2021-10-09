@@ -1,0 +1,44 @@
+[
+    {
+        "type": "(n)",
+        "mean": "study of the mind",
+        "examples": [
+            {
+                "code": "psychology_example_he-earned-a-psychology-degree-in-1979",
+                "text": "He earned a psychology degree in 1979."
+            },
+            {
+                "code": "psychology_example_he-is-a-psychology-professor",
+                "text": "He is a psychology professor."
+            },
+            {
+                "code": "psychology_example_he-works-in-the-psychology-department",
+                "text": "He works in the psychology department."
+            },
+            {
+                "code": "psychology_example_he-studies-developmental-psychology",
+                "text": "He studies developmental psychology."
+            },
+            {
+                "code": "psychology_example_she-has-a-degree-in-psychology",
+                "text": "She has a degree in psychology."
+            },
+            {
+                "code": "psychology_example_he-is-a-doctor-of-psychology",
+                "text": "He is a doctor of psychology."
+            },
+            {
+                "code": "psychology_example_she-is-studying-psychology-in-college",
+                "text": "She is studying psychology in college."
+            },
+            {
+                "code": "psychology_example_he-works-in-psychology",
+                "text": "He works in psychology."
+            },
+            {
+                "code": "psychology_example_do-you-understand-the-psychology-of-addiction",
+                "text": "Do you understand the psychology of addiction?"
+            }
+        ]
+    }
+]

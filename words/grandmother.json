@@ -1,0 +1,36 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the mother of your mother or father",
+        "examples": [
+            {
+                "code": "grandmother_example_he-visits-his-paternal-grandmother-every-summer",
+                "text": "He visits his paternal grandmother every summer."
+            },
+            {
+                "code": "grandmother_example_her-doting-grandmother-always-sends-handmade-gifts",
+                "text": "Her doting grandmother always sends handmade gifts."
+            },
+            {
+                "code": "grandmother_example_her-grandmother-lives-with-them",
+                "text": "Her grandmother lives with them."
+            },
+            {
+                "code": "grandmother_example_their-grandmother-loves-her-grandchildren",
+                "text": "Their grandmother loves her grandchildren."
+            },
+            {
+                "code": "grandmother_example_my-grandmother-babysits-me-when-my-parents-are-at-work",
+                "text": "My grandmother babysits me when my parents are at work."
+            },
+            {
+                "code": "grandmother_example_my-grandmother-knits-clothes-for-us",
+                "text": "My grandmother knits clothes for us."
+            },
+            {
+                "code": "grandmother_example_my-grandmother-tells-old-stories",
+                "text": "My grandmother tells old stories."
+            }
+        ]
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "one of the four directions on a compass; the direction that is on the left when the sun sets",
+        "examples": [
+            {
+                "code": "south_example_please-use-the-south-exit",
+                "text": "Please use the south exit."
+            },
+            {
+                "code": "south_example_she-lives-in-the-south-pole",
+                "text": "She lives in the South Pole."
+            },
+            {
+                "code": "south_example_it-is-located-in-the-south-wing",
+                "text": "It is located in the south wing."
+            }
+        ]
+    },
+    {
+        "type": "(adv)",
+        "mean": "towards the direction that is on the left when the sun sets",
+        "examples": [
+            {
+                "code": "south_example_the-prisoners-fled-south",
+                "text": "The prisoners fled south."
+            },
+            {
+                "code": "south_example_the-protestors-marched-south",
+                "text": "The protestors marched south."
+            }
+        ]
+    }
+]

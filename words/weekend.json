@@ -1,0 +1,40 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the period of time from Saturday through Sunday",
+        "examples": [
+            {
+                "code": "weekend_example_i-am-looking-forward-to-a-long-weekend",
+                "text": "I am looking forward to a long weekend."
+            },
+            {
+                "code": "weekend_example_we-went-to-the-beach-last-weekend",
+                "text": "We went to the beach last weekend."
+            },
+            {
+                "code": "weekend_example_where-are-you-going-next-weekend",
+                "text": "Where are you going next weekend?"
+            },
+            {
+                "code": "weekend_example_how-did-you-spend-your-weekend",
+                "text": "How did you spend your weekend?"
+            },
+            {
+                "code": "weekend_example_did-you-have-a-fun-weekend",
+                "text": "Did you have a fun weekend?"
+            },
+            {
+                "code": "weekend_example_i-worked-on-the-weekend",
+                "text": "I worked on the weekend."
+            },
+            {
+                "code": "weekend_example_we-have-a-weekend-house-in-the-mountains",
+                "text": "We have a weekend house in the mountains."
+            },
+            {
+                "code": "weekend_example_we-are-taking-a-weekend-trip-to-the-lake",
+                "text": "We are taking a weekend trip to the lake."
+            }
+        ]
+    }
+]

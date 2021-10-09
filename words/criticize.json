@@ -1,0 +1,40 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to show disapproval; to judge the good or bad qualities of something",
+        "examples": [
+            {
+                "code": "criticize_example_he-likes-to-bitterly-criticize-the-government",
+                "text": "He likes to bitterly criticize the government."
+            },
+            {
+                "code": "criticize_example_my-brother-will-directly-criticize-me",
+                "text": "My brother will directly criticize me."
+            },
+            {
+                "code": "criticize_example_she-constantly-criticizes-her-sister",
+                "text": "She constantly criticizes her sister."
+            },
+            {
+                "code": "criticize_example_you-are-always-criticizing-me",
+                "text": "You are always criticizing me."
+            },
+            {
+                "code": "criticize_example_stop-criticizing-me",
+                "text": "Stop criticizing me!"
+            },
+            {
+                "code": "criticize_example_he-keeps-criticizing-me",
+                "text": "He keeps criticizing me."
+            },
+            {
+                "code": "criticize_example_must-you-criticize-everything-i-do",
+                "text": "Must you criticize everything I do?"
+            },
+            {
+                "code": "criticize_example_i-hate-to-criticize-your-work-but-it-needs-improvement",
+                "text": "I hate to criticize your work, but it needs improvement."
+            }
+        ]
+    }
+]

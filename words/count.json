@@ -1,0 +1,78 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the total number of something; the act of finding the total number of something",
+        "examples": [
+            {
+                "code": "count_example_do-a-quick-count-of-the-students",
+                "text": "Do a quick count of the students."
+            },
+            {
+                "code": "count_example_what-was-the-total-count",
+                "text": "What was the total count?"
+            },
+            {
+                "code": "count_example_the-doctor-will-check-your-blood-count",
+                "text": "The doctor will check your blood count."
+            },
+            {
+                "code": "count_example_let-s-do-a-quick-count-before-we-leave",
+                "text": "Let's do a quick count before we leave."
+            },
+            {
+                "code": "count_example_i-could-not-keep-count",
+                "text": "I could not keep count."
+            },
+            {
+                "code": "count_example_she-lost-count",
+                "text": "She lost count."
+            },
+            {
+                "code": "count_example_her-cell-count-increases-daily",
+                "text": "Her cell count increases daily."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to say numbers in order; to include in a total; to rely; to be able to depend on",
+        "examples": [
+            {
+                "code": "count_example_we-counted-the-votes",
+                "text": "We counted the votes."
+            },
+            {
+                "code": "count_example_i-need-to-do-a-final-count-of-all-the-people",
+                "text": "I need to do a final count of all the people."
+            },
+            {
+                "code": "count_example_you-accidentally-counted-him-twice",
+                "text": "You accidentally counted him twice."
+            },
+            {
+                "code": "count_example_i-have-to-count-the-money-carefully",
+                "text": "I have to count the money carefully."
+            },
+            {
+                "code": "count_example_can-you-please-count-quietly",
+                "text": "Can you please count quietly?"
+            },
+            {
+                "code": "count_example_count-me-in",
+                "text": "Count me in."
+            },
+            {
+                "code": "count_example_i-can-always-count-on-you",
+                "text": "I can always count on you."
+            },
+            {
+                "code": "count_example_don-t-count-on-it",
+                "text": "Don't count on it."
+            },
+            {
+                "code": "count_example_i-can-never-count-on-him-when-i-need-help",
+                "text": "I can never count on him when I need help."
+            }
+        ]
+    }
+]

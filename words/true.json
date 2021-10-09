@@ -1,0 +1,40 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "agreeing with the facts; not false; correct",
+        "examples": [
+            {
+                "code": "true_example_the-rumors-are-absolutely-true",
+                "text": "The rumors are absolutely true."
+            },
+            {
+                "code": "true_example_the-rumors-are-not-at-all-true",
+                "text": "The rumors are not at all true."
+            },
+            {
+                "code": "true_example_this-is-very-true-about-children",
+                "text": "This is very true about children."
+            },
+            {
+                "code": "true_example_it-was-clearly-true-in-this-situation",
+                "text": "It was clearly true in this situation."
+            },
+            {
+                "code": "true_example_the-story-is-partially-true",
+                "text": "The story is partially true."
+            },
+            {
+                "code": "true_example_her-story-doesn-t-quite-sound-true",
+                "text": "Her story doesn't quite sound true."
+            },
+            {
+                "code": "true_example_the-rumor-is-true",
+                "text": "The rumor is true."
+            },
+            {
+                "code": "true_example_her-story-proved-true",
+                "text": "Her story proved true."
+            }
+        ]
+    }
+]

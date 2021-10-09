@@ -1,0 +1,44 @@
+[
+    {
+        "type": "(n)",
+        "mean": "room or building used for scientific research or experiments; short for laboratory",
+        "examples": [
+            {
+                "code": "lab_example_scientists-experiment-on-lab-animals",
+                "text": "Scientists experiment on lab animals."
+            },
+            {
+                "code": "lab_example_scientists-wear-lab-coats",
+                "text": "Scientists wear lab coats."
+            },
+            {
+                "code": "lab_example_we-are-waiting-for-the-lab-results",
+                "text": "We are waiting for the lab results."
+            },
+            {
+                "code": "lab_example_students-can-use-the-computer-lab-for-their-school-projects",
+                "text": "Students can use the computer lab for their school projects."
+            },
+            {
+                "code": "lab_example_evidence-is-analyzed-in-the-crime-lab",
+                "text": "Evidence is analyzed in the crime lab."
+            },
+            {
+                "code": "lab_example_the-scientists-are-conducting-lab-experiments-on-mice",
+                "text": "The scientists are conducting lab experiments on mice."
+            },
+            {
+                "code": "lab_example_the-scientists-worked-all-night-in-the-lab",
+                "text": "The scientists worked all night in the lab."
+            },
+            {
+                "code": "lab_example_they-are-conducting-tests-in-the-lab",
+                "text": "They are conducting tests in the lab."
+            },
+            {
+                "code": "lab_example_the-scientists-experiment-in-secret-labs",
+                "text": "The scientists experiment in secret labs."
+            }
+        ]
+    }
+]

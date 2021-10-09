@@ -1,0 +1,78 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to lift something up; to increase; to take care of children or young animals until they are grown; to try to make money for something needed or charity",
+        "examples": [
+            {
+                "code": "raise_example_you-need-to-raise-your-grades",
+                "text": "You need to raise your grades."
+            },
+            {
+                "code": "raise_example_he-raised-his-hand-to-ask-a-question",
+                "text": "He raised his hand to ask a question."
+            },
+            {
+                "code": "raise_example_we-raised-our-cups-for-a-toast",
+                "text": "We raised our cups for a toast."
+            },
+            {
+                "code": "raise_example_they-raised-my-credit-card-limit",
+                "text": "They raised my credit card limit."
+            },
+            {
+                "code": "raise_example_he-raised-his-eyebrow-at-the-thought",
+                "text": "He raised his eyebrow at the thought."
+            },
+            {
+                "code": "raise_example_they-raised-the-prices",
+                "text": "They raised the prices."
+            },
+            {
+                "code": "raise_example_she-raised-the-subject-again",
+                "text": "She raised the subject again."
+            },
+            {
+                "code": "raise_example_don-t-raise-your-voice-around-the-children",
+                "text": "Don't raise your voice around the children."
+            },
+            {
+                "code": "raise_example_i-raised-the-temperature-a-few-degrees",
+                "text": "I raised the temperature a few degrees."
+            },
+            {
+                "code": "raise_example_we-raise-chickens-on-our-farm",
+                "text": "We raise chickens on our farm."
+            },
+            {
+                "code": "raise_example_she-stayed-at-home-to-raise-her-children",
+                "text": "She stayed at home to raise her children."
+            },
+            {
+                "code": "raise_example_eating-fatty-foods-will-raise-your-cholesterol",
+                "text": "Eating fatty foods will raise your cholesterol."
+            },
+            {
+                "code": "raise_example_we-are-trying-to-raise-money-for-charity",
+                "text": "We are trying to raise money for charity."
+            }
+        ]
+    },
+    {
+        "type": "(n)",
+        "mean": "pay increase",
+        "examples": [
+            {
+                "code": "raise_example_my-boss-gave-me-a-raise",
+                "text": "My boss gave me a raise."
+            },
+            {
+                "code": "raise_example_i-got-a-raise-last-week",
+                "text": "I got a raise last week."
+            },
+            {
+                "code": "raise_example_i-deserve-a-pay-raise",
+                "text": "I deserve a pay raise."
+            }
+        ]
+    }
+]

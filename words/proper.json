@@ -1,0 +1,80 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "correct; appropriate for a specific place",
+        "examples": [
+            {
+                "code": "proper_example_it-doesn-t-seem-proper-to-ask-about-her-husband",
+                "text": "It doesn't seem proper to ask about her husband."
+            },
+            {
+                "code": "proper_example_it-is-proper-to-stand-up-when-a-lady-enters-the-room",
+                "text": "It is proper to stand up when a lady enters the room."
+            },
+            {
+                "code": "proper_example_he-acts-very-proper-around-rich-people",
+                "text": "He acts very proper around rich people."
+            },
+            {
+                "code": "proper_example_i-made-proper-arrangements-for-them",
+                "text": "I made proper arrangements for them."
+            },
+            {
+                "code": "proper_example_she-received-proper-schooling",
+                "text": "She received proper schooling."
+            },
+            {
+                "code": "proper_example_what-is-the-proper-procedure",
+                "text": "What is the proper procedure?"
+            },
+            {
+                "code": "proper_example_your-proper-place-is-at-home",
+                "text": "Your proper place is at home."
+            },
+            {
+                "code": "proper_example_he-had-a-proper-education",
+                "text": "He had a proper education."
+            },
+            {
+                "code": "proper_example_i-learned-proper-etiquette-from-my-parents",
+                "text": "I learned proper etiquette from my parents."
+            },
+            {
+                "code": "proper_example_i-haven-t-given-them-a-proper-response-yet",
+                "text": "I haven't given them a proper response yet."
+            },
+            {
+                "code": "proper_example_she-is-lacking-proper-nutrition",
+                "text": "She is lacking proper nutrition."
+            },
+            {
+                "code": "proper_example_he-hasn-t-had-a-proper-meal-in-days",
+                "text": "He hasn't had a proper meal in days."
+            },
+            {
+                "code": "proper_example_she-is-a-very-proper-lady",
+                "text": "She is a very proper lady."
+            },
+            {
+                "code": "proper_example_don-t-forget-to-capitalize-all-proper-nouns",
+                "text": "Don't forget to capitalize all proper nouns."
+            },
+            {
+                "code": "proper_example_you-must-learn-to-speak-proper-english",
+                "text": "You must learn to speak proper English."
+            },
+            {
+                "code": "proper_example_she-doesn-t-have-the-proper-permit",
+                "text": "She doesn't have the proper permit."
+            },
+            {
+                "code": "proper_example_he-hasn-t-received-proper-recognition-for-his-endless-work",
+                "text": "He hasn't received proper recognition for his endless work."
+            },
+            {
+                "code": "proper_example_he-took-more-than-the-proper-dosage-of-medicine",
+                "text": "He took more than the proper dosage of medicine."
+            }
+        ]
+    }
+]

@@ -1,0 +1,36 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to pause before saying or doing something",
+        "examples": [
+            {
+                "code": "hesitate_example_he-hesitated-a-little-before-going-in",
+                "text": "He hesitated a little before going in."
+            },
+            {
+                "code": "hesitate_example_she-barely-hesitated-when-accepting-his-invitation",
+                "text": "She barely hesitated when accepting his invitation."
+            },
+            {
+                "code": "hesitate_example_he-hesitated-for-a-moment-before-asking-the-question",
+                "text": "He hesitated for a moment before asking the question."
+            },
+            {
+                "code": "hesitate_example_he-appeared-to-hesitate-before-answering-the-question",
+                "text": "He appeared to hesitate before answering the question."
+            },
+            {
+                "code": "hesitate_example_his-question-made-her-hesitate-for-a-moment",
+                "text": "His question made her hesitate for a moment."
+            },
+            {
+                "code": "hesitate_example_he-didn-t-hesitate-about-the-decision",
+                "text": "He didn't hesitate about the decision."
+            },
+            {
+                "code": "hesitate_example_i-hesitated-over-the-choice",
+                "text": "I hesitated over the choice."
+            }
+        ]
+    }
+]

@@ -1,0 +1,102 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "bad; opposite of positive; only thinking about bad things; showing that something is not there or has not been found",
+        "examples": [
+            {
+                "code": "negative_example_i-tested-negative-for-the-disease",
+                "text": "I tested negative for the disease."
+            },
+            {
+                "code": "negative_example_she-is-negative-to-everyone-around-her",
+                "text": "She is negative to everyone around her."
+            },
+            {
+                "code": "negative_example_she-became-negative-about-many-things-after-her-divorce",
+                "text": "She became negative about many things after her divorce."
+            },
+            {
+                "code": "negative_example_the-answer-is-a-negative-number",
+                "text": "The answer is a negative number."
+            },
+            {
+                "code": "negative_example_they-ran-a-negative-campaign",
+                "text": "They ran a negative campaign."
+            },
+            {
+                "code": "negative_example_he-has-lots-of-negative-energy",
+                "text": "He has lots of negative energy."
+            },
+            {
+                "code": "negative_example_the-commercial-sends-a-negative-message",
+                "text": "The commercial sends a negative message."
+            },
+            {
+                "code": "negative_example_he-had-a-negative-feeling-about-it",
+                "text": "He had a negative feeling about it."
+            },
+            {
+                "code": "negative_example_she-is-a-negative-person",
+                "text": "She is a negative person."
+            },
+            {
+                "code": "negative_example_i-had-a-negative-experience-with-that-teacher",
+                "text": "I had a negative experience with that teacher."
+            },
+            {
+                "code": "negative_example_he-gave-a-lot-of-negative-comments",
+                "text": "He gave a lot of negative comments."
+            },
+            {
+                "code": "negative_example_he-gets-a-lot-of-negative-publicity",
+                "text": "He gets a lot of negative publicity."
+            },
+            {
+                "code": "negative_example_you-have-a-negative-outlook",
+                "text": "You have a negative outlook."
+            },
+            {
+                "code": "negative_example_there-was-a-negative-reaction",
+                "text": "There was a negative reaction."
+            },
+            {
+                "code": "negative_example_there-are-some-negative-aspects",
+                "text": "There are some negative aspects."
+            },
+            {
+                "code": "negative_example_he-is-a-very-negative-person",
+                "text": "He is a very negative person."
+            },
+            {
+                "code": "negative_example_his-attitude-is-slightly-negative",
+                "text": "His attitude is slightly negative."
+            },
+            {
+                "code": "negative_example_she-is-becoming-increasingly-negative-at-work",
+                "text": "She is becoming increasingly negative at work."
+            },
+            {
+                "code": "negative_example_he-tested-negative-for-the-drug",
+                "text": "He tested negative for the drug."
+            },
+            {
+                "code": "negative_example_he-is-negative-about-everything",
+                "text": "He is negative about everything."
+            }
+        ]
+    },
+    {
+        "type": "(n)",
+        "mean": "developed photographic image that shows the dark areas as light and the light areas as dark",
+        "examples": [
+            {
+                "code": "negative_example_they-destroyed-all-of-the-negatives",
+                "text": "They destroyed all of the negatives."
+            },
+            {
+                "code": "negative_example_he-owns-the-original-negatives",
+                "text": "He owns the original negatives."
+            }
+        ]
+    }
+]

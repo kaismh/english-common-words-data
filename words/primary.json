@@ -1,0 +1,40 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "main; most important",
+        "examples": [
+            {
+                "code": "primary_example_her-primary-aim-is-to-get-a-doctorate-degree",
+                "text": "Her primary aim is to get a doctorate degree."
+            },
+            {
+                "code": "primary_example_where-do-you-receive-your-primary-care",
+                "text": "Where do you receive your primary care?"
+            },
+            {
+                "code": "primary_example_the-primary-cause-of-the-accident-was-drunk-driving",
+                "text": "The primary cause of the accident was drunk driving."
+            },
+            {
+                "code": "primary_example_my-primary-concern-is-my-child-s-health",
+                "text": "My primary concern is my child's health."
+            },
+            {
+                "code": "primary_example_the-primary-function-of-schools-is-to-educate-children",
+                "text": "The primary function of schools is to educate children."
+            },
+            {
+                "code": "primary_example_the-primary-ingredient-in-spaghetti-sauce-is-tomatoes",
+                "text": "The primary ingredient in spaghetti sauce is tomatoes."
+            },
+            {
+                "code": "primary_example_our-primary-reason-for-visiting-other-countries-is-to-learn-about-their-cultures",
+                "text": "Our primary reason for visiting other countries is to learn about their cultures."
+            },
+            {
+                "code": "primary_example_he-is-the-primary-suspect-in-the-murder-case",
+                "text": "He is the primary suspect in the murder case."
+            }
+        ]
+    }
+]

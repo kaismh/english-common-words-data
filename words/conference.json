@@ -1,0 +1,76 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a formal meeting",
+        "examples": [
+            {
+                "code": "conference_example_i-saw-you-at-the-international-conference",
+                "text": "I saw you at the international conference."
+            },
+            {
+                "code": "conference_example_we-need-to-have-a-private-conference",
+                "text": "We need to have a private conference."
+            },
+            {
+                "code": "conference_example_the-police-chief-will-hold-a-news-conference-this-afternoon",
+                "text": "The police chief will hold a news conference this afternoon."
+            },
+            {
+                "code": "conference_example_she-went-to-the-parent-teacher-conference",
+                "text": "She went to the parent-teacher conference."
+            },
+            {
+                "code": "conference_example_we-will-have-a-telephone-conference-with-the-president-of-the-company",
+                "text": "We will have a telephone conference with the president of the company."
+            },
+            {
+                "code": "conference_example_he-will-attend-the-conference",
+                "text": "He will attend the conference."
+            },
+            {
+                "code": "conference_example_the-company-will-hold-the-conference",
+                "text": "The company will hold the conference."
+            },
+            {
+                "code": "conference_example_she-will-organize-the-conference",
+                "text": "She will organize the conference."
+            },
+            {
+                "code": "conference_example_where-will-the-conference-take-place",
+                "text": "Where will the conference take place?"
+            },
+            {
+                "code": "conference_example_the-meeting-is-in-the-conference-hall",
+                "text": "The meeting is in the conference hall."
+            },
+            {
+                "code": "conference_example_the-conference-table-is-not-big-enough",
+                "text": "The conference table is not big enough."
+            },
+            {
+                "code": "conference_example_they-are-on-a-conference-call",
+                "text": "They are on a conference call."
+            },
+            {
+                "code": "conference_example_the-conference-talks-can-go-on-for-hours",
+                "text": "The conference talks can go on for hours."
+            },
+            {
+                "code": "conference_example_they-met-for-the-first-time-at-the-conference",
+                "text": "They met for the first time at the conference."
+            },
+            {
+                "code": "conference_example_she-attended-a-conference-about-education",
+                "text": "She attended a conference about education."
+            },
+            {
+                "code": "conference_example_i-had-a-conference-with-the-boss",
+                "text": "I had a conference with the boss."
+            },
+            {
+                "code": "conference_example_there-was-a-private-conference-between-the-two-company-presidents",
+                "text": "There was a private conference between the two company presidents."
+            }
+        ]
+    }
+]

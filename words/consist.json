@@ -1,0 +1,24 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to be made of",
+        "examples": [
+            {
+                "code": "consist_example_the-salad-consists-entirely-of-vegetables",
+                "text": "The salad consists entirely of vegetables."
+            },
+            {
+                "code": "consist_example_the-report-consisted-mainly-of-unproven-data",
+                "text": "The report consisted mainly of unproven data."
+            },
+            {
+                "code": "consist_example_his-diet-generally-consists-of-meat-and-potatoes",
+                "text": "His diet generally consists of meat and potatoes."
+            },
+            {
+                "code": "consist_example_the-dessert-basically-consisted-of-chocolate-and-sugar",
+                "text": "The dessert basically consisted of chocolate and sugar."
+            }
+        ]
+    }
+]

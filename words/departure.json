@@ -1,0 +1,56 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the act of leaving a place",
+        "examples": [
+            {
+                "code": "departure_example_he-was-surprised-by-her-sudden-departure",
+                "text": "He was surprised by her sudden departure."
+            },
+            {
+                "code": "departure_example_they-have-an-early-departure",
+                "text": "They have an early departure."
+            },
+            {
+                "code": "departure_example_he-missed-his-scheduled-departure",
+                "text": "He missed his scheduled departure."
+            },
+            {
+                "code": "departure_example_check-your-flight-departure",
+                "text": "Check your flight departure."
+            },
+            {
+                "code": "departure_example_the-rain-will-delay-the-departure",
+                "text": "The rain will delay the departure."
+            },
+            {
+                "code": "departure_example_they-will-announce-her-departure-at-the-meeting",
+                "text": "They will announce her departure at the meeting."
+            },
+            {
+                "code": "departure_example_she-made-a-sudden-departure",
+                "text": "She made a sudden departure."
+            },
+            {
+                "code": "departure_example_when-is-your-departure-date",
+                "text": "When is your departure date?"
+            },
+            {
+                "code": "departure_example_we-waited-at-the-departure-gate",
+                "text": "We waited at the departure gate."
+            },
+            {
+                "code": "departure_example_you-will-be-notified-before-departure",
+                "text": "You will be notified before departure."
+            },
+            {
+                "code": "departure_example_there-was-an-announcement-to-prepare-for-departure",
+                "text": "There was an announcement to prepare for departure."
+            },
+            {
+                "code": "departure_example_his-departure-from-the-company-was-a-surprise-to-everyone",
+                "text": "His departure from the company was a surprise to everyone."
+            }
+        ]
+    }
+]

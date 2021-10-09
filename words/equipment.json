@@ -1,0 +1,76 @@
+[
+    {
+        "type": "(n)",
+        "mean": "things needed for a specific purpose",
+        "examples": [
+            {
+                "code": "equipment_example_the-team-bought-the-latest-equipment",
+                "text": "The team bought the latest equipment."
+            },
+            {
+                "code": "equipment_example_this-factory-contains-high-tech-equipment",
+                "text": "This factory contains high-tech equipment."
+            },
+            {
+                "code": "equipment_example_the-basic-equipment-was-provided-to-us",
+                "text": "The basic equipment was provided to us."
+            },
+            {
+                "code": "equipment_example_he-needs-special-equipment-to-complete-this-job",
+                "text": "He needs special equipment to complete this job."
+            },
+            {
+                "code": "equipment_example_they-had-to-replace-the-defective-equipment",
+                "text": "They had to replace the defective equipment."
+            },
+            {
+                "code": "equipment_example_she-bought-new-exercise-equipment",
+                "text": "She bought new exercise equipment."
+            },
+            {
+                "code": "equipment_example_the-school-needs-new-laboratory-equipment",
+                "text": "The school needs new laboratory equipment."
+            },
+            {
+                "code": "equipment_example_the-city-is-investing-in-new-communication-equipment",
+                "text": "The city is investing in new communication equipment."
+            },
+            {
+                "code": "equipment_example_they-are-bringing-rescue-equipment-to-the-disaster-site",
+                "text": "They are bringing rescue equipment to the disaster site."
+            },
+            {
+                "code": "equipment_example_they-purchased-new-computer-equipment",
+                "text": "They purchased new computer equipment."
+            },
+            {
+                "code": "equipment_example_this-store-sells-sports-equipment",
+                "text": "This store sells sports equipment."
+            },
+            {
+                "code": "equipment_example_they-will-install-the-equipment-in-the-lab",
+                "text": "They will install the equipment in the lab."
+            },
+            {
+                "code": "equipment_example_this-game-doesn-t-require-extra-equipment",
+                "text": "This game doesn't require extra equipment."
+            },
+            {
+                "code": "equipment_example_he-needs-to-learn-to-operate-the-equipment",
+                "text": "He needs to learn to operate the equipment."
+            },
+            {
+                "code": "equipment_example_the-computer-equipment-worked-this-morning",
+                "text": "The computer equipment worked this morning."
+            },
+            {
+                "code": "equipment_example_i-had-to-call-the-equipment-maker-for-instructions",
+                "text": "I had to call the equipment maker for instructions."
+            },
+            {
+                "code": "equipment_example_this-store-offers-equipment-rental",
+                "text": "This store offers equipment rental."
+            }
+        ]
+    }
+]

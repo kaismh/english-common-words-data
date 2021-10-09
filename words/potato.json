@@ -1,0 +1,40 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a vegetable with brown, yellow, or red skin that grows in the ground",
+        "examples": [
+            {
+                "code": "potato_example_i-brought-potato-salad-to-the-picnic",
+                "text": "I brought potato salad to the picnic."
+            },
+            {
+                "code": "potato_example_i-put-everything-into-a-potato-sack",
+                "text": "I put everything into a potato sack."
+            },
+            {
+                "code": "potato_example_i-need-a-new-potato-peeler",
+                "text": "I need a new potato peeler."
+            },
+            {
+                "code": "potato_example_we-are-having-mashed-potatoes-for-dinner",
+                "text": "We are having mashed potatoes for dinner."
+            },
+            {
+                "code": "potato_example_do-you-eat-potatoes",
+                "text": "Do you eat potatoes?"
+            },
+            {
+                "code": "potato_example_i-have-to-peel-twenty-potatoes",
+                "text": "I have to peel twenty potatoes."
+            },
+            {
+                "code": "potato_example_do-you-bake-your-potatoes",
+                "text": "Do you bake your potatoes?"
+            },
+            {
+                "code": "potato_example_how-do-you-cook-your-potatoes",
+                "text": "How do you cook your potatoes?"
+            }
+        ]
+    }
+]

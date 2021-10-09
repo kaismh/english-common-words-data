@@ -1,0 +1,74 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a faucet for controlling the flow of water; a gentle hit",
+        "examples": [
+            {
+                "code": "tap_example_we-installed-a-new-hot-water-tap-yesterday",
+                "text": "We installed a new hot-water tap yesterday."
+            },
+            {
+                "code": "tap_example_we-have-to-fix-the-dripping-tap",
+                "text": "We have to fix the dripping tap."
+            },
+            {
+                "code": "tap_example_she-gave-him-a-gentle-tap-on-the-shoulder",
+                "text": "She gave him a gentle tap on the shoulder."
+            },
+            {
+                "code": "tap_example_please-turn-the-tap-clockwise",
+                "text": "Please turn the tap clockwise."
+            },
+            {
+                "code": "tap_example_don-t-forget-to-turn-on-the-bath-tap",
+                "text": "Don't forget to turn on the bath tap."
+            },
+            {
+                "code": "tap_example_the-tap-is-running",
+                "text": "The tap is running."
+            },
+            {
+                "code": "tap_example_she-heard-a-tap-at-the-door",
+                "text": "She heard a tap at the door."
+            },
+            {
+                "code": "tap_example_i-felt-a-tap-on-my-shoulder",
+                "text": "I felt a tap on my shoulder."
+            },
+            {
+                "code": "tap_example_our-tap-water-is-just-as-safe-as-bottled-water",
+                "text": "Our tap water is just as safe as bottled water."
+            },
+            {
+                "code": "tap_example_i-thought-i-heard-a-tap-at-the-door",
+                "text": "I thought I heard a tap at the door."
+            },
+            {
+                "code": "tap_example_she-gave-him-a-tap-on-the-shoulder",
+                "text": "She gave him a tap on the shoulder."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to hit lightly",
+        "examples": [
+            {
+                "code": "tap_example_the-boy-tapped-his-fingers-impatiently-on-the-table",
+                "text": "The boy tapped his fingers impatiently on the table."
+            },
+            {
+                "code": "tap_example_he-was-tapping-his-feet-on-the-floor",
+                "text": "He was tapping his feet on the floor."
+            },
+            {
+                "code": "tap_example_she-tapped-him-with-her-finger",
+                "text": "She tapped him with her finger."
+            },
+            {
+                "code": "tap_example_she-was-tapping-at-the-window-to-get-our-attention",
+                "text": "She was tapping at the window to get our attention."
+            }
+        ]
+    }
+]

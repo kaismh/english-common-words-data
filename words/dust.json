@@ -1,0 +1,70 @@
+[
+    {
+        "type": "(n)",
+        "mean": "tiny particles of dirt, earth, or other substances found in the air or on surfaces",
+        "examples": [
+            {
+                "code": "dust_example_we-breathe-airborne-dust",
+                "text": "We breathe airborne dust."
+            },
+            {
+                "code": "dust_example_there-is-a-lot-of-chalk-dust-in-classrooms",
+                "text": "There is a lot of chalk dust in classrooms."
+            },
+            {
+                "code": "dust_example_they-ground-the-pepper-into-fine-dust",
+                "text": "They ground the pepper into fine dust."
+            },
+            {
+                "code": "dust_example_the-chair-collects-dust",
+                "text": "The chair collects dust."
+            },
+            {
+                "code": "dust_example_his-job-is-to-remove-the-dust",
+                "text": "His job is to remove the dust."
+            },
+            {
+                "code": "dust_example_dust-covers-the-unused-room",
+                "text": "Dust covers the unused room."
+            },
+            {
+                "code": "dust_example_let-the-dust-settle",
+                "text": "Let the dust settle."
+            },
+            {
+                "code": "dust_example_dust-blows-in-the-wind",
+                "text": "Dust blows in the wind."
+            },
+            {
+                "code": "dust_example_the-tornado-made-a-dust-cloud",
+                "text": "The tornado made a dust cloud."
+            },
+            {
+                "code": "dust_example_there-are-so-many-dust-balls-under-the-sofa",
+                "text": "There are so many dust balls under the sofa."
+            },
+            {
+                "code": "dust_example_dust-covers-protect-the-book",
+                "text": "Dust covers protect the book."
+            },
+            {
+                "code": "dust_example_he-is-allergic-to-dust-mites",
+                "text": "He is allergic to dust mites."
+            },
+            {
+                "code": "dust_example_people-wear-dust-masks-to-protect-their-lungs",
+                "text": "People wear dust masks to protect their lungs."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to clean dirt off a surface",
+        "examples": [
+            {
+                "code": "dust_example_the-housekeeper-dusts-the-furniture",
+                "text": "The housekeeper dusts the furniture."
+            }
+        ]
+    }
+]

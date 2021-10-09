@@ -1,0 +1,40 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to make a hole in the ground with your hands or tools; to uncover something by taking this off",
+        "examples": [
+            {
+                "code": "dig_example_the-dog-can-dig-quickly",
+                "text": "The dog can dig quickly."
+            },
+            {
+                "code": "dig_example_they-have-to-dig-deeply-to-reach-the-underground-pipes",
+                "text": "They have to dig deeply to reach the underground pipes."
+            },
+            {
+                "code": "dig_example_they-started-digging-for-gold",
+                "text": "They started digging for gold."
+            },
+            {
+                "code": "dig_example_i-felt-her-nails-dig-into-my-skin",
+                "text": "I felt her nails dig into my skin."
+            },
+            {
+                "code": "dig_example_the-dog-started-digging-through-the-grass",
+                "text": "The dog started digging through the grass."
+            },
+            {
+                "code": "dig_example_we-are-digging-the-dirt-with-a-shovel",
+                "text": "We are digging the dirt with a shovel."
+            },
+            {
+                "code": "dig_example_we-started-digging-the-pile",
+                "text": "We started digging the pile."
+            },
+            {
+                "code": "dig_example_stop-digging",
+                "text": "Stop digging!"
+            }
+        ]
+    }
+]

@@ -1,0 +1,96 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a written, typed, or printed piece of communication; a symbol that makes up parts of a written language",
+        "examples": [
+            {
+                "code": "letter_example_she-wrote-me-a-long-letter",
+                "text": "She wrote me a long letter."
+            },
+            {
+                "code": "letter_example_he-received-countless-letters-of-support",
+                "text": "He received countless letters of support."
+            },
+            {
+                "code": "letter_example_i-got-an-anonymous-letter-today",
+                "text": "I got an anonymous letter today."
+            },
+            {
+                "code": "letter_example_he-received-an-acceptance-letter-from-the-university",
+                "text": "He received an acceptance letter from the university."
+            },
+            {
+                "code": "letter_example_she-wrote-an-angry-letter-to-her-boss",
+                "text": "She wrote an angry letter to her boss."
+            },
+            {
+                "code": "letter_example_my-daughter-has-trouble-with-capital-letters",
+                "text": "My daughter has trouble with capital letters."
+            },
+            {
+                "code": "letter_example_she-writes-letters-to-her-friends-overseas",
+                "text": "She writes letters to her friends overseas."
+            },
+            {
+                "code": "letter_example_i-got-an-acceptance-letter-from-the-university",
+                "text": "I got an acceptance letter from the university."
+            },
+            {
+                "code": "letter_example_he-read-the-letter-over-and-over-again",
+                "text": "He read the letter over and over again."
+            },
+            {
+                "code": "letter_example_i-was-angry-that-she-didn-t-respond-to-my-letter",
+                "text": "I was angry that she didn't respond to my letter."
+            },
+            {
+                "code": "letter_example_the-letter-was-addressed-to-my-mother",
+                "text": "The letter was addressed to my mother."
+            },
+            {
+                "code": "letter_example_the-letter-ended-with-a-word-of-encouragement",
+                "text": "The letter ended with a word of encouragement."
+            },
+            {
+                "code": "letter_example_the-letter-did-not-arrive-in-time",
+                "text": "The letter did not arrive in time."
+            },
+            {
+                "code": "letter_example_the-letter-is-dated-may-14",
+                "text": "The letter is dated May 14."
+            },
+            {
+                "code": "letter_example_the-letter-contains-very-important-information",
+                "text": "The letter contains very important information."
+            },
+            {
+                "code": "letter_example_please-reply-by-letter",
+                "text": "Please reply by letter."
+            },
+            {
+                "code": "letter_example_she-wrote-a-letter-of-appreciation-to-her-teacher",
+                "text": "She wrote a letter of appreciation to her teacher."
+            },
+            {
+                "code": "letter_example_he-received-a-letter-from-his-girlfriend",
+                "text": "He received a letter from his girlfriend."
+            },
+            {
+                "code": "letter_example_this-letter-is-for-my-friend",
+                "text": "This letter is for my friend."
+            },
+            {
+                "code": "letter_example_the-sign-was-written-in-bold-letters",
+                "text": "The sign was written in bold letters."
+            },
+            {
+                "code": "letter_example_our-letter-carrier-lost-our-mail",
+                "text": "Our letter carrier lost our mail."
+            },
+            {
+                "code": "letter_example_i-need-to-find-the-letter-opener",
+                "text": "I need to find the letter opener."
+            }
+        ]
+    }
+]

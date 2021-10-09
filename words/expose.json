@@ -1,0 +1,52 @@
+[
+    {
+        "type": "(v)",
+        "mean": "make visible; to show the truth; to subject something or someone to risk",
+        "examples": [
+            {
+                "code": "expose_example_he-completely-exposed-his-secrets-to-the-world",
+                "text": "He completely exposed his secrets to the world."
+            },
+            {
+                "code": "expose_example_this-project-clearly-exposes-her-weaknesses",
+                "text": "This project clearly exposes her weaknesses."
+            },
+            {
+                "code": "expose_example_they-publically-exposed-his-crimes",
+                "text": "They publically exposed his crimes."
+            },
+            {
+                "code": "expose_example_people-are-constantly-exposed-to-uv-rays",
+                "text": "People are constantly exposed to UV rays."
+            },
+            {
+                "code": "expose_example_she-was-directly-exposed-to-radiation-from-the-leak",
+                "text": "She was directly exposed to radiation from the leak."
+            },
+            {
+                "code": "expose_example_the-newspaper-exposed-the-identity-of-the-spy",
+                "text": "The newspaper exposed the identity of the spy."
+            },
+            {
+                "code": "expose_example_they-are-working-to-expose-corruption-in-the-government",
+                "text": "They are working to expose corruption in the government."
+            },
+            {
+                "code": "expose_example_the-investigation-exposed-the-hoax",
+                "text": "The investigation exposed the hoax."
+            },
+            {
+                "code": "expose_example_the-interview-exposed-his-ignorance",
+                "text": "The interview exposed his ignorance."
+            },
+            {
+                "code": "expose_example_he-exposed-a-scandal-involving-the-president",
+                "text": "He exposed a scandal involving the president."
+            },
+            {
+                "code": "expose_example_they-are-trying-to-expose-the-truth",
+                "text": "They are trying to expose the truth."
+            }
+        ]
+    }
+]

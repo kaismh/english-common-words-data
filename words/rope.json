@@ -1,0 +1,36 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a thick string",
+        "examples": [
+            {
+                "code": "rope_example_don-t-pull-the-rope",
+                "text": "Don't pull the rope."
+            },
+            {
+                "code": "rope_example_i-knotted-the-rope-tightly",
+                "text": "I knotted the rope tightly."
+            },
+            {
+                "code": "rope_example_can-you-grab-hold-of-this-rope",
+                "text": "Can you grab hold of this rope?"
+            },
+            {
+                "code": "rope_example_i-tied-the-rope",
+                "text": "I tied the rope."
+            },
+            {
+                "code": "rope_example_i-need-a-strong-rope-to-pull-this",
+                "text": "I need a strong rope to pull this."
+            },
+            {
+                "code": "rope_example_i-bought-a-jump-rope",
+                "text": "I bought a jump rope."
+            },
+            {
+                "code": "rope_example_there-is-a-velvet-rope-in-front-of-the-club",
+                "text": "There is a velvet rope in front of the club."
+            }
+        ]
+    }
+]

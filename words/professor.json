@@ -1,0 +1,40 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a teacher at a college or university",
+        "examples": [
+            {
+                "code": "professor_example_i-want-to-be-a-math-professor",
+                "text": "I want to be a math professor."
+            },
+            {
+                "code": "professor_example_she-is-a-university-professor",
+                "text": "She is a university professor."
+            },
+            {
+                "code": "professor_example_he-is-a-professor-of-japanese-literature",
+                "text": "He is a professor of Japanese literature."
+            },
+            {
+                "code": "professor_example_she-is-a-professor-at-a-prestigious-college",
+                "text": "She is a professor at a prestigious college."
+            },
+            {
+                "code": "professor_example_our-professor-gives-lectures-three-times-a-week",
+                "text": "Our professor gives lectures three times a week."
+            },
+            {
+                "code": "professor_example_my-professor-grades-strictly-on-test-performance-and-not-homework-assignments",
+                "text": "My professor grades strictly on test performance and not homework assignments."
+            },
+            {
+                "code": "professor_example_our-professor-does-not-teach-out-of-a-textbook",
+                "text": "Our professor does not teach out of a textbook."
+            },
+            {
+                "code": "professor_example_my-professor-graduated-from-harvard",
+                "text": "My professor graduated from Harvard."
+            }
+        ]
+    }
+]

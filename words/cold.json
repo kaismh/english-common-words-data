@@ -1,0 +1,110 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "not warm or hot; very cool",
+        "examples": [
+            {
+                "code": "cold_example_it-can-be-bitterly-cold-in-alaska",
+                "text": "It can be bitterly cold in Alaska."
+            },
+            {
+                "code": "cold_example_i-ll-bring-a-jacket-because-it-is-fairly-cold-outside",
+                "text": "I'll bring a jacket because it is fairly cold outside."
+            },
+            {
+                "code": "cold_example_your-dog-looks-cold",
+                "text": "Your dog looks cold."
+            },
+            {
+                "code": "cold_example_the-food-grew-cold",
+                "text": "The food grew cold."
+            },
+            {
+                "code": "cold_example_the-weather-will-stay-cold-until-spring",
+                "text": "The weather will stay cold until spring."
+            },
+            {
+                "code": "cold_example_the-rain-is-making-me-cold",
+                "text": "The rain is making me cold."
+            },
+            {
+                "code": "cold_example_you-should-keep-the-drinks-cold",
+                "text": "You should keep the drinks cold."
+            },
+            {
+                "code": "cold_example_this-dish-is-supposed-to-be-served-cold",
+                "text": "This dish is supposed to be served cold."
+            },
+            {
+                "code": "cold_example_this-motel-has-only-cold-water",
+                "text": "This motel has only cold water."
+            },
+            {
+                "code": "cold_example_there-s-cold-air-blowing-into-our-bedroom",
+                "text": "There's cold air blowing into our bedroom."
+            },
+            {
+                "code": "cold_example_she-won-t-live-in-cold-climates",
+                "text": "She won't live in cold climates."
+            },
+            {
+                "code": "cold_example_the-villain-has-a-cold-heart",
+                "text": "The villain has a cold heart."
+            },
+            {
+                "code": "cold_example_he-killed-her-in-cold-blood",
+                "text": "He killed her in cold blood."
+            },
+            {
+                "code": "cold_example_i-felt-a-cold-chill",
+                "text": "I felt a cold chill."
+            },
+            {
+                "code": "cold_example_do-you-like-cold-chicken",
+                "text": "Do you like cold chicken?"
+            },
+            {
+                "code": "cold_example_it-was-a-very-cold-night",
+                "text": "It was a very cold night."
+            }
+        ]
+    },
+    {
+        "type": "(n)",
+        "mean": "low temperature; a common illness that results in a cough, sneeze, and runny nose",
+        "examples": [
+            {
+                "code": "cold_example_they-were-lost-in-the-bitter-cold",
+                "text": "They were lost in the bitter cold."
+            },
+            {
+                "code": "cold_example_her-son-has-a-nasty-cold",
+                "text": "Her son has a nasty cold."
+            },
+            {
+                "code": "cold_example_we-need-to-find-a-cure-for-the-common-cold",
+                "text": "We need to find a cure for the common cold."
+            },
+            {
+                "code": "cold_example_i-felt-the-cold-coming-in-through-the-window",
+                "text": "I felt the cold coming in through the window."
+            },
+            {
+                "code": "cold_example_make-sure-to-stay-out-of-the-cold",
+                "text": "Make sure to stay out of the cold."
+            },
+            {
+                "code": "cold_example_she-has-a-bad-cold",
+                "text": "She has a bad cold."
+            },
+            {
+                "code": "cold_example_he-caught-a-cold-from-his-wife",
+                "text": "He caught a cold from his wife."
+            },
+            {
+                "code": "cold_example_they-were-fighting-against-the-cold",
+                "text": "They were fighting against the cold."
+            }
+        ]
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "intelligent",
+        "examples": [
+            {
+                "code": "smart_example_she-is-very-smart",
+                "text": "She is very smart."
+            },
+            {
+                "code": "smart_example_they-are-getting-smarter-about-their-finances",
+                "text": "They are getting smarter about their finances."
+            },
+            {
+                "code": "smart_example_this-class-will-make-you-smarter",
+                "text": "This class will make you smarter."
+            },
+            {
+                "code": "smart_example_her-son-is-extremely-smart",
+                "text": "Her son is extremely smart."
+            },
+            {
+                "code": "smart_example_he-s-smart-enough-to-know-what-to-do",
+                "text": "He's smart enough to know what to do."
+            },
+            {
+                "code": "smart_example_he-is-a-very-smart-boy",
+                "text": "He is a very smart boy."
+            },
+            {
+                "code": "smart_example_you-made-a-smart-choice",
+                "text": "You made a smart choice."
+            },
+            {
+                "code": "smart_example_we-need-to-hire-more-smart-people",
+                "text": "We need to hire more smart people."
+            }
+        ]
+    }
+]

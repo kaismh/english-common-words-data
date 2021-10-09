@@ -1,0 +1,66 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to make someone unhappy",
+        "examples": [
+            {
+                "code": "upset_example_your-comments-have-really-upset-your-mother",
+                "text": "Your comments have really upset your mother."
+            },
+            {
+                "code": "upset_example_he-upsets-easily-over-the-littlest-things",
+                "text": "He upsets easily over the littlest things."
+            },
+            {
+                "code": "upset_example_i-do-not-mean-to-upset-you-but-i-have-bad-news",
+                "text": "I do not mean to upset you, but I have bad news."
+            }
+        ]
+    },
+    {
+        "type": "(adj)",
+        "mean": "unhappy",
+        "examples": [
+            {
+                "code": "upset_example_his-comments-left-her-very-upset",
+                "text": "His comments left her very upset."
+            },
+            {
+                "code": "upset_example_he-gets-easily-upset-over-everything",
+                "text": "He gets easily upset over everything."
+            },
+            {
+                "code": "upset_example_they-are-clearly-upset-over-their-loss",
+                "text": "They are clearly upset over their loss."
+            },
+            {
+                "code": "upset_example_i-am-truly-upset-by-your-mean-words",
+                "text": "I am truly upset by your mean words."
+            },
+            {
+                "code": "upset_example_he-sounds-upset-about-her-choice",
+                "text": "He sounds upset about her choice."
+            },
+            {
+                "code": "upset_example_are-you-going-to-remain-upset-all-day",
+                "text": "Are you going to remain upset all day?"
+            },
+            {
+                "code": "upset_example_why-are-you-getting-upset-over-this",
+                "text": "Why are you getting upset over this?"
+            },
+            {
+                "code": "upset_example_you-made-her-very-upset",
+                "text": "You made her very upset."
+            },
+            {
+                "code": "upset_example_he-is-upset-about-not-getting-a-promotion",
+                "text": "He is upset about not getting a promotion."
+            },
+            {
+                "code": "upset_example_she-is-very-upset-with-me",
+                "text": "She is very upset with me."
+            }
+        ]
+    }
+]

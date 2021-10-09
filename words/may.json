@@ -1,0 +1,72 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the month after April and before June",
+        "examples": [
+            {
+                "code": "may_example_i-can-t-believe-it-is-already-may",
+                "text": "I can't believe it is already May."
+            },
+            {
+                "code": "may_example_may-is-my-favorite-month",
+                "text": "May is my favorite month."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to be possible; to say something could happen; to give permission to",
+        "examples": [
+            {
+                "code": "may_example_it-may-take-a-long-time",
+                "text": "It may take a long time."
+            },
+            {
+                "code": "may_example_they-may-join-us-for-dinner",
+                "text": "They may join us for dinner."
+            },
+            {
+                "code": "may_example_it-may-not-work",
+                "text": "It may not work."
+            },
+            {
+                "code": "may_example_he-may-come-home-tomorrow",
+                "text": "He may come home tomorrow."
+            },
+            {
+                "code": "may_example_she-may-leave-early",
+                "text": "She may leave early."
+            },
+            {
+                "code": "may_example_she-may-go-with-us",
+                "text": "She may go with us."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "used when asking a question",
+        "examples": [
+            {
+                "code": "may_example_may-i-borrow-your-car",
+                "text": "May I borrow your car?"
+            },
+            {
+                "code": "may_example_may-i-use-your-computer",
+                "text": "May I use your computer?"
+            },
+            {
+                "code": "may_example_may-i-go-to-the-party",
+                "text": "May I go to the party?"
+            },
+            {
+                "code": "may_example_may-we-watch-television",
+                "text": "May we watch television?"
+            },
+            {
+                "code": "may_example_may-we-go-inside",
+                "text": "May we go inside?"
+            }
+        ]
+    }
+]

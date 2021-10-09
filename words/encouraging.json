@@ -1,0 +1,44 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "giving hope or support",
+        "examples": [
+            {
+                "code": "encouraging_example_these-test-results-are-encouraging",
+                "text": "These test results are encouraging."
+            },
+            {
+                "code": "encouraging_example_that-sounds-encouraging",
+                "text": "That sounds encouraging."
+            },
+            {
+                "code": "encouraging_example_his-parents-remain-encouraging-despite-his-bad-grades",
+                "text": "His parents remain encouraging despite his bad grades."
+            },
+            {
+                "code": "encouraging_example_his-improvement-is-very-encouraging",
+                "text": "His improvement is very encouraging."
+            },
+            {
+                "code": "encouraging_example_the-results-are-hardly-encouraging",
+                "text": "The results are hardly encouraging."
+            },
+            {
+                "code": "encouraging_example_he-received-some-encouraging-news",
+                "text": "He received some encouraging news."
+            },
+            {
+                "code": "encouraging_example_her-parents-said-some-encouraging-words-to-cheer-her-up",
+                "text": "Her parents said some encouraging words to cheer her up."
+            },
+            {
+                "code": "encouraging_example_the-research-is-off-to-an-encouraging-start",
+                "text": "The research is off to an encouraging start."
+            },
+            {
+                "code": "encouraging_example_she-gave-him-an-encouraging-smile",
+                "text": "She gave him an encouraging smile."
+            }
+        ]
+    }
+]

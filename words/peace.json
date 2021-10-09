@@ -1,0 +1,80 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a period of time without war or fighting; the state of being calm and quiet",
+        "examples": [
+            {
+                "code": "peace_example_we-hope-for-world-peace",
+                "text": "We hope for world peace."
+            },
+            {
+                "code": "peace_example_i-am-searching-for-inner-peace",
+                "text": "I am searching for inner peace."
+            },
+            {
+                "code": "peace_example_we-wish-for-eternal-peace",
+                "text": "We wish for eternal peace."
+            },
+            {
+                "code": "peace_example_the-diplomats-have-negotiated-peace-between-the-two-countries",
+                "text": "The diplomats have negotiated peace between the two countries."
+            },
+            {
+                "code": "peace_example_we-are-trying-to-maintain-peace-at-the-country-s-border",
+                "text": "We are trying to maintain peace at the country's border."
+            },
+            {
+                "code": "peace_example_how-can-we-promote-world-peace",
+                "text": "How can we promote world peace?"
+            },
+            {
+                "code": "peace_example_he-has-finally-found-peace-in-his-tragic-life",
+                "text": "He has finally found peace in his tragic life."
+            },
+            {
+                "code": "peace_example_let-s-enjoy-some-peace-and-quiet",
+                "text": "Let's enjoy some peace and quiet."
+            },
+            {
+                "code": "peace_example_the-barking-dog-constantly-disturbs-the-peace",
+                "text": "The barking dog constantly disturbs the peace."
+            },
+            {
+                "code": "peace_example_she-made-peace-with-her-father",
+                "text": "She made peace with her father."
+            },
+            {
+                "code": "peace_example_protestors-have-disturbed-the-peace-talks",
+                "text": "Protestors have disturbed the peace talks."
+            },
+            {
+                "code": "peace_example_the-country-has-broken-the-peace-agreement",
+                "text": "The country has broken the peace agreement."
+            },
+            {
+                "code": "peace_example_we-have-organized-a-peace-march",
+                "text": "We have organized a peace march."
+            },
+            {
+                "code": "peace_example_she-made-a-peace-offering-with-cookies",
+                "text": "She made a peace offering with cookies."
+            },
+            {
+                "code": "peace_example_the-two-countries-have-made-peace-with-each-other",
+                "text": "The two countries have made peace with each other."
+            },
+            {
+                "code": "peace_example_she-is-finally-at-peace",
+                "text": "She is finally at peace."
+            },
+            {
+                "code": "peace_example_there-has-not-been-peace-between-the-two-countries-for-many-decades",
+                "text": "There has not been peace between the two countries for many decades."
+            },
+            {
+                "code": "peace_example_can-we-live-in-peace-please",
+                "text": "Can we live in peace, please?"
+            }
+        ]
+    }
+]

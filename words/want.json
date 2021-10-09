@@ -1,0 +1,32 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to feel that you would like to have, do or get something",
+        "examples": [
+            {
+                "code": "want_example_he-really-wants-to-go-to-the-concert",
+                "text": "He really wants to go to the concert."
+            },
+            {
+                "code": "want_example_he-just-wants-a-toy-car-for-his-birthday",
+                "text": "He just wants a toy car for his birthday."
+            },
+            {
+                "code": "want_example_i-truly-want-you-to-be-happy",
+                "text": "I truly want you to be happy."
+            },
+            {
+                "code": "want_example_she-always-wants-to-join-us",
+                "text": "She always wants to join us."
+            },
+            {
+                "code": "want_example_i-want-an-answer",
+                "text": "I want an answer."
+            },
+            {
+                "code": "want_example_they-want-attention",
+                "text": "They want attention."
+            }
+        ]
+    }
+]

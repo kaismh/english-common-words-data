@@ -1,0 +1,62 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to go away from a person or place",
+        "examples": [
+            {
+                "code": "leave_example_we-decided-to-leave",
+                "text": "We decided to leave."
+            },
+            {
+                "code": "leave_example_i-was-ready-to-leave",
+                "text": "I was ready to leave."
+            },
+            {
+                "code": "leave_example_the-workers-threatened-to-leave",
+                "text": "The workers threatened to leave."
+            },
+            {
+                "code": "leave_example_she-asked-them-to-leave",
+                "text": "She asked them to leave."
+            },
+            {
+                "code": "leave_example_he-didn-t-let-them-leave",
+                "text": "He didn't let them leave."
+            },
+            {
+                "code": "leave_example_he-is-leaving-for-college-today",
+                "text": "He is leaving for college today."
+            }
+        ]
+    },
+    {
+        "type": "(n)",
+        "mean": "a period of time when you have official permission to be absent",
+        "examples": [
+            {
+                "code": "leave_example_he-has-been-on-paid-leave-since-the-accident",
+                "text": "He has been on paid leave since the accident."
+            },
+            {
+                "code": "leave_example_she-was-gone-for-three-months-on-maternity-leave",
+                "text": "She was gone for three months on maternity leave."
+            },
+            {
+                "code": "leave_example_she-has-ten-days-of-sick-leave",
+                "text": "She has ten days of sick leave."
+            },
+            {
+                "code": "leave_example_he-was-granted-medical-leave",
+                "text": "He was granted medical leave."
+            },
+            {
+                "code": "leave_example_i-asked-for-maternity-leave",
+                "text": "I asked for maternity leave."
+            },
+            {
+                "code": "leave_example_she-is-on-medical-leave-until-next-week",
+                "text": "She is on medical leave until next week."
+            }
+        ]
+    }
+]

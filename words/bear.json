@@ -1,0 +1,78 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to deal with or accept something unpleasant; to support or carry; to produce something",
+        "examples": [
+            {
+                "code": "bear_example_i-cannot-bear-this-heat",
+                "text": "I cannot bear this heat."
+            },
+            {
+                "code": "bear_example_i-can-bear-the-punishment",
+                "text": "I can bear the punishment."
+            },
+            {
+                "code": "bear_example_i-ll-have-to-bear-the-responsibility-for-this-mess",
+                "text": "I'll have to bear the responsibility for this mess."
+            },
+            {
+                "code": "bear_example_the-schools-will-heavily-bear-the-consequences-of-tax-cuts",
+                "text": "The schools will heavily bear the consequences of tax cuts."
+            },
+            {
+                "code": "bear_example_the-banner-bears-a-controversial-message",
+                "text": "The banner bears a controversial message."
+            },
+            {
+                "code": "bear_example_the-poster-bears-the-new-logo",
+                "text": "The poster bears the new logo."
+            },
+            {
+                "code": "bear_example_the-tree-wouldn-t-bear-fruit",
+                "text": "The tree wouldn't bear fruit."
+            },
+            {
+                "code": "bear_example_i-don-t-bear-animosity-toward-you",
+                "text": "I don't bear animosity toward you."
+            },
+            {
+                "code": "bear_example_they-must-all-bear-some-of-the-blame",
+                "text": "They must all bear some of the blame."
+            },
+            {
+                "code": "bear_example_i-cannot-bear-weight-on-my-feet-after-the-surgery",
+                "text": "I cannot bear weight on my feet after the surgery."
+            },
+            {
+                "code": "bear_example_she-bears-a-striking-likeness-to-her-mother",
+                "text": "She bears a striking likeness to her mother."
+            },
+            {
+                "code": "bear_example_she-cannot-bear-children",
+                "text": "She cannot bear children."
+            },
+            {
+                "code": "bear_example_he-came-bearing-gifts",
+                "text": "He came bearing gifts."
+            }
+        ]
+    },
+    {
+        "type": "(n)",
+        "mean": "a large wild animal with thick fur",
+        "examples": [
+            {
+                "code": "bear_example_be-careful-of-grizzly-bears-in-the-area",
+                "text": "Be careful of grizzly bears in the area."
+            },
+            {
+                "code": "bear_example_he-is-going-out-on-a-bear-hunt",
+                "text": "He is going out on a bear hunt."
+            },
+            {
+                "code": "bear_example_he-was-setting-bear-traps",
+                "text": "He was setting bear traps."
+            }
+        ]
+    }
+]

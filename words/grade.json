@@ -1,0 +1,102 @@
+[
+    {
+        "type": "(n)",
+        "mean": "level or quality; level of importance; mark given for schoolwork; level in school",
+        "examples": [
+            {
+                "code": "grade_example_this-is-high-grade-material",
+                "text": "This is high grade material."
+            },
+            {
+                "code": "grade_example_this-pay-grade-will-receive-a-bonus",
+                "text": "This pay grade will receive a bonus."
+            },
+            {
+                "code": "grade_example_i-m-waiting-for-my-final-grades",
+                "text": "I'm waiting for my final grades."
+            },
+            {
+                "code": "grade_example_she-always-gets-good-grades",
+                "text": "She always gets good grades."
+            },
+            {
+                "code": "grade_example_his-parents-were-angry-about-his-bad-grades",
+                "text": "His parents were angry about his bad grades."
+            },
+            {
+                "code": "grade_example_i-need-to-get-a-passing-grade-in-this-class-to-graduate",
+                "text": "I need to get a passing grade in this class to graduate."
+            },
+            {
+                "code": "grade_example_he-will-be-in-first-grade-next-year",
+                "text": "He will be in first grade next year."
+            },
+            {
+                "code": "grade_example_she-always-gets-high-grades",
+                "text": "She always gets high grades."
+            },
+            {
+                "code": "grade_example_i-received-a-good-grade-on-my-final-report",
+                "text": "I received a good grade on my final report."
+            },
+            {
+                "code": "grade_example_he-s-trying-to-improve-his-grades",
+                "text": "He's trying to improve his grades."
+            },
+            {
+                "code": "grade_example_this-teacher-rarely-gives-high-grades",
+                "text": "This teacher rarely gives high grades."
+            },
+            {
+                "code": "grade_example_he-is-entering-third-grade",
+                "text": "He is entering third grade."
+            },
+            {
+                "code": "grade_example_she-teaches-fifth-grade",
+                "text": "She teaches fifth grade."
+            },
+            {
+                "code": "grade_example_he-skipped-fourth-grade",
+                "text": "He skipped fourth grade."
+            },
+            {
+                "code": "grade_example_he-has-poor-reading-skills-for-his-grade-level",
+                "text": "He has poor reading skills for his grade level."
+            },
+            {
+                "code": "grade_example_she-works-at-a-grade-school",
+                "text": "She works at a grade school."
+            },
+            {
+                "code": "grade_example_he-is-in-the-eighth-grade",
+                "text": "He is in the eighth grade."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to arrange in groups; to give a score on schoolwork",
+        "examples": [
+            {
+                "code": "grade_example_the-materials-have-been-carefully-graded-for-lower-level-learners",
+                "text": "The materials have been carefully graded for lower level learners."
+            },
+            {
+                "code": "grade_example_he-always-grades-fairly",
+                "text": "He always grades fairly."
+            },
+            {
+                "code": "grade_example_the-books-are-graded-according-to-difficulty",
+                "text": "The books are graded according to difficulty."
+            },
+            {
+                "code": "grade_example_the-gems-are-graded-by-weight",
+                "text": "The gems are graded by weight."
+            },
+            {
+                "code": "grade_example_he-spent-last-night-grading-homework",
+                "text": "He spent last night grading homework."
+            }
+        ]
+    }
+]

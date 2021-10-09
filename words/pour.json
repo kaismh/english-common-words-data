@@ -1,0 +1,64 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to make liquid flow; to move quickly and in large amounts",
+        "examples": [
+            {
+                "code": "pour_example_sunlight-poured-in-through-the-window",
+                "text": "Sunlight poured in through the window."
+            },
+            {
+                "code": "pour_example_can-you-pour-me-some-more-wine",
+                "text": "Can you pour me some more wine?"
+            },
+            {
+                "code": "pour_example_i-poured-her-another-drink",
+                "text": "I poured her another drink."
+            },
+            {
+                "code": "pour_example_they-poured-concrete-into-the-hole",
+                "text": "They poured concrete into the hole."
+            },
+            {
+                "code": "pour_example_she-poured-the-batter-into-the-cake-mold",
+                "text": "She poured the batter into the cake mold."
+            },
+            {
+                "code": "pour_example_smoke-poured-out-of-the-building",
+                "text": "Smoke poured out of the building."
+            },
+            {
+                "code": "pour_example_he-carefully-poured-the-boiling-water",
+                "text": "He carefully poured the boiling water."
+            },
+            {
+                "code": "pour_example_she-quickly-poured-herself-a-glass-of-iced-tea",
+                "text": "She quickly poured herself a glass of iced tea."
+            },
+            {
+                "code": "pour_example_she-poured-out-the-spoiled-milk",
+                "text": "She poured out the spoiled milk."
+            },
+            {
+                "code": "pour_example_i-poured-water-into-a-glass",
+                "text": "I poured water into a glass."
+            },
+            {
+                "code": "pour_example_i-poured-a-cup-of-coffee-from-the-pot",
+                "text": "I poured a cup of coffee from the pot."
+            },
+            {
+                "code": "pour_example_the-smoke-poured-out-of-the-roof",
+                "text": "The smoke poured out of the roof."
+            },
+            {
+                "code": "pour_example_he-poured-alcohol-over-the-cut",
+                "text": "He poured alcohol over the cut."
+            },
+            {
+                "code": "pour_example_the-light-poured-in-through-the-window",
+                "text": "The light poured in through the window."
+            }
+        ]
+    }
+]

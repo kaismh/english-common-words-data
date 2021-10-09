@@ -1,0 +1,56 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the season between spring and fall/autumn; the warmest period of the year",
+        "examples": [
+            {
+                "code": "summer_example_we-went-to-hawaii-last-summer",
+                "text": "We went to Hawaii last summer."
+            },
+            {
+                "code": "summer_example_we-are-going-to-the-bahamas-next-summer",
+                "text": "We are going to the Bahamas next summer."
+            },
+            {
+                "code": "summer_example_some-children-go-back-to-school-in-late-summer",
+                "text": "Some children go back to school in late summer."
+            },
+            {
+                "code": "summer_example_we-start-planning-our-camping-trip-in-early-summer",
+                "text": "We start planning our camping trip in early summer."
+            },
+            {
+                "code": "summer_example_it-s-been-a-hot-summer",
+                "text": "It's been a hot summer."
+            },
+            {
+                "code": "summer_example_i-m-looking-forward-to-a-long-summer",
+                "text": "I'm looking forward to a long summer."
+            },
+            {
+                "code": "summer_example_we-can-t-handle-the-summer-heat",
+                "text": "We can't handle the summer heat."
+            },
+            {
+                "code": "summer_example_i-enjoy-looking-out-at-the-summer-sky",
+                "text": "I enjoy looking out at the summer sky."
+            },
+            {
+                "code": "summer_example_my-parents-are-making-me-go-to-summer-school",
+                "text": "My parents are making me go to summer school."
+            },
+            {
+                "code": "summer_example_i-can-t-wait-until-summer-vacation",
+                "text": "I can't wait until summer vacation."
+            },
+            {
+                "code": "summer_example_i-need-to-find-a-summer-job",
+                "text": "I need to find a summer job."
+            },
+            {
+                "code": "summer_example_we-look-forward-to-watching-the-summer-olympics",
+                "text": "We look forward to watching the Summer Olympics."
+            }
+        ]
+    }
+]

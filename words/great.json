@@ -1,0 +1,210 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "very good; large in amount, degree or size",
+        "examples": [
+            {
+                "code": "great_example_they-worked-very-hard-to-become-great",
+                "text": "They worked very hard to become great."
+            },
+            {
+                "code": "great_example_he-is-a-great-man",
+                "text": "He is a great man."
+            },
+            {
+                "code": "great_example_she-looks-great",
+                "text": "She looks great."
+            },
+            {
+                "code": "great_example_the-dish-smells-great",
+                "text": "The dish smells great."
+            },
+            {
+                "code": "great_example_he-was-a-truly-great-leader",
+                "text": "He was a truly great leader."
+            },
+            {
+                "code": "great_example_that-s-just-a-great-idea",
+                "text": "That's just a great idea."
+            },
+            {
+                "code": "great_example_he-seems-absolutely-great",
+                "text": "He seems absolutely great."
+            },
+            {
+                "code": "great_example_she-has-a-great-ability-for-problem-solving",
+                "text": "She has a great ability for problem solving."
+            },
+            {
+                "code": "great_example_that-is-a-great-accomplishment",
+                "text": "That is a great accomplishment."
+            },
+            {
+                "code": "great_example_i-want-to-be-a-great-actor",
+                "text": "I want to be a great actor."
+            },
+            {
+                "code": "great_example_she-s-planning-a-great-adventure-for-next-summer",
+                "text": "She's planning a great adventure for next summer."
+            },
+            {
+                "code": "great_example_he-had-a-great-advantage",
+                "text": "He had a great advantage."
+            },
+            {
+                "code": "great_example_they-put-out-a-great-album",
+                "text": "They put out a great album."
+            },
+            {
+                "code": "great_example_he-has-a-great-appetite",
+                "text": "He has a great appetite."
+            },
+            {
+                "code": "great_example_i-just-read-a-great-article",
+                "text": "I just read a great article."
+            },
+            {
+                "code": "great_example_she-got-a-great-bargain-on-her-new-furniture",
+                "text": "She got a great bargain on her new furniture."
+            },
+            {
+                "code": "great_example_he-made-a-great-breakthrough-in-his-research",
+                "text": "He made a great breakthrough in his research."
+            },
+            {
+                "code": "great_example_it-will-be-hard-to-recover-from-such-a-great-disaster",
+                "text": "It will be hard to recover from such a great disaster."
+            },
+            {
+                "code": "great_example_there-are-many-great-cathedrals-in-italy",
+                "text": "There are many great cathedrals in Italy."
+            },
+            {
+                "code": "great_example_there-was-a-great-celebration-when-the-war-ended",
+                "text": "There was a great celebration when the war ended."
+            },
+            {
+                "code": "great_example_this-has-been-a-great-challenge",
+                "text": "This has been a great challenge."
+            },
+            {
+                "code": "great_example_she-has-been-a-great-comfort-to-me",
+                "text": "She has been a great comfort to me."
+            },
+            {
+                "code": "great_example_they-made-a-great-comeback",
+                "text": "They made a great comeback."
+            },
+            {
+                "code": "great_example_the-museum-has-a-great-collection-of-his-work",
+                "text": "The museum has a great collection of his work."
+            },
+            {
+                "code": "great_example_she-has-great-confidence",
+                "text": "She has great confidence."
+            },
+            {
+                "code": "great_example_there-is-great-danger-there",
+                "text": "There is great danger there."
+            },
+            {
+                "code": "great_example_we-are-at-a-great-disadvantage",
+                "text": "We are at a great disadvantage."
+            },
+            {
+                "code": "great_example_there-is-a-great-divide-between-the-two-sides",
+                "text": "There is a great divide between the two sides."
+            },
+            {
+                "code": "great_example_she-does-everything-with-great-ease",
+                "text": "She does everything with great ease."
+            },
+            {
+                "code": "great_example_that-was-a-great-embarrassment",
+                "text": "That was a great embarrassment."
+            },
+            {
+                "code": "great_example_he-had-a-great-experience-living-abroad",
+                "text": "He had a great experience living abroad."
+            },
+            {
+                "code": "great_example_they-looked-out-over-the-great-expanse-of-land",
+                "text": "They looked out over the great expanse of land."
+            },
+            {
+                "code": "great_example_the-teacher-gave-a-great-example",
+                "text": "The teacher gave a great example."
+            },
+            {
+                "code": "great_example_i-try-to-be-a-great-friend",
+                "text": "I try to be a great friend."
+            },
+            {
+                "code": "great_example_he-has-a-great-future-ahead-of-him",
+                "text": "He has a great future ahead of him."
+            },
+            {
+                "code": "great_example_my-parents-placed-great-importance-on-getting-good-grades",
+                "text": "My parents placed great importance on getting good grades."
+            },
+            {
+                "code": "great_example_nelson-mandela-is-a-great-leader",
+                "text": "Nelson Mandela is a great leader."
+            },
+            {
+                "code": "great_example_we-are-making-great-progress",
+                "text": "We are making great progress."
+            },
+            {
+                "code": "great_example_this-will-be-a-great-opportunity",
+                "text": "This will be a great opportunity."
+            },
+            {
+                "code": "great_example_the-event-was-a-great-success",
+                "text": "The event was a great success."
+            },
+            {
+                "code": "great_example_that-was-a-great-idea",
+                "text": "That was a great idea!"
+            },
+            {
+                "code": "great_example_we-are-off-to-a-great-start",
+                "text": "We are off to a great start."
+            },
+            {
+                "code": "great_example_he-shows-great-potential",
+                "text": "He shows great potential."
+            },
+            {
+                "code": "great_example_this-school-has-a-great-reputation",
+                "text": "This school has a great reputation."
+            },
+            {
+                "code": "great_example_there-was-great-turnout-at-the-event",
+                "text": "There was great turnout at the event."
+            },
+            {
+                "code": "great_example_they-performed-a-great-tribute-to-him",
+                "text": "They performed a great tribute to him."
+            },
+            {
+                "code": "great_example_he-has-a-great-sense-of-humor",
+                "text": "He has a great sense of humor."
+            },
+            {
+                "code": "great_example_this-was-a-great-year",
+                "text": "This was a great year."
+            }
+        ]
+    },
+    {
+        "type": "(adv)",
+        "mean": "very well",
+        "examples": [
+            {
+                "code": "great_example_the-machine-works-great",
+                "text": "The machine works great."
+            }
+        ]
+    }
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a very strong feeling of desire",
+        "examples": [
+            {
+                "code": "passion_example_she-has-a-lifelong-passion-for-learning",
+                "text": "She has a lifelong passion for learning."
+            },
+            {
+                "code": "passion_example_he-had-a-secret-passion-to-be-a-professional-baseball-player",
+                "text": "He had a secret passion to be a professional baseball player."
+            },
+            {
+                "code": "passion_example_they-have-a-shared-passion-for-mission-work",
+                "text": "They have a shared passion for mission work."
+            },
+            {
+                "code": "passion_example_playing-a-round-of-golf-ignited-his-passion-for-the-sport",
+                "text": "Playing a round of golf ignited his passion for the sport."
+            },
+            {
+                "code": "passion_example_she-is-filled-with-great-passion-for-her-longtime-friend",
+                "text": "She is filled with great passion for her longtime friend."
+            },
+            {
+                "code": "passion_example_they-share-a-passion-for-good-books",
+                "text": "They share a passion for good books."
+            },
+            {
+                "code": "passion_example_he-lacks-any-kind-of-passion-in-his-life",
+                "text": "He lacks any kind of passion in his life."
+            },
+            {
+                "code": "passion_example_she-is-pursuing-her-passion-for-ice-skating",
+                "text": "She is pursuing her passion for ice skating."
+            },
+            {
+                "code": "passion_example_he-has-a-real-passion-for-gardening",
+                "text": "He has a real passion for gardening."
+            },
+            {
+                "code": "passion_example_there-was-no-more-passion-between-them",
+                "text": "There was no more passion between them."
+            },
+            {
+                "code": "passion_example_she-does-things-with-great-passion",
+                "text": "She does things with great passion."
+            }
+        ]
+    }
+]

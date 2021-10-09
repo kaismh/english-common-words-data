@@ -1,0 +1,44 @@
+[
+    {
+        "type": "(adv)",
+        "mean": "at a short distance",
+        "examples": [
+            {
+                "code": "closely_example_the-two-people-have-been-closely-involved-for-many-years",
+                "text": "The two people have been closely involved for many years."
+            },
+            {
+                "code": "closely_example_the-police-discovered-that-the-two-crimes-are-closely-related",
+                "text": "The police discovered that the two crimes are closely related."
+            },
+            {
+                "code": "closely_example_we-are-closely-approaching-the-end-of-the-project",
+                "text": "We are closely approaching the end of the project."
+            },
+            {
+                "code": "closely_example_let-s-compare-the-two-items-closely",
+                "text": "Let's compare the two items closely."
+            },
+            {
+                "code": "closely_example_they-examined-the-evidence-closely-before-making-a-verdict",
+                "text": "They examined the evidence closely before making a verdict."
+            },
+            {
+                "code": "closely_example_we-closely-followed-the-election-results-all-evening",
+                "text": "We closely followed the election results all evening."
+            },
+            {
+                "code": "closely_example_listen-closely-for-any-drips",
+                "text": "Listen closely for any drips."
+            },
+            {
+                "code": "closely_example_look-at-the-details-closely",
+                "text": "Look at the details closely."
+            },
+            {
+                "code": "closely_example_watch-closely-for-any-changes-in-color",
+                "text": "Watch closely for any changes in color."
+            }
+        ]
+    }
+]

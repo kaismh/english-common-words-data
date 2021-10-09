@@ -1,0 +1,44 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a guess made by thinking what might happen resulting in winning money or a prize",
+        "examples": [
+            {
+                "code": "bet_example_putting-your-money-on-that-horse-was-a-good-bet",
+                "text": "Putting your money on that horse was a good bet."
+            },
+            {
+                "code": "bet_example_he-lost-his-money-on-a-bad-bet",
+                "text": "He lost his money on a bad bet."
+            },
+            {
+                "code": "bet_example_he-placed-a-large-bet-on-the-game",
+                "text": "He placed a large bet on the game."
+            },
+            {
+                "code": "bet_example_he-placed-a-large-bet-in-the-casino",
+                "text": "He placed a large bet in the casino."
+            },
+            {
+                "code": "bet_example_my-friend-and-i-have-a-bet-on-this-match",
+                "text": "My friend and I have a bet on this match."
+            },
+            {
+                "code": "bet_example_i-probably-shouldn-t-take-that-bet",
+                "text": "I probably shouldn't take that bet."
+            },
+            {
+                "code": "bet_example_she-lost-the-bet",
+                "text": "She lost the bet."
+            },
+            {
+                "code": "bet_example_i-placed-a-bet-on-last-year-s-winning-team",
+                "text": "I placed a bet on last year's winning team."
+            },
+            {
+                "code": "bet_example_i-made-a-bet-with-my-parents",
+                "text": "I made a bet with my parents."
+            }
+        ]
+    }
+]

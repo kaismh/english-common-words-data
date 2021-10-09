@@ -1,0 +1,50 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a clever plan; the way something is designed",
+        "examples": [
+            {
+                "code": "scheme_example_james-proposed-a-detailed-scheme-to-the-group",
+                "text": "James proposed a detailed scheme to the group."
+            },
+            {
+                "code": "scheme_example_i-like-the-color-scheme-of-this-apartment",
+                "text": "I like the color scheme of this apartment."
+            },
+            {
+                "code": "scheme_example_the-detective-solved-the-robber-s-scheme",
+                "text": "The detective solved the robber's scheme."
+            },
+            {
+                "code": "scheme_example_he-has-a-brilliant-scheme-to-attract-customers",
+                "text": "He has a brilliant scheme to attract customers."
+            },
+            {
+                "code": "scheme_example_please-design-a-color-scheme-for-our-kitchen",
+                "text": "Please design a color scheme for our kitchen."
+            },
+            {
+                "code": "scheme_example_the-thieves-thought-up-an-evil-scheme-to-steal-people-s-money",
+                "text": "The thieves thought up an evil scheme to steal people's money."
+            },
+            {
+                "code": "scheme_example_their-scheme-to-take-over-the-company-was-exposed",
+                "text": "Their scheme to take over the company was exposed."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to plan something clever",
+        "examples": [
+            {
+                "code": "scheme_example_they-are-secretly-scheming-to-take-over-the-company",
+                "text": "They are secretly scheming to take over the company."
+            },
+            {
+                "code": "scheme_example_he-is-always-scheming-of-ways-to-get-control-of-the-business",
+                "text": "He is always scheming of ways to get control of the business."
+            }
+        ]
+    }
+]

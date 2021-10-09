@@ -1,0 +1,68 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the knowledge of how something works or how someone feels; an agreement",
+        "examples": [
+            {
+                "code": "understanding_example_he-showed-a-complete-understanding-of-the-subject",
+                "text": "He showed a complete understanding of the subject."
+            },
+            {
+                "code": "understanding_example_she-has-a-general-understanding-of-math-concepts",
+                "text": "She has a general understanding of math concepts."
+            },
+            {
+                "code": "understanding_example_i-need-a-better-understanding-of-what-is-going-on",
+                "text": "I need a better understanding of what is going on."
+            },
+            {
+                "code": "understanding_example_that-is-the-common-understanding-around-here",
+                "text": "That is the common understanding around here."
+            },
+            {
+                "code": "understanding_example_we-have-a-mutual-understanding-of-who-does-the-household-chores",
+                "text": "We have a mutual understanding of who does the household chores."
+            },
+            {
+                "code": "understanding_example_i-have-little-understanding-in-the-field-of-physics",
+                "text": "I have little understanding in the field of physics."
+            },
+            {
+                "code": "understanding_example_the-documentary-will-provide-a-better-understanding-of-global-warming",
+                "text": "The documentary will provide a better understanding of global warming."
+            },
+            {
+                "code": "understanding_example_he-lacks-the-understanding-of-basic-cooking-skills",
+                "text": "He lacks the understanding of basic cooking skills."
+            },
+            {
+                "code": "understanding_example_she-showed-a-complete-understanding-of-what-she-learned-in-class",
+                "text": "She showed a complete understanding of what she learned in class."
+            },
+            {
+                "code": "understanding_example_this-book-will-improve-her-understanding-of-business-management",
+                "text": "This book will improve her understanding of business management."
+            },
+            {
+                "code": "understanding_example_they-achieved-a-mutual-understanding",
+                "text": "They achieved a mutual understanding."
+            },
+            {
+                "code": "understanding_example_do-you-have-a-clear-understanding-of-what-is-going-on",
+                "text": "Do you have a clear understanding of what is going on?"
+            },
+            {
+                "code": "understanding_example_thanks-for-your-understanding",
+                "text": "Thanks for your understanding."
+            },
+            {
+                "code": "understanding_example_this-topic-is-beyond-my-understanding",
+                "text": "This topic is beyond my understanding."
+            },
+            {
+                "code": "understanding_example_we-have-a-clear-understanding-with-each-other",
+                "text": "We have a clear understanding with each other."
+            }
+        ]
+    }
+]

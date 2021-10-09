@@ -1,0 +1,52 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "exact; particular",
+        "examples": [
+            {
+                "code": "specific_example_she-needs-to-be-more-specific-with-her-instructions",
+                "text": "She needs to be more specific with her instructions."
+            },
+            {
+                "code": "specific_example_he-is-very-specific-about-his-food",
+                "text": "He is very specific about his food."
+            },
+            {
+                "code": "specific_example_her-demands-were-rather-specific",
+                "text": "Her demands were rather specific."
+            },
+            {
+                "code": "specific_example_the-bride-was-very-specific-about-her-wedding-gown",
+                "text": "The bride was very specific about her wedding gown."
+            },
+            {
+                "code": "specific_example_certain-issues-are-specific-to-men",
+                "text": "Certain issues are specific to men."
+            },
+            {
+                "code": "specific_example_what-is-your-specific-aim",
+                "text": "What is your specific aim?"
+            },
+            {
+                "code": "specific_example_he-was-put-in-a-specific-category",
+                "text": "He was put in a specific category."
+            },
+            {
+                "code": "specific_example_i-don-t-have-a-specific-date",
+                "text": "I don't have a specific date."
+            },
+            {
+                "code": "specific_example_she-didn-t-give-specific-directions",
+                "text": "She didn't give specific directions."
+            },
+            {
+                "code": "specific_example_it-has-a-specific-function",
+                "text": "It has a specific function."
+            },
+            {
+                "code": "specific_example_she-had-a-specific-request",
+                "text": "She had a specific request."
+            }
+        ]
+    }
+]

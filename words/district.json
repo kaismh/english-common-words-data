@@ -1,0 +1,56 @@
+[
+    {
+        "type": "(n)",
+        "mean": "an area of a city or country",
+        "examples": [
+            {
+                "code": "district_example_the-neighboring-district-is-big",
+                "text": "The neighboring district is big."
+            },
+            {
+                "code": "district_example_the-restaurant-is-in-the-central-district",
+                "text": "The restaurant is in the central district."
+            },
+            {
+                "code": "district_example_the-northern-district-has-government-buildings",
+                "text": "The northern district has government buildings."
+            },
+            {
+                "code": "district_example_you-can-tell-this-is-the-rich-district",
+                "text": "You can tell this is the rich district."
+            },
+            {
+                "code": "district_example_she-lives-in-the-coastal-district-of-town",
+                "text": "She lives in the coastal district of town."
+            },
+            {
+                "code": "district_example_he-moved-near-the-business-district",
+                "text": "He moved near the business district."
+            },
+            {
+                "code": "district_example_the-city-planner-will-create-a-new-district",
+                "text": "The city planner will create a new district."
+            },
+            {
+                "code": "district_example_she-represents-the-local-district",
+                "text": "She represents the local district."
+            },
+            {
+                "code": "district_example_the-district-includes-many-good-schools",
+                "text": "The district includes many good schools."
+            },
+            {
+                "code": "district_example_our-district-offers-many-community-programs",
+                "text": "Our district offers many community programs."
+            },
+            {
+                "code": "district_example_contact-the-district-attorney",
+                "text": "Contact the district attorney."
+            },
+            {
+                "code": "district_example_this-is-the-best-hotel-in-the-district",
+                "text": "This is the best hotel in the district."
+            }
+        ]
+    }
+]

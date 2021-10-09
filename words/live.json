@@ -1,0 +1,118 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to have a home in a particular place or way; to be alive",
+        "examples": [
+            {
+                "code": "live_example_my-brother-lives-alone-in-the-city",
+                "text": "My brother lives alone in the city."
+            },
+            {
+                "code": "live_example_they-live-together-in-an-apartment",
+                "text": "They live together in an apartment."
+            },
+            {
+                "code": "live_example_the-two-sisters-have-lived-apart-for-many-years",
+                "text": "The two sisters have lived apart for many years."
+            },
+            {
+                "code": "live_example_i-m-planning-to-live-here-permanently",
+                "text": "I'm planning to live here permanently."
+            },
+            {
+                "code": "live_example_people-are-living-longer-these-days",
+                "text": "People are living longer these days."
+            },
+            {
+                "code": "live_example_his-friends-live-comfortably-in-a-nice-neighborhood",
+                "text": "His friends live comfortably in a nice neighborhood."
+            },
+            {
+                "code": "live_example_she-wants-to-live-forever",
+                "text": "She wants to live forever."
+            },
+            {
+                "code": "live_example_they-live-dangerously-in-the-city",
+                "text": "They live dangerously in the city."
+            },
+            {
+                "code": "live_example_we-got-to-live-in-europe-when-i-was-a-child",
+                "text": "We got to live in Europe when I was a child."
+            },
+            {
+                "code": "live_example_she-has-lived-at-the-same-home-for-10-years",
+                "text": "She has lived at the same home for 10 years."
+            },
+            {
+                "code": "live_example_he-lives-in-san-francisco",
+                "text": "He lives in San Francisco."
+            },
+            {
+                "code": "live_example_many-people-live-in-poverty",
+                "text": "Many people live in poverty."
+            },
+            {
+                "code": "live_example_they-live-near-the-university",
+                "text": "They live near the university."
+            },
+            {
+                "code": "live_example_she-still-lives-with-her-parents",
+                "text": "She still lives with her parents."
+            },
+            {
+                "code": "live_example_his-friend-is-living-with-aids",
+                "text": "His friend is living with AIDS."
+            },
+            {
+                "code": "live_example_my-son-can-t-live-without-his-cell-phone",
+                "text": "My son can't live without his cell phone."
+            },
+            {
+                "code": "live_example_my-grandparents-lived-through-two-wars",
+                "text": "My grandparents lived through two wars."
+            }
+        ]
+    },
+    {
+        "type": "(adj)",
+        "mean": "happening in the physical presence",
+        "examples": [
+            {
+                "code": "live_example_the-band-is-appearing-live-on-television",
+                "text": "The band is appearing live on television."
+            },
+            {
+                "code": "live_example_the-journalist-is-reporting-live-from-the-scene-of-the-crime",
+                "text": "The journalist is reporting live from the scene of the crime."
+            },
+            {
+                "code": "live_example_i-would-rather-watch-the-game-live-than-record-it",
+                "text": "I would rather watch the game live than record it."
+            },
+            {
+                "code": "live_example_they-will-show-the-game-live-on-television",
+                "text": "They will show the game live on television."
+            },
+            {
+                "code": "live_example_the-band-made-a-live-appearance-on-the-show",
+                "text": "The band made a live appearance on the show."
+            },
+            {
+                "code": "live_example_there-is-live-coverage-of-the-game",
+                "text": "There is live coverage of the game."
+            },
+            {
+                "code": "live_example_they-gave-a-live-performance-at-the-park",
+                "text": "They gave a live performance at the park."
+            },
+            {
+                "code": "live_example_they-performed-in-front-of-a-live-audience",
+                "text": "They performed in front of a live audience."
+            },
+            {
+                "code": "live_example_they-gave-a-live-demonstration-of-the-product",
+                "text": "They gave a live demonstration of the product."
+            }
+        ]
+    }
+]

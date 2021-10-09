@@ -1,0 +1,68 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the act of trying to win or get something; a contest or game",
+        "examples": [
+            {
+                "code": "competition_example_there-will-be-a-major-competition-for-swimming",
+                "text": "There will be a major competition for swimming."
+            },
+            {
+                "code": "competition_example_the-sports-competition-will-host-the-best-athletes-from-each-country",
+                "text": "The sports competition will host the best athletes from each country."
+            },
+            {
+                "code": "competition_example_there-is-serious-competition-between-the-two-teams",
+                "text": "There is serious competition between the two teams."
+            },
+            {
+                "code": "competition_example_he-usually-wins-the-running-competition",
+                "text": "He usually wins the running competition."
+            },
+            {
+                "code": "competition_example_let-s-have-the-spelling-competition-this-year",
+                "text": "Let's have the spelling competition this year."
+            },
+            {
+                "code": "competition_example_i-want-to-enter-the-swimming-competition",
+                "text": "I want to enter the swimming competition."
+            },
+            {
+                "code": "competition_example_he-had-to-withdraw-from-the-competition-due-to-injuries",
+                "text": "He had to withdraw from the competition due to injuries."
+            },
+            {
+                "code": "competition_example_who-is-judging-the-competition",
+                "text": "Who is judging the competition?"
+            },
+            {
+                "code": "competition_example_the-competition-takes-place-in-athens",
+                "text": "The competition takes place in Athens."
+            },
+            {
+                "code": "competition_example_the-competition-is-open-to-all-players",
+                "text": "The competition is open to all players."
+            },
+            {
+                "code": "competition_example_he-is-facing-his-toughest-competition",
+                "text": "He is facing his toughest competition."
+            },
+            {
+                "code": "competition_example_she-beat-the-competition",
+                "text": "She beat the competition."
+            },
+            {
+                "code": "competition_example_there-are-five-women-in-the-competition-this-year",
+                "text": "There are five women in the competition this year."
+            },
+            {
+                "code": "competition_example_there-is-intense-competition-between-the-two-countries",
+                "text": "There is intense competition between the two countries."
+            },
+            {
+                "code": "competition_example_she-entered-a-competition-for-the-best-cake",
+                "text": "She entered a competition for the best cake."
+            }
+        ]
+    }
+]

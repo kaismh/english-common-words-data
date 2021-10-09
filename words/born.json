@@ -1,0 +1,34 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to begin to exist",
+        "examples": [
+            {
+                "code": "born_example_their-baby-was-born-prematurely",
+                "text": "Their baby was born prematurely."
+            },
+            {
+                "code": "born_example_i-was-born-into-poverty",
+                "text": "I was born into poverty."
+            },
+            {
+                "code": "born_example_he-was-born-to-wealthy-parents",
+                "text": "He was born to wealthy parents."
+            },
+            {
+                "code": "born_example_he-was-born-with-many-medical-problems",
+                "text": "He was born with many medical problems."
+            }
+        ]
+    },
+    {
+        "type": "(adj)",
+        "mean": "having a natural ability or skill",
+        "examples": [
+            {
+                "code": "born_example_she-is-a-born-leader",
+                "text": "She is a born leader."
+            }
+        ]
+    }
+]

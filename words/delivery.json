@@ -1,0 +1,96 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the act of taking something to a person or place; the birth of a baby",
+        "examples": [
+            {
+                "code": "delivery_example_they-had-a-large-delivery",
+                "text": "They had a large delivery."
+            },
+            {
+                "code": "delivery_example_can-they-do-an-express-delivery",
+                "text": "Can they do an express delivery?"
+            },
+            {
+                "code": "delivery_example_the-delivery-was-on-time",
+                "text": "The delivery was on-time."
+            },
+            {
+                "code": "delivery_example_i-paid-extra-money-for-morning-delivery",
+                "text": "I paid extra money for morning delivery."
+            },
+            {
+                "code": "delivery_example_all-packages-are-sent-with-guaranteed-delivery",
+                "text": "All packages are sent with guaranteed delivery."
+            },
+            {
+                "code": "delivery_example_we-pay-for-newspaper-delivery",
+                "text": "We pay for newspaper delivery."
+            },
+            {
+                "code": "delivery_example_the-mother-had-a-difficult-delivery",
+                "text": "The mother had a difficult delivery."
+            },
+            {
+                "code": "delivery_example_can-you-make-a-special-delivery",
+                "text": "Can you make a special delivery?"
+            },
+            {
+                "code": "delivery_example_the-couple-gets-free-delivery",
+                "text": "The couple gets free delivery."
+            },
+            {
+                "code": "delivery_example_they-guarantee-overnight-delivery",
+                "text": "They guarantee overnight delivery."
+            },
+            {
+                "code": "delivery_example_please-order-in-advance-to-ensure-fast-delivery",
+                "text": "Please order in advance to ensure fast delivery."
+            },
+            {
+                "code": "delivery_example_how-can-we-enhance-delivery",
+                "text": "How can we enhance delivery?"
+            },
+            {
+                "code": "delivery_example_storms-will-delay-delivery",
+                "text": "Storms will delay delivery."
+            },
+            {
+                "code": "delivery_example_it-is-in-the-delivery-truck",
+                "text": "It is in the delivery truck."
+            },
+            {
+                "code": "delivery_example_the-delivery-date-is-not-available",
+                "text": "The delivery date is not available."
+            },
+            {
+                "code": "delivery_example_we-hired-a-delivery-boy",
+                "text": "We hired a delivery boy."
+            },
+            {
+                "code": "delivery_example_there-is-a-small-delivery-charge",
+                "text": "There is a small delivery charge."
+            },
+            {
+                "code": "delivery_example_the-restaurant-has-a-delivery-service",
+                "text": "The restaurant has a delivery service."
+            },
+            {
+                "code": "delivery_example_he-waited-in-the-delivery-room",
+                "text": "He waited in the delivery room."
+            },
+            {
+                "code": "delivery_example_they-prepared-several-boxes-for-delivery",
+                "text": "They prepared several boxes for delivery."
+            },
+            {
+                "code": "delivery_example_you-must-pay-him-on-delivery",
+                "text": "You must pay him on delivery."
+            },
+            {
+                "code": "delivery_example_the-pizza-place-will-deliver-to-your-office",
+                "text": "The pizza place will deliver to your office."
+            }
+        ]
+    }
+]

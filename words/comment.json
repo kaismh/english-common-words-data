@@ -1,0 +1,82 @@
+[
+    {
+        "type": "(n)",
+        "mean": "something that is written or told that gives your opinion or an explanation",
+        "examples": [
+            {
+                "code": "comment_example_he-made-a-brief-comment",
+                "text": "He made a brief comment."
+            },
+            {
+                "code": "comment_example_she-gave-positive-comments-about-the-dinner",
+                "text": "She gave positive comments about the dinner."
+            },
+            {
+                "code": "comment_example_jane-responded-poorly-to-the-negative-comment",
+                "text": "Jane responded poorly to the negative comment."
+            },
+            {
+                "code": "comment_example_a-teacher-can-help-students-by-providing-a-lot-of-helpful-comments",
+                "text": "A teacher can help students by providing a lot of helpful comments."
+            },
+            {
+                "code": "comment_example_that-was-a-very-interesting-comment",
+                "text": "That was a very interesting comment."
+            },
+            {
+                "code": "comment_example_please-provide-general-comments-in-the-box",
+                "text": "Please provide general comments in the box."
+            },
+            {
+                "code": "comment_example_she-makes-weird-comments-during-class",
+                "text": "She makes weird comments during class."
+            },
+            {
+                "code": "comment_example_submit-your-comments-in-the-box-below",
+                "text": "Submit your comments in the box below."
+            },
+            {
+                "code": "comment_example_we-welcome-all-comments-and-suggestions",
+                "text": "We welcome all comments and suggestions."
+            },
+            {
+                "code": "comment_example_our-office-received-your-comments-this-morning",
+                "text": "Our office received your comments this morning."
+            },
+            {
+                "code": "comment_example_i-was-not-feeling-well-last-night-so-please-ignore-my-comments",
+                "text": "I was not feeling well last night, so please ignore my comments."
+            },
+            {
+                "code": "comment_example_the-president-was-asked-to-comment-on-the-healthcare-issue",
+                "text": "The president was asked to comment on the healthcare issue."
+            },
+            {
+                "code": "comment_example_we-want-to-hear-comments-from-the-audience",
+                "text": "We want to hear comments from the audience."
+            },
+            {
+                "code": "comment_example_he-left-the-party-without-comment",
+                "text": "He left the party without comment."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to give an opinion or explanation about something",
+        "examples": [
+            {
+                "code": "comment_example_bill-did-not-comment-publicly-on-the-situation",
+                "text": "Bill did not comment publicly on the situation."
+            },
+            {
+                "code": "comment_example_she-quietly-commented-that-the-food-was-too-salty",
+                "text": "She quietly commented that the food was too salty."
+            },
+            {
+                "code": "comment_example_everyone-was-commenting-about-that-performance",
+                "text": "Everyone was commenting about that performance."
+            }
+        ]
+    }
+]

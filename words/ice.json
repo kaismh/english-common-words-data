@@ -1,0 +1,60 @@
+[
+    {
+        "type": "(n)",
+        "mean": "frozen water",
+        "examples": [
+            {
+                "code": "ice_example_the-thick-ice-is-hard-to-break",
+                "text": "The thick ice is hard to break."
+            },
+            {
+                "code": "ice_example_don-t-skate-on-thin-ice",
+                "text": "Don't skate on thin ice."
+            },
+            {
+                "code": "ice_example_the-melting-ice-is-making-a-puddle-of-water",
+                "text": "The melting ice is making a puddle of water."
+            },
+            {
+                "code": "ice_example_i-like-crushed-ice-in-my-drink",
+                "text": "I like crushed ice in my drink."
+            },
+            {
+                "code": "ice_example_the-ice-was-starting-to-melt-in-the-warm-room",
+                "text": "The ice was starting to melt in the warm room."
+            },
+            {
+                "code": "ice_example_ice-formed-on-the-lake",
+                "text": "Ice formed on the lake."
+            },
+            {
+                "code": "ice_example_can-i-have-a-glass-of-ice-water",
+                "text": "Can I have a glass of ice water?"
+            },
+            {
+                "code": "ice_example_the-ice-cubes-are-in-the-freezer",
+                "text": "The ice cubes are in the freezer."
+            },
+            {
+                "code": "ice_example_let-s-go-ice-skating-tomorrow",
+                "text": "Let's go ice skating tomorrow."
+            },
+            {
+                "code": "ice_example_let-s-go-to-the-ice-rink-tomorrow",
+                "text": "Let's go to the ice rink tomorrow."
+            },
+            {
+                "code": "ice_example_do-you-like-to-watch-ice-hockey",
+                "text": "Do you like to watch ice hockey?"
+            },
+            {
+                "code": "ice_example_that-is-an-amazing-ice-sculpture",
+                "text": "That is an amazing ice sculpture."
+            },
+            {
+                "code": "ice_example_they-are-skating-on-the-ice",
+                "text": "They are skating on the ice."
+            }
+        ]
+    }
+]

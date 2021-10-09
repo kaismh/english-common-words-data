@@ -1,0 +1,44 @@
+[
+    {
+        "type": "(n)",
+        "mean": "an occupation that usually requires special training or education",
+        "examples": [
+            {
+                "code": "profession_example_i-went-back-to-school-to-learn-a-new-profession",
+                "text": "I went back to school to learn a new profession."
+            },
+            {
+                "code": "profession_example_they-practice-the-same-profession",
+                "text": "They practice the same profession."
+            },
+            {
+                "code": "profession_example_i-ve-decided-to-change-my-profession",
+                "text": "I've decided to change my profession."
+            },
+            {
+                "code": "profession_example_i-thought-about-going-into-the-medical-profession",
+                "text": "I thought about going into the medical profession."
+            },
+            {
+                "code": "profession_example_teaching-is-a-good-profession",
+                "text": "Teaching is a good profession."
+            },
+            {
+                "code": "profession_example_medicine-is-my-chosen-profession",
+                "text": "Medicine is my chosen profession."
+            },
+            {
+                "code": "profession_example_she-is-a-lawyer-by-profession",
+                "text": "She is a lawyer by profession."
+            },
+            {
+                "code": "profession_example_she-went-into-the-medical-profession",
+                "text": "She went into the medical profession."
+            },
+            {
+                "code": "profession_example_there-is-a-lot-of-competition-in-my-profession",
+                "text": "There is a lot of competition in my profession."
+            }
+        ]
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a shape with four equal sides and four 90-degree angles; an open space in a town",
+        "examples": [
+            {
+                "code": "square_example_the-fabric-was-cut-into-neat-squares-to-make-a-quilt",
+                "text": "The fabric was cut into neat squares to make a quilt."
+            },
+            {
+                "code": "square_example_a-debate-will-be-held-at-the-main-square",
+                "text": "A debate will be held at the main square."
+            },
+            {
+                "code": "square_example_she-tried-to-cut-the-brownies-into-neat-squares",
+                "text": "She tried to cut the brownies into neat squares."
+            },
+            {
+                "code": "square_example_a-huge-crowed-filled-the-town-square",
+                "text": "A huge crowed filled the town square."
+            },
+            {
+                "code": "square_example_we-made-plans-to-gather-at-the-market-square",
+                "text": "We made plans to gather at the market square."
+            },
+            {
+                "code": "square_example_we-saw-a-large-crowd-in-the-main-square",
+                "text": "We saw a large crowd in the main square."
+            }
+        ]
+    },
+    {
+        "type": "(adj)",
+        "mean": "having four equal sides and four 90-degree angles",
+        "examples": [
+            {
+                "code": "square_example_the-box-is-not-perfectly-square",
+                "text": "The box is not perfectly square."
+            },
+            {
+                "code": "square_example_the-picture-frame-looks-square",
+                "text": "The picture frame looks square."
+            },
+            {
+                "code": "square_example_he-has-a-square-build",
+                "text": "He has a square build."
+            },
+            {
+                "code": "square_example_it-has-a-square-shape",
+                "text": "It has a square shape."
+            },
+            {
+                "code": "square_example_it-has-square-corners",
+                "text": "It has square corners."
+            },
+            {
+                "code": "square_example_he-has-somewhat-of-a-square-face",
+                "text": "He has somewhat of a square face."
+            }
+        ]
+    }
+]

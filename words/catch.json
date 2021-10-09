@@ -1,0 +1,62 @@
+[
+    {
+        "type": "(n)",
+        "mean": "something noticed; the act of grabbing hold of a moving object",
+        "examples": [
+            {
+                "code": "catch_example_the-football-player-made-an-awesome-catch",
+                "text": "The football player made an awesome catch."
+            },
+            {
+                "code": "catch_example_the-fisherman-had-a-big-catch-today",
+                "text": "The fisherman had a big catch today."
+            },
+            {
+                "code": "catch_example_the-baseball-player-dropped-the-catch",
+                "text": "The baseball player dropped the catch."
+            },
+            {
+                "code": "catch_example_he-made-a-great-catch",
+                "text": "He made a great catch."
+            },
+            {
+                "code": "catch_example_he-had-a-huge-catch-of-fish",
+                "text": "He had a huge catch of fish."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to notice; to grab hold of a moving object",
+        "examples": [
+            {
+                "code": "catch_example_her-sweater-catches-my-eye",
+                "text": "Her sweater catches my eye."
+            },
+            {
+                "code": "catch_example_the-camera-caught-the-entire-thing",
+                "text": "The camera caught the entire thing."
+            },
+            {
+                "code": "catch_example_the-police-caught-the-thief",
+                "text": "The police caught the thief."
+            },
+            {
+                "code": "catch_example_did-they-catch-the-killer",
+                "text": "Did they catch the killer?"
+            },
+            {
+                "code": "catch_example_i-think-i-caught-a-cold",
+                "text": "I think I caught a cold."
+            },
+            {
+                "code": "catch_example_do-you-want-to-catch-a-movie",
+                "text": "Do you want to catch a movie?"
+            },
+            {
+                "code": "catch_example_she-caught-the-ball",
+                "text": "She caught the ball."
+            }
+        ]
+    }
+]

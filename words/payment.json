@@ -1,0 +1,100 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the amount of money given for services",
+        "examples": [
+            {
+                "code": "payment_example_we-need-your-prompt-payment",
+                "text": "We need your prompt payment."
+            },
+            {
+                "code": "payment_example_there-will-be-a-fee-for-late-payments",
+                "text": "There will be a fee for late payments."
+            },
+            {
+                "code": "payment_example_we-need-the-full-payment-by-the-end-of-this-month",
+                "text": "We need the full payment by the end of this month."
+            },
+            {
+                "code": "payment_example_we-make-monthly-payments-on-the-loan",
+                "text": "We make monthly payments on the loan."
+            },
+            {
+                "code": "payment_example_we-have-been-making-regular-payments-to-the-credit-card-company",
+                "text": "We have been making regular payments to the credit card company."
+            },
+            {
+                "code": "payment_example_we-made-a-down-payment-on-the-house",
+                "text": "We made a down payment on the house."
+            },
+            {
+                "code": "payment_example_we-made-the-final-payment-on-our-house",
+                "text": "We made the final payment on our house."
+            },
+            {
+                "code": "payment_example_our-credit-card-payment-is-high",
+                "text": "Our credit card payment is high."
+            },
+            {
+                "code": "payment_example_please-make-a-payment-as-soon-as-possible",
+                "text": "Please make a payment as soon as possible."
+            },
+            {
+                "code": "payment_example_the-bank-has-authorized-the-payment",
+                "text": "The bank has authorized the payment."
+            },
+            {
+                "code": "payment_example_we-arranged-to-make-partial-payments",
+                "text": "We arranged to make partial payments."
+            },
+            {
+                "code": "payment_example_will-you-accept-partial-payment",
+                "text": "Will you accept partial payment?"
+            },
+            {
+                "code": "payment_example_we-received-the-payment-in-the-mail",
+                "text": "We received the payment in the mail."
+            },
+            {
+                "code": "payment_example_we-stopped-payment-on-the-lost-check",
+                "text": "We stopped payment on the lost check."
+            },
+            {
+                "code": "payment_example_he-refused-our-payment",
+                "text": "He refused our payment."
+            },
+            {
+                "code": "payment_example_we-delayed-payment-until-the-job-was-completed",
+                "text": "We delayed payment until the job was completed."
+            },
+            {
+                "code": "payment_example_the-credit-card-company-demanded-payment-in-full",
+                "text": "The credit card company demanded payment in full."
+            },
+            {
+                "code": "payment_example_we-cannot-afford-the-monthly-payments-anymore",
+                "text": "We cannot afford the monthly payments anymore."
+            },
+            {
+                "code": "payment_example_the-lender-increased-our-mortgage-payments",
+                "text": "The lender increased our mortgage payments."
+            },
+            {
+                "code": "payment_example_we-are-on-a-payment-plan",
+                "text": "We are on a payment plan."
+            },
+            {
+                "code": "payment_example_he-received-payment-for-the-job",
+                "text": "He received payment for the job."
+            },
+            {
+                "code": "payment_example_she-finally-received-payment-from-her-delinquent-customers",
+                "text": "She finally received payment from her delinquent customers."
+            },
+            {
+                "code": "payment_example_we-only-accept-payment-in-cash",
+                "text": "We only accept payment in cash."
+            }
+        ]
+    }
+]

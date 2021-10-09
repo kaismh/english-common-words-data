@@ -1,0 +1,32 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a chart that shows the days, weeks, and months of the year",
+        "examples": [
+            {
+                "code": "calendar_example_i-have-a-busy-calendar-this-month",
+                "text": "I have a busy calendar this month."
+            },
+            {
+                "code": "calendar_example_our-academic-calendar-is-full",
+                "text": "Our academic calendar is full."
+            },
+            {
+                "code": "calendar_example_in-our-family-we-use-the-gregorian-calendar",
+                "text": "In our family, we use the Gregorian calendar."
+            },
+            {
+                "code": "calendar_example_i-ll-have-to-check-my-calendar-to-see-if-i-m-busy",
+                "text": "I'll have to check my calendar to see if I'm busy."
+            },
+            {
+                "code": "calendar_example_i-ll-put-it-in-my-calendar",
+                "text": "I'll put it in my calendar."
+            },
+            {
+                "code": "calendar_example_mark-this-day-in-your-calendar",
+                "text": "Mark this day in your calendar."
+            }
+        ]
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "type": "(n)",
+        "mean": "someone who pays money for something; someone who is looking to purchase a particular item",
+        "examples": [
+            {
+                "code": "buyer_example_you-have-to-be-very-friendly-to-potential-buyers",
+                "text": "You have to be very friendly to potential buyers."
+            },
+            {
+                "code": "buyer_example_he-had-a-lot-of-questions-because-he-was-a-first-time-buyer",
+                "text": "He had a lot of questions because he was a first-time buyer."
+            },
+            {
+                "code": "buyer_example_home-buyers-often-take-a-long-time-to-choose",
+                "text": "Home buyers often take a long time to choose."
+            },
+            {
+                "code": "buyer_example_smart-buyers-look-for-good-deals",
+                "text": "Smart buyers look for good deals."
+            },
+            {
+                "code": "buyer_example_we-have-a-buyer-for-our-house",
+                "text": "We have a buyer for our house."
+            },
+            {
+                "code": "buyer_example_we-need-to-attract-more-buyers",
+                "text": "We need to attract more buyers."
+            },
+            {
+                "code": "buyer_example_this-damage-might-deter-buyers",
+                "text": "This damage might deter buyers."
+            },
+            {
+                "code": "buyer_example_did-you-find-a-buyer-for-your-piano",
+                "text": "Did you find a buyer for your piano?"
+            }
+        ]
+    }
+]

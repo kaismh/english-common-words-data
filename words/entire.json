@@ -1,0 +1,40 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "all of something",
+        "examples": [
+            {
+                "code": "entire_example_she-spent-the-entire-evening-doing-homework",
+                "text": "She spent the entire evening doing homework."
+            },
+            {
+                "code": "entire_example_their-entire-family-is-meeting-at-the-beach",
+                "text": "Their entire family is meeting at the beach."
+            },
+            {
+                "code": "entire_example_the-entire-neighborhood-attended-the-town-meeting",
+                "text": "The entire neighborhood attended the town meeting."
+            },
+            {
+                "code": "entire_example_they-spent-their-entire-budget-on-food",
+                "text": "They spent their entire budget on food."
+            },
+            {
+                "code": "entire_example_the-entire-document-needs-changing",
+                "text": "The entire document needs changing."
+            },
+            {
+                "code": "entire_example_she-didn-t-miss-class-the-entire-semester",
+                "text": "She didn't miss class the entire semester."
+            },
+            {
+                "code": "entire_example_she-has-been-blind-her-entire-life",
+                "text": "She has been blind her entire life."
+            },
+            {
+                "code": "entire_example_the-entire-building-had-to-be-evacuated",
+                "text": "The entire building had to be evacuated."
+            }
+        ]
+    }
+]

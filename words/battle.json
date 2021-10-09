@@ -1,0 +1,90 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a fight or competition",
+        "examples": [
+            {
+                "code": "battle_example_the-armies-fought-a-bloody-battle",
+                "text": "The armies fought a bloody battle."
+            },
+            {
+                "code": "battle_example_we-learned-about-many-epic-battles-in-history-class",
+                "text": "We learned about many epic battles in history class."
+            },
+            {
+                "code": "battle_example_she-fought-in-the-naval-battle",
+                "text": "She fought in the naval battle."
+            },
+            {
+                "code": "battle_example_they-re-preparing-for-the-coming-battle",
+                "text": "They're preparing for the coming battle."
+            },
+            {
+                "code": "battle_example_the-politicians-waged-a-bitter-battle-for-president",
+                "text": "The politicians waged a bitter battle for president."
+            },
+            {
+                "code": "battle_example_my-brother-and-i-have-an-ongoing-battle-for-the-front-seat-of-the-car",
+                "text": "My brother and I have an ongoing battle for the front seat of the car."
+            },
+            {
+                "code": "battle_example_she-s-fighting-a-losing-battle-with-cancer",
+                "text": "She's fighting a losing battle with cancer."
+            },
+            {
+                "code": "battle_example_did-you-fight-in-the-battle",
+                "text": "Did you fight in the battle?"
+            },
+            {
+                "code": "battle_example_they-won-the-battle",
+                "text": "They won the battle."
+            },
+            {
+                "code": "battle_example_they-ve-waged-battle-many-times",
+                "text": "They've waged battle many times."
+            },
+            {
+                "code": "battle_example_the-general-sent-soldiers-into-battle",
+                "text": "The general sent soldiers into battle."
+            },
+            {
+                "code": "battle_example_few-people-survived-the-battle",
+                "text": "Few people survived the battle."
+            },
+            {
+                "code": "battle_example_the-battle-will-take-place-at-dawn",
+                "text": "The battle will take place at dawn."
+            },
+            {
+                "code": "battle_example_the-lawyer-fought-a-battle-with-the-insurance-company",
+                "text": "The lawyer fought a battle with the insurance company."
+            },
+            {
+                "code": "battle_example_the-battled-raged-on-for-years",
+                "text": "The battled raged on for years."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to fight or compete",
+        "examples": [
+            {
+                "code": "battle_example_the-warriors-battled-ferociously",
+                "text": "The warriors battled ferociously."
+            },
+            {
+                "code": "battle_example_we-battled-in-vain-for-reform",
+                "text": "We battled in vain for reform."
+            },
+            {
+                "code": "battle_example_we-will-go-to-battle-against-this-country",
+                "text": "We will go to battle against this country."
+            },
+            {
+                "code": "battle_example_they-have-battled-through-many-medical-problems",
+                "text": "They have battled through many medical problems."
+            }
+        ]
+    }
+]

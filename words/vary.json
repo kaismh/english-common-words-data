@@ -1,0 +1,32 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to change or make different",
+        "examples": [
+            {
+                "code": "vary_example_airline-tickets-vary-greatly-in-price",
+                "text": "Airline tickets vary greatly in price."
+            },
+            {
+                "code": "vary_example_stocks-constantly-vary-in-price",
+                "text": "Stocks constantly vary in price."
+            },
+            {
+                "code": "vary_example_the-taste-varies-a-little-every-time-she-cooks-this-dish",
+                "text": "The taste varies a little every time she cooks this dish."
+            },
+            {
+                "code": "vary_example_color-can-vary",
+                "text": "Color can vary."
+            },
+            {
+                "code": "vary_example_hotel-rooms-vary-in-cost",
+                "text": "Hotel rooms vary in cost."
+            },
+            {
+                "code": "vary_example_the-cost-varies-by-age",
+                "text": "The cost varies by age."
+            }
+        ]
+    }
+]

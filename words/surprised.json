@@ -1,0 +1,44 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "feeling amazed or shocked unexpectedly",
+        "examples": [
+            {
+                "code": "surprised_example_she-was-very-surprised-by-his-behavior",
+                "text": "She was very surprised by his behavior."
+            },
+            {
+                "code": "surprised_example_she-was-a-little-surprised-by-the-cost-of-the-handbag",
+                "text": "She was a little surprised by the cost of the handbag."
+            },
+            {
+                "code": "surprised_example_he-was-genuinely-surprised-by-the-generous-gift",
+                "text": "He was genuinely surprised by the generous gift."
+            },
+            {
+                "code": "surprised_example_she-was-clearly-surprised-by-her-boyfriend-s-proposal",
+                "text": "She was clearly surprised by her boyfriend's proposal."
+            },
+            {
+                "code": "surprised_example_she-looked-pleasantly-surprised-to-see-her-old-friend",
+                "text": "She looked pleasantly surprised to see her old friend."
+            },
+            {
+                "code": "surprised_example_he-is-surprised-to-be-chosen-as-this-year-s-winner",
+                "text": "He is surprised to be chosen as this year's winner."
+            },
+            {
+                "code": "surprised_example_she-looks-surprised-to-see-him",
+                "text": "She looks surprised to see him."
+            },
+            {
+                "code": "surprised_example_she-was-surprised-by-her-friend-s-attitude",
+                "text": "She was surprised by her friend's attitude."
+            },
+            {
+                "code": "surprised_example_he-seems-surprised-at-the-decision",
+                "text": "He seems surprised at the decision."
+            }
+        ]
+    }
+]

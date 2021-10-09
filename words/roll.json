@@ -1,0 +1,86 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to move by turning over; to form something into a shape of a ball or tube",
+        "examples": [
+            {
+                "code": "roll_example_he-rolled-another-cigarette",
+                "text": "He rolled another cigarette."
+            },
+            {
+                "code": "roll_example_the-camera-is-rolling",
+                "text": "The camera is rolling."
+            },
+            {
+                "code": "roll_example_she-rolled-the-dice",
+                "text": "She rolled the dice."
+            },
+            {
+                "code": "roll_example_he-rolled-his-eyes",
+                "text": "He rolled his eyes."
+            },
+            {
+                "code": "roll_example_he-rolled-the-ball-to-me",
+                "text": "He rolled the ball to me."
+            },
+            {
+                "code": "roll_example_the-ball-rolled-back",
+                "text": "The ball rolled back."
+            },
+            {
+                "code": "roll_example_the-baby-carriage-was-slowly-rolling-down-the-driveway",
+                "text": "The baby carriage was slowly rolling down the driveway."
+            },
+            {
+                "code": "roll_example_she-tightly-rolled-the-ball-of-yarn",
+                "text": "She tightly rolled the ball of yarn."
+            },
+            {
+                "code": "roll_example_he-rolled-up-the-newspaper-and-used-it-to-swat-a-fly",
+                "text": "He rolled up the newspaper and used it to swat a fly."
+            },
+            {
+                "code": "roll_example_a-ball-rolled-down-the-street",
+                "text": "A ball rolled down the street."
+            },
+            {
+                "code": "roll_example_the-pencil-rolled-off-the-table",
+                "text": "The pencil rolled off the table."
+            },
+            {
+                "code": "roll_example_i-rolled-the-yarn-into-a-ball",
+                "text": "I rolled the yarn into a ball."
+            }
+        ]
+    },
+    {
+        "type": "(n)",
+        "mean": "a small round piece of baked bread; a list of names",
+        "examples": [
+            {
+                "code": "roll_example_the-teacher-is-calling-roll",
+                "text": "The teacher is calling roll."
+            },
+            {
+                "code": "roll_example_the-restaurant-serves-sweet-rolls",
+                "text": "The restaurant serves sweet rolls."
+            },
+            {
+                "code": "roll_example_we-ate-cinnamon-rolls-for-breakfast",
+                "text": "We ate cinnamon rolls for breakfast."
+            },
+            {
+                "code": "roll_example_my-son-is-on-the-honor-roll",
+                "text": "My son is on the honor roll."
+            },
+            {
+                "code": "roll_example_the-teacher-is-taking-roll-call",
+                "text": "The teacher is taking roll call."
+            },
+            {
+                "code": "roll_example_her-name-wasn-t-on-the-honor-roll",
+                "text": "Her name wasn't on the honor roll."
+            }
+        ]
+    }
+]

@@ -1,0 +1,54 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to separate and put in a particular order",
+        "examples": [
+            {
+                "code": "sort_example_she-was-carefully-sorting-her-clothes-in-her-closet",
+                "text": "She was carefully sorting her clothes in her closet."
+            },
+            {
+                "code": "sort_example_he-had-to-sort-the-books-according-to-authors-names",
+                "text": "He had to sort the books according to authors' names."
+            },
+            {
+                "code": "sort_example_please-sort-the-files-by-alphabetical-order",
+                "text": "Please sort the files by alphabetical order."
+            },
+            {
+                "code": "sort_example_we-sorted-the-toys-into-three-piles",
+                "text": "We sorted the toys into three piles."
+            },
+            {
+                "code": "sort_example_he-was-sorting-through-his-tools-in-the-garage",
+                "text": "He was sorting through his tools in the garage."
+            }
+        ]
+    },
+    {
+        "type": "(n)",
+        "mean": "a type of people or things that have similar features",
+        "examples": [
+            {
+                "code": "sort_example_they-are-the-best-sort-of-people-i-have-ever-met",
+                "text": "They are the best sort of people I have ever met."
+            },
+            {
+                "code": "sort_example_she-was-hanging-around-with-the-wrong-sort-of-people",
+                "text": "She was hanging around with the wrong sort of people."
+            },
+            {
+                "code": "sort_example_we-were-trying-to-meet-different-sorts-of-friends",
+                "text": "We were trying to meet different sorts of friends."
+            },
+            {
+                "code": "sort_example_they-are-a-funny-sort",
+                "text": "They are a funny sort."
+            },
+            {
+                "code": "sort_example_the-store-sells-all-sorts-of-candy",
+                "text": "The store sells all sorts of candy."
+            }
+        ]
+    }
+]

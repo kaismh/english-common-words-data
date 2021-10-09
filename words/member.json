@@ -1,0 +1,60 @@
+[
+    {
+        "type": "(n)",
+        "mean": "someone who officially belongs to a particular group",
+        "examples": [
+            {
+                "code": "member_example_i-became-a-member-last-year",
+                "text": "I became a member last year."
+            },
+            {
+                "code": "member_example_the-member-resigned-due-to-the-scandal",
+                "text": "The member resigned due to the scandal."
+            },
+            {
+                "code": "member_example_members-can-join-the-organization-at-any-time",
+                "text": "Members can join the organization at any time."
+            },
+            {
+                "code": "member_example_they-are-a-long-time-member-nation",
+                "text": "They are a long-time member nation."
+            },
+            {
+                "code": "member_example_she-is-one-of-our-faculty-members",
+                "text": "She is one of our faculty members."
+            },
+            {
+                "code": "member_example_audience-members-were-asked-to-participate",
+                "text": "Audience members were asked to participate."
+            },
+            {
+                "code": "member_example_he-used-to-be-a-gang-member",
+                "text": "He used to be a gang member."
+            },
+            {
+                "code": "member_example_i-am-paying-dues-to-be-a-union-member",
+                "text": "I am paying dues to be a union member."
+            },
+            {
+                "code": "member_example_he-is-the-only-surviving-member",
+                "text": "He is the only surviving member."
+            },
+            {
+                "code": "member_example_i-don-t-want-to-be-a-jury-member",
+                "text": "I don't want to be a jury member."
+            },
+            {
+                "code": "member_example_committee-members-receive-discounts-on-services",
+                "text": "Committee members receive discounts on services."
+            },
+            {
+                "code": "member_example_he-is-an-honorary-member-of-the-club",
+                "text": "He is an honorary member of the club."
+            },
+            {
+                "code": "member_example_i-m-a-member-of-the-club",
+                "text": "I'm a member of the club."
+            }
+        ]
+    }
+]

@@ -1,0 +1,120 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the path that someone or something is moving towards; guidance or supervision; instructions on how to do something or how to get somewhere",
+        "examples": [
+            {
+                "code": "direction_example_we-are-going-in-the-same-direction",
+                "text": "We are going in the same direction."
+            },
+            {
+                "code": "direction_example_our-lives-are-going-in-different-directions",
+                "text": "Our lives are going in different directions."
+            },
+            {
+                "code": "direction_example_the-airplane-is-flying-in-a-downward-direction",
+                "text": "The airplane is flying in a downward direction."
+            },
+            {
+                "code": "direction_example_move-the-clock-hand-in-a-clockwise-direction",
+                "text": "Move the clock hand in a clockwise direction."
+            },
+            {
+                "code": "direction_example_he-started-falling-in-a-backward-direction",
+                "text": "He started falling in a backward direction."
+            },
+            {
+                "code": "direction_example_the-government-is-taking-a-new-direction",
+                "text": "The government is taking a new direction."
+            },
+            {
+                "code": "direction_example_the-company-is-headed-in-a-positive-direction",
+                "text": "The company is headed in a positive direction."
+            },
+            {
+                "code": "direction_example_he-lacks-clear-direction-in-his-life",
+                "text": "He lacks clear direction in his life."
+            },
+            {
+                "code": "direction_example_the-future-direction-of-the-company-is-excellent",
+                "text": "The future direction of the company is excellent."
+            },
+            {
+                "code": "direction_example_he-gave-clear-directions",
+                "text": "He gave clear directions."
+            },
+            {
+                "code": "direction_example_do-you-need-driving-directions",
+                "text": "Do you need driving directions?"
+            },
+            {
+                "code": "direction_example_i-followed-the-online-directions",
+                "text": "I followed the online directions."
+            },
+            {
+                "code": "direction_example_do-you-know-which-direction-to-take",
+                "text": "Do you know which direction to take?"
+            },
+            {
+                "code": "direction_example_the-runner-changed-direction",
+                "text": "The runner changed direction."
+            },
+            {
+                "code": "direction_example_we-are-going-in-the-wrong-direction",
+                "text": "We are going in the wrong direction."
+            },
+            {
+                "code": "direction_example_the-dog-came-from-that-direction",
+                "text": "The dog came from that direction."
+            },
+            {
+                "code": "direction_example_she-is-facing-the-wrong-direction",
+                "text": "She is facing the wrong direction."
+            },
+            {
+                "code": "direction_example_the-boss-glanced-in-my-direction",
+                "text": "The boss glanced in my direction."
+            },
+            {
+                "code": "direction_example_please-point-me-in-the-right-direction",
+                "text": "Please point me in the right direction."
+            },
+            {
+                "code": "direction_example_teachers-can-influence-the-direction-of-children-s-futures",
+                "text": "Teachers can influence the direction of children's futures."
+            },
+            {
+                "code": "direction_example_profit-numbers-will-determine-the-direction-of-the-company",
+                "text": "Profit numbers will determine the direction of the company."
+            },
+            {
+                "code": "direction_example_she-lacks-direction-in-her-life",
+                "text": "She lacks direction in her life."
+            },
+            {
+                "code": "direction_example_we-need-to-ask-for-directions",
+                "text": "We need to ask for directions."
+            },
+            {
+                "code": "direction_example_please-give-clear-directions",
+                "text": "Please give clear directions."
+            },
+            {
+                "code": "direction_example_we-heard-a-noise-from-that-direction",
+                "text": "We heard a noise from that direction."
+            },
+            {
+                "code": "direction_example_go-in-this-direction",
+                "text": "Go in this direction."
+            },
+            {
+                "code": "direction_example_she-has-no-sense-of-direction",
+                "text": "She has no sense of direction."
+            },
+            {
+                "code": "direction_example_she-is-working-under-the-direction-of-the-vice-president",
+                "text": "She is working under the direction of the vice president."
+            }
+        ]
+    }
+]

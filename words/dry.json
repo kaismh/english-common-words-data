@@ -1,0 +1,90 @@
+[
+    {
+        "type": "(v)",
+        "mean": "take out the water out of something",
+        "examples": [
+            {
+                "code": "dry_example_the-paint-must-completely-dry-before-we-hang-any-pictures",
+                "text": "The paint must completely dry before we hang any pictures."
+            },
+            {
+                "code": "dry_example_make-sure-to-carefully-dry-your-fingernails-after-you-paint-them",
+                "text": "Make sure to carefully dry your fingernails after you paint them."
+            },
+            {
+                "code": "dry_example_this-paint-dries-quickly",
+                "text": "This paint dries quickly."
+            },
+            {
+                "code": "dry_example_i-like-to-dry-my-hair-naturally",
+                "text": "I like to dry my hair naturally."
+            },
+            {
+                "code": "dry_example_the-wet-wood-needs-to-dry-off",
+                "text": "The wet wood needs to dry off."
+            }
+        ]
+    },
+    {
+        "type": "(adj)",
+        "mean": "not wet; does not have any moisture",
+        "examples": [
+            {
+                "code": "dry_example_this-seat-is-dry",
+                "text": "This seat is dry."
+            },
+            {
+                "code": "dry_example_try-to-keep-dry",
+                "text": "Try to keep dry."
+            },
+            {
+                "code": "dry_example_pat-the-meat-dry-before-grilling",
+                "text": "Pat the meat dry before grilling."
+            },
+            {
+                "code": "dry_example_she-rubbed-her-child-s-hair-dry",
+                "text": "She rubbed her child's hair dry."
+            },
+            {
+                "code": "dry_example_this-cut-should-be-kept-dry",
+                "text": "This cut should be kept dry."
+            },
+            {
+                "code": "dry_example_the-chicken-was-extremely-dry",
+                "text": "The chicken was extremely dry."
+            },
+            {
+                "code": "dry_example_the-paint-is-completely-dry",
+                "text": "The paint is completely dry."
+            },
+            {
+                "code": "dry_example_your-clothes-are-almost-dry",
+                "text": "Your clothes are almost dry."
+            },
+            {
+                "code": "dry_example_the-weather-is-supposed-to-stay-mostly-dry",
+                "text": "The weather is supposed to stay mostly dry."
+            },
+            {
+                "code": "dry_example_she-was-barely-dry-before-she-got-wet-again",
+                "text": "She was barely dry before she got wet again."
+            },
+            {
+                "code": "dry_example_i-m-not-used-to-this-dry-climate",
+                "text": "I'm not used to this dry climate."
+            },
+            {
+                "code": "dry_example_the-desert-is-dry",
+                "text": "The desert is dry."
+            },
+            {
+                "code": "dry_example_i-need-a-dry-sponge",
+                "text": "I need a dry sponge."
+            },
+            {
+                "code": "dry_example_i-have-a-dry-throat",
+                "text": "I have a dry throat."
+            }
+        ]
+    }
+]

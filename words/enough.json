@@ -1,0 +1,74 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "as much as is needed or wanted",
+        "examples": [
+            {
+                "code": "enough_example_he-has-enough-room-to-stretch-his-legs",
+                "text": "He has enough room to stretch his legs."
+            },
+            {
+                "code": "enough_example_i-have-had-enough-food",
+                "text": "I have had enough food."
+            },
+            {
+                "code": "enough_example_she-has-enough-flexibility-at-work-to-choose-her-schedule",
+                "text": "She has enough flexibility at work to choose her schedule."
+            }
+        ]
+    },
+    {
+        "type": "(adv)",
+        "mean": "to the required or necessary degree or amount",
+        "examples": [
+            {
+                "code": "enough_example_it-is-bad-enough-that-i-missed-the-bus-but-then-it-rained",
+                "text": "It is bad enough that I missed the bus but then it rained."
+            },
+            {
+                "code": "enough_example_she-waited-long-enough-for-him-to-arrive-and-then-she-left",
+                "text": "She waited long enough for him to arrive and then she left."
+            },
+            {
+                "code": "enough_example_are-you-comfortable-enough",
+                "text": "Are you comfortable enough?"
+            },
+            {
+                "code": "enough_example_is-the-food-warm-enough",
+                "text": "Is the food warm enough?"
+            },
+            {
+                "code": "enough_example_the-assignment-was-easy-enough-for-her-to-complete",
+                "text": "The assignment was easy enough for her to complete."
+            },
+            {
+                "code": "enough_example_this-room-seems-large-enough",
+                "text": "This room seems large enough."
+            },
+            {
+                "code": "enough_example_he-was-not-interested-enough-to-stay-for-the-whole-show",
+                "text": "He was not interested enough to stay for the whole show."
+            },
+            {
+                "code": "enough_example_i-think-the-request-is-reasonable-enough",
+                "text": "I think the request is reasonable enough."
+            },
+            {
+                "code": "enough_example_he-is-smart-enough-for-the-job",
+                "text": "He is smart enough for the job."
+            },
+            {
+                "code": "enough_example_did-you-eat-enough",
+                "text": "Did you eat enough?"
+            },
+            {
+                "code": "enough_example_he-did-not-care-enough-to-help-his-friends-move",
+                "text": "He did not care enough to help his friends move."
+            },
+            {
+                "code": "enough_example_she-recovered-enough-from-the-accident-to-return-to-work",
+                "text": "She recovered enough from the accident to return to work."
+            }
+        ]
+    }
+]

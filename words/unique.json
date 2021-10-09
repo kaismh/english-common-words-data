@@ -1,0 +1,36 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "being the only one of its kind; special",
+        "examples": [
+            {
+                "code": "unique_example_snowflakes-are-very-unique",
+                "text": "Snowflakes are very unique."
+            },
+            {
+                "code": "unique_example_her-artwork-is-pretty-unique",
+                "text": "Her artwork is pretty unique."
+            },
+            {
+                "code": "unique_example_he-makes-unique-designs",
+                "text": "He makes unique designs."
+            },
+            {
+                "code": "unique_example_she-is-very-unique",
+                "text": "She is very unique."
+            },
+            {
+                "code": "unique_example_she-speaks-with-a-unique-accent",
+                "text": "She speaks with a unique accent."
+            },
+            {
+                "code": "unique_example_that-plant-is-unique-to-this-area",
+                "text": "That plant is unique to this area."
+            },
+            {
+                "code": "unique_example_that-s-a-unique-achievement",
+                "text": "That's a unique achievement."
+            }
+        ]
+    }
+]

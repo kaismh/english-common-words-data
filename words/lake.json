@@ -1,0 +1,48 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a large area of water surrounded by land",
+        "examples": [
+            {
+                "code": "lake_example_they-live-by-a-huge-lake",
+                "text": "They live by a huge lake."
+            },
+            {
+                "code": "lake_example_the-lake-is-clear",
+                "text": "The lake is clear."
+            },
+            {
+                "code": "lake_example_he-was-brave-to-walk-on-the-frozen-lake",
+                "text": "He was brave to walk on the frozen lake."
+            },
+            {
+                "code": "lake_example_they-crossed-the-lake-in-a-rowboat",
+                "text": "They crossed the lake in a rowboat."
+            },
+            {
+                "code": "lake_example_our-vacation-house-overlooks-the-lake",
+                "text": "Our vacation house overlooks the lake."
+            },
+            {
+                "code": "lake_example_a-ferry-takes-people-across-the-lake",
+                "text": "A ferry takes people across the lake."
+            },
+            {
+                "code": "lake_example_we-biked-around-the-lake",
+                "text": "We biked around the lake."
+            },
+            {
+                "code": "lake_example_we-spent-the-weekend-at-crystal-lake",
+                "text": "We spent the weekend at Crystal Lake."
+            },
+            {
+                "code": "lake_example_he-fell-into-the-lake",
+                "text": "He fell into the lake."
+            },
+            {
+                "code": "lake_example_they-have-a-vacation-home-on-the-lake",
+                "text": "They have a vacation home on the lake."
+            }
+        ]
+    }
+]

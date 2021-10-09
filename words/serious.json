@@ -1,0 +1,52 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "important; dangerous; not joking",
+        "examples": [
+            {
+                "code": "serious_example_his-injury-looks-serious",
+                "text": "His injury looks serious."
+            },
+            {
+                "code": "serious_example_her-infection-got-more-serious",
+                "text": "Her infection got more serious."
+            },
+            {
+                "code": "serious_example_can-you-be-serious-for-once",
+                "text": "Can you be serious for once?"
+            },
+            {
+                "code": "serious_example_the-results-were-extremely-serious",
+                "text": "The results were extremely serious."
+            },
+            {
+                "code": "serious_example_the-infection-is-potentially-serious",
+                "text": "The infection is potentially serious."
+            },
+            {
+                "code": "serious_example_the-situation-has-become-very-serious-for-everyone",
+                "text": "The situation has become very serious for everyone."
+            },
+            {
+                "code": "serious_example_are-you-serious-about-quitting-your-job",
+                "text": "Are you serious about quitting your job?"
+            },
+            {
+                "code": "serious_example_he-had-a-serious-injury",
+                "text": "He had a serious injury."
+            },
+            {
+                "code": "serious_example_this-is-a-serious-crime",
+                "text": "This is a serious crime."
+            },
+            {
+                "code": "serious_example_she-made-a-serious-mistake",
+                "text": "She made a serious mistake."
+            },
+            {
+                "code": "serious_example_he-is-in-serious-trouble",
+                "text": "He is in serious trouble."
+            }
+        ]
+    }
+]

@@ -1,0 +1,130 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the study of a specific subject to gain more facts or information",
+        "examples": [
+            {
+                "code": "research_example_we-are-continuing-our-research-on-cancer",
+                "text": "We are continuing our research on cancer."
+            },
+            {
+                "code": "research_example_the-study-needs-more-research",
+                "text": "The study needs more research."
+            },
+            {
+                "code": "research_example_i-have-reviewed-their-research",
+                "text": "I have reviewed their research."
+            },
+            {
+                "code": "research_example_our-research-showed-positive-results",
+                "text": "Our research showed positive results."
+            },
+            {
+                "code": "research_example_we-cited-your-research",
+                "text": "We cited your research."
+            },
+            {
+                "code": "research_example_our-research-proved-he-was-wrong",
+                "text": "Our research proved he was wrong."
+            },
+            {
+                "code": "research_example_we-published-more-research",
+                "text": "We published more research."
+            },
+            {
+                "code": "research_example_our-research-supports-the-hypothesis",
+                "text": "Our research supports the hypothesis."
+            },
+            {
+                "code": "research_example_we-are-waiting-for-the-research-findings",
+                "text": "We are waiting for the research findings."
+            },
+            {
+                "code": "research_example_i-am-involved-in-a-research-project",
+                "text": "I am involved in a research project."
+            },
+            {
+                "code": "research_example_have-you-chosen-a-research-topic",
+                "text": "Have you chosen a research topic?"
+            },
+            {
+                "code": "research_example_i-work-at-a-famous-research-institute",
+                "text": "I work at a famous research institute."
+            },
+            {
+                "code": "research_example_i-m-working-on-a-research-paper",
+                "text": "I'm working on a research paper."
+            },
+            {
+                "code": "research_example_we-hired-a-new-research-assistant",
+                "text": "We hired a new research assistant."
+            },
+            {
+                "code": "research_example_the-research-grant-was-awarded-to-our-team",
+                "text": "The research grant was awarded to our team."
+            },
+            {
+                "code": "research_example_the-company-does-not-do-animal-research",
+                "text": "The company does not do animal research."
+            },
+            {
+                "code": "research_example_the-team-has-done-careful-research-on-the-subject",
+                "text": "The team has done careful research on the subject."
+            },
+            {
+                "code": "research_example_my-undergraduate-research-was-on-frog-behavior",
+                "text": "My undergraduate research was on frog behavior."
+            },
+            {
+                "code": "research_example_the-foundation-donates-a-lot-of-money-to-aids-research",
+                "text": "The foundation donates a lot of money to AIDS research."
+            },
+            {
+                "code": "research_example_we-are-conducting-further-research-at-the-university",
+                "text": "We are conducting further research at the university."
+            },
+            {
+                "code": "research_example_the-latest-research-proves-our-hypothesis",
+                "text": "The latest research proves our hypothesis."
+            },
+            {
+                "code": "research_example_students-rely-on-online-research",
+                "text": "Students rely on online research."
+            },
+            {
+                "code": "research_example_scientists-have-been-conducting-research-on-the-effect-of-global-warming",
+                "text": "Scientists have been conducting research on the effect of global warming."
+            },
+            {
+                "code": "research_example_research-in-this-field-focuses-on-the-long-term-effects-of-alzheimer-patients",
+                "text": "Research in this field focuses on the long-term effects of Alzheimer patients."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to study a specific subject to gain more facts or information",
+        "examples": [
+            {
+                "code": "research_example_i-researched-the-biography",
+                "text": "I researched the biography."
+            },
+            {
+                "code": "research_example_he-researched-the-topic-carefully",
+                "text": "He researched the topic carefully."
+            },
+            {
+                "code": "research_example_this-information-has-been-properly-researched",
+                "text": "This information has been properly researched."
+            },
+            {
+                "code": "research_example_they-did-research-into-the-same-topic",
+                "text": "They did research into the same topic."
+            },
+            {
+                "code": "research_example_i-researched-this-for-the-university",
+                "text": "I researched this for the university."
+            }
+        ]
+    }
+]

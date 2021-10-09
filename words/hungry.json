@@ -1,0 +1,32 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "feeling that you want to eat; wanting food",
+        "examples": [
+            {
+                "code": "hungry_example_he-feels-hungry",
+                "text": "He feels hungry."
+            },
+            {
+                "code": "hungry_example_many-people-went-hungry-during-the-war",
+                "text": "Many people went hungry during the war."
+            },
+            {
+                "code": "hungry_example_the-smell-in-the-kitchen-is-making-me-hungry",
+                "text": "The smell in the kitchen is making me hungry."
+            },
+            {
+                "code": "hungry_example_they-were-extremely-hungry-after-all-that-work",
+                "text": "They were extremely hungry after all that work."
+            },
+            {
+                "code": "hungry_example_he-is-always-hungry",
+                "text": "He is always hungry."
+            },
+            {
+                "code": "hungry_example_i-m-a-little-hungry",
+                "text": "I'm a little hungry."
+            }
+        ]
+    }
+]

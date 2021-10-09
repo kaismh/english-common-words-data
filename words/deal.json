@@ -1,0 +1,114 @@
+[
+    {
+        "type": "(n)",
+        "mean": "an agreement",
+        "examples": [
+            {
+                "code": "deal_example_do-you-think-it-s-a-fair-deal",
+                "text": "Do you think it's a fair deal?"
+            },
+            {
+                "code": "deal_example_the-sale-is-a-major-deal",
+                "text": "The sale is a major deal."
+            },
+            {
+                "code": "deal_example_he-agreed-to-the-business-deal",
+                "text": "He agreed to the business deal."
+            },
+            {
+                "code": "deal_example_the-two-countries-have-an-arms-deal",
+                "text": "The two countries have an arms deal."
+            },
+            {
+                "code": "deal_example_the-brothers-made-a-secret-deal",
+                "text": "The brothers made a secret deal."
+            },
+            {
+                "code": "deal_example_the-music-group-signed-a-record-deal",
+                "text": "The music group signed a record deal."
+            },
+            {
+                "code": "deal_example_i-hope-they-agree-on-a-deal",
+                "text": "I hope they agree on a deal."
+            },
+            {
+                "code": "deal_example_they-will-close-the-deal",
+                "text": "They will close the deal."
+            },
+            {
+                "code": "deal_example_the-businessman-will-get-a-deal",
+                "text": "The businessman will get a deal."
+            },
+            {
+                "code": "deal_example_do-we-have-a-deal",
+                "text": "Do we have a deal?"
+            },
+            {
+                "code": "deal_example_they-offered-us-a-great-deal",
+                "text": "They offered us a great deal."
+            },
+            {
+                "code": "deal_example_he-accepted-the-deal",
+                "text": "He accepted the deal."
+            },
+            {
+                "code": "deal_example_their-company-rejected-the-deal",
+                "text": "Their company rejected the deal."
+            },
+            {
+                "code": "deal_example_the-deal-fell-apart",
+                "text": "The deal fell apart."
+            },
+            {
+                "code": "deal_example_the-deal-expires-at-midnight",
+                "text": "The deal expires at midnight."
+            },
+            {
+                "code": "deal_example_it-s-a-deal-breaker",
+                "text": "It's a deal breaker."
+            },
+            {
+                "code": "deal_example_the-deal-between-the-two-countries-fell-apart",
+                "text": "The deal between the two countries fell apart."
+            },
+            {
+                "code": "deal_example_she-got-a-great-deal-on-her-new-house",
+                "text": "She got a great deal on her new house."
+            },
+            {
+                "code": "deal_example_they-purchased-the-company-in-a-multi-million-dollar-deal",
+                "text": "They purchased the company in a multi-million dollar deal."
+            },
+            {
+                "code": "deal_example_under-this-deal-you-will-save-more-money",
+                "text": "Under this deal, you will save more money."
+            },
+            {
+                "code": "deal_example_you-can-get-a-better-deal-from-a-credit-union",
+                "text": "You can get a better deal from a credit union."
+            },
+            {
+                "code": "deal_example_we-made-a-deal-with-our-rival-business",
+                "text": "We made a deal with our rival business."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to work with; to do business",
+        "examples": [
+            {
+                "code": "deal_example_go-deal-directly-with-the-boss",
+                "text": "Go deal directly with the boss."
+            },
+            {
+                "code": "deal_example_we-deal-in-sales",
+                "text": "We deal in sales."
+            },
+            {
+                "code": "deal_example_the-woman-will-deal-directly-with-the-store",
+                "text": "The woman will deal directly with the store."
+            }
+        ]
+    }
+]

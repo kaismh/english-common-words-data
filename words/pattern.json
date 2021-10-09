@@ -1,0 +1,68 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a repeated action; a repeated arrangement of shapes, colors, and forms; a design",
+        "examples": [
+            {
+                "code": "pattern_example_the-quilt-is-made-up-of-geometric-patterns",
+                "text": "The quilt is made up of geometric patterns."
+            },
+            {
+                "code": "pattern_example_the-rug-has-a-striped-pattern-around-the-border",
+                "text": "The rug has a striped pattern around the border."
+            },
+            {
+                "code": "pattern_example_the-department-doesn-t-have-a-set-pattern-of-doing-things",
+                "text": "The department doesn't have a set pattern of doing things."
+            },
+            {
+                "code": "pattern_example_the-twins-follow-the-same-pattern-of-getting-ready",
+                "text": "The twins follow the same pattern of getting ready."
+            },
+            {
+                "code": "pattern_example_we-are-observing-the-behavioral-patterns-of-children-who-are-not-disciplined",
+                "text": "We are observing the behavioral patterns of children who are not disciplined."
+            },
+            {
+                "code": "pattern_example_there-was-an-obvious-pattern-to-the-neighborhood-burglaries",
+                "text": "There was an obvious pattern to the neighborhood burglaries."
+            },
+            {
+                "code": "pattern_example_researchers-are-analyzing-the-breathing-pattern-of-people-who-snore",
+                "text": "Researchers are analyzing the breathing pattern of people who snore."
+            },
+            {
+                "code": "pattern_example_the-rug-has-a-beautiful-geometric-pattern-on-it",
+                "text": "The rug has a beautiful geometric pattern on it."
+            },
+            {
+                "code": "pattern_example_the-children-formed-a-pattern-with-their-learning-blocks",
+                "text": "The children formed a pattern with their learning blocks."
+            },
+            {
+                "code": "pattern_example_we-set-a-pattern-of-doing-homework-before-television",
+                "text": "We set a pattern of doing homework before television."
+            },
+            {
+                "code": "pattern_example_her-dating-habits-follow-the-same-pattern-every-time",
+                "text": "Her dating habits follow the same pattern every time."
+            },
+            {
+                "code": "pattern_example_we-need-to-change-our-spending-pattern-to-save-money",
+                "text": "We need to change our spending pattern to save money."
+            },
+            {
+                "code": "pattern_example_we-are-noticing-a-pattern-with-her-behavior",
+                "text": "We are noticing a pattern with her behavior."
+            },
+            {
+                "code": "pattern_example_there-is-a-pattern-of-lovely-flowers-on-her-curtains",
+                "text": "There is a pattern of lovely flowers on her curtains."
+            },
+            {
+                "code": "pattern_example_the-police-noticed-a-pattern-to-the-local-robberies",
+                "text": "The police noticed a pattern to the local robberies."
+            }
+        ]
+    }
+]

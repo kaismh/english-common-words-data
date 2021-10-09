@@ -1,0 +1,90 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a high ranking officer in the military",
+        "examples": [
+            {
+                "code": "general_example_he-retired-as-a-four-star-general",
+                "text": "He retired as a four-star general."
+            },
+            {
+                "code": "general_example_the-general-commanded-his-soldiers",
+                "text": "The general commanded his soldiers."
+            }
+        ]
+    },
+    {
+        "type": "(adj)",
+        "mean": "having to do with everyone or everything; not detailed or specific",
+        "examples": [
+            {
+                "code": "general_example_the-class-has-shown-some-general-improvement",
+                "text": "The class has shown some general improvement."
+            },
+            {
+                "code": "general_example_they-showed-general-knowledge-of-the-concept",
+                "text": "They showed general knowledge of the concept."
+            },
+            {
+                "code": "general_example_can-you-give-me-a-general-description",
+                "text": "Can you give me a general description?"
+            },
+            {
+                "code": "general_example_we-have-reached-a-general-agreement",
+                "text": "We have reached a general agreement."
+            },
+            {
+                "code": "general_example_she-expressed-general-dissatisfaction-with-her-job",
+                "text": "She expressed general dissatisfaction with her job."
+            },
+            {
+                "code": "general_example_they-took-a-poll-of-the-general-public",
+                "text": "They took a poll of the general public."
+            },
+            {
+                "code": "general_example_he-ran-in-that-general-direction",
+                "text": "He ran in that general direction."
+            },
+            {
+                "code": "general_example_there-was-general-panic-after-the-earthquake",
+                "text": "There was general panic after the earthquake."
+            },
+            {
+                "code": "general_example_the-tool-has-more-functions-than-its-general-purpose",
+                "text": "The tool has more functions than its general purpose."
+            },
+            {
+                "code": "general_example_they-discussed-their-general-strategy",
+                "text": "They discussed their general strategy."
+            },
+            {
+                "code": "general_example_this-is-not-intended-for-the-general-audience",
+                "text": "This is not intended for the general audience."
+            },
+            {
+                "code": "general_example_there-is-general-enthusiasm-surrounding-the-announcement",
+                "text": "There is general enthusiasm surrounding the announcement."
+            },
+            {
+                "code": "general_example_the-general-reaction-was-not-good",
+                "text": "The general reaction was not good."
+            },
+            {
+                "code": "general_example_there-has-been-a-general-decline-in-spending",
+                "text": "There has been a general decline in spending."
+            },
+            {
+                "code": "general_example_the-general-requirements-are-changing-next-year",
+                "text": "The general requirements are changing next year."
+            },
+            {
+                "code": "general_example_we-had-a-general-discussion-about-her-concerns",
+                "text": "We had a general discussion about her concerns."
+            },
+            {
+                "code": "general_example_there-is-a-general-trend-towards-change",
+                "text": "There is a general trend towards change."
+            }
+        ]
+    }
+]

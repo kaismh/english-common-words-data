@@ -1,0 +1,106 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a short journey or visit",
+        "examples": [
+            {
+                "code": "trip_example_they-took-a-weekend-trip-to-the-beach",
+                "text": "They took a weekend trip to the beach."
+            },
+            {
+                "code": "trip_example_they-take-an-annual-trip-to-palm-springs",
+                "text": "They take an annual trip to Palm Springs."
+            },
+            {
+                "code": "trip_example_i-need-to-make-a-short-trip-to-the-market",
+                "text": "I need to make a short trip to the market."
+            },
+            {
+                "code": "trip_example_this-was-a-nice-trip-for-the-family",
+                "text": "This was a nice trip for the family."
+            },
+            {
+                "code": "trip_example_she-has-to-make-regular-trips-to-the-doctor-s-office",
+                "text": "She has to make regular trips to the doctor's office."
+            },
+            {
+                "code": "trip_example_have-a-safe-trip-home",
+                "text": "Have a safe trip home."
+            },
+            {
+                "code": "trip_example_he-s-going-on-a-road-trip-across-the-country",
+                "text": "He's going on a road trip across the country."
+            },
+            {
+                "code": "trip_example_we-re-packing-for-the-camping-trip",
+                "text": "We're packing for the camping trip."
+            },
+            {
+                "code": "trip_example_the-students-are-going-on-a-field-trip-to-the-zoo",
+                "text": "The students are going on a field trip to the zoo."
+            },
+            {
+                "code": "trip_example_we-take-a-family-trip-every-year",
+                "text": "We take a family trip every year."
+            },
+            {
+                "code": "trip_example_she-is-planning-our-annual-trip-to-hawaii",
+                "text": "She is planning our annual trip to Hawaii."
+            },
+            {
+                "code": "trip_example_they-returned-from-their-trip-last-night",
+                "text": "They returned from their trip last night."
+            },
+            {
+                "code": "trip_example_i-am-booking-our-trip-online",
+                "text": "I am booking our trip online."
+            },
+            {
+                "code": "trip_example_we-had-to-cancel-our-trip",
+                "text": "We had to cancel our trip."
+            },
+            {
+                "code": "trip_example_i-am-taking-a-trip-to-france",
+                "text": "I am taking a trip to France."
+            },
+            {
+                "code": "trip_example_enjoy-your-trip",
+                "text": "Enjoy your trip."
+            },
+            {
+                "code": "trip_example_my-husband-is-on-a-business-trip",
+                "text": "My husband is on a business trip."
+            },
+            {
+                "code": "trip_example_i-am-going-on-a-trip-to-europe",
+                "text": "I am going on a trip to Europe."
+            },
+            {
+                "code": "trip_example_it-s-a-five-hour-trip-by-car",
+                "text": "It's a five hour trip by car."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to hit your foot on something and fall down",
+        "examples": [
+            {
+                "code": "trip_example_he-accidentally-tripped-over-the-rock",
+                "text": "He accidentally tripped over the rock."
+            },
+            {
+                "code": "trip_example_she-almost-tripped-over-the-step",
+                "text": "She almost tripped over the step."
+            },
+            {
+                "code": "trip_example_she-awkwardly-tripped-over-her-own-foot",
+                "text": "She awkwardly tripped over her own foot."
+            },
+            {
+                "code": "trip_example_she-tripped-over-the-toys-in-the-playroom",
+                "text": "She tripped over the toys in the playroom."
+            }
+        ]
+    }
+]

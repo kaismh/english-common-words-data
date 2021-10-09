@@ -1,0 +1,90 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to wound or kill with a bullet; to fire a gun",
+        "examples": [
+            {
+                "code": "shoot_example_he-is-unable-to-shoot-straight",
+                "text": "He is unable to shoot straight."
+            },
+            {
+                "code": "shoot_example_he-accidentally-shot-his-friend-while-duck-hunting",
+                "text": "He accidentally shot his friend while duck hunting."
+            },
+            {
+                "code": "shoot_example_she-was-fatally-shot-during-the-robbery",
+                "text": "She was fatally shot during the robbery."
+            },
+            {
+                "code": "shoot_example_the-enemy-jet-was-shot-down-near-the-border",
+                "text": "The enemy jet was shot down near the border."
+            },
+            {
+                "code": "shoot_example_i-m-so-angry-i-want-to-shoot-him",
+                "text": "I'm so angry, I want to shoot him."
+            },
+            {
+                "code": "shoot_example_the-gunman-threatened-to-shoot",
+                "text": "The gunman threatened to shoot."
+            },
+            {
+                "code": "shoot_example_the-robber-tried-to-shoot-but-his-gun-jammed",
+                "text": "The robber tried to shoot, but his gun jammed."
+            },
+            {
+                "code": "shoot_example_the-sniper-was-shooting-at-innocent-people",
+                "text": "The sniper was shooting at innocent people."
+            },
+            {
+                "code": "shoot_example_the-homeowner-shot-the-intruder-in-the-chest",
+                "text": "The homeowner shot the intruder in the chest."
+            },
+            {
+                "code": "shoot_example_someone-started-shooting-into-the-windows",
+                "text": "Someone started shooting into the windows."
+            },
+            {
+                "code": "shoot_example_the-hunter-shot-the-deer-with-a-rifle",
+                "text": "The hunter shot the deer with a rifle."
+            }
+        ]
+    },
+    {
+        "type": "(n)",
+        "mean": "the new part of a plant that is beginning to grow; an event where people or things are photographed",
+        "examples": [
+            {
+                "code": "shoot_example_i-look-forward-to-seeing-the-fresh-shoots-of-my-plants",
+                "text": "I look forward to seeing the fresh shoots of my plants."
+            },
+            {
+                "code": "shoot_example_there-were-many-leafy-shoots-in-their-yard",
+                "text": "There were many leafy shoots in their yard."
+            },
+            {
+                "code": "shoot_example_pandas-like-to-eat-bamboo-shoots",
+                "text": "Pandas like to eat bamboo shoots."
+            },
+            {
+                "code": "shoot_example_the-models-are-at-a-photo-shoot",
+                "text": "The models are at a photo shoot."
+            },
+            {
+                "code": "shoot_example_this-plant-has-no-shoots-yet",
+                "text": "This plant has no shoots yet."
+            },
+            {
+                "code": "shoot_example_these-flowers-will-produce-many-shoots",
+                "text": "These flowers will produce many shoots."
+            },
+            {
+                "code": "shoot_example_shoots-are-starting-to-appear-in-my-garden",
+                "text": "Shoots are starting to appear in my garden."
+            },
+            {
+                "code": "shoot_example_he-is-on-a-photo-shoot-in-the-caribbean-ocean",
+                "text": "He is on a photo shoot in the Caribbean ocean."
+            }
+        ]
+    }
+]

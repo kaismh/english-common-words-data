@@ -1,0 +1,60 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the part of a bird or insect used for flying; the part of an airplane that sticks out from the side that makes it possible to fly; the part of a building that sticks out from the main building",
+        "examples": [
+            {
+                "code": "wing_example_the-bird-s-left-wing-was-damaged",
+                "text": "The bird's left wing was damaged."
+            },
+            {
+                "code": "wing_example_the-bird-has-a-broken-wing-and-cannot-fly",
+                "text": "The bird has a broken wing and cannot fly."
+            },
+            {
+                "code": "wing_example_the-north-wing-of-the-hospital-was-destroyed-by-the-fire",
+                "text": "The north wing of the hospital was destroyed by the fire."
+            },
+            {
+                "code": "wing_example_the-movie-star-demanded-a-private-wing-at-the-hospital",
+                "text": "The movie star demanded a private wing at the hospital."
+            },
+            {
+                "code": "wing_example_they-are-remodeling-the-hospital-wing",
+                "text": "They are remodeling the hospital wing."
+            },
+            {
+                "code": "wing_example_the-eagle-spread-his-wings",
+                "text": "The eagle spread his wings."
+            },
+            {
+                "code": "wing_example_the-mother-bird-tucked-in-her-wings-to-protect-her-babies",
+                "text": "The mother bird tucked in her wings to protect her babies."
+            },
+            {
+                "code": "wing_example_the-bird-was-flapping-his-wings-wildly",
+                "text": "The bird was flapping his wings wildly."
+            },
+            {
+                "code": "wing_example_the-crew-is-fixing-the-damaged-airplane-wing",
+                "text": "The crew is fixing the damaged airplane wing."
+            },
+            {
+                "code": "wing_example_the-hospital-is-building-a-new-maternity-wing",
+                "text": "The hospital is building a new maternity wing."
+            },
+            {
+                "code": "wing_example_the-bird-has-unusual-markings-on-its-wings",
+                "text": "The bird has unusual markings on its wings."
+            },
+            {
+                "code": "wing_example_the-baby-birds-hid-under-their-mother-s-wings",
+                "text": "The baby birds hid under their mother's wings."
+            },
+            {
+                "code": "wing_example_the-renovated-rooms-are-located-in-the-east-wing-of-the-hotel",
+                "text": "The renovated rooms are located in the east wing of the hotel."
+            }
+        ]
+    }
+]

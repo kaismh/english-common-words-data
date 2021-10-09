@@ -1,0 +1,62 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to put your hand on someone or something; to feel with your hand",
+        "examples": [
+            {
+                "code": "touch_example_she-barely-touched-him",
+                "text": "She barely touched him."
+            },
+            {
+                "code": "touch_example_she-lightly-touched-his-hand",
+                "text": "She lightly touched his hand."
+            },
+            {
+                "code": "touch_example_he-accidentally-touched-the-hot-stove",
+                "text": "He accidentally touched the hot stove."
+            },
+            {
+                "code": "touch_example_he-touched-her-on-the-shoulder",
+                "text": "He touched her on the shoulder."
+            }
+        ]
+    },
+    {
+        "type": "(n)",
+        "mean": "a feeling with your hand; a small amount or detail to improve something",
+        "examples": [
+            {
+                "code": "touch_example_the-baby-needs-the-gentle-touch-of-his-mother",
+                "text": "The baby needs the gentle touch of his mother."
+            },
+            {
+                "code": "touch_example_the-room-needs-a-feminine-touch",
+                "text": "The room needs a feminine touch."
+            },
+            {
+                "code": "touch_example_the-house-needs-some-final-touches",
+                "text": "The house needs some final touches."
+            },
+            {
+                "code": "touch_example_he-added-a-magic-touch-to-the-presentation",
+                "text": "He added a magic touch to the presentation."
+            },
+            {
+                "code": "touch_example_the-designer-added-the-finishing-touches-to-the-house",
+                "text": "The designer added the finishing touches to the house."
+            },
+            {
+                "code": "touch_example_she-has-the-magic-touch",
+                "text": "She has the magic touch."
+            },
+            {
+                "code": "touch_example_he-lost-his-magic-touch",
+                "text": "He lost his magic touch."
+            },
+            {
+                "code": "touch_example_the-door-opens-at-the-touch-of-a-button",
+                "text": "The door opens at the touch of a button."
+            }
+        ]
+    }
+]

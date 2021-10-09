@@ -1,0 +1,72 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a drawing of one line across another; a symbol of Christianity",
+        "examples": [
+            {
+                "code": "cross_example_draw-a-cross-on-the-spot",
+                "text": "Draw a cross on the spot."
+            },
+            {
+                "code": "cross_example_does-he-wear-a-cross",
+                "text": "Does he wear a cross?"
+            },
+            {
+                "code": "cross_example_the-priest-wore-a-gold-cross",
+                "text": "The priest wore a gold cross."
+            },
+            {
+                "code": "cross_example_jesus-died-on-the-cross",
+                "text": "Jesus died on the cross."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to go from one side to another",
+        "examples": [
+            {
+                "code": "cross_example_the-boys-quickly-crossed-the-street",
+                "text": "The boys quickly crossed the street."
+            },
+            {
+                "code": "cross_example_she-successfully-crossed-the-ocean",
+                "text": "She successfully crossed the ocean."
+            },
+            {
+                "code": "cross_example_they-tried-to-cross-the-river",
+                "text": "They tried to cross the river."
+            },
+            {
+                "code": "cross_example_we-will-cross-over-the-border",
+                "text": "We will cross over the border."
+            },
+            {
+                "code": "cross_example_we-need-to-cross-the-bridge",
+                "text": "We need to cross the bridge."
+            }
+        ]
+    },
+    {
+        "type": "(adj)",
+        "mean": "angry",
+        "examples": [
+            {
+                "code": "cross_example_she-is-cross-about-her-husband-forgetting-their-anniversary",
+                "text": "She is cross about her husband forgetting their anniversary."
+            },
+            {
+                "code": "cross_example_the-policeman-was-extremely-cross",
+                "text": "The policeman was extremely cross."
+            },
+            {
+                "code": "cross_example_please-don-t-be-cross-with-me",
+                "text": "Please don't be cross with me."
+            },
+            {
+                "code": "cross_example_she-is-cross-about-her-husband-coming-home-late",
+                "text": "She is cross about her husband coming home late."
+            }
+        ]
+    }
+]

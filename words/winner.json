@@ -1,0 +1,56 @@
+[
+    {
+        "type": "(n)",
+        "mean": "someone that comes in first place in a contest or game",
+        "examples": [
+            {
+                "code": "winner_example_she-was-the-overall-winner-in-the-competition",
+                "text": "She was the overall winner in the competition."
+            },
+            {
+                "code": "winner_example_who-is-the-lucky-winner-this-week",
+                "text": "Who is the lucky winner this week?"
+            },
+            {
+                "code": "winner_example_she-is-the-clear-winner-in-this-election",
+                "text": "She is the clear winner in this election."
+            },
+            {
+                "code": "winner_example_he-is-the-big-winner-at-the-casino",
+                "text": "He is the big winner at the casino."
+            },
+            {
+                "code": "winner_example_he-was-the-surprise-winner-in-the-game",
+                "text": "He was the surprise winner in the game."
+            },
+            {
+                "code": "winner_example_we-were-excited-to-meet-the-nobel-peace-prize-winner",
+                "text": "We were excited to meet the Nobel Peace Prize winner."
+            },
+            {
+                "code": "winner_example_this-year-s-host-is-an-academy-award-winner",
+                "text": "This year's host is an Academy Award winner."
+            },
+            {
+                "code": "winner_example_she-emerged-as-the-winner-of-the-essay-contest",
+                "text": "She emerged as the winner of the essay contest."
+            },
+            {
+                "code": "winner_example_they-will-announce-the-winner-of-the-contest-after-the-commercials",
+                "text": "They will announce the winner of the contest after the commercials."
+            },
+            {
+                "code": "winner_example_we-must-choose-a-winner-soon",
+                "text": "We must choose a winner soon."
+            },
+            {
+                "code": "winner_example_the-winner-will-receive-a-cash-prize",
+                "text": "The winner will receive a cash prize."
+            },
+            {
+                "code": "winner_example_the-winner-of-the-contest-is-mary-johnson",
+                "text": "The winner of the contest is Mary Johnson."
+            }
+        ]
+    }
+]

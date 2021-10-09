@@ -1,0 +1,78 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a public court official that can decide how a guilty person will be punished; a person who decides who will win a competition",
+        "examples": [
+            {
+                "code": "judge_example_he-is-an-experienced-judge",
+                "text": "He is an experienced judge."
+            },
+            {
+                "code": "judge_example_the-presiding-judge-asked-tough-questions",
+                "text": "The presiding judge asked tough questions."
+            },
+            {
+                "code": "judge_example_he-was-appointed-as-the-county-judge",
+                "text": "He was appointed as the county judge."
+            },
+            {
+                "code": "judge_example_they-need-to-convince-the-judge",
+                "text": "They need to convince the judge."
+            },
+            {
+                "code": "judge_example_the-judge-called-the-witness-to-the-stand",
+                "text": "The judge called the witness to the stand."
+            },
+            {
+                "code": "judge_example_the-trial-judge-dismissed-the-claim",
+                "text": "The trial judge dismissed the claim."
+            },
+            {
+                "code": "judge_example_the-judge-declared-that-she-was-guilty",
+                "text": "The judge declared that she was guilty."
+            },
+            {
+                "code": "judge_example_the-judge-chose-the-same-winner-from-last-year",
+                "text": "The judge chose the same winner from last year."
+            },
+            {
+                "code": "judge_example_the-judge-will-decide-on-the-final-round-of-the-competition",
+                "text": "The judge will decide on the final round of the competition."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to form an opinion after careful thought; to choose a winner of a competition",
+        "examples": [
+            {
+                "code": "judge_example_he-judged-the-contest-fairly",
+                "text": "He judged the contest fairly."
+            },
+            {
+                "code": "judge_example_she-was-fired-for-judging-the-competition-unfairly",
+                "text": "She was fired for judging the competition unfairly."
+            },
+            {
+                "code": "judge_example_the-golfer-judged-the-distance-perfectly",
+                "text": "The golfer judged the distance perfectly."
+            },
+            {
+                "code": "judge_example_don-t-judge-her-solely-on-her-looks",
+                "text": "Don't judge her solely on her looks."
+            },
+            {
+                "code": "judge_example_you-will-be-judged-by-your-work",
+                "text": "You will be judged by your work."
+            },
+            {
+                "code": "judge_example_his-project-will-be-judged-on-its-creativity",
+                "text": "His project will be judged on its creativity."
+            },
+            {
+                "code": "judge_example_your-work-will-be-judged-against-others",
+                "text": "Your work will be judged against others."
+            }
+        ]
+    }
+]

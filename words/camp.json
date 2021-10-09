@@ -1,0 +1,68 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a place where people temporarily stay in tents or cabins; a place where people gather for group activities; a place where people are forcefully kept for a long period of time",
+        "examples": [
+            {
+                "code": "camp_example_we-sent-our-kids-to-day-camp",
+                "text": "We sent our kids to day camp."
+            },
+            {
+                "code": "camp_example_our-children-love-basketball-camp",
+                "text": "Our children love basketball camp."
+            },
+            {
+                "code": "camp_example_the-hikers-set-up-a-base-camp",
+                "text": "The hikers set up a base camp."
+            },
+            {
+                "code": "camp_example_new-recruits-were-sent-to-training-camp",
+                "text": "New recruits were sent to training camp."
+            },
+            {
+                "code": "camp_example_the-prisoners-were-sent-to-concentration-camps",
+                "text": "The prisoners were sent to concentration camps."
+            },
+            {
+                "code": "camp_example_to-escape-the-war-they-were-sent-to-a-refugee-camp",
+                "text": "To escape the war they were sent to a refugee camp."
+            },
+            {
+                "code": "camp_example_let-s-establish-camp-near-that-tree",
+                "text": "Let's establish camp near that tree."
+            },
+            {
+                "code": "camp_example_our-camp-is-located-over-that-hill",
+                "text": "Our camp is located over that hill."
+            },
+            {
+                "code": "camp_example_the-children-attended-summer-camp",
+                "text": "The children attended summer camp."
+            },
+            {
+                "code": "camp_example_enemy-soldiers-attacked-the-camp",
+                "text": "Enemy soldiers attacked the camp."
+            },
+            {
+                "code": "camp_example_the-prison-camps-were-liberated-by-allied-soldiers",
+                "text": "The prison camps were liberated by Allied soldiers."
+            },
+            {
+                "code": "camp_example_the-country-was-divided-into-opposing-camps",
+                "text": "The country was divided into opposing camps."
+            },
+            {
+                "code": "camp_example_he-was-a-concentration-camp-guard",
+                "text": "He was a concentration camp guard."
+            },
+            {
+                "code": "camp_example_the-children-made-friends-at-summer-camp",
+                "text": "The children made friends at summer camp."
+            },
+            {
+                "code": "camp_example_she-spent-most-of-her-life-in-a-concentration-camp",
+                "text": "She spent most of her life in a concentration camp."
+            }
+        ]
+    }
+]

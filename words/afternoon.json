@@ -1,0 +1,52 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the time of the day between 12 o'clock noon and evening",
+        "examples": [
+            {
+                "code": "afternoon_example_let-s-go-to-the-park-this-afternoon",
+                "text": "Let's go to the park this afternoon."
+            },
+            {
+                "code": "afternoon_example_i-like-going-to-the-beach-on-summer-afternoons",
+                "text": "I like going to the beach on summer afternoons."
+            },
+            {
+                "code": "afternoon_example_my-wife-and-i-met-on-a-cold-afternoon",
+                "text": "My wife and I met on a cold afternoon."
+            },
+            {
+                "code": "afternoon_example_he-slept-until-the-late-afternoon",
+                "text": "He slept until the late afternoon."
+            },
+            {
+                "code": "afternoon_example_we-worked-yesterday-afternoon",
+                "text": "We worked yesterday afternoon."
+            },
+            {
+                "code": "afternoon_example_we-spent-the-afternoon-together",
+                "text": "We spent the afternoon together."
+            },
+            {
+                "code": "afternoon_example_we-wasted-the-afternoon-doing-nothing",
+                "text": "We wasted the afternoon doing nothing."
+            },
+            {
+                "code": "afternoon_example_the-afternoon-progressed-without-any-problems",
+                "text": "The afternoon progressed without any problems."
+            },
+            {
+                "code": "afternoon_example_it-is-time-for-my-afternoon-nap",
+                "text": "It is time for my afternoon nap."
+            },
+            {
+                "code": "afternoon_example_i-enjoy-the-afternoon-sun",
+                "text": "I enjoy the afternoon sun."
+            },
+            {
+                "code": "afternoon_example_we-should-be-finished-by-the-afternoon",
+                "text": "We should be finished by the afternoon."
+            }
+        ]
+    }
+]

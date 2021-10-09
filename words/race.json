@@ -1,0 +1,118 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to run fast; to try to run faster than others",
+        "examples": [
+            {
+                "code": "race_example_my-heart-was-racing-after-the-accident",
+                "text": "My heart was racing after the accident."
+            },
+            {
+                "code": "race_example_my-mind-was-racing-to-remember-his-name",
+                "text": "My mind was racing to remember his name."
+            },
+            {
+                "code": "race_example_the-car-raced-away",
+                "text": "The car raced away."
+            },
+            {
+                "code": "race_example_he-raced-ahead",
+                "text": "He raced ahead."
+            },
+            {
+                "code": "race_example_we-raced-downstairs",
+                "text": "We raced downstairs."
+            },
+            {
+                "code": "race_example_i-raced-after-the-bike",
+                "text": "I raced after the bike."
+            },
+            {
+                "code": "race_example_we-raced-through-the-street",
+                "text": "We raced through the street."
+            },
+            {
+                "code": "race_example_i-raced-into-the-house",
+                "text": "I raced into the house."
+            }
+        ]
+    },
+    {
+        "type": "(n)",
+        "mean": "a contest to see who is the fastest; a group that shares the same language, culture, and appearance",
+        "examples": [
+            {
+                "code": "race_example_they-held-a-race-at-the-park",
+                "text": "They held a race at the park."
+            },
+            {
+                "code": "race_example_i-ran-a-race-last-year",
+                "text": "I ran a race last year."
+            },
+            {
+                "code": "race_example_the-race-took-place-in-may",
+                "text": "The race took place in May."
+            },
+            {
+                "code": "race_example_she-dropped-out-of-the-race",
+                "text": "She dropped out of the race."
+            },
+            {
+                "code": "race_example_it-was-a-tough-race",
+                "text": "It was a tough race."
+            },
+            {
+                "code": "race_example_she-entered-a-long-distance-race",
+                "text": "She entered a long-distance race."
+            },
+            {
+                "code": "race_example_we-watched-a-horse-race-on-tv",
+                "text": "We watched a horse race on TV."
+            },
+            {
+                "code": "race_example_the-whole-country-is-watching-the-presidential-race",
+                "text": "The whole country is watching the presidential race."
+            },
+            {
+                "code": "race_example_the-human-race-is-growing-quickly",
+                "text": "The human race is growing quickly."
+            },
+            {
+                "code": "race_example_she-is-of-mixed-race",
+                "text": "She is of mixed race."
+            },
+            {
+                "code": "race_example_the-race-winner-was-caught-cheating",
+                "text": "The race winner was caught cheating."
+            },
+            {
+                "code": "race_example_race-equality-is-an-important-issue",
+                "text": "Race equality is an important issue."
+            },
+            {
+                "code": "race_example_there-was-a-race-between-the-two-star-athletes",
+                "text": "There was a race between the two star athletes."
+            },
+            {
+                "code": "race_example_i-raced-against-the-champion",
+                "text": "I raced against the champion."
+            },
+            {
+                "code": "race_example_he-is-behind-in-the-race-for-the-championship",
+                "text": "He is behind in the race for the championship."
+            },
+            {
+                "code": "race_example_we-are-watching-the-race-for-the-first-place",
+                "text": "We are watching the race for the first place."
+            },
+            {
+                "code": "race_example_there-are-people-from-many-races-at-this-school",
+                "text": "There are people from many races at this school."
+            },
+            {
+                "code": "race_example_we-should-be-respectful-to-people-of-all-races",
+                "text": "We should be respectful to people of all races."
+            }
+        ]
+    }
+]

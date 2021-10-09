@@ -1,0 +1,60 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a goal; a reason for something",
+        "examples": [
+            {
+                "code": "purpose_example_this-plan-suits-my-purpose",
+                "text": "This plan suits my purpose."
+            },
+            {
+                "code": "purpose_example_he-lacks-a-purpose-in-life",
+                "text": "He lacks a purpose in life."
+            },
+            {
+                "code": "purpose_example_i-have-fulfilled-my-purpose",
+                "text": "I have fulfilled my purpose."
+            },
+            {
+                "code": "purpose_example_eating-dessert-defeats-the-purpose-of-dieting",
+                "text": "Eating dessert defeats the purpose of dieting."
+            },
+            {
+                "code": "purpose_example_what-is-your-main-purpose-for-being-here",
+                "text": "What is your main purpose for being here?"
+            },
+            {
+                "code": "purpose_example_he-has-a-special-purpose-here",
+                "text": "He has a special purpose here."
+            },
+            {
+                "code": "purpose_example_my-chief-purpose-for-being-here-is-to-win",
+                "text": "My chief purpose for being here is to win."
+            },
+            {
+                "code": "purpose_example_we-have-a-common-purpose",
+                "text": "We have a common purpose."
+            },
+            {
+                "code": "purpose_example_my-original-purpose-for-moving-here-was-to-attend-school",
+                "text": "My original purpose for moving here was to attend school."
+            },
+            {
+                "code": "purpose_example_for-all-practical-purposes-the-show-is-over",
+                "text": "For all practical purposes, the show is over."
+            },
+            {
+                "code": "purpose_example_we-did-this-for-training-purposes",
+                "text": "We did this for training purposes."
+            },
+            {
+                "code": "purpose_example_i-left-without-her-on-purpose",
+                "text": "I left without her on purpose."
+            },
+            {
+                "code": "purpose_example_i-want-to-go-there-for-the-purpose-of-attending-school",
+                "text": "I want to go there for the purpose of attending school."
+            }
+        ]
+    }
+]

@@ -1,0 +1,116 @@
+[
+    {
+        "type": "(n)",
+        "mean": "something that happens; a planned social occasion; a sports competition",
+        "examples": [
+            {
+                "code": "event_example_i-have-a-big-event-coming-up",
+                "text": "I have a big event coming up."
+            },
+            {
+                "code": "event_example_his-election-was-a-historic-event",
+                "text": "His election was a historic event."
+            },
+            {
+                "code": "event_example_this-has-been-such-a-remarkable-event",
+                "text": "This has been such a remarkable event."
+            },
+            {
+                "code": "event_example_the-dog-s-death-was-such-a-sad-event-for-the-family",
+                "text": "The dog's death was such a sad event for the family."
+            },
+            {
+                "code": "event_example_the-main-event-should-be-starting-soon",
+                "text": "The main event should be starting soon."
+            },
+            {
+                "code": "event_example_she-likes-to-keep-up-on-recent-events",
+                "text": "She likes to keep up on recent events."
+            },
+            {
+                "code": "event_example_we-are-trying-to-prepare-for-future-events",
+                "text": "We are trying to prepare for future events."
+            },
+            {
+                "code": "event_example_she-is-on-the-committee-for-the-charity-event",
+                "text": "She is on the committee for the charity event."
+            },
+            {
+                "code": "event_example_we-are-trying-to-make-this-a-regular-event",
+                "text": "We are trying to make this a regular event."
+            },
+            {
+                "code": "event_example_this-is-a-major-international-event",
+                "text": "This is a major international event."
+            },
+            {
+                "code": "event_example_the-wedding-will-be-a-black-tie-event",
+                "text": "The wedding will be a black-tie event."
+            },
+            {
+                "code": "event_example_this-country-s-team-only-competes-in-men-s-events",
+                "text": "This country's team only competes in men's events."
+            },
+            {
+                "code": "event_example_we-have-just-witnessed-a-historic-event",
+                "text": "We have just witnessed a historic event."
+            },
+            {
+                "code": "event_example_he-can-remember-the-event-perfectly",
+                "text": "He can remember the event perfectly."
+            },
+            {
+                "code": "event_example_we-will-have-a-party-to-mark-this-important-event",
+                "text": "We will have a party to mark this important event."
+            },
+            {
+                "code": "event_example_the-terrible-sequence-of-events-happened-so-quickly",
+                "text": "The terrible sequence of events happened so quickly."
+            },
+            {
+                "code": "event_example_we-are-looking-into-the-events-that-led-to-the-disaster",
+                "text": "We are looking into the events that led to the disaster."
+            },
+            {
+                "code": "event_example_they-are-organizing-a-charity-event",
+                "text": "They are organizing a charity event."
+            },
+            {
+                "code": "event_example_he-needs-to-publicize-the-event-so-people-will-come",
+                "text": "He needs to publicize the event so people will come."
+            },
+            {
+                "code": "event_example_many-people-attended-the-fund-raising-event",
+                "text": "Many people attended the fund-raising event."
+            },
+            {
+                "code": "event_example_many-important-people-boycotted-the-event",
+                "text": "Many important people boycotted the event."
+            },
+            {
+                "code": "event_example_the-event-takes-place-at-8pm",
+                "text": "The event takes place at 8pm."
+            },
+            {
+                "code": "event_example_many-people-entered-the-event",
+                "text": "Many people entered the event."
+            },
+            {
+                "code": "event_example_canada-will-host-a-pre-olympic-event",
+                "text": "Canada will host a pre-Olympic event."
+            },
+            {
+                "code": "event_example_he-won-three-track-events",
+                "text": "He won three track events."
+            },
+            {
+                "code": "event_example_they-won-three-medals-in-the-swimming-events",
+                "text": "They won three medals in the swimming events."
+            },
+            {
+                "code": "event_example_their-team-won-t-compete-at-this-event",
+                "text": "Their team won't compete at this event."
+            }
+        ]
+    }
+]

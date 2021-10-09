@@ -1,0 +1,114 @@
+[
+    {
+        "type": "(n)",
+        "mean": "money someone receives for doing work",
+        "examples": [
+            {
+                "code": "pay_example_what-is-the-hourly-pay",
+                "text": "What is the hourly pay?"
+            },
+            {
+                "code": "pay_example_the-workers-receive-average-pay",
+                "text": "The workers receive average pay."
+            },
+            {
+                "code": "pay_example_there-should-be-equal-pay-for-both-men-and-women",
+                "text": "There should be equal pay for both men and women."
+            },
+            {
+                "code": "pay_example_he-receives-overtime-pay-for-working-on-the-weekends",
+                "text": "He receives overtime pay for working on the weekends."
+            },
+            {
+                "code": "pay_example_she-received-sick-pay-for-two-weeks",
+                "text": "She received sick pay for two weeks."
+            },
+            {
+                "code": "pay_example_she-earned-her-pay-through-hard-work",
+                "text": "She earned her pay through hard work."
+            },
+            {
+                "code": "pay_example_management-cut-everyone-s-pay",
+                "text": "Management cut everyone's pay."
+            },
+            {
+                "code": "pay_example_the-company-increased-everyone-s-pay-this-year",
+                "text": "The company increased everyone's pay this year."
+            },
+            {
+                "code": "pay_example_we-look-forward-to-pay-day",
+                "text": "We look forward to pay day."
+            },
+            {
+                "code": "pay_example_she-received-a-great-pay-raise-this-year",
+                "text": "She received a great pay raise this year."
+            },
+            {
+                "code": "pay_example_he-got-a-pay-cut-and-a-demotion-at-work",
+                "text": "He got a pay cut and a demotion at work."
+            },
+            {
+                "code": "pay_example_what-is-the-pay-grade-for-that-job",
+                "text": "What is the pay grade for that job?"
+            },
+            {
+                "code": "pay_example_he-is-taking-a-leave-of-absence-without-pay",
+                "text": "He is taking a leave of absence without pay."
+            },
+            {
+                "code": "pay_example_she-is-taking-maternity-leave-with-pay",
+                "text": "She is taking maternity leave with pay."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to give a person money for doing work; to give a person money for something that is owed; to give or offer something",
+        "examples": [
+            {
+                "code": "pay_example_the-company-pays-their-employees-well",
+                "text": "The company pays their employees well."
+            },
+            {
+                "code": "pay_example_i-will-gladly-pay-the-difference-for-a-better-rental-car",
+                "text": "I will gladly pay the difference for a better rental car."
+            },
+            {
+                "code": "pay_example_we-typically-pay-for-extra-services-at-a-hotel",
+                "text": "We typically pay for extra services at a hotel."
+            },
+            {
+                "code": "pay_example_she-is-refusing-to-pay-up",
+                "text": "She is refusing to pay up."
+            },
+            {
+                "code": "pay_example_we-pay-for-cable-television",
+                "text": "We pay for cable television."
+            },
+            {
+                "code": "pay_example_pay-attention-in-class",
+                "text": "Pay attention in class!"
+            },
+            {
+                "code": "pay_example_we-pay-the-balance-each-month",
+                "text": "We pay the balance each month."
+            },
+            {
+                "code": "pay_example_citizens-pay-taxes-every-year",
+                "text": "Citizens pay taxes every year."
+            },
+            {
+                "code": "pay_example_we-had-to-pay-a-fine",
+                "text": "We had to pay a fine."
+            },
+            {
+                "code": "pay_example_he-paid-her-a-compliment",
+                "text": "He paid her a compliment."
+            },
+            {
+                "code": "pay_example_she-paid-her-grandmother-a-visit",
+                "text": "She paid her grandmother a visit."
+            }
+        ]
+    }
+]

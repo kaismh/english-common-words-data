@@ -1,0 +1,44 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to say that something is true or really happened",
+        "examples": [
+            {
+                "code": "confirm_example_they-just-confirmed-the-news",
+                "text": "They just confirmed the news."
+            },
+            {
+                "code": "confirm_example_the-decision-was-officially-confirmed",
+                "text": "The decision was officially confirmed."
+            },
+            {
+                "code": "confirm_example_we-were-unable-to-confirm-the-reservation",
+                "text": "We were unable to confirm the reservation."
+            },
+            {
+                "code": "confirm_example_the-data-appears-to-confirm-our-research",
+                "text": "The data appears to confirm our research."
+            },
+            {
+                "code": "confirm_example_tests-will-help-to-confirm-the-diagnosis",
+                "text": "Tests will help to confirm the diagnosis."
+            },
+            {
+                "code": "confirm_example_the-autopsy-confirmed-the-cause-of-death",
+                "text": "The autopsy confirmed the cause of death."
+            },
+            {
+                "code": "confirm_example_the-examination-confirmed-our-worst-fears",
+                "text": "The examination confirmed our worst fears."
+            },
+            {
+                "code": "confirm_example_we-need-to-confirm-our-appointment",
+                "text": "We need to confirm our appointment."
+            },
+            {
+                "code": "confirm_example_the-tests-confirmed-his-diagnosis",
+                "text": "The tests confirmed his diagnosis."
+            }
+        ]
+    }
+]

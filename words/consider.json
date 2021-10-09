@@ -1,0 +1,40 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to think about",
+        "examples": [
+            {
+                "code": "consider_example_please-carefully-consider-your-options",
+                "text": "Please carefully consider your options."
+            },
+            {
+                "code": "consider_example_i-did-briefly-consider-quitting-my-job",
+                "text": "I did briefly consider quitting my job."
+            },
+            {
+                "code": "consider_example_i-never-considered-moving-an-option",
+                "text": "I never considered moving an option."
+            },
+            {
+                "code": "consider_example_have-you-ever-considered-retiring",
+                "text": "Have you ever considered retiring?"
+            },
+            {
+                "code": "consider_example_they-are-considering-me-for-the-job",
+                "text": "They are considering me for the job."
+            },
+            {
+                "code": "consider_example_we-must-consider-the-facts",
+                "text": "We must consider the facts."
+            },
+            {
+                "code": "consider_example_we-must-consider-all-of-the-evidence",
+                "text": "We must consider all of the evidence."
+            },
+            {
+                "code": "consider_example_we-should-consider-him-for-the-position",
+                "text": "We should consider him for the position."
+            }
+        ]
+    }
+]

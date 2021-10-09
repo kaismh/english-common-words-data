@@ -1,0 +1,60 @@
+[
+    {
+        "type": "(n)",
+        "mean": "an answer",
+        "examples": [
+            {
+                "code": "response_example_i-awaited-his-response",
+                "text": "I awaited his response."
+            },
+            {
+                "code": "response_example_he-posted-an-official-response-on-his-website",
+                "text": "He posted an official response on his website."
+            },
+            {
+                "code": "response_example_i-predict-a-slow-response-from-them",
+                "text": "I predict a slow response from them."
+            },
+            {
+                "code": "response_example_she-showed-very-little-response-to-the-medication",
+                "text": "She showed very little response to the medication."
+            },
+            {
+                "code": "response_example_don-t-try-to-influence-his-response",
+                "text": "Don't try to influence his response."
+            },
+            {
+                "code": "response_example_she-got-a-written-response",
+                "text": "She got a written response."
+            },
+            {
+                "code": "response_example_what-do-you-think-the-public-response-will-be",
+                "text": "What do you think the public response will be?"
+            },
+            {
+                "code": "response_example_the-film-received-a-lukewarm-response",
+                "text": "The film received a lukewarm response."
+            },
+            {
+                "code": "response_example_we-did-not-get-an-immediate-response-from-him",
+                "text": "We did not get an immediate response from him."
+            },
+            {
+                "code": "response_example_she-never-got-a-direct-response",
+                "text": "She never got a direct response."
+            },
+            {
+                "code": "response_example_what-is-the-response-time-to-emergency-calls",
+                "text": "What is the response time to emergency calls?"
+            },
+            {
+                "code": "response_example_in-response-to-your-question-i-have-no-answer",
+                "text": "In response to your question, I have no answer."
+            },
+            {
+                "code": "response_example_i-got-a-response-from-him-last-week",
+                "text": "I got a response from him last week."
+            }
+        ]
+    }
+]

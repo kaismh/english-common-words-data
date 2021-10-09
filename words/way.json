@@ -1,0 +1,96 @@
+[
+    {
+        "type": "(n)",
+        "mean": "how someone does something; path; direction",
+        "examples": [
+            {
+                "code": "way_example_do-you-have-a-good-way-to-explain-this",
+                "text": "Do you have a good way to explain this?"
+            },
+            {
+                "code": "way_example_that-is-the-right-way-to-do-it",
+                "text": "That is the right way to do it."
+            },
+            {
+                "code": "way_example_he-does-things-a-different-way",
+                "text": "He does things a different way."
+            },
+            {
+                "code": "way_example_this-is-the-new-way-to-send-messages",
+                "text": "This is the new way to send messages."
+            },
+            {
+                "code": "way_example_that-is-the-old-way-to-send-messages",
+                "text": "That is the old way to send messages."
+            },
+            {
+                "code": "way_example_i-need-the-quickest-way-to-the-hospital",
+                "text": "I need the quickest way to the hospital."
+            },
+            {
+                "code": "way_example_you-are-going-the-wrong-way",
+                "text": "You are going the wrong way."
+            },
+            {
+                "code": "way_example_she-wants-to-do-everything-her-own-way",
+                "text": "She wants to do everything her own way."
+            },
+            {
+                "code": "way_example_he-has-his-way-of-doing-things",
+                "text": "He has his way of doing things."
+            },
+            {
+                "code": "way_example_please-get-out-of-the-way",
+                "text": "Please get out of the way."
+            },
+            {
+                "code": "way_example_they-are-looking-at-different-ways-to-improve-their-work",
+                "text": "They are looking at different ways to improve their work."
+            },
+            {
+                "code": "way_example_we-found-a-faster-way-to-work",
+                "text": "We found a faster way to work."
+            },
+            {
+                "code": "way_example_we-created-a-new-way-of-selling-their-product",
+                "text": "We created a new way of selling their product."
+            },
+            {
+                "code": "way_example_they-stood-in-his-way",
+                "text": "They stood in his way."
+            },
+            {
+                "code": "way_example_he-will-show-them-the-way-to-the-library",
+                "text": "He will show them the way to the library."
+            },
+            {
+                "code": "way_example_please-walk-this-way",
+                "text": "Please walk this way."
+            },
+            {
+                "code": "way_example_she-fought-her-way-to-the-front-of-the-line",
+                "text": "She fought her way to the front of the line."
+            },
+            {
+                "code": "way_example_she-knows-the-way-home",
+                "text": "She knows the way home."
+            },
+            {
+                "code": "way_example_he-saw-a-dead-animal-along-the-way-to-school",
+                "text": "He saw a dead animal along the way to school."
+            },
+            {
+                "code": "way_example_they-were-in-the-way",
+                "text": "They were in the way."
+            },
+            {
+                "code": "way_example_are-you-on-the-way",
+                "text": "Are you on the way?"
+            },
+            {
+                "code": "way_example_please-do-not-go-out-of-your-way",
+                "text": "Please do not go out of your way."
+            }
+        ]
+    }
+]

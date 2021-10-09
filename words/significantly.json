@@ -1,0 +1,28 @@
+[
+    {
+        "type": "(adv)",
+        "mean": "in a way that is very important",
+        "examples": [
+            {
+                "code": "significantly_example_the-new-paint-job-made-the-house-look-significantly-better",
+                "text": "The new paint job made the house look significantly better."
+            },
+            {
+                "code": "significantly_example_taking-the-bus-may-be-significantly-slower-than-the-train",
+                "text": "Taking the bus may be significantly slower than the train."
+            },
+            {
+                "code": "significantly_example_we-were-delayed-significantly",
+                "text": "We were delayed significantly."
+            },
+            {
+                "code": "significantly_example_her-pay-was-significantly-increased",
+                "text": "Her pay was significantly increased."
+            },
+            {
+                "code": "significantly_example_building-a-garage-significantly-added-value-to-their-house",
+                "text": "Building a garage significantly added value to their house."
+            }
+        ]
+    }
+]

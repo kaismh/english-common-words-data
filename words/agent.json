@@ -1,0 +1,32 @@
+[
+    {
+        "type": "(n)",
+        "mean": "someone who works at a business or office that provides a specific service; someone who tries to get secret information from another person or country",
+        "examples": [
+            {
+                "code": "agent_example_i-bought-my-tickets-from-a-travel-agent",
+                "text": "I bought my tickets from a travel agent."
+            },
+            {
+                "code": "agent_example_the-real-estate-agent-makes-money-by-commission",
+                "text": "The real estate agent makes money by commission."
+            },
+            {
+                "code": "agent_example_the-spy-was-a-secret-agent",
+                "text": "The spy was a secret agent."
+            },
+            {
+                "code": "agent_example_our-organization-uses-federal-agents",
+                "text": "Our organization uses federal agents."
+            },
+            {
+                "code": "agent_example_we-found-our-house-through-a-real-estate-agent",
+                "text": "We found our house through a real estate agent."
+            },
+            {
+                "code": "agent_example_he-s-working-with-a-federal-agent",
+                "text": "He's working with a federal agent."
+            }
+        ]
+    }
+]

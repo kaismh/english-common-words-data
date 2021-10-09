@@ -1,0 +1,62 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to write the letters of a word in correct order",
+        "examples": [
+            {
+                "code": "spell_example_he-spelled-the-word-correctly",
+                "text": "He spelled the word correctly."
+            },
+            {
+                "code": "spell_example_his-name-was-spelled-right",
+                "text": "His name was spelled right."
+            },
+            {
+                "code": "spell_example_the-boy-was-trying-to-spell-the-word-backwards",
+                "text": "The boy was trying to spell the word backwards."
+            },
+            {
+                "code": "spell_example_i-had-to-spell-the-word-for-him",
+                "text": "I had to spell the word for him."
+            }
+        ]
+    },
+    {
+        "type": "(n)",
+        "mean": "a period of time; an occurrence caused by magical words",
+        "examples": [
+            {
+                "code": "spell_example_the-country-is-going-through-a-dry-spell",
+                "text": "The country is going through a dry spell."
+            },
+            {
+                "code": "spell_example_she-had-another-dizzy-spell",
+                "text": "She had another dizzy spell."
+            },
+            {
+                "code": "spell_example_he-s-going-through-a-tough-spell-right-now",
+                "text": "He's going through a tough spell right now."
+            },
+            {
+                "code": "spell_example_he-was-under-a-magic-spell-of-a-local-witch",
+                "text": "He was under a magic spell of a local witch."
+            },
+            {
+                "code": "spell_example_she-is-going-through-a-bad-spell-right-now",
+                "text": "She is going through a bad spell right now."
+            },
+            {
+                "code": "spell_example_he-was-under-her-magic-spell",
+                "text": "He was under her magic spell."
+            },
+            {
+                "code": "spell_example_a-witch-cast-an-evil-spell-on-them",
+                "text": "A witch cast an evil spell on them."
+            },
+            {
+                "code": "spell_example_the-magical-spell-was-broken",
+                "text": "The magical spell was broken."
+            }
+        ]
+    }
+]

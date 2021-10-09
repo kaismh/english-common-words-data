@@ -1,0 +1,36 @@
+[
+    {
+        "type": "(adv)",
+        "mean": "not together; separate",
+        "examples": [
+            {
+                "code": "apart_example_the-ice-began-to-break-apart",
+                "text": "The ice began to break apart."
+            },
+            {
+                "code": "apart_example_we-decided-to-live-apart",
+                "text": "We decided to live apart."
+            },
+            {
+                "code": "apart_example_i-couldn-t-pull-the-pieces-apart",
+                "text": "I couldn't pull the pieces apart."
+            },
+            {
+                "code": "apart_example_my-daughter-had-to-sit-apart-from-her-friend",
+                "text": "My daughter had to sit apart from her friend."
+            },
+            {
+                "code": "apart_example_my-son-likes-to-take-things-apart-and-put-them-back-together",
+                "text": "My son likes to take things apart and put them back together."
+            },
+            {
+                "code": "apart_example_the-twins-were-born-two-minutes-apart",
+                "text": "The twins were born two minutes apart."
+            },
+            {
+                "code": "apart_example_the-police-demanded-that-he-spread-his-feet-apart",
+                "text": "The police demanded that he spread his feet apart."
+            }
+        ]
+    }
+]

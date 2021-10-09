@@ -1,0 +1,54 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a large cloth used to catch wind which helps a boat move through water",
+        "examples": [
+            {
+                "code": "sail_example_lower-the-main-sail",
+                "text": "Lower the main sail."
+            },
+            {
+                "code": "sail_example_the-captain-ordered-us-to-raise-the-sails",
+                "text": "The captain ordered us to raise the sails."
+            },
+            {
+                "code": "sail_example_the-sails-flapped-in-the-wind",
+                "text": "The sails flapped in the wind."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to travel on water in a boat",
+        "examples": [
+            {
+                "code": "sail_example_the-boat-sailed-gracefully",
+                "text": "The boat sailed gracefully."
+            },
+            {
+                "code": "sail_example_the-ship-sailed-away",
+                "text": "The ship sailed away."
+            },
+            {
+                "code": "sail_example_he-sailed-across-the-ocean",
+                "text": "He sailed across the ocean."
+            },
+            {
+                "code": "sail_example_we-sailed-around-the-world",
+                "text": "We sailed around the world."
+            },
+            {
+                "code": "sail_example_the-ferry-sailed-for-three-hours",
+                "text": "The ferry sailed for three hours."
+            },
+            {
+                "code": "sail_example_she-is-sailing-from-london",
+                "text": "She is sailing from London."
+            },
+            {
+                "code": "sail_example_the-ship-sailed-to-australia",
+                "text": "The ship sailed to Australia."
+            }
+        ]
+    }
+]

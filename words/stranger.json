@@ -1,0 +1,56 @@
+[
+    {
+        "type": "(n)",
+        "mean": "someone you do not know",
+        "examples": [
+            {
+                "code": "stranger_example_don-t-open-the-door-to-complete-strangers",
+                "text": "Don't open the door to complete strangers."
+            },
+            {
+                "code": "stranger_example_a-mysterious-stranger-appeared-in-my-dream",
+                "text": "A mysterious stranger appeared in my dream."
+            },
+            {
+                "code": "stranger_example_i-was-trying-to-help-a-passing-stranger",
+                "text": "I was trying to help a passing stranger."
+            },
+            {
+                "code": "stranger_example_i-m-a-stranger-to-the-area",
+                "text": "I'm a stranger to the area."
+            },
+            {
+                "code": "stranger_example_he-s-a-stranger-from-another-country",
+                "text": "He's a stranger from another country."
+            },
+            {
+                "code": "stranger_example_do-not-let-strangers-in-the-house",
+                "text": "Do not let strangers in the house."
+            },
+            {
+                "code": "stranger_example_there-is-a-stranger-at-the-door",
+                "text": "There is a stranger at the door."
+            },
+            {
+                "code": "stranger_example_he-is-a-stranger-to-my-children",
+                "text": "He is a stranger to my children."
+            },
+            {
+                "code": "stranger_example_do-not-talk-to-strangers",
+                "text": "Do not talk to strangers."
+            },
+            {
+                "code": "stranger_example_i-met-a-complete-stranger-today",
+                "text": "I met a complete stranger today."
+            },
+            {
+                "code": "stranger_example_a-stranger-asked-me-for-help",
+                "text": "A stranger asked me for help."
+            },
+            {
+                "code": "stranger_example_a-stranger-knocked-on-the-door",
+                "text": "A stranger knocked on the door."
+            }
+        ]
+    }
+]

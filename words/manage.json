@@ -1,0 +1,64 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to be in charge of a business or company; to be able to do something difficult",
+        "examples": [
+            {
+                "code": "manage_example_i-am-not-able-to-manage-without-your-help",
+                "text": "I am not able to manage without your help."
+            },
+            {
+                "code": "manage_example_we-can-manage-without-them",
+                "text": "We can manage without them."
+            },
+            {
+                "code": "manage_example_she-manages-the-store-by-herself",
+                "text": "She manages the store by herself."
+            },
+            {
+                "code": "manage_example_it-is-my-job-to-manage-the-estate",
+                "text": "It is my job to manage the estate."
+            },
+            {
+                "code": "manage_example_he-managed-the-campaign-for-a-full-year",
+                "text": "He managed the campaign for a full year."
+            },
+            {
+                "code": "manage_example_can-you-manage-the-workload",
+                "text": "Can you manage the workload?"
+            },
+            {
+                "code": "manage_example_she-successfully-managed-to-keep-her-business-from-failing",
+                "text": "She successfully managed to keep her business from failing."
+            },
+            {
+                "code": "manage_example_we-managed-perfectly-well-under-the-circumstances",
+                "text": "We managed perfectly well under the circumstances."
+            },
+            {
+                "code": "manage_example_we-barely-managed-to-get-by",
+                "text": "We barely managed to get by."
+            },
+            {
+                "code": "manage_example_we-finally-managed-to-pay-off-the-loan",
+                "text": "We finally managed to pay off the loan."
+            },
+            {
+                "code": "manage_example_the-business-was-managed-well-by-two-experienced-partners",
+                "text": "The business was managed well by two experienced partners."
+            },
+            {
+                "code": "manage_example_they-carefully-manage-their-finances",
+                "text": "They carefully manage their finances."
+            },
+            {
+                "code": "manage_example_will-you-be-able-to-manage-without-me",
+                "text": "Will you be able to manage without me?"
+            },
+            {
+                "code": "manage_example_we-can-t-manage-on-just-one-income",
+                "text": "We can't manage on just one income."
+            }
+        ]
+    }
+]

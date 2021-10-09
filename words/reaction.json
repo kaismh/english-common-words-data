@@ -1,0 +1,64 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a particular response after something happens; a physical response to a particular food or substance",
+        "examples": [
+            {
+                "code": "reaction_example_i-can-t-get-a-reaction-from-him",
+                "text": "I can't get a reaction from him."
+            },
+            {
+                "code": "reaction_example_we-couldn-t-gauge-her-reaction",
+                "text": "We couldn't gauge her reaction."
+            },
+            {
+                "code": "reaction_example_his-speech-provoked-a-strong-reaction",
+                "text": "His speech provoked a strong reaction."
+            },
+            {
+                "code": "reaction_example_the-peanut-butter-caused-an-allergic-reaction",
+                "text": "The peanut butter caused an allergic reaction."
+            },
+            {
+                "code": "reaction_example_i-had-a-strong-reaction-to-the-drink",
+                "text": "I had a strong reaction to the drink."
+            },
+            {
+                "code": "reaction_example_her-reaction-time-is-slow",
+                "text": "Her reaction time is slow."
+            },
+            {
+                "code": "reaction_example_he-had-an-allergic-reaction-to-seafood",
+                "text": "He had an allergic reaction to seafood."
+            },
+            {
+                "code": "reaction_example_her-reaction-was-unexpected",
+                "text": "Her reaction was unexpected."
+            },
+            {
+                "code": "reaction_example_what-was-your-initial-reaction",
+                "text": "What was your initial reaction?"
+            },
+            {
+                "code": "reaction_example_there-was-positive-reaction-to-the-announcement",
+                "text": "There was positive reaction to the announcement."
+            },
+            {
+                "code": "reaction_example_what-was-the-public-reaction-over-the-scandal",
+                "text": "What was the public reaction over the scandal?"
+            },
+            {
+                "code": "reaction_example_she-cried-in-reaction-to-the-news",
+                "text": "She cried in reaction to the news."
+            },
+            {
+                "code": "reaction_example_the-reaction-to-our-film-was-great",
+                "text": "The reaction to our film was great."
+            },
+            {
+                "code": "reaction_example_that-was-just-a-reaction-against-her",
+                "text": "That was just a reaction against her."
+            }
+        ]
+    }
+]

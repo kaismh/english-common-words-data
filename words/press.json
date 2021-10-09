@@ -1,0 +1,118 @@
+[
+    {
+        "type": "(n)",
+        "mean": "newspapers or magazines; a machine for printing newspapers or magazines",
+        "examples": [
+            {
+                "code": "press_example_the-press-is-censored-by-the-government",
+                "text": "The press is censored by the government."
+            },
+            {
+                "code": "press_example_did-you-alert-the-press",
+                "text": "Did you alert the press?"
+            },
+            {
+                "code": "press_example_the-press-covered-the-incident-all-day",
+                "text": "The press covered the incident all day."
+            },
+            {
+                "code": "press_example_that-actor-gets-a-lot-of-bad-press",
+                "text": "That actor gets a lot of bad press."
+            },
+            {
+                "code": "press_example_the-newspaper-goes-to-press-in-the-early-morning",
+                "text": "The newspaper goes to press in the early morning."
+            },
+            {
+                "code": "press_example_did-you-see-the-press-release",
+                "text": "Did you see the press release?"
+            },
+            {
+                "code": "press_example_he-spoke-at-the-press-conference",
+                "text": "He spoke at the press conference."
+            },
+            {
+                "code": "press_example_there-has-been-a-lot-of-press-coverage",
+                "text": "There has been a lot of press coverage."
+            },
+            {
+                "code": "press_example_the-press-report-was-short",
+                "text": "The press report was short."
+            },
+            {
+                "code": "press_example_he-invited-the-press-corps",
+                "text": "He invited the press corps."
+            },
+            {
+                "code": "press_example_this-country-has-free-press",
+                "text": "This country has free press."
+            },
+            {
+                "code": "press_example_the-foreign-press-covered-the-incident",
+                "text": "The foreign press covered the incident."
+            },
+            {
+                "code": "press_example_the-printing-press-was-a-great-invention",
+                "text": "The printing press was a great invention."
+            },
+            {
+                "code": "press_example_i-read-about-him-in-the-press",
+                "text": "I read about him in the press."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to push; to persuade; to iron",
+        "examples": [
+            {
+                "code": "press_example_i-pressed-his-shirts",
+                "text": "I pressed his shirts."
+            },
+            {
+                "code": "press_example_he-pressed-the-button",
+                "text": "He pressed the button."
+            },
+            {
+                "code": "press_example_don-t-press-your-luck",
+                "text": "Don't press your luck."
+            },
+            {
+                "code": "press_example_they-were-pressed-closely-together",
+                "text": "They were pressed closely together."
+            },
+            {
+                "code": "press_example_she-pressed-her-hands-gently-on-his-shoulder",
+                "text": "She pressed her hands gently on his shoulder."
+            },
+            {
+                "code": "press_example_you-have-to-press-the-doorbell-hard",
+                "text": "You have to press the doorbell hard."
+            },
+            {
+                "code": "press_example_press-down-on-the-gas-pedal",
+                "text": "Press down on the gas pedal."
+            },
+            {
+                "code": "press_example_he-pressed-his-hands-together",
+                "text": "He pressed his hands together."
+            },
+            {
+                "code": "press_example_she-neatly-pressed-his-shirts",
+                "text": "She neatly pressed his shirts."
+            },
+            {
+                "code": "press_example_she-pressed-for-another-try",
+                "text": "She pressed for another try."
+            },
+            {
+                "code": "press_example_he-pressed-his-body-against-the-door",
+                "text": "He pressed his body against the door."
+            },
+            {
+                "code": "press_example_she-pressed-her-hands-into-the-wet-clay",
+                "text": "She pressed her hands into the wet clay."
+            }
+        ]
+    }
+]

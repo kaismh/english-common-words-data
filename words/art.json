@@ -1,0 +1,60 @@
+[
+    {
+        "type": "(n)",
+        "mean": "something created with skill and imagination; the study of something that requires great skill",
+        "examples": [
+            {
+                "code": "art_example_he-creates-great-art",
+                "text": "He creates great art."
+            },
+            {
+                "code": "art_example_she-enjoys-abstract-art",
+                "text": "She enjoys abstract art."
+            },
+            {
+                "code": "art_example_i-am-studying-creative-arts",
+                "text": "I am studying creative arts."
+            },
+            {
+                "code": "art_example_we-are-studying-ancient-art",
+                "text": "We are studying ancient art."
+            },
+            {
+                "code": "art_example_she-loves-to-create-works-of-art",
+                "text": "She loves to create works of art."
+            },
+            {
+                "code": "art_example_the-millionaire-purchases-rare-art-from-all-over-the-world",
+                "text": "The millionaire purchases rare art from all over the world."
+            },
+            {
+                "code": "art_example_do-you-appreciate-fine-art",
+                "text": "Do you appreciate fine art?"
+            },
+            {
+                "code": "art_example_let-s-go-to-the-art-museum",
+                "text": "Let's go to the art museum!"
+            },
+            {
+                "code": "art_example_i-like-your-art-collection",
+                "text": "I like your art collection."
+            },
+            {
+                "code": "art_example_she-s-an-art-dealer",
+                "text": "She's an art dealer."
+            },
+            {
+                "code": "art_example_i-m-an-art-lover",
+                "text": "I'm an art lover."
+            },
+            {
+                "code": "art_example_we-are-students-at-an-art-school",
+                "text": "We are students at an art school."
+            },
+            {
+                "code": "art_example_this-is-my-art-studio",
+                "text": "This is my art studio."
+            }
+        ]
+    }
+]

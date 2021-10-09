@@ -1,0 +1,56 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to continue to live or to stay alive",
+        "examples": [
+            {
+                "code": "survive_example_the-plants-barely-survived-the-winter-months",
+                "text": "The plants barely survived the winter months."
+            },
+            {
+                "code": "survive_example_he-narrowly-survived-another-crash",
+                "text": "He narrowly survived another crash."
+            },
+            {
+                "code": "survive_example_he-miraculously-survived-the-fall-out-of-his-window",
+                "text": "He miraculously survived the fall out of his window."
+            },
+            {
+                "code": "survive_example_businesses-are-struggling-to-survive-financially",
+                "text": "Businesses are struggling to survive financially."
+            },
+            {
+                "code": "survive_example_low-income-people-are-struggling-to-survive-in-this-country",
+                "text": "Low income people are struggling to survive in this country."
+            },
+            {
+                "code": "survive_example_he-managed-to-survive-overnight-in-freezing-temperatures",
+                "text": "He managed to survive overnight in freezing temperatures."
+            },
+            {
+                "code": "survive_example_she-hopes-to-survive-through-surgery",
+                "text": "She hopes to survive through surgery."
+            },
+            {
+                "code": "survive_example_he-will-not-survive-as-their-leader",
+                "text": "He will not survive as their leader."
+            },
+            {
+                "code": "survive_example_the-lost-hikers-survived-on-their-outdoor-skills",
+                "text": "The lost hikers survived on their outdoor skills."
+            },
+            {
+                "code": "survive_example_he-survived-through-two-heart-surgeries",
+                "text": "He survived through two heart surgeries."
+            },
+            {
+                "code": "survive_example_she-survived-from-years-of-abuse",
+                "text": "She survived from years of abuse."
+            },
+            {
+                "code": "survive_example_she-was-told-that-her-baby-would-not-survive-to-adult-age",
+                "text": "She was told that her baby would not survive to adult age."
+            }
+        ]
+    }
+]

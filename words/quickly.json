@@ -1,0 +1,76 @@
+[
+    {
+        "type": "(adv)",
+        "mean": "fast; soon",
+        "examples": [
+            {
+                "code": "quickly_example_we-quickly-solved-the-problem",
+                "text": "We quickly solved the problem."
+            },
+            {
+                "code": "quickly_example_she-quickly-mastered-the-skill",
+                "text": "She quickly mastered the skill."
+            },
+            {
+                "code": "quickly_example_her-wound-is-healing-quickly",
+                "text": "Her wound is healing quickly."
+            },
+            {
+                "code": "quickly_example_they-advanced-quickly",
+                "text": "They advanced quickly."
+            },
+            {
+                "code": "quickly_example_it-happened-so-quickly",
+                "text": "It happened so quickly."
+            },
+            {
+                "code": "quickly_example_they-quickly-crossed-the-street",
+                "text": "They quickly crossed the street."
+            },
+            {
+                "code": "quickly_example_i-looked-quickly-at-the-note",
+                "text": "I looked quickly at the note."
+            },
+            {
+                "code": "quickly_example_she-inhaled-quickly",
+                "text": "She inhaled quickly."
+            },
+            {
+                "code": "quickly_example_that-plant-is-growing-quickly",
+                "text": "That plant is growing quickly."
+            },
+            {
+                "code": "quickly_example_he-quickly-replied-to-his-boss",
+                "text": "He quickly replied to his boss."
+            },
+            {
+                "code": "quickly_example_the-deer-quickly-ran-into-the-forest",
+                "text": "The deer quickly ran into the forest."
+            },
+            {
+                "code": "quickly_example_she-works-quickly",
+                "text": "She works quickly."
+            },
+            {
+                "code": "quickly_example_we-quickly-forgot-about-it",
+                "text": "We quickly forgot about it."
+            },
+            {
+                "code": "quickly_example_we-adjusted-quickly-to-our-new-home",
+                "text": "We adjusted quickly to our new home."
+            },
+            {
+                "code": "quickly_example_i-located-him-quickly",
+                "text": "I located him quickly."
+            },
+            {
+                "code": "quickly_example_we-walked-quickly-in-the-rain",
+                "text": "We walked quickly in the rain."
+            },
+            {
+                "code": "quickly_example_it-became-quickly-apparent-that-she-was-involved",
+                "text": "It became quickly apparent that she was involved."
+            }
+        ]
+    }
+]

@@ -1,0 +1,134 @@
+[
+    {
+        "type": "(n)",
+        "mean": "an advantage; a helpful result; money paid by the government or a company in times of need",
+        "examples": [
+            {
+                "code": "benefit_example_his-height-was-a-great-benefit-for-playing-basketball",
+                "text": "His height was a great benefit for playing basketball."
+            },
+            {
+                "code": "benefit_example_the-positive-benefit-of-my-injury-is-i-finally-get-some-rest",
+                "text": "The positive benefit of my injury is I finally get some rest."
+            },
+            {
+                "code": "benefit_example_this-machine-has-proven-benefits",
+                "text": "This machine has proven benefits."
+            },
+            {
+                "code": "benefit_example_this-car-s-fuel-mileage-is-an-added-benefit",
+                "text": "This car's fuel mileage is an added benefit."
+            },
+            {
+                "code": "benefit_example_carpooling-to-work-can-provide-mutual-benefits",
+                "text": "Carpooling to work can provide mutual benefits."
+            },
+            {
+                "code": "benefit_example_this-discovery-will-have-great-environmental-benefits",
+                "text": "This discovery will have great environmental benefits."
+            },
+            {
+                "code": "benefit_example_she-only-helps-people-if-it-results-in-personal-benefit",
+                "text": "She only helps people if it results in personal benefit."
+            },
+            {
+                "code": "benefit_example_this-job-provides-fringe-benefits",
+                "text": "This job provides fringe benefits."
+            },
+            {
+                "code": "benefit_example_she-s-now-receiving-welfare-benefits",
+                "text": "She's now receiving welfare benefits."
+            },
+            {
+                "code": "benefit_example_we-are-enjoying-the-benefit-of-these-extra-vacation-days",
+                "text": "We are enjoying the benefit of these extra vacation days."
+            },
+            {
+                "code": "benefit_example_the-farmers-are-reaping-the-benefits-of-extra-rain",
+                "text": "The farmers are reaping the benefits of extra rain."
+            },
+            {
+                "code": "benefit_example_this-position-provides-added-benefits",
+                "text": "This position provides added benefits."
+            },
+            {
+                "code": "benefit_example_the-salesperson-highlighted-the-benefits-of-this-particular-car-model",
+                "text": "The salesperson highlighted the benefits of this particular car model."
+            },
+            {
+                "code": "benefit_example_now-i-can-appreciate-the-benefits-of-having-family-nearby",
+                "text": "Now I can appreciate the benefits of having family nearby."
+            },
+            {
+                "code": "benefit_example_we-need-to-evaluate-the-benefits-of-both-options",
+                "text": "We need to evaluate the benefits of both options."
+            },
+            {
+                "code": "benefit_example_the-company-decided-to-extend-its-benefits-to-all-employees",
+                "text": "The company decided to extend its benefits to all employees."
+            },
+            {
+                "code": "benefit_example_he-collects-benefit-checks-every-month",
+                "text": "He collects benefit checks every month."
+            },
+            {
+                "code": "benefit_example_she-only-does-things-for-her-own-benefit",
+                "text": "She only does things for her own benefit."
+            },
+            {
+                "code": "benefit_example_what-is-the-benefit-to-the-employees",
+                "text": "What is the benefit to the employees?"
+            },
+            {
+                "code": "benefit_example_some-countries-do-not-have-the-benefits-of-good-health-care",
+                "text": "Some countries do not have the benefits of good health care."
+            },
+            {
+                "code": "benefit_example_they-are-working-without-good-employment-benefits",
+                "text": "They are working without good employment benefits."
+            },
+            {
+                "code": "benefit_example_she-is-enjoying-the-benefit-from-being-a-business-owner",
+                "text": "She is enjoying the benefit from being a business owner."
+            },
+            {
+                "code": "benefit_example_she-received-a-benefits-plan-when-she-was-hired",
+                "text": "She received a benefits plan when she was hired."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to be helpful to someone or something; to receive help",
+        "examples": [
+            {
+                "code": "benefit_example_the-team-will-benefit-greatly-from-its-new-contract",
+                "text": "The team will benefit greatly from its new contract."
+            },
+            {
+                "code": "benefit_example_this-city-will-really-benefit-from-tourism",
+                "text": "This city will really benefit from tourism."
+            },
+            {
+                "code": "benefit_example_we-need-a-plan-that-will-benefit-us-equally",
+                "text": "We need a plan that will benefit us equally."
+            },
+            {
+                "code": "benefit_example_the-tax-cut-will-primarily-benefit-the-rich",
+                "text": "The tax cut will primarily benefit the rich."
+            },
+            {
+                "code": "benefit_example_the-new-farm-will-directly-benefit-the-environment",
+                "text": "The new farm will directly benefit the environment."
+            },
+            {
+                "code": "benefit_example_this-should-benefit-you-financially",
+                "text": "This should benefit you financially."
+            },
+            {
+                "code": "benefit_example_he-will-benefit-from-his-years-of-hard-work",
+                "text": "He will benefit from his years of hard work."
+            }
+        ]
+    }
+]

@@ -1,0 +1,98 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the repeating of an action to improve or make something perfect; the actual way of doing something; a group of business professionals",
+        "examples": [
+            {
+                "code": "practice_example_her-ideas-were-put-into-practice",
+                "text": "Her ideas were put into practice."
+            },
+            {
+                "code": "practice_example_she-needs-more-practice",
+                "text": "She needs more practice."
+            },
+            {
+                "code": "practice_example_he-gets-lots-of-practice-at-home",
+                "text": "He gets lots of practice at home."
+            },
+            {
+                "code": "practice_example_we-made-a-practice-of-volunteering-at-a-food-bank-once-a-month",
+                "text": "We made a practice of volunteering at a food bank once a month."
+            },
+            {
+                "code": "practice_example_we-encourage-the-practice-of-eating-healthy",
+                "text": "We encourage the practice of eating healthy."
+            },
+            {
+                "code": "practice_example_the-bank-changed-its-practice-of-charging-late-fees",
+                "text": "The bank changed its practice of charging late fees."
+            },
+            {
+                "code": "practice_example_his-legal-practice-is-successful",
+                "text": "His legal practice is successful."
+            },
+            {
+                "code": "practice_example_i-have-daily-practice",
+                "text": "I have daily practice."
+            },
+            {
+                "code": "practice_example_she-is-at-baseball-practice",
+                "text": "She is at baseball practice."
+            },
+            {
+                "code": "practice_example_the-law-bans-certain-religious-practices",
+                "text": "The law bans certain religious practices."
+            },
+            {
+                "code": "practice_example_he-has-a-private-practice",
+                "text": "He has a private practice."
+            },
+            {
+                "code": "practice_example_you-need-more-practice-in-writing",
+                "text": "You need more practice in writing."
+            },
+            {
+                "code": "practice_example_she-is-really-out-of-practice",
+                "text": "She is really out of practice."
+            },
+            {
+                "code": "practice_example_you-will-get-better-with-practice",
+                "text": "You will get better with practice."
+            },
+            {
+                "code": "practice_example_he-went-into-practice-with-his-father",
+                "text": "He went into practice with his father."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to do something repeatedly to get better at it",
+        "examples": [
+            {
+                "code": "practice_example_i-am-practicing-self-control",
+                "text": "I am practicing self-control."
+            },
+            {
+                "code": "practice_example_she-practices-the-piano-regularly",
+                "text": "She practices the piano regularly."
+            },
+            {
+                "code": "practice_example_he-has-been-practicing-hard-for-the-basketball-game",
+                "text": "He has been practicing hard for the basketball game."
+            },
+            {
+                "code": "practice_example_i-never-practice-at-home",
+                "text": "I never practice at home."
+            },
+            {
+                "code": "practice_example_she-is-practicing-for-the-ballet-recital",
+                "text": "She is practicing for the ballet recital."
+            },
+            {
+                "code": "practice_example_i-practice-karate-on-my-brother",
+                "text": "I practice karate on my brother."
+            }
+        ]
+    }
+]

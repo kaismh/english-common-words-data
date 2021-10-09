@@ -1,0 +1,100 @@
+[
+    {
+        "type": "(n)",
+        "mean": "how big or small something is; the measurement of something",
+        "examples": [
+            {
+                "code": "size_example_the-size-of-the-building-is-huge",
+                "text": "The size of the building is huge."
+            },
+            {
+                "code": "size_example_the-vast-size-of-the-canyon-is-breathtaking",
+                "text": "The vast size of the canyon is breathtaking."
+            },
+            {
+                "code": "size_example_customers-love-the-compact-size-of-the-computer",
+                "text": "Customers love the compact size of the computer."
+            },
+            {
+                "code": "size_example_doctors-are-worried-about-the-increasing-size-of-children-in-america",
+                "text": "Doctors are worried about the increasing size of children in America."
+            },
+            {
+                "code": "size_example_we-want-to-find-the-appropriate-size-of-car-for-our-family",
+                "text": "We want to find the appropriate size of car for our family."
+            },
+            {
+                "code": "size_example_this-shirt-is-the-wrong-size",
+                "text": "This shirt is the wrong size."
+            },
+            {
+                "code": "size_example_the-classroom-s-maximum-size-is-30-students",
+                "text": "The classroom's maximum size is 30 students."
+            },
+            {
+                "code": "size_example_do-you-sell-adult-sizes",
+                "text": "Do you sell adult sizes?"
+            },
+            {
+                "code": "size_example_they-re-studying-sample-sizes",
+                "text": "They're studying sample sizes."
+            },
+            {
+                "code": "size_example_what-is-your-bra-size",
+                "text": "What is your bra size?"
+            },
+            {
+                "code": "size_example_your-font-size-is-too-small",
+                "text": "Your font size is too small."
+            },
+            {
+                "code": "size_example_we-need-to-control-classroom-sizes",
+                "text": "We need to control classroom sizes."
+            },
+            {
+                "code": "size_example_the-restaurant-doubled-the-sizes-of-their-drinks",
+                "text": "The restaurant doubled the sizes of their drinks."
+            },
+            {
+                "code": "size_example_she-needs-to-determine-the-size-of-the-house",
+                "text": "She needs to determine the size of the house."
+            },
+            {
+                "code": "size_example_when-do-snakes-attain-their-full-size",
+                "text": "When do snakes attain their full size?"
+            },
+            {
+                "code": "size_example_we-probably-overestimated-the-size-of-the-problem",
+                "text": "We probably overestimated the size of the problem."
+            },
+            {
+                "code": "size_example_let-s-compare-the-size-of-our-hands",
+                "text": "Let's compare the size of our hands."
+            },
+            {
+                "code": "size_example_he-wears-large-sizes",
+                "text": "He wears large sizes."
+            },
+            {
+                "code": "size_example_this-size-doesn-t-fit-me-anymore",
+                "text": "This size doesn't fit me anymore."
+            },
+            {
+                "code": "size_example_from-the-size-of-this-tree-it-must-be-very-old",
+                "text": "From the size of this tree, it must be very old."
+            },
+            {
+                "code": "size_example_the-car-is-too-big-in-size-to-fit-in-the-garage",
+                "text": "The car is too big in size to fit in the garage."
+            },
+            {
+                "code": "size_example_do-you-have-this-jacket-in-my-size",
+                "text": "Do you have this jacket in my size?"
+            },
+            {
+                "code": "size_example_the-size-of-the-crowd-is-amazing",
+                "text": "The size of the crowd is amazing."
+            }
+        ]
+    }
+]

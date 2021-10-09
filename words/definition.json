@@ -1,0 +1,48 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the meaning of a word",
+        "examples": [
+            {
+                "code": "definition_example_the-dictionary-gave-a-clear-definition-of-the-word",
+                "text": "The dictionary gave a clear definition of the word."
+            },
+            {
+                "code": "definition_example_there-are-broad-definitions-for-that-word",
+                "text": "There are broad definitions for that word."
+            },
+            {
+                "code": "definition_example_it-is-not-easy-to-understand-the-strict-definitions-in-the-contract",
+                "text": "It is not easy to understand the strict definitions in the contract."
+            },
+            {
+                "code": "definition_example_what-is-the-dictionary-definition",
+                "text": "What is the dictionary definition?"
+            },
+            {
+                "code": "definition_example_can-you-give-a-definition-for-this-word",
+                "text": "Can you give a definition for this word?"
+            },
+            {
+                "code": "definition_example_this-does-not-fit-the-definition-of-beauty",
+                "text": "This does not fit the definition of beauty."
+            },
+            {
+                "code": "definition_example_the-teacher-did-not-accept-that-definition",
+                "text": "The teacher did not accept that definition."
+            },
+            {
+                "code": "definition_example_according-to-the-definition-of-friendship-you-are-not-a-friend",
+                "text": "According to the definition of friendship, you are not a friend."
+            },
+            {
+                "code": "definition_example_you-are-by-definition-a-true-friend",
+                "text": "You are, by definition, a true friend."
+            },
+            {
+                "code": "definition_example_under-the-definition-of-children-her-adult-son-is-still-her-child",
+                "text": "Under the definition of children, her adult son is still her child."
+            }
+        ]
+    }
+]

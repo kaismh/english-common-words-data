@@ -1,0 +1,60 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "feeling good or relaxed",
+        "examples": [
+            {
+                "code": "comfortable_example_these-pants-are-extremely-comfortable",
+                "text": "These pants are extremely comfortable."
+            },
+            {
+                "code": "comfortable_example_i-m-perfectly-comfortable-here",
+                "text": "I'm perfectly comfortable here."
+            },
+            {
+                "code": "comfortable_example_are-you-comfortable-enough",
+                "text": "Are you comfortable enough?"
+            },
+            {
+                "code": "comfortable_example_the-hotel-is-reasonably-comfortable",
+                "text": "The hotel is reasonably comfortable."
+            },
+            {
+                "code": "comfortable_example_i-feel-comfortable",
+                "text": "I feel comfortable."
+            },
+            {
+                "code": "comfortable_example_you-look-comfortable",
+                "text": "You look comfortable."
+            },
+            {
+                "code": "comfortable_example_how-can-i-make-you-comfortable",
+                "text": "How can I make you comfortable?"
+            },
+            {
+                "code": "comfortable_example_i-can-t-get-comfortable",
+                "text": "I can't get comfortable."
+            },
+            {
+                "code": "comfortable_example_i-do-not-feel-comfortable-about-going-alone",
+                "text": "I do not feel comfortable about going alone."
+            },
+            {
+                "code": "comfortable_example_i-don-t-feel-comfortable-with-the-situation",
+                "text": "I don't feel comfortable with the situation."
+            },
+            {
+                "code": "comfortable_example_this-is-a-comfortable-armchair",
+                "text": "This is a comfortable armchair."
+            },
+            {
+                "code": "comfortable_example_we-are-staying-in-a-very-comfortable-house",
+                "text": "We are staying in a very comfortable house."
+            },
+            {
+                "code": "comfortable_example_i-need-to-buy-more-comfortable-clothes",
+                "text": "I need to buy more comfortable clothes."
+            }
+        ]
+    }
+]

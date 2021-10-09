@@ -1,0 +1,36 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a move to a higher in job position; a special activity to improve sales",
+        "examples": [
+            {
+                "code": "promotion_example_he-deserves-a-promotion",
+                "text": "He deserves a promotion."
+            },
+            {
+                "code": "promotion_example_i-gave-her-a-promotion",
+                "text": "I gave her a promotion."
+            },
+            {
+                "code": "promotion_example_the-store-is-having-a-promotion",
+                "text": "The store is having a promotion."
+            },
+            {
+                "code": "promotion_example_the-store-did-a-big-sales-promotion-last-week",
+                "text": "The store did a big sales promotion last week."
+            },
+            {
+                "code": "promotion_example_i-finally-received-a-job-promotion",
+                "text": "I finally received a job promotion."
+            },
+            {
+                "code": "promotion_example_we-are-offering-a-special-promotion-today",
+                "text": "We are offering a special promotion today."
+            },
+            {
+                "code": "promotion_example_i-received-a-promotion-from-the-boss",
+                "text": "I received a promotion from the boss."
+            }
+        ]
+    }
+]

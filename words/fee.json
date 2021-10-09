@@ -1,0 +1,136 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a payment for services",
+        "examples": [
+            {
+                "code": "fee_example_the-repairman-charged-him-a-huge-fee",
+                "text": "The repairman charged him a huge fee."
+            },
+            {
+                "code": "fee_example_we-pay-a-small-fee-every-month",
+                "text": "We pay a small fee every month."
+            },
+            {
+                "code": "fee_example_she-charges-a-flat-fee-for-house-calls",
+                "text": "She charges a flat fee for house calls."
+            },
+            {
+                "code": "fee_example_i-didn-t-have-to-pay-the-full-fee",
+                "text": "I didn't have to pay the full fee."
+            },
+            {
+                "code": "fee_example_he-charged-me-a-reduced-fee-for-his-error",
+                "text": "He charged me a reduced fee for his error."
+            },
+            {
+                "code": "fee_example_there-is-an-additional-fee-for-this-option",
+                "text": "There is an additional fee for this option."
+            },
+            {
+                "code": "fee_example_she-had-to-pay-a-late-fee-on-her-bills",
+                "text": "She had to pay a late fee on her bills."
+            },
+            {
+                "code": "fee_example_we-pay-a-monthly-fee-for-cleaning-services",
+                "text": "We pay a monthly fee for cleaning services."
+            },
+            {
+                "code": "fee_example_there-is-a-small-enrollment-fee",
+                "text": "There is a small enrollment fee."
+            },
+            {
+                "code": "fee_example_he-was-ordered-to-pay-her-attorney-fees",
+                "text": "He was ordered to pay her attorney fees."
+            },
+            {
+                "code": "fee_example_the-admission-fee-for-this-museum-is-high",
+                "text": "The admission fee for this museum is high."
+            },
+            {
+                "code": "fee_example_he-pays-a-membership-fee-every-month",
+                "text": "He pays a membership fee every month."
+            },
+            {
+                "code": "fee_example_they-charge-a-big-cancellation-fee",
+                "text": "They charge a big cancellation fee."
+            },
+            {
+                "code": "fee_example_we-have-to-pay-the-licensing-fees-before-we-can-drive-the-car",
+                "text": "We have to pay the licensing fees before we can drive the car."
+            },
+            {
+                "code": "fee_example_they-waived-the-rental-fee",
+                "text": "They waived the rental fee."
+            },
+            {
+                "code": "fee_example_her-scholarship-covers-her-student-fees",
+                "text": "Her scholarship covers her student fees."
+            },
+            {
+                "code": "fee_example_parking-fees-are-too-high-in-this-city",
+                "text": "Parking fees are too high in this city."
+            },
+            {
+                "code": "fee_example_the-phone-company-keeps-charging-new-fees",
+                "text": "The phone company keeps charging new fees."
+            },
+            {
+                "code": "fee_example_she-keeps-incurring-late-fees-by-not-paying-her-bills-on-time",
+                "text": "She keeps incurring late fees by not paying her bills on time."
+            },
+            {
+                "code": "fee_example_i-can-t-afford-all-these-extra-fees",
+                "text": "I can't afford all these extra fees."
+            },
+            {
+                "code": "fee_example_he-collected-a-fee-for-his-services",
+                "text": "He collected a fee for his services."
+            },
+            {
+                "code": "fee_example_they-agreed-to-waive-the-extra-fees",
+                "text": "They agreed to waive the extra fees."
+            },
+            {
+                "code": "fee_example_they-increased-the-entry-fee-this-year",
+                "text": "They increased the entry fee this year."
+            },
+            {
+                "code": "fee_example_we-agreed-on-a-reasonable-fee",
+                "text": "We agreed on a reasonable fee."
+            },
+            {
+                "code": "fee_example_set-aside-some-extra-money-to-cover-fees",
+                "text": "Set aside some extra money to cover fees."
+            },
+            {
+                "code": "fee_example_these-fees-are-due-every-month",
+                "text": "These fees are due every month."
+            },
+            {
+                "code": "fee_example_additional-fees-may-apply",
+                "text": "Additional fees may apply."
+            },
+            {
+                "code": "fee_example_the-fees-include-use-of-the-gym",
+                "text": "The fees include use of the gym."
+            },
+            {
+                "code": "fee_example_the-salesman-explained-the-fee-schedule",
+                "text": "The salesman explained the fee schedule."
+            },
+            {
+                "code": "fee_example_there-was-a-large-fee-increase-last-month",
+                "text": "There was a large fee increase last month."
+            },
+            {
+                "code": "fee_example_the-store-will-deliver-the-furniture-for-a-small-fee",
+                "text": "The store will deliver the furniture for a small fee."
+            },
+            {
+                "code": "fee_example_there-is-a-small-fee-for-ordering-online",
+                "text": "There is a small fee for ordering online."
+            }
+        ]
+    }
+]

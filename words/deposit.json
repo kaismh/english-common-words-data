@@ -1,0 +1,54 @@
+[
+    {
+        "type": "(n)",
+        "mean": "money added to a bank account; money that is given as part of the first payment of something; money that is given as a promise to pay for something",
+        "examples": [
+            {
+                "code": "deposit_example_she-made-a-cash-deposit-into-her-checking-account",
+                "text": "She made a cash deposit into her checking account."
+            },
+            {
+                "code": "deposit_example_the-deposit-is-refundable",
+                "text": "The deposit is refundable."
+            },
+            {
+                "code": "deposit_example_the-apartment-requires-a-security-deposit",
+                "text": "The apartment requires a security deposit."
+            },
+            {
+                "code": "deposit_example_she-will-make-a-cash-deposit",
+                "text": "She will make a cash deposit."
+            },
+            {
+                "code": "deposit_example_he-will-pay-the-deposit-on-the-house",
+                "text": "He will pay the deposit on the house."
+            },
+            {
+                "code": "deposit_example_you-must-give-a-deposit-to-hold-the-apartment",
+                "text": "You must give a deposit to hold the apartment."
+            },
+            {
+                "code": "deposit_example_does-the-house-require-a-deposit",
+                "text": "Does the house require a deposit?"
+            },
+            {
+                "code": "deposit_example_we-may-lose-our-deposit",
+                "text": "We may lose our deposit."
+            },
+            {
+                "code": "deposit_example_you-must-put-down-a-deposit-on-the-car",
+                "text": "You must put down a deposit on the car."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to add money to a bank account",
+        "examples": [
+            {
+                "code": "deposit_example_she-will-deposit-the-check-today",
+                "text": "She will deposit the check today."
+            }
+        ]
+    }
+]

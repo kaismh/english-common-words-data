@@ -1,0 +1,104 @@
+[
+    {
+        "type": "(n)",
+        "mean": "something you give to someone, usually on a special occasion; natural ability",
+        "examples": [
+            {
+                "code": "gift_example_she-received-a-generous-gift",
+                "text": "She received a generous gift."
+            },
+            {
+                "code": "gift_example_he-bought-an-expensive-gift-for-his-wife",
+                "text": "He bought an expensive gift for his wife."
+            },
+            {
+                "code": "gift_example_she-brought-me-a-small-gift",
+                "text": "She brought me a small gift."
+            },
+            {
+                "code": "gift_example_i-m-trying-to-find-the-perfect-gift",
+                "text": "I'm trying to find the perfect gift."
+            },
+            {
+                "code": "gift_example_the-order-contained-a-free-gift",
+                "text": "The order contained a free gift."
+            },
+            {
+                "code": "gift_example_i-need-to-buy-a-birthday-gift",
+                "text": "I need to buy a birthday gift."
+            },
+            {
+                "code": "gift_example_he-gave-his-friend-a-gag-gift",
+                "text": "He gave his friend a gag gift."
+            },
+            {
+                "code": "gift_example_she-has-a-great-gift-for-music",
+                "text": "She has a great gift for music."
+            },
+            {
+                "code": "gift_example_he-has-a-rare-gift-for-singing",
+                "text": "He has a rare gift for singing."
+            },
+            {
+                "code": "gift_example_she-should-use-her-artistic-gift",
+                "text": "She should use her artistic gift."
+            },
+            {
+                "code": "gift_example_he-sent-christmas-gifts-to-his-family",
+                "text": "He sent Christmas gifts to his family."
+            },
+            {
+                "code": "gift_example_make-sure-you-bring-a-small-gift",
+                "text": "Make sure you bring a small gift."
+            },
+            {
+                "code": "gift_example_they-all-received-gifts-on-christmas-eve",
+                "text": "They all received gifts on Christmas Eve."
+            },
+            {
+                "code": "gift_example_i-need-to-wrap-their-gifts",
+                "text": "I need to wrap their gifts."
+            },
+            {
+                "code": "gift_example_she-carefully-opened-her-gifts",
+                "text": "She carefully opened her gifts."
+            },
+            {
+                "code": "gift_example_he-has-a-natural-gift-for-math",
+                "text": "He has a natural gift for math."
+            },
+            {
+                "code": "gift_example_i-need-to-buy-more-gift-wrap",
+                "text": "I need to buy more gift wrap."
+            },
+            {
+                "code": "gift_example_i-sent-a-gift-basket",
+                "text": "I sent a gift basket."
+            },
+            {
+                "code": "gift_example_she-got-a-gift-certificate-for-a-massage",
+                "text": "She got a gift certificate for a massage."
+            },
+            {
+                "code": "gift_example_i-need-some-gift-ideas",
+                "text": "I need some gift ideas."
+            },
+            {
+                "code": "gift_example_i-got-that-as-a-gift",
+                "text": "I got that as a gift."
+            },
+            {
+                "code": "gift_example_they-brought-gifts-for-the-children",
+                "text": "They brought gifts for the children."
+            },
+            {
+                "code": "gift_example_the-necklace-is-a-gift-from-my-mother",
+                "text": "The necklace is a gift from my mother."
+            },
+            {
+                "code": "gift_example_i-bought-that-as-a-gift-to-myself",
+                "text": "I bought that as a gift to myself."
+            }
+        ]
+    }
+]

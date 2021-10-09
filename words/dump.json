@@ -1,0 +1,62 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a place to put garbage",
+        "examples": [
+            {
+                "code": "dump_example_they-went-to-the-garbage-dump",
+                "text": "They went to the garbage dump."
+            },
+            {
+                "code": "dump_example_the-city-dump-is-close-to-downtown",
+                "text": "The city dump is close to downtown."
+            },
+            {
+                "code": "dump_example_the-dump-site-smells-bad",
+                "text": "The dump site smells bad."
+            },
+            {
+                "code": "dump_example_there-is-a-separate-recycling-area-at-the-dump",
+                "text": "There is a separate recycling area at the dump."
+            },
+            {
+                "code": "dump_example_they-are-taking-the-trash-to-the-dump",
+                "text": "They are taking the trash to the dump."
+            },
+            {
+                "code": "dump_example_they-have-a-separate-dump-for-toxic-waste",
+                "text": "They have a separate dump for toxic waste."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to throw something away; to end a relationship with someone",
+        "examples": [
+            {
+                "code": "dump_example_you-can-legally-dump-garbage-here",
+                "text": "You can legally dump garbage here."
+            },
+            {
+                "code": "dump_example_they-illegally-dump-toxic-waste-in-the-city-s-landfill",
+                "text": "They illegally dump toxic waste in the city's landfill."
+            },
+            {
+                "code": "dump_example_they-dumped-the-trash-overboard",
+                "text": "They dumped the trash overboard."
+            },
+            {
+                "code": "dump_example_he-quickly-dumped-his-girlfriend",
+                "text": "He quickly dumped his girlfriend."
+            },
+            {
+                "code": "dump_example_she-wants-to-dump-her-boyfriend",
+                "text": "She wants to dump her boyfriend."
+            },
+            {
+                "code": "dump_example_you-have-to-dump-chemicals-in-the-designated-areas",
+                "text": "You have to dump chemicals in the designated areas."
+            }
+        ]
+    }
+]

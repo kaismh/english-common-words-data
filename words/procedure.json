@@ -1,0 +1,60 @@
+[
+    {
+        "type": "(n)",
+        "mean": "an official way of doing something; an operation",
+        "examples": [
+            {
+                "code": "procedure_example_he-doesn-t-always-follow-procedure",
+                "text": "He doesn't always follow procedure."
+            },
+            {
+                "code": "procedure_example_please-describe-the-procedure",
+                "text": "Please describe the procedure."
+            },
+            {
+                "code": "procedure_example_the-doctor-did-the-procedure",
+                "text": "The doctor did the procedure."
+            },
+            {
+                "code": "procedure_example_she-had-the-procedure-done-last-year",
+                "text": "She had the procedure done last year."
+            },
+            {
+                "code": "procedure_example_do-you-recommend-this-procedure",
+                "text": "Do you recommend this procedure?"
+            },
+            {
+                "code": "procedure_example_it-was-just-a-routine-procedure",
+                "text": "It was just a routine procedure."
+            },
+            {
+                "code": "procedure_example_it-was-a-complicated-procedure",
+                "text": "It was a complicated procedure."
+            },
+            {
+                "code": "procedure_example_is-this-the-correct-procedure",
+                "text": "Is this the correct procedure?"
+            },
+            {
+                "code": "procedure_example_this-company-has-very-strict-procedures-for-hiring-people",
+                "text": "This company has very strict procedures for hiring people."
+            },
+            {
+                "code": "procedure_example_we-are-going-to-try-a-new-procedure-on-him",
+                "text": "We are going to try a new procedure on him."
+            },
+            {
+                "code": "procedure_example_make-sure-to-follow-the-necessary-procedures",
+                "text": "Make sure to follow the necessary procedures."
+            },
+            {
+                "code": "procedure_example_she-underwent-a-cosmetic-procedure",
+                "text": "She underwent a cosmetic procedure."
+            },
+            {
+                "code": "procedure_example_the-procedure-for-opening-the-cafe-is-written-here",
+                "text": "The procedure for opening the café is written here."
+            }
+        ]
+    }
+]

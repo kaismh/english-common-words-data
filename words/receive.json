@@ -1,0 +1,84 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to get or accept something; to react in a certain way",
+        "examples": [
+            {
+                "code": "receive_example_i-received-information-from-the-counselor",
+                "text": "I received information from the counselor."
+            },
+            {
+                "code": "receive_example_i-received-a-paycheck-at-work",
+                "text": "I received a paycheck at work."
+            },
+            {
+                "code": "receive_example_she-received-a-complaint-from-a-customer",
+                "text": "She received a complaint from a customer."
+            },
+            {
+                "code": "receive_example_he-received-funding-for-his-project",
+                "text": "He received funding for his project."
+            },
+            {
+                "code": "receive_example_he-never-received-her-approval",
+                "text": "He never received her approval."
+            },
+            {
+                "code": "receive_example_i-received-a-good-education-there",
+                "text": "I received a good education there."
+            },
+            {
+                "code": "receive_example_i-received-recognition-from-the-viewers",
+                "text": "I received recognition from the viewers."
+            },
+            {
+                "code": "receive_example_he-received-punishment-for-his-crime",
+                "text": "He received punishment for his crime."
+            },
+            {
+                "code": "receive_example_i-never-received-a-reminder",
+                "text": "I never received a reminder."
+            },
+            {
+                "code": "receive_example_i-received-my-diploma-ten-years-ago",
+                "text": "I received my diploma ten years ago."
+            },
+            {
+                "code": "receive_example_i-received-a-kiss-from-him",
+                "text": "I received a kiss from him."
+            },
+            {
+                "code": "receive_example_i-received-a-couple-of-requests",
+                "text": "I received a couple of requests."
+            },
+            {
+                "code": "receive_example_he-received-a-reward-for-this-work",
+                "text": "He received a reward for this work."
+            },
+            {
+                "code": "receive_example_i-received-a-package-from-china",
+                "text": "I received a package from China."
+            },
+            {
+                "code": "receive_example_the-movie-was-well-received",
+                "text": "The movie was well received."
+            },
+            {
+                "code": "receive_example_i-recently-received-money-from-my-grandparents",
+                "text": "I recently received money from my grandparents."
+            },
+            {
+                "code": "receive_example_i-automatically-receive-money-every-month",
+                "text": "I automatically receive money every month."
+            },
+            {
+                "code": "receive_example_i-received-a-gift-from-my-parents",
+                "text": "I received a gift from my parents."
+            },
+            {
+                "code": "receive_example_the-news-was-received-with-anger",
+                "text": "The news was received with anger."
+            }
+        ]
+    }
+]

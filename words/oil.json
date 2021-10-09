@@ -1,0 +1,112 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a thick liquid that comes from the ground and is used on machines; a thick liquid that comes from plants and is used for cooking or on the skin",
+        "examples": [
+            {
+                "code": "oil_example_they-are-drilling-for-oil-in-the-desert",
+                "text": "They are drilling for oil in the desert."
+            },
+            {
+                "code": "oil_example_the-car-uses-a-lot-of-oil",
+                "text": "The car uses a lot of oil."
+            },
+            {
+                "code": "oil_example_our-country-imports-oil",
+                "text": "Our country imports oil."
+            },
+            {
+                "code": "oil_example_i-drizzled-oil-on-the-potatoes",
+                "text": "I drizzled oil on the potatoes."
+            },
+            {
+                "code": "oil_example_i-added-more-oil-to-the-stir-fry",
+                "text": "I added more oil to the stir fry."
+            },
+            {
+                "code": "oil_example_i-fried-the-vegetables-in-oil",
+                "text": "I fried the vegetables in oil."
+            },
+            {
+                "code": "oil_example_first-heat-the-oil",
+                "text": "First, heat the oil."
+            },
+            {
+                "code": "oil_example_i-need-to-change-the-oil-in-my-car",
+                "text": "I need to change the oil in my car."
+            },
+            {
+                "code": "oil_example_she-rubbed-baby-oil-on-her-shoulders",
+                "text": "She rubbed baby oil on her shoulders."
+            },
+            {
+                "code": "oil_example_i-only-have-a-drop-of-oil-in-the-can",
+                "text": "I only have a drop of oil in the can."
+            },
+            {
+                "code": "oil_example_he-is-an-oil-baron",
+                "text": "He is an oil baron."
+            },
+            {
+                "code": "oil_example_oil-prices-are-falling",
+                "text": "Oil prices are falling."
+            },
+            {
+                "code": "oil_example_oil-production-in-the-country-is-high",
+                "text": "Oil production in the country is high."
+            },
+            {
+                "code": "oil_example_there-was-a-huge-oil-spill",
+                "text": "There was a huge oil spill."
+            },
+            {
+                "code": "oil_example_the-truck-was-carrying-oil-barrels",
+                "text": "The truck was carrying oil barrels."
+            },
+            {
+                "code": "oil_example_they-are-building-an-oil-pipeline",
+                "text": "They are building an oil pipeline."
+            },
+            {
+                "code": "oil_example_the-oil-tanker-caught-on-fire",
+                "text": "The oil tanker caught on fire."
+            },
+            {
+                "code": "oil_example_the-oil-company-makes-lots-of-money",
+                "text": "The oil company makes lots of money."
+            },
+            {
+                "code": "oil_example_he-has-a-can-of-crude-oil",
+                "text": "He has a can of crude oil."
+            },
+            {
+                "code": "oil_example_the-soap-was-infused-with-fragrant-oil",
+                "text": "The soap was infused with fragrant oil."
+            },
+            {
+                "code": "oil_example_you-should-eat-more-omega-3-oil",
+                "text": "You should eat more omega-3 oil."
+            },
+            {
+                "code": "oil_example_i-cook-with-vegetable-oil",
+                "text": "I cook with vegetable oil."
+            },
+            {
+                "code": "oil_example_the-oil-is-rancid",
+                "text": "The oil is rancid."
+            },
+            {
+                "code": "oil_example_i-like-using-bath-oil",
+                "text": "I like using bath oil."
+            },
+            {
+                "code": "oil_example_i-need-more-motor-oil",
+                "text": "I need more motor oil."
+            },
+            {
+                "code": "oil_example_i-used-olive-oil-in-my-salad-dressing",
+                "text": "I used olive oil in my salad dressing."
+            }
+        ]
+    }
+]

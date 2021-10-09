@@ -1,0 +1,82 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a series of names or other things written or printed together",
+        "examples": [
+            {
+                "code": "list_example_she-made-a-long-shopping-list",
+                "text": "She made a long shopping list."
+            },
+            {
+                "code": "list_example_we-need-a-complete-list-of-all-the-people-who-are-attending-the-event",
+                "text": "We need a complete list of all the people who are attending the event."
+            },
+            {
+                "code": "list_example_he-had-an-endless-list-of-excuses",
+                "text": "He had an endless list of excuses."
+            },
+            {
+                "code": "list_example_we-re-on-the-waiting-list-for-the-class",
+                "text": "We're on the waiting list for the class."
+            },
+            {
+                "code": "list_example_studying-is-on-the-top-of-my-to-do-list",
+                "text": "Studying is on the top of my to-do list."
+            },
+            {
+                "code": "list_example_my-daughter-gave-me-her-wish-list-for-christmas",
+                "text": "My daughter gave me her wish list for Christmas."
+            },
+            {
+                "code": "list_example_it-was-an-impressive-guest-list",
+                "text": "It was an impressive guest list."
+            },
+            {
+                "code": "list_example_let-s-make-a-guest-list-for-the-party",
+                "text": "Let's make a guest list for the party."
+            },
+            {
+                "code": "list_example_the-bookstore-released-the-best-seller-list",
+                "text": "The bookstore released the best-seller list."
+            },
+            {
+                "code": "list_example_she-put-bread-on-the-shopping-list",
+                "text": "She put bread on the shopping list."
+            },
+            {
+                "code": "list_example_the-guest-list-included-friends-of-family-members",
+                "text": "The guest list included friends of family members."
+            },
+            {
+                "code": "list_example_my-to-do-list-is-growing",
+                "text": "My to-do list is growing."
+            },
+            {
+                "code": "list_example_i-didn-t-see-my-name-on-the-list",
+                "text": "I didn't see my name on the list."
+            },
+            {
+                "code": "list_example_there-is-a-waiting-list-for-golf-membership",
+                "text": "There is a waiting list for golf membership."
+            },
+            {
+                "code": "list_example_we-have-a-guest-list-of-300-people",
+                "text": "We have a guest list of 300 people."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to write down or say a series of names or things",
+        "examples": [
+            {
+                "code": "list_example_please-list-your-reasons-for-not-attending-the-party",
+                "text": "Please list your reasons for not attending the party."
+            },
+            {
+                "code": "list_example_list-all-of-the-ingredients-in-order",
+                "text": "List all of the ingredients in order."
+            }
+        ]
+    }
+]

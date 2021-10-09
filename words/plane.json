@@ -1,0 +1,72 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a flying vehicle with wings and one or two engines (also known as airplane); a flat surface",
+        "examples": [
+            {
+                "code": "plane_example_she-missed-the-plane",
+                "text": "She missed the plane."
+            },
+            {
+                "code": "plane_example_the-plane-flew-through-the-sky",
+                "text": "The plane flew through the sky."
+            },
+            {
+                "code": "plane_example_we-took-a-plane-to-get-there",
+                "text": "We took a plane to get there."
+            },
+            {
+                "code": "plane_example_the-plane-is-about-to-take-off",
+                "text": "The plane is about to take off."
+            },
+            {
+                "code": "plane_example_this-plane-is-carrying-400-people",
+                "text": "This plane is carrying 400 people."
+            },
+            {
+                "code": "plane_example_who-is-flying-the-plane",
+                "text": "Who is flying the plane?"
+            },
+            {
+                "code": "plane_example_the-plane-crashed",
+                "text": "The plane crashed."
+            },
+            {
+                "code": "plane_example_did-you-buy-your-plane-ticket-yet",
+                "text": "Did you buy your plane ticket yet?"
+            },
+            {
+                "code": "plane_example_there-was-a-plane-crash-on-the-news",
+                "text": "There was a plane crash on the news."
+            },
+            {
+                "code": "plane_example_the-president-has-a-private-plane",
+                "text": "The president has a private plane."
+            },
+            {
+                "code": "plane_example_we-took-a-commercial-plane",
+                "text": "We took a commercial plane."
+            },
+            {
+                "code": "plane_example_they-shot-down-the-fighter-plane",
+                "text": "They shot down the fighter plane."
+            },
+            {
+                "code": "plane_example_the-floor-must-be-built-on-a-level-plane",
+                "text": "The floor must be built on a level plane."
+            },
+            {
+                "code": "plane_example_we-came-here-by-plane",
+                "text": "We came here by plane."
+            },
+            {
+                "code": "plane_example_she-was-not-on-the-plane",
+                "text": "She was not on the plane."
+            },
+            {
+                "code": "plane_example_we-sat-in-the-plane-for-hours",
+                "text": "We sat in the plane for hours."
+            }
+        ]
+    }
+]

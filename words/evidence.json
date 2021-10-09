@@ -1,0 +1,108 @@
+[
+    {
+        "type": "(n)",
+        "mean": "information that helps prove something is true; proof",
+        "examples": [
+            {
+                "code": "evidence_example_they-have-considerable-evidence-of-his-guilt",
+                "text": "They have considerable evidence of his guilt."
+            },
+            {
+                "code": "evidence_example_there-is-growing-evidence-of-global-warming",
+                "text": "There is growing evidence of global warming."
+            },
+            {
+                "code": "evidence_example_there-is-clear-evidence-that-the-students-cheated",
+                "text": "There is clear evidence that the students cheated."
+            },
+            {
+                "code": "evidence_example_she-has-little-evidence-to-back-up-her-claim",
+                "text": "She has little evidence to back up her claim."
+            },
+            {
+                "code": "evidence_example_we-can-t-make-a-decision-based-on-available-evidence",
+                "text": "We can't make a decision based on available evidence."
+            },
+            {
+                "code": "evidence_example_he-accused-them-of-hiding-important-evidence",
+                "text": "He accused them of hiding important evidence."
+            },
+            {
+                "code": "evidence_example_our-decision-may-change-if-we-receive-additional-evidence",
+                "text": "Our decision may change if we receive additional evidence."
+            },
+            {
+                "code": "evidence_example_the-police-have-a-lot-of-circumstantial-evidence",
+                "text": "The police have a lot of circumstantial evidence."
+            },
+            {
+                "code": "evidence_example_they-will-present-the-forensic-evidence-tomorrow",
+                "text": "They will present the forensic evidence tomorrow."
+            },
+            {
+                "code": "evidence_example_he-admitted-to-creating-false-evidence",
+                "text": "He admitted to creating false evidence."
+            },
+            {
+                "code": "evidence_example_we-have-enough-evidence-to-make-a-decision",
+                "text": "We have enough evidence to make a decision."
+            },
+            {
+                "code": "evidence_example_they-looked-for-evidence-after-the-crime",
+                "text": "They looked for evidence after the crime."
+            },
+            {
+                "code": "evidence_example_a-new-witness-offered-additional-evidence-in-the-case",
+                "text": "A new witness offered additional evidence in the case."
+            },
+            {
+                "code": "evidence_example_he-gave-us-evidence-of-his-scientific-breakthrough",
+                "text": "He gave us evidence of his scientific breakthrough."
+            },
+            {
+                "code": "evidence_example_we-are-carefully-reviewing-all-of-the-evidence",
+                "text": "We are carefully reviewing all of the evidence."
+            },
+            {
+                "code": "evidence_example_i-need-to-see-some-evidence-before-i-make-a-decision",
+                "text": "I need to see some evidence before I make a decision."
+            },
+            {
+                "code": "evidence_example_the-judge-decided-to-allow-the-evidence",
+                "text": "The judge decided to allow the evidence."
+            },
+            {
+                "code": "evidence_example_they-admitted-that-they-destroyed-the-evidence",
+                "text": "They admitted that they destroyed the evidence."
+            },
+            {
+                "code": "evidence_example_a-lot-of-evidence-exists-for-global-warming",
+                "text": "A lot of evidence exists for global warming."
+            },
+            {
+                "code": "evidence_example_additional-evidence-confirmed-our-suspicions",
+                "text": "Additional evidence confirmed our suspicions."
+            },
+            {
+                "code": "evidence_example_the-evidence-suggests-his-innocence",
+                "text": "The evidence suggests his innocence."
+            },
+            {
+                "code": "evidence_example_he-presented-a-lot-of-evidence-for-his-claim",
+                "text": "He presented a lot of evidence for his claim."
+            },
+            {
+                "code": "evidence_example_we-are-looking-for-evidence-of-life-on-other-planets",
+                "text": "We are looking for evidence of life on other planets."
+            },
+            {
+                "code": "evidence_example_the-attorney-presented-dna-as-evidence-of-the-defendant-s-guilt",
+                "text": "The attorney presented DNA as evidence of the defendant's guilt."
+            },
+            {
+                "code": "evidence_example_the-police-didn-t-have-a-piece-of-evidence",
+                "text": "The police didn't have a piece of evidence."
+            }
+        ]
+    }
+]

@@ -1,0 +1,70 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the day after today",
+        "examples": [
+            {
+                "code": "tomorrow_example_tomorrow-is-my-birthday",
+                "text": "Tomorrow is my birthday."
+            },
+            {
+                "code": "tomorrow_example_i-can-t-wait-for-tomorrow",
+                "text": "I can't wait for tomorrow."
+            },
+            {
+                "code": "tomorrow_example_tomorrow-feels-so-far-away",
+                "text": "Tomorrow feels so far away."
+            },
+            {
+                "code": "tomorrow_example_let-s-hope-for-a-better-tomorrow",
+                "text": "Let's hope for a better tomorrow."
+            },
+            {
+                "code": "tomorrow_example_tomorrow-afternoon-will-be-very-cold",
+                "text": "Tomorrow afternoon will be very cold."
+            }
+        ]
+    },
+    {
+        "type": "(adv)",
+        "mean": "on or during the day after today",
+        "examples": [
+            {
+                "code": "tomorrow_example_let-s-meet-for-lunch-tomorrow",
+                "text": "Let's meet for lunch tomorrow."
+            },
+            {
+                "code": "tomorrow_example_i-ll-see-you-tomorrow",
+                "text": "I'll see you tomorrow."
+            },
+            {
+                "code": "tomorrow_example_i-ll-finish-it-tomorrow",
+                "text": "I'll finish it tomorrow."
+            },
+            {
+                "code": "tomorrow_example_it-s-going-to-rain-tomorrow",
+                "text": "It's going to rain tomorrow."
+            },
+            {
+                "code": "tomorrow_example_will-i-see-you-tomorrow",
+                "text": "Will I see you tomorrow?"
+            },
+            {
+                "code": "tomorrow_example_i-m-going-to-california-tomorrow",
+                "text": "I'm going to California tomorrow."
+            },
+            {
+                "code": "tomorrow_example_will-you-be-here-tomorrow",
+                "text": "Will you be here tomorrow?"
+            },
+            {
+                "code": "tomorrow_example_they-are-arriving-tomorrow",
+                "text": "They are arriving tomorrow."
+            },
+            {
+                "code": "tomorrow_example_can-you-come-tomorrow",
+                "text": "Can you come tomorrow?"
+            }
+        ]
+    }
+]

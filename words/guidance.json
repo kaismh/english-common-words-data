@@ -1,0 +1,64 @@
+[
+    {
+        "type": "(n)",
+        "mean": "advice; help at solving problems",
+        "examples": [
+            {
+                "code": "guidance_example_we-need-some-clear-guidance-on-this",
+                "text": "We need some clear guidance on this."
+            },
+            {
+                "code": "guidance_example_she-provided-helpful-guidance",
+                "text": "She provided helpful guidance."
+            },
+            {
+                "code": "guidance_example_let-me-know-if-you-need-additional-guidance",
+                "text": "Let me know if you need additional guidance."
+            },
+            {
+                "code": "guidance_example_she-asked-for-divine-guidance",
+                "text": "She asked for divine guidance."
+            },
+            {
+                "code": "guidance_example_i-need-some-expert-guidance",
+                "text": "I need some expert guidance."
+            },
+            {
+                "code": "guidance_example_they-recommend-parental-guidance-for-this-movie",
+                "text": "They recommend parental guidance for this movie."
+            },
+            {
+                "code": "guidance_example_the-school-provided-career-guidance",
+                "text": "The school provided career guidance."
+            },
+            {
+                "code": "guidance_example_she-gave-them-guidance-on-their-project",
+                "text": "She gave them guidance on their project."
+            },
+            {
+                "code": "guidance_example_i-could-use-some-guidance-on-this-issue",
+                "text": "I could use some guidance on this issue."
+            },
+            {
+                "code": "guidance_example_she-asked-for-guidance-to-make-a-tough-decision",
+                "text": "She asked for guidance to make a tough decision."
+            },
+            {
+                "code": "guidance_example_he-looked-for-guidance-from-religion",
+                "text": "He looked for guidance from religion."
+            },
+            {
+                "code": "guidance_example_she-never-follows-the-guidance-we-give-her",
+                "text": "She never follows the guidance we give her."
+            },
+            {
+                "code": "guidance_example_he-went-to-see-the-guidance-counselor",
+                "text": "He went to see the guidance counselor."
+            },
+            {
+                "code": "guidance_example_she-provides-guidance-about-choosing-the-right-college",
+                "text": "She provides guidance about choosing the right college."
+            }
+        ]
+    }
+]

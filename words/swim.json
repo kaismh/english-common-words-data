@@ -1,0 +1,82 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to move through water using the arms and legs",
+        "examples": [
+            {
+                "code": "swim_example_she-doesn-t-swim-well",
+                "text": "She doesn't swim well."
+            },
+            {
+                "code": "swim_example_he-swam-quickly-back-to-shore",
+                "text": "He swam quickly back to shore."
+            },
+            {
+                "code": "swim_example_he-is-afraid-to-swim-underwater",
+                "text": "He is afraid to swim underwater."
+            },
+            {
+                "code": "swim_example_the-fish-swim-upstream",
+                "text": "The fish swim upstream."
+            },
+            {
+                "code": "swim_example_can-you-swim",
+                "text": "Can you swim?"
+            },
+            {
+                "code": "swim_example_i-learned-how-to-swim",
+                "text": "I learned how to swim."
+            },
+            {
+                "code": "swim_example_teach-me-how-to-swim",
+                "text": "Teach me how to swim."
+            },
+            {
+                "code": "swim_example_we-need-to-swim-across-the-lake",
+                "text": "We need to swim across the lake."
+            },
+            {
+                "code": "swim_example_i-like-to-swim-in-the-ocean",
+                "text": "I like to swim in the ocean."
+            },
+            {
+                "code": "swim_example_he-swam-to-the-other-end-of-the-pool",
+                "text": "He swam to the other end of the pool."
+            }
+        ]
+    },
+    {
+        "type": "(n)",
+        "mean": "the movement in water using the arms and legs",
+        "examples": [
+            {
+                "code": "swim_example_i-love-a-morning-swim",
+                "text": "I love a morning swim."
+            },
+            {
+                "code": "swim_example_i-am-going-for-a-quick-swim-before-work",
+                "text": "I am going for a quick swim before work."
+            },
+            {
+                "code": "swim_example_i-am-going-for-a-nice-swim-after-dinner",
+                "text": "I am going for a nice swim after dinner."
+            },
+            {
+                "code": "swim_example_i-had-a-nice-swim-this-morning",
+                "text": "I had a nice swim this morning."
+            },
+            {
+                "code": "swim_example_she-made-the-swim-team",
+                "text": "She made the swim team."
+            },
+            {
+                "code": "swim_example_she-was-late-to-her-first-swim-meet",
+                "text": "She was late to her first swim meet."
+            },
+            {
+                "code": "swim_example_would-you-like-to-go-for-a-swim",
+                "text": "Would you like to go for a swim?"
+            }
+        ]
+    }
+]

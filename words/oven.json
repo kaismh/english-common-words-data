@@ -1,0 +1,56 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the part of a stove with doors that heats or cooks food",
+        "examples": [
+            {
+                "code": "oven_example_will-you-preheat-the-oven",
+                "text": "Will you preheat the oven?"
+            },
+            {
+                "code": "oven_example_i-used-the-oven-today",
+                "text": "I used the oven today."
+            },
+            {
+                "code": "oven_example_i-need-to-clean-the-oven",
+                "text": "I need to clean the oven."
+            },
+            {
+                "code": "oven_example_bake-the-bread-in-the-oven",
+                "text": "Bake the bread in the oven."
+            },
+            {
+                "code": "oven_example_i-m-waiting-for-the-oven-to-cool-down",
+                "text": "I'm waiting for the oven to cool down."
+            },
+            {
+                "code": "oven_example_i-need-an-oven-mitt",
+                "text": "I need an oven mitt."
+            },
+            {
+                "code": "oven_example_he-cleaned-the-oven-rack",
+                "text": "He cleaned the oven rack."
+            },
+            {
+                "code": "oven_example_what-is-the-oven-temperature",
+                "text": "What is the oven temperature?"
+            },
+            {
+                "code": "oven_example_i-used-the-oven-cleaner",
+                "text": "I used the oven cleaner."
+            },
+            {
+                "code": "oven_example_i-turned-on-the-microwave-oven",
+                "text": "I turned on the microwave oven."
+            },
+            {
+                "code": "oven_example_you-need-a-warm-oven",
+                "text": "You need a warm oven."
+            },
+            {
+                "code": "oven_example_put-the-casserole-in-the-oven",
+                "text": "Put the casserole in the oven."
+            }
+        ]
+    }
+]

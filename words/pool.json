@@ -1,0 +1,50 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a small body of water; a swimming pool; a small area of liquid",
+        "examples": [
+            {
+                "code": "pool_example_they-are-swimming-in-the-pool",
+                "text": "They are swimming in the pool."
+            },
+            {
+                "code": "pool_example_he-drained-the-pool",
+                "text": "He drained the pool."
+            },
+            {
+                "code": "pool_example_my-neighbors-are-having-a-pool-party",
+                "text": "My neighbors are having a pool party."
+            },
+            {
+                "code": "pool_example_the-pool-deck-is-slippery",
+                "text": "The pool deck is slippery."
+            },
+            {
+                "code": "pool_example_the-children-found-a-big-pool-of-water-to-play-in",
+                "text": "The children found a big pool of water to play in."
+            },
+            {
+                "code": "pool_example_they-have-a-swimming-pool",
+                "text": "They have a swimming pool."
+            },
+            {
+                "code": "pool_example_they-swam-in-the-pool",
+                "text": "They swam in the pool."
+            },
+            {
+                "code": "pool_example_there-was-a-pool-of-blood",
+                "text": "There was a pool of blood."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to collect money or ideas from people and put it all together to share",
+        "examples": [
+            {
+                "code": "pool_example_let-s-pool-our-money-together",
+                "text": "Let's pool our money together."
+            }
+        ]
+    }
+]

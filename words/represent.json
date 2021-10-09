@@ -1,0 +1,40 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to act or speak for someone else",
+        "examples": [
+            {
+                "code": "represent_example_he-is-representing-the-defendant",
+                "text": "He is representing the defendant."
+            },
+            {
+                "code": "represent_example_he-is-representing-our-client",
+                "text": "He is representing our client."
+            },
+            {
+                "code": "represent_example_we-were-represented-by-an-attorney",
+                "text": "We were represented by an attorney."
+            },
+            {
+                "code": "represent_example_this-discovery-represents-a-milestone-for-us",
+                "text": "This discovery represents a milestone for us."
+            },
+            {
+                "code": "represent_example_he-represents-a-danger-to-us-all",
+                "text": "He represents a danger to us all."
+            },
+            {
+                "code": "represent_example_we-need-a-mayor-who-truly-represents-our-interests",
+                "text": "We need a mayor who truly represents our interests."
+            },
+            {
+                "code": "represent_example_they-lost-the-case-because-they-were-poorly-represented",
+                "text": "They lost the case because they were poorly represented."
+            },
+            {
+                "code": "represent_example_can-he-legally-represent-us",
+                "text": "Can he legally represent us?"
+            }
+        ]
+    }
+]

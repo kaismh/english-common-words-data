@@ -1,0 +1,36 @@
+[
+    {
+        "type": "(n)",
+        "mean": "something that is done; physical movement",
+        "examples": [
+            {
+                "code": "action_example_our-company-needs-to-take-immediate-action",
+                "text": "Our company needs to take immediate action."
+            },
+            {
+                "code": "action_example_the-government-took-drastic-action",
+                "text": "The government took drastic action."
+            },
+            {
+                "code": "action_example_he-takes-immediate-action-when-there-is-an-emergency",
+                "text": "He takes immediate action when there is an emergency."
+            },
+            {
+                "code": "action_example_the-increasing-violence-in-the-city-calls-for-action-by-police",
+                "text": "The increasing violence in the city calls for action by police."
+            },
+            {
+                "code": "action_example_i-d-like-to-see-the-new-car-in-action",
+                "text": "I'd like to see the new car in action."
+            },
+            {
+                "code": "action_example_since-the-ballplayer-hurt-his-leg-he-has-been-out-of-action",
+                "text": "Since the ballplayer hurt his leg, he has been out of action."
+            },
+            {
+                "code": "action_example_we-will-take-legal-action-against-the-person-who-hit-our-car",
+                "text": "We will take legal action against the person who hit our car."
+            }
+        ]
+    }
+]

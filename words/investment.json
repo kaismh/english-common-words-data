@@ -1,0 +1,76 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the act of putting money into something in order to make a profit",
+        "examples": [
+            {
+                "code": "investment_example_we-were-told-it-was-an-excellent-investment",
+                "text": "We were told it was an excellent investment."
+            },
+            {
+                "code": "investment_example_the-mayor-has-called-for-a-massive-investment-to-fix-the-roads",
+                "text": "The mayor has called for a massive investment to fix the roads."
+            },
+            {
+                "code": "investment_example_he-wants-to-make-the-maximum-investment-allowed-by-the-policy",
+                "text": "He wants to make the maximum investment allowed by the policy."
+            },
+            {
+                "code": "investment_example_they-re-interested-in-long-term-investments",
+                "text": "They're interested in long-term investments."
+            },
+            {
+                "code": "investment_example_he-made-several-risky-investments",
+                "text": "He made several risky investments."
+            },
+            {
+                "code": "investment_example_they-came-up-with-plans-to-encourage-new-investments",
+                "text": "They came up with plans to encourage new investments."
+            },
+            {
+                "code": "investment_example_you-should-increase-your-investments",
+                "text": "You should increase your investments."
+            },
+            {
+                "code": "investment_example_i-was-never-able-to-recover-my-full-investment",
+                "text": "I was never able to recover my full investment."
+            },
+            {
+                "code": "investment_example_my-investment-yielded-a-huge-profit",
+                "text": "My investment yielded a huge profit."
+            },
+            {
+                "code": "investment_example_i-check-my-investment-account-regularly",
+                "text": "I check my investment account regularly."
+            },
+            {
+                "code": "investment_example_he-did-not-have-an-investment-plan",
+                "text": "He did not have an investment plan."
+            },
+            {
+                "code": "investment_example_she-helped-me-with-investment-opportunities",
+                "text": "She helped me with investment opportunities."
+            },
+            {
+                "code": "investment_example_he-has-been-working-as-an-investment-adviser-for-many-years",
+                "text": "He has been working as an investment adviser for many years."
+            },
+            {
+                "code": "investment_example_make-sure-to-report-your-investment-income-to-the-irs",
+                "text": "Make sure to report your investment income to the IRS."
+            },
+            {
+                "code": "investment_example_i-receive-advice-from-my-investment-bank",
+                "text": "I receive advice from my investment bank."
+            },
+            {
+                "code": "investment_example_i-bought-rental-property-as-an-investment",
+                "text": "I bought rental property as an investment."
+            },
+            {
+                "code": "investment_example_we-should-make-investments-in-local-industries",
+                "text": "We should make investments in local industries."
+            }
+        ]
+    }
+]

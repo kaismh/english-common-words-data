@@ -1,0 +1,36 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a single thing",
+        "examples": [
+            {
+                "code": "item_example_each-individual-item-must-be-numbered",
+                "text": "Each individual item must be numbered."
+            },
+            {
+                "code": "item_example_she-kept-essential-items-in-a-safe",
+                "text": "She kept essential items in a safe."
+            },
+            {
+                "code": "item_example_what-is-the-main-item-on-the-agenda",
+                "text": "What is the main item on the agenda?"
+            },
+            {
+                "code": "item_example_she-had-to-buy-a-few-more-household-items",
+                "text": "She had to buy a few more household items."
+            },
+            {
+                "code": "item_example_an-item-of-clothing-was-found-at-the-crime-scene",
+                "text": "An item of clothing was found at the crime scene."
+            },
+            {
+                "code": "item_example_did-see-the-main-item-on-the-agenda",
+                "text": "Did see the main item on the agenda?"
+            },
+            {
+                "code": "item_example_there-was-a-news-item-about-recent-burglaries-in-the-area",
+                "text": "There was a news item about recent burglaries in the area."
+            }
+        ]
+    }
+]

@@ -1,0 +1,36 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a special event; a situation that concerns someone; a sexual relationship between two people that are already in a relationship with other people",
+        "examples": [
+            {
+                "code": "affair_example_our-wedding-was-a-grand-affair",
+                "text": "Our wedding was a grand affair."
+            },
+            {
+                "code": "affair_example_he-had-a-sexual-affair-with-his-coworker",
+                "text": "He had a sexual affair with his coworker."
+            },
+            {
+                "code": "affair_example_my-private-affairs-are-none-of-your-business",
+                "text": "My private affairs are none of your business!"
+            },
+            {
+                "code": "affair_example_i-am-interested-in-international-affairs",
+                "text": "I am interested in international affairs."
+            },
+            {
+                "code": "affair_example_the-politician-covered-up-an-extra-marital-affair",
+                "text": "The politician covered up an extra-marital affair."
+            },
+            {
+                "code": "affair_example_the-newspaper-exposed-his-secret-affair",
+                "text": "The newspaper exposed his secret affair."
+            },
+            {
+                "code": "affair_example_please-don-t-interfere-in-my-affairs",
+                "text": "Please don't interfere in my affairs."
+            }
+        ]
+    }
+]

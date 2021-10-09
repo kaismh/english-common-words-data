@@ -1,0 +1,32 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to make something a part of something else; to become a corporation",
+        "examples": [
+            {
+                "code": "incorporate_example_the-company-was-formally-incorporated-today",
+                "text": "The company was formally incorporated today."
+            },
+            {
+                "code": "incorporate_example_these-new-features-can-be-easily-incorporated",
+                "text": "These new features can be easily incorporated."
+            },
+            {
+                "code": "incorporate_example_the-area-was-successfully-incorporated-as-part-of-the-city",
+                "text": "The area was successfully incorporated as part of the city."
+            },
+            {
+                "code": "incorporate_example_the-data-is-now-incorporated-in-the-report",
+                "text": "The data is now incorporated in the report."
+            },
+            {
+                "code": "incorporate_example_he-incorporated-the-essays-into-his-book",
+                "text": "He incorporated the essays into his book."
+            },
+            {
+                "code": "incorporate_example_his-business-was-legally-incorporated-as-a-company",
+                "text": "His business was legally incorporated as a company."
+            }
+        ]
+    }
+]

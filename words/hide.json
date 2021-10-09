@@ -1,0 +1,126 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the skin of an animal",
+        "examples": [
+            {
+                "code": "hide_example_many-large-mammals-have-a-thick-hide",
+                "text": "Many large mammals have a thick hide."
+            },
+            {
+                "code": "hide_example_it-is-made-from-buffalo-hide",
+                "text": "It is made from buffalo hide."
+            },
+            {
+                "code": "hide_example_he-collects-animal-hide",
+                "text": "He collects animal hide."
+            },
+            {
+                "code": "hide_example_he-s-using-tanned-hide",
+                "text": "He's using tanned hide."
+            },
+            {
+                "code": "hide_example_he-is-tanning-the-cow-hide-for-leather",
+                "text": "He is tanning the cow hide for leather."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to keep from being seen or found; to keep secret",
+        "examples": [
+            {
+                "code": "hide_example_he-hid-the-cash-away-in-the-attic",
+                "text": "He hid the cash away in the attic."
+            },
+            {
+                "code": "hide_example_she-quickly-hid-in-the-closet",
+                "text": "She quickly hid in the closet."
+            },
+            {
+                "code": "hide_example_children-can-easily-hide-in-small-spaces",
+                "text": "Children can easily hide in small spaces."
+            },
+            {
+                "code": "hide_example_she-secretly-hid-his-present",
+                "text": "She secretly hid his present."
+            },
+            {
+                "code": "hide_example_she-hides-her-feelings-well",
+                "text": "She hides her feelings well."
+            },
+            {
+                "code": "hide_example_he-completely-hid-his-illness",
+                "text": "He completely hid his illness."
+            },
+            {
+                "code": "hide_example_she-could-barely-hide-her-excitement",
+                "text": "She could barely hide her excitement."
+            },
+            {
+                "code": "hide_example_she-wanted-to-hide-when-she-saw-him",
+                "text": "She wanted to hide when she saw him."
+            },
+            {
+                "code": "hide_example_he-prefers-to-hide-his-feelings",
+                "text": "He prefers to hide his feelings."
+            },
+            {
+                "code": "hide_example_she-was-unable-to-hide-her-illness",
+                "text": "She was unable to hide her illness."
+            },
+            {
+                "code": "hide_example_they-managed-to-hide-their-plan",
+                "text": "They managed to hide their plan."
+            },
+            {
+                "code": "hide_example_they-hid-behind-the-door",
+                "text": "They hid behind the door."
+            },
+            {
+                "code": "hide_example_they-tried-to-hide-from-the-intruder",
+                "text": "They tried to hide from the intruder."
+            },
+            {
+                "code": "hide_example_they-were-hiding-in-the-closet",
+                "text": "They were hiding in the closet."
+            },
+            {
+                "code": "hide_example_she-hid-under-the-bed",
+                "text": "She hid under the bed."
+            },
+            {
+                "code": "hide_example_the-mask-hid-her-face",
+                "text": "The mask hid her face."
+            },
+            {
+                "code": "hide_example_his-tough-attitude-hides-his-true-feelings",
+                "text": "His tough attitude hides his true feelings."
+            },
+            {
+                "code": "hide_example_he-tried-to-hide-his-anger",
+                "text": "He tried to hide his anger."
+            },
+            {
+                "code": "hide_example_she-tried-to-hide-her-face",
+                "text": "She tried to hide her face."
+            },
+            {
+                "code": "hide_example_he-always-hides-his-emotions",
+                "text": "He always hides his emotions."
+            },
+            {
+                "code": "hide_example_they-accused-him-of-hiding-the-truth",
+                "text": "They accused him of hiding the truth."
+            },
+            {
+                "code": "hide_example_she-could-barely-hide-her-enthusiasm",
+                "text": "She could barely hide her enthusiasm."
+            },
+            {
+                "code": "hide_example_they-hid-the-treasure-in-a-cave",
+                "text": "They hid the treasure in a cave."
+            }
+        ]
+    }
+]

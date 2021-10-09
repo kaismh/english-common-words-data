@@ -1,0 +1,42 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a person who lives in a particular place",
+        "examples": [
+            {
+                "code": "resident_example_she-is-a-county-resident",
+                "text": "She is a county resident."
+            },
+            {
+                "code": "resident_example_he-s-a-legal-resident",
+                "text": "He's a legal resident."
+            },
+            {
+                "code": "resident_example_i-m-a-resident-of-england",
+                "text": "I'm a resident of England."
+            }
+        ]
+    },
+    {
+        "type": "(adj)",
+        "mean": "living in a particular place",
+        "examples": [
+            {
+                "code": "resident_example_he-is-a-resident-alien",
+                "text": "He is a resident alien."
+            },
+            {
+                "code": "resident_example_what-is-her-resident-status",
+                "text": "What is her resident status?"
+            },
+            {
+                "code": "resident_example_what-is-the-resident-population-of-this-city",
+                "text": "What is the resident population of this city?"
+            },
+            {
+                "code": "resident_example_our-resident-expert-is-from-japan",
+                "text": "Our resident expert is from Japan."
+            }
+        ]
+    }
+]

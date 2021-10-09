@@ -1,0 +1,104 @@
+[
+    {
+        "type": "(n)",
+        "mean": "an event that affects people or things; the condition of a time and place",
+        "examples": [
+            {
+                "code": "situation_example_she-described-the-general-situation",
+                "text": "She described the general situation."
+            },
+            {
+                "code": "situation_example_i-don-t-want-to-travel-in-the-current-international-situation",
+                "text": "I don't want to travel in the current international situation."
+            },
+            {
+                "code": "situation_example_we-discussed-a-hypothetical-situation-in-class",
+                "text": "We discussed a hypothetical situation in class."
+            },
+            {
+                "code": "situation_example_i-was-afraid-of-the-chaotic-situation",
+                "text": "I was afraid of the chaotic situation."
+            },
+            {
+                "code": "situation_example_you-re-putting-me-in-an-awkward-situation",
+                "text": "You're putting me in an awkward situation."
+            },
+            {
+                "code": "situation_example_we-have-to-be-careful-with-this-delicate-situation",
+                "text": "We have to be careful with this delicate situation."
+            },
+            {
+                "code": "situation_example_i-d-never-put-my-children-in-a-dangerous-situation",
+                "text": "I'd never put my children in a dangerous situation."
+            },
+            {
+                "code": "situation_example_the-military-will-take-over-in-an-emergency-situation",
+                "text": "The military will take over in an emergency situation."
+            },
+            {
+                "code": "situation_example_he-excels-in-high-pressure-situations",
+                "text": "He excels in high-pressure situations."
+            },
+            {
+                "code": "situation_example_we-are-in-a-win-win-situation",
+                "text": "We are in a win-win situation."
+            },
+            {
+                "code": "situation_example_what-is-your-employment-situation",
+                "text": "What is your employment situation?"
+            },
+            {
+                "code": "situation_example_your-leadership-caused-this-situation",
+                "text": "Your leadership caused this situation."
+            },
+            {
+                "code": "situation_example_i-ve-never-faced-a-situation-like-this-before",
+                "text": "I've never faced a situation like this before."
+            },
+            {
+                "code": "situation_example_how-can-we-avoid-that-situation",
+                "text": "How can we avoid that situation?"
+            },
+            {
+                "code": "situation_example_you-don-t-understand-the-situation-we-re-in",
+                "text": "You don't understand the situation we're in."
+            },
+            {
+                "code": "situation_example_give-us-some-advice-after-you-analyze-the-situation",
+                "text": "Give us some advice after you analyze the situation."
+            },
+            {
+                "code": "situation_example_he-s-here-to-judge-the-situation",
+                "text": "He's here to judge the situation."
+            },
+            {
+                "code": "situation_example_i-ll-need-you-to-describe-the-situation",
+                "text": "I'll need you to describe the situation."
+            },
+            {
+                "code": "situation_example_businesses-wanted-to-exploit-the-fearful-situation",
+                "text": "Businesses wanted to exploit the fearful situation."
+            },
+            {
+                "code": "situation_example_she-quickly-lost-control-of-the-situation",
+                "text": "She quickly lost control of the situation."
+            },
+            {
+                "code": "situation_example_a-new-situation-has-arisen",
+                "text": "A new situation has arisen."
+            },
+            {
+                "code": "situation_example_the-situation-will-exist-until-we-fix-it",
+                "text": "The situation will exist until we fix it."
+            },
+            {
+                "code": "situation_example_what-does-the-situation-require",
+                "text": "What does the situation require?"
+            },
+            {
+                "code": "situation_example_they-got-themselves-in-a-bad-situation",
+                "text": "They got themselves in a bad situation."
+            }
+        ]
+    }
+]

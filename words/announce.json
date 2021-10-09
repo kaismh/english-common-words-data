@@ -1,0 +1,32 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to say something officially or publicly",
+        "examples": [
+            {
+                "code": "announce_example_they-are-going-to-formerly-announce-their-engagement",
+                "text": "They are going to formerly announce their engagement."
+            },
+            {
+                "code": "announce_example_they-happily-announced-the-birth-of-their-new-baby",
+                "text": "They happily announced the birth of their new baby."
+            },
+            {
+                "code": "announce_example_we-regret-to-announce-that-you-haven-t-been-chosen",
+                "text": "We regret to announce that you haven't been chosen."
+            },
+            {
+                "code": "announce_example_the-news-was-announced-by-email",
+                "text": "The news was announced by email."
+            },
+            {
+                "code": "announce_example_the-president-announced-his-new-policy",
+                "text": "The president announced his new policy."
+            },
+            {
+                "code": "announce_example_she-announced-to-her-family-that-she-was-pregnant",
+                "text": "She announced to her family that she was pregnant."
+            }
+        ]
+    }
+]

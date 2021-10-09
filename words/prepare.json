@@ -1,0 +1,32 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to make or get ready",
+        "examples": [
+            {
+                "code": "prepare_example_i-prepared-lunch-for-the-family",
+                "text": "I prepared lunch for the family."
+            },
+            {
+                "code": "prepare_example_he-did-not-fully-prepare-for-the-test",
+                "text": "He did not fully prepare for the test."
+            },
+            {
+                "code": "prepare_example_she-carefully-prepared-the-meal",
+                "text": "She carefully prepared the meal."
+            },
+            {
+                "code": "prepare_example_how-do-you-mentally-prepare-for-disaster",
+                "text": "How do you mentally prepare for disaster?"
+            },
+            {
+                "code": "prepare_example_i-need-to-prepare-for-my-final-exams",
+                "text": "I need to prepare for my final exams."
+            },
+            {
+                "code": "prepare_example_we-are-preparing-for-the-wedding",
+                "text": "We are preparing for the wedding."
+            }
+        ]
+    }
+]

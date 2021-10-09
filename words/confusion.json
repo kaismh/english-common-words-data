@@ -1,0 +1,56 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the state of not understanding clearly or not knowing what to do",
+        "examples": [
+            {
+                "code": "confusion_example_the-loss-of-power-caused-complete-confusion",
+                "text": "The loss of power caused complete confusion."
+            },
+            {
+                "code": "confusion_example_there-was-mild-confusion-as-to-what-bus-to-take",
+                "text": "There was mild confusion as to what bus to take."
+            },
+            {
+                "code": "confusion_example_confusion-between-the-twins-is-understandable",
+                "text": "Confusion between the twins is understandable."
+            },
+            {
+                "code": "confusion_example_there-was-general-confusion-after-the-earthquake",
+                "text": "There was general confusion after the earthquake."
+            },
+            {
+                "code": "confusion_example_the-initial-confusion-went-away",
+                "text": "The initial confusion went away."
+            },
+            {
+                "code": "confusion_example_he-labeled-all-of-the-boxes-to-avoid-any-confusion",
+                "text": "He labeled all of the boxes to avoid any confusion."
+            },
+            {
+                "code": "confusion_example_her-unnecessary-actions-caused-confusion",
+                "text": "Her unnecessary actions caused confusion."
+            },
+            {
+                "code": "confusion_example_how-can-we-clarify-the-confusion",
+                "text": "How can we clarify the confusion?"
+            },
+            {
+                "code": "confusion_example_i-can-sense-your-confusion",
+                "text": "I can sense your confusion."
+            },
+            {
+                "code": "confusion_example_she-looked-at-the-sign-in-confusion",
+                "text": "She looked at the sign in confusion."
+            },
+            {
+                "code": "confusion_example_there-is-confusion-over-the-assignment",
+                "text": "There is confusion over the assignment."
+            },
+            {
+                "code": "confusion_example_there-is-confusion-among-the-groups",
+                "text": "There is confusion among the groups."
+            }
+        ]
+    }
+]

@@ -1,0 +1,56 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a system of lines or wires connected to each other; a group of people that are closely connected that share information and other resources",
+        "examples": [
+            {
+                "code": "network_example_we-are-expanding-our-network",
+                "text": "We are expanding our network."
+            },
+            {
+                "code": "network_example_he-joined-the-network",
+                "text": "He joined the network."
+            },
+            {
+                "code": "network_example_he-is-a-network-administrator",
+                "text": "He is a network administrator."
+            },
+            {
+                "code": "network_example_the-network-connection-is-bad",
+                "text": "The network connection is bad."
+            },
+            {
+                "code": "network_example_i-only-watch-this-cable-network",
+                "text": "I only watch this cable network."
+            },
+            {
+                "code": "network_example_i-am-in-the-same-national-network",
+                "text": "I am in the same national network."
+            },
+            {
+                "code": "network_example_which-mobile-network-do-you-use",
+                "text": "Which mobile network do you use?"
+            },
+            {
+                "code": "network_example_we-are-part-of-his-social-network",
+                "text": "We are part of his social network."
+            },
+            {
+                "code": "network_example_we-have-a-large-network",
+                "text": "We have a large network."
+            },
+            {
+                "code": "network_example_the-network-of-social-media-is-expanding",
+                "text": "The network of social media is expanding."
+            },
+            {
+                "code": "network_example_he-is-in-our-network",
+                "text": "He is in our network."
+            },
+            {
+                "code": "network_example_we-could-not-share-information-over-the-network",
+                "text": "We could not share information over the network."
+            }
+        ]
+    }
+]

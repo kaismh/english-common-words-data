@@ -1,0 +1,90 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to answer",
+        "examples": [
+            {
+                "code": "reply_example_she-always-replies-truthfully",
+                "text": "She always replies truthfully."
+            },
+            {
+                "code": "reply_example_he-replied-briefly-to-my-question",
+                "text": "He replied briefly to my question."
+            },
+            {
+                "code": "reply_example_i-simply-replied-with-a-smile",
+                "text": "I simply replied with a smile."
+            },
+            {
+                "code": "reply_example_i-replied-to-him-yesterday",
+                "text": "I replied to him yesterday."
+            },
+            {
+                "code": "reply_example_she-replied-with-a-smile",
+                "text": "She replied with a smile."
+            }
+        ]
+    },
+    {
+        "type": "(n)",
+        "mean": "an answer",
+        "examples": [
+            {
+                "code": "reply_example_she-mumbled-a-reply",
+                "text": "She mumbled a reply."
+            },
+            {
+                "code": "reply_example_i-don-t-have-a-reply-for-you",
+                "text": "I don't have a reply for you."
+            },
+            {
+                "code": "reply_example_we-expect-a-reply-soon",
+                "text": "We expect a reply soon."
+            },
+            {
+                "code": "reply_example_i-read-her-reply",
+                "text": "I read her reply."
+            },
+            {
+                "code": "reply_example_did-you-get-a-reply",
+                "text": "Did you get a reply?"
+            },
+            {
+                "code": "reply_example_i-hit-the-reply-button-without-thinking",
+                "text": "I hit the reply button without thinking."
+            },
+            {
+                "code": "reply_example_please-fill-out-the-reply-card-and-return-it-as-soon-as-possible",
+                "text": "Please fill out the reply card and return it as soon as possible."
+            },
+            {
+                "code": "reply_example_i-received-her-written-reply",
+                "text": "I received her written reply."
+            },
+            {
+                "code": "reply_example_he-always-gives-a-witty-reply",
+                "text": "He always gives a witty reply."
+            },
+            {
+                "code": "reply_example_his-reply-is-correct",
+                "text": "His reply is correct."
+            },
+            {
+                "code": "reply_example_we-need-an-immediate-reply",
+                "text": "We need an immediate reply."
+            },
+            {
+                "code": "reply_example_i-got-a-reply-from-him-yesterday",
+                "text": "I got a reply from him yesterday."
+            },
+            {
+                "code": "reply_example_i-am-calling-in-reply-to-your-request",
+                "text": "I am calling in reply to your request."
+            },
+            {
+                "code": "reply_example_this-is-my-reply-to-your-question",
+                "text": "This is my reply to your question."
+            }
+        ]
+    }
+]

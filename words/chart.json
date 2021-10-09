@@ -1,0 +1,58 @@
+[
+    {
+        "type": "(n)",
+        "mean": "something that shows information in the form of a table, graph, or diagram; a map; a ranking of popular music",
+        "examples": [
+            {
+                "code": "chart_example_all-of-the-data-is-in-the-attached-chart",
+                "text": "All of the data is in the attached chart."
+            },
+            {
+                "code": "chart_example_his-presentation-included-a-pie-chart",
+                "text": "His presentation included a pie chart."
+            },
+            {
+                "code": "chart_example_the-doctor-is-looking-at-your-medical-chart",
+                "text": "The doctor is looking at your medical chart."
+            },
+            {
+                "code": "chart_example_can-you-read-nautical-charts",
+                "text": "Can you read nautical charts?"
+            },
+            {
+                "code": "chart_example_the-singer-made-it-to-the-top-of-the-pop-charts",
+                "text": "The singer made it to the top of the pop charts."
+            },
+            {
+                "code": "chart_example_this-chart-illustrates-an-increase-in-sales",
+                "text": "This chart illustrates an increase in sales."
+            },
+            {
+                "code": "chart_example_her-album-entered-the-charts-at-number-one",
+                "text": "Her album entered the charts at number one."
+            },
+            {
+                "code": "chart_example_their-music-is-climbing-the-charts",
+                "text": "Their music is climbing the charts."
+            },
+            {
+                "code": "chart_example_you-can-find-all-of-the-information-in-the-chart",
+                "text": "You can find all of the information in the chart."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to create a map; to track progress",
+        "examples": [
+            {
+                "code": "chart_example_the-explorer-charted-the-entire-journey",
+                "text": "The explorer charted the entire journey."
+            },
+            {
+                "code": "chart_example_make-sure-you-chart-your-progress",
+                "text": "Make sure you chart your progress."
+            }
+        ]
+    }
+]

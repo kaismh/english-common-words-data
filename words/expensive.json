@@ -1,0 +1,80 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "costing a lot of money; not cheap",
+        "examples": [
+            {
+                "code": "expensive_example_her-new-clothes-look-very-expensive",
+                "text": "Her new clothes look very expensive."
+            },
+            {
+                "code": "expensive_example_the-repairs-sounded-expensive",
+                "text": "The repairs sounded expensive."
+            },
+            {
+                "code": "expensive_example_living-in-this-area-is-becoming-very-expensive",
+                "text": "Living in this area is becoming very expensive."
+            },
+            {
+                "code": "expensive_example_having-two-kids-makes-shopping-expensive",
+                "text": "Having two kids makes shopping expensive."
+            },
+            {
+                "code": "expensive_example_i-found-the-trip-too-expensive",
+                "text": "I found the trip too expensive."
+            },
+            {
+                "code": "expensive_example_they-found-buying-a-house-extremely-expensive",
+                "text": "They found buying a house extremely expensive."
+            },
+            {
+                "code": "expensive_example_her-new-shoes-were-horribly-expensive",
+                "text": "Her new shoes were horribly expensive."
+            },
+            {
+                "code": "expensive_example_this-option-is-only-moderately-more-expensive",
+                "text": "This option is only moderately more expensive."
+            },
+            {
+                "code": "expensive_example_traveling-is-increasingly-expensive",
+                "text": "Traveling is increasingly expensive."
+            },
+            {
+                "code": "expensive_example_a-fancy-car-is-an-obviously-expensive-purchase",
+                "text": "A fancy car is an obviously expensive purchase."
+            },
+            {
+                "code": "expensive_example_mistakes-can-be-very-expensive",
+                "text": "Mistakes can be very expensive."
+            },
+            {
+                "code": "expensive_example_that-restaurant-is-too-expensive-for-me",
+                "text": "That restaurant is too expensive for me."
+            },
+            {
+                "code": "expensive_example_they-brought-a-very-expensive-gift-to-the-party",
+                "text": "They brought a very expensive gift to the party."
+            },
+            {
+                "code": "expensive_example_she-likes-expensive-jewelry",
+                "text": "She likes expensive jewelry."
+            },
+            {
+                "code": "expensive_example_golf-is-an-expensive-hobby",
+                "text": "Golf is an expensive hobby."
+            },
+            {
+                "code": "expensive_example_he-bought-some-expensive-wine",
+                "text": "He bought some expensive wine."
+            },
+            {
+                "code": "expensive_example_that-was-an-expensive-purchase",
+                "text": "That was an expensive purchase."
+            },
+            {
+                "code": "expensive_example_she-has-very-expensive-taste",
+                "text": "She has very expensive taste."
+            }
+        ]
+    }
+]

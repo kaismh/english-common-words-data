@@ -1,0 +1,36 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to come to a place",
+        "examples": [
+            {
+                "code": "arrive_example_my-parents-will-arrive-early",
+                "text": "My parents will arrive early."
+            },
+            {
+                "code": "arrive_example_we-finally-arrived-home",
+                "text": "We finally arrived home."
+            },
+            {
+                "code": "arrive_example_she-always-arrives-on-time",
+                "text": "She always arrives on time."
+            },
+            {
+                "code": "arrive_example_they-arrived-unexpectedly",
+                "text": "They arrived unexpectedly."
+            },
+            {
+                "code": "arrive_example_snow-failed-to-arrive-for-christmas",
+                "text": "Snow failed to arrive for Christmas."
+            },
+            {
+                "code": "arrive_example_i-will-arrive-at-12-o-clock",
+                "text": "I will arrive at 12 o'clock."
+            },
+            {
+                "code": "arrive_example_please-arrive-on-time",
+                "text": "Please arrive on time."
+            }
+        ]
+    }
+]

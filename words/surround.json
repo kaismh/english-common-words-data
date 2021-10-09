@@ -1,0 +1,50 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to be on every side of something or someone",
+        "examples": [
+            {
+                "code": "surround_example_the-building-was-completely-surrounded-by-police",
+                "text": "The building was completely surrounded by police."
+            },
+            {
+                "code": "surround_example_the-house-is-almost-surrounded-by-trees",
+                "text": "The house is almost surrounded by trees."
+            },
+            {
+                "code": "surround_example_the-lake-partially-surrounds-the-cabin",
+                "text": "The lake partially surrounds the cabin."
+            },
+            {
+                "code": "surround_example_the-dogs-quickly-surrounded-the-jogger",
+                "text": "The dogs quickly surrounded the jogger."
+            },
+            {
+                "code": "surround_example_the-house-was-surrounded-by-trees",
+                "text": "The house was surrounded by trees."
+            }
+        ]
+    },
+    {
+        "type": "(n)",
+        "mean": "a border or an area around the edge of something",
+        "examples": [
+            {
+                "code": "surround_example_we-watch-movies-at-home-in-surround-sound",
+                "text": "We watch movies at home in surround sound."
+            },
+            {
+                "code": "surround_example_the-large-surround-of-the-castle-is-decorated-with-beautiful-flowers",
+                "text": "The large surround of the castle is decorated with beautiful flowers."
+            },
+            {
+                "code": "surround_example_we-installed-a-tile-surround-for-our-shower",
+                "text": "We installed a tile surround for our shower."
+            },
+            {
+                "code": "surround_example_we-built-a-new-fireplace-surround-in-our-living-room",
+                "text": "We built a new fireplace surround in our living room."
+            }
+        ]
+    }
+]

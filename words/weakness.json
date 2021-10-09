@@ -1,0 +1,60 @@
+[
+    {
+        "type": "(n)",
+        "mean": "lack of strength or power",
+        "examples": [
+            {
+                "code": "weakness_example_candy-is-my-greatest-weakness",
+                "text": "Candy is my greatest weakness."
+            },
+            {
+                "code": "weakness_example_he-has-a-major-weakness-for-sugary-food",
+                "text": "He has a major weakness for sugary food."
+            },
+            {
+                "code": "weakness_example_i-have-a-small-weakness-for-babies",
+                "text": "I have a small weakness for babies."
+            },
+            {
+                "code": "weakness_example_he-took-advantage-of-her-physical-weakness",
+                "text": "He took advantage of her physical weakness."
+            },
+            {
+                "code": "weakness_example_we-should-address-any-possible-weaknesses",
+                "text": "We should address any possible weaknesses."
+            },
+            {
+                "code": "weakness_example_the-accident-caused-weakness-in-his-arms",
+                "text": "The accident caused weakness in his arms."
+            },
+            {
+                "code": "weakness_example_we-identified-the-weakness-in-the-plan",
+                "text": "We identified the weakness in the plan."
+            },
+            {
+                "code": "weakness_example_she-suffers-from-weakness-in-her-legs",
+                "text": "She suffers from weakness in her legs."
+            },
+            {
+                "code": "weakness_example_he-revealed-the-other-team-s-weakness",
+                "text": "He revealed the other team's weakness."
+            },
+            {
+                "code": "weakness_example_he-tried-to-hide-his-weakness",
+                "text": "He tried to hide his weakness."
+            },
+            {
+                "code": "weakness_example_she-has-a-weakness-for-sweet-desserts",
+                "text": "She has a weakness for sweet desserts."
+            },
+            {
+                "code": "weakness_example_hesitation-is-a-sign-of-weakness",
+                "text": "Hesitation is a sign of weakness."
+            },
+            {
+                "code": "weakness_example_there-was-a-huge-weakness-in-the-other-team-s-defense",
+                "text": "There was a huge weakness in the other team's defense."
+            }
+        ]
+    }
+]

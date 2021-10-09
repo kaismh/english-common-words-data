@@ -1,0 +1,44 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a wick in a wax cylinder, used for light",
+        "examples": [
+            {
+                "code": "candle_example_don-t-leave-a-lit-candle-unattended",
+                "text": "Don't leave a lit candle unattended."
+            },
+            {
+                "code": "candle_example_i-bought-scented-candles-for-my-wife",
+                "text": "I bought scented candles for my wife."
+            },
+            {
+                "code": "candle_example_i-prefer-wax-candles",
+                "text": "I prefer wax candles."
+            },
+            {
+                "code": "candle_example_will-you-light-the-candles",
+                "text": "Will you light the candles?"
+            },
+            {
+                "code": "candle_example_the-candles-nicely-illuminate-the-room",
+                "text": "The candles nicely illuminate the room."
+            },
+            {
+                "code": "candle_example_the-candles-are-flickering-in-the-wind",
+                "text": "The candles are flickering in the wind."
+            },
+            {
+                "code": "candle_example_the-candles-have-gone-out",
+                "text": "The candles have gone out."
+            },
+            {
+                "code": "candle_example_i-was-burned-by-the-candle-flame",
+                "text": "I was burned by the candle flame."
+            },
+            {
+                "code": "candle_example_she-is-collecting-candle-wax",
+                "text": "She is collecting candle wax."
+            }
+        ]
+    }
+]

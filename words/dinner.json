@@ -1,0 +1,88 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the main meal of the day, usually eaten in the evening; a formal event that serves a meal",
+        "examples": [
+            {
+                "code": "dinner_example_she-makes-delicious-dinners-for-her-family",
+                "text": "She makes delicious dinners for her family."
+            },
+            {
+                "code": "dinner_example_the-party-featured-a-four-course-dinner",
+                "text": "The party featured a four-course dinner."
+            },
+            {
+                "code": "dinner_example_we-ate-a-big-dinner-before-the-movie",
+                "text": "We ate a big dinner before the movie."
+            },
+            {
+                "code": "dinner_example_he-prepared-a-candlelight-dinner-for-their-anniversary",
+                "text": "He prepared a candlelight dinner for their anniversary."
+            },
+            {
+                "code": "dinner_example_i-am-hosting-a-birthday-dinner",
+                "text": "I am hosting a birthday dinner."
+            },
+            {
+                "code": "dinner_example_i-am-catering-an-elegant-dinner",
+                "text": "I am catering an elegant dinner."
+            },
+            {
+                "code": "dinner_example_the-company-hosted-an-annual-dinner",
+                "text": "The company hosted an annual dinner."
+            },
+            {
+                "code": "dinner_example_she-attended-a-farewell-dinner",
+                "text": "She attended a farewell dinner."
+            },
+            {
+                "code": "dinner_example_the-couple-hosts-fancy-dinners",
+                "text": "The couple hosts fancy dinners."
+            },
+            {
+                "code": "dinner_example_are-you-attending-their-anniversary-dinner",
+                "text": "Are you attending their anniversary dinner?"
+            },
+            {
+                "code": "dinner_example_i-need-to-change-for-dinner",
+                "text": "I need to change for dinner."
+            },
+            {
+                "code": "dinner_example_the-basketball-star-is-speaking-at-the-charity-dinner",
+                "text": "The basketball star is speaking at the charity dinner."
+            },
+            {
+                "code": "dinner_example_are-they-invited-to-dinner",
+                "text": "Are they invited to dinner?"
+            },
+            {
+                "code": "dinner_example_let-s-sit-down-at-the-dinner-table",
+                "text": "Let's sit down at the dinner table."
+            },
+            {
+                "code": "dinner_example_please-hand-me-the-dinner-plates",
+                "text": "Please hand me the dinner plates."
+            },
+            {
+                "code": "dinner_example_when-is-dinner-time",
+                "text": "When is dinner time?"
+            },
+            {
+                "code": "dinner_example_do-you-have-a-dinner-date",
+                "text": "Do you have a dinner date?"
+            },
+            {
+                "code": "dinner_example_she-took-a-date-to-the-dinner-party",
+                "text": "She took a date to the dinner party."
+            },
+            {
+                "code": "dinner_example_she-graciously-greeted-the-dinner-guests",
+                "text": "She graciously greeted the dinner guests."
+            },
+            {
+                "code": "dinner_example_he-wore-a-dark-dinner-jacket",
+                "text": "He wore a dark dinner jacket."
+            }
+        ]
+    }
+]

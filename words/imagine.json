@@ -1,0 +1,40 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to form a mental picture or image in one's mind",
+        "examples": [
+            {
+                "code": "imagine_example_i-could-clearly-imagine-being-on-the-beach",
+                "text": "I could clearly imagine being on the beach."
+            },
+            {
+                "code": "imagine_example_i-could-hardly-imagine-living-in-a-different-place",
+                "text": "I could hardly imagine living in a different place."
+            },
+            {
+                "code": "imagine_example_i-always-imagined-him-becoming-a-doctor",
+                "text": "I always imagined him becoming a doctor."
+            },
+            {
+                "code": "imagine_example_i-can-t-actually-imagine-having-children",
+                "text": "I can't actually imagine having children."
+            },
+            {
+                "code": "imagine_example_she-was-simply-imagining-things",
+                "text": "She was simply imagining things."
+            },
+            {
+                "code": "imagine_example_they-tried-to-imagine-what-she-went-through",
+                "text": "They tried to imagine what she went through."
+            },
+            {
+                "code": "imagine_example_i-began-to-imagine-what-life-would-be-like-without-him",
+                "text": "I began to imagine what life would be like without him."
+            },
+            {
+                "code": "imagine_example_i-can-imagine-what-she-was-thinking",
+                "text": "I can imagine what she was thinking."
+            }
+        ]
+    }
+]

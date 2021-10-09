@@ -1,0 +1,60 @@
+[
+    {
+        "type": "(n)",
+        "mean": "trash or waste material; something that is bad or stupid",
+        "examples": [
+            {
+                "code": "garbage_example_they-pick-up-household-garbage-on-mondays",
+                "text": "They pick up household garbage on Mondays."
+            },
+            {
+                "code": "garbage_example_please-take-that-rotting-garbage-outside",
+                "text": "Please take that rotting garbage outside."
+            },
+            {
+                "code": "garbage_example_your-lies-are-complete-garbage",
+                "text": "Your lies are complete garbage."
+            },
+            {
+                "code": "garbage_example_take-out-the-garbage-before-you-go-to-bed",
+                "text": "Take out the garbage before you go to bed."
+            },
+            {
+                "code": "garbage_example_garbage-will-not-be-collected-on-holidays",
+                "text": "Garbage will not be collected on holidays."
+            },
+            {
+                "code": "garbage_example_people-keep-throwing-their-garbage-in-my-yard",
+                "text": "People keep throwing their garbage in my yard."
+            },
+            {
+                "code": "garbage_example_make-sure-you-dispose-of-the-garbage-before-you-leave",
+                "text": "Make sure you dispose of the garbage before you leave."
+            },
+            {
+                "code": "garbage_example_she-helped-pick-up-garbage-along-the-beach",
+                "text": "She helped pick up garbage along the beach."
+            },
+            {
+                "code": "garbage_example_someone-left-a-pile-of-garbage-in-here",
+                "text": "Someone left a pile of garbage in here."
+            },
+            {
+                "code": "garbage_example_put-that-in-the-garbage-can",
+                "text": "Put that in the garbage can."
+            },
+            {
+                "code": "garbage_example_the-garbage-truck-is-so-noisy",
+                "text": "The garbage truck is so noisy."
+            },
+            {
+                "code": "garbage_example_garbage-collection-is-on-monday",
+                "text": "Garbage collection is on Monday."
+            },
+            {
+                "code": "garbage_example_we-re-taking-a-load-to-the-garbage-dump-tomorrow",
+                "text": "We're taking a load to the garbage dump tomorrow."
+            }
+        ]
+    }
+]

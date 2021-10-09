@@ -1,0 +1,68 @@
+[
+    {
+        "type": "(n)",
+        "mean": "facts, information and skills acquired through experience or education",
+        "examples": [
+            {
+                "code": "knowledge_example_she-has-expert-knowledge-in-forensics",
+                "text": "She has expert knowledge in forensics."
+            },
+            {
+                "code": "knowledge_example_he-has-first-hand-knowledge-of-what-happened",
+                "text": "He has first-hand knowledge of what happened."
+            },
+            {
+                "code": "knowledge_example_i-have-limited-knowledge-of-european-history",
+                "text": "I have limited knowledge of European history."
+            },
+            {
+                "code": "knowledge_example_it-s-common-knowledge-that-the-company-is-struggling",
+                "text": "It's common knowledge that the company is struggling."
+            },
+            {
+                "code": "knowledge_example_she-has-a-good-working-knowledge-of-the-subject",
+                "text": "She has a good working knowledge of the subject."
+            },
+            {
+                "code": "knowledge_example_his-professional-knowledge-became-very-useful",
+                "text": "His professional knowledge became very useful."
+            },
+            {
+                "code": "knowledge_example_i-acquired-more-knowledge-on-the-subject",
+                "text": "I acquired more knowledge on the subject."
+            },
+            {
+                "code": "knowledge_example_previous-knowledge-is-not-required-for-the-job",
+                "text": "Previous knowledge is not required for the job."
+            },
+            {
+                "code": "knowledge_example_he-demonstrated-his-knowledge-of-computers",
+                "text": "He demonstrated his knowledge of computers."
+            },
+            {
+                "code": "knowledge_example_the-project-gave-him-the-opportunity-to-use-his-knowledge",
+                "text": "The project gave him the opportunity to use his knowledge."
+            },
+            {
+                "code": "knowledge_example_we-shared-our-knowledge-of-fine-wines",
+                "text": "We shared our knowledge of fine wines."
+            },
+            {
+                "code": "knowledge_example_he-read-many-books-to-increase-his-knowledge",
+                "text": "He read many books to increase his knowledge."
+            },
+            {
+                "code": "knowledge_example_he-did-it-without-their-knowledge",
+                "text": "He did it without their knowledge."
+            },
+            {
+                "code": "knowledge_example_she-s-never-lived-out-of-state-to-my-knowledge",
+                "text": "She's never lived out of state to my knowledge."
+            },
+            {
+                "code": "knowledge_example_he-had-a-wide-knowledge-of-classic-cars",
+                "text": "He had a wide knowledge of classic cars."
+            }
+        ]
+    }
+]

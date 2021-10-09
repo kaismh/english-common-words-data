@@ -1,0 +1,100 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the mental or physical condition of someone's body",
+        "examples": [
+            {
+                "code": "health_example_he-is-still-in-excellent-health",
+                "text": "He is still in excellent health."
+            },
+            {
+                "code": "health_example_we-are-worried-about-his-bad-health",
+                "text": "We are worried about his bad health."
+            },
+            {
+                "code": "health_example_the-doctor-said-his-overall-health-is-good",
+                "text": "The doctor said his overall health is good."
+            },
+            {
+                "code": "health_example_he-made-some-suggestions-for-maintaining-his-long-term-health",
+                "text": "He made some suggestions for maintaining his long-term health."
+            },
+            {
+                "code": "health_example_we-re-concerned-with-his-physical-health",
+                "text": "We're concerned with his physical health."
+            },
+            {
+                "code": "health_example_they-are-discussing-environmental-health",
+                "text": "They are discussing environmental health."
+            },
+            {
+                "code": "health_example_this-disease-is-a-threat-to-public-health",
+                "text": "This disease is a threat to public health."
+            },
+            {
+                "code": "health_example_he-enjoys-good-health-despite-his-age",
+                "text": "He enjoys good health despite his age."
+            },
+            {
+                "code": "health_example_he-eats-good-food-to-maintain-his-health",
+                "text": "He eats good food to maintain his health."
+            },
+            {
+                "code": "health_example_they-are-finding-ways-to-improve-public-health",
+                "text": "They are finding ways to improve public health."
+            },
+            {
+                "code": "health_example_the-campaign-promotes-good-health",
+                "text": "The campaign promotes good health."
+            },
+            {
+                "code": "health_example_he-s-trying-to-regain-his-health",
+                "text": "He's trying to regain his health."
+            },
+            {
+                "code": "health_example_smoking-will-harm-your-health",
+                "text": "Smoking will harm your health."
+            },
+            {
+                "code": "health_example_they-are-monitoring-his-health",
+                "text": "They are monitoring his health."
+            },
+            {
+                "code": "health_example_her-health-is-slowly-failing",
+                "text": "Her health is slowly failing."
+            },
+            {
+                "code": "health_example_they-want-to-increase-access-to-health-care",
+                "text": "They want to increase access to health care."
+            },
+            {
+                "code": "health_example_the-health-department-issued-a-warning-about-the-flu",
+                "text": "The health department issued a warning about the flu."
+            },
+            {
+                "code": "health_example_that-is-a-major-health-hazard",
+                "text": "That is a major health hazard."
+            },
+            {
+                "code": "health_example_there-are-many-health-benefits-from-exercising",
+                "text": "There are many health benefits from exercising."
+            },
+            {
+                "code": "health_example_health-education-is-important",
+                "text": "Health education is important."
+            },
+            {
+                "code": "health_example_they-are-opening-a-community-health-center",
+                "text": "They are opening a community health center."
+            },
+            {
+                "code": "health_example_they-issued-a-health-warning-because-of-the-smoke-in-the-air",
+                "text": "They issued a health warning because of the smoke in the air."
+            },
+            {
+                "code": "health_example_he-eats-nothing-but-health-food",
+                "text": "He eats nothing but health food."
+            }
+        ]
+    }
+]

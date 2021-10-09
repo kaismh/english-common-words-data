@@ -1,0 +1,74 @@
+[
+    {
+        "type": "(n)",
+        "mean": "an error; a wrong judgment",
+        "examples": [
+            {
+                "code": "mistake_example_i-try-not-to-repeat-my-mistakes",
+                "text": "I try not to repeat my mistakes."
+            },
+            {
+                "code": "mistake_example_she-made-a-lot-of-mistakes",
+                "text": "She made a lot of mistakes."
+            },
+            {
+                "code": "mistake_example_mistakes-sometimes-happen",
+                "text": "Mistakes sometimes happen."
+            },
+            {
+                "code": "mistake_example_she-admitted-to-her-mistake",
+                "text": "She admitted to her mistake."
+            },
+            {
+                "code": "mistake_example_i-recognized-my-mistake",
+                "text": "I recognized my mistake."
+            },
+            {
+                "code": "mistake_example_please-correct-your-mistakes",
+                "text": "Please correct your mistakes."
+            },
+            {
+                "code": "mistake_example_i-made-a-common-mistake",
+                "text": "I made a common mistake."
+            },
+            {
+                "code": "mistake_example_i-made-some-spelling-mistakes",
+                "text": "I made some spelling mistakes."
+            },
+            {
+                "code": "mistake_example_the-doctor-made-a-careless-mistake",
+                "text": "The doctor made a careless mistake."
+            },
+            {
+                "code": "mistake_example_it-was-an-honest-mistake",
+                "text": "It was an honest mistake."
+            },
+            {
+                "code": "mistake_example_don-t-keep-bringing-up-her-past-mistakes",
+                "text": "Don't keep bringing up her past mistakes."
+            },
+            {
+                "code": "mistake_example_i-called-him-by-mistake",
+                "text": "I called him by mistake."
+            },
+            {
+                "code": "mistake_example_they-made-a-mistake-with-my-grades",
+                "text": "They made a mistake with my grades."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to misunderstand; to see incorrectly",
+        "examples": [
+            {
+                "code": "mistake_example_you-could-hardly-mistake-the-two",
+                "text": "You could hardly mistake the two."
+            },
+            {
+                "code": "mistake_example_how-could-you-mistake-her-for-his-mother",
+                "text": "How could you mistake her for his mother?"
+            }
+        ]
+    }
+]

@@ -1,0 +1,86 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the feeling of being relaxed and without pain; something that makes you feel better",
+        "examples": [
+            {
+                "code": "comfort_example_it-would-give-me-great-comfort-to-see-you-happy",
+                "text": "It would give me great comfort to see you happy."
+            },
+            {
+                "code": "comfort_example_what-can-we-do-to-provide-maximum-comfort",
+                "text": "What can we do to provide maximum comfort?"
+            },
+            {
+                "code": "comfort_example_we-live-in-modest-comfort",
+                "text": "We live in modest comfort."
+            },
+            {
+                "code": "comfort_example_this-will-give-me-added-comfort",
+                "text": "This will give me added comfort."
+            },
+            {
+                "code": "comfort_example_i-enjoy-modern-comforts",
+                "text": "I enjoy modern comforts."
+            },
+            {
+                "code": "comfort_example_his-kindness-brings-so-much-comfort",
+                "text": "His kindness brings so much comfort."
+            },
+            {
+                "code": "comfort_example_i-get-comfort-from-your-support",
+                "text": "I get comfort from your support."
+            },
+            {
+                "code": "comfort_example_i-need-some-comfort-right-now",
+                "text": "I need some comfort right now."
+            },
+            {
+                "code": "comfort_example_i-enjoy-the-comforts-of-home",
+                "text": "I enjoy the comforts of home."
+            },
+            {
+                "code": "comfort_example_i-don-t-like-going-out-of-my-comfort-zone",
+                "text": "I don't like going out of my comfort zone."
+            },
+            {
+                "code": "comfort_example_how-would-you-rate-your-comfort-level",
+                "text": "How would you rate your comfort level?"
+            },
+            {
+                "code": "comfort_example_macaroni-and-cheese-is-a-great-comfort-food",
+                "text": "Macaroni and cheese is a great comfort food."
+            },
+            {
+                "code": "comfort_example_make-sure-to-dress-for-comfort-when-hiking",
+                "text": "Make sure to dress for comfort when hiking."
+            },
+            {
+                "code": "comfort_example_i-enjoy-the-comforts-of-home",
+                "text": "I enjoy the comforts of home."
+            },
+            {
+                "code": "comfort_example_we-prefer-to-travel-in-comfort",
+                "text": "We prefer to travel in comfort."
+            },
+            {
+                "code": "comfort_example_you-have-been-such-a-great-comfort-to-us",
+                "text": "You have been such a great comfort to us."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to make someone feel better",
+        "examples": [
+            {
+                "code": "comfort_example_her-support-greatly-comforted-him-through-these-difficult-times",
+                "text": "Her support greatly comforted him through these difficult times."
+            },
+            {
+                "code": "comfort_example_she-tries-to-comfort-the-baby-by-playing-music",
+                "text": "She tries to comfort the baby by playing music."
+            }
+        ]
+    }
+]

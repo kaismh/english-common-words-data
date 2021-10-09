@@ -1,0 +1,90 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a fight; a serious disagreement or argument",
+        "examples": [
+            {
+                "code": "conflict_example_the-two-countries-are-in-the-middle-of-a-great-conflict",
+                "text": "The two countries are in the middle of a great conflict."
+            },
+            {
+                "code": "conflict_example_they-are-involved-in-a-bitter-conflict",
+                "text": "They are involved in a bitter conflict."
+            },
+            {
+                "code": "conflict_example_the-increasing-conflict-between-family-members-is-getting-serious",
+                "text": "The increasing conflict between family members is getting serious."
+            },
+            {
+                "code": "conflict_example_the-constant-conflict-between-the-two-players-is-not-good-for-the-team",
+                "text": "The constant conflict between the two players is not good for the team."
+            },
+            {
+                "code": "conflict_example_she-is-involved-in-a-domestic-conflict",
+                "text": "She is involved in a domestic conflict."
+            },
+            {
+                "code": "conflict_example_we-are-trying-to-stop-future-conflicts",
+                "text": "We are trying to stop future conflicts."
+            },
+            {
+                "code": "conflict_example_the-groups-are-involved-in-a-political-conflict",
+                "text": "The groups are involved in a political conflict."
+            },
+            {
+                "code": "conflict_example_let-s-try-to-avoid-conflict",
+                "text": "Let's try to avoid conflict."
+            },
+            {
+                "code": "conflict_example_she-is-very-good-at-managing-conflict",
+                "text": "She is very good at managing conflict."
+            },
+            {
+                "code": "conflict_example_her-decisions-always-lead-to-conflict",
+                "text": "Her decisions always lead to conflict."
+            },
+            {
+                "code": "conflict_example_he-wants-to-end-the-conflict",
+                "text": "He wants to end the conflict."
+            },
+            {
+                "code": "conflict_example_when-did-the-conflict-occur",
+                "text": "When did the conflict occur?"
+            },
+            {
+                "code": "conflict_example_it-happened-during-the-conflict",
+                "text": "It happened during the conflict."
+            },
+            {
+                "code": "conflict_example_they-are-involved-in-a-conflict-with-the-school",
+                "text": "They are involved in a conflict with the school."
+            },
+            {
+                "code": "conflict_example_this-conflict-is-between-you-and-me",
+                "text": "This conflict is between you and me."
+            },
+            {
+                "code": "conflict_example_the-conflict-with-him-was-painful",
+                "text": "The conflict with him was painful."
+            },
+            {
+                "code": "conflict_example_there-is-conflict-over-who-will-get-the-dog-in-the-divorce",
+                "text": "There is conflict over who will get the dog in the divorce."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to disagree with",
+        "examples": [
+            {
+                "code": "conflict_example_her-ideas-always-conflict-with-mine",
+                "text": "Her ideas always conflict with mine."
+            },
+            {
+                "code": "conflict_example_her-views-conflict-with-mine",
+                "text": "Her views conflict with mine."
+            }
+        ]
+    }
+]

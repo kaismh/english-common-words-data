@@ -1,0 +1,64 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to put in a neat order; to arrange in a particular way",
+        "examples": [
+            {
+                "code": "organize_example_i-tried-to-organize-a-boycott",
+                "text": "I tried to organize a boycott."
+            },
+            {
+                "code": "organize_example_he-learned-how-to-organize-his-time",
+                "text": "He learned how to organize his time."
+            },
+            {
+                "code": "organize_example_he-managed-to-organize-a-successful-team",
+                "text": "He managed to organize a successful team."
+            },
+            {
+                "code": "organize_example_i-need-to-organize-my-closet",
+                "text": "I need to organize my closet."
+            },
+            {
+                "code": "organize_example_they-are-organizing-a-show",
+                "text": "They are organizing a show."
+            },
+            {
+                "code": "organize_example_i-organized-a-competition",
+                "text": "I organized a competition."
+            },
+            {
+                "code": "organize_example_she-has-to-learn-how-to-organize-her-finances",
+                "text": "She has to learn how to organize her finances."
+            },
+            {
+                "code": "organize_example_he-organized-an-exhibit-last-year",
+                "text": "He organized an exhibit last year."
+            },
+            {
+                "code": "organize_example_she-neatly-organized-the-pictures-on-her-wall",
+                "text": "She neatly organized the pictures on her wall."
+            },
+            {
+                "code": "organize_example_he-successfully-organized-a-great-event",
+                "text": "He successfully organized a great event."
+            },
+            {
+                "code": "organize_example_she-is-known-to-organize-her-events-well",
+                "text": "She is known to organize her events well."
+            },
+            {
+                "code": "organize_example_we-are-organizing-the-books-according-to-size",
+                "text": "We are organizing the books according to size."
+            },
+            {
+                "code": "organize_example_we-re-organizing-the-event-around-his-arrival",
+                "text": "We're organizing the event around his arrival."
+            },
+            {
+                "code": "organize_example_we-organized-the-class-into-four-groups",
+                "text": "We organized the class into four groups."
+            }
+        ]
+    }
+]

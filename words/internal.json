@@ -1,0 +1,28 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "connected with the inside of someone or something",
+        "examples": [
+            {
+                "code": "internal_example_the-internal-affairs-department-is-investigating-police-corruption",
+                "text": "The Internal Affairs department is investigating police corruption."
+            },
+            {
+                "code": "internal_example_she-was-rushed-to-the-hospital-for-internal-bleeding",
+                "text": "She was rushed to the hospital for internal bleeding."
+            },
+            {
+                "code": "internal_example_he-is-studying-internal-medicine-in-college",
+                "text": "He is studying internal medicine in college."
+            },
+            {
+                "code": "internal_example_her-internal-organs-are-shutting-down",
+                "text": "Her internal organs are shutting down."
+            },
+            {
+                "code": "internal_example_check-the-internal-temperature-of-the-roasted-chicken",
+                "text": "Check the internal temperature of the roasted chicken."
+            }
+        ]
+    }
+]

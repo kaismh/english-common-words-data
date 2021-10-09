@@ -1,0 +1,56 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the power or ability to lead other people",
+        "examples": [
+            {
+                "code": "leadership_example_everyone-praised-him-for-his-outstanding-leadership",
+                "text": "Everyone praised him for his outstanding leadership."
+            },
+            {
+                "code": "leadership_example_weak-leadership-hurts-the-entire-company",
+                "text": "Weak leadership hurts the entire company."
+            },
+            {
+                "code": "leadership_example_political-leadership-requires-certain-skills",
+                "text": "Political leadership requires certain skills."
+            },
+            {
+                "code": "leadership_example_when-he-died-his-son-took-over-leadership-of-the-company",
+                "text": "When he died, his son took over leadership of the company."
+            },
+            {
+                "code": "leadership_example_in-crisis-he-shows-strong-leadership",
+                "text": "In crisis, he shows strong leadership."
+            },
+            {
+                "code": "leadership_example_our-current-situation-requires-dynamic-leadership",
+                "text": "Our current situation requires dynamic leadership."
+            },
+            {
+                "code": "leadership_example_the-struggling-organization-lacks-clear-leadership",
+                "text": "The struggling organization lacks clear leadership."
+            },
+            {
+                "code": "leadership_example_he-has-great-leadership-qualities",
+                "text": "He has great leadership qualities."
+            },
+            {
+                "code": "leadership_example_no-one-wanted-to-take-on-the-leadership-role",
+                "text": "No one wanted to take on the leadership role."
+            },
+            {
+                "code": "leadership_example_we-reviewed-our-leadership-structure",
+                "text": "We reviewed our leadership structure."
+            },
+            {
+                "code": "leadership_example_we-enjoyed-working-under-his-leadership",
+                "text": "We enjoyed working under his leadership."
+            },
+            {
+                "code": "leadership_example_we-need-effective-leadership-from-the-managers",
+                "text": "We need effective leadership from the managers."
+            }
+        ]
+    }
+]

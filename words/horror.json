@@ -1,0 +1,52 @@
+[
+    {
+        "type": "(n)",
+        "mean": "feeling of fear or shock; something scary or shocking",
+        "examples": [
+            {
+                "code": "horror_example_she-remembered-the-absolute-horror-of-walking-through-the-cemetery-at-night",
+                "text": "She remembered the absolute horror of walking through the cemetery at night."
+            },
+            {
+                "code": "horror_example_he-recalled-the-unspeakable-horror-of-war",
+                "text": "He recalled the unspeakable horror of war."
+            },
+            {
+                "code": "horror_example_the-thought-of-speaking-in-front-of-the-group-filled-her-with-horror",
+                "text": "The thought of speaking in front of the group filled her with horror."
+            },
+            {
+                "code": "horror_example_imagine-my-horror-when-i-found-out-he-was-the-killer",
+                "text": "Imagine my horror when I found out he was the killer."
+            },
+            {
+                "code": "horror_example_she-s-trying-to-overcome-that-horror-of-abuse",
+                "text": "She's trying to overcome that horror of abuse."
+            },
+            {
+                "code": "horror_example_he-expressed-horror-at-the-idea",
+                "text": "He expressed horror at the idea."
+            },
+            {
+                "code": "horror_example_the-army-committed-unspeakable-horrors",
+                "text": "The army committed unspeakable horrors."
+            },
+            {
+                "code": "horror_example_he-had-experienced-the-true-horror-of-war",
+                "text": "He had experienced the true horror of war."
+            },
+            {
+                "code": "horror_example_she-knows-the-horrors-that-await-him",
+                "text": "She knows the horrors that await him."
+            },
+            {
+                "code": "horror_example_they-screamed-in-horror-as-he-fell",
+                "text": "They screamed in horror as he fell."
+            },
+            {
+                "code": "horror_example_he-realized-to-his-horror-that-she-was-right",
+                "text": "He realized to his horror that she was right."
+            }
+        ]
+    }
+]

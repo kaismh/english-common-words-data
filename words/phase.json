@@ -1,0 +1,44 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a part of a process; a temporary stage in life",
+        "examples": [
+            {
+                "code": "phase_example_he-is-going-through-a-phase",
+                "text": "He is going through a phase."
+            },
+            {
+                "code": "phase_example_they-are-entering-a-new-phase-in-their-lives",
+                "text": "They are entering a new phase in their lives."
+            },
+            {
+                "code": "phase_example_they-have-completed-the-final-phase",
+                "text": "They have completed the final phase."
+            },
+            {
+                "code": "phase_example_it-is-just-a-phase",
+                "text": "It is just a phase."
+            },
+            {
+                "code": "phase_example_the-current-phase-is-ending",
+                "text": "The current phase is ending."
+            },
+            {
+                "code": "phase_example_we-are-entering-a-new-phase",
+                "text": "We are entering a new phase."
+            },
+            {
+                "code": "phase_example_we-are-entering-a-new-phase-of-our-lives",
+                "text": "We are entering a new phase of our lives."
+            },
+            {
+                "code": "phase_example_there-are-three-phases-in-the-program",
+                "text": "There are three phases in the program."
+            },
+            {
+                "code": "phase_example_we-will-move-during-the-final-phase-of-remodeling",
+                "text": "We will move during the final phase of remodeling."
+            }
+        ]
+    }
+]

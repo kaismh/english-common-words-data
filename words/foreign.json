@@ -1,0 +1,96 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "coming from a different country; not familiar",
+        "examples": [
+            {
+                "code": "foreign_example_this-concept-seems-so-foreign-to-me",
+                "text": "This concept seems so foreign to me."
+            },
+            {
+                "code": "foreign_example_the-new-neighbor-is-foreign",
+                "text": "The new neighbor is foreign."
+            },
+            {
+                "code": "foreign_example_he-has-a-slightly-foreign-accent",
+                "text": "He has a slightly foreign accent."
+            },
+            {
+                "code": "foreign_example_this-food-is-very-foreign-to-me",
+                "text": "This food is very foreign to me."
+            },
+            {
+                "code": "foreign_example_i-have-never-been-to-a-foreign-country",
+                "text": "I have never been to a foreign country."
+            },
+            {
+                "code": "foreign_example_she-works-in-foreign-affairs",
+                "text": "She works in foreign affairs."
+            },
+            {
+                "code": "foreign_example_the-company-has-foreign-customers",
+                "text": "The company has foreign customers."
+            },
+            {
+                "code": "foreign_example_he-transferred-to-a-foreign-branch-of-the-company",
+                "text": "He transferred to a foreign branch of the company."
+            },
+            {
+                "code": "foreign_example_they-are-concerned-about-foreign-influences-in-the-election",
+                "text": "They are concerned about foreign influences in the election."
+            },
+            {
+                "code": "foreign_example_they-are-looking-into-his-foreign-assets",
+                "text": "They are looking into his foreign assets."
+            },
+            {
+                "code": "foreign_example_she-uses-different-teaching-methods-with-foreign-students",
+                "text": "She uses different teaching methods with foreign students."
+            },
+            {
+                "code": "foreign_example_he-works-at-a-foreign-embassy",
+                "text": "He works at a foreign embassy."
+            },
+            {
+                "code": "foreign_example_we-see-a-lot-of-foreign-visitors-in-this-area",
+                "text": "We see a lot of foreign visitors in this area."
+            },
+            {
+                "code": "foreign_example_they-are-planning-a-foreign-adventure",
+                "text": "They are planning a foreign adventure."
+            },
+            {
+                "code": "foreign_example_the-sample-was-contaminated-by-a-foreign-substance",
+                "text": "The sample was contaminated by a foreign substance."
+            },
+            {
+                "code": "foreign_example_they-are-concerned-about-foreign-competition",
+                "text": "They are concerned about foreign competition."
+            },
+            {
+                "code": "foreign_example_the-foreign-market-is-competitive",
+                "text": "The foreign market is competitive."
+            },
+            {
+                "code": "foreign_example_the-government-is-worried-about-foreign-terrorists",
+                "text": "The government is worried about foreign terrorists."
+            },
+            {
+                "code": "foreign_example_we-are-working-with-the-foreign-army",
+                "text": "We are working with the foreign army."
+            },
+            {
+                "code": "foreign_example_the-foreign-press-has-been-very-critical-of-the-policy",
+                "text": "The foreign press has been very critical of the policy."
+            },
+            {
+                "code": "foreign_example_she-is-interested-in-foreign-films",
+                "text": "She is interested in foreign films."
+            },
+            {
+                "code": "foreign_example_he-speaks-with-a-slight-foreign-accent",
+                "text": "He speaks with a slight foreign accent."
+            }
+        ]
+    }
+]

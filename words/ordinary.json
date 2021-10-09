@@ -1,0 +1,32 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "normal; not unusual",
+        "examples": [
+            {
+                "code": "ordinary_example_the-food-seems-pretty-ordinary",
+                "text": "The food seems pretty ordinary."
+            },
+            {
+                "code": "ordinary_example_i-am-just-an-ordinary-person",
+                "text": "I am just an ordinary person."
+            },
+            {
+                "code": "ordinary_example_it-was-just-an-ordinary-day",
+                "text": "It was just an ordinary day."
+            },
+            {
+                "code": "ordinary_example_i-lead-an-ordinary-life",
+                "text": "I lead an ordinary life."
+            },
+            {
+                "code": "ordinary_example_she-s-an-ordinary-citizen",
+                "text": "She's an ordinary citizen."
+            },
+            {
+                "code": "ordinary_example_my-life-is-pretty-ordinary",
+                "text": "My life is pretty ordinary."
+            }
+        ]
+    }
+]

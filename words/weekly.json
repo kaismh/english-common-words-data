@@ -1,0 +1,50 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "done every week",
+        "examples": [
+            {
+                "code": "weekly_example_she-has-a-weekly-allowance",
+                "text": "She has a weekly allowance."
+            },
+            {
+                "code": "weekly_example_we-make-weekly-visits",
+                "text": "We make weekly visits."
+            },
+            {
+                "code": "weekly_example_i-get-paid-on-a-weekly-basis",
+                "text": "I get paid on a weekly basis."
+            },
+            {
+                "code": "weekly_example_we-read-the-weekly-newspaper",
+                "text": "We read the weekly newspaper."
+            }
+        ]
+    },
+    {
+        "type": "(adv)",
+        "mean": "once a week",
+        "examples": [
+            {
+                "code": "weekly_example_the-event-happens-weekly",
+                "text": "The event happens weekly."
+            },
+            {
+                "code": "weekly_example_she-does-physical-therapy-weekly",
+                "text": "She does physical therapy weekly."
+            },
+            {
+                "code": "weekly_example_the-show-runs-weekly",
+                "text": "The show runs weekly."
+            },
+            {
+                "code": "weekly_example_i-see-my-parents-weekly",
+                "text": "I see my parents weekly."
+            },
+            {
+                "code": "weekly_example_i-pay-our-babysitter-weekly",
+                "text": "I pay our babysitter weekly."
+            }
+        ]
+    }
+]

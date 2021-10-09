@@ -1,0 +1,64 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to make someone's name known for the first time; to make use of something for the first time",
+        "examples": [
+            {
+                "code": "introduce_example_i-know-who-he-is-but-we-haven-t-been-formally-introduced",
+                "text": "I know who he is, but we haven't been formally introduced."
+            },
+            {
+                "code": "introduce_example_she-briefly-introduced-her-boyfriend-to-her-parents",
+                "text": "She briefly introduced her boyfriend to her parents."
+            },
+            {
+                "code": "introduce_example_they-recently-introduced-a-new-product-for-cleaning-tough-stains",
+                "text": "They recently introduced a new product for cleaning tough stains."
+            },
+            {
+                "code": "introduce_example_she-is-gradually-introducing-solid-food-to-her-baby",
+                "text": "She is gradually introducing solid food to her baby."
+            },
+            {
+                "code": "introduce_example_the-term-was-first-introduced-in-the-early-1990s",
+                "text": "The term was first introduced in the early 1990s."
+            },
+            {
+                "code": "introduce_example_let-me-introduce-myself",
+                "text": "Let me introduce myself."
+            },
+            {
+                "code": "introduce_example_the-city-plans-to-introduce-a-new-transportation-system",
+                "text": "The city plans to introduce a new transportation system."
+            },
+            {
+                "code": "introduce_example_she-tried-to-introduce-her-ideas-but-no-one-was-listening",
+                "text": "She tried to introduce her ideas, but no one was listening."
+            },
+            {
+                "code": "introduce_example_he-introduced-me-as-the-new-manager",
+                "text": "He introduced me as the new manager."
+            },
+            {
+                "code": "introduce_example_my-son-introduced-me-to-his-friends",
+                "text": "My son introduced me to his friends."
+            },
+            {
+                "code": "introduce_example_new-technology-is-being-introduced-into-our-company",
+                "text": "New technology is being introduced into our company."
+            },
+            {
+                "code": "introduce_example_congress-is-introducing-a-new-bill",
+                "text": "Congress is introducing a new bill."
+            },
+            {
+                "code": "introduce_example_the-company-introduced-a-new-organic-product",
+                "text": "The company introduced a new organic product."
+            },
+            {
+                "code": "introduce_example_he-introduced-many-new-ideas-at-the-meeting",
+                "text": "He introduced many new ideas at the meeting."
+            }
+        ]
+    }
+]

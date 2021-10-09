@@ -1,0 +1,80 @@
+[
+    {
+        "type": "(n)",
+        "mean": "an alcoholic drink made from grapes",
+        "examples": [
+            {
+                "code": "wine_example_we-ordered-red-wine-with-our-meal",
+                "text": "We ordered red wine with our meal."
+            },
+            {
+                "code": "wine_example_do-you-prefer-a-sweet-wine",
+                "text": "Do you prefer a sweet wine?"
+            },
+            {
+                "code": "wine_example_we-enjoy-fine-wine-with-our-dinner",
+                "text": "We enjoy fine wine with our dinner."
+            },
+            {
+                "code": "wine_example_the-restaurant-s-house-wine-is-very-good",
+                "text": "The restaurant's house wine is very good."
+            },
+            {
+                "code": "wine_example_we-opened-a-bottle-of-our-vintage-wine",
+                "text": "We opened a bottle of our vintage wine."
+            },
+            {
+                "code": "wine_example_do-you-drink-wine-at-dinner",
+                "text": "Do you drink wine at dinner?"
+            },
+            {
+                "code": "wine_example_she-took-a-small-sip-of-wine",
+                "text": "She took a small sip of wine."
+            },
+            {
+                "code": "wine_example_the-waiter-poured-our-wine",
+                "text": "The waiter poured our wine."
+            },
+            {
+                "code": "wine_example_the-local-winery-makes-great-wine",
+                "text": "The local winery makes great wine."
+            },
+            {
+                "code": "wine_example_we-chilled-the-wine-in-the-cooler",
+                "text": "We chilled the wine in the cooler."
+            },
+            {
+                "code": "wine_example_he-served-a-variety-of-wines-at-his-party",
+                "text": "He served a variety of wines at his party."
+            },
+            {
+                "code": "wine_example_he-finally-uncorked-his-finest-wine",
+                "text": "He finally uncorked his finest wine."
+            },
+            {
+                "code": "wine_example_the-wine-tastes-fruity",
+                "text": "The wine tastes fruity."
+            },
+            {
+                "code": "wine_example_he-collects-wine-bottles",
+                "text": "He collects wine bottles."
+            },
+            {
+                "code": "wine_example_we-purchased-a-wine-cooler",
+                "text": "We purchased a wine cooler."
+            },
+            {
+                "code": "wine_example_the-waiter-showed-us-the-wine-list",
+                "text": "The waiter showed us the wine list."
+            },
+            {
+                "code": "wine_example_we-installed-a-wine-cellar-in-our-basement",
+                "text": "We installed a wine cellar in our basement."
+            },
+            {
+                "code": "wine_example_we-enjoy-going-to-wine-bars",
+                "text": "We enjoy going to wine bars."
+            }
+        ]
+    }
+]

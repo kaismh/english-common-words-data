@@ -1,0 +1,82 @@
+[
+    {
+        "type": "(n)",
+        "mean": "someone who watches or supervises that things are being done correctly; a machine that records and checks that things are being done correctly; a computer or television screen",
+        "examples": [
+            {
+                "code": "monitor_example_the-security-monitor-showed-nothing",
+                "text": "The security monitor showed nothing."
+            },
+            {
+                "code": "monitor_example_the-computer-monitor-is-flickering",
+                "text": "The computer monitor is flickering."
+            },
+            {
+                "code": "monitor_example_he-is-the-new-hall-monitor",
+                "text": "He is the new hall monitor."
+            },
+            {
+                "code": "monitor_example_he-needs-a-heart-monitor",
+                "text": "He needs a heart monitor."
+            },
+            {
+                "code": "monitor_example_we-bought-a-new-color-monitor",
+                "text": "We bought a new color monitor."
+            },
+            {
+                "code": "monitor_example_i-could-see-her-on-the-security-monitor",
+                "text": "I could see her on the security monitor."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to watch or supervise that things are being done correctly",
+        "examples": [
+            {
+                "code": "monitor_example_they-are-continuing-to-monitor-the-traffic",
+                "text": "They are continuing to monitor the traffic."
+            },
+            {
+                "code": "monitor_example_they-monitored-the-election-carefully",
+                "text": "They monitored the election carefully."
+            },
+            {
+                "code": "monitor_example_they-are-monitoring-the-situation-closely",
+                "text": "They are monitoring the situation closely."
+            },
+            {
+                "code": "monitor_example_i-have-been-monitoring-your-progress",
+                "text": "I have been monitoring your progress."
+            },
+            {
+                "code": "monitor_example_the-doctor-is-monitoring-my-health",
+                "text": "The doctor is monitoring my health."
+            },
+            {
+                "code": "monitor_example_they-monitor-the-traffic-electronically",
+                "text": "They monitor the traffic electronically."
+            },
+            {
+                "code": "monitor_example_we-are-monitoring-the-impact-on-the-environment",
+                "text": "We are monitoring the impact on the environment."
+            },
+            {
+                "code": "monitor_example_the-machine-electronically-monitors-the-level-of-oxygen",
+                "text": "The machine electronically monitors the level of oxygen."
+            },
+            {
+                "code": "monitor_example_we-continuously-monitor-their-progress",
+                "text": "We continuously monitor their progress."
+            },
+            {
+                "code": "monitor_example_his-parents-strictly-monitor-his-school-work",
+                "text": "His parents strictly monitor his school work."
+            },
+            {
+                "code": "monitor_example_we-will-continue-to-monitor-the-area-for-activity",
+                "text": "We will continue to monitor the area for activity."
+            }
+        ]
+    }
+]

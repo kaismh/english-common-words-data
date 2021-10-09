@@ -1,0 +1,60 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the amount of money taken off the original price",
+        "examples": [
+            {
+                "code": "discount_example_look-for-a-big-discount",
+                "text": "Look for a big discount."
+            },
+            {
+                "code": "discount_example_the-shoes-had-a-huge-discount",
+                "text": "The shoes had a huge discount."
+            },
+            {
+                "code": "discount_example_do-employees-get-a-special-discount",
+                "text": "Do employees get a special discount?"
+            },
+            {
+                "code": "discount_example_some-salesmen-give-a-cash-discount",
+                "text": "Some salesmen give a cash discount."
+            },
+            {
+                "code": "discount_example_we-can-use-our-group-discount",
+                "text": "We can use our group discount."
+            },
+            {
+                "code": "discount_example_the-store-gives-a-discount-every-month",
+                "text": "The store gives a discount every month."
+            },
+            {
+                "code": "discount_example_i-got-a-discount-at-my-favorite-store",
+                "text": "I got a discount at my favorite store."
+            },
+            {
+                "code": "discount_example_she-has-a-discount-card",
+                "text": "She has a discount card."
+            },
+            {
+                "code": "discount_example_my-mom-gets-the-discount-price",
+                "text": "My mom gets the discount price."
+            },
+            {
+                "code": "discount_example_we-go-to-discount-shops",
+                "text": "We go to discount shops."
+            },
+            {
+                "code": "discount_example_the-table-was-sold-at-a-discount",
+                "text": "The table was sold at a discount."
+            },
+            {
+                "code": "discount_example_he-gave-me-a-discount-of-20",
+                "text": "He gave me a discount of 20%."
+            },
+            {
+                "code": "discount_example_the-client-gets-a-discount-on-all-purchases",
+                "text": "The client gets a discount on all purchases."
+            }
+        ]
+    }
+]

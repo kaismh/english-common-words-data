@@ -1,0 +1,58 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a popular place for vacation; the act of doing something because there is no other choice",
+        "examples": [
+            {
+                "code": "resort_example_we-went-to-a-ski-resort-for-the-holiday",
+                "text": "We went to a ski resort for the holiday."
+            },
+            {
+                "code": "resort_example_they-often-stay-at-luxury-resorts",
+                "text": "They often stay at luxury resorts."
+            },
+            {
+                "code": "resort_example_we-stay-at-a-summer-resort-every-year",
+                "text": "We stay at a summer resort every year."
+            },
+            {
+                "code": "resort_example_we-live-near-a-popular-resort-area",
+                "text": "We live near a popular resort area."
+            },
+            {
+                "code": "resort_example_we-stay-the-whole-summer-at-a-beach-resort",
+                "text": "We stay the whole summer at a beach resort."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to choose usually as a final option; to end in a certain way due to a situation",
+        "examples": [
+            {
+                "code": "resort_example_there-was-no-other-choice-but-to-resort-to-war",
+                "text": "There was no other choice, but to resort to war."
+            },
+            {
+                "code": "resort_example_the-angry-protestors-resorted-to-violence",
+                "text": "The angry protestors resorted to violence."
+            },
+            {
+                "code": "resort_example_the-police-had-to-resort-to-force-to-remove-the-violent-protestors",
+                "text": "The police had to resort to force to remove the violent protestors."
+            },
+            {
+                "code": "resort_example_the-neglected-children-resorted-to-a-life-of-crime",
+                "text": "The neglected children resorted to a life of crime."
+            },
+            {
+                "code": "resort_example_they-will-resort-to-anything-to-get-to-get-what-they-want",
+                "text": "They will resort to anything to get to get what they want."
+            },
+            {
+                "code": "resort_example_we-had-to-resort-to-hiring-a-lawyer-to-get-our-money-back",
+                "text": "We had to resort to hiring a lawyer to get our money back."
+            }
+        ]
+    }
+]

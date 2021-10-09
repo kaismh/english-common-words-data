@@ -1,0 +1,52 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a collection of facts and information stored in a computer",
+        "examples": [
+            {
+                "code": "database_example_have-you-seen-the-large-database",
+                "text": "Have you seen the large database?"
+            },
+            {
+                "code": "database_example_all-of-the-information-is-stored-in-a-computer-database",
+                "text": "All of the information is stored in a computer database."
+            },
+            {
+                "code": "database_example_his-job-is-to-build-a-customer-database",
+                "text": "His job is to build a customer database."
+            },
+            {
+                "code": "database_example_students-can-access-the-library-database",
+                "text": "Students can access the library database."
+            },
+            {
+                "code": "database_example_who-is-updating-the-school-database",
+                "text": "Who is updating the school database?"
+            },
+            {
+                "code": "database_example_the-database-contains-the-information",
+                "text": "The database contains the information."
+            },
+            {
+                "code": "database_example_the-database-software-is-very-helpful",
+                "text": "The database software is very helpful."
+            },
+            {
+                "code": "database_example_database-technology-has-really-improved-over-the-years",
+                "text": "Database technology has really improved over the years."
+            },
+            {
+                "code": "database_example_there-are-thousands-of-entries-in-the-database",
+                "text": "There are thousands of entries in the database."
+            },
+            {
+                "code": "database_example_patient-information-is-stored-on-a-private-database",
+                "text": "Patient information is stored on a private database."
+            },
+            {
+                "code": "database_example_the-computer-holds-a-large-database-of-customer-information",
+                "text": "The computer holds a large database of customer information."
+            }
+        ]
+    }
+]

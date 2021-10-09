@@ -1,0 +1,70 @@
+[
+    {
+        "type": "(n)",
+        "mean": "someone who entertains guests; the person or group in charge of an event; the person who leads a television or radio show",
+        "examples": [
+            {
+                "code": "host_example_she-was-a-generous-host",
+                "text": "She was a generous host."
+            },
+            {
+                "code": "host_example_he-s-a-popular-game-show-host",
+                "text": "He's a popular game-show host."
+            },
+            {
+                "code": "host_example_today-we-will-have-a-guest-host",
+                "text": "Today we will have a guest host."
+            },
+            {
+                "code": "host_example_she-acted-as-host-when-we-were-in-town",
+                "text": "She acted as host when we were in town."
+            },
+            {
+                "code": "host_example_we-are-grateful-to-the-host-city",
+                "text": "We are grateful to the host city."
+            },
+            {
+                "code": "host_example_she-really-likes-her-host-family",
+                "text": "She really likes her host family."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to lead or hold an event",
+        "examples": [
+            {
+                "code": "host_example_the-tournament-will-be-jointly-hosted-by-france-and-spain",
+                "text": "The tournament will be jointly hosted by France and Spain."
+            },
+            {
+                "code": "host_example_she-agreed-to-host-the-family-dinner",
+                "text": "She agreed to host the family dinner."
+            },
+            {
+                "code": "host_example_the-group-is-hosting-a-dinner-for-members",
+                "text": "The group is hosting a dinner for members."
+            },
+            {
+                "code": "host_example_the-school-is-hosting-a-debate",
+                "text": "The school is hosting a debate."
+            },
+            {
+                "code": "host_example_chicago-will-host-the-next-convention",
+                "text": "Chicago will host the next convention."
+            },
+            {
+                "code": "host_example_the-winning-team-will-host-the-tournament",
+                "text": "The winning team will host the tournament."
+            },
+            {
+                "code": "host_example_they-are-hosting-important-guests-this-week",
+                "text": "They are hosting important guests this week."
+            },
+            {
+                "code": "host_example_he-will-host-the-show-next-year",
+                "text": "He will host the show next year."
+            }
+        ]
+    }
+]

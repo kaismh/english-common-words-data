@@ -1,0 +1,48 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "a part of a shirt, coat, or jacket that fits around the neck; a leather band that is put around an animal's neck",
+        "examples": [
+            {
+                "code": "collar_example_he-s-wearing-an-open-collar",
+                "text": "He's wearing an open collar."
+            },
+            {
+                "code": "collar_example_you-forgot-to-button-your-shirt-collar",
+                "text": "You forgot to button your shirt collar."
+            },
+            {
+                "code": "collar_example_fluffy-lost-his-dog-collar",
+                "text": "Fluffy lost his dog collar."
+            },
+            {
+                "code": "collar_example_her-shirt-has-a-ruffled-collar",
+                "text": "Her shirt has a ruffled collar."
+            },
+            {
+                "code": "collar_example_does-the-cat-wear-a-collar",
+                "text": "Does the cat wear a collar?"
+            },
+            {
+                "code": "collar_example_she-stopped-to-adjust-his-collar",
+                "text": "She stopped to adjust his collar."
+            },
+            {
+                "code": "collar_example_he-turned-up-his-collar-to-protect-against-the-cold",
+                "text": "He turned up his collar to protect against the cold."
+            },
+            {
+                "code": "collar_example_the-first-thing-i-do-after-work-is-unbutton-my-collar",
+                "text": "The first thing I do after work is unbutton my collar."
+            },
+            {
+                "code": "collar_example_what-is-your-collar-size",
+                "text": "What is your collar size?"
+            },
+            {
+                "code": "collar_example_i-need-to-sew-on-new-collar-buttons",
+                "text": "I need to sew on new collar buttons."
+            }
+        ]
+    }
+]

@@ -1,0 +1,84 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a fight between countries or groups",
+        "examples": [
+            {
+                "code": "war_example_the-world-is-afraid-of-an-atomic-war",
+                "text": "The world is afraid of an atomic war."
+            },
+            {
+                "code": "war_example_a-civil-war-broke-out-between-the-two-groups",
+                "text": "A civil war broke out between the two groups."
+            },
+            {
+                "code": "war_example_they-fought-a-long-war",
+                "text": "They fought a long war."
+            },
+            {
+                "code": "war_example_there-is-an-ongoing-war-between-the-two-families",
+                "text": "There is an ongoing war between the two families."
+            },
+            {
+                "code": "war_example_there-is-a-bidding-war-for-that-antique-item",
+                "text": "There is a bidding war for that antique item."
+            },
+            {
+                "code": "war_example_the-president-declared-war-on-the-neighboring-country",
+                "text": "The president declared war on the neighboring country."
+            },
+            {
+                "code": "war_example_the-war-continued-for-many-years",
+                "text": "The war continued for many years."
+            },
+            {
+                "code": "war_example_he-fought-in-the-last-two-wars",
+                "text": "He fought in the last two wars."
+            },
+            {
+                "code": "war_example_we-won-the-war",
+                "text": "We won the war."
+            },
+            {
+                "code": "war_example_who-started-the-war",
+                "text": "Who started the war?"
+            },
+            {
+                "code": "war_example_when-did-we-go-to-war",
+                "text": "When did we go to war?"
+            },
+            {
+                "code": "war_example_how-can-we-prevent-war",
+                "text": "How can we prevent war?"
+            },
+            {
+                "code": "war_example_we-will-honor-war-heroes-at-the-assembly",
+                "text": "We will honor war heroes at the assembly."
+            },
+            {
+                "code": "war_example_there-are-so-many-war-casualties",
+                "text": "There are so many war casualties."
+            },
+            {
+                "code": "war_example_that-s-a-war-wound",
+                "text": "That's a war wound."
+            },
+            {
+                "code": "war_example_she-is-a-war-bride",
+                "text": "She is a war bride."
+            },
+            {
+                "code": "war_example_our-country-is-at-war",
+                "text": "Our country is at war."
+            },
+            {
+                "code": "war_example_war-broke-out-between-the-two-countries",
+                "text": "War broke out between the two countries."
+            },
+            {
+                "code": "war_example_they-declared-war-on-their-neighbor",
+                "text": "They declared war on their neighbor."
+            }
+        ]
+    }
+]

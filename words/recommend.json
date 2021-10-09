@@ -1,0 +1,44 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to suggest that someone or something is good or worthy; to give advice",
+        "examples": [
+            {
+                "code": "recommend_example_the-doctor-recommends-surgery",
+                "text": "The doctor recommends surgery."
+            },
+            {
+                "code": "recommend_example_my-doctor-recommends-rest",
+                "text": "My doctor recommends rest."
+            },
+            {
+                "code": "recommend_example_experts-recommend-a-balanced-diet",
+                "text": "Experts recommend a balanced diet."
+            },
+            {
+                "code": "recommend_example_the-committee-recommended-a-change",
+                "text": "The committee recommended a change."
+            },
+            {
+                "code": "recommend_example_i-recommended-this-restaurant-to-everyone-i-know",
+                "text": "I recommended this restaurant to everyone I know."
+            },
+            {
+                "code": "recommend_example_i-highly-recommend-that-restaurant",
+                "text": "I highly recommend that restaurant."
+            },
+            {
+                "code": "recommend_example_the-teacher-generally-recommends-this-book-to-her-students",
+                "text": "The teacher generally recommends this book to her students."
+            },
+            {
+                "code": "recommend_example_we-recommend-her-for-the-job",
+                "text": "We recommend her for the job."
+            },
+            {
+                "code": "recommend_example_he-recommended-this-place-to-anyone-who-likes-indian-food",
+                "text": "He recommended this place to anyone who likes Indian food."
+            }
+        ]
+    }
+]

@@ -1,0 +1,48 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "a number of things that go in order; a TV show that continues its storyline every day or every week",
+        "examples": [
+            {
+                "code": "series_example_he-read-the-whole-series-in-one-week",
+                "text": "He read the whole series in one week."
+            },
+            {
+                "code": "series_example_the-man-was-asked-an-endless-series-of-questions",
+                "text": "The man was asked an endless series of questions."
+            },
+            {
+                "code": "series_example_have-you-noticed-the-recent-series-of-events",
+                "text": "Have you noticed the recent series of events?"
+            },
+            {
+                "code": "series_example_that-new-television-series-is-fun-to-watch",
+                "text": "That new television series is fun to watch."
+            },
+            {
+                "code": "series_example_they-are-making-the-book-series-into-several-movies",
+                "text": "They are making the book series into several movies."
+            },
+            {
+                "code": "series_example_she-starred-in-the-hit-series",
+                "text": "She starred in the hit series."
+            },
+            {
+                "code": "series_example_we-re-watching-a-weekly-series-about-climate-change",
+                "text": "We're watching a weekly series about climate change."
+            },
+            {
+                "code": "series_example_they-are-filming-a-new-series-in-march",
+                "text": "They are filming a new series in March."
+            },
+            {
+                "code": "series_example_there-have-been-a-strange-series-of-events-occurring-lately",
+                "text": "There have been a strange series of events occurring lately."
+            },
+            {
+                "code": "series_example_i-m-reading-the-final-book-in-the-latest-series-of-books",
+                "text": "I'm reading the final book in the latest series of books."
+            }
+        ]
+    }
+]

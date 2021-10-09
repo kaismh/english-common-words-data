@@ -1,0 +1,40 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a single thing that is part of a group",
+        "examples": [
+            {
+                "code": "unit_example_there-is-an-empty-unit-in-the-building",
+                "text": "There is an empty unit in the building."
+            },
+            {
+                "code": "unit_example_they-live-in-a-large-unit",
+                "text": "They live in a large unit."
+            },
+            {
+                "code": "unit_example_family-is-the-basic-unit-of-society",
+                "text": "Family is the basic unit of society."
+            },
+            {
+                "code": "unit_example_the-large-building-was-divided-into-single-units",
+                "text": "The large building was divided into single units."
+            },
+            {
+                "code": "unit_example_she-is-in-the-intensive-care-unit-at-the-hospital",
+                "text": "She is in the intensive care unit at the hospital."
+            },
+            {
+                "code": "unit_example_the-building-is-divided-into-individual-units",
+                "text": "The building is divided into individual units."
+            },
+            {
+                "code": "unit_example_they-rented-a-storage-unit",
+                "text": "They rented a storage unit."
+            },
+            {
+                "code": "unit_example_he-lives-in-a-small-apartment-unit",
+                "text": "He lives in a small apartment unit."
+            }
+        ]
+    }
+]

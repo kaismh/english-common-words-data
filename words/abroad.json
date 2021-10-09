@@ -1,0 +1,36 @@
+[
+    {
+        "type": "(adv)",
+        "mean": "in or to another country",
+        "examples": [
+            {
+                "code": "abroad_example_my-daughter-is-studying-abroad-for-one-year",
+                "text": "My daughter is studying abroad for one year."
+            },
+            {
+                "code": "abroad_example_they-are-expanding-their-business-abroad",
+                "text": "They are expanding their business abroad."
+            },
+            {
+                "code": "abroad_example_her-husband-is-transferring-abroad-for-work",
+                "text": "Her husband is transferring abroad for work."
+            },
+            {
+                "code": "abroad_example_we-sent-care-packages-to-the-troops-abroad",
+                "text": "We sent care packages to the troops abroad."
+            },
+            {
+                "code": "abroad_example_her-music-is-popular-here-and-abroad",
+                "text": "Her music is popular here and abroad."
+            },
+            {
+                "code": "abroad_example_i-have-never-been-abroad",
+                "text": "I have never been abroad."
+            },
+            {
+                "code": "abroad_example_my-dream-is-to-live-abroad-one-day",
+                "text": "My dream is to live abroad one day."
+            }
+        ]
+    }
+]

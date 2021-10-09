@@ -1,0 +1,28 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to change oneself or something to fit the situation",
+        "examples": [
+            {
+                "code": "adapt_example_my-daughter-is-adapting-well-to-her-new-school",
+                "text": "My daughter is adapting well to her new school."
+            },
+            {
+                "code": "adapt_example_the-teacher-needs-to-adapt-the-curriculum-to-the-level-of-his-students",
+                "text": "The teacher needs to adapt the curriculum to the level of his students."
+            },
+            {
+                "code": "adapt_example_the-child-could-not-adapt-to-his-new-environment",
+                "text": "The child could not adapt to his new environment."
+            },
+            {
+                "code": "adapt_example_the-story-was-adapted-for-television",
+                "text": "The story was adapted for television."
+            },
+            {
+                "code": "adapt_example_the-movie-will-be-adapted-from-a-book",
+                "text": "The movie will be adapted from a book."
+            }
+        ]
+    }
+]

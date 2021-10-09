@@ -1,0 +1,86 @@
+[
+    {
+        "type": "(n)",
+        "mean": "an offer of money for something; an attempt",
+        "examples": [
+            {
+                "code": "bid_example_we-offered-a-high-bid-at-the-auction",
+                "text": "We offered a high bid at the auction."
+            },
+            {
+                "code": "bid_example_how-much-was-the-winning-bid",
+                "text": "How much was the winning bid?"
+            },
+            {
+                "code": "bid_example_the-opening-bid-was-much-lower-than-expected",
+                "text": "The opening bid was much lower than expected."
+            },
+            {
+                "code": "bid_example_she-made-a-final-bid-for-the-presidency",
+                "text": "She made a final bid for the presidency."
+            },
+            {
+                "code": "bid_example_we-re-making-a-strong-bid-to-close-this-deal",
+                "text": "We're making a strong bid to close this deal."
+            },
+            {
+                "code": "bid_example_we-placed-a-bid-for-the-painting",
+                "text": "We placed a bid for the painting."
+            },
+            {
+                "code": "bid_example_she-withdrew-her-bid",
+                "text": "She withdrew her bid."
+            },
+            {
+                "code": "bid_example_the-owners-accepted-our-bid-for-the-house",
+                "text": "The owners accepted our bid for the house."
+            },
+            {
+                "code": "bid_example_she-lost-the-bid-to-buy-the-company",
+                "text": "She lost the bid to buy the company."
+            },
+            {
+                "code": "bid_example_he-is-launching-a-new-political-bid",
+                "text": "He is launching a new political bid."
+            },
+            {
+                "code": "bid_example_we-supported-his-bid-for-re-election",
+                "text": "We supported his bid for re-election."
+            },
+            {
+                "code": "bid_example_they-accepted-a-bid-by-our-opponents",
+                "text": "They accepted a bid by our opponents."
+            },
+            {
+                "code": "bid_example_she-made-a-bid-for-the-senate-seat",
+                "text": "She made a bid for the Senate seat."
+            },
+            {
+                "code": "bid_example_he-made-a-bid-of-one-million-dollars-for-the-rare-painting",
+                "text": "He made a bid of one million dollars for the rare painting."
+            },
+            {
+                "code": "bid_example_i-placed-a-bid-on-the-antique-car",
+                "text": "I placed a bid on the antique car."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to offer money for something; to attempt",
+        "examples": [
+            {
+                "code": "bid_example_she-successfully-bid-on-the-car",
+                "text": "She successfully bid on the car."
+            },
+            {
+                "code": "bid_example_we-bid-against-each-other",
+                "text": "We bid against each other."
+            },
+            {
+                "code": "bid_example_the-company-will-bid-for-the-government-contract",
+                "text": "The company will bid for the government contract."
+            }
+        ]
+    }
+]

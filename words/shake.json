@@ -1,0 +1,86 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a short quick movement either up and down or side to side",
+        "examples": [
+            {
+                "code": "shake_example_give-the-rug-a-good-shake-outside",
+                "text": "Give the rug a good shake outside."
+            },
+            {
+                "code": "shake_example_she-gave-him-a-firm-shake-to-wake-him-up",
+                "text": "She gave him a firm shake to wake him up."
+            },
+            {
+                "code": "shake_example_you-have-a-good-hand-shake",
+                "text": "You have a good hand shake."
+            },
+            {
+                "code": "shake_example_she-gave-him-a-gentle-shake-to-wake-him-from-his-nap",
+                "text": "She gave him a gentle shake to wake him from his nap."
+            },
+            {
+                "code": "shake_example_he-woke-her-with-a-shake",
+                "text": "He woke her with a shake."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to move with short quick movements either up and down or side to side; to hold someone's hand as a form of greeting",
+        "examples": [
+            {
+                "code": "shake_example_the-scared-puppy-was-shaking-badly",
+                "text": "The scared puppy was shaking badly."
+            },
+            {
+                "code": "shake_example_i-was-so-nervous-that-i-was-almost-shaking",
+                "text": "I was so nervous that I was almost shaking."
+            },
+            {
+                "code": "shake_example_my-hands-were-shaking-nervously-during-my-speech",
+                "text": "My hands were shaking nervously during my speech."
+            },
+            {
+                "code": "shake_example_the-earth-shook-suddenly",
+                "text": "The earth shook suddenly."
+            },
+            {
+                "code": "shake_example_shake-well-before-opening",
+                "text": "Shake well before opening."
+            },
+            {
+                "code": "shake_example_they-firmly-shook-hands",
+                "text": "They firmly shook hands."
+            },
+            {
+                "code": "shake_example_my-body-was-shaking-from-the-cold",
+                "text": "My body was shaking from the cold."
+            },
+            {
+                "code": "shake_example_she-was-shaking-with-anger",
+                "text": "She was shaking with anger."
+            },
+            {
+                "code": "shake_example_he-was-shaking-his-head-at-them",
+                "text": "He was shaking his head at them."
+            },
+            {
+                "code": "shake_example_the-news-shook-her-confidence",
+                "text": "The news shook her confidence."
+            },
+            {
+                "code": "shake_example_he-shook-the-dirt-off-his-jacket",
+                "text": "He shook the dirt off his jacket."
+            },
+            {
+                "code": "shake_example_he-shook-his-head-at-them",
+                "text": "He shook his head at them."
+            },
+            {
+                "code": "shake_example_they-shook-hands-before-the-meeting",
+                "text": "They shook hands before the meeting."
+            }
+        ]
+    }
+]

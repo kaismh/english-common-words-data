@@ -1,0 +1,70 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "compared to others",
+        "examples": [
+            {
+                "code": "relative_example_she-is-a-relative-stranger-to-our-family",
+                "text": "She is a relative stranger to our family."
+            },
+            {
+                "code": "relative_example_our-country-has-relative-abundance",
+                "text": "Our country has relative abundance."
+            },
+            {
+                "code": "relative_example_he-has-a-relative-advantage-with-his-height",
+                "text": "He has a relative advantage with his height."
+            },
+            {
+                "code": "relative_example_it-was-done-with-relative-ease",
+                "text": "It was done with relative ease."
+            },
+            {
+                "code": "relative_example_i-live-in-relative-comfort",
+                "text": "I live in relative comfort."
+            }
+        ]
+    },
+    {
+        "type": "(n)",
+        "mean": "a family member",
+        "examples": [
+            {
+                "code": "relative_example_she-lives-with-her-relatives",
+                "text": "She lives with her relatives."
+            },
+            {
+                "code": "relative_example_i-found-my-relatives-during-the-earthquake",
+                "text": "I found my relatives during the earthquake."
+            },
+            {
+                "code": "relative_example_i-was-looked-after-by-my-relatives",
+                "text": "I was looked after by my relatives."
+            },
+            {
+                "code": "relative_example_i-have-relatives-all-over-the-world",
+                "text": "I have relatives all over the world."
+            },
+            {
+                "code": "relative_example_the-police-contacted-the-relatives-of-the-victims",
+                "text": "The police contacted the relatives of the victims."
+            },
+            {
+                "code": "relative_example_we-are-blood-relatives",
+                "text": "We are blood relatives."
+            },
+            {
+                "code": "relative_example_i-have-many-elderly-relatives",
+                "text": "I have many elderly relatives."
+            },
+            {
+                "code": "relative_example_my-mom-has-more-female-relatives-on-her-side",
+                "text": "My mom has more female relatives on her side."
+            },
+            {
+                "code": "relative_example_it-was-exciting-to-meet-my-long-lost-relative",
+                "text": "It was exciting to meet my long-lost relative."
+            }
+        ]
+    }
+]

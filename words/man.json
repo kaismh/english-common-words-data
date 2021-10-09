@@ -1,0 +1,50 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a male person; a human being",
+        "examples": [
+            {
+                "code": "man_example_the-blind-man-needs-help",
+                "text": "The blind man needs help."
+            },
+            {
+                "code": "man_example_he-is-a-free-man",
+                "text": "He is a free man."
+            },
+            {
+                "code": "man_example_she-was-flirting-with-a-married-man",
+                "text": "She was flirting with a married man."
+            },
+            {
+                "code": "man_example_they-are-accusing-an-innocent-man",
+                "text": "They are accusing an innocent man."
+            },
+            {
+                "code": "man_example_my-dad-has-always-been-a-proud-man",
+                "text": "My dad has always been a proud man."
+            },
+            {
+                "code": "man_example_he-was-a-very-short-man",
+                "text": "He was a very short man."
+            },
+            {
+                "code": "man_example_the-police-shot-the-armed-man",
+                "text": "The police shot the armed man."
+            },
+            {
+                "code": "man_example_i-saw-a-homeless-man-in-the-park",
+                "text": "I saw a homeless man in the park."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to be in charge of something",
+        "examples": [
+            {
+                "code": "man_example_can-you-man-the-desk",
+                "text": "Can you man the desk?"
+            }
+        ]
+    }
+]

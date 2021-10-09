@@ -1,0 +1,40 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the number or amount that is part of a whole",
+        "examples": [
+            {
+                "code": "percentage_example_that-city-has-a-high-percentage-of-homeless-people",
+                "text": "That city has a high percentage of homeless people."
+            },
+            {
+                "code": "percentage_example_we-are-concerned-about-the-increasing-percentage-of-teenage-runaways",
+                "text": "We are concerned about the increasing percentage of teenage runaways."
+            },
+            {
+                "code": "percentage_example_she-has-a-small-percentage-of-voters",
+                "text": "She has a small percentage of voters."
+            },
+            {
+                "code": "percentage_example_let-s-calculate-the-percentage-of-students-who-will-go-to-college",
+                "text": "Let's calculate the percentage of students who will go to college."
+            },
+            {
+                "code": "percentage_example_what-is-the-percentage-change-in-the-student-population-this-year",
+                "text": "What is the percentage change in the student population this year?"
+            },
+            {
+                "code": "percentage_example_calculate-the-percentage-discount-of-the-sale-item",
+                "text": "Calculate the percentage discount of the sale item."
+            },
+            {
+                "code": "percentage_example_what-is-the-percentage-error-of-the-actual-rainfall-this-month",
+                "text": "What is the percentage error of the actual rainfall this month?"
+            },
+            {
+                "code": "percentage_example_what-percentage-of-homes-are-in-foreclosure",
+                "text": "What percentage of homes are in foreclosure?"
+            }
+        ]
+    }
+]

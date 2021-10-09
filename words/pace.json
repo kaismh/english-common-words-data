@@ -1,0 +1,82 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a step; the rate of speed of something moving",
+        "examples": [
+            {
+                "code": "pace_example_she-is-working-at-a-great-pace",
+                "text": "She is working at a great pace."
+            },
+            {
+                "code": "pace_example_she-walks-at-a-smooth-pace",
+                "text": "She walks at a smooth pace."
+            },
+            {
+                "code": "pace_example_the-people-at-the-office-work-at-a-very-fast-pace",
+                "text": "The people at the office work at a very fast pace."
+            },
+            {
+                "code": "pace_example_he-walks-at-a-fast-pace",
+                "text": "He walks at a fast pace."
+            },
+            {
+                "code": "pace_example_please-step-three-paces-forward",
+                "text": "Please step three paces forward."
+            },
+            {
+                "code": "pace_example_we-need-to-increase-the-pace-at-work",
+                "text": "We need to increase the pace at work."
+            },
+            {
+                "code": "pace_example_he-set-the-pace-for-the-marathon",
+                "text": "He set the pace for the marathon."
+            },
+            {
+                "code": "pace_example_he-could-not-keep-up-the-pace-with-his-older-brother",
+                "text": "He could not keep up the pace with his older brother."
+            },
+            {
+                "code": "pace_example_please-slow-your-pace-so-that-others-can-catch-up",
+                "text": "Please slow your pace, so that others can catch up."
+            },
+            {
+                "code": "pace_example_the-kids-walked-a-couple-of-paces-behind-their-camp-leader",
+                "text": "The kids walked a couple of paces behind their camp leader."
+            },
+            {
+                "code": "pace_example_we-walked-a-few-paces-ahead-of-the-hikers",
+                "text": "We walked a few paces ahead of the hikers."
+            },
+            {
+                "code": "pace_example_we-were-just-a-few-paces-from-the-campsite",
+                "text": "We were just a few paces from the campsite."
+            },
+            {
+                "code": "pace_example_they-are-working-at-a-fast-pace",
+                "text": "They are working at a fast pace."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to walk back and forth in the same area; to set the speed of something",
+        "examples": [
+            {
+                "code": "pace_example_he-slowly-paced-back-and-forth-in-the-hospital-waiting-room",
+                "text": "He slowly paced back and forth in the hospital waiting room."
+            },
+            {
+                "code": "pace_example_she-nervously-paced-up-and-the-down-the-hall",
+                "text": "She nervously paced up and the down the hall."
+            },
+            {
+                "code": "pace_example_he-carefully-paced-himself-so-he-would-not-make-any-errors",
+                "text": "He carefully paced himself, so he would not make any errors."
+            },
+            {
+                "code": "pace_example_he-paced-around-the-room-over-and-over-again",
+                "text": "He paced around the room over and over again."
+            }
+        ]
+    }
+]

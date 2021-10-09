@@ -1,0 +1,56 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to decide that a planned event will not happen",
+        "examples": [
+            {
+                "code": "cancel_example_because-of-the-storm-our-flight-was-canceled",
+                "text": "Because of the storm, our flight was canceled."
+            },
+            {
+                "code": "cancel_example_my-illness-made-us-cancel-our-vacation",
+                "text": "My illness made us cancel our vacation."
+            },
+            {
+                "code": "cancel_example_our-meeting-is-canceled-for-today",
+                "text": "Our meeting is canceled for today."
+            },
+            {
+                "code": "cancel_example_she-canceled-her-order-at-the-restaurant",
+                "text": "She canceled her order at the restaurant."
+            },
+            {
+                "code": "cancel_example_i-think-i-ll-cancel-the-subscription",
+                "text": "I think I'll cancel the subscription."
+            },
+            {
+                "code": "cancel_example_the-hotel-accidentally-canceled-our-reservations",
+                "text": "The hotel accidentally canceled our reservations."
+            },
+            {
+                "code": "cancel_example_he-angrily-canceled-his-phone-service",
+                "text": "He angrily canceled his phone service."
+            },
+            {
+                "code": "cancel_example_the-trip-was-suddenly-canceled-at-the-last-minute",
+                "text": "The trip was suddenly canceled at the last minute."
+            },
+            {
+                "code": "cancel_example_we-quickly-canceled-our-stolen-checks",
+                "text": "We quickly canceled our stolen checks."
+            },
+            {
+                "code": "cancel_example_the-party-was-canceled-at-the-last-minute",
+                "text": "The party was canceled at the last minute."
+            },
+            {
+                "code": "cancel_example_they-canceled-the-visit-for-financial-reasons",
+                "text": "They canceled the visit for financial reasons."
+            },
+            {
+                "code": "cancel_example_the-trip-was-canceled-after-the-big-argument",
+                "text": "The trip was canceled after the big argument."
+            }
+        ]
+    }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a short sharp sound; the push of a mouse button",
+        "examples": [
+            {
+                "code": "click_example_my-computer-mouse-makes-a-loud-click",
+                "text": "My computer mouse makes a loud click."
+            },
+            {
+                "code": "click_example_i-prefer-keyboards-that-make-soft-clicks",
+                "text": "I prefer keyboards that make soft clicks."
+            },
+            {
+                "code": "click_example_you-need-to-double-click-the-mouse",
+                "text": "You need to double click the mouse."
+            },
+            {
+                "code": "click_example_you-can-open-the-program-with-one-mouse-click",
+                "text": "You can open the program with one mouse click."
+            },
+            {
+                "code": "click_example_there-were-thousands-of-camera-clicks-when-the-movie-star-entered-the-room",
+                "text": "There were thousands of camera clicks when the movie star entered the room."
+            },
+            {
+                "code": "click_example_the-suitcase-should-close-with-a-click",
+                "text": "The suitcase should close with a click."
+            },
+            {
+                "code": "click_example_the-constant-click-of-the-computer-mouse-woke-her-up",
+                "text": "The constant click of the computer mouse woke her up."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to make a short sharp sound; to push a mouse button",
+        "examples": [
+            {
+                "code": "click_example_her-heels-clicked-loudly-in-the-hallway",
+                "text": "Her heels clicked loudly in the hallway."
+            },
+            {
+                "code": "click_example_the-photographer-s-camera-was-clicking-throughout-the-wedding",
+                "text": "The photographer's camera was clicking throughout the wedding."
+            },
+            {
+                "code": "click_example_the-clerk-was-clicking-away-on-her-computer",
+                "text": "The clerk was clicking away on her computer."
+            },
+            {
+                "code": "click_example_click-this-icon",
+                "text": "Click this icon."
+            }
+        ]
+    }
+]

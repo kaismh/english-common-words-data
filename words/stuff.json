@@ -1,0 +1,40 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to fill something tightly",
+        "examples": [
+            {
+                "code": "stuff_example_the-boy-quickly-stuffed-his-pockets-with-candy",
+                "text": "The boy quickly stuffed his pockets with candy."
+            },
+            {
+                "code": "stuff_example_mom-stuffed-her-trunk-with-gifts-for-the-kids",
+                "text": "Mom stuffed her trunk with gifts for the kids."
+            },
+            {
+                "code": "stuff_example_the-bank-robber-tried-to-stuff-the-money-down-his-pants",
+                "text": "The bank robber tried to stuff the money down his pants."
+            },
+            {
+                "code": "stuff_example_she-stuffed-the-laundry-in-the-bag",
+                "text": "She stuffed the laundry in the bag."
+            },
+            {
+                "code": "stuff_example_she-stuffed-her-mouth-with-food",
+                "text": "She stuffed her mouth with food."
+            },
+            {
+                "code": "stuff_example_he-stuffed-his-pockets-with-coins",
+                "text": "He stuffed his pockets with coins."
+            },
+            {
+                "code": "stuff_example_she-stuffs-a-turkey-every-thanksgiving",
+                "text": "She stuffs a turkey every Thanksgiving."
+            },
+            {
+                "code": "stuff_example_he-stuffed-his-bag-with-clothes",
+                "text": "He stuffed his bag with clothes."
+            }
+        ]
+    }
+]

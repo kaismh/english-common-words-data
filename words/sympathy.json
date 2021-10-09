@@ -1,0 +1,60 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the feeling of being sorry for someone; the understanding of someone's difficulties",
+        "examples": [
+            {
+                "code": "sympathy_example_there-is-deep-sympathy-for-those-who-lost-their-loved-ones",
+                "text": "There is deep sympathy for those who lost their loved ones."
+            },
+            {
+                "code": "sympathy_example_he-has-little-sympathy-for-his-selfish-sister",
+                "text": "He has little sympathy for his selfish sister."
+            },
+            {
+                "code": "sympathy_example_there-is-widespread-sympathy-for-the-victims-of-the-hurricane",
+                "text": "There is widespread sympathy for the victims of the hurricane."
+            },
+            {
+                "code": "sympathy_example_she-has-sympathy-for-her-patients",
+                "text": "She has sympathy for her patients."
+            },
+            {
+                "code": "sympathy_example_please-express-our-deepest-sympathy-to-her-family",
+                "text": "Please express our deepest sympathy to her family."
+            },
+            {
+                "code": "sympathy_example_he-showed-no-sympathy-for-his-uncle-in-jail",
+                "text": "He showed no sympathy for his uncle in jail."
+            },
+            {
+                "code": "sympathy_example_she-was-looking-for-sympathy-from-anyone",
+                "text": "She was looking for sympathy from anyone."
+            },
+            {
+                "code": "sympathy_example_he-needs-our-sympathy-right-now",
+                "text": "He needs our sympathy right now."
+            },
+            {
+                "code": "sympathy_example_the-widow-gained-sympathy-from-her-neighbors",
+                "text": "The widow gained sympathy from her neighbors."
+            },
+            {
+                "code": "sympathy_example_he-lost-our-sympathy-after-the-truth-came-out",
+                "text": "He lost our sympathy after the truth came out."
+            },
+            {
+                "code": "sympathy_example_young-kids-have-a-lack-of-sympathy-for-the-elderly-people-these-days",
+                "text": "Young kids have a lack of sympathy for the elderly people these days."
+            },
+            {
+                "code": "sympathy_example_she-cried-with-sympathy-over-the-victims-of-the-car-crash",
+                "text": "She cried with sympathy over the victims of the car crash."
+            },
+            {
+                "code": "sympathy_example_he-showed-sympathy-to-his-sad-friend",
+                "text": "He showed sympathy to his sad friend."
+            }
+        ]
+    }
+]

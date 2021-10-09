@@ -1,0 +1,56 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a group that has gathered to watch or listen to something",
+        "examples": [
+            {
+                "code": "audience_example_the-concert-attracted-a-large-audience",
+                "text": "The concert attracted a large audience."
+            },
+            {
+                "code": "audience_example_the-speaker-was-overwhelmed-by-the-enthusiastic-audience",
+                "text": "The speaker was overwhelmed by the enthusiastic audience."
+            },
+            {
+                "code": "audience_example_what-was-the-commercial-s-target-audience",
+                "text": "What was the commercial's target audience?"
+            },
+            {
+                "code": "audience_example_the-movie-was-popular-among-international-audiences",
+                "text": "The movie was popular among international audiences."
+            },
+            {
+                "code": "audience_example_she-sang-for-a-private-audience",
+                "text": "She sang for a private audience."
+            },
+            {
+                "code": "audience_example_the-comedian-addressed-the-audience",
+                "text": "The comedian addressed the audience."
+            },
+            {
+                "code": "audience_example_the-music-attracted-a-large-audience",
+                "text": "The music attracted a large audience."
+            },
+            {
+                "code": "audience_example_the-speaker-captivated-the-audience",
+                "text": "The speaker captivated the audience."
+            },
+            {
+                "code": "audience_example_her-story-really-moved-the-audience",
+                "text": "Her story really moved the audience."
+            },
+            {
+                "code": "audience_example_the-audience-cheered-loudly",
+                "text": "The audience cheered loudly."
+            },
+            {
+                "code": "audience_example_we-need-audience-participation-to-do-the-trick",
+                "text": "We need audience participation to do the trick."
+            },
+            {
+                "code": "audience_example_the-magician-picked-an-audience-member",
+                "text": "The magician picked an audience member."
+            }
+        ]
+    }
+]

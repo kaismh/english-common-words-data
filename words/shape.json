@@ -1,0 +1,78 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the form or outline of something; the condition of something",
+        "examples": [
+            {
+                "code": "shape_example_the-children-made-simple-shapes-from-sticks",
+                "text": "The children made simple shapes from sticks."
+            },
+            {
+                "code": "shape_example_i-couldn-t-recognize-the-unusual-shape-of-the-object",
+                "text": "I couldn't recognize the unusual shape of the object."
+            },
+            {
+                "code": "shape_example_the-object-has-a-round-shape",
+                "text": "The object has a round shape."
+            },
+            {
+                "code": "shape_example_i-don-t-like-my-natural-body-shape",
+                "text": "I don't like my natural body shape."
+            },
+            {
+                "code": "shape_example_the-car-was-in-bad-shape",
+                "text": "The car was in bad shape."
+            },
+            {
+                "code": "shape_example_the-athlete-is-in-perfect-shape",
+                "text": "The athlete is in perfect shape."
+            },
+            {
+                "code": "shape_example_the-country-is-in-bad-financial-shape",
+                "text": "The country is in bad financial shape."
+            },
+            {
+                "code": "shape_example_first-draw-the-shape-of-the-animal",
+                "text": "First draw the shape of the animal."
+            },
+            {
+                "code": "shape_example_fold-the-paper-to-make-the-shape-of-a-cone",
+                "text": "Fold the paper to make the shape of a cone."
+            },
+            {
+                "code": "shape_example_chairs-come-in-many-shapes-and-sizes",
+                "text": "Chairs come in many shapes and sizes."
+            },
+            {
+                "code": "shape_example_these-cushions-will-lose-their-shape-after-time",
+                "text": "These cushions will lose their shape after time."
+            },
+            {
+                "code": "shape_example_he-is-in-good-shape-for-the-marathon",
+                "text": "He is in good shape for the marathon."
+            },
+            {
+                "code": "shape_example_the-doormat-was-in-the-shape-of-an-apple",
+                "text": "The doormat was in the shape of an apple."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to give something a particular form",
+        "examples": [
+            {
+                "code": "shape_example_teachers-can-actively-shape-the-minds-of-children",
+                "text": "Teachers can actively shape the minds of children."
+            },
+            {
+                "code": "shape_example_the-valley-was-largely-shaped-by-the-colorado-river",
+                "text": "The valley was largely shaped by the Colorado River."
+            },
+            {
+                "code": "shape_example_the-clay-was-shaped-into-cups-and-bowls",
+                "text": "The clay was shaped into cups and bowls."
+            }
+        ]
+    }
+]

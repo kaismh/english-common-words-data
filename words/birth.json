@@ -1,0 +1,64 @@
+[
+    {
+        "type": "(n)",
+        "mean": "when a baby is born; the beginning of something",
+        "examples": [
+            {
+                "code": "birth_example_good-prenatal-care-can-lead-to-more-live-births",
+                "text": "Good prenatal care can lead to more live births."
+            },
+            {
+                "code": "birth_example_we-re-planning-on-a-home-birth",
+                "text": "We're planning on a home birth."
+            },
+            {
+                "code": "birth_example_this-hospital-has-seen-a-rise-in-caesarean-births",
+                "text": "This hospital has seen a rise in caesarean births."
+            },
+            {
+                "code": "birth_example_she-gave-birth-to-twins",
+                "text": "She gave birth to twins."
+            },
+            {
+                "code": "birth_example_let-s-announce-the-birth-of-our-child",
+                "text": "Let's announce the birth of our child."
+            },
+            {
+                "code": "birth_example_we-are-anticipating-the-birth-of-our-daughter",
+                "text": "We are anticipating the birth of our daughter."
+            },
+            {
+                "code": "birth_example_my-mother-attended-the-birth-of-our-first-baby",
+                "text": "My mother attended the birth of our first baby."
+            },
+            {
+                "code": "birth_example_i-requested-a-copy-of-my-birth-certificate",
+                "text": "I requested a copy of my birth certificate."
+            },
+            {
+                "code": "birth_example_what-is-your-date-of-birth",
+                "text": "What is your date of birth?"
+            },
+            {
+                "code": "birth_example_the-baby-had-a-low-birth-weight",
+                "text": "The baby had a low birth weight."
+            },
+            {
+                "code": "birth_example_there-were-some-birth-complications",
+                "text": "There were some birth complications."
+            },
+            {
+                "code": "birth_example_the-girl-wanted-to-meet-her-birth-mother",
+                "text": "The girl wanted to meet her birth mother."
+            },
+            {
+                "code": "birth_example_there-is-a-high-birth-rate-in-rural-areas",
+                "text": "There is a high birth rate in rural areas."
+            },
+            {
+                "code": "birth_example_how-much-did-you-weigh-at-birth",
+                "text": "How much did you weigh at birth?"
+            }
+        ]
+    }
+]

@@ -1,0 +1,76 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a building where Christians worship; a religious service held in the church",
+        "examples": [
+            {
+                "code": "church_example_he-is-a-pastor-at-a-local-church",
+                "text": "He is a pastor at a local church."
+            },
+            {
+                "code": "church_example_i-go-to-a-christian-church",
+                "text": "I go to a Christian church."
+            },
+            {
+                "code": "church_example_we-are-building-a-new-church",
+                "text": "We are building a new church."
+            },
+            {
+                "code": "church_example_i-would-like-to-join-the-church",
+                "text": "I would like to join the church."
+            },
+            {
+                "code": "church_example_do-you-go-to-church",
+                "text": "Do you go to church?"
+            },
+            {
+                "code": "church_example_what-does-your-church-teach",
+                "text": "What does your church teach?"
+            },
+            {
+                "code": "church_example_we-will-meet-in-the-church-building",
+                "text": "We will meet in the church building."
+            },
+            {
+                "code": "church_example_they-are-remodeling-the-church-steeple",
+                "text": "They are remodeling the church steeple."
+            },
+            {
+                "code": "church_example_the-church-bells-were-ringing",
+                "text": "The church bells were ringing."
+            },
+            {
+                "code": "church_example_she-wants-to-have-a-church-wedding",
+                "text": "She wants to have a church wedding."
+            },
+            {
+                "code": "church_example_i-might-be-late-to-the-church-service",
+                "text": "I might be late to the church service."
+            },
+            {
+                "code": "church_example_i-love-the-church-music",
+                "text": "I love the church music."
+            },
+            {
+                "code": "church_example_my-father-is-a-church-elder",
+                "text": "My father is a church elder."
+            },
+            {
+                "code": "church_example_we-have-a-large-church-community",
+                "text": "We have a large church community."
+            },
+            {
+                "code": "church_example_we-meet-at-church-every-sunday",
+                "text": "We meet at church every Sunday."
+            },
+            {
+                "code": "church_example_we-got-married-in-a-church",
+                "text": "We got married in a church."
+            },
+            {
+                "code": "church_example_there-will-be-a-short-ceremony-before-church",
+                "text": "There will be a short ceremony before church."
+            }
+        ]
+    }
+]

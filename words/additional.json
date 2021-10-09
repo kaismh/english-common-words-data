@@ -1,0 +1,36 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "more of something",
+        "examples": [
+            {
+                "code": "additional_example_there-is-an-additional-charge-to-rent-a-larger-hotel-room",
+                "text": "There is an additional charge to rent a larger hotel room."
+            },
+            {
+                "code": "additional_example_there-were-additional-complications-after-the-surgery",
+                "text": "There were additional complications after the surgery."
+            },
+            {
+                "code": "additional_example_we-need-an-additional-copy-for-our-records",
+                "text": "We need an additional copy for our records."
+            },
+            {
+                "code": "additional_example_the-car-has-additional-features",
+                "text": "The car has additional features."
+            },
+            {
+                "code": "additional_example_the-students-need-additional-help-after-school",
+                "text": "The students need additional help after school."
+            },
+            {
+                "code": "additional_example_do-you-need-additional-information",
+                "text": "Do you need additional information?"
+            },
+            {
+                "code": "additional_example_there-is-additional-storage-in-the-garage",
+                "text": "There is additional storage in the garage."
+            }
+        ]
+    }
+]

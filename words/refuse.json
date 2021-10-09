@@ -1,0 +1,48 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to say no to something",
+        "examples": [
+            {
+                "code": "refuse_example_i-could-not-refuse-him",
+                "text": "I could not refuse him."
+            },
+            {
+                "code": "refuse_example_you-have-the-right-to-refuse",
+                "text": "You have the right to refuse."
+            },
+            {
+                "code": "refuse_example_i-didn-t-dare-refuse-her",
+                "text": "I didn't dare refuse her."
+            },
+            {
+                "code": "refuse_example_the-judge-refused-to-grant-parole",
+                "text": "The judge refused to grant parole."
+            },
+            {
+                "code": "refuse_example_they-were-refused-access-to-the-park",
+                "text": "They were refused access to the park."
+            },
+            {
+                "code": "refuse_example_she-refused-my-invitation",
+                "text": "She refused my invitation."
+            },
+            {
+                "code": "refuse_example_my-application-was-refused",
+                "text": "My application was refused."
+            },
+            {
+                "code": "refuse_example_he-simply-refused-to-help",
+                "text": "He simply refused to help."
+            },
+            {
+                "code": "refuse_example_she-politely-refused-another-serving",
+                "text": "She politely refused another serving."
+            },
+            {
+                "code": "refuse_example_he-always-refuses-to-come-over",
+                "text": "He always refuses to come over."
+            }
+        ]
+    }
+]

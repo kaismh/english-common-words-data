@@ -1,0 +1,72 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a special task or goal; a place where people go to spread their religious beliefs and give medical or educational assistance",
+        "examples": [
+            {
+                "code": "mission_example_the-secret-agent-conducted-several-missions-for-us",
+                "text": "The secret agent conducted several missions for us."
+            },
+            {
+                "code": "mission_example_the-mission-will-fail",
+                "text": "The mission will fail."
+            },
+            {
+                "code": "mission_example_we-had-to-abort-the-dangerous-mission",
+                "text": "We had to abort the dangerous mission."
+            },
+            {
+                "code": "mission_example_they-sent-me-on-another-mission",
+                "text": "They sent me on another mission."
+            },
+            {
+                "code": "mission_example_the-nuns-established-a-mission-in-that-country-many-years-ago",
+                "text": "The nuns established a mission in that country many years ago."
+            },
+            {
+                "code": "mission_example_what-is-your-mission-objective",
+                "text": "What is your mission objective?"
+            },
+            {
+                "code": "mission_example_we-need-to-call-mission-control",
+                "text": "We need to call mission control."
+            },
+            {
+                "code": "mission_example_the-nuns-do-mission-work",
+                "text": "The nuns do mission work."
+            },
+            {
+                "code": "mission_example_they-work-in-a-mission-hospital",
+                "text": "They work in a mission hospital."
+            },
+            {
+                "code": "mission_example_the-agents-are-on-a-dangerous-mission",
+                "text": "The agents are on a dangerous mission."
+            },
+            {
+                "code": "mission_example_they-went-on-a-diplomatic-mission",
+                "text": "They went on a diplomatic mission."
+            },
+            {
+                "code": "mission_example_what-is-their-main-mission",
+                "text": "What is their main mission?"
+            },
+            {
+                "code": "mission_example_they-returned-from-a-successful-mission",
+                "text": "They returned from a successful mission."
+            },
+            {
+                "code": "mission_example_we-visited-a-christian-mission",
+                "text": "We visited a Christian mission."
+            },
+            {
+                "code": "mission_example_he-is-on-a-special-mission",
+                "text": "He is on a special mission."
+            },
+            {
+                "code": "mission_example_they-are-part-of-a-mission-to-change-the-world",
+                "text": "They are part of a mission to change the world."
+            }
+        ]
+    }
+]

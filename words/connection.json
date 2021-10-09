@@ -1,0 +1,72 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a relationship between people; a link between things",
+        "examples": [
+            {
+                "code": "connection_example_the-brothers-have-a-strong-connection",
+                "text": "The brothers have a strong connection."
+            },
+            {
+                "code": "connection_example_they-have-a-deep-connection-to-each-other",
+                "text": "They have a deep connection to each other."
+            },
+            {
+                "code": "connection_example_there-is-a-direct-connection-between-smoking-and-lung-cancer",
+                "text": "There is a direct connection between smoking and lung cancer."
+            },
+            {
+                "code": "connection_example_she-was-looking-for-a-more-emotional-connection",
+                "text": "She was looking for a more emotional connection."
+            },
+            {
+                "code": "connection_example_the-wires-had-a-loose-connection",
+                "text": "The wires had a loose connection."
+            },
+            {
+                "code": "connection_example_the-electrical-connection-was-poor",
+                "text": "The electrical connection was poor."
+            },
+            {
+                "code": "connection_example_the-two-accidents-have-no-connection",
+                "text": "The two accidents have no connection."
+            },
+            {
+                "code": "connection_example_doctors-have-discovered-a-connection-between-smoking-and-cancer",
+                "text": "Doctors have discovered a connection between smoking and cancer."
+            },
+            {
+                "code": "connection_example_the-veterinarian-felt-a-deep-connection-to-animals",
+                "text": "The veterinarian felt a deep connection to animals."
+            },
+            {
+                "code": "connection_example_they-will-always-share-a-special-connection",
+                "text": "They will always share a special connection."
+            },
+            {
+                "code": "connection_example_they-established-a-true-connection",
+                "text": "They established a true connection."
+            },
+            {
+                "code": "connection_example_he-wanted-to-break-any-connections-with-his-former-employer",
+                "text": "He wanted to break any connections with his former employer."
+            },
+            {
+                "code": "connection_example_what-is-your-connection-to-the-government",
+                "text": "What is your connection to the government?"
+            },
+            {
+                "code": "connection_example_he-was-arrested-in-connection-with-the-robberies",
+                "text": "He was arrested in connection with the robberies."
+            },
+            {
+                "code": "connection_example_there-is-a-direct-connection-between-diet-and-diseases",
+                "text": "There is a direct connection between diet and diseases."
+            },
+            {
+                "code": "connection_example_there-is-a-connection-fee-on-our-phone-bill",
+                "text": "There is a connection fee on our phone bill."
+            }
+        ]
+    }
+]

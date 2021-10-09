@@ -1,0 +1,36 @@
+[
+    {
+        "type": "(n)",
+        "mean": "an area where food is prepared and cooked",
+        "examples": [
+            {
+                "code": "kitchen_example_she-has-a-spotless-kitchen",
+                "text": "She has a spotless kitchen."
+            },
+            {
+                "code": "kitchen_example_they-have-a-shared-kitchen-with-four-other-roommates",
+                "text": "They have a shared kitchen with four other roommates."
+            },
+            {
+                "code": "kitchen_example_he-installed-a-new-kitchen-sink",
+                "text": "He installed a new kitchen sink."
+            },
+            {
+                "code": "kitchen_example_she-needs-to-replace-her-kitchen-utensils",
+                "text": "She needs to replace her kitchen utensils."
+            },
+            {
+                "code": "kitchen_example_we-are-staying-in-a-cabin-with-a-kitchen-facility",
+                "text": "We are staying in a cabin with a kitchen facility."
+            },
+            {
+                "code": "kitchen_example_he-is-part-of-the-kitchen-staff",
+                "text": "He is part of the kitchen staff."
+            },
+            {
+                "code": "kitchen_example_you-can-find-more-food-in-the-kitchen",
+                "text": "You can find more food in the kitchen."
+            }
+        ]
+    }
+]

@@ -1,0 +1,86 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to choose something; to remove something from or off something else",
+        "examples": [
+            {
+                "code": "pick_example_pick-a-number-between-one-and-fifty",
+                "text": "Pick a number between one and fifty."
+            },
+            {
+                "code": "pick_example_don-t-pick-your-nose",
+                "text": "Don't pick your nose."
+            },
+            {
+                "code": "pick_example_he-picked-the-lock-on-the-door",
+                "text": "He picked the lock on the door."
+            },
+            {
+                "code": "pick_example_have-you-picked-a-name-for-your-baby",
+                "text": "Have you picked a name for your baby?"
+            },
+            {
+                "code": "pick_example_i-picked-flowers-in-the-garden",
+                "text": "I picked flowers in the garden."
+            },
+            {
+                "code": "pick_example_he-picked-a-fight-with-his-brother",
+                "text": "He picked a fight with his brother."
+            },
+            {
+                "code": "pick_example_it-s-your-turn-to-pick-a-card",
+                "text": "It's your turn to pick a card."
+            },
+            {
+                "code": "pick_example_have-they-picked-a-winner-yet",
+                "text": "Have they picked a winner yet?"
+            },
+            {
+                "code": "pick_example_he-randomly-picked-a-card-from-the-deck",
+                "text": "He randomly picked a card from the deck."
+            },
+            {
+                "code": "pick_example_i-picked-out-my-outfit",
+                "text": "I picked out my outfit."
+            },
+            {
+                "code": "pick_example_she-picked-me-as-a-teammate",
+                "text": "She picked me as a teammate."
+            },
+            {
+                "code": "pick_example_they-picked-that-church-for-their-wedding",
+                "text": "They picked that church for their wedding."
+            },
+            {
+                "code": "pick_example_all-the-kids-pick-on-him",
+                "text": "All the kids pick on him."
+            },
+            {
+                "code": "pick_example_stop-picking-at-your-food",
+                "text": "Stop picking at your food."
+            },
+            {
+                "code": "pick_example_pick-a-dish-from-the-menu",
+                "text": "Pick a dish from the menu."
+            }
+        ]
+    },
+    {
+        "type": "(n)",
+        "mean": "a choice",
+        "examples": [
+            {
+                "code": "pick_example_take-your-pick",
+                "text": "Take your pick."
+            },
+            {
+                "code": "pick_example_she-s-the-pick-of-the-litter",
+                "text": "She's the pick of the litter."
+            },
+            {
+                "code": "pick_example_that-car-was-my-first-pick",
+                "text": "That car was my first pick."
+            }
+        ]
+    }
+]

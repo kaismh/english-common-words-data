@@ -1,0 +1,76 @@
+[
+    {
+        "type": "(n)",
+        "mean": "an electronic machine used for storing and organizing information and calculating data",
+        "examples": [
+            {
+                "code": "computer_example_we-have-a-fast-computer",
+                "text": "We have a fast computer."
+            },
+            {
+                "code": "computer_example_she-uses-a-desktop-computer",
+                "text": "She uses a desktop computer."
+            },
+            {
+                "code": "computer_example_the-home-computer-uses-wireless-internet",
+                "text": "The home computer uses wireless internet."
+            },
+            {
+                "code": "computer_example_do-you-know-how-to-operate-a-computer",
+                "text": "Do you know how to operate a computer?"
+            },
+            {
+                "code": "computer_example_please-switch-on-the-computer",
+                "text": "Please switch on the computer."
+            },
+            {
+                "code": "computer_example_start-up-the-computer-with-the-power-button",
+                "text": "Start up the computer with the power button."
+            },
+            {
+                "code": "computer_example_you-may-need-to-reboot-the-computer",
+                "text": "You may need to reboot the computer."
+            },
+            {
+                "code": "computer_example_a-virus-can-crash-a-computer",
+                "text": "A virus can crash a computer."
+            },
+            {
+                "code": "computer_example_the-computer-runs-really-well",
+                "text": "The computer runs really well."
+            },
+            {
+                "code": "computer_example_a-computer-stores-data-and-information",
+                "text": "A computer stores data and information."
+            },
+            {
+                "code": "computer_example_microsoft-word-is-a-computer-program",
+                "text": "Microsoft Word is a computer program."
+            },
+            {
+                "code": "computer_example_the-computer-network-is-slow",
+                "text": "The computer network is slow."
+            },
+            {
+                "code": "computer_example_we-need-to-replace-the-computer-monitor",
+                "text": "We need to replace the computer monitor."
+            },
+            {
+                "code": "computer_example_he-is-studying-computer-science",
+                "text": "He is studying computer science."
+            },
+            {
+                "code": "computer_example_i-cannot-open-my-computer-files",
+                "text": "I cannot open my computer files."
+            },
+            {
+                "code": "computer_example_i-have-a-computer-virus",
+                "text": "I have a computer virus."
+            },
+            {
+                "code": "computer_example_you-can-find-the-data-on-the-computer",
+                "text": "You can find the data on the computer."
+            }
+        ]
+    }
+]

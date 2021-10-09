@@ -1,0 +1,56 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the leader of a nation or organization",
+        "examples": [
+            {
+                "code": "president_example_we-voted-for-him-for-president",
+                "text": "We voted for him for president."
+            },
+            {
+                "code": "president_example_they-tried-to-impeach-the-president",
+                "text": "They tried to impeach the president."
+            },
+            {
+                "code": "president_example_a-new-president-will-be-sworn-in",
+                "text": "A new president will be sworn in."
+            },
+            {
+                "code": "president_example_the-president-vetoed-the-bill",
+                "text": "The president vetoed the bill."
+            },
+            {
+                "code": "president_example_the-president-declared-war",
+                "text": "The president declared war."
+            },
+            {
+                "code": "president_example_the-president-has-resigned",
+                "text": "The president has resigned."
+            },
+            {
+                "code": "president_example_the-cabinet-advises-the-president",
+                "text": "The cabinet advises the president."
+            },
+            {
+                "code": "president_example_george-washington-was-the-first-president-of-the-us",
+                "text": "George Washington was the first president of the US."
+            },
+            {
+                "code": "president_example_who-is-the-vice-president",
+                "text": "Who is the vice president?"
+            },
+            {
+                "code": "president_example_she-is-the-former-president-of-the-organization",
+                "text": "She is the former president of the organization."
+            },
+            {
+                "code": "president_example_he-is-the-president-of-our-country",
+                "text": "He is the president of our country."
+            },
+            {
+                "code": "president_example_she-is-running-for-president",
+                "text": "She is running for president."
+            }
+        ]
+    }
+]

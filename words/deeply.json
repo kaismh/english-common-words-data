@@ -1,0 +1,44 @@
+[
+    {
+        "type": "(adv)",
+        "mean": "very or completely",
+        "examples": [
+            {
+                "code": "deeply_example_she-was-deeply-afraid",
+                "text": "She was deeply afraid."
+            },
+            {
+                "code": "deeply_example_she-is-deeply-committed-to-her-work",
+                "text": "She is deeply committed to her work."
+            },
+            {
+                "code": "deeply_example_i-deeply-admire-him",
+                "text": "I deeply admire him."
+            },
+            {
+                "code": "deeply_example_i-think-i-deeply-angered-her",
+                "text": "I think I deeply angered her."
+            },
+            {
+                "code": "deeply_example_remember-to-breathe-deeply",
+                "text": "Remember to breathe deeply."
+            },
+            {
+                "code": "deeply_example_she-loved-him-deeply",
+                "text": "She loved him deeply."
+            },
+            {
+                "code": "deeply_example_she-deeply-regretted-her-decision",
+                "text": "She deeply regretted her decision."
+            },
+            {
+                "code": "deeply_example_we-deeply-understand-what-you-re-going-through",
+                "text": "We deeply understand what you're going through."
+            },
+            {
+                "code": "deeply_example_we-deeply-believe-in-their-cause",
+                "text": "We deeply believe in their cause."
+            }
+        ]
+    }
+]

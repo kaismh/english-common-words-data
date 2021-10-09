@@ -1,0 +1,76 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a sport played on a long field with two opposing teams using a ball to cross a specific goal line; the ball used in that sport",
+        "examples": [
+            {
+                "code": "football_example_he-thinks-football-is-very-exciting",
+                "text": "He thinks football is very exciting."
+            },
+            {
+                "code": "football_example_he-plays-touch-football-on-the-weekends",
+                "text": "He plays touch football on the weekends."
+            },
+            {
+                "code": "football_example_he-plays-college-football",
+                "text": "He plays college football."
+            },
+            {
+                "code": "football_example_he-plays-fantasy-football-with-his-friends",
+                "text": "He plays fantasy football with his friends."
+            },
+            {
+                "code": "football_example_he-likes-to-play-football",
+                "text": "He likes to play football."
+            },
+            {
+                "code": "football_example_he-coaches-football",
+                "text": "He coaches football."
+            },
+            {
+                "code": "football_example_he-doesn-t-follow-football",
+                "text": "He doesn't follow football."
+            },
+            {
+                "code": "football_example_they-practiced-kicking-the-football",
+                "text": "They practiced kicking the football."
+            },
+            {
+                "code": "football_example_the-local-football-team-is-very-good",
+                "text": "The local football team is very good."
+            },
+            {
+                "code": "football_example_he-got-to-meet-a-football-star",
+                "text": "He got to meet a football star."
+            },
+            {
+                "code": "football_example_they-are-upgrading-the-football-field",
+                "text": "They are upgrading the football field."
+            },
+            {
+                "code": "football_example_he-is-a-football-referee",
+                "text": "He is a football referee."
+            },
+            {
+                "code": "football_example_his-is-a-huge-football-fan",
+                "text": "His is a huge football fan."
+            },
+            {
+                "code": "football_example_football-playoffs-start-next-week",
+                "text": "Football playoffs start next week."
+            },
+            {
+                "code": "football_example_he-s-watching-a-football-game-on-tv",
+                "text": "He's watching a football game on TV."
+            },
+            {
+                "code": "football_example_that-injury-ended-his-football-season",
+                "text": "That injury ended his football season."
+            },
+            {
+                "code": "football_example_he-s-on-a-football-scholarship",
+                "text": "He's on a football scholarship."
+            }
+        ]
+    }
+]

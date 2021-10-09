@@ -1,0 +1,32 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a person who has been medically trained to treat sick people",
+        "examples": [
+            {
+                "code": "doctor_example_his-wife-is-an-excellent-doctor",
+                "text": "His wife is an excellent doctor."
+            },
+            {
+                "code": "doctor_example_can-i-have-a-female-doctor",
+                "text": "Can I have a female doctor?"
+            },
+            {
+                "code": "doctor_example_this-man-is-a-medical-doctor",
+                "text": "This man is a medical doctor."
+            },
+            {
+                "code": "doctor_example_she-is-trained-as-an-emergency-room-doctor",
+                "text": "She is trained as an emergency-room doctor."
+            },
+            {
+                "code": "doctor_example_do-you-have-a-family-doctor",
+                "text": "Do you have a family doctor?"
+            },
+            {
+                "code": "doctor_example_i-need-to-see-a-doctor",
+                "text": "I need to see a doctor."
+            }
+        ]
+    }
+]

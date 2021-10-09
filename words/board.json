@@ -1,0 +1,82 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a flat piece of wood; group of people who control an organization; meal served with a room rental",
+        "examples": [
+            {
+                "code": "board_example_there-s-an-advertisement-on-the-bulletin-board",
+                "text": "There's an advertisement on the bulletin board."
+            },
+            {
+                "code": "board_example_the-pants-are-on-the-ironing-board",
+                "text": "The pants are on the ironing board."
+            },
+            {
+                "code": "board_example_the-project-is-on-the-drawing-board",
+                "text": "The project is on the drawing board."
+            },
+            {
+                "code": "board_example_the-swimming-pool-has-a-diving-board",
+                "text": "The swimming pool has a diving board."
+            },
+            {
+                "code": "board_example_we-cut-vegetables-on-the-cutting-board",
+                "text": "We cut vegetables on the cutting board."
+            },
+            {
+                "code": "board_example_the-decision-is-in-the-hands-of-the-advisory-board",
+                "text": "The decision is in the hands of the advisory board."
+            },
+            {
+                "code": "board_example_she-serves-on-the-board-of-directors",
+                "text": "She serves on the board of directors."
+            },
+            {
+                "code": "board_example_he-stepped-down-from-the-board",
+                "text": "He stepped down from the board."
+            },
+            {
+                "code": "board_example_the-board-will-appoint-a-new-chair",
+                "text": "The board will appoint a new chair."
+            },
+            {
+                "code": "board_example_our-final-proposal-will-go-to-the-board",
+                "text": "Our final proposal will go to the board."
+            },
+            {
+                "code": "board_example_monopoly-is-a-fun-board-game",
+                "text": "Monopoly is a fun board game."
+            },
+            {
+                "code": "board_example_she-s-one-of-the-board-members",
+                "text": "She's one of the board members."
+            },
+            {
+                "code": "board_example_everyone-is-in-the-board-meeting",
+                "text": "Everyone is in the board meeting."
+            },
+            {
+                "code": "board_example_put-the-notice-on-the-board",
+                "text": "Put the notice on the board."
+            },
+            {
+                "code": "board_example_he-will-join-the-board-of-directors",
+                "text": "He will join the board of directors."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to get on a vehicle that carries many people",
+        "examples": [
+            {
+                "code": "board_example_it-s-time-to-board-the-plane",
+                "text": "It's time to board the plane."
+            },
+            {
+                "code": "board_example_the-passengers-are-boarding-the-train",
+                "text": "The passengers are boarding the train."
+            }
+        ]
+    }
+]

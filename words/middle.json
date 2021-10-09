@@ -1,0 +1,48 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "central; located in the center of something",
+        "examples": [
+            {
+                "code": "middle_example_i-am-the-middle-child-in-my-family",
+                "text": "I am the middle child in my family."
+            },
+            {
+                "code": "middle_example_we-are-part-of-the-middle-class",
+                "text": "We are part of the middle class."
+            },
+            {
+                "code": "middle_example_let-s-try-to-meet-on-middle-ground",
+                "text": "Let's try to meet on middle ground."
+            },
+            {
+                "code": "middle_example_i-moved-into-the-middle-lane",
+                "text": "I moved into the middle lane."
+            },
+            {
+                "code": "middle_example_the-middle-layer-is-vanilla",
+                "text": "The middle layer is vanilla."
+            },
+            {
+                "code": "middle_example_i-took-the-middle-road",
+                "text": "I took the middle road."
+            },
+            {
+                "code": "middle_example_he-is-a-middle-manager-at-the-company",
+                "text": "He is a middle manager at the company."
+            },
+            {
+                "code": "middle_example_she-is-in-middle-school",
+                "text": "She is in middle school."
+            },
+            {
+                "code": "middle_example_you-shouldn-t-put-up-your-middle-finger",
+                "text": "You shouldn't put up your middle finger."
+            },
+            {
+                "code": "middle_example_what-is-your-middle-name",
+                "text": "What is your middle name?"
+            }
+        ]
+    }
+]

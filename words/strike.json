@@ -1,0 +1,102 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to hit hard; to attack; to come to mind",
+        "examples": [
+            {
+                "code": "strike_example_she-struck-him-hard-on-his-arm",
+                "text": "She struck him hard on his arm."
+            },
+            {
+                "code": "strike_example_earthquakes-can-strike-without-warning",
+                "text": "Earthquakes can strike without warning."
+            },
+            {
+                "code": "strike_example_it-suddenly-struck-me-that-i-had-missed-the-appointment",
+                "text": "It suddenly struck me that I had missed the appointment."
+            },
+            {
+                "code": "strike_example_a-tornado-is-going-to-strike-our-city",
+                "text": "A tornado is going to strike our city."
+            },
+            {
+                "code": "strike_example_their-army-threatened-to-strike",
+                "text": "Their army threatened to strike."
+            },
+            {
+                "code": "strike_example_our-boat-struck-against-something-hard-and-almost-capsized",
+                "text": "Our boat struck against something hard and almost capsized."
+            },
+            {
+                "code": "strike_example_the-ball-struck-her-on-the-head",
+                "text": "The ball struck her on the head."
+            },
+            {
+                "code": "strike_example_he-struck-at-the-robbers-with-a-baseball-bat",
+                "text": "He struck at the robbers with a baseball bat."
+            },
+            {
+                "code": "strike_example_she-strikes-me-as-being-very-intelligent",
+                "text": "She strikes me as being very intelligent."
+            }
+        ]
+    },
+    {
+        "type": "(n)",
+        "mean": "a refusal to work organized by employees who are unhappy with pay or working conditions; a protest; a military attack",
+        "examples": [
+            {
+                "code": "strike_example_the-workers-agreed-to-a-long-strike",
+                "text": "The workers agreed to a long strike."
+            },
+            {
+                "code": "strike_example_many-are-part-of-a-bitter-strike",
+                "text": "Many are part of a bitter strike."
+            },
+            {
+                "code": "strike_example_the-transit-strike-is-in-its-fifth-day",
+                "text": "The transit strike is in its fifth day."
+            },
+            {
+                "code": "strike_example_the-army-launched-an-air-strike",
+                "text": "The army launched an air strike."
+            },
+            {
+                "code": "strike_example_the-union-leaders-called-a-strike",
+                "text": "The union leaders called a strike."
+            },
+            {
+                "code": "strike_example_the-employees-are-on-a-strike",
+                "text": "The employees are on a strike."
+            },
+            {
+                "code": "strike_example_the-workers-voted-to-end-the-strike",
+                "text": "The workers voted to end the strike."
+            },
+            {
+                "code": "strike_example_the-strike-started-yesterday",
+                "text": "The strike started yesterday."
+            },
+            {
+                "code": "strike_example_the-military-launched-an-air-strike",
+                "text": "The military launched an air strike."
+            },
+            {
+                "code": "strike_example_the-business-was-open-during-the-strike",
+                "text": "The business was open during the strike."
+            },
+            {
+                "code": "strike_example_they-voted-to-strike-against-low-wages",
+                "text": "They voted to strike against low wages."
+            },
+            {
+                "code": "strike_example_a-strike-by-airline-pilots-went-on-for-a-month",
+                "text": "A strike by airline pilots went on for a month."
+            },
+            {
+                "code": "strike_example_the-army-carried-out-a-strike-against-the-neighboring-country",
+                "text": "The army carried out a strike against the neighboring country."
+            }
+        ]
+    }
+]

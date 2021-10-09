@@ -1,0 +1,40 @@
+[
+    {
+        "type": "(adv)",
+        "mean": "before; in front of",
+        "examples": [
+            {
+                "code": "ahead_example_we-must-call-ahead-for-a-reservation",
+                "text": "We must call ahead for a reservation."
+            },
+            {
+                "code": "ahead_example_when-i-walk-my-dog-he-likes-to-race-ahead",
+                "text": "When I walk my dog, he likes to race ahead."
+            },
+            {
+                "code": "ahead_example_let-s-look-ahead-at-our-schedules",
+                "text": "Let's look ahead at our schedules."
+            },
+            {
+                "code": "ahead_example_if-you-don-t-want-to-spoil-the-book-s-ending-you-shouldn-t-read-ahead",
+                "text": "If you don't want to spoil the book's ending, you shouldn't read ahead."
+            },
+            {
+                "code": "ahead_example_when-traveling-it-is-important-to-plan-ahead",
+                "text": "When traveling, it is important to plan ahead."
+            },
+            {
+                "code": "ahead_example_i-like-meals-i-can-make-ahead",
+                "text": "I like meals I can make ahead."
+            },
+            {
+                "code": "ahead_example_how-can-i-get-ahead-in-the-company",
+                "text": "How can I get ahead in the company?"
+            },
+            {
+                "code": "ahead_example_go-ahead-ladies-first",
+                "text": "Go ahead. Ladies first."
+            }
+        ]
+    }
+]

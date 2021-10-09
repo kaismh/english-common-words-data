@@ -1,0 +1,28 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a raised floor",
+        "examples": [
+            {
+                "code": "platform_example_he-stood-on-the-platform",
+                "text": "He stood on the platform."
+            },
+            {
+                "code": "platform_example_she-spoke-from-the-platform",
+                "text": "She spoke from the platform."
+            },
+            {
+                "code": "platform_example_she-stood-on-the-raised-platform",
+                "text": "She stood on the raised platform."
+            },
+            {
+                "code": "platform_example_passengers-were-waiting-on-the-train-platform",
+                "text": "Passengers were waiting on the train platform."
+            },
+            {
+                "code": "platform_example_she-waited-on-the-train-platform",
+                "text": "She waited on the train platform."
+            }
+        ]
+    }
+]

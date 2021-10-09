@@ -1,0 +1,106 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "having nothing inside",
+        "examples": [
+            {
+                "code": "empty_example_this-bag-feels-empty",
+                "text": "This bag feels empty."
+            },
+            {
+                "code": "empty_example_the-box-is-empty",
+                "text": "The box is empty."
+            },
+            {
+                "code": "empty_example_this-shelf-should-stay-empty",
+                "text": "This shelf should stay empty."
+            },
+            {
+                "code": "empty_example_the-box-of-cereal-is-almost-empty",
+                "text": "The box of cereal is almost empty."
+            },
+            {
+                "code": "empty_example_the-shopping-mall-is-virtually-empty-early-in-the-morning",
+                "text": "The shopping mall is virtually empty early in the morning."
+            },
+            {
+                "code": "empty_example_the-hungry-kids-left-the-picnic-basket-completely-empty",
+                "text": "The hungry kids left the picnic basket completely empty."
+            },
+            {
+                "code": "empty_example_this-bus-is-relatively-empty-compared-to-the-last-one",
+                "text": "This bus is relatively empty compared to the last one."
+            },
+            {
+                "code": "empty_example_he-left-the-empty-dish-on-the-table",
+                "text": "He left the empty dish on the table."
+            },
+            {
+                "code": "empty_example_she-put-the-empty-bottles-in-the-trash-bin",
+                "text": "She put the empty bottles in the trash bin."
+            },
+            {
+                "code": "empty_example_the-empty-apartment-was-scary-at-night",
+                "text": "The empty apartment was scary at night."
+            },
+            {
+                "code": "empty_example_i-don-t-like-walking-down-empty-streets-at-night",
+                "text": "I don't like walking down empty streets at night."
+            },
+            {
+                "code": "empty_example_the-empty-lot-is-full-of-garbage",
+                "text": "The empty lot is full of garbage."
+            },
+            {
+                "code": "empty_example_his-empty-stomach-made-it-hard-to-study",
+                "text": "His empty stomach made it hard to study."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to remove everything from something",
+        "examples": [
+            {
+                "code": "empty_example_the-students-completely-emptied-their-desks",
+                "text": "The students completely emptied their desks."
+            },
+            {
+                "code": "empty_example_she-emptied-out-the-fridge-so-she-could-clean-it",
+                "text": "She emptied out the fridge so she could clean it."
+            },
+            {
+                "code": "empty_example_this-stream-empties-directly-into-the-lake",
+                "text": "This stream empties directly into the lake."
+            },
+            {
+                "code": "empty_example_the-river-empties-into-the-ocean",
+                "text": "The river empties into the ocean."
+            },
+            {
+                "code": "empty_example_i-need-to-empty-the-dishwasher-tonight",
+                "text": "I need to empty the dishwasher tonight."
+            },
+            {
+                "code": "empty_example_he-emptied-his-bowl-at-dinner",
+                "text": "He emptied his bowl at dinner."
+            },
+            {
+                "code": "empty_example_they-emptied-a-bottle-of-wine-at-dinner",
+                "text": "They emptied a bottle of wine at dinner."
+            },
+            {
+                "code": "empty_example_he-emptied-his-wallet-to-pay-the-bill",
+                "text": "He emptied his wallet to pay the bill."
+            },
+            {
+                "code": "empty_example_she-emptied-her-purse-for-the-security-officer",
+                "text": "She emptied her purse for the security officer."
+            },
+            {
+                "code": "empty_example_he-emptied-his-bank-account-before-running-away",
+                "text": "He emptied his bank account before running away."
+            }
+        ]
+    }
+]

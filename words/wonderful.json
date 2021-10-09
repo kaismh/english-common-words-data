@@ -1,0 +1,36 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "very good, pleasant",
+        "examples": [
+            {
+                "code": "wonderful_example_dinner-was-absolutely-wonderful",
+                "text": "Dinner was absolutely wonderful."
+            },
+            {
+                "code": "wonderful_example_he-is-pretty-wonderful-isn-t-he",
+                "text": "He is pretty wonderful, isn't he?"
+            },
+            {
+                "code": "wonderful_example_the-food-is-wonderful",
+                "text": "The food is wonderful."
+            },
+            {
+                "code": "wonderful_example_the-menu-for-the-party-looks-wonderful",
+                "text": "The menu for the party looks wonderful."
+            },
+            {
+                "code": "wonderful_example_the-massage-feels-wonderful",
+                "text": "The massage feels wonderful."
+            },
+            {
+                "code": "wonderful_example_that-person-is-a-wonderful-actor",
+                "text": "That person is a wonderful actor."
+            },
+            {
+                "code": "wonderful_example_it-was-a-wonderful-adventure",
+                "text": "It was a wonderful adventure."
+            }
+        ]
+    }
+]

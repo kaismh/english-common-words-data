@@ -1,0 +1,48 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a certain way of doing something",
+        "examples": [
+            {
+                "code": "mode_example_he-switched-his-mode-of-transportation",
+                "text": "He switched his mode of transportation."
+            },
+            {
+                "code": "mode_example_the-company-adopted-a-new-mode-of-communication",
+                "text": "The company adopted a new mode of communication."
+            },
+            {
+                "code": "mode_example_he-is-entering-a-new-mode-of-work",
+                "text": "He is entering a new mode of work."
+            },
+            {
+                "code": "mode_example_the-alarm-is-in-default-mode",
+                "text": "The alarm is in default mode."
+            },
+            {
+                "code": "mode_example_my-phone-is-in-sleep-mode",
+                "text": "My phone is in sleep mode."
+            },
+            {
+                "code": "mode_example_the-people-are-in-crisis-mode",
+                "text": "The people are in crisis mode."
+            },
+            {
+                "code": "mode_example_what-is-your-normal-mode-of-transportation",
+                "text": "What is your normal mode of transportation?"
+            },
+            {
+                "code": "mode_example_what-is-the-most-effective-mode-of-communication",
+                "text": "What is the most effective mode of communication?"
+            },
+            {
+                "code": "mode_example_the-computer-is-in-sleep-mode",
+                "text": "The computer is in sleep mode."
+            },
+            {
+                "code": "mode_example_their-main-mode-of-transportation-is-the-bus",
+                "text": "Their main mode of transportation is the bus."
+            }
+        ]
+    }
+]

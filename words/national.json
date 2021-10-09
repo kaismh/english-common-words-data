@@ -1,0 +1,56 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "connected with a group of people who share the same language, culture that live in one particular area under one government",
+        "examples": [
+            {
+                "code": "national_example_do-you-follow-national-politics",
+                "text": "Do you follow national politics?"
+            },
+            {
+                "code": "national_example_he-is-a-national-leader",
+                "text": "He is a national leader."
+            },
+            {
+                "code": "national_example_she-is-in-the-national-guard",
+                "text": "She is in the national guard."
+            },
+            {
+                "code": "national_example_the-national-border-is-nearby",
+                "text": "The national border is nearby."
+            },
+            {
+                "code": "national_example_did-you-watch-the-national-election",
+                "text": "Did you watch the national election?"
+            },
+            {
+                "code": "national_example_national-highways-are-expensive-to-maintain",
+                "text": "National highways are expensive to maintain."
+            },
+            {
+                "code": "national_example_does-your-company-observe-the-national-holiday",
+                "text": "Does your company observe the national holiday?"
+            },
+            {
+                "code": "national_example_national-health-service-is-not-working",
+                "text": "National health service is not working."
+            },
+            {
+                "code": "national_example_he-is-the-national-director",
+                "text": "He is the national director."
+            },
+            {
+                "code": "national_example_teach-me-about-your-national-heritage",
+                "text": "Teach me about your national heritage."
+            },
+            {
+                "code": "national_example_this-is-a-national-catastrophe",
+                "text": "This is a national catastrophe."
+            },
+            {
+                "code": "national_example_what-is-the-national-debt",
+                "text": "What is the national debt?"
+            }
+        ]
+    }
+]

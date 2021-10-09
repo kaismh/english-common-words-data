@@ -1,0 +1,68 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the world; the planet we live on; the ground; dirt",
+        "examples": [
+            {
+                "code": "earth_example_the-earth-orbits-the-sun",
+                "text": "The earth orbits the sun."
+            },
+            {
+                "code": "earth_example_we-need-to-protect-the-earth",
+                "text": "We need to protect the earth."
+            },
+            {
+                "code": "earth_example_an-asteroid-could-destroy-the-earth",
+                "text": "An asteroid could destroy the earth."
+            },
+            {
+                "code": "earth_example_the-earth-rotates-on-its-axis",
+                "text": "The earth rotates on its axis."
+            },
+            {
+                "code": "earth_example_dinosaurs-once-roamed-the-earth",
+                "text": "Dinosaurs once roamed the earth."
+            },
+            {
+                "code": "earth_example_i-felt-the-earth-shake",
+                "text": "I felt the earth shake."
+            },
+            {
+                "code": "earth_example_the-balloon-flew-above-the-earth",
+                "text": "The balloon flew above the earth."
+            },
+            {
+                "code": "earth_example_the-moon-orbits-around-the-earth",
+                "text": "The moon orbits around the earth."
+            },
+            {
+                "code": "earth_example_the-astronauts-returned-to-earth",
+                "text": "The astronauts returned to earth."
+            },
+            {
+                "code": "earth_example_dinosaurs-existed-on-earth-a-long-time-ago",
+                "text": "Dinosaurs existed on Earth a long time ago."
+            },
+            {
+                "code": "earth_example_they-planted-crops-in-the-fertile-earth",
+                "text": "They planted crops in the fertile earth."
+            },
+            {
+                "code": "earth_example_the-frozen-earth-was-too-hard-for-digging",
+                "text": "The frozen earth was too hard for digging."
+            },
+            {
+                "code": "earth_example_she-planted-flowers-in-the-moist-earth-of-the-garden",
+                "text": "She planted flowers in the moist earth of the garden."
+            },
+            {
+                "code": "earth_example_nothing-could-grow-in-the-dry-earth",
+                "text": "Nothing could grow in the dry earth."
+            },
+            {
+                "code": "earth_example_she-piled-loose-earth-around-the-new-plants",
+                "text": "She piled loose earth around the new plants."
+            }
+        ]
+    }
+]

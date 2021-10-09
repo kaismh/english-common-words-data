@@ -1,0 +1,108 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a statement to make things more clear; a reason given why something happened",
+        "examples": [
+            {
+                "code": "explanation_example_the-logical-explanation-is-that-he-forgot",
+                "text": "The logical explanation is that he forgot."
+            },
+            {
+                "code": "explanation_example_he-gave-a-credible-explanation-for-being-late",
+                "text": "He gave a credible explanation for being late."
+            },
+            {
+                "code": "explanation_example_she-gave-me-an-unacceptable-explanation-for-not-coming-to-class",
+                "text": "She gave me an unacceptable explanation for not coming to class."
+            },
+            {
+                "code": "explanation_example_the-assignment-should-need-no-further-explanation",
+                "text": "The assignment should need no further explanation."
+            },
+            {
+                "code": "explanation_example_there-was-no-apparent-explanation-for-her-absence",
+                "text": "There was no apparent explanation for her absence."
+            },
+            {
+                "code": "explanation_example_the-professor-gave-a-clear-explanation-of-the-assignment",
+                "text": "The professor gave a clear explanation of the assignment."
+            },
+            {
+                "code": "explanation_example_he-gave-me-a-detailed-explanation-of-the-process",
+                "text": "He gave me a detailed explanation of the process."
+            },
+            {
+                "code": "explanation_example_she-provided-a-convenient-explanation-for-not-finishing-her-assignment",
+                "text": "She provided a convenient explanation for not finishing her assignment."
+            },
+            {
+                "code": "explanation_example_there-are-a-number-of-possible-explanations-for-this",
+                "text": "There are a number of possible explanations for this."
+            },
+            {
+                "code": "explanation_example_the-official-explanation-seems-unlikely",
+                "text": "The official explanation seems unlikely."
+            },
+            {
+                "code": "explanation_example_she-gave-a-brief-explanation-of-the-cause",
+                "text": "She gave a brief explanation of the cause."
+            },
+            {
+                "code": "explanation_example_this-is-the-only-explanation-that-makes-sense",
+                "text": "This is the only explanation that makes sense."
+            },
+            {
+                "code": "explanation_example_they-detailed-many-political-explanations-for-the-crisis",
+                "text": "They detailed many political explanations for the crisis."
+            },
+            {
+                "code": "explanation_example_i-have-no-explanation-for-being-late",
+                "text": "I have no explanation for being late."
+            },
+            {
+                "code": "explanation_example_he-offered-two-explanations-for-the-situation",
+                "text": "He offered two explanations for the situation."
+            },
+            {
+                "code": "explanation_example_this-plan-requires-a-detailed-explanation",
+                "text": "This plan requires a detailed explanation."
+            },
+            {
+                "code": "explanation_example_the-teacher-demanded-an-explanation-of-the-students-actions",
+                "text": "The teacher demanded an explanation of the students' actions."
+            },
+            {
+                "code": "explanation_example_she-deserves-a-good-explanation",
+                "text": "She deserves a good explanation."
+            },
+            {
+                "code": "explanation_example_i-owe-him-a-better-explanation",
+                "text": "I owe him a better explanation."
+            },
+            {
+                "code": "explanation_example_i-never-received-an-explanation",
+                "text": "I never received an explanation."
+            },
+            {
+                "code": "explanation_example_his-explanation-suggests-he-doesn-t-really-understand",
+                "text": "His explanation suggests he doesn't really understand."
+            },
+            {
+                "code": "explanation_example_he-quit-his-job-without-explanation",
+                "text": "He quit his job without explanation."
+            },
+            {
+                "code": "explanation_example_they-gave-a-long-explanation-about-their-reasons-for-leaving",
+                "text": "They gave a long explanation about their reasons for leaving."
+            },
+            {
+                "code": "explanation_example_she-s-still-waiting-for-an-explanation-from-her-friend",
+                "text": "She's still waiting for an explanation from her friend."
+            },
+            {
+                "code": "explanation_example_he-gave-a-brief-explanation-for-being-late",
+                "text": "He gave a brief explanation for being late."
+            }
+        ]
+    }
+]

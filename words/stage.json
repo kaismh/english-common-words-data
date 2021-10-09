@@ -1,0 +1,90 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a particular period of growth or development; a raised platform in a theater or auditorium",
+        "examples": [
+            {
+                "code": "stage_example_children-go-through-many-growth-stages-in-their-lives",
+                "text": "Children go through many growth stages in their lives."
+            },
+            {
+                "code": "stage_example_his-father-was-in-the-advanced-stages-of-cancer",
+                "text": "His father was in the advanced stages of cancer."
+            },
+            {
+                "code": "stage_example_he-was-entering-a-critical-stage-of-his-career",
+                "text": "He was entering a critical stage of his career."
+            },
+            {
+                "code": "stage_example_she-is-studying-the-life-stages-of-insects",
+                "text": "She is studying the life stages of insects."
+            },
+            {
+                "code": "stage_example_the-project-is-still-at-the-planning-stage",
+                "text": "The project is still at the planning stage."
+            },
+            {
+                "code": "stage_example_she-is-performing-on-the-main-stage-at-school",
+                "text": "She is performing on the main stage at school."
+            },
+            {
+                "code": "stage_example_he-was-unwilling-to-take-the-center-stage",
+                "text": "He was unwilling to take the center stage."
+            },
+            {
+                "code": "stage_example_people-go-through-many-stages-in-their-lives",
+                "text": "People go through many stages in their lives."
+            },
+            {
+                "code": "stage_example_we-reached-a-critical-stage-in-the-negotiations",
+                "text": "We reached a critical stage in the negotiations."
+            },
+            {
+                "code": "stage_example_marriage-represents-an-important-stage-in-human-life",
+                "text": "Marriage represents an important stage in human life."
+            },
+            {
+                "code": "stage_example_he-left-the-stage-to-continuous-applause",
+                "text": "He left the stage to continuous applause."
+            },
+            {
+                "code": "stage_example_she-is-performing-on-the-stage",
+                "text": "She is performing on the stage."
+            },
+            {
+                "code": "stage_example_everyone-was-impressed-with-his-powerful-stage-presence",
+                "text": "Everyone was impressed with his powerful stage presence."
+            },
+            {
+                "code": "stage_example_she-made-her-stage-debut-at-the-age-of-five",
+                "text": "She made her stage debut at the age of five."
+            },
+            {
+                "code": "stage_example_her-stage-career-lasted-her-whole-adult-life",
+                "text": "Her stage career lasted her whole adult life."
+            },
+            {
+                "code": "stage_example_you-need-to-take-responsibility-at-some-stage-in-your-life",
+                "text": "You need to take responsibility at some stage in your life."
+            },
+            {
+                "code": "stage_example_he-almost-gave-up-in-the-early-stages-of-his-marriage",
+                "text": "He almost gave up in the early stages of his marriage."
+            },
+            {
+                "code": "stage_example_he-is-in-the-advanced-stage-of-cancer",
+                "text": "He is in the advanced stage of cancer."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to organize a public event",
+        "examples": [
+            {
+                "code": "stage_example_the-protest-was-carefully-staged",
+                "text": "The protest was carefully staged."
+            }
+        ]
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "type": "(adv)",
+        "mean": "in a way that was carefully planned",
+        "examples": [
+            {
+                "code": "deliberately_example_the-article-is-deliberately-misleading",
+                "text": "The article is deliberately misleading."
+            },
+            {
+                "code": "deliberately_example_she-is-deliberately-mean-to-him",
+                "text": "She is deliberately mean to him."
+            },
+            {
+                "code": "deliberately_example_i-deliberately-avoid-crowds",
+                "text": "I deliberately avoid crowds."
+            },
+            {
+                "code": "deliberately_example_she-deliberately-chooses-to-ignore-him",
+                "text": "She deliberately chooses to ignore him."
+            },
+            {
+                "code": "deliberately_example_they-deliberately-destroyed-the-evidence",
+                "text": "They deliberately destroyed the evidence."
+            },
+            {
+                "code": "deliberately_example_he-deliberately-harmed-that-animal",
+                "text": "He deliberately harmed that animal."
+            }
+        ]
+    }
+]

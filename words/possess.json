@@ -1,0 +1,36 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to own; to have something",
+        "examples": [
+            {
+                "code": "possess_example_he-possesses-a-natural-gift",
+                "text": "He possesses a natural gift."
+            },
+            {
+                "code": "possess_example_can-you-legally-possess-firearms-in-this-state",
+                "text": "Can you legally possess firearms in this state?"
+            },
+            {
+                "code": "possess_example_she-possesses-the-right-qualifications-for-the-job",
+                "text": "She possesses the right qualifications for the job."
+            },
+            {
+                "code": "possess_example_he-was-arrested-for-possessing-drugs",
+                "text": "He was arrested for possessing drugs."
+            },
+            {
+                "code": "possess_example_she-possesses-great-wealth",
+                "text": "She possesses great wealth."
+            },
+            {
+                "code": "possess_example_applicants-must-possess-great-communication-skills",
+                "text": "Applicants must possess great communication skills."
+            },
+            {
+                "code": "possess_example_the-country-is-being-investigated-for-possessing-nuclear-weapons",
+                "text": "The country is being investigated for possessing nuclear weapons."
+            }
+        ]
+    }
+]

@@ -1,0 +1,48 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to make something",
+        "examples": [
+            {
+                "code": "create_example_the-architect-created-a-work-of-art",
+                "text": "The architect created a work of art."
+            },
+            {
+                "code": "create_example_the-economy-will-create-new-jobs",
+                "text": "The economy will create new jobs."
+            },
+            {
+                "code": "create_example_the-programmer-will-create-advanced-software",
+                "text": "The programmer will create advanced software."
+            },
+            {
+                "code": "create_example_she-created-an-account",
+                "text": "She created an account."
+            },
+            {
+                "code": "create_example_don-t-create-alarm",
+                "text": "Don't create alarm."
+            },
+            {
+                "code": "create_example_the-goal-is-to-create-competition",
+                "text": "The goal is to create competition."
+            },
+            {
+                "code": "create_example_she-quickly-created-a-game-to-pass-the-time",
+                "text": "She quickly created a game to pass the time."
+            },
+            {
+                "code": "create_example_he-successfully-created-a-new-product-for-his-company",
+                "text": "He successfully created a new product for his company."
+            },
+            {
+                "code": "create_example_the-economy-suddenly-created-new-jobs",
+                "text": "The economy suddenly created new jobs."
+            },
+            {
+                "code": "create_example_he-purposely-created-a-scene-in-public",
+                "text": "He purposely created a scene in public."
+            }
+        ]
+    }
+]

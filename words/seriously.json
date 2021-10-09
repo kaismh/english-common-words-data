@@ -1,0 +1,44 @@
+[
+    {
+        "type": "(adv)",
+        "mean": "in a serious way; in an important state",
+        "examples": [
+            {
+                "code": "seriously_example_can-we-please-seriously-talk-about-things",
+                "text": "Can we please seriously talk about things?"
+            },
+            {
+                "code": "seriously_example_you-don-t-take-things-seriously",
+                "text": "You don't take things seriously."
+            },
+            {
+                "code": "seriously_example_i-seriously-believe-you-were-wrong",
+                "text": "I seriously believe you were wrong."
+            },
+            {
+                "code": "seriously_example_the-rumors-seriously-damaged-my-reputation",
+                "text": "The rumors seriously damaged my reputation."
+            },
+            {
+                "code": "seriously_example_i-hope-they-seriously-consider-my-application",
+                "text": "I hope they seriously consider my application."
+            },
+            {
+                "code": "seriously_example_the-patient-is-seriously-burned",
+                "text": "The patient is seriously burned."
+            },
+            {
+                "code": "seriously_example_he-is-seriously-committed-to-his-relationship",
+                "text": "He is seriously committed to his relationship."
+            },
+            {
+                "code": "seriously_example_the-thief-is-thought-to-be-seriously-violent",
+                "text": "The thief is thought to be seriously violent."
+            },
+            {
+                "code": "seriously_example_i-am-seriously-concerned-about-the-situation",
+                "text": "I am seriously concerned about the situation."
+            }
+        ]
+    }
+]

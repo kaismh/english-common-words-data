@@ -1,0 +1,66 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to stay in a place or do nothing until something happens or someone comes",
+        "examples": [
+            {
+                "code": "wait_example_the-children-have-been-waiting-patiently-for-ice-cream",
+                "text": "The children have been waiting patiently for ice cream."
+            },
+            {
+                "code": "wait_example_they-waited-quietly-in-their-seats",
+                "text": "They waited quietly in their seats."
+            },
+            {
+                "code": "wait_example_she-is-anxiously-waiting-for-the-airplane-to-arrive",
+                "text": "She is anxiously waiting for the airplane to arrive."
+            },
+            {
+                "code": "wait_example_they-have-been-waiting-long",
+                "text": "They have been waiting long."
+            },
+            {
+                "code": "wait_example_you-have-to-wait-for-your-turn",
+                "text": "You have to wait for your turn."
+            },
+            {
+                "code": "wait_example_i-cannot-wait-until-tomorrow",
+                "text": "I cannot wait until tomorrow."
+            },
+            {
+                "code": "wait_example_i-am-waiting-for-my-friend",
+                "text": "I am waiting for my friend."
+            },
+            {
+                "code": "wait_example_i-will-wait-until-five-o-clock",
+                "text": "I will wait until five o'clock."
+            }
+        ]
+    },
+    {
+        "type": "(n)",
+        "mean": "a period of time when you stay in a place or do nothing until something happens or someone comes",
+        "examples": [
+            {
+                "code": "wait_example_there-was-a-long-wait-for-a-table-at-the-restaurant",
+                "text": "There was a long wait for a table at the restaurant."
+            },
+            {
+                "code": "wait_example_we-had-a-short-wait-at-the-doctor-s-office",
+                "text": "We had a short wait at the doctor's office."
+            },
+            {
+                "code": "wait_example_it-was-an-agonizing-wait-for-the-medical-results",
+                "text": "It was an agonizing wait for the medical results."
+            },
+            {
+                "code": "wait_example_we-have-a-long-wait-at-the-doctor-s-office",
+                "text": "We have a long wait at the doctor's office."
+            },
+            {
+                "code": "wait_example_we-have-a-long-wait-for-the-next-train",
+                "text": "We have a long wait for the next train."
+            }
+        ]
+    }
+]

@@ -1,0 +1,84 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a public performance of music",
+        "examples": [
+            {
+                "code": "concert_example_she-is-giving-a-big-concert-for-charity",
+                "text": "She is giving a big concert for charity."
+            },
+            {
+                "code": "concert_example_we-could-not-get-tickets-for-the-sold-out-concert",
+                "text": "We could not get tickets for the sold-out concert."
+            },
+            {
+                "code": "concert_example_there-will-be-an-evening-concert-in-the-park",
+                "text": "There will be an evening concert in the park."
+            },
+            {
+                "code": "concert_example_the-public-concert-will-support-charities",
+                "text": "The public concert will support charities."
+            },
+            {
+                "code": "concert_example_the-live-concert-is-happening-now",
+                "text": "The live concert is happening now."
+            },
+            {
+                "code": "concert_example_we-enjoy-symphony-concerts",
+                "text": "We enjoy symphony concerts."
+            },
+            {
+                "code": "concert_example_the-benefit-concert-will-help-sick-children",
+                "text": "The benefit concert will help sick children."
+            },
+            {
+                "code": "concert_example_let-s-attend-her-concert",
+                "text": "Let's attend her concert."
+            },
+            {
+                "code": "concert_example_she-loves-to-give-concerts",
+                "text": "She loves to give concerts."
+            },
+            {
+                "code": "concert_example_she-is-having-the-concert-at-an-outdoor-arena",
+                "text": "She is having the concert at an outdoor arena."
+            },
+            {
+                "code": "concert_example_the-planner-will-organize-the-concert",
+                "text": "The planner will organize the concert."
+            },
+            {
+                "code": "concert_example_they-have-decided-to-cancel-the-concert",
+                "text": "They have decided to cancel the concert."
+            },
+            {
+                "code": "concert_example_they-are-performing-at-a-concert-hall",
+                "text": "They are performing at a concert hall."
+            },
+            {
+                "code": "concert_example_her-concert-performance-was-amazing",
+                "text": "Her concert performance was amazing."
+            },
+            {
+                "code": "concert_example_their-concert-tickets-are-sold-out",
+                "text": "Their concert tickets are sold out."
+            },
+            {
+                "code": "concert_example_they-hired-a-concert-promoter",
+                "text": "They hired a concert promoter."
+            },
+            {
+                "code": "concert_example_he-will-start-his-concert-tour-in-the-summer",
+                "text": "He will start his concert tour in the summer."
+            },
+            {
+                "code": "concert_example_will-you-be-at-the-concert",
+                "text": "Will you be at the concert?"
+            },
+            {
+                "code": "concert_example_they-planned-a-concert-for-charity",
+                "text": "They planned a concert for charity."
+            }
+        ]
+    }
+]

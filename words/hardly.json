@@ -1,0 +1,56 @@
+[
+    {
+        "type": "(adv)",
+        "mean": "barely; almost none",
+        "examples": [
+            {
+                "code": "hardly_example_his-excuse-is-hardly-believable",
+                "text": "His excuse is hardly believable."
+            },
+            {
+                "code": "hardly_example_the-news-was-hardly-comforting",
+                "text": "The news was hardly comforting."
+            },
+            {
+                "code": "hardly_example_this-is-hardly-worth-doing",
+                "text": "This is hardly worth doing."
+            },
+            {
+                "code": "hardly_example_the-changes-are-hardly-necessary",
+                "text": "The changes are hardly necessary."
+            },
+            {
+                "code": "hardly_example_she-s-hardly-aware-of-what-s-going-on",
+                "text": "She's hardly aware of what's going on."
+            },
+            {
+                "code": "hardly_example_that-is-hardly-true",
+                "text": "That is hardly true."
+            },
+            {
+                "code": "hardly_example_the-stain-hardly-shows",
+                "text": "The stain hardly shows."
+            },
+            {
+                "code": "hardly_example_it-s-obvious-you-hardly-care",
+                "text": "It's obvious you hardly care."
+            },
+            {
+                "code": "hardly_example_you-hardly-enjoyed-your-meal",
+                "text": "You hardly enjoyed your meal."
+            },
+            {
+                "code": "hardly_example_i-hardly-know-him",
+                "text": "I hardly know him."
+            },
+            {
+                "code": "hardly_example_we-hardly-go-to-the-theater-anymore",
+                "text": "We hardly go to the theater anymore."
+            },
+            {
+                "code": "hardly_example_we-hardly-travel-anymore",
+                "text": "We hardly travel anymore."
+            }
+        ]
+    }
+]

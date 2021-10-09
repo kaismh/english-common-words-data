@@ -1,0 +1,108 @@
+[
+    {
+        "type": "(n)",
+        "mean": "luck; prediction of the future; wealth",
+        "examples": [
+            {
+                "code": "fortune_example_she-s-had-a-streak-of-good-fortune",
+                "text": "She's had a streak of good fortune."
+            },
+            {
+                "code": "fortune_example_this-year-saw-declining-fortunes-for-the-company",
+                "text": "This year saw declining fortunes for the company."
+            },
+            {
+                "code": "fortune_example_their-economic-fortunes-have-not-been-good",
+                "text": "Their economic fortunes have not been good."
+            },
+            {
+                "code": "fortune_example_he-comes-from-a-family-with-a-large-fortune",
+                "text": "He comes from a family with a large fortune."
+            },
+            {
+                "code": "fortune_example_he-uses-his-family-fortune-to-his-advantage",
+                "text": "He uses his family fortune to his advantage."
+            },
+            {
+                "code": "fortune_example_he-has-good-fortune-on-his-side",
+                "text": "He has good fortune on his side."
+            },
+            {
+                "code": "fortune_example_a-four-leaf-clover-is-supposed-to-bring-good-fortune",
+                "text": "A four-leaf clover is supposed to bring good fortune."
+            },
+            {
+                "code": "fortune_example_they-are-hoping-to-reverse-their-bad-fortunes",
+                "text": "They are hoping to reverse their bad fortunes."
+            },
+            {
+                "code": "fortune_example_he-knows-his-fortune-can-change-quickly",
+                "text": "He knows his fortune can change quickly."
+            },
+            {
+                "code": "fortune_example_they-hope-their-fortunes-will-improve",
+                "text": "They hope their fortunes will improve."
+            },
+            {
+                "code": "fortune_example_she-was-told-her-fortune-by-a-fortune-teller",
+                "text": "She was told her fortune by a fortune-teller."
+            },
+            {
+                "code": "fortune_example_they-made-a-great-fortune-through-real-estate",
+                "text": "They made a great fortune through real estate."
+            },
+            {
+                "code": "fortune_example_he-won-a-fortune-in-the-lottery",
+                "text": "He won a fortune in the lottery."
+            },
+            {
+                "code": "fortune_example_he-inherited-his-fortune-from-his-grandfather",
+                "text": "He inherited his fortune from his grandfather."
+            },
+            {
+                "code": "fortune_example_she-left-her-fortune-to-charity",
+                "text": "She left her fortune to charity."
+            },
+            {
+                "code": "fortune_example_he-lost-his-fortune-by-gambling",
+                "text": "He lost his fortune by gambling."
+            },
+            {
+                "code": "fortune_example_gold-miners-left-home-to-seek-fortune",
+                "text": "Gold miners left home to seek fortune."
+            },
+            {
+                "code": "fortune_example_his-baseball-card-collection-is-worth-a-fortune-now",
+                "text": "His baseball card collection is worth a fortune now."
+            },
+            {
+                "code": "fortune_example_my-textbooks-cost-a-fortune",
+                "text": "My textbooks cost a fortune."
+            },
+            {
+                "code": "fortune_example_he-spends-a-fortune-eating-out",
+                "text": "He spends a fortune eating out."
+            },
+            {
+                "code": "fortune_example_she-paid-a-fortune-for-her-new-car",
+                "text": "She paid a fortune for her new car."
+            },
+            {
+                "code": "fortune_example_she-inherited-a-fortune-from-her-grandparents",
+                "text": "She inherited a fortune from her grandparents."
+            },
+            {
+                "code": "fortune_example_he-made-his-fortune-in-real-estate",
+                "text": "He made his fortune in real estate."
+            },
+            {
+                "code": "fortune_example_he-made-a-fortune-on-his-investments",
+                "text": "He made a fortune on his investments."
+            },
+            {
+                "code": "fortune_example_she-didn-t-believe-the-fortune-teller",
+                "text": "She didn't believe the fortune teller."
+            }
+        ]
+    }
+]

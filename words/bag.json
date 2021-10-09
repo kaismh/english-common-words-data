@@ -1,0 +1,88 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a container made of paper, plastic, or fabric",
+        "examples": [
+            {
+                "code": "bag_example_this-bag-is-too-heavy",
+                "text": "This bag is too heavy."
+            },
+            {
+                "code": "bag_example_i-have-a-plastic-bag",
+                "text": "I have a plastic bag."
+            },
+            {
+                "code": "bag_example_we-ll-put-the-food-in-a-freezer-bag",
+                "text": "We'll put the food in a freezer bag."
+            },
+            {
+                "code": "bag_example_i-am-bringing-a-carry-on-bag-onto-the-airplane",
+                "text": "I am bringing a carry-on bag onto the airplane."
+            },
+            {
+                "code": "bag_example_we-should-pack-an-overnight-bag",
+                "text": "We should pack an overnight bag."
+            },
+            {
+                "code": "bag_example_where-s-my-school-bag",
+                "text": "Where's my school bag?"
+            },
+            {
+                "code": "bag_example_the-food-is-in-a-lunch-bag",
+                "text": "The food is in a lunch bag."
+            },
+            {
+                "code": "bag_example_the-dead-person-was-put-into-a-body-bag",
+                "text": "The dead person was put into a body bag."
+            },
+            {
+                "code": "bag_example_we-put-the-present-in-a-gift-bag",
+                "text": "We put the present in a gift bag."
+            },
+            {
+                "code": "bag_example_she-always-camps-with-a-sleeping-bag",
+                "text": "She always camps with a sleeping bag."
+            },
+            {
+                "code": "bag_example_the-postman-carries-a-mail-bag",
+                "text": "The postman carries a mail bag."
+            },
+            {
+                "code": "bag_example_she-was-unloading-the-grocery-bags",
+                "text": "She was unloading the grocery bags."
+            },
+            {
+                "code": "bag_example_i-can-t-open-my-bag",
+                "text": "I can't open my bag."
+            },
+            {
+                "code": "bag_example_she-is-packing-her-bag",
+                "text": "She is packing her bag."
+            },
+            {
+                "code": "bag_example_he-quickly-stuffed-everything-into-his-bag",
+                "text": "He quickly stuffed everything into his bag."
+            },
+            {
+                "code": "bag_example_may-i-carry-your-bag",
+                "text": "May I carry your bag?"
+            },
+            {
+                "code": "bag_example_you-ll-need-to-check-your-bags-at-the-airport",
+                "text": "You'll need to check your bags at the airport."
+            },
+            {
+                "code": "bag_example_the-police-searched-our-bags",
+                "text": "The police searched our bags."
+            },
+            {
+                "code": "bag_example_this-bag-contains-my-homework",
+                "text": "This bag contains my homework."
+            },
+            {
+                "code": "bag_example_the-gifts-are-in-the-bag",
+                "text": "The gifts are in the bag."
+            }
+        ]
+    }
+]

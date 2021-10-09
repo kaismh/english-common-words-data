@@ -1,0 +1,98 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the end of an activity",
+        "examples": [
+            {
+                "code": "close_example_let-s-bring-this-meeting-to-a-close",
+                "text": "Let's bring this meeting to a close."
+            },
+            {
+                "code": "close_example_our-class-has-come-to-a-close",
+                "text": "Our class has come to a close."
+            },
+            {
+                "code": "close_example_we-need-to-finish-this-project-by-the-close-of-the-day",
+                "text": "We need to finish this project by the close of the day."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to shut something",
+        "examples": [
+            {
+                "code": "close_example_she-firmly-closed-her-eyes",
+                "text": "She firmly closed her eyes."
+            },
+            {
+                "code": "close_example_please-close-the-door-quietly",
+                "text": "Please close the door quietly."
+            },
+            {
+                "code": "close_example_the-building-will-be-closed-off",
+                "text": "The building will be closed off."
+            }
+        ]
+    },
+    {
+        "type": "(adv)",
+        "mean": "at a short distance away",
+        "examples": [
+            {
+                "code": "close_example_my-dog-stays-close-to-me-when-there-s-a-thunderstorm",
+                "text": "My dog stays close to me when there's a thunderstorm."
+            },
+            {
+                "code": "close_example_she-hugged-me-close-before-she-left",
+                "text": "She hugged me close before she left."
+            },
+            {
+                "code": "close_example_we-have-grown-close",
+                "text": "We have grown close."
+            }
+        ]
+    },
+    {
+        "type": "(adj)",
+        "mean": "near; affectionate; careful; almost the same",
+        "examples": [
+            {
+                "code": "close_example_the-school-is-very-close-to-your-house",
+                "text": "The school is very close to your house."
+            },
+            {
+                "code": "close_example_that-car-came-dangerously-close-to-us",
+                "text": "That car came dangerously close to us."
+            },
+            {
+                "code": "close_example_the-countries-are-geographically-close",
+                "text": "The countries are geographically close."
+            },
+            {
+                "code": "close_example_our-houses-are-close-together",
+                "text": "Our houses are close together."
+            },
+            {
+                "code": "close_example_the-two-sisters-are-extremely-close",
+                "text": "The two sisters are extremely close."
+            },
+            {
+                "code": "close_example_he-is-a-close-friend",
+                "text": "He is a close friend."
+            },
+            {
+                "code": "close_example_it-was-a-really-close-fight",
+                "text": "It was a really close fight."
+            },
+            {
+                "code": "close_example_i-ve-made-my-decision-after-close-consideration",
+                "text": "I've made my decision after close consideration."
+            },
+            {
+                "code": "close_example_she-is-very-close-to-her-sister",
+                "text": "She is very close to her sister."
+            }
+        ]
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "not joined or connected",
+        "examples": [
+            {
+                "code": "separate_example_meals-are-separate-from-the-hotel-package",
+                "text": "Meals are separate from the hotel package."
+            },
+            {
+                "code": "separate_example_the-bride-and-groom-will-remain-separate-until-the-wedding",
+                "text": "The bride and groom will remain separate until the wedding."
+            },
+            {
+                "code": "separate_example_boys-are-kept-separate-from-the-girls-at-camp",
+                "text": "Boys are kept separate from the girls at camp."
+            },
+            {
+                "code": "separate_example_i-kept-my-two-businesses-somewhat-separate",
+                "text": "I kept my two businesses somewhat separate."
+            },
+            {
+                "code": "separate_example_the-drinking-water-is-kept-entirely-separate-from-the-waste-water",
+                "text": "The drinking water is kept entirely separate from the waste water."
+            },
+            {
+                "code": "separate_example_they-may-be-physically-separate-but-they-are-together-emotionally",
+                "text": "They may be physically separate, but they are together emotionally."
+            },
+            {
+                "code": "separate_example_they-live-apparently-separate-lives",
+                "text": "They live apparently separate lives."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to keep things apart; to divide something; to not live together anymore",
+        "examples": [
+            {
+                "code": "separate_example_please-carefully-separate-the-wood-into-two-piles",
+                "text": "Please carefully separate the wood into two piles."
+            },
+            {
+                "code": "separate_example_sometimes-you-cannot-easily-separate-work-and-home",
+                "text": "Sometimes, you cannot easily separate work and home."
+            },
+            {
+                "code": "separate_example_the-couple-has-decided-to-legally-separate",
+                "text": "The couple has decided to legally separate."
+            },
+            {
+                "code": "separate_example_she-recently-separated-from-her-husband-of-30-years",
+                "text": "She recently separated from her husband of 30 years."
+            },
+            {
+                "code": "separate_example_mike-attempted-to-separate-the-two-men",
+                "text": "Mike attempted to separate the two men."
+            },
+            {
+                "code": "separate_example_they-have-decided-to-separate-after-all-these-years",
+                "text": "They have decided to separate after all these years."
+            },
+            {
+                "code": "separate_example_the-boys-will-be-separated-from-the-girls",
+                "text": "The boys will be separated from the girls."
+            },
+            {
+                "code": "separate_example_i-separated-the-items-into-four-piles",
+                "text": "I separated the items into four piles."
+            }
+        ]
+    }
+]

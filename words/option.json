@@ -1,0 +1,52 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a choice",
+        "examples": [
+            {
+                "code": "option_example_she-only-has-two-options",
+                "text": "She only has two options."
+            },
+            {
+                "code": "option_example_i-chose-the-best-option",
+                "text": "I chose the best option."
+            },
+            {
+                "code": "option_example_don-t-limit-your-options",
+                "text": "Don't limit your options."
+            },
+            {
+                "code": "option_example_weigh-your-options-carefully",
+                "text": "Weigh your options carefully."
+            },
+            {
+                "code": "option_example_you-should-leave-your-options-open",
+                "text": "You should leave your options open."
+            },
+            {
+                "code": "option_example_you-have-many-options-to-choose-from",
+                "text": "You have many options to choose from."
+            },
+            {
+                "code": "option_example_this-is-my-preferred-option",
+                "text": "This is my preferred option."
+            },
+            {
+                "code": "option_example_i-bought-some-stock-options",
+                "text": "I bought some stock options."
+            },
+            {
+                "code": "option_example_there-are-so-many-menu-options",
+                "text": "There are so many menu options."
+            },
+            {
+                "code": "option_example_there-are-no-easy-options",
+                "text": "There are no easy options."
+            },
+            {
+                "code": "option_example_we-re-going-with-the-cheap-option",
+                "text": "We're going with the cheap option."
+            }
+        ]
+    }
+]

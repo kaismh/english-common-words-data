@@ -1,0 +1,32 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "not interesting",
+        "examples": [
+            {
+                "code": "boring_example_the-movie-looks-boring",
+                "text": "The movie looks boring."
+            },
+            {
+                "code": "boring_example_his-lectures-make-class-boring",
+                "text": "His lectures make class boring."
+            },
+            {
+                "code": "boring_example_he-thinks-reading-is-boring",
+                "text": "He thinks reading is boring."
+            },
+            {
+                "code": "boring_example_i-find-this-to-be-boring",
+                "text": "I find this to be boring."
+            },
+            {
+                "code": "boring_example_the-book-was-extremely-boring",
+                "text": "The book was extremely boring."
+            },
+            {
+                "code": "boring_example_the-show-will-be-boring-for-children",
+                "text": "The show will be boring for children."
+            }
+        ]
+    }
+]

@@ -1,0 +1,80 @@
+[
+    {
+        "type": "(n)",
+        "mean": "artwork created with paint; the use of paint",
+        "examples": [
+            {
+                "code": "painting_example_my-daughter-made-this-painting",
+                "text": "My daughter made this painting."
+            },
+            {
+                "code": "painting_example_the-artist-finally-completed-her-last-painting",
+                "text": "The artist finally completed her last painting."
+            },
+            {
+                "code": "painting_example_let-s-go-to-the-art-museum-and-look-at-old-paintings",
+                "text": "Let's go to the art museum and look at old paintings."
+            },
+            {
+                "code": "painting_example_let-s-hang-up-the-new-painting",
+                "text": "Let's hang up the new painting."
+            },
+            {
+                "code": "painting_example_the-millionaire-collects-paintings",
+                "text": "The millionaire collects paintings."
+            },
+            {
+                "code": "painting_example_the-museum-copies-expensive-paintings",
+                "text": "The museum copies expensive paintings."
+            },
+            {
+                "code": "painting_example_i-really-like-your-painting-style",
+                "text": "I really like your painting style."
+            },
+            {
+                "code": "painting_example_i-want-to-take-painting-classes-this-summer",
+                "text": "I want to take painting classes this summer."
+            },
+            {
+                "code": "painting_example_what-kind-of-painting-supplies-will-i-need",
+                "text": "What kind of painting supplies will I need?"
+            },
+            {
+                "code": "painting_example_this-painting-surface-is-too-rough",
+                "text": "This painting surface is too rough."
+            },
+            {
+                "code": "painting_example_at-the-museum-we-saw-several-landscape-paintings",
+                "text": "At the museum, we saw several landscape paintings."
+            },
+            {
+                "code": "painting_example_they-have-many-great-paintings-hanging-in-their-home",
+                "text": "They have many great paintings hanging in their home."
+            },
+            {
+                "code": "painting_example_the-gallery-is-showing-several-contemporary-paintings",
+                "text": "The gallery is showing several contemporary paintings."
+            },
+            {
+                "code": "painting_example_that-is-the-worst-painting-i-have-ever-seen",
+                "text": "That is the worst painting I have ever seen."
+            },
+            {
+                "code": "painting_example_who-owns-the-original-painting",
+                "text": "Who owns the original painting?"
+            },
+            {
+                "code": "painting_example_the-man-in-the-painting-is-my-grandfather",
+                "text": "The man in the painting is my grandfather."
+            },
+            {
+                "code": "painting_example_the-painting-on-the-wall-is-by-a-famous-french-artist",
+                "text": "The painting on the wall is by a famous French artist."
+            },
+            {
+                "code": "painting_example_i-really-like-that-painting-of-your-cat",
+                "text": "I really like that painting of your cat."
+            }
+        ]
+    }
+]

@@ -1,0 +1,106 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "not moving; not making a sound",
+        "examples": [
+            {
+                "code": "still_example_the-lake-is-very-still-at-night",
+                "text": "The lake is very still at night."
+            },
+            {
+                "code": "still_example_when-he-heard-the-news-he-stood-completely-still",
+                "text": "When he heard the news, he stood completely still."
+            },
+            {
+                "code": "still_example_the-house-felt-strangely-still",
+                "text": "The house felt strangely still."
+            }
+        ]
+    },
+    {
+        "type": "(adv)",
+        "mean": "not moving; continuing to happen",
+        "examples": [
+            {
+                "code": "still_example_please-hold-still-for-a-minute",
+                "text": "Please hold still for a minute."
+            },
+            {
+                "code": "still_example_she-held-the-child-still-while-the-nurse-treated-him",
+                "text": "She held the child still while the nurse treated him."
+            },
+            {
+                "code": "still_example_my-grandmother-still-amazes-me-with-her-physical-activities",
+                "text": "My grandmother still amazes me with her physical activities."
+            },
+            {
+                "code": "still_example_he-still-dreams-about-being-a-basketball-player",
+                "text": "He still dreams about being a basketball player."
+            },
+            {
+                "code": "still_example_the-pain-still-exists",
+                "text": "The pain still exists."
+            },
+            {
+                "code": "still_example_the-car-may-be-old-but-it-still-works",
+                "text": "The car may be old, but it still works."
+            },
+            {
+                "code": "still_example_i-still-hate-her",
+                "text": "I still hate her."
+            },
+            {
+                "code": "still_example_i-still-need-some-help",
+                "text": "I still need some help."
+            },
+            {
+                "code": "still_example_i-still-prefer-beef-over-chicken",
+                "text": "I still prefer beef over chicken."
+            },
+            {
+                "code": "still_example_i-still-remember-my-first-love",
+                "text": "I still remember my first love."
+            },
+            {
+                "code": "still_example_she-is-still-sitting-there",
+                "text": "She is still sitting there."
+            },
+            {
+                "code": "still_example_my-fish-still-survived-after-not-being-fed-for-weeks",
+                "text": "My fish still survived after not being fed for weeks."
+            },
+            {
+                "code": "still_example_she-is-still-asleep",
+                "text": "She is still asleep."
+            },
+            {
+                "code": "still_example_he-is-still-better-at-chess-than-me",
+                "text": "He is still better at chess than me."
+            },
+            {
+                "code": "still_example_it-is-still-bright-outside",
+                "text": "It is still bright outside."
+            },
+            {
+                "code": "still_example_i-m-still-angry-at-him",
+                "text": "I'm still angry at him."
+            },
+            {
+                "code": "still_example_i-m-still-interested-in-the-car",
+                "text": "I'm still interested in the car."
+            },
+            {
+                "code": "still_example_the-scar-is-still-visible",
+                "text": "The scar is still visible."
+            },
+            {
+                "code": "still_example_i-m-still-uncertain-about-college",
+                "text": "I'm still uncertain about college."
+            },
+            {
+                "code": "still_example_is-it-still-possible-to-use-these-tickets",
+                "text": "Is it still possible to use these tickets?"
+            }
+        ]
+    }
+]

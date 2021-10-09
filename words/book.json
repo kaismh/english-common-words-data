@@ -1,0 +1,142 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a set of printed pages bound together; money records",
+        "examples": [
+            {
+                "code": "book_example_the-author-s-latest-book-should-be-very-popular",
+                "text": "The author's latest book should be very popular."
+            },
+            {
+                "code": "book_example_the-library-has-many-books",
+                "text": "The library has many books."
+            },
+            {
+                "code": "book_example_this-store-only-carries-best-selling-books",
+                "text": "This store only carries best-selling books."
+            },
+            {
+                "code": "book_example_i-m-looking-for-a-children-s-book",
+                "text": "I'm looking for a children's book."
+            },
+            {
+                "code": "book_example_this-book-is-excellent",
+                "text": "This book is excellent."
+            },
+            {
+                "code": "book_example_his-first-book-is-very-famous",
+                "text": "His first book is very famous."
+            },
+            {
+                "code": "book_example_open-your-text-books",
+                "text": "Open your text books."
+            },
+            {
+                "code": "book_example_she-lost-her-address-book",
+                "text": "She lost her address book."
+            },
+            {
+                "code": "book_example_this-is-my-favorite-book",
+                "text": "This is my favorite book."
+            },
+            {
+                "code": "book_example_i-read-a-book-while-waiting-for-my-turn",
+                "text": "I read a book while waiting for my turn."
+            },
+            {
+                "code": "book_example_i-m-not-looking-forward-to-studying-this-book",
+                "text": "I'm not looking forward to studying this book."
+            },
+            {
+                "code": "book_example_please-open-your-books",
+                "text": "Please open your books."
+            },
+            {
+                "code": "book_example_who-authored-this-book",
+                "text": "Who authored this book?"
+            },
+            {
+                "code": "book_example_this-book-has-been-reprinted-many-times",
+                "text": "This book has been reprinted many times."
+            },
+            {
+                "code": "book_example_she-illustrates-children-s-books",
+                "text": "She illustrates children's books."
+            },
+            {
+                "code": "book_example_the-book-was-banned-in-this-country",
+                "text": "The book was banned in this country."
+            },
+            {
+                "code": "book_example_libraries-let-us-check-out-books",
+                "text": "Libraries let us check out books."
+            },
+            {
+                "code": "book_example_she-keeps-the-company-s-account-books",
+                "text": "She keeps the company's account books."
+            },
+            {
+                "code": "book_example_what-s-the-book-title",
+                "text": "What's the book title?"
+            },
+            {
+                "code": "book_example_he-s-a-book-reviewer",
+                "text": "He's a book reviewer."
+            },
+            {
+                "code": "book_example_we-belong-to-a-book-club",
+                "text": "We belong to a book club."
+            },
+            {
+                "code": "book_example_don-t-forget-your-book-bag",
+                "text": "Don't forget your book bag."
+            },
+            {
+                "code": "book_example_the-answer-is-found-in-his-latest-book",
+                "text": "The answer is found in his latest book."
+            },
+            {
+                "code": "book_example_he-is-writing-a-book-about-his-life-experiences",
+                "text": "He is writing a book about his life experiences."
+            },
+            {
+                "code": "book_example_i-love-books-by-ernest-hemingway",
+                "text": "I love books by Ernest Hemingway."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to reserve; to arrange for something in advance",
+        "examples": [
+            {
+                "code": "book_example_i-booked-a-hotel-in-advance",
+                "text": "I booked a hotel in advance."
+            },
+            {
+                "code": "book_example_can-we-book-tickets-online",
+                "text": "Can we book tickets online?"
+            },
+            {
+                "code": "book_example_we-booked-our-travels-with-an-agent",
+                "text": "We booked our travels with an agent."
+            },
+            {
+                "code": "book_example_i-booked-an-appointment-with-the-doctor",
+                "text": "I booked an appointment with the doctor."
+            },
+            {
+                "code": "book_example_he-booked-a-reservation-at-my-favorite-restaurant",
+                "text": "He booked a reservation at my favorite restaurant."
+            },
+            {
+                "code": "book_example_we-booked-a-flight-to-hawaii",
+                "text": "We booked a flight to Hawaii."
+            },
+            {
+                "code": "book_example_she-booked-a-hotel-near-the-beach",
+                "text": "She booked a hotel near the beach."
+            }
+        ]
+    }
+]

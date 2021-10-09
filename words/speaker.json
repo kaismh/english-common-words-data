@@ -1,0 +1,40 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a person who delivers a speech or lecture; a person who speaks in public; the device where sound comes out of",
+        "examples": [
+            {
+                "code": "speaker_example_the-city-mayor-was-the-main-speaker",
+                "text": "The city mayor was the main speaker."
+            },
+            {
+                "code": "speaker_example_she-is-a-great-speaker",
+                "text": "She is a great speaker."
+            },
+            {
+                "code": "speaker_example_you-have-to-be-a-good-public-speaker-to-be-a-politician",
+                "text": "You have to be a good public speaker to be a politician."
+            },
+            {
+                "code": "speaker_example_there-is-no-sound-coming-from-the-left-speaker",
+                "text": "There is no sound coming from the left speaker."
+            },
+            {
+                "code": "speaker_example_music-is-blaring-from-the-stereo-speakers",
+                "text": "Music is blaring from the stereo speakers."
+            },
+            {
+                "code": "speaker_example_the-annual-conference-features-several-speakers",
+                "text": "The annual conference features several speakers."
+            },
+            {
+                "code": "speaker_example_she-was-invited-to-the-college-graduation-as-a-speaker",
+                "text": "She was invited to the college graduation as a speaker."
+            },
+            {
+                "code": "speaker_example_he-was-the-keynote-speaker-at-the-annual-meeting",
+                "text": "He was the keynote speaker at the annual meeting."
+            }
+        ]
+    }
+]

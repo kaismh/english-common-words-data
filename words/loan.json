@@ -1,0 +1,98 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the amount of money that a bank lends to someone; something that is borrowed",
+        "examples": [
+            {
+                "code": "loan_example_the-company-is-applying-for-a-large-loan",
+                "text": "The company is applying for a large loan."
+            },
+            {
+                "code": "loan_example_i-m-interested-in-a-long-term-loan",
+                "text": "I'm interested in a long-term loan."
+            },
+            {
+                "code": "loan_example_he-ended-up-with-a-high-interest-loan",
+                "text": "He ended up with a high-interest loan."
+            },
+            {
+                "code": "loan_example_they-are-trying-to-pay-off-their-outstanding-loan",
+                "text": "They are trying to pay off their outstanding loan."
+            },
+            {
+                "code": "loan_example_we-are-applying-for-a-loan",
+                "text": "We are applying for a loan."
+            },
+            {
+                "code": "loan_example_i-had-to-take-out-a-loan-to-buy-a-car",
+                "text": "I had to take out a loan to buy a car."
+            },
+            {
+                "code": "loan_example_the-bank-offered-to-give-us-a-loan",
+                "text": "The bank offered to give us a loan."
+            },
+            {
+                "code": "loan_example_she-needs-to-pay-back-her-student-loan",
+                "text": "She needs to pay back her student loan."
+            },
+            {
+                "code": "loan_example_he-submitted-his-loan-application",
+                "text": "He submitted his loan application."
+            },
+            {
+                "code": "loan_example_we-signed-the-loan-agreement-today",
+                "text": "We signed the loan agreement today."
+            },
+            {
+                "code": "loan_example_she-is-meeting-with-her-loan-officer",
+                "text": "She is meeting with her loan officer."
+            },
+            {
+                "code": "loan_example_she-got-a-loan-from-the-bank",
+                "text": "She got a loan from the bank."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to lend money or something to someone",
+        "examples": [
+            {
+                "code": "loan_example_the-bank-loaned-us-money",
+                "text": "The bank loaned us money."
+            },
+            {
+                "code": "loan_example_could-you-please-loan-us-your-tools",
+                "text": "Could you please loan us your tools?."
+            },
+            {
+                "code": "loan_example_thank-you-for-loaning-us-some-money",
+                "text": "Thank you for loaning us some money."
+            },
+            {
+                "code": "loan_example_could-you-please-loan-us-your-tools",
+                "text": "Could you please loan us your tools?"
+            },
+            {
+                "code": "loan_example_the-bank-would-not-loan-us-any-money",
+                "text": "The bank would not loan us any money."
+            },
+            {
+                "code": "loan_example_you-have-already-loaned-us-enough",
+                "text": "You have already loaned us enough."
+            },
+            {
+                "code": "loan_example_i-will-loan-you-enough-for-two-months",
+                "text": "I will loan you enough for two months."
+            },
+            {
+                "code": "loan_example_stop-loaning-them-money",
+                "text": "Stop loaning them money."
+            },
+            {
+                "code": "loan_example_i-can-t-keep-loaning-you-money",
+                "text": "I can't keep loaning you money."
+            }
+        ]
+    }
+]

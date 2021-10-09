@@ -1,0 +1,44 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to try to find out the facts or information about an incident",
+        "examples": [
+            {
+                "code": "investigate_example_the-police-are-carefully-investigating-the-accident",
+                "text": "The police are carefully investigating the accident."
+            },
+            {
+                "code": "investigate_example_researchers-are-experimentally-investigating-the-new-bacteria",
+                "text": "Researchers are experimentally investigating the new bacteria."
+            },
+            {
+                "code": "investigate_example_a-detective-has-been-called-in-to-investigate-the-case",
+                "text": "A detective has been called in to investigate the case."
+            },
+            {
+                "code": "investigate_example_he-decided-to-investigate-the-situation-by-himself",
+                "text": "He decided to investigate the situation by himself."
+            },
+            {
+                "code": "investigate_example_the-company-has-promised-to-investigate-the-complaints",
+                "text": "The company has promised to investigate the complaints."
+            },
+            {
+                "code": "investigate_example_he-is-being-investigated-for-a-crime",
+                "text": "He is being investigated for a crime."
+            },
+            {
+                "code": "investigate_example_the-detective-is-investigating-the-motive-for-murder",
+                "text": "The detective is investigating the motive for murder."
+            },
+            {
+                "code": "investigate_example_the-police-have-been-called-in-to-investigate-the-abuse",
+                "text": "The police have been called in to investigate the abuse."
+            },
+            {
+                "code": "investigate_example_we-are-investigating-the-effects-of-the-new-drug",
+                "text": "We are investigating the effects of the new drug."
+            }
+        ]
+    }
+]

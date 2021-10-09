@@ -1,0 +1,52 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to begin or start",
+        "examples": [
+            {
+                "code": "become_example_he-became-an-alcoholic-at-an-early-age",
+                "text": "He became an alcoholic at an early age."
+            },
+            {
+                "code": "become_example_his-problems-have-become-a-burden-to-his-family",
+                "text": "His problems have become a burden to his family."
+            },
+            {
+                "code": "become_example_they-became-friends-in-college",
+                "text": "They became friends in college."
+            },
+            {
+                "code": "become_example_she-became-a-fan-after-watching-her-first-baseball-game",
+                "text": "She became a fan after watching her first baseball game."
+            },
+            {
+                "code": "become_example_going-home-for-the-holidays-has-become-a-tradition",
+                "text": "Going home for the holidays has become a tradition."
+            },
+            {
+                "code": "become_example_having-a-baby-is-becoming-a-reality",
+                "text": "Having a baby is becoming a reality."
+            },
+            {
+                "code": "become_example_he-is-becoming-the-focus-of-the-investigation",
+                "text": "He is becoming the focus of the investigation."
+            },
+            {
+                "code": "become_example_he-is-becoming-great-at-golf",
+                "text": "He is becoming great at golf."
+            },
+            {
+                "code": "become_example_she-became-sad-after-she-heard-the-news",
+                "text": "She became sad after she heard the news."
+            },
+            {
+                "code": "become_example_she-became-lonely-after-her-husband-passed-away",
+                "text": "She became lonely after her husband passed away."
+            },
+            {
+                "code": "become_example_the-kids-became-excited-about-their-trip-to-disneyland",
+                "text": "The kids became excited about their trip to Disneyland."
+            }
+        ]
+    }
+]

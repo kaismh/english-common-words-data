@@ -1,0 +1,110 @@
+[
+    {
+        "type": "(n)",
+        "mean": "something or someone that helps you plan your activities; a book that gives information about places or things",
+        "examples": [
+            {
+                "code": "guide_example_this-book-is-an-essential-guide-for-international-travelers",
+                "text": "This book is an essential guide for international travelers."
+            },
+            {
+                "code": "guide_example_he-gave-me-a-handy-guide-on-the-local-customs",
+                "text": "He gave me a handy guide on the local customs."
+            },
+            {
+                "code": "guide_example_i-need-a-step-by-step-guide-on-building-a-deck",
+                "text": "I need a step-by-step guide on building a deck."
+            },
+            {
+                "code": "guide_example_do-you-have-an-illustrated-guide-on-birds",
+                "text": "Do you have an illustrated guide on birds?"
+            },
+            {
+                "code": "guide_example_i-made-a-study-guide-on-physics",
+                "text": "I made a study guide on physics."
+            },
+            {
+                "code": "guide_example_she-wants-to-be-a-tour-guide",
+                "text": "She wants to be a tour guide."
+            },
+            {
+                "code": "guide_example_we-hired-an-experienced-guide-to-show-us-around",
+                "text": "We hired an experienced guide to show us around."
+            },
+            {
+                "code": "guide_example_i-need-a-travel-guide-before-our-trip",
+                "text": "I need a travel guide before our trip."
+            },
+            {
+                "code": "guide_example_he-gave-us-brief-guide-about-the-project",
+                "text": "He gave us brief guide about the project."
+            },
+            {
+                "code": "guide_example_they-gave-us-a-general-guide",
+                "text": "They gave us a general guide."
+            },
+            {
+                "code": "guide_example_use-this-as-a-guide-for-your-decision",
+                "text": "Use this as a guide for your decision."
+            },
+            {
+                "code": "guide_example_he-writes-travel-guides",
+                "text": "He writes travel guides."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to show the way; to influence; to explain or give information",
+        "examples": [
+            {
+                "code": "guide_example_the-teacher-expertly-guided-them-through-test-preparations",
+                "text": "The teacher expertly guided them through test preparations."
+            },
+            {
+                "code": "guide_example_he-carefully-guided-her-across-the-street",
+                "text": "He carefully guided her across the street."
+            },
+            {
+                "code": "guide_example_the-new-information-helped-to-guide-their-decision",
+                "text": "The new information helped to guide their decision."
+            },
+            {
+                "code": "guide_example_he-tried-to-guide-their-actions",
+                "text": "He tried to guide their actions."
+            },
+            {
+                "code": "guide_example_she-helps-guide-students-through-the-enrollment-process",
+                "text": "She helps guide students through the enrollment process."
+            },
+            {
+                "code": "guide_example_this-sheet-guides-you-on-the-new-rules",
+                "text": "This sheet guides you on the new rules."
+            },
+            {
+                "code": "guide_example_he-guided-me-in-my-studies",
+                "text": "He guided me in my studies."
+            },
+            {
+                "code": "guide_example_she-guided-me-across-the-road",
+                "text": "She guided me across the road."
+            },
+            {
+                "code": "guide_example_he-guided-her-to-a-chair",
+                "text": "He guided her to a chair."
+            },
+            {
+                "code": "guide_example_he-helped-to-guide-the-design",
+                "text": "He helped to guide the design."
+            },
+            {
+                "code": "guide_example_she-guided-the-traveler-through-the-country",
+                "text": "She guided the traveler through the country."
+            },
+            {
+                "code": "guide_example_the-coast-guard-guided-the-boat-to-safety",
+                "text": "The coast guard guided the boat to safety."
+            }
+        ]
+    }
+]

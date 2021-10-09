@@ -1,0 +1,44 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the knowing of something that is present or is happening",
+        "examples": [
+            {
+                "code": "awareness_example_people-should-have-greater-awareness-of-their-environment-at-night",
+                "text": "People should have greater awareness of their environment at night."
+            },
+            {
+                "code": "awareness_example_there-is-a-growing-awareness-of-crime-in-that-neighborhood",
+                "text": "There is a growing awareness of crime in that neighborhood."
+            },
+            {
+                "code": "awareness_example_most-traffic-accidents-can-be-avoided-with-conscious-awareness",
+                "text": "Most traffic accidents can be avoided with conscious awareness."
+            },
+            {
+                "code": "awareness_example_he-s-working-to-promote-environmental-awareness",
+                "text": "He's working to promote environmental awareness."
+            },
+            {
+                "code": "awareness_example_we-are-trying-to-raise-public-awareness-for-heart-disease",
+                "text": "We are trying to raise public awareness for heart disease."
+            },
+            {
+                "code": "awareness_example_people-now-have-greater-international-awareness",
+                "text": "People now have greater international awareness."
+            },
+            {
+                "code": "awareness_example_the-organization-is-trying-to-raise-more-awareness-for-breast-cancer",
+                "text": "The organization is trying to raise more awareness for breast cancer."
+            },
+            {
+                "code": "awareness_example_there-seems-to-be-growing-environmental-awareness-among-young-people",
+                "text": "There seems to be growing environmental awareness among young people."
+            },
+            {
+                "code": "awareness_example_health-organizations-are-trying-to-increase-awareness-of-the-dangers-of-smoking",
+                "text": "Health organizations are trying to increase awareness of the dangers of smoking."
+            }
+        ]
+    }
+]

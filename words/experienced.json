@@ -1,0 +1,56 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "having knowledge or skill in a specific job or activity",
+        "examples": [
+            {
+                "code": "experienced_example_he-is-an-experienced-teacher",
+                "text": "He is an experienced teacher."
+            },
+            {
+                "code": "experienced_example_the-candidates-seem-experienced",
+                "text": "The candidates seem experienced."
+            },
+            {
+                "code": "experienced_example_she-is-trying-to-become-more-experienced",
+                "text": "She is trying to become more experienced."
+            },
+            {
+                "code": "experienced_example_he-is-an-extremely-experienced-pilot",
+                "text": "He is an extremely experienced pilot."
+            },
+            {
+                "code": "experienced_example_she-is-quite-experienced-as-a-photographer",
+                "text": "She is quite experienced as a photographer."
+            },
+            {
+                "code": "experienced_example_he-is-an-experienced-lawyer",
+                "text": "He is an experienced lawyer."
+            },
+            {
+                "code": "experienced_example_we-need-an-experienced-actor-for-this-project",
+                "text": "We need an experienced actor for this project."
+            },
+            {
+                "code": "experienced_example_they-are-looking-for-an-experienced-professional-to-fix-this",
+                "text": "They are looking for an experienced professional to fix this."
+            },
+            {
+                "code": "experienced_example_they-want-an-experienced-guide-to-show-them-around",
+                "text": "They want an experienced guide to show them around."
+            },
+            {
+                "code": "experienced_example_this-program-is-geared-towards-experienced-users",
+                "text": "This program is geared towards experienced users."
+            },
+            {
+                "code": "experienced_example_they-have-a-very-experienced-staff-at-this-location",
+                "text": "They have a very experienced staff at this location."
+            },
+            {
+                "code": "experienced_example_i-need-an-experienced-eye-to-look-this-over",
+                "text": "I need an experienced eye to look this over."
+            }
+        ]
+    }
+]

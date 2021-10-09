@@ -1,0 +1,36 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "living; not dead; full of energy",
+        "examples": [
+            {
+                "code": "alive_example_the-injured-person-is-alive",
+                "text": "The injured person is alive."
+            },
+            {
+                "code": "alive_example_the-hostages-feared-they-would-not-get-out-alive",
+                "text": "The hostages feared they would not get out alive."
+            },
+            {
+                "code": "alive_example_the-criminal-was-captured-alive",
+                "text": "The criminal was captured alive."
+            },
+            {
+                "code": "alive_example_my-grandmother-came-alive-when-i-took-her-dancing",
+                "text": "My grandmother came alive when I took her dancing."
+            },
+            {
+                "code": "alive_example_she-is-truly-alive",
+                "text": "She is truly alive."
+            },
+            {
+                "code": "alive_example_the-city-became-suddenly-alive-when-the-parade-started",
+                "text": "The city became suddenly alive when the parade started."
+            },
+            {
+                "code": "alive_example_he-is-still-alive-with-a-small-chance-of-survival",
+                "text": "He is still alive with a small chance of survival."
+            }
+        ]
+    }
+]

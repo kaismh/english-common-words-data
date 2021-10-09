@@ -1,0 +1,66 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "in addition to the one just mentioned; one of a pair of something",
+        "examples": [
+            {
+                "code": "other_example_she-is-the-other-woman",
+                "text": "She is the other woman."
+            },
+            {
+                "code": "other_example_we-saw-a-movie-the-other-night",
+                "text": "We saw a movie the other night."
+            },
+            {
+                "code": "other_example_there-is-no-other-possibility",
+                "text": "There is no other possibility."
+            },
+            {
+                "code": "other_example_she-is-on-the-other-side",
+                "text": "She is on the other side."
+            },
+            {
+                "code": "other_example_we-have-other-matters-to-discuss",
+                "text": "We have other matters to discuss."
+            },
+            {
+                "code": "other_example_we-have-other-items-in-the-stockroom",
+                "text": "We have other items in the stockroom."
+            },
+            {
+                "code": "other_example_there-were-other-people-at-the-party",
+                "text": "There were other people at the party."
+            },
+            {
+                "code": "other_example_i-can-t-find-my-other-sock",
+                "text": "I can't find my other sock."
+            }
+        ]
+    },
+    {
+        "type": "(pro)",
+        "mean": "the rest or remaining",
+        "examples": [
+            {
+                "code": "other_example_where-are-the-others",
+                "text": "Where are the others?"
+            },
+            {
+                "code": "other_example_the-others-are-waiting-downstairs",
+                "text": "The others are waiting downstairs."
+            },
+            {
+                "code": "other_example_have-you-seen-the-others",
+                "text": "Have you seen the others?"
+            },
+            {
+                "code": "other_example_when-will-the-others-arrive",
+                "text": "When will the others arrive?"
+            },
+            {
+                "code": "other_example_i-can-t-find-the-others",
+                "text": "I can't find the others."
+            }
+        ]
+    }
+]

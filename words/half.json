@@ -1,0 +1,102 @@
+[
+    {
+        "type": "(n)",
+        "mean": "one of two equal parts",
+        "examples": [
+            {
+                "code": "half_example_we-are-in-the-first-half-of-the-game",
+                "text": "We are in the first half of the game."
+            },
+            {
+                "code": "half_example_this-was-common-in-the-last-half-of-the-century",
+                "text": "This was common in the last half of the century."
+            },
+            {
+                "code": "half_example_they-will-bat-in-the-top-half-of-the-inning",
+                "text": "They will bat in the top half of the inning."
+            },
+            {
+                "code": "half_example_they-broke-the-lower-half-of-the-door",
+                "text": "They broke the lower half of the door."
+            },
+            {
+                "code": "half_example_there-is-damage-to-the-right-half-of-his-brain",
+                "text": "There is damage to the right half of his brain."
+            },
+            {
+                "code": "half_example_power-is-out-in-the-northern-half-of-the-city",
+                "text": "Power is out in the northern half of the city."
+            },
+            {
+                "code": "half_example_the-fire-damaged-the-front-half-of-the-building",
+                "text": "The fire damaged the front half of the building."
+            },
+            {
+                "code": "half_example_save-the-remaining-half-of-the-cake-for-tomorrow",
+                "text": "Save the remaining half of the cake for tomorrow."
+            },
+            {
+                "code": "half_example_he-increased-his-average-by-half",
+                "text": "He increased his average by half."
+            },
+            {
+                "code": "half_example_divide-the-pie-in-half",
+                "text": "Divide the pie in half."
+            },
+            {
+                "code": "half_example_please-give-me-half-of-the-sandwich",
+                "text": "Please give me half of the sandwich."
+            }
+        ]
+    },
+    {
+        "type": "(adv)",
+        "mean": "not completely; partly",
+        "examples": [
+            {
+                "code": "half_example_he-must-be-half-crazy-to-do-something-like-that",
+                "text": "He must be half crazy to do something like that."
+            },
+            {
+                "code": "half_example_she-was-half-asleep",
+                "text": "She was half asleep."
+            },
+            {
+                "code": "half_example_i-left-the-door-half-open",
+                "text": "I left the door half open."
+            },
+            {
+                "code": "half_example_she-opened-the-door-half-naked",
+                "text": "She opened the door half naked."
+            },
+            {
+                "code": "half_example_i-am-only-half-convinced-he-is-innocent",
+                "text": "I am only half convinced he is innocent."
+            },
+            {
+                "code": "half_example_her-glass-is-half-empty-already",
+                "text": "Her glass is half empty already."
+            },
+            {
+                "code": "half_example_the-tank-is-half-full",
+                "text": "The tank is half full."
+            },
+            {
+                "code": "half_example_i-half-expected-him-to-show-up",
+                "text": "I half expected him to show up."
+            },
+            {
+                "code": "half_example_he-is-only-half-joking",
+                "text": "He is only half joking."
+            },
+            {
+                "code": "half_example_the-tree-half-hid-the-house",
+                "text": "The tree half hid the house."
+            },
+            {
+                "code": "half_example_i-only-half-listened-to-what-he-said",
+                "text": "I only half listened to what he said."
+            }
+        ]
+    }
+]

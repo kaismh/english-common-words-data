@@ -1,0 +1,108 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to explode with a sharp sound; to open suddenly or unexpectedly",
+        "examples": [
+            {
+                "code": "pop_example_she-popped-all-of-the-balloons",
+                "text": "She popped all of the balloons."
+            },
+            {
+                "code": "pop_example_he-popped-the-trunk-of-the-car",
+                "text": "He popped the trunk of the car."
+            },
+            {
+                "code": "pop_example_my-ears-always-pop-when-i-fly",
+                "text": "My ears always pop when I fly."
+            },
+            {
+                "code": "pop_example_let-s-pop-the-champagne",
+                "text": "Let's pop the champagne."
+            },
+            {
+                "code": "pop_example_i-popped-another-pill",
+                "text": "I popped another pill."
+            }
+        ]
+    },
+    {
+        "type": "(n)",
+        "mean": "popular music; a sweet, carbonated drink; a sharp sound",
+        "examples": [
+            {
+                "code": "pop_example_my-daughter-listens-to-classic-pop",
+                "text": "My daughter listens to classic pop."
+            },
+            {
+                "code": "pop_example_i-drink-soda-pop",
+                "text": "I drink soda pop."
+            },
+            {
+                "code": "pop_example_did-you-hear-the-sudden-pop",
+                "text": "Did you hear the sudden pop?"
+            },
+            {
+                "code": "pop_example_she-listens-to-pop-music",
+                "text": "She listens to pop music."
+            },
+            {
+                "code": "pop_example_she-drinks-soda-pop",
+                "text": "She drinks soda pop."
+            },
+            {
+                "code": "pop_example_the-lid-came-off-with-a-loud-pop",
+                "text": "The lid came off with a loud pop."
+            },
+            {
+                "code": "pop_example_he-knows-all-of-the-pop-classics",
+                "text": "He knows all of the pop classics."
+            },
+            {
+                "code": "pop_example_he-is-a-pop-artist",
+                "text": "He is a pop artist."
+            },
+            {
+                "code": "pop_example_they-formed-a-pop-band",
+                "text": "They formed a pop band."
+            },
+            {
+                "code": "pop_example_we-have-tickets-to-a-pop-concert",
+                "text": "We have tickets to a pop concert."
+            },
+            {
+                "code": "pop_example_they-recorded-a-pop-album",
+                "text": "They recorded a pop album."
+            },
+            {
+                "code": "pop_example_his-song-is-number-one-on-the-pop-charts",
+                "text": "His song is number one on the pop charts."
+            },
+            {
+                "code": "pop_example_she-is-obsessed-with-pop-culture",
+                "text": "She is obsessed with pop culture."
+            }
+        ]
+    },
+    {
+        "type": "(adj)",
+        "mean": "popular; sudden",
+        "examples": [
+            {
+                "code": "pop_example_we-love-pop-music",
+                "text": "We love pop music."
+            },
+            {
+                "code": "pop_example_we-had-a-pop-quiz-today",
+                "text": "We had a pop quiz today."
+            },
+            {
+                "code": "pop_example_i-love-that-new-pop-song",
+                "text": "I love that new pop song."
+            },
+            {
+                "code": "pop_example_pop-culture-is-reflected-on-tv",
+                "text": "Pop culture is reflected on TV."
+            }
+        ]
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "located in the direction that is on the left when the sun sets",
+        "examples": [
+            {
+                "code": "southern_example_her-mother-has-a-southern-accent",
+                "text": "Her mother has a southern accent."
+            },
+            {
+                "code": "southern_example_she-uses-her-southern-charm-to-get-what-she-wants",
+                "text": "She uses her southern charm to get what she wants."
+            },
+            {
+                "code": "southern_example_i-miss-my-mother-s-southern-cooking",
+                "text": "I miss my mother's southern cooking."
+            },
+            {
+                "code": "southern_example_there-is-nothing-better-than-southern-hospitality",
+                "text": "There is nothing better than southern hospitality."
+            },
+            {
+                "code": "southern_example_he-lives-on-the-southern-border-of-france",
+                "text": "He lives on the southern border of France."
+            },
+            {
+                "code": "southern_example_she-moved-to-the-southern-region-of-italy",
+                "text": "She moved to the southern region of Italy."
+            }
+        ]
+    }
+]

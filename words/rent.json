@@ -1,0 +1,82 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to pay money in order to use something; to receive money for letting someone use something; to lease",
+        "examples": [
+            {
+                "code": "rent_example_we-rented-a-house-in-june",
+                "text": "We rented a house in June."
+            },
+            {
+                "code": "rent_example_how-much-does-it-cost-to-rent-a-dvd",
+                "text": "How much does it cost to rent a DVD?"
+            }
+        ]
+    },
+    {
+        "type": "(n)",
+        "mean": "money paid by someone who is living or using someone else's property; lease money",
+        "examples": [
+            {
+                "code": "rent_example_i-can-t-afford-rent-this-month",
+                "text": "I can't afford rent this month."
+            },
+            {
+                "code": "rent_example_he-collects-rent-on-the-first-of-the-month",
+                "text": "He collects rent on the first of the month."
+            },
+            {
+                "code": "rent_example_my-landlady-raised-the-rent",
+                "text": "My landlady raised the rent."
+            },
+            {
+                "code": "rent_example_i-owe-rent-for-the-last-couple-of-months",
+                "text": "I owe rent for the last couple of months."
+            },
+            {
+                "code": "rent_example_she-charged-me-rent-even-though-i-had-moved-out",
+                "text": "She charged me rent even though I had moved out."
+            },
+            {
+                "code": "rent_example_the-rent-money-is-late-again",
+                "text": "The rent money is late again."
+            },
+            {
+                "code": "rent_example_we-are-expecting-another-rent-increase-next-year",
+                "text": "We are expecting another rent increase next year."
+            },
+            {
+                "code": "rent_example_the-rent-is-too-high",
+                "text": "The rent is too high."
+            },
+            {
+                "code": "rent_example_my-rent-is-pretty-low",
+                "text": "My rent is pretty low."
+            },
+            {
+                "code": "rent_example_i-have-some-unpaid-rent",
+                "text": "I have some unpaid rent."
+            },
+            {
+                "code": "rent_example_i-cannot-afford-the-increasing-rent",
+                "text": "I cannot afford the increasing rent."
+            },
+            {
+                "code": "rent_example_what-is-the-monthly-rent",
+                "text": "What is the monthly rent?"
+            },
+            {
+                "code": "rent_example_the-rent-for-the-month-is-600-00",
+                "text": "The rent for the month is $600.00."
+            },
+            {
+                "code": "rent_example_she-raised-the-rent-on-the-property",
+                "text": "She raised the rent on the property."
+            },
+            {
+                "code": "rent_example_they-received-rent-from-their-vacation-home",
+                "text": "They received rent from their vacation home."
+            }
+        ]
+    }
+]

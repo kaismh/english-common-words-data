@@ -1,0 +1,60 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "not fat or thick",
+        "examples": [
+            {
+                "code": "thin_example_her-legs-look-thin",
+                "text": "Her legs look thin."
+            },
+            {
+                "code": "thin_example_she-is-getting-too-thin",
+                "text": "She is getting too thin."
+            },
+            {
+                "code": "thin_example_how-do-you-stay-so-thin",
+                "text": "How do you stay so thin?"
+            },
+            {
+                "code": "thin_example_he-used-thin-paper",
+                "text": "He used thin paper."
+            },
+            {
+                "code": "thin_example_the-fabric-feels-too-thin",
+                "text": "The fabric feels too thin."
+            },
+            {
+                "code": "thin_example_the-walls-sounded-paper-thin",
+                "text": "The walls sounded paper thin."
+            },
+            {
+                "code": "thin_example_the-model-is-extremely-thin",
+                "text": "The model is extremely thin."
+            },
+            {
+                "code": "thin_example_her-frame-is-frighteningly-thin",
+                "text": "Her frame is frighteningly thin."
+            },
+            {
+                "code": "thin_example_the-dress-was-made-with-thin-fabric",
+                "text": "The dress was made with thin fabric."
+            },
+            {
+                "code": "thin_example_the-hut-is-made-with-thin-leaves",
+                "text": "The hut is made with thin leaves."
+            },
+            {
+                "code": "thin_example_he-drew-thin-lines",
+                "text": "He drew thin lines."
+            },
+            {
+                "code": "thin_example_she-has-thin-legs",
+                "text": "She has thin legs."
+            },
+            {
+                "code": "thin_example_he-was-cold-because-all-he-had-was-a-thin-jacket",
+                "text": "He was cold because all he had was a thin jacket."
+            }
+        ]
+    }
+]

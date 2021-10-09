@@ -1,0 +1,28 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a place where airplanes take off and land",
+        "examples": [
+            {
+                "code": "airport_example_los-angeles-is-home-to-a-major-airport",
+                "text": "Los Angeles is home to a major airport."
+            },
+            {
+                "code": "airport_example_that-is-a-small-airport",
+                "text": "That is a small airport."
+            },
+            {
+                "code": "airport_example_we-will-depart-from-the-airport-soon",
+                "text": "We will depart from the airport soon."
+            },
+            {
+                "code": "airport_example_there-are-many-people-inside-the-airport-terminal",
+                "text": "There are many people inside the airport terminal."
+            },
+            {
+                "code": "airport_example_they-need-to-retrain-airport-security",
+                "text": "They need to retrain airport security."
+            }
+        ]
+    }
+]

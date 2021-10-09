@@ -1,0 +1,74 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the way of handling a situation; the act of coming closer",
+        "examples": [
+            {
+                "code": "approach_example_i-ll-show-you-the-conventional-approach",
+                "text": "I'll show you the conventional approach."
+            },
+            {
+                "code": "approach_example_he-was-praised-for-taking-such-a-fresh-approach-to-the-problem",
+                "text": "He was praised for taking such a fresh approach to the problem."
+            },
+            {
+                "code": "approach_example_they-will-be-safer-with-a-more-cautious-approach",
+                "text": "They will be safer with a more cautious approach."
+            },
+            {
+                "code": "approach_example_our-boss-prefers-the-hands-on-approach-to-managing",
+                "text": "Our boss prefers the hands-on approach to managing."
+            },
+            {
+                "code": "approach_example_i-think-you-took-the-right-approach-to-parenting",
+                "text": "I think you took the right approach to parenting."
+            },
+            {
+                "code": "approach_example_the-soldiers-made-a-quick-approach-to-the-enemy-line",
+                "text": "The soldiers made a quick approach to the enemy line."
+            },
+            {
+                "code": "approach_example_i-use-a-more-traditional-approach-to-teaching",
+                "text": "I use a more traditional approach to teaching."
+            },
+            {
+                "code": "approach_example_we-ve-decided-to-adopt-a-new-approach",
+                "text": "We've decided to adopt a new approach."
+            },
+            {
+                "code": "approach_example_after-multiple-problems-i-m-going-to-abandon-this-approach",
+                "text": "After multiple problems, I'm going to abandon this approach."
+            },
+            {
+                "code": "approach_example_the-airplane-made-its-approach-to-the-airport",
+                "text": "The airplane made its approach to the airport."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to handle a situation; to come closer",
+        "examples": [
+            {
+                "code": "approach_example_always-approach-dogs-slowly",
+                "text": "Always approach dogs slowly."
+            },
+            {
+                "code": "approach_example_if-you-want-a-date-you-should-approach-her-directly",
+                "text": "If you want a date, you should approach her directly."
+            },
+            {
+                "code": "approach_example_the-police-approached-the-house-from-the-back",
+                "text": "The police approached the house from the back."
+            },
+            {
+                "code": "approach_example_i-approached-my-teacher-about-my-test-score",
+                "text": "I approached my teacher about my test score."
+            },
+            {
+                "code": "approach_example_i-approached-my-boss-for-a-raise",
+                "text": "I approached my boss for a raise."
+            }
+        ]
+    }
+]

@@ -1,0 +1,70 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "located on the other side of something; totally different",
+        "examples": [
+            {
+                "code": "opposite_example_i-am-on-the-opposite-side-of-the-fence",
+                "text": "I am on the opposite side of the fence."
+            },
+            {
+                "code": "opposite_example_they-are-on-opposite-teams",
+                "text": "They are on opposite teams."
+            },
+            {
+                "code": "opposite_example_they-live-in-opposite-directions",
+                "text": "They live in opposite directions."
+            },
+            {
+                "code": "opposite_example_i-stood-on-the-opposite-side",
+                "text": "I stood on the opposite side."
+            },
+            {
+                "code": "opposite_example_the-drug-had-the-opposite-effect-on-me",
+                "text": "The drug had the opposite effect on me."
+            },
+            {
+                "code": "opposite_example_there-is-an-illustration-on-the-opposite-page",
+                "text": "There is an illustration on the opposite page."
+            },
+            {
+                "code": "opposite_example_the-bed-was-placed-opposite-of-the-window",
+                "text": "The bed was placed opposite of the window."
+            }
+        ]
+    },
+    {
+        "type": "(n)",
+        "mean": "a person or thing that is completely different from someone or something else",
+        "examples": [
+            {
+                "code": "opposite_example_they-say-that-opposites-attract",
+                "text": "They say that opposites attract."
+            },
+            {
+                "code": "opposite_example_i-am-the-total-opposite-of-him",
+                "text": "I am the total opposite of him."
+            },
+            {
+                "code": "opposite_example_he-always-does-the-exact-opposite-of-what-he-s-told-to-do",
+                "text": "He always does the exact opposite of what he's told to do."
+            },
+            {
+                "code": "opposite_example_hot-is-the-opposite-of-cold",
+                "text": "'Hot' is the opposite of 'cold'."
+            },
+            {
+                "code": "opposite_example_the-words-on-and-off-are-opposites",
+                "text": "The words 'on' and 'off' are opposites."
+            },
+            {
+                "code": "opposite_example_the-sisters-are-opposites",
+                "text": "The sisters are opposites."
+            },
+            {
+                "code": "opposite_example_they-are-such-opposites",
+                "text": "They are such opposites."
+            }
+        ]
+    }
+]

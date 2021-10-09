@@ -1,0 +1,54 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a soft, gray metal that is used for jewelry, utensils, coins, and other objects",
+        "examples": [
+            {
+                "code": "silver_example_her-jewelry-is-made-of-pure-silver",
+                "text": "Her jewelry is made of pure silver."
+            },
+            {
+                "code": "silver_example_the-utensils-are-made-of-polished-silver",
+                "text": "The utensils are made of polished silver."
+            },
+            {
+                "code": "silver_example_they-are-mining-for-silver",
+                "text": "They are mining for silver."
+            },
+            {
+                "code": "silver_example_the-stone-is-set-in-silver",
+                "text": "The stone is set in silver."
+            },
+            {
+                "code": "silver_example_we-need-to-polish-our-silver",
+                "text": "We need to polish our silver."
+            }
+        ]
+    },
+    {
+        "type": "(adj)",
+        "mean": "made of silver; having the color of silver",
+        "examples": [
+            {
+                "code": "silver_example_sean-had-a-silver-buckle",
+                "text": "Sean had a silver buckle."
+            },
+            {
+                "code": "silver_example_i-rang-the-silver-bell",
+                "text": "I rang the silver bell."
+            },
+            {
+                "code": "silver_example_that-is-an-expensive-silver-plate",
+                "text": "That is an expensive silver plate."
+            },
+            {
+                "code": "silver_example_he-was-awarded-the-silver-medal",
+                "text": "He was awarded the silver medal."
+            },
+            {
+                "code": "silver_example_he-collects-rare-silver-coins",
+                "text": "He collects rare silver coins."
+            }
+        ]
+    }
+]

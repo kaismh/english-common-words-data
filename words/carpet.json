@@ -1,0 +1,56 @@
+[
+    {
+        "type": "(n)",
+        "mean": "soft material used to cover the floor",
+        "examples": [
+            {
+                "code": "carpet_example_the-hotel-room-has-shag-carpet",
+                "text": "The hotel room has shag carpet."
+            },
+            {
+                "code": "carpet_example_we-should-replace-the-stained-carpet",
+                "text": "We should replace the stained carpet."
+            },
+            {
+                "code": "carpet_example_the-story-was-about-a-flying-carpet",
+                "text": "The story was about a flying carpet."
+            },
+            {
+                "code": "carpet_example_the-house-has-wall-to-wall-carpet",
+                "text": "The house has wall-to-wall carpet."
+            },
+            {
+                "code": "carpet_example_we-decided-to-install-patterned-carpet",
+                "text": "We decided to install patterned carpet."
+            },
+            {
+                "code": "carpet_example_this-company-makes-carpet",
+                "text": "This company makes carpet."
+            },
+            {
+                "code": "carpet_example_we-need-to-clean-the-carpet",
+                "text": "We need to clean the carpet."
+            },
+            {
+                "code": "carpet_example_we-rolled-up-the-carpet-to-see-what-was-underneath",
+                "text": "We rolled up the carpet to see what was underneath."
+            },
+            {
+                "code": "carpet_example_i-need-to-purchase-a-roll-of-carpet",
+                "text": "I need to purchase a roll of carpet."
+            },
+            {
+                "code": "carpet_example_we-like-this-carpet-design",
+                "text": "We like this carpet design."
+            },
+            {
+                "code": "carpet_example_they-re-installing-carpet-tiles",
+                "text": "They're installing carpet tiles."
+            },
+            {
+                "code": "carpet_example_i-m-a-carpet-cleaner",
+                "text": "I'm a carpet cleaner."
+            }
+        ]
+    }
+]

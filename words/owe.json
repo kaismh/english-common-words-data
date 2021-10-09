@@ -1,0 +1,32 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to have to pay money to someone; to give someone something in return because he or she did something for you",
+        "examples": [
+            {
+                "code": "owe_example_i-owe-them-money",
+                "text": "I owe them money."
+            },
+            {
+                "code": "owe_example_i-owe-you-an-apology",
+                "text": "I owe you an apology."
+            },
+            {
+                "code": "owe_example_i-owe-you-a-big-favor",
+                "text": "I owe you a big favor."
+            },
+            {
+                "code": "owe_example_she-owes-rent-to-her-landlord",
+                "text": "She owes rent to her landlord."
+            },
+            {
+                "code": "owe_example_we-owe-our-existence-to-them",
+                "text": "We owe our existence to them."
+            },
+            {
+                "code": "owe_example_i-owe-all-of-my-success-to-him",
+                "text": "I owe all of my success to him."
+            }
+        ]
+    }
+]

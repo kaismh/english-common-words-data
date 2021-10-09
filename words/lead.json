@@ -1,0 +1,122 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to show the way; to cause",
+        "examples": [
+            {
+                "code": "lead_example_the-police-led-him-back-to-prison",
+                "text": "The police led him back to prison."
+            },
+            {
+                "code": "lead_example_she-led-him-out-of-the-house",
+                "text": "She led him out of the house."
+            },
+            {
+                "code": "lead_example_he-led-him-directly-to-the-hospital",
+                "text": "He led him directly to the hospital."
+            },
+            {
+                "code": "lead_example_anger-usually-leads-to-bad-choices",
+                "text": "Anger usually leads to bad choices."
+            },
+            {
+                "code": "lead_example_she-finally-led-him-to-the-prize",
+                "text": "She finally led him to the prize."
+            },
+            {
+                "code": "lead_example_overeating-can-easily-lead-to-obesity",
+                "text": "Overeating can easily lead to obesity."
+            },
+            {
+                "code": "lead_example_let-me-lead-the-way",
+                "text": "Let me lead the way."
+            },
+            {
+                "code": "lead_example_she-is-helping-to-lead-a-group-discussion",
+                "text": "She is helping to lead a group discussion."
+            },
+            {
+                "code": "lead_example_she-led-them-along-a-dark-hallway",
+                "text": "She led them along a dark hallway."
+            },
+            {
+                "code": "lead_example_his-comments-led-to-his-resignation",
+                "text": "His comments led to his resignation."
+            }
+        ]
+    },
+    {
+        "type": "(n)",
+        "mean": "an example to follow; a position at the front; the main role in a movie, film, or play; a clue to an unsolved crime",
+        "examples": [
+            {
+                "code": "lead_example_he-has-a-big-lead-over-the-other-marathon-cyclists",
+                "text": "He has a big lead over the other marathon cyclists."
+            },
+            {
+                "code": "lead_example_she-is-ahead-by-just-a-narrow-lead",
+                "text": "She is ahead by just a narrow lead."
+            },
+            {
+                "code": "lead_example_the-team-s-overall-lead-helped-them-win-the-final-competition",
+                "text": "The team's overall lead helped them win the final competition."
+            },
+            {
+                "code": "lead_example_i-got-the-romantic-lead-in-the-movie",
+                "text": "I got the romantic lead in the movie."
+            },
+            {
+                "code": "lead_example_the-police-have-some-promising-leads-in-the-murder-case",
+                "text": "The police have some promising leads in the murder case."
+            },
+            {
+                "code": "lead_example_he-should-take-the-lead-in-solving-this-issue",
+                "text": "He should take the lead in solving this issue."
+            },
+            {
+                "code": "lead_example_she-has-a-narrow-lead-over-the-other-cyclists",
+                "text": "She has a narrow lead over the other cyclists."
+            },
+            {
+                "code": "lead_example_his-team-took-an-early-lead",
+                "text": "His team took an early lead."
+            },
+            {
+                "code": "lead_example_the-runner-maintained-the-lead",
+                "text": "The runner maintained the lead."
+            },
+            {
+                "code": "lead_example_they-regained-the-lead-during-the-last-quarter",
+                "text": "They regained the lead during the last quarter."
+            },
+            {
+                "code": "lead_example_she-is-playing-the-lead-in-the-new-romantic-movie",
+                "text": "She is playing the lead in the new romantic movie."
+            },
+            {
+                "code": "lead_example_did-the-police-find-any-new-leads",
+                "text": "Did the police find any new leads?"
+            },
+            {
+                "code": "lead_example_they-were-fighting-to-stay-in-the-lead",
+                "text": "They were fighting to stay in the lead."
+            },
+            {
+                "code": "lead_example_the-runner-gave-their-team-the-lead-over-their-opponent",
+                "text": "The runner gave their team the lead over their opponent."
+            },
+            {
+                "code": "lead_example_are-there-any-new-leads-on-the-murder-case",
+                "text": "Are there any new leads on the murder case?"
+            },
+            {
+                "code": "lead_example_he-is-the-lead-character-in-the-movie",
+                "text": "He is the lead character in the movie."
+            },
+            {
+                "code": "lead_example_she-is-the-lead-singer-of-the-band",
+                "text": "She is the lead singer of the band."
+            }
+        ]
+    }
+]

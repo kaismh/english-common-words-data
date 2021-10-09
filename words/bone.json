@@ -1,0 +1,48 @@
+[
+    {
+        "type": "(n)",
+        "mean": "one of the hard parts of the human or animal skeleton",
+        "examples": [
+            {
+                "code": "bone_example_drink-milk-for-healthy-bones",
+                "text": "Drink milk for healthy bones."
+            },
+            {
+                "code": "bone_example_my-grandfather-has-brittle-bones",
+                "text": "My grandfather has brittle bones."
+            },
+            {
+                "code": "bone_example_football-causes-many-broken-bones",
+                "text": "Football causes many broken bones."
+            },
+            {
+                "code": "bone_example_we-saw-animal-bones-in-the-desert",
+                "text": "We saw animal bones in the desert."
+            },
+            {
+                "code": "bone_example_he-hurt-his-ankle-bone",
+                "text": "He hurt his ankle bone."
+            },
+            {
+                "code": "bone_example_his-ankle-bone-broke",
+                "text": "His ankle bone broke."
+            },
+            {
+                "code": "bone_example_let-s-rest-our-tired-bones",
+                "text": "Let's rest our tired bones."
+            },
+            {
+                "code": "bone_example_she-has-perfect-bone-structure",
+                "text": "She has perfect bone structure."
+            },
+            {
+                "code": "bone_example_he-is-donating-bone-marrow",
+                "text": "He is donating bone marrow."
+            },
+            {
+                "code": "bone_example_my-family-has-a-history-of-bone-disease",
+                "text": "My family has a history of bone disease."
+            }
+        ]
+    }
+]

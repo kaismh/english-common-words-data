@@ -1,0 +1,40 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "wanting to win; wanting to enter into a contest with someone",
+        "examples": [
+            {
+                "code": "competitive_example_she-is-very-competitive",
+                "text": "She is very competitive."
+            },
+            {
+                "code": "competitive_example_our-business-remains-competitive-every-year",
+                "text": "Our business remains competitive every year."
+            },
+            {
+                "code": "competitive_example_her-special-skills-and-training-make-her-more-competitive",
+                "text": "Her special skills and training make her more competitive."
+            },
+            {
+                "code": "competitive_example_jack-is-very-competitive",
+                "text": "Jack is very competitive."
+            },
+            {
+                "code": "competitive_example_she-is-an-extremely-competitive-person",
+                "text": "She is an extremely competitive person."
+            },
+            {
+                "code": "competitive_example_they-are-a-globally-competitive-company-in-paris",
+                "text": "They are a globally competitive company in Paris."
+            },
+            {
+                "code": "competitive_example_he-is-becoming-increasingly-competitive",
+                "text": "He is becoming increasingly competitive."
+            },
+            {
+                "code": "competitive_example_they-will-do-anything-to-keep-competitive-with-other-companies",
+                "text": "They will do anything to keep competitive with other companies."
+            }
+        ]
+    }
+]

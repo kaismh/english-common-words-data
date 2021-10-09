@@ -1,0 +1,40 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "suggested or recommended",
+        "examples": [
+            {
+                "code": "proposed_example_his-proposed-plan-was-rejected-by-the-voters",
+                "text": "His proposed plan was rejected by the voters."
+            },
+            {
+                "code": "proposed_example_the-proposed-merger-failed-to-happen",
+                "text": "The proposed merger failed to happen."
+            },
+            {
+                "code": "proposed_example_the-proposed-solution-was-effective",
+                "text": "The proposed solution was effective."
+            },
+            {
+                "code": "proposed_example_the-employees-are-not-happy-with-the-proposed-changes-to-the-company-s-policies",
+                "text": "The employees are not happy with the proposed changes to the company's policies."
+            },
+            {
+                "code": "proposed_example_the-company-is-reviewing-the-proposed-budget-for-the-new-year",
+                "text": "The company is reviewing the proposed budget for the new year."
+            },
+            {
+                "code": "proposed_example_congress-has-a-long-list-of-proposed-amendments",
+                "text": "Congress has a long list of proposed amendments."
+            },
+            {
+                "code": "proposed_example_what-is-the-final-proposed-date-of-project",
+                "text": "What is the final proposed date of project?"
+            },
+            {
+                "code": "proposed_example_the-proposed-regulations-are-under-review",
+                "text": "The proposed regulations are under review."
+            }
+        ]
+    }
+]

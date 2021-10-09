@@ -1,0 +1,36 @@
+[
+    {
+        "type": "(adv)",
+        "mean": "in a simple way; just",
+        "examples": [
+            {
+                "code": "simply_example_the-performance-was-simply-amazing",
+                "text": "The performance was simply amazing."
+            },
+            {
+                "code": "simply_example_this-picture-is-simply-awful",
+                "text": "This picture is simply awful."
+            },
+            {
+                "code": "simply_example_she-is-simply-gorgeous",
+                "text": "She is simply gorgeous."
+            },
+            {
+                "code": "simply_example_he-simply-abandoned-the-idea",
+                "text": "He simply abandoned the idea."
+            },
+            {
+                "code": "simply_example_simply-finish-all-the-problems",
+                "text": "Simply finish all the problems."
+            },
+            {
+                "code": "simply_example_we-will-simply-decorate-the-room",
+                "text": "We will simply decorate the room."
+            },
+            {
+                "code": "simply_example_i-want-to-simply-relax",
+                "text": "I want to simply relax."
+            }
+        ]
+    }
+]

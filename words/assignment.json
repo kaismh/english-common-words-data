@@ -1,0 +1,48 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a specific task or work that is given someone at work or school",
+        "examples": [
+            {
+                "code": "assignment_example_i-am-giving-you-a-special-assignment",
+                "text": "I am giving you a special assignment."
+            },
+            {
+                "code": "assignment_example_this-assignment-could-be-very-dangerous",
+                "text": "This assignment could be very dangerous."
+            },
+            {
+                "code": "assignment_example_i-am-busy-with-a-work-assignment",
+                "text": "I am busy with a work assignment."
+            },
+            {
+                "code": "assignment_example_i-ve-finished-my-reading-assignment",
+                "text": "I've finished my reading assignment."
+            },
+            {
+                "code": "assignment_example_he-accepted-a-new-assignment",
+                "text": "He accepted a new assignment."
+            },
+            {
+                "code": "assignment_example_have-you-completed-your-assignment",
+                "text": "Have you completed your assignment?"
+            },
+            {
+                "code": "assignment_example_she-refused-the-assignment",
+                "text": "She refused the assignment."
+            },
+            {
+                "code": "assignment_example_the-teacher-handed-out-an-assignment",
+                "text": "The teacher handed out an assignment."
+            },
+            {
+                "code": "assignment_example_please-hand-in-your-assignments",
+                "text": "Please hand in your assignments."
+            },
+            {
+                "code": "assignment_example_they-were-given-an-assignment-on-ancient-history",
+                "text": "They were given an assignment on ancient history."
+            }
+        ]
+    }
+]

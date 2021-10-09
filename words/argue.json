@@ -1,0 +1,40 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to disagree in an angry way; to explain an opinion",
+        "examples": [
+            {
+                "code": "argue_example_i-constantly-argue-with-my-neighbor-about-noise",
+                "text": "I constantly argue with my neighbor about noise."
+            },
+            {
+                "code": "argue_example_my-daughter-argues-back-when-i-tell-her-to-do-something",
+                "text": "My daughter argues back when I tell her to do something."
+            },
+            {
+                "code": "argue_example_the-politician-argued-passionately-during-the-debate",
+                "text": "The politician argued passionately during the debate."
+            },
+            {
+                "code": "argue_example_they-argued-about-who-would-go-first",
+                "text": "They argued about who would go first."
+            },
+            {
+                "code": "argue_example_they-often-argue-with-each-other",
+                "text": "They often argue with each other."
+            },
+            {
+                "code": "argue_example_she-argued-against-the-new-law",
+                "text": "She argued against the new law."
+            },
+            {
+                "code": "argue_example_i-don-t-wish-to-argue",
+                "text": "I don't wish to argue."
+            },
+            {
+                "code": "argue_example_he-tries-to-argue-about-everything",
+                "text": "He tries to argue about everything."
+            }
+        ]
+    }
+]

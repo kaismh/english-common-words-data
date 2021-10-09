@@ -1,0 +1,32 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the work of designing and building machines and structures with scientific knowledge",
+        "examples": [
+            {
+                "code": "engineering_example_he-is-studying-electrical-engineering",
+                "text": "He is studying electrical engineering."
+            },
+            {
+                "code": "engineering_example_this-project-requires-advanced-engineering",
+                "text": "This project requires advanced engineering."
+            },
+            {
+                "code": "engineering_example_the-engineering-company-only-employs-college-graduates",
+                "text": "The engineering company only employs college graduates."
+            },
+            {
+                "code": "engineering_example_this-engineering-project-will-take-a-long-time-to-complete",
+                "text": "This engineering project will take a long time to complete."
+            },
+            {
+                "code": "engineering_example_she-is-an-engineering-major",
+                "text": "She is an engineering major."
+            },
+            {
+                "code": "engineering_example_the-mechanical-failure-was-caused-by-an-engineering-problem",
+                "text": "The mechanical failure was caused by an engineering problem."
+            }
+        ]
+    }
+]

@@ -1,0 +1,36 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "allowed by law; related to the law",
+        "examples": [
+            {
+                "code": "legal_example_it-is-legal-to-buy-a-gun",
+                "text": "It is legal to buy a gun."
+            },
+            {
+                "code": "legal_example_they-are-trying-to-make-marijuana-legal",
+                "text": "They are trying to make marijuana legal."
+            },
+            {
+                "code": "legal_example_it-is-perfectly-legal-to-park-here",
+                "text": "It is perfectly legal to park here."
+            },
+            {
+                "code": "legal_example_i-am-looking-for-some-legal-advice",
+                "text": "I am looking for some legal advice."
+            },
+            {
+                "code": "legal_example_he-made-a-legal-claim-against-his-employer",
+                "text": "He made a legal claim against his employer."
+            },
+            {
+                "code": "legal_example_she-is-the-legal-owner-of-this-property",
+                "text": "She is the legal owner of this property."
+            },
+            {
+                "code": "legal_example_it-s-becoming-a-legal-problem",
+                "text": "It's becoming a legal problem."
+            }
+        ]
+    }
+]

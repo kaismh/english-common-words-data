@@ -1,0 +1,52 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "against the law or rules",
+        "examples": [
+            {
+                "code": "illegal_example_it-remains-illegal-to-sell-street-drugs-in-this-country",
+                "text": "It remains illegal to sell street drugs in this country."
+            },
+            {
+                "code": "illegal_example_it-is-illegal-to-drive-under-the-influence",
+                "text": "It is illegal to drive under the influence."
+            },
+            {
+                "code": "illegal_example_the-sale-of-semi-automatic-weapons-should-be-made-illegal",
+                "text": "The sale of semi-automatic weapons should be made illegal."
+            },
+            {
+                "code": "illegal_example_the-debate-over-illegal-immigrants-has-become-a-huge-political-topic",
+                "text": "The debate over illegal immigrants has become a huge political topic."
+            },
+            {
+                "code": "illegal_example_his-business-deals-are-highly-illegal",
+                "text": "His business deals are highly illegal."
+            },
+            {
+                "code": "illegal_example_providing-alcohol-to-children-is-strictly-illegal",
+                "text": "Providing alcohol to children is strictly illegal."
+            },
+            {
+                "code": "illegal_example_the-police-are-investigating-his-allegedly-illegal-activities",
+                "text": "The police are investigating his allegedly illegal activities."
+            },
+            {
+                "code": "illegal_example_the-police-are-investigating-his-possible-illegal-activity",
+                "text": "The police are investigating his possible illegal activity."
+            },
+            {
+                "code": "illegal_example_he-is-an-illegal-immigrant",
+                "text": "He is an illegal immigrant."
+            },
+            {
+                "code": "illegal_example_she-was-charged-with-illegal-discrimination",
+                "text": "She was charged with illegal discrimination."
+            },
+            {
+                "code": "illegal_example_he-was-caught-with-illegal-gambling",
+                "text": "He was caught with illegal gambling."
+            }
+        ]
+    }
+]

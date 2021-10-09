@@ -1,0 +1,88 @@
+[
+    {
+        "type": "(n)",
+        "mean": "amount of money that is owed; the state of owing money",
+        "examples": [
+            {
+                "code": "debt_example_she-has-big-debts",
+                "text": "She has big debts."
+            },
+            {
+                "code": "debt_example_most-students-have-outstanding-debts",
+                "text": "Most students have outstanding debts."
+            },
+            {
+                "code": "debt_example_is-it-a-long-term-debt",
+                "text": "Is it a long-term debt?"
+            },
+            {
+                "code": "debt_example_the-overall-debt-is-more-than-his-annual-income",
+                "text": "The overall debt is more than his annual income."
+            },
+            {
+                "code": "debt_example_the-federal-debt-is-growing",
+                "text": "The federal debt is growing."
+            },
+            {
+                "code": "debt_example_she-has-credit-card-debts",
+                "text": "She has credit-card debts."
+            },
+            {
+                "code": "debt_example_she-is-in-serious-debt",
+                "text": "She is in serious debt."
+            },
+            {
+                "code": "debt_example_how-much-debt-do-you-have",
+                "text": "How much debt do you have?"
+            },
+            {
+                "code": "debt_example_the-man-has-accumulated-debt",
+                "text": "The man has accumulated debt."
+            },
+            {
+                "code": "debt_example_try-to-clear-your-debts",
+                "text": "Try to clear your debts."
+            },
+            {
+                "code": "debt_example_he-consolidated-his-debts-to-make-one-monthly-payment",
+                "text": "He consolidated his debts to make one monthly payment."
+            },
+            {
+                "code": "debt_example_how-can-i-get-out-of-debt",
+                "text": "How can I get out of debt?"
+            },
+            {
+                "code": "debt_example_how-did-she-get-into-debt",
+                "text": "How did she get into debt?"
+            },
+            {
+                "code": "debt_example_he-is-a-debt-collector",
+                "text": "He is a debt collector."
+            },
+            {
+                "code": "debt_example_i-applied-for-debt-cancellation",
+                "text": "I applied for debt cancellation."
+            },
+            {
+                "code": "debt_example_she-works-in-debt-collection",
+                "text": "She works in debt collection."
+            },
+            {
+                "code": "debt_example_he-has-a-debt-problem",
+                "text": "He has a debt problem."
+            },
+            {
+                "code": "debt_example_she-needs-help-in-debt-management",
+                "text": "She needs help in debt management."
+            },
+            {
+                "code": "debt_example_she-has-thousands-of-dollars-of-debt",
+                "text": "She has thousands of dollars of debt."
+            },
+            {
+                "code": "debt_example_he-is-in-heavy-debt",
+                "text": "He is in heavy debt."
+            }
+        ]
+    }
+]

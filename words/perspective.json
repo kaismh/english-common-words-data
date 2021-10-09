@@ -1,0 +1,68 @@
+[
+    {
+        "type": "(n)",
+        "mean": "viewpoint; the way of looking at something",
+        "examples": [
+            {
+                "code": "perspective_example_don-t-lose-your-perspective",
+                "text": "Don't lose your perspective."
+            },
+            {
+                "code": "perspective_example_you-need-to-broaden-your-perspective",
+                "text": "You need to broaden your perspective."
+            },
+            {
+                "code": "perspective_example_his-ideas-put-a-different-perspective-on-the-project",
+                "text": "His ideas put a different perspective on the project."
+            },
+            {
+                "code": "perspective_example_she-gained-a-new-perspective-after-talking-to-her-coworker",
+                "text": "She gained a new perspective after talking to her coworker."
+            },
+            {
+                "code": "perspective_example_take-my-perspective-on-this",
+                "text": "Take my perspective on this."
+            },
+            {
+                "code": "perspective_example_it-is-good-to-have-a-broad-perspective",
+                "text": "It is good to have a broad perspective."
+            },
+            {
+                "code": "perspective_example_you-are-looking-at-it-from-a-narrow-perspective",
+                "text": "You are looking at it from a narrow perspective."
+            },
+            {
+                "code": "perspective_example_we-need-a-broader-perspective",
+                "text": "We need a broader perspective."
+            },
+            {
+                "code": "perspective_example_look-at-it-from-a-female-perspective",
+                "text": "Look at it from a female perspective."
+            },
+            {
+                "code": "perspective_example_it-was-told-from-a-cultural-perspective",
+                "text": "It was told from a cultural perspective."
+            },
+            {
+                "code": "perspective_example_from-the-perspective-of-a-parent-this-car-is-dangerous",
+                "text": "From the perspective of a parent, this car is dangerous."
+            },
+            {
+                "code": "perspective_example_try-to-look-at-it-in-his-perspective",
+                "text": "Try to look at it in his perspective."
+            },
+            {
+                "code": "perspective_example_my-perspective-on-things-is-different",
+                "text": "My perspective on things is different."
+            },
+            {
+                "code": "perspective_example_you-should-put-everything-into-perspective",
+                "text": "You should put everything into perspective."
+            },
+            {
+                "code": "perspective_example_look-at-it-from-the-perspective-of-a-child",
+                "text": "Look at it from the perspective of a child."
+            }
+        ]
+    }
+]

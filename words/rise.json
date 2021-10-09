@@ -1,0 +1,114 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to wake up; to move up; to increase",
+        "examples": [
+            {
+                "code": "rise_example_panic-in-the-city-is-rising",
+                "text": "Panic in the city is rising."
+            },
+            {
+                "code": "rise_example_the-tide-is-rising",
+                "text": "The tide is rising."
+            },
+            {
+                "code": "rise_example_the-sun-is-rising-over-the-water",
+                "text": "The sun is rising over the water."
+            },
+            {
+                "code": "rise_example_her-voice-is-rising",
+                "text": "Her voice is rising."
+            },
+            {
+                "code": "rise_example_the-curtain-rose-on-the-stage",
+                "text": "The curtain rose on the stage."
+            },
+            {
+                "code": "rise_example_inflation-is-rising-again",
+                "text": "Inflation is rising again."
+            },
+            {
+                "code": "rise_example_his-eyebrows-rose",
+                "text": "His eyebrows rose."
+            },
+            {
+                "code": "rise_example_the-population-is-rising",
+                "text": "The population is rising."
+            },
+            {
+                "code": "rise_example_she-rises-early",
+                "text": "She rises early."
+            },
+            {
+                "code": "rise_example_they-rose-up-from-the-floor",
+                "text": "They rose up from the floor."
+            },
+            {
+                "code": "rise_example_housing-prices-are-slowly-rising-again",
+                "text": "Housing prices are slowly rising again."
+            },
+            {
+                "code": "rise_example_gas-prices-have-risen-sharply",
+                "text": "Gas prices have risen sharply."
+            },
+            {
+                "code": "rise_example_the-water-is-starting-to-rise-slightly-in-the-flooded-basement",
+                "text": "The water is starting to rise slightly in the flooded basement."
+            },
+            {
+                "code": "rise_example_the-population-rose-by-20",
+                "text": "The population rose by 20%."
+            },
+            {
+                "code": "rise_example_the-sun-is-rising-above-the-trees",
+                "text": "The sun is rising above the trees."
+            },
+            {
+                "code": "rise_example_i-rose-from-the-bed",
+                "text": "I rose from the bed."
+            },
+            {
+                "code": "rise_example_we-rose-to-the-challenge",
+                "text": "We rose to the challenge."
+            }
+        ]
+    },
+    {
+        "type": "(n)",
+        "mean": "an increase; upward movement",
+        "examples": [
+            {
+                "code": "rise_example_there-has-been-a-slow-rise-in-enrollment",
+                "text": "There has been a slow rise in enrollment."
+            },
+            {
+                "code": "rise_example_she-was-not-prepared-for-her-quick-rise-to-fame",
+                "text": "She was not prepared for her quick rise to fame."
+            },
+            {
+                "code": "rise_example_we-had-a-big-rise-in-revenue-last-year",
+                "text": "We had a big rise in revenue last year."
+            },
+            {
+                "code": "rise_example_we-are-looking-at-a-global-rise-in-poverty",
+                "text": "We are looking at a global rise in poverty."
+            },
+            {
+                "code": "rise_example_crime-in-the-city-is-on-the-rise",
+                "text": "Crime in the city is on the rise."
+            },
+            {
+                "code": "rise_example_there-has-been-a-rise-in-the-population",
+                "text": "There has been a rise in the population."
+            },
+            {
+                "code": "rise_example_the-show-is-documenting-his-rise-from-poverty",
+                "text": "The show is documenting his rise from poverty."
+            },
+            {
+                "code": "rise_example_his-quick-rise-to-stardom-surprised-his-family",
+                "text": "His quick rise to stardom surprised his family."
+            }
+        ]
+    }
+]

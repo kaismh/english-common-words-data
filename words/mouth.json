@@ -1,0 +1,94 @@
+[
+    {
+        "type": "(n)",
+        "mean": "an opening in the face used for eating and speaking; an opening of something",
+        "examples": [
+            {
+                "code": "mouth_example_i-have-a-mouth-sore",
+                "text": "I have a mouth sore."
+            },
+            {
+                "code": "mouth_example_i-use-mouth-rinse-twice-a-day",
+                "text": "I use mouth rinse twice a day."
+            },
+            {
+                "code": "mouth_example_i-cupped-my-mouth-with-my-hands",
+                "text": "I cupped my mouth with my hands."
+            },
+            {
+                "code": "mouth_example_my-mouth-started-watering-because-i-was-so-hungry",
+                "text": "My mouth started watering because I was so hungry."
+            },
+            {
+                "code": "mouth_example_i-rinse-my-mouth-after-i-brush-my-teeth",
+                "text": "I rinse my mouth after I brush my teeth."
+            },
+            {
+                "code": "mouth_example_the-rabid-dog-was-foaming-at-the-mouth",
+                "text": "The rabid dog was foaming at the mouth."
+            },
+            {
+                "code": "mouth_example_the-spicy-food-made-my-mouth-burn",
+                "text": "The spicy food made my mouth burn."
+            },
+            {
+                "code": "mouth_example_shut-your-mouth",
+                "text": "Shut your mouth!"
+            },
+            {
+                "code": "mouth_example_don-t-open-your-mouth",
+                "text": "Don't open your mouth."
+            },
+            {
+                "code": "mouth_example_her-mouth-fell-open-when-she-saw-her-son",
+                "text": "Her mouth fell open when she saw her son."
+            },
+            {
+                "code": "mouth_example_she-has-a-big-mouth",
+                "text": "She has a big mouth."
+            },
+            {
+                "code": "mouth_example_i-have-three-hungry-mouths-to-feed",
+                "text": "I have three hungry mouths to feed."
+            },
+            {
+                "code": "mouth_example_she-stood-there-with-an-open-mouth",
+                "text": "She stood there with an open mouth."
+            },
+            {
+                "code": "mouth_example_he-opened-his-toothless-mouth",
+                "text": "He opened his toothless mouth."
+            },
+            {
+                "code": "mouth_example_i-have-gum-in-my-mouth",
+                "text": "I have gum in my mouth."
+            },
+            {
+                "code": "mouth_example_a-smile-spread-across-her-mouth",
+                "text": "A smile spread across her mouth."
+            },
+            {
+                "code": "mouth_example_the-baby-has-food-around-his-mouth",
+                "text": "The baby has food around his mouth."
+            },
+            {
+                "code": "mouth_example_he-put-his-hands-over-her-mouth",
+                "text": "He put his hands over her mouth."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to move your lips without making a sound",
+        "examples": [
+            {
+                "code": "mouth_example_i-mouthed-the-lyrics",
+                "text": "I mouthed the lyrics."
+            },
+            {
+                "code": "mouth_example_she-silently-mouthed-the-lyrics-to-the-song",
+                "text": "She silently mouthed the lyrics to the song."
+            }
+        ]
+    }
+]

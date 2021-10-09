@@ -1,0 +1,98 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a formal meeting where someone is asked questions to see if he or she is right for a job; a formal meeting where someone is asked questions relating to his or her opinions or line of work",
+        "examples": [
+            {
+                "code": "interview_example_the-company-wanted-to-do-a-face-to-face-interview",
+                "text": "The company wanted to do a face-to-face interview."
+            },
+            {
+                "code": "interview_example_it-was-an-extensive-interview",
+                "text": "It was an extensive interview."
+            },
+            {
+                "code": "interview_example_the-manager-asked-her-to-come-in-for-a-follow-up-interview",
+                "text": "The manager asked her to come in for a follow-up interview."
+            },
+            {
+                "code": "interview_example_he-did-a-live-interview-on-the-radio-today",
+                "text": "He did a live interview on the radio today."
+            },
+            {
+                "code": "interview_example_i-have-a-job-interview-tomorrow",
+                "text": "I have a job interview tomorrow."
+            },
+            {
+                "code": "interview_example_we-saw-an-exclusive-interview-with-the-president",
+                "text": "We saw an exclusive interview with the President."
+            },
+            {
+                "code": "interview_example_they-conducted-hundreds-of-interviews-for-their-research",
+                "text": "They conducted hundreds of interviews for their research."
+            },
+            {
+                "code": "interview_example_the-reporter-requested-an-exclusive-interview",
+                "text": "The reporter requested an exclusive interview."
+            },
+            {
+                "code": "interview_example_he-had-an-interview-for-the-managerial-position",
+                "text": "He had an interview for the managerial position."
+            },
+            {
+                "code": "interview_example_he-is-a-private-man-and-rarely-does-interviews",
+                "text": "He is a private man and rarely does interviews."
+            },
+            {
+                "code": "interview_example_he-waited-in-the-interview-room-for-two-hours",
+                "text": "He waited in the interview room for two hours."
+            },
+            {
+                "code": "interview_example_she-did-not-understand-the-interview-process",
+                "text": "She did not understand the interview process."
+            },
+            {
+                "code": "interview_example_the-interview-footage-is-available-online",
+                "text": "The interview footage is available online."
+            },
+            {
+                "code": "interview_example_he-gets-a-lot-of-interview-requests-from-the-media",
+                "text": "He gets a lot of interview requests from the media."
+            },
+            {
+                "code": "interview_example_she-said-controversial-things-in-the-interview",
+                "text": "She said controversial things in the interview."
+            },
+            {
+                "code": "interview_example_he-had-an-interview-for-a-job-today",
+                "text": "He had an interview for a job today."
+            },
+            {
+                "code": "interview_example_she-had-an-interview-with-the-largest-company-in-the-city",
+                "text": "She had an interview with the largest company in the city."
+            },
+            {
+                "code": "interview_example_the-actor-gave-an-interview-about-his-latest-movie",
+                "text": "The actor gave an interview about his latest movie."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to ask someone questions during a formal meeting to see if he or she is right for a job; to ask someone questions during a formal meeting relating to his or her opinions or line of work",
+        "examples": [
+            {
+                "code": "interview_example_the-journalist-interviewed-many-witnesses",
+                "text": "The journalist interviewed many witnesses."
+            },
+            {
+                "code": "interview_example_they-are-interviewing-many-applicants-this-week",
+                "text": "They are interviewing many applicants this week."
+            },
+            {
+                "code": "interview_example_the-police-interviewed-several-suspects",
+                "text": "The police interviewed several suspects."
+            }
+        ]
+    }
+]

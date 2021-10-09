@@ -1,0 +1,90 @@
+[
+    {
+        "type": "(n)",
+        "mean": "price; money needed for something",
+        "examples": [
+            {
+                "code": "cost_example_the-man-noticed-the-high-cost-of-food",
+                "text": "The man noticed the high cost of food."
+            },
+            {
+                "code": "cost_example_we-are-looking-for-low-costs",
+                "text": "We are looking for low costs."
+            },
+            {
+                "code": "cost_example_please-give-me-the-full-cost-of-the-work",
+                "text": "Please give me the full cost of the work."
+            },
+            {
+                "code": "cost_example_the-added-cost-is-in-small-print",
+                "text": "The added cost is in small print."
+            },
+            {
+                "code": "cost_example_the-average-cost-does-not-include-taxes",
+                "text": "The average cost does not include taxes."
+            },
+            {
+                "code": "cost_example_what-is-the-real-cost-of-the-damage",
+                "text": "What is the real cost of the damage?"
+            },
+            {
+                "code": "cost_example_what-is-the-annual-cost",
+                "text": "What is the annual cost?"
+            },
+            {
+                "code": "cost_example_the-project-has-a-huge-cost",
+                "text": "The project has a huge cost."
+            },
+            {
+                "code": "cost_example_the-company-will-bear-the-cost",
+                "text": "The company will bear the cost."
+            },
+            {
+                "code": "cost_example_the-accident-will-drive-up-the-cost",
+                "text": "The accident will drive up the cost."
+            },
+            {
+                "code": "cost_example_how-can-i-bring-down-the-cost",
+                "text": "How can I bring down the cost?"
+            },
+            {
+                "code": "cost_example_can-you-afford-the-cost-of-health-insurance",
+                "text": "Can you afford the cost of health insurance?"
+            },
+            {
+                "code": "cost_example_we-should-share-the-cost",
+                "text": "We should share the cost."
+            },
+            {
+                "code": "cost_example_the-cost-to-the-people-will-be-very-high",
+                "text": "The cost to the people will be very high."
+            },
+            {
+                "code": "cost_example_the-cost-of-living-is-low",
+                "text": "The cost of living is low."
+            },
+            {
+                "code": "cost_example_we-re-looking-at-a-cost-of-10000",
+                "text": "We're looking at a cost of $10,000."
+            },
+            {
+                "code": "cost_example_we-are-looking-into-cost-savings",
+                "text": "We are looking into cost savings."
+            },
+            {
+                "code": "cost_example_they-are-expecting-a-cost-increase",
+                "text": "They are expecting a cost increase."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to have a certain value",
+        "examples": [
+            {
+                "code": "cost_example_the-ticket-costs-too-much",
+                "text": "The ticket costs too much."
+            }
+        ]
+    }
+]

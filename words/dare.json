@@ -1,0 +1,58 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to have the courage to do something; to challenge someone to do something dangerous or embarrassing",
+        "examples": [
+            {
+                "code": "dare_example_i-barely-dared-to-bungee-jump-off-the-bridge",
+                "text": "I barely dared to bungee jump off the bridge."
+            },
+            {
+                "code": "dare_example_i-always-dare-him-to-do-something-crazy",
+                "text": "I always dare him to do something crazy."
+            },
+            {
+                "code": "dare_example_i-dare-you-to-kiss-him",
+                "text": "I dare you to kiss him."
+            },
+            {
+                "code": "dare_example_how-dare-you-do-that-to-me",
+                "text": "How dare you do that to me!"
+            },
+            {
+                "code": "dare_example_she-dared-to-go-inside-the-haunted-house",
+                "text": "She dared to go inside the haunted house."
+            },
+            {
+                "code": "dare_example_are-you-daring-me",
+                "text": "Are you daring me?"
+            }
+        ]
+    },
+    {
+        "type": "(n)",
+        "mean": "a challenge; the act of telling someone to do something courageous or risky",
+        "examples": [
+            {
+                "code": "dare_example_he-took-the-dare-from-his-friend",
+                "text": "He took the dare from his friend."
+            },
+            {
+                "code": "dare_example_i-never-pass-up-a-dare",
+                "text": "I never pass up a dare."
+            },
+            {
+                "code": "dare_example_that-is-quite-a-dare",
+                "text": "That is quite a dare."
+            },
+            {
+                "code": "dare_example_is-that-a-dare",
+                "text": "Is that a dare?"
+            },
+            {
+                "code": "dare_example_let-s-play-truth-or-dare",
+                "text": "Let's play truth or dare."
+            }
+        ]
+    }
+]

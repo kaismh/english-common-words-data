@@ -1,0 +1,84 @@
+[
+    {
+        "type": "(n)",
+        "mean": "something that is typical or characteristic of a larger group of things; something that shows or supports what is said; a model of good or bad behavior",
+        "examples": [
+            {
+                "code": "example_example_this-is-a-classic-example-of-why-you-shouldn-t-do-that",
+                "text": "This is a classic example of why you shouldn't do that."
+            },
+            {
+                "code": "example_example_she-is-an-excellent-example-of-a-model-student",
+                "text": "She is an excellent example of a model student."
+            },
+            {
+                "code": "example_example_he-provided-vivid-examples-of-his-work",
+                "text": "He provided vivid examples of his work."
+            },
+            {
+                "code": "example_example_these-are-clear-examples-of-what-we-want",
+                "text": "These are clear examples of what we want."
+            },
+            {
+                "code": "example_example_this-is-not-the-worst-example-i-ve-seen",
+                "text": "This is not the worst example I've seen."
+            },
+            {
+                "code": "example_example_the-speaker-gave-some-real-life-examples-to-support-her-claim",
+                "text": "The speaker gave some real-life examples to support her claim."
+            },
+            {
+                "code": "example_example_he-is-a-bad-example-for-other-students",
+                "text": "He is a bad example for other students."
+            },
+            {
+                "code": "example_example_they-gave-many-examples-to-support-their-claims",
+                "text": "They gave many examples to support their claims."
+            },
+            {
+                "code": "example_example_this-report-contains-many-detailed-examples",
+                "text": "This report contains many detailed examples."
+            },
+            {
+                "code": "example_example_he-cited-many-examples-of-their-failure",
+                "text": "He cited many examples of their failure."
+            },
+            {
+                "code": "example_example_she-uses-many-examples-in-her-work",
+                "text": "She uses many examples in her work."
+            },
+            {
+                "code": "example_example_the-examples-clearly-illustrate-the-need-to-make-changes",
+                "text": "The examples clearly illustrate the need to make changes."
+            },
+            {
+                "code": "example_example_she-tries-to-set-a-good-example-for-her-younger-sister",
+                "text": "She tries to set a good example for her younger sister."
+            },
+            {
+                "code": "example_example_we-should-follow-his-example",
+                "text": "We should follow his example."
+            },
+            {
+                "code": "example_example_for-example-she-could-take-the-bus-to-work",
+                "text": "For example, she could take the bus to work."
+            },
+            {
+                "code": "example_example_there-are-many-examples-of-good-architecture-in-this-city",
+                "text": "There are many examples of good architecture in this city."
+            },
+            {
+                "code": "example_example_the-items-in-this-example-are-not-a-good-representation",
+                "text": "The items in this example are not a good representation."
+            },
+            {
+                "code": "example_example_it-is-not-easy-to-lead-by-example",
+                "text": "It is not easy to lead by example."
+            },
+            {
+                "code": "example_example_he-is-a-good-example-to-his-siblings",
+                "text": "He is a good example to his siblings."
+            }
+        ]
+    }
+]

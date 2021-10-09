@@ -1,0 +1,44 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "currently doing something; busy doing things",
+        "examples": [
+            {
+                "code": "active_example_my-doctor-wants-me-to-be-more-active",
+                "text": "My doctor wants me to be more active."
+            },
+            {
+                "code": "active_example_it-is-healthy-to-stay-active",
+                "text": "It is healthy to stay active."
+            },
+            {
+                "code": "active_example_the-athlete-is-extremely-active",
+                "text": "The athlete is extremely active."
+            },
+            {
+                "code": "active_example_i-like-to-stay-politically-active",
+                "text": "I like to stay politically active."
+            },
+            {
+                "code": "active_example_she-is-very-active-in-her-children-s-school-activities",
+                "text": "She is very active in her children's school activities."
+            },
+            {
+                "code": "active_example_my-parents-have-an-active-social-life",
+                "text": "My parents have an active social life."
+            },
+            {
+                "code": "active_example_she-has-a-very-active-child",
+                "text": "She has a very active child."
+            },
+            {
+                "code": "active_example_my-sister-is-a-very-active-parent",
+                "text": "My sister is a very active parent."
+            },
+            {
+                "code": "active_example_people-are-monitoring-the-active-volcano",
+                "text": "People are monitoring the active volcano."
+            }
+        ]
+    }
+]

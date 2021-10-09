@@ -1,0 +1,44 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a structure built over something so that people and vehicles can get from one side to another",
+        "examples": [
+            {
+                "code": "bridge_example_we-walked-across-a-narrow-bridge",
+                "text": "We walked across a narrow bridge."
+            },
+            {
+                "code": "bridge_example_the-city-is-building-a-new-bridge",
+                "text": "The city is building a new bridge."
+            },
+            {
+                "code": "bridge_example_the-soldiers-destroyed-the-bridge",
+                "text": "The soldiers destroyed the bridge."
+            },
+            {
+                "code": "bridge_example_the-flood-washed-away-the-bridge",
+                "text": "The flood washed away the bridge."
+            },
+            {
+                "code": "bridge_example_let-s-cross-that-bridge",
+                "text": "Let's cross that bridge."
+            },
+            {
+                "code": "bridge_example_the-bridge-spans-the-river",
+                "text": "The bridge spans the river."
+            },
+            {
+                "code": "bridge_example_this-bridge-connects-the-two-countries",
+                "text": "This bridge connects the two countries."
+            },
+            {
+                "code": "bridge_example_we-need-to-get-across-the-bridge",
+                "text": "We need to get across the bridge."
+            },
+            {
+                "code": "bridge_example_there-is-a-raging-river-under-the-bridge",
+                "text": "There is a raging river under the bridge."
+            }
+        ]
+    }
+]

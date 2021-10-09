@@ -1,0 +1,36 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a room where an artist or photographer works; a place where a movie, television show, or radio show is recorded",
+        "examples": [
+            {
+                "code": "studio_example_she-is-a-teacher-at-a-dance-studio",
+                "text": "She is a teacher at a dance studio."
+            },
+            {
+                "code": "studio_example_he-got-a-job-at-a-major-movie-studio",
+                "text": "He got a job at a major movie studio."
+            },
+            {
+                "code": "studio_example_i-m-being-trained-to-work-at-a-broadcast-studio",
+                "text": "I'm being trained to work at a broadcast studio."
+            },
+            {
+                "code": "studio_example_i-was-a-part-of-a-studio-audience-for-a-television-show",
+                "text": "I was a part of a studio audience for a television show."
+            },
+            {
+                "code": "studio_example_he-is-a-studio-executive-at-a-major-production-company",
+                "text": "He is a studio executive at a major production company."
+            },
+            {
+                "code": "studio_example_we-had-to-redo-the-whole-studio-recording",
+                "text": "We had to redo the whole studio recording."
+            },
+            {
+                "code": "studio_example_our-family-portrait-was-taken-in-a-photo-studio",
+                "text": "Our family portrait was taken in a photo studio."
+            }
+        ]
+    }
+]

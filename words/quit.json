@@ -1,0 +1,48 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to leave a job or school; stop doing something",
+        "examples": [
+            {
+                "code": "quit_example_i-decided-to-quit-my-job",
+                "text": "I decided to quit my job."
+            },
+            {
+                "code": "quit_example_she-is-trying-to-quit-smoking",
+                "text": "She is trying to quit smoking."
+            },
+            {
+                "code": "quit_example_she-suddenly-quit-her-job",
+                "text": "She suddenly quit her job."
+            },
+            {
+                "code": "quit_example_she-wants-to-quit-smoking",
+                "text": "She wants to quit smoking."
+            },
+            {
+                "code": "quit_example_he-quit-his-job-last-week",
+                "text": "He quit his job last week."
+            },
+            {
+                "code": "quit_example_her-employee-quit",
+                "text": "Her employee quit."
+            },
+            {
+                "code": "quit_example_the-engine-quit-on-me",
+                "text": "The engine quit on me."
+            },
+            {
+                "code": "quit_example_i-quit-school-after-a-year",
+                "text": "I quit school after a year."
+            },
+            {
+                "code": "quit_example_she-quit-as-the-team-captain-of-the-team",
+                "text": "She quit as the team captain of the team."
+            },
+            {
+                "code": "quit_example_they-quit-over-bad-working-conditions",
+                "text": "They quit over bad working conditions."
+            }
+        ]
+    }
+]

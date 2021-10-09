@@ -1,0 +1,136 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "not old; recently made or done",
+        "examples": [
+            {
+                "code": "new_example_you-should-start-a-new-paragraph",
+                "text": "You should start a new paragraph."
+            },
+            {
+                "code": "new_example_i-have-a-new-friend",
+                "text": "I have a new friend."
+            },
+            {
+                "code": "new_example_we-bought-a-new-brand-of-soap",
+                "text": "We bought a new brand of soap."
+            },
+            {
+                "code": "new_example_we-have-new-challenges",
+                "text": "We have new challenges."
+            },
+            {
+                "code": "new_example_we-have-new-knowledge-about-it",
+                "text": "We have new knowledge about it."
+            },
+            {
+                "code": "new_example_she-is-a-new-mother",
+                "text": "She is a new mother."
+            },
+            {
+                "code": "new_example_i-had-to-make-a-new-appointment",
+                "text": "I had to make a new appointment."
+            },
+            {
+                "code": "new_example_we-found-new-evidence",
+                "text": "We found new evidence."
+            },
+            {
+                "code": "new_example_we-found-a-new-use-for-it",
+                "text": "We found a new use for it."
+            },
+            {
+                "code": "new_example_i-tried-to-make-a-new-start",
+                "text": "I tried to make a new start."
+            },
+            {
+                "code": "new_example_the-car-has-a-new-design",
+                "text": "The car has a new design."
+            },
+            {
+                "code": "new_example_i-bought-their-new-album",
+                "text": "I bought their new album."
+            },
+            {
+                "code": "new_example_she-has-a-new-perspective-on-it",
+                "text": "She has a new perspective on it."
+            },
+            {
+                "code": "new_example_she-is-part-of-the-new-generation-of-filmmakers",
+                "text": "She is part of the new generation of filmmakers."
+            },
+            {
+                "code": "new_example_she-bought-me-new-clothes",
+                "text": "She bought me new clothes."
+            },
+            {
+                "code": "new_example_she-is-the-new-owner-of-the-house",
+                "text": "She is the new owner of the house."
+            },
+            {
+                "code": "new_example_the-restaurant-is-under-new-ownership",
+                "text": "The restaurant is under new ownership."
+            },
+            {
+                "code": "new_example_there-is-a-new-version-of-the-movie",
+                "text": "There is a new version of the movie."
+            },
+            {
+                "code": "new_example_they-made-an-exciting-new-discovery",
+                "text": "They made an exciting new discovery."
+            },
+            {
+                "code": "new_example_this-is-a-new-threat",
+                "text": "This is a new threat."
+            },
+            {
+                "code": "new_example_i-just-got-a-new-job",
+                "text": "I just got a new job."
+            },
+            {
+                "code": "new_example_we-are-working-on-a-new-project",
+                "text": "We are working on a new project."
+            },
+            {
+                "code": "new_example_this-is-the-new-standard-for-the-industry",
+                "text": "This is the new standard for the industry."
+            },
+            {
+                "code": "new_example_i-have-a-new-source",
+                "text": "I have a new source."
+            },
+            {
+                "code": "new_example_we-have-a-new-baby",
+                "text": "We have a new baby."
+            },
+            {
+                "code": "new_example_do-you-like-my-new-haircut",
+                "text": "Do you like my new haircut?"
+            },
+            {
+                "code": "new_example_this-is-my-new-husband",
+                "text": "This is my new husband."
+            },
+            {
+                "code": "new_example_he-has-a-new-way-of-doing-things",
+                "text": "He has a new way of doing things."
+            },
+            {
+                "code": "new_example_he-discovered-a-new-species",
+                "text": "He discovered a new species."
+            },
+            {
+                "code": "new_example_this-is-a-fairly-new-idea",
+                "text": "This is a fairly new idea."
+            },
+            {
+                "code": "new_example_that-jacket-is-hardly-new",
+                "text": "That jacket is hardly new."
+            },
+            {
+                "code": "new_example_this-is-all-new-to-her",
+                "text": "This is all new to her."
+            }
+        ]
+    }
+]

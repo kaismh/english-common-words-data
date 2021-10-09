@@ -1,0 +1,40 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "real or true",
+        "examples": [
+            {
+                "code": "actual_example_scientists-have-been-trying-to-prove-the-actual-existence-of-aliens-for-many-years",
+                "text": "Scientists have been trying to prove the actual existence of aliens for many years."
+            },
+            {
+                "code": "actual_example_the-actual-number-of-people-who-got-injured-in-the-fire-is-much-higher",
+                "text": "The actual number of people who got injured in the fire is much higher."
+            },
+            {
+                "code": "actual_example_the-actual-size-of-the-product-is-much-smaller",
+                "text": "The actual size of the product is much smaller."
+            },
+            {
+                "code": "actual_example_the-actual-cost-for-repairs-is-higher-than-the-estimate",
+                "text": "The actual cost for repairs is higher than the estimate."
+            },
+            {
+                "code": "actual_example_i-smiled-at-them-but-my-actual-thought-was-not-nice",
+                "text": "I smiled at them, but my actual thought was not nice."
+            },
+            {
+                "code": "actual_example_animals-have-actual-feelings",
+                "text": "Animals have actual feelings."
+            },
+            {
+                "code": "actual_example_people-finally-got-to-see-his-actual-personality",
+                "text": "People finally got to see his actual personality."
+            },
+            {
+                "code": "actual_example_this-is-the-actual-place-where-the-movie-was-filmed",
+                "text": "This is the actual place where the movie was filmed."
+            }
+        ]
+    }
+]

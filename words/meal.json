@@ -1,0 +1,52 @@
+[
+    {
+        "type": "(n)",
+        "mean": "food that is eaten during a particular time of the day",
+        "examples": [
+            {
+                "code": "meal_example_she-served-a-great-meal",
+                "text": "She served a great meal."
+            },
+            {
+                "code": "meal_example_we-sat-down-for-a-family-meal",
+                "text": "We sat down for a family meal."
+            },
+            {
+                "code": "meal_example_let-s-grab-a-meal",
+                "text": "Let's grab a meal."
+            },
+            {
+                "code": "meal_example_i-skipped-the-meal",
+                "text": "I skipped the meal."
+            },
+            {
+                "code": "meal_example_this-is-my-meal-ticket",
+                "text": "This is my meal ticket."
+            },
+            {
+                "code": "meal_example_we-ate-a-big-meal-on-saturday",
+                "text": "We ate a big meal on Saturday."
+            },
+            {
+                "code": "meal_example_i-ate-a-balanced-meal",
+                "text": "I ate a balanced meal."
+            },
+            {
+                "code": "meal_example_i-prefer-light-meals",
+                "text": "I prefer light meals."
+            },
+            {
+                "code": "meal_example_what-s-your-favorite-meal",
+                "text": "What's your favorite meal?"
+            },
+            {
+                "code": "meal_example_we-talked-over-the-meal",
+                "text": "We talked over the meal."
+            },
+            {
+                "code": "meal_example_she-made-chicken-for-the-main-meal",
+                "text": "She made chicken for the main meal."
+            }
+        ]
+    }
+]

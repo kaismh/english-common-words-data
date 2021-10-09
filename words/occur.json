@@ -1,0 +1,64 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to happen",
+        "examples": [
+            {
+                "code": "occur_example_these-things-tend-to-occur-at-night",
+                "text": "These things tend to occur at night."
+            },
+            {
+                "code": "occur_example_the-impact-occurred-around-noon",
+                "text": "The impact occurred around noon."
+            },
+            {
+                "code": "occur_example_the-killing-occurred-at-midnight",
+                "text": "The killing occurred at midnight."
+            },
+            {
+                "code": "occur_example_when-did-the-attack-occur",
+                "text": "When did the attack occur?"
+            },
+            {
+                "code": "occur_example_how-did-the-collision-occur",
+                "text": "How did the collision occur?"
+            },
+            {
+                "code": "occur_example_a-miracle-has-occurred",
+                "text": "A miracle has occurred."
+            },
+            {
+                "code": "occur_example_the-event-occurred-already",
+                "text": "The event occurred already."
+            },
+            {
+                "code": "occur_example_an-explosion-occurred-there",
+                "text": "An explosion occurred there."
+            },
+            {
+                "code": "occur_example_the-change-occurred-naturally",
+                "text": "The change occurred naturally."
+            },
+            {
+                "code": "occur_example_robberies-typically-occur-in-the-city",
+                "text": "Robberies typically occur in the city."
+            },
+            {
+                "code": "occur_example_this-mainly-occurs-at-night",
+                "text": "This mainly occurs at night."
+            },
+            {
+                "code": "occur_example_it-sometimes-occurs-there",
+                "text": "It sometimes occurs there."
+            },
+            {
+                "code": "occur_example_the-crime-occurred-at-midnight",
+                "text": "The crime occurred at midnight."
+            },
+            {
+                "code": "occur_example_the-event-occurred-in-january",
+                "text": "The event occurred in January."
+            }
+        ]
+    }
+]

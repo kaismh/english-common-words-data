@@ -1,0 +1,50 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a purchase",
+        "examples": [
+            {
+                "code": "buy_example_this-candy-bar-was-an-impulse-buy",
+                "text": "This candy bar was an impulse buy."
+            },
+            {
+                "code": "buy_example_she-s-always-looking-for-bargain-buys",
+                "text": "She's always looking for bargain buys."
+            },
+            {
+                "code": "buy_example_that-was-a-good-buy",
+                "text": "That was a good buy."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to purchase something with money",
+        "examples": [
+            {
+                "code": "buy_example_clothing-can-be-bought-cheaply-in-discount-stores",
+                "text": "Clothing can be bought cheaply in discount stores."
+            },
+            {
+                "code": "buy_example_he-likes-to-buy-online",
+                "text": "He likes to buy online."
+            },
+            {
+                "code": "buy_example_we-cannot-afford-to-buy-a-house-now",
+                "text": "We cannot afford to buy a house now."
+            },
+            {
+                "code": "buy_example_did-you-buy-that-in-china",
+                "text": "Did you buy that in China?"
+            },
+            {
+                "code": "buy_example_i-bought-food-from-the-supermarket",
+                "text": "I bought food from the supermarket."
+            },
+            {
+                "code": "buy_example_she-will-buy-a-new-doll-for-her-daughter",
+                "text": "She will buy a new doll for her daughter."
+            }
+        ]
+    }
+]

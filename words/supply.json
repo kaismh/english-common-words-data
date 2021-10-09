@@ -1,0 +1,122 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to provide something that is needed or wanted",
+        "examples": [
+            {
+                "code": "supply_example_they-are-well-supplied-with-food-and-water-for-their-camping-trip",
+                "text": "They are well supplied with food and water for their camping trip."
+            },
+            {
+                "code": "supply_example_church-members-will-generously-supply-food-to-the-local-food-bank",
+                "text": "Church members will generously supply food to the local food bank."
+            },
+            {
+                "code": "supply_example_we-offered-to-supply-the-runners-with-water",
+                "text": "We offered to supply the runners with water."
+            },
+            {
+                "code": "supply_example_the-school-refused-to-supply-more-materials-for-the-classroom",
+                "text": "The school refused to supply more materials for the classroom."
+            },
+            {
+                "code": "supply_example_he-failed-to-supply-enough-information-on-his-application",
+                "text": "He failed to supply enough information on his application."
+            },
+            {
+                "code": "supply_example_the-traitor-was-supplying-information-to-the-enemy",
+                "text": "The traitor was supplying information to the enemy."
+            },
+            {
+                "code": "supply_example_food-was-supplied-by-the-caterer",
+                "text": "Food was supplied by the caterer."
+            },
+            {
+                "code": "supply_example_they-supplied-the-whole-team-with-new-shirts",
+                "text": "They supplied the whole team with new shirts."
+            }
+        ]
+    },
+    {
+        "type": "(n)",
+        "mean": "an amount of something that is available to be used; things that are needed by a particular group of people",
+        "examples": [
+            {
+                "code": "supply_example_there-is-an-endless-supply-of-paper-in-his-office",
+                "text": "There is an endless supply of paper in his office."
+            },
+            {
+                "code": "supply_example_we-have-a-good-supply-of-water-for-emergencies",
+                "text": "We have a good supply of water for emergencies."
+            },
+            {
+                "code": "supply_example_he-has-an-excessive-supply-of-guns-in-his-basement",
+                "text": "He has an excessive supply of guns in his basement."
+            },
+            {
+                "code": "supply_example_they-need-a-constant-supply-of-fresh-water",
+                "text": "They need a constant supply of fresh water."
+            },
+            {
+                "code": "supply_example_the-hotel-provides-a-fresh-supply-of-clean-towels-every-day",
+                "text": "The hotel provides a fresh supply of clean towels every day."
+            },
+            {
+                "code": "supply_example_the-accident-cut-off-blood-supply-to-her-brain",
+                "text": "The accident cut off blood supply to her brain."
+            },
+            {
+                "code": "supply_example_where-can-i-buy-art-supplies",
+                "text": "Where can I buy art supplies?"
+            },
+            {
+                "code": "supply_example_our-church-donated-medical-supplies-to-the-poor-country",
+                "text": "Our church donated medical supplies to the poor country."
+            },
+            {
+                "code": "supply_example_i-have-to-go-shopping-for-school-supplies",
+                "text": "I have to go shopping for school supplies."
+            },
+            {
+                "code": "supply_example_the-fire-left-the-family-without-any-basic-supplies",
+                "text": "The fire left the family without any basic supplies."
+            },
+            {
+                "code": "supply_example_we-have-a-good-supply-of-clean-water",
+                "text": "We have a good supply of clean water."
+            },
+            {
+                "code": "supply_example_the-farmer-produces-the-largest-supply-of-dairy-products-in-this-area",
+                "text": "The farmer produces the largest supply of dairy products in this area."
+            },
+            {
+                "code": "supply_example_the-earthquake-cut-off-our-city-s-power-supply",
+                "text": "The earthquake cut off our city's power supply."
+            },
+            {
+                "code": "supply_example_we-depleted-our-food-supply-before-the-camping-trip-was-over",
+                "text": "We depleted our food supply before the camping trip was over."
+            },
+            {
+                "code": "supply_example_i-need-to-refill-my-supply-of-paper-and-pencils-before-school-starts",
+                "text": "I need to refill my supply of paper and pencils before school starts."
+            },
+            {
+                "code": "supply_example_we-are-trying-to-reduce-our-supply-of-plastic-bottles",
+                "text": "We are trying to reduce our supply of plastic bottles."
+            },
+            {
+                "code": "supply_example_we-need-to-increase-our-supply-of-firewood-before-winter",
+                "text": "We need to increase our supply of firewood before winter."
+            },
+            {
+                "code": "supply_example_all-of-our-office-products-are-in-the-supply-room",
+                "text": "All of our office products are in the supply room."
+            },
+            {
+                "code": "supply_example_we-need-a-supply-of-fresh-towels",
+                "text": "We need a supply of fresh towels."
+            }
+        ]
+    }
+]

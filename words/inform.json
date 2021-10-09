@@ -1,0 +1,40 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to give someone facts or information",
+        "examples": [
+            {
+                "code": "inform_example_he-simply-informed-her-of-the-situation",
+                "text": "He simply informed her of the situation."
+            },
+            {
+                "code": "inform_example_she-was-kindly-informed-of-her-child-s-wild-behavior-in-class",
+                "text": "She was kindly informed of her child's wild behavior in class."
+            },
+            {
+                "code": "inform_example_i-regret-to-inform-you-that-you-did-not-pass-the-test",
+                "text": "I regret to inform you that you did not pass the test."
+            },
+            {
+                "code": "inform_example_he-was-required-to-inform-the-family-about-the-incident",
+                "text": "He was required to inform the family about the incident."
+            },
+            {
+                "code": "inform_example_she-will-inform-you-of-any-changes",
+                "text": "She will inform you of any changes."
+            },
+            {
+                "code": "inform_example_he-informed-his-kids-about-the-dangers-of-drugs",
+                "text": "He informed his kids about the dangers of drugs."
+            },
+            {
+                "code": "inform_example_we-had-to-inform-the-audience-that-the-concert-had-been-cancelled",
+                "text": "We had to inform the audience that the concert had been cancelled."
+            },
+            {
+                "code": "inform_example_we-will-inform-the-police-immediately",
+                "text": "We will inform the police immediately."
+            }
+        ]
+    }
+]

@@ -1,0 +1,56 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the thickness that lies over the surface of an area",
+        "examples": [
+            {
+                "code": "layer_example_his-backyard-was-covered-with-a-thick-layer-of-snow",
+                "text": "His backyard was covered with a thick layer of snow."
+            },
+            {
+                "code": "layer_example_everyone-had-to-put-on-extra-layers-of-clothing",
+                "text": "Everyone had to put on extra layers of clothing."
+            },
+            {
+                "code": "layer_example_the-cushion-is-made-with-a-single-layer-of-padding",
+                "text": "The cushion is made with a single layer of padding."
+            },
+            {
+                "code": "layer_example_she-covered-the-outer-layer-of-the-cake-with-chocolate",
+                "text": "She covered the outer layer of the cake with chocolate."
+            },
+            {
+                "code": "layer_example_the-protective-layer-was-made-with-metal",
+                "text": "The protective layer was made with metal."
+            },
+            {
+                "code": "layer_example_dust-formed-a-thin-layer-on-the-unused-table",
+                "text": "Dust formed a thin layer on the unused table."
+            },
+            {
+                "code": "layer_example_the-evidence-was-covered-with-a-thick-layer-of-dirt",
+                "text": "The evidence was covered with a thick layer of dirt."
+            },
+            {
+                "code": "layer_example_please-apply-an-additional-layer-of-paint",
+                "text": "Please apply an additional layer of paint."
+            },
+            {
+                "code": "layer_example_there-are-many-layers-under-the-surface-of-the-skin",
+                "text": "There are many layers under the surface of the skin."
+            },
+            {
+                "code": "layer_example_the-cake-was-made-in-layers",
+                "text": "The cake was made in layers."
+            },
+            {
+                "code": "layer_example_i-need-to-put-on-an-extra-layer-of-clothing",
+                "text": "I need to put on an extra layer of clothing."
+            },
+            {
+                "code": "layer_example_she-made-a-layer-cake-for-her-the-birthday-party",
+                "text": "She made a layer cake for her the birthday party."
+            }
+        ]
+    }
+]

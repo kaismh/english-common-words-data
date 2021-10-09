@@ -1,0 +1,90 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to have drops of water fall from the sky",
+        "examples": [
+            {
+                "code": "rain_example_it-rained-non-stop-all-night",
+                "text": "It rained non-stop all night."
+            },
+            {
+                "code": "rain_example_it-rained-a-little-this-morning",
+                "text": "It rained a little this morning."
+            },
+            {
+                "code": "rain_example_it-started-to-rain-when-we-went-outside",
+                "text": "It started to rain when we went outside."
+            },
+            {
+                "code": "rain_example_it-is-going-to-rain",
+                "text": "It is going to rain."
+            }
+        ]
+    },
+    {
+        "type": "(n)",
+        "mean": "drops of water that fall from the sky",
+        "examples": [
+            {
+                "code": "rain_example_rain-fell-heavily-all-night",
+                "text": "Rain fell heavily all night."
+            },
+            {
+                "code": "rain_example_the-pouring-rain-drenched-us",
+                "text": "The pouring rain drenched us."
+            },
+            {
+                "code": "rain_example_the-rain-hasn-t-let-up-yet",
+                "text": "The rain hasn't let up yet."
+            },
+            {
+                "code": "rain_example_the-rain-came-yesterday",
+                "text": "The rain came yesterday."
+            },
+            {
+                "code": "rain_example_the-rain-continued-for-the-rest-of-the-day",
+                "text": "The rain continued for the rest of the day."
+            },
+            {
+                "code": "rain_example_the-flowers-are-covered-in-raindrops",
+                "text": "The flowers are covered in raindrops."
+            },
+            {
+                "code": "rain_example_i-have-new-rain-boots",
+                "text": "I have new rain boots."
+            },
+            {
+                "code": "rain_example_i-am-wearing-my-rain-coat",
+                "text": "I am wearing my rain coat."
+            },
+            {
+                "code": "rain_example_i-can-see-the-rain-clouds-coming",
+                "text": "I can see the rain clouds coming."
+            },
+            {
+                "code": "rain_example_a-rainstorm-is-coming",
+                "text": "A rainstorm is coming."
+            },
+            {
+                "code": "rain_example_we-drove-in-the-pouring-rain",
+                "text": "We drove in the pouring rain."
+            },
+            {
+                "code": "rain_example_we-had-freezing-rain-last-night",
+                "text": "We had freezing rain last night."
+            },
+            {
+                "code": "rain_example_we-are-expecting-heavy-rain-tomorrow",
+                "text": "We are expecting heavy rain tomorrow."
+            },
+            {
+                "code": "rain_example_i-can-t-take-the-constant-rain-anymore",
+                "text": "I can't take the constant rain anymore."
+            },
+            {
+                "code": "rain_example_we-walked-in-the-pouring-rain",
+                "text": "We walked in the pouring rain."
+            }
+        ]
+    }
+]

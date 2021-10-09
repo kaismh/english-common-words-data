@@ -1,0 +1,78 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to go somewhere regularly or often",
+        "examples": [
+            {
+                "code": "frequent_example_they-frequent-the-cafe-on-the-corner",
+                "text": "They frequent the cafe on the corner."
+            }
+        ]
+    },
+    {
+        "type": "(adj)",
+        "mean": "happening often",
+        "examples": [
+            {
+                "code": "frequent_example_the-bus-makes-frequent-stops",
+                "text": "The bus makes frequent stops."
+            },
+            {
+                "code": "frequent_example_she-is-a-frequent-customer",
+                "text": "She is a frequent customer."
+            },
+            {
+                "code": "frequent_example_losing-has-become-a-frequent-occurrence",
+                "text": "Losing has become a frequent occurrence."
+            },
+            {
+                "code": "frequent_example_the-storms-are-increasingly-frequent",
+                "text": "The storms are increasingly frequent."
+            },
+            {
+                "code": "frequent_example_her-visits-are-becoming-extremely-frequent",
+                "text": "Her visits are becoming extremely frequent."
+            },
+            {
+                "code": "frequent_example_these-injuries-are-frequent-in-the-elderly",
+                "text": "These injuries are frequent in the elderly."
+            },
+            {
+                "code": "frequent_example_his-frequent-absences-are-noticeable",
+                "text": "His frequent absences are noticeable."
+            },
+            {
+                "code": "frequent_example_she-makes-frequent-complaints",
+                "text": "She makes frequent complaints."
+            },
+            {
+                "code": "frequent_example_the-frequent-meetings-are-getting-annoying",
+                "text": "The frequent meetings are getting annoying."
+            },
+            {
+                "code": "frequent_example_he-makes-frequent-updates-to-the-data",
+                "text": "He makes frequent updates to the data."
+            },
+            {
+                "code": "frequent_example_she-is-a-frequent-visitor-at-their-house",
+                "text": "She is a frequent visitor at their house."
+            },
+            {
+                "code": "frequent_example_this-item-can-withstand-frequent-washing",
+                "text": "This item can withstand frequent washing."
+            },
+            {
+                "code": "frequent_example_his-tardiness-is-a-frequent-occurrence",
+                "text": "His tardiness is a frequent occurrence."
+            },
+            {
+                "code": "frequent_example_she-is-a-frequent-shopper-at-that-store",
+                "text": "She is a frequent shopper at that store."
+            },
+            {
+                "code": "frequent_example_they-make-frequent-trips-to-the-beach",
+                "text": "They make frequent trips to the beach."
+            }
+        ]
+    }
+]

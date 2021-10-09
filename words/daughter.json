@@ -1,0 +1,56 @@
+[
+    {
+        "type": "(noun)",
+        "mean": "a female child",
+        "examples": [
+            {
+                "code": "daughter_example_this-is-her-baby-daughter",
+                "text": "This is her baby daughter."
+            },
+            {
+                "code": "daughter_example_she-has-a-little-daughter",
+                "text": "She has a little daughter."
+            },
+            {
+                "code": "daughter_example_they-have-a-teenage-daughter",
+                "text": "They have a teenage daughter."
+            },
+            {
+                "code": "daughter_example_she-is-my-only-daughter",
+                "text": "She is my only daughter."
+            },
+            {
+                "code": "daughter_example_he-has-an-illegitimate-daughter",
+                "text": "He has an illegitimate daughter."
+            },
+            {
+                "code": "daughter_example_she-s-a-good-daughter",
+                "text": "She's a good daughter."
+            },
+            {
+                "code": "daughter_example_they-have-twin-daughters",
+                "text": "They have twin daughters."
+            },
+            {
+                "code": "daughter_example_we-live-with-our-married-daughter",
+                "text": "We live with our married daughter."
+            },
+            {
+                "code": "daughter_example_do-you-have-a-daughter",
+                "text": "Do you have a daughter?"
+            },
+            {
+                "code": "daughter_example_she-gave-birth-to-a-daughter",
+                "text": "She gave birth to a daughter."
+            },
+            {
+                "code": "daughter_example_they-are-raising-three-daughters",
+                "text": "They are raising three daughters."
+            },
+            {
+                "code": "daughter_example_my-daughter-is-growing-up-fast",
+                "text": "My daughter is growing up fast."
+            }
+        ]
+    }
+]

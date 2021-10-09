@@ -1,0 +1,52 @@
+[
+    {
+        "type": "(n)",
+        "mean": "something that points out or shows what is happening or how someone is feeling",
+        "examples": [
+            {
+                "code": "indication_example_he-gave-a-strong-indication-that-he-would-be-resigning",
+                "text": "He gave a strong indication that he would be resigning."
+            },
+            {
+                "code": "indication_example_there-is-no-definite-indication-of-what-happened",
+                "text": "There is no definite indication of what happened."
+            },
+            {
+                "code": "indication_example_she-gave-sufficient-indications-of-her-intentions",
+                "text": "She gave sufficient indications of her intentions."
+            },
+            {
+                "code": "indication_example_they-found-no-visible-indications-of-abuse",
+                "text": "They found no visible indications of abuse."
+            },
+            {
+                "code": "indication_example_early-indications-show-that-the-plane-had-mechanical-failure",
+                "text": "Early indications show that the plane had mechanical failure."
+            },
+            {
+                "code": "indication_example_he-gave-a-strong-indication-that-he-will-quit",
+                "text": "He gave a strong indication that he will quit."
+            },
+            {
+                "code": "indication_example_his-face-is-an-indication-of-how-he-did-on-the-test",
+                "text": "His face is an indication of how he did on the test."
+            },
+            {
+                "code": "indication_example_they-had-no-indication-of-who-was-responsible-for-the-accident",
+                "text": "They had no indication of who was responsible for the accident."
+            },
+            {
+                "code": "indication_example_she-found-no-indication-of-animal-abuse-on-the-farm",
+                "text": "She found no indication of animal abuse on the farm."
+            },
+            {
+                "code": "indication_example_indications-show-that-his-plan-will-fail",
+                "text": "Indications show that his plan will fail."
+            },
+            {
+                "code": "indication_example_he-gave-us-no-indication-as-to-what-he-will-do",
+                "text": "He gave us no indication as to what he will do."
+            }
+        ]
+    }
+]

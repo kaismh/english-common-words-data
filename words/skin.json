@@ -1,0 +1,126 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the outer layer of a person, animal, or fruit",
+        "examples": [
+            {
+                "code": "skin_example_i-m-jealous-of-your-beautiful-skin",
+                "text": "I'm jealous of your beautiful skin."
+            },
+            {
+                "code": "skin_example_this-fruit-has-thick-skin",
+                "text": "This fruit has thick skin."
+            },
+            {
+                "code": "skin_example_with-age-comes-wrinkled-skin",
+                "text": "With age comes wrinkled skin."
+            },
+            {
+                "code": "skin_example_babies-have-sensitive-skin",
+                "text": "Babies have sensitive skin."
+            },
+            {
+                "code": "skin_example_he-has-dry-skin",
+                "text": "He has dry skin."
+            },
+            {
+                "code": "skin_example_the-sailor-s-skin-is-sunburned",
+                "text": "The sailor's skin is sunburned."
+            },
+            {
+                "code": "skin_example_she-has-beautiful-black-skin",
+                "text": "She has beautiful black skin."
+            },
+            {
+                "code": "skin_example_she-displayed-her-bare-skin-on-the-beach",
+                "text": "She displayed her bare skin on the beach."
+            },
+            {
+                "code": "skin_example_he-took-off-the-banana-skin",
+                "text": "He took off the banana skin."
+            },
+            {
+                "code": "skin_example_the-knife-broke-the-skin",
+                "text": "The knife broke the skin."
+            },
+            {
+                "code": "skin_example_the-sun-can-burn-your-skin",
+                "text": "The sun can burn your skin."
+            },
+            {
+                "code": "skin_example_you-should-protect-your-skin",
+                "text": "You should protect your skin."
+            },
+            {
+                "code": "skin_example_snakes-often-shed-their-skin",
+                "text": "Snakes often shed their skin."
+            },
+            {
+                "code": "skin_example_too-much-water-will-dry-the-skin",
+                "text": "Too much water will dry the skin."
+            },
+            {
+                "code": "skin_example_her-skin-is-glowing",
+                "text": "Her skin is glowing."
+            },
+            {
+                "code": "skin_example_my-skin-is-aging-too-quickly",
+                "text": "My skin is aging too quickly."
+            },
+            {
+                "code": "skin_example_ghosts-make-my-skin-crawl",
+                "text": "Ghosts make my skin crawl."
+            },
+            {
+                "code": "skin_example_remove-the-skin-before-eating",
+                "text": "Remove the skin before eating."
+            },
+            {
+                "code": "skin_example_she-s-being-treated-for-skin-cancer",
+                "text": "She's being treated for skin cancer."
+            },
+            {
+                "code": "skin_example_you-should-see-a-skin-specialist",
+                "text": "You should see a skin specialist."
+            },
+            {
+                "code": "skin_example_what-do-you-use-for-skin-care",
+                "text": "What do you use for skin care?"
+            },
+            {
+                "code": "skin_example_he-bought-some-new-skin-cream",
+                "text": "He bought some new skin cream."
+            },
+            {
+                "code": "skin_example_she-has-nice-skin-color",
+                "text": "She has nice skin color."
+            },
+            {
+                "code": "skin_example_the-doctor-will-test-your-skin-cells",
+                "text": "The doctor will test your skin cells."
+            },
+            {
+                "code": "skin_example_put-this-on-your-skin",
+                "text": "Put this on your skin."
+            },
+            {
+                "code": "skin_example_i-feel-pain-beneath-my-skin",
+                "text": "I feel pain beneath my skin."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to hurt the skin; to remove the skin off of a dead animal",
+        "examples": [
+            {
+                "code": "skin_example_he-skinned-his-knee-on-the-concrete-floor",
+                "text": "He skinned his knee on the concrete floor."
+            },
+            {
+                "code": "skin_example_hunters-skin-animals-after-killing-them",
+                "text": "Hunters skin animals after killing them."
+            }
+        ]
+    }
+]

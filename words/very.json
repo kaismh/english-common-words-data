@@ -1,0 +1,74 @@
+[
+    {
+        "type": "(adv)",
+        "mean": "a lot; too much",
+        "examples": [
+            {
+                "code": "very_example_i-am-very-angry-with-you",
+                "text": "I am very angry with you."
+            },
+            {
+                "code": "very_example_she-is-very-happy-at-her-job",
+                "text": "She is very happy at her job."
+            },
+            {
+                "code": "very_example_i-am-very-tired-today",
+                "text": "I am very tired today."
+            },
+            {
+                "code": "very_example_i-am-very-scared",
+                "text": "I am very scared."
+            },
+            {
+                "code": "very_example_it-is-very-disturbing",
+                "text": "It is very disturbing."
+            },
+            {
+                "code": "very_example_be-very-careful",
+                "text": "Be very careful."
+            },
+            {
+                "code": "very_example_they-are-very-close-friends-of-ours",
+                "text": "They are very close friends of ours."
+            }
+        ]
+    },
+    {
+        "type": "(adj)",
+        "mean": "exact",
+        "examples": [
+            {
+                "code": "very_example_you-are-the-very-person-i-wanted-to-see",
+                "text": "You are the very person I wanted to see."
+            },
+            {
+                "code": "very_example_that-was-the-very-moment-i-knew-i-loved-her",
+                "text": "That was the very moment I knew I loved her."
+            },
+            {
+                "code": "very_example_we-dined-at-that-very-restaurant",
+                "text": "We dined at that very restaurant."
+            },
+            {
+                "code": "very_example_we-stayed-at-that-very-hotel",
+                "text": "We stayed at that very hotel."
+            },
+            {
+                "code": "very_example_we-bought-that-very-same-car",
+                "text": "We bought that very same car."
+            },
+            {
+                "code": "very_example_the-very-thought-of-moving-makes-me-nervous",
+                "text": "The very thought of moving makes me nervous."
+            },
+            {
+                "code": "very_example_i-had-that-very-same-thought",
+                "text": "I had that very same thought."
+            },
+            {
+                "code": "very_example_she-is-the-very-opposite-of-her-sister",
+                "text": "She is the very opposite of her sister."
+            }
+        ]
+    }
+]

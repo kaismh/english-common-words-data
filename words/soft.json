@@ -1,0 +1,44 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "smooth and pleasant to touch; gentle; quiet",
+        "examples": [
+            {
+                "code": "soft_example_her-skin-is-very-soft",
+                "text": "Her skin is very soft."
+            },
+            {
+                "code": "soft_example_my-mother-s-skin-remains-soft-at-her-old-age",
+                "text": "My mother's skin remains soft at her old age."
+            },
+            {
+                "code": "soft_example_the-ground-became-soft-after-the-heavy-rain",
+                "text": "The ground became soft after the heavy rain."
+            },
+            {
+                "code": "soft_example_she-has-beautifully-soft-hair",
+                "text": "She has beautifully soft hair."
+            },
+            {
+                "code": "soft_example_you-ve-become-a-little-soft-with-age",
+                "text": "You've become a little soft with age."
+            },
+            {
+                "code": "soft_example_she-has-soft-hair",
+                "text": "She has soft hair."
+            },
+            {
+                "code": "soft_example_i-miss-my-soft-blanket",
+                "text": "I miss my soft blanket."
+            },
+            {
+                "code": "soft_example_there-was-a-soft-breeze",
+                "text": "There was a soft breeze."
+            },
+            {
+                "code": "soft_example_she-spoke-in-a-soft-whisper",
+                "text": "She spoke in a soft whisper."
+            }
+        ]
+    }
+]

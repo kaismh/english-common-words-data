@@ -1,0 +1,50 @@
+[
+    {
+        "type": "(n)",
+        "mean": "two of the same things; two people or things that go together",
+        "examples": [
+            {
+                "code": "pair_example_those-two-make-a-great-pair",
+                "text": "Those two make a great pair."
+            },
+            {
+                "code": "pair_example_the-wine-glasses-come-in-matching-pairs",
+                "text": "The wine glasses come in matching pairs."
+            },
+            {
+                "code": "pair_example_she-bought-an-identical-pair-of-shoes",
+                "text": "She bought an identical pair of shoes."
+            },
+            {
+                "code": "pair_example_i-can-t-find-a-clean-pair-of-socks",
+                "text": "I can't find a clean pair of socks."
+            },
+            {
+                "code": "pair_example_they-make-a-happy-pair",
+                "text": "They make a happy pair."
+            },
+            {
+                "code": "pair_example_i-can-t-find-a-pair-of-socks",
+                "text": "I can't find a pair of socks."
+            },
+            {
+                "code": "pair_example_the-children-walked-together-in-pairs",
+                "text": "The children walked together in pairs."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to put into groups of two",
+        "examples": [
+            {
+                "code": "pair_example_the-students-were-told-to-pair-up-for-the-school-trip",
+                "text": "The students were told to pair up for the school trip."
+            },
+            {
+                "code": "pair_example_girls-and-boys-were-paired-together",
+                "text": "Girls and boys were paired together."
+            }
+        ]
+    }
+]

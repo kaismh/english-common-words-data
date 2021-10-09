@@ -1,0 +1,24 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "having to do with the direction where the sun sets",
+        "examples": [
+            {
+                "code": "western_example_we-are-studying-western-civilization",
+                "text": "We are studying western civilization."
+            },
+            {
+                "code": "western_example_that-country-is-our-western-ally",
+                "text": "That country is our western ally."
+            },
+            {
+                "code": "western_example_we-live-in-the-western-hemisphere",
+                "text": "We live in the western hemisphere."
+            },
+            {
+                "code": "western_example_i-live-in-the-western-district-of-the-city",
+                "text": "I live in the western district of the city."
+            }
+        ]
+    }
+]

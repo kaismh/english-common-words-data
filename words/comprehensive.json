@@ -1,0 +1,40 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "including all parts",
+        "examples": [
+            {
+                "code": "comprehensive_example_the-exam-is-comprehensive",
+                "text": "The exam is comprehensive."
+            },
+            {
+                "code": "comprehensive_example_the-training-was-extremely-comprehensive",
+                "text": "The training was extremely comprehensive."
+            },
+            {
+                "code": "comprehensive_example_my-book-report-is-fully-comprehensive",
+                "text": "My book report is fully comprehensive."
+            },
+            {
+                "code": "comprehensive_example_the-plan-is-a-comprehensive-approach",
+                "text": "The plan is a comprehensive approach."
+            },
+            {
+                "code": "comprehensive_example_this-option-gives-you-comprehensive-coverage",
+                "text": "This option gives you comprehensive coverage."
+            },
+            {
+                "code": "comprehensive_example_it-comes-with-a-comprehensive-guide",
+                "text": "It comes with a comprehensive guide."
+            },
+            {
+                "code": "comprehensive_example_the-study-has-comprehensive-data",
+                "text": "The study has comprehensive data."
+            },
+            {
+                "code": "comprehensive_example_the-students-do-not-like-comprehensive-exams",
+                "text": "The students do not like comprehensive exams."
+            }
+        ]
+    }
+]

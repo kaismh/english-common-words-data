@@ -1,0 +1,44 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the act of moving through water using the arms and legs",
+        "examples": [
+            {
+                "code": "swimming_example_he-wears-a-swimming-cap-in-the-water",
+                "text": "He wears a swimming cap in the water."
+            },
+            {
+                "code": "swimming_example_she-is-the-swimming-champion-of-her-school",
+                "text": "She is the swimming champion of her school."
+            },
+            {
+                "code": "swimming_example_she-is-taking-swimming-lessons",
+                "text": "She is taking swimming lessons."
+            },
+            {
+                "code": "swimming_example_we-have-a-swimming-pool-in-our-backyard",
+                "text": "We have a swimming pool in our backyard."
+            },
+            {
+                "code": "swimming_example_he-forgot-his-swimming-suit",
+                "text": "He forgot his swimming suit."
+            },
+            {
+                "code": "swimming_example_swimming-is-my-favorite-activity",
+                "text": "Swimming is my favorite activity."
+            },
+            {
+                "code": "swimming_example_it-was-the-swimming-the-children-enjoyed-most",
+                "text": "It was the swimming the children enjoyed most."
+            },
+            {
+                "code": "swimming_example_swimming-is-good-exercise",
+                "text": "Swimming is good exercise."
+            },
+            {
+                "code": "swimming_example_all-children-need-is-a-place-for-swimming",
+                "text": "All children need is a place for swimming."
+            }
+        ]
+    }
+]

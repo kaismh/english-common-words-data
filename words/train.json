@@ -1,0 +1,102 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a number of cars connected together that ride on top of railroad tracks",
+        "examples": [
+            {
+                "code": "train_example_the-passenger-train-was-full",
+                "text": "The passenger train was full."
+            },
+            {
+                "code": "train_example_the-city-has-a-new-high-speed-train",
+                "text": "The city has a new high-speed train."
+            },
+            {
+                "code": "train_example_the-last-train-leaves-at-midnight",
+                "text": "The last train leaves at midnight."
+            },
+            {
+                "code": "train_example_we-could-hear-the-approaching-train",
+                "text": "We could hear the approaching train."
+            },
+            {
+                "code": "train_example_he-takes-the-train-to-work",
+                "text": "He takes the train to work."
+            },
+            {
+                "code": "train_example_they-boarded-the-train-at-the-last-minute",
+                "text": "They boarded the train at the last minute."
+            },
+            {
+                "code": "train_example_we-need-to-catch-the-train-in-five-minutes",
+                "text": "We need to catch the train in five minutes!"
+            },
+            {
+                "code": "train_example_the-train-approached-the-station",
+                "text": "The train approached the station."
+            },
+            {
+                "code": "train_example_the-train-departed-on-time",
+                "text": "The train departed on time."
+            },
+            {
+                "code": "train_example_we-missed-the-train",
+                "text": "We missed the train."
+            },
+            {
+                "code": "train_example_the-train-runs-every-hour",
+                "text": "The train runs every hour."
+            },
+            {
+                "code": "train_example_she-travels-by-train",
+                "text": "She travels by train."
+            },
+            {
+                "code": "train_example_there-were-too-many-people-on-the-train",
+                "text": "There were too many people on the train."
+            },
+            {
+                "code": "train_example_he-got-stuck-on-the-train-tracks",
+                "text": "He got stuck on the train tracks."
+            },
+            {
+                "code": "train_example_they-will-meet-us-at-the-train-station",
+                "text": "They will meet us at the train station."
+            },
+            {
+                "code": "train_example_we-lost-our-train-tickets",
+                "text": "We lost our train tickets."
+            },
+            {
+                "code": "train_example_i-fell-asleep-during-the-train-ride",
+                "text": "I fell asleep during the train ride."
+            },
+            {
+                "code": "train_example_train-service-is-slow",
+                "text": "Train service is slow."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to teach a person or animal how to do something",
+        "examples": [
+            {
+                "code": "train_example_she-successfully-trained-her-puppy-to-be-housebroken",
+                "text": "She successfully trained her puppy to be housebroken."
+            },
+            {
+                "code": "train_example_he-trained-extensively-for-that-competition",
+                "text": "He trained extensively for that competition."
+            },
+            {
+                "code": "train_example_she-trains-daily-for-the-marathon",
+                "text": "She trains daily for the marathon."
+            },
+            {
+                "code": "train_example_the-gymnast-is-training-for-the-next-olympics",
+                "text": "The gymnast is training for the next Olympics."
+            }
+        ]
+    }
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a part of something; a part broken, cut, or torn off a larger thing",
+        "examples": [
+            {
+                "code": "piece_example_i-would-like-two-pieces-of-cake",
+                "text": "I would like two pieces of cake."
+            },
+            {
+                "code": "piece_example_i-need-a-piece-of-paper",
+                "text": "I need a piece of paper."
+            },
+            {
+                "code": "piece_example_we-lost-one-of-our-puzzle-pieces",
+                "text": "We lost one of our puzzle pieces."
+            },
+            {
+                "code": "piece_example_did-you-move-your-chess-piece-yet",
+                "text": "Did you move your chess piece yet?"
+            },
+            {
+                "code": "piece_example_we-broke-the-bread-into-bite-sized-pieces",
+                "text": "We broke the bread into bite-sized pieces."
+            },
+            {
+                "code": "piece_example_we-need-big-pieces-of-paper",
+                "text": "We need big pieces of paper."
+            },
+            {
+                "code": "piece_example_can-you-help-me-find-the-missing-piece",
+                "text": "Can you help me find the missing piece?"
+            },
+            {
+                "code": "piece_example_please-help-me-assemble-the-pieces",
+                "text": "Please help me assemble the pieces."
+            },
+            {
+                "code": "piece_example_the-pieces-were-scattered-everywhere",
+                "text": "The pieces were scattered everywhere."
+            },
+            {
+                "code": "piece_example_let-me-give-you-a-piece-of-advice",
+                "text": "Let me give you a piece of advice."
+            },
+            {
+                "code": "piece_example_the-broken-dish-is-in-pieces-on-the-floor",
+                "text": "The broken dish is in pieces on the floor."
+            }
+        ]
+    }
+]

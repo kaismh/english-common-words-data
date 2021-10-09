@@ -1,0 +1,62 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the part that controls the forward or backward movement of a car; equipment or clothes of a specific activity",
+        "examples": [
+            {
+                "code": "gear_example_she-put-her-car-into-low-gear",
+                "text": "She put her car into low gear."
+            },
+            {
+                "code": "gear_example_he-shifted-into-first-gear",
+                "text": "He shifted into first gear."
+            },
+            {
+                "code": "gear_example_they-went-shopping-for-camping-gear",
+                "text": "They went shopping for camping gear."
+            },
+            {
+                "code": "gear_example_make-sure-you-wear-protective-gear",
+                "text": "Make sure you wear protective gear."
+            },
+            {
+                "code": "gear_example_the-landing-gear-is-stuck",
+                "text": "The landing gear is stuck."
+            },
+            {
+                "code": "gear_example_she-s-still-learning-to-change-gears",
+                "text": "She's still learning to change gears."
+            },
+            {
+                "code": "gear_example_he-put-the-car-into-first-gear",
+                "text": "He put the car into first gear."
+            },
+            {
+                "code": "gear_example_they-have-on-special-gear-for-severe-weather-conditions",
+                "text": "They have on special gear for severe weather conditions."
+            },
+            {
+                "code": "gear_example_i-should-put-on-my-hiking-gear-before-we-go",
+                "text": "I should put on my hiking gear before we go."
+            },
+            {
+                "code": "gear_example_she-has-to-get-the-gear-shift-repaired",
+                "text": "She has to get the gear shift repaired."
+            },
+            {
+                "code": "gear_example_the-car-was-in-first-gear",
+                "text": "The car was in first gear."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to make something suitable for a specific use",
+        "examples": [
+            {
+                "code": "gear_example_the-program-is-primarily-geared-toward-children",
+                "text": "The program is primarily geared toward children."
+            }
+        ]
+    }
+]

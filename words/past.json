@@ -1,0 +1,78 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "previous; just happened",
+        "examples": [
+            {
+                "code": "past_example_you-can-learn-a-lot-from-past-experiences",
+                "text": "You can learn a lot from past experiences."
+            },
+            {
+                "code": "past_example_i-wrote-this-sentence-in-past-tense",
+                "text": "I wrote this sentence in past tense."
+            },
+            {
+                "code": "past_example_this-past-year-has-been-difficult",
+                "text": "This past year has been difficult."
+            },
+            {
+                "code": "past_example_there-have-been-many-changes-in-the-past-century",
+                "text": "There have been many changes in the past century."
+            }
+        ]
+    },
+    {
+        "type": "(n)",
+        "mean": "a previous time",
+        "examples": [
+            {
+                "code": "past_example_it-s-not-healthy-to-live-in-the-past",
+                "text": "It's not healthy to live in the past."
+            },
+            {
+                "code": "past_example_she-tried-to-erase-the-past",
+                "text": "She tried to erase the past."
+            },
+            {
+                "code": "past_example_he-regrets-his-past",
+                "text": "He regrets his past."
+            },
+            {
+                "code": "past_example_scientists-are-always-trying-to-recreate-the-past",
+                "text": "Scientists are always trying to recreate the past."
+            },
+            {
+                "code": "past_example_the-recent-past-has-taught-us-to-use-caution",
+                "text": "The recent past has taught us to use caution."
+            },
+            {
+                "code": "past_example_in-the-distant-past-our-ancestors-hunted-mammoths",
+                "text": "In the distant past, our ancestors hunted mammoths."
+            },
+            {
+                "code": "past_example_she-is-ashamed-of-her-troubled-past",
+                "text": "She is ashamed of her troubled past."
+            },
+            {
+                "code": "past_example_people-are-curious-about-his-mysterious-past",
+                "text": "People are curious about his mysterious past."
+            },
+            {
+                "code": "past_example_don-t-dwell-on-the-past",
+                "text": "Don't dwell on the past."
+            },
+            {
+                "code": "past_example_he-likes-to-live-in-the-past",
+                "text": "He likes to live in the past."
+            },
+            {
+                "code": "past_example_you-should-let-go-of-the-past-and-move-forward",
+                "text": "You should let go of the past and move forward."
+            },
+            {
+                "code": "past_example_do-you-remember-things-from-the-past",
+                "text": "Do you remember things from the past?"
+            }
+        ]
+    }
+]

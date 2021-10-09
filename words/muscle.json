@@ -1,0 +1,68 @@
+[
+    {
+        "type": "(n)",
+        "mean": "body tissue that creates movement in a particular area of the body",
+        "examples": [
+            {
+                "code": "muscle_example_he-clenched-his-muscles",
+                "text": "He clenched his muscles."
+            },
+            {
+                "code": "muscle_example_she-uses-her-muscles",
+                "text": "She uses her muscles."
+            },
+            {
+                "code": "muscle_example_i-need-to-build-muscle",
+                "text": "I need to build muscle."
+            },
+            {
+                "code": "muscle_example_he-strained-a-muscle-at-practice",
+                "text": "He strained a muscle at practice."
+            },
+            {
+                "code": "muscle_example_you-should-stretch-your-muscles-before-you-work-out",
+                "text": "You should stretch your muscles before you work out."
+            },
+            {
+                "code": "muscle_example_i-have-a-muscle-tear",
+                "text": "I have a muscle tear."
+            },
+            {
+                "code": "muscle_example_i-want-to-build-muscle-mass",
+                "text": "I want to build muscle mass."
+            },
+            {
+                "code": "muscle_example_we-are-studying-muscle-cells-in-biology-class",
+                "text": "We are studying muscle cells in biology class."
+            },
+            {
+                "code": "muscle_example_i-ve-had-a-lot-of-muscle-pain",
+                "text": "I've had a lot of muscle pain."
+            },
+            {
+                "code": "muscle_example_she-has-great-muscle-tone",
+                "text": "She has great muscle tone."
+            },
+            {
+                "code": "muscle_example_she-has-lean-muscles",
+                "text": "She has lean muscles."
+            },
+            {
+                "code": "muscle_example_i-have-a-cramped-muscle",
+                "text": "I have a cramped muscle."
+            },
+            {
+                "code": "muscle_example_my-facial-muscles-are-twitching",
+                "text": "My facial muscles are twitching."
+            },
+            {
+                "code": "muscle_example_i-have-sore-muscles-from-working-too-hard",
+                "text": "I have sore muscles from working too hard."
+            },
+            {
+                "code": "muscle_example_the-body-builder-has-powerful-muscles",
+                "text": "The body builder has powerful muscles."
+            }
+        ]
+    }
+]

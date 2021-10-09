@@ -1,0 +1,96 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a large vehicle used for carrying many people",
+        "examples": [
+            {
+                "code": "bus_example_a-shuttle-bus-will-take-you-to-the-airport",
+                "text": "A shuttle bus will take you to the airport."
+            },
+            {
+                "code": "bus_example_we-ll-see-the-city-in-a-tour-bus",
+                "text": "We'll see the city in a tour bus."
+            },
+            {
+                "code": "bus_example_my-children-take-a-school-bus-in-the-morning",
+                "text": "My children take a school bus in the morning."
+            },
+            {
+                "code": "bus_example_this-is-a-crowded-bus",
+                "text": "This is a crowded bus."
+            },
+            {
+                "code": "bus_example_don-t-miss-the-last-bus",
+                "text": "Don't miss the last bus."
+            },
+            {
+                "code": "bus_example_we-ll-go-by-bus",
+                "text": "We'll go by bus."
+            },
+            {
+                "code": "bus_example_how-long-did-you-wait-for-the-bus",
+                "text": "How long did you wait for the bus?"
+            },
+            {
+                "code": "bus_example_we-ll-try-to-catch-the-bus",
+                "text": "We'll try to catch the bus."
+            },
+            {
+                "code": "bus_example_i-missed-the-bus",
+                "text": "I missed the bus."
+            },
+            {
+                "code": "bus_example_my-son-wants-to-ride-the-bus",
+                "text": "My son wants to ride the bus."
+            },
+            {
+                "code": "bus_example_the-bus-runs-every-hour",
+                "text": "The bus runs every hour."
+            },
+            {
+                "code": "bus_example_buses-stop-here",
+                "text": "Buses stop here."
+            },
+            {
+                "code": "bus_example_this-bus-can-take-all-of-the-students-to-the-field-trip",
+                "text": "This bus can take all of the students to the field trip."
+            },
+            {
+                "code": "bus_example_does-the-bus-pick-up-many-people",
+                "text": "Does the bus pick up many people?"
+            },
+            {
+                "code": "bus_example_do-you-know-the-bus-schedule",
+                "text": "Do you know the bus schedule?"
+            },
+            {
+                "code": "bus_example_where-is-the-bus-terminal",
+                "text": "Where is the bus terminal?"
+            },
+            {
+                "code": "bus_example_this-will-be-a-long-bus-trip",
+                "text": "This will be a long bus trip."
+            },
+            {
+                "code": "bus_example_she-s-a-bus-rider",
+                "text": "She's a bus rider."
+            },
+            {
+                "code": "bus_example_show-me-your-bus-pass",
+                "text": "Show me your bus pass."
+            },
+            {
+                "code": "bus_example_we-will-go-by-bus",
+                "text": "We will go by bus."
+            },
+            {
+                "code": "bus_example_is-this-the-bus-for-downtown",
+                "text": "Is this the bus for downtown?"
+            },
+            {
+                "code": "bus_example_let-s-take-the-bus-into-town",
+                "text": "Let's take the bus into town."
+            }
+        ]
+    }
+]

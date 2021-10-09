@@ -1,0 +1,64 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "happening often; shared by many people",
+        "examples": [
+            {
+                "code": "common_example_texting-is-quite-common-among-teenagers",
+                "text": "Texting is quite common among teenagers."
+            },
+            {
+                "code": "common_example_vandalism-has-become-common-in-this-area",
+                "text": "Vandalism has become common in this area."
+            },
+            {
+                "code": "common_example_air-conditioning-remains-a-common-feature-in-cars",
+                "text": "Air-conditioning remains a common feature in cars."
+            },
+            {
+                "code": "common_example_they-have-common-interests",
+                "text": "They have common interests."
+            },
+            {
+                "code": "common_example_johnson-is-a-fairly-common-last-name",
+                "text": "Johnson is a fairly common last name."
+            },
+            {
+                "code": "common_example_communicating-through-email-is-becoming-increasingly-common-in-the-workplace",
+                "text": "Communicating through email is becoming increasingly common in the workplace."
+            },
+            {
+                "code": "common_example_knee-problems-are-very-common-among-old-people",
+                "text": "Knee problems are very common among old people."
+            },
+            {
+                "code": "common_example_this-style-is-common-to-all-french-people",
+                "text": "This style is common to all French people."
+            },
+            {
+                "code": "common_example_the-two-countries-share-a-common-border",
+                "text": "The two countries share a common border."
+            },
+            {
+                "code": "common_example_there-is-no-cure-for-the-common-cold",
+                "text": "There is no cure for the common cold."
+            },
+            {
+                "code": "common_example_please-show-some-common-courtesy",
+                "text": "Please show some common courtesy."
+            },
+            {
+                "code": "common_example_the-roommates-share-a-common-interest",
+                "text": "The roommates share a common interest."
+            },
+            {
+                "code": "common_example_that-should-be-common-knowledge",
+                "text": "That should be common knowledge."
+            },
+            {
+                "code": "common_example_that-s-a-common-mistake",
+                "text": "That's a common mistake."
+            }
+        ]
+    }
+]

@@ -1,0 +1,214 @@
+[
+    {
+        "type": "(n)",
+        "mean": "part of the body at the end of the arm; help or assistance; a role in a situation",
+        "examples": [
+            {
+                "code": "hand_example_he-injured-his-left-hand",
+                "text": "He injured his left hand."
+            },
+            {
+                "code": "hand_example_she-has-beautiful-hands",
+                "text": "She has beautiful hands."
+            },
+            {
+                "code": "hand_example_he-has-rough-hands",
+                "text": "He has rough hands."
+            },
+            {
+                "code": "hand_example_his-shaking-hands-gave-away-his-nervousness",
+                "text": "His shaking hands gave away his nervousness."
+            },
+            {
+                "code": "hand_example_she-made-him-wash-his-dirty-hands-before-dinner",
+                "text": "She made him wash his dirty hands before dinner."
+            },
+            {
+                "code": "hand_example_are-your-hands-clean",
+                "text": "Are your hands clean?"
+            },
+            {
+                "code": "hand_example_he-grabbed-the-book-with-his-free-hand",
+                "text": "He grabbed the book with his free hand."
+            },
+            {
+                "code": "hand_example_this-task-requires-a-steady-hand",
+                "text": "This task requires a steady hand."
+            },
+            {
+                "code": "hand_example_he-took-her-hand-and-led-her-into-the-room",
+                "text": "He took her hand and led her into the room."
+            },
+            {
+                "code": "hand_example_she-grabbed-his-hand-in-fear",
+                "text": "She grabbed his hand in fear."
+            },
+            {
+                "code": "hand_example_he-held-her-hand-while-they-waited",
+                "text": "He held her hand while they waited."
+            },
+            {
+                "code": "hand_example_he-shook-my-hand-before-leaving",
+                "text": "He shook my hand before leaving."
+            },
+            {
+                "code": "hand_example_i-felt-his-hand-on-my-shoulder",
+                "text": "I felt his hand on my shoulder."
+            },
+            {
+                "code": "hand_example_she-put-her-hand-over-her-mouth-to-hide-her-shock",
+                "text": "She put her hand over her mouth to hide her shock."
+            },
+            {
+                "code": "hand_example_the-student-raised-his-hand-with-a-question",
+                "text": "The student raised his hand with a question."
+            },
+            {
+                "code": "hand_example_he-threw-up-his-hands-as-a-sign-of-defeat",
+                "text": "He threw up his hands as a sign of defeat."
+            },
+            {
+                "code": "hand_example_everyone-was-clapping-their-hands-with-the-beat",
+                "text": "Everyone was clapping their hands with the beat."
+            },
+            {
+                "code": "hand_example_she-rubbed-her-hands-to-warm-them-up",
+                "text": "She rubbed her hands to warm them up."
+            },
+            {
+                "code": "hand_example_make-sure-you-wash-your-hands",
+                "text": "Make sure you wash your hands."
+            },
+            {
+                "code": "hand_example_her-hands-shook-with-fear",
+                "text": "Her hands shook with fear."
+            },
+            {
+                "code": "hand_example_she-ran-her-hands-along-the-smooth-wood",
+                "text": "She ran her hands along the smooth wood."
+            },
+            {
+                "code": "hand_example_can-you-give-me-a-hand-with-this",
+                "text": "Can you give me a hand with this?"
+            },
+            {
+                "code": "hand_example_do-you-need-a-hand",
+                "text": "Do you need a hand?"
+            },
+            {
+                "code": "hand_example_she-cupped-her-hands-and-whispered-in-his-ear",
+                "text": "She cupped her hands and whispered in his ear."
+            },
+            {
+                "code": "hand_example_he-uses-a-lot-of-hand-gestures-when-he-speaks",
+                "text": "He uses a lot of hand gestures when he speaks."
+            },
+            {
+                "code": "hand_example_is-there-a-hand-dryer",
+                "text": "Is there a hand dryer?"
+            },
+            {
+                "code": "hand_example_he-has-a-lot-of-hand-tools",
+                "text": "He has a lot of hand tools."
+            },
+            {
+                "code": "hand_example_i-used-a-hand-mixer-to-make-applesauce",
+                "text": "I used a hand mixer to make applesauce."
+            },
+            {
+                "code": "hand_example_the-students-are-making-hand-puppets",
+                "text": "The students are making hand puppets."
+            },
+            {
+                "code": "hand_example_i-need-to-buy-hand-cream",
+                "text": "I need to buy hand cream."
+            },
+            {
+                "code": "hand_example_he-has-a-hand-injury",
+                "text": "He has a hand injury."
+            },
+            {
+                "code": "hand_example_they-counted-the-ballots-by-hand",
+                "text": "They counted the ballots by hand."
+            },
+            {
+                "code": "hand_example_reach-out-with-your-left-hand-and-you-ll-find-it",
+                "text": "Reach out with your left hand and you'll find it."
+            },
+            {
+                "code": "hand_example_she-grasped-the-note-in-her-hand",
+                "text": "She grasped the note in her hand."
+            },
+            {
+                "code": "hand_example_he-has-a-huge-scar-on-his-left-hand",
+                "text": "He has a huge scar on his left hand."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to give; to pass something to someone",
+        "examples": [
+            {
+                "code": "hand_example_he-practically-handed-them-the-win",
+                "text": "He practically handed them the win."
+            },
+            {
+                "code": "hand_example_they-officially-handed-over-power",
+                "text": "They officially handed over power."
+            },
+            {
+                "code": "hand_example_he-quickly-handed-over-the-stolen-goods",
+                "text": "He quickly handed over the stolen goods."
+            },
+            {
+                "code": "hand_example_he-carefully-handed-me-the-vase",
+                "text": "He carefully handed me the vase."
+            },
+            {
+                "code": "hand_example_the-teacher-handed-back-our-assignments",
+                "text": "The teacher handed back our assignments."
+            },
+            {
+                "code": "hand_example_we-handed-in-the-essays",
+                "text": "We handed in the essays."
+            },
+            {
+                "code": "hand_example_this-recipe-has-been-handed-down-for-generations",
+                "text": "This recipe has been handed down for generations."
+            },
+            {
+                "code": "hand_example_they-handed-over-the-evidence",
+                "text": "They handed over the evidence."
+            },
+            {
+                "code": "hand_example_they-agreed-to-hand-over-power",
+                "text": "They agreed to hand over power."
+            },
+            {
+                "code": "hand_example_they-refused-to-hand-over-the-prisoner",
+                "text": "They refused to hand over the prisoner."
+            },
+            {
+                "code": "hand_example_he-forced-them-to-hand-over-their-phones",
+                "text": "He forced them to hand over their phones."
+            },
+            {
+                "code": "hand_example_he-handed-her-a-card",
+                "text": "He handed her a card."
+            },
+            {
+                "code": "hand_example_she-handed-her-passport-to-the-ticket-agent",
+                "text": "She handed her passport to the ticket agent."
+            },
+            {
+                "code": "hand_example_we-just-handed-them-the-victory",
+                "text": "We just handed them the victory."
+            },
+            {
+                "code": "hand_example_can-you-hand-me-a-glass",
+                "text": "Can you hand me a glass?"
+            }
+        ]
+    }
+]

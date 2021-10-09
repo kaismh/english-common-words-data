@@ -1,0 +1,180 @@
+[
+    {
+        "type": "(n)",
+        "mean": "things people or animals eat",
+        "examples": [
+            {
+                "code": "food_example_he-complimented-her-on-the-delicious-food",
+                "text": "He complimented her on the delicious food."
+            },
+            {
+                "code": "food_example_she-made-his-favorite-food-for-his-birthday",
+                "text": "She made his favorite food for his birthday."
+            },
+            {
+                "code": "food_example_i-really-need-to-get-some-real-food",
+                "text": "I really need to get some real food."
+            },
+            {
+                "code": "food_example_her-family-does-not-have-enough-food",
+                "text": "Her family does not have enough food."
+            },
+            {
+                "code": "food_example_she-s-learning-to-cook-basic-foods",
+                "text": "She's learning to cook basic foods."
+            },
+            {
+                "code": "food_example_she-really-enjoys-exotic-foods",
+                "text": "She really enjoys exotic foods."
+            },
+            {
+                "code": "food_example_he-eats-a-lot-of-unhealthy-food",
+                "text": "He eats a lot of unhealthy food."
+            },
+            {
+                "code": "food_example_they-always-have-leftover-food",
+                "text": "They always have leftover food."
+            },
+            {
+                "code": "food_example_they-threw-away-a-lot-of-rotten-food",
+                "text": "They threw away a lot of rotten food."
+            },
+            {
+                "code": "food_example_she-buys-a-lot-of-health-food",
+                "text": "She buys a lot of health food."
+            },
+            {
+                "code": "food_example_they-stocked-up-on-frozen-foods",
+                "text": "They stocked up on frozen foods."
+            },
+            {
+                "code": "food_example_she-gained-weight-from-eating-fatty-foods",
+                "text": "She gained weight from eating fatty foods."
+            },
+            {
+                "code": "food_example_he-loves-spicy-food",
+                "text": "He loves spicy food."
+            },
+            {
+                "code": "food_example_they-had-mexican-food-for-dinner",
+                "text": "They had Mexican food for dinner."
+            },
+            {
+                "code": "food_example_the-baby-is-not-ready-for-solid-food",
+                "text": "The baby is not ready for solid food."
+            },
+            {
+                "code": "food_example_we-need-to-buy-more-cat-food",
+                "text": "We need to buy more cat food."
+            },
+            {
+                "code": "food_example_they-complained-about-the-hospital-food",
+                "text": "They complained about the hospital food."
+            },
+            {
+                "code": "food_example_i-ate-too-much-food-last-night",
+                "text": "I ate too much food last night."
+            },
+            {
+                "code": "food_example_she-loves-mexican-food",
+                "text": "She loves Mexican food."
+            },
+            {
+                "code": "food_example_he-lives-on-fast-food",
+                "text": "He lives on fast food."
+            },
+            {
+                "code": "food_example_she-is-avoiding-fatty-foods",
+                "text": "She is avoiding fatty foods."
+            },
+            {
+                "code": "food_example_you-can-t-live-without-food-for-very-long",
+                "text": "You can't live without food for very long."
+            },
+            {
+                "code": "food_example_they-are-trying-to-offer-healthier-foods",
+                "text": "They are trying to offer healthier foods."
+            },
+            {
+                "code": "food_example_the-red-cross-provided-food-after-the-disaster",
+                "text": "The Red Cross provided food after the disaster."
+            },
+            {
+                "code": "food_example_she-tries-to-feed-her-kids-good-food",
+                "text": "She tries to feed her kids good food."
+            },
+            {
+                "code": "food_example_she-s-learning-to-cook-new-foods",
+                "text": "She's learning to cook new foods."
+            },
+            {
+                "code": "food_example_he-only-picks-at-his-food",
+                "text": "He only picks at his food."
+            },
+            {
+                "code": "food_example_i-can-almost-taste-my-grandmother-s-food-right-now",
+                "text": "I can almost taste my grandmother's food right now."
+            },
+            {
+                "code": "food_example_they-grow-their-own-food",
+                "text": "They grow their own food."
+            },
+            {
+                "code": "food_example_that-country-imports-food-from-all-over-the-world",
+                "text": "That country imports food from all over the world."
+            },
+            {
+                "code": "food_example_they-had-to-beg-for-food",
+                "text": "They had to beg for food."
+            },
+            {
+                "code": "food_example_their-food-finally-arrived",
+                "text": "Their food finally arrived."
+            },
+            {
+                "code": "food_example_they-provided-food-supplies-to-those-affected-by-the-disaster",
+                "text": "They provided food supplies to those affected by the disaster."
+            },
+            {
+                "code": "food_example_we-learned-about-the-food-groups-in-school",
+                "text": "We learned about the food groups in school."
+            },
+            {
+                "code": "food_example_they-are-concerned-about-food-quality",
+                "text": "They are concerned about food quality."
+            },
+            {
+                "code": "food_example_she-has-a-severe-food-allergy",
+                "text": "She has a severe food allergy."
+            },
+            {
+                "code": "food_example_there-was-a-food-crisis-after-the-hurricane",
+                "text": "There was a food crisis after the hurricane."
+            },
+            {
+                "code": "food_example_he-works-for-a-major-food-producer",
+                "text": "He works for a major food producer."
+            },
+            {
+                "code": "food_example_food-prices-are-going-up",
+                "text": "Food prices are going up."
+            },
+            {
+                "code": "food_example_she-got-food-poisoning-from-that-restaurant",
+                "text": "She got food poisoning from that restaurant."
+            },
+            {
+                "code": "food_example_he-uses-a-food-processor-to-make-salsa",
+                "text": "He uses a food processor to make salsa."
+            },
+            {
+                "code": "food_example_they-went-many-days-without-food",
+                "text": "They went many days without food."
+            },
+            {
+                "code": "food_example_these-are-grown-for-food",
+                "text": "These are grown for food."
+            }
+        ]
+    }
+]

@@ -1,0 +1,54 @@
+[
+    {
+        "type": "(adv)",
+        "mean": "not at any place",
+        "examples": [
+            {
+                "code": "nowhere_example_this-road-goes-nowhere",
+                "text": "This road goes nowhere."
+            },
+            {
+                "code": "nowhere_example_we-are-nowhere-near-the-area",
+                "text": "We are nowhere near the area."
+            },
+            {
+                "code": "nowhere_example_the-children-complain-we-go-nowhere-fun",
+                "text": "The children complain we go nowhere fun."
+            },
+            {
+                "code": "nowhere_example_they-were-nowhere-around-the-crime-scene",
+                "text": "They were nowhere around the crime scene."
+            },
+            {
+                "code": "nowhere_example_the-cat-is-nowhere-to-be-found",
+                "text": "The cat is nowhere to be found."
+            },
+            {
+                "code": "nowhere_example_the-car-was-nowhere-in-sight",
+                "text": "The car was nowhere in sight."
+            },
+            {
+                "code": "nowhere_example_she-has-nowhere-to-go",
+                "text": "She has nowhere to go."
+            },
+            {
+                "code": "nowhere_example_he-has-nowhere-else-to-go",
+                "text": "He has nowhere else to go."
+            },
+            {
+                "code": "nowhere_example_nowhere-does-it-say-you-can-t-bring-pets",
+                "text": "Nowhere does it say you can't bring pets."
+            }
+        ]
+    },
+    {
+        "type": "(n)",
+        "mean": "no place",
+        "examples": [
+            {
+                "code": "nowhere_example_he-came-out-of-nowhere",
+                "text": "He came out of nowhere."
+            }
+        ]
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a type of dessert; a pastry dessert baked in the oven filled with fruits",
+        "examples": [
+            {
+                "code": "pie_example_my-mother-bakes-pies",
+                "text": "My mother bakes pies."
+            },
+            {
+                "code": "pie_example_would-you-like-another-slice-of-pie",
+                "text": "Would you like another slice of pie?"
+            },
+            {
+                "code": "pie_example_i-like-the-pie-filling",
+                "text": "I like the pie filling."
+            },
+            {
+                "code": "pie_example_may-i-borrow-a-pie-pan",
+                "text": "May I borrow a pie pan?"
+            },
+            {
+                "code": "pie_example_i-love-apple-pie",
+                "text": "I love apple pie."
+            },
+            {
+                "code": "pie_example_what-s-the-fruit-in-that-pie",
+                "text": "What's the fruit in that pie?"
+            }
+        ]
+    }
+]

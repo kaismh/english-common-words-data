@@ -1,0 +1,92 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a giant hill; a huge amount of something",
+        "examples": [
+            {
+                "code": "mountain_example_he-descended-the-mountain",
+                "text": "He descended the mountain."
+            },
+            {
+                "code": "mountain_example_we-crossed-the-mountains",
+                "text": "We crossed the mountains."
+            },
+            {
+                "code": "mountain_example_our-hotel-room-overlooks-the-mountains",
+                "text": "Our hotel room overlooks the mountains."
+            },
+            {
+                "code": "mountain_example_the-mountains-tower-over-the-land",
+                "text": "The mountains tower over the land."
+            },
+            {
+                "code": "mountain_example_the-mistake-generated-a-mountain-of-extra-work",
+                "text": "The mistake generated a mountain of extra work."
+            },
+            {
+                "code": "mountain_example_they-are-facing-a-mountain-of-debt",
+                "text": "They are facing a mountain of debt."
+            },
+            {
+                "code": "mountain_example_we-flew-over-the-mountain-range",
+                "text": "We flew over the mountain range."
+            },
+            {
+                "code": "mountain_example_we-walked-along-the-mountain-path",
+                "text": "We walked along the mountain path."
+            },
+            {
+                "code": "mountain_example_he-photographs-mountain-landscape",
+                "text": "He photographs mountain landscape."
+            },
+            {
+                "code": "mountain_example_we-re-enjoying-the-mountain-air",
+                "text": "We're enjoying the mountain air."
+            },
+            {
+                "code": "mountain_example_we-saw-mountain-people",
+                "text": "We saw mountain people."
+            },
+            {
+                "code": "mountain_example_we-witnessed-a-mountain-rescue",
+                "text": "We witnessed a mountain rescue."
+            },
+            {
+                "code": "mountain_example_let-s-go-mountain-climbing-next-weekend",
+                "text": "Let's go mountain climbing next weekend."
+            },
+            {
+                "code": "mountain_example_we-saw-a-mountain-goat",
+                "text": "We saw a mountain goat."
+            },
+            {
+                "code": "mountain_example_i-bought-a-mountain-bike",
+                "text": "I bought a mountain bike."
+            },
+            {
+                "code": "mountain_example_we-have-a-lovely-view-of-the-snow-capped-mountains",
+                "text": "We have a lovely view of the snow-capped mountains."
+            },
+            {
+                "code": "mountain_example_there-are-big-mountains-in-the-distance",
+                "text": "There are big mountains in the distance."
+            },
+            {
+                "code": "mountain_example_we-climbed-a-small-mountain",
+                "text": "We climbed a small mountain."
+            },
+            {
+                "code": "mountain_example_i-have-a-mountain-of-work",
+                "text": "I have a mountain of work."
+            },
+            {
+                "code": "mountain_example_she-drove-across-the-mountains",
+                "text": "She drove across the mountains."
+            },
+            {
+                "code": "mountain_example_he-lives-deep-in-the-mountains",
+                "text": "He lives deep in the mountains."
+            }
+        ]
+    }
+]

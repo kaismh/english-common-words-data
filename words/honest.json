@@ -1,0 +1,72 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "truthful or sincere; not cheating, lying, or stealing",
+        "examples": [
+            {
+                "code": "honest_example_he-seems-honest",
+                "text": "He seems honest."
+            },
+            {
+                "code": "honest_example_she-is-extremely-honest-about-what-she-wants",
+                "text": "She is extremely honest about what she wants."
+            },
+            {
+                "code": "honest_example_i-don-t-think-he-was-completely-honest-about-his-intentions",
+                "text": "I don't think he was completely honest about his intentions."
+            },
+            {
+                "code": "honest_example_he-was-not-entirely-honest-to-her",
+                "text": "He was not entirely honest to her."
+            },
+            {
+                "code": "honest_example_she-is-refreshingly-honest",
+                "text": "She is refreshingly honest."
+            },
+            {
+                "code": "honest_example_i-want-you-to-be-brutally-honest-with-me",
+                "text": "I want you to be brutally honest with me."
+            },
+            {
+                "code": "honest_example_i-need-you-to-be-honest-about-this",
+                "text": "I need you to be honest about this."
+            },
+            {
+                "code": "honest_example_he-was-completely-honest-with-him",
+                "text": "He was completely honest with him."
+            },
+            {
+                "code": "honest_example_did-he-give-you-an-honest-answer",
+                "text": "Did he give you an honest answer?"
+            },
+            {
+                "code": "honest_example_they-didn-t-give-me-an-honest-assessment",
+                "text": "They didn't give me an honest assessment."
+            },
+            {
+                "code": "honest_example_this-is-just-an-honest-mistake",
+                "text": "This is just an honest mistake."
+            },
+            {
+                "code": "honest_example_tell-me-your-honest-opinion",
+                "text": "Tell me your honest opinion."
+            },
+            {
+                "code": "honest_example_he-s-trying-to-make-an-honest-living",
+                "text": "He's trying to make an honest living."
+            },
+            {
+                "code": "honest_example_we-re-trying-to-have-an-honest-discussion",
+                "text": "We're trying to have an honest discussion."
+            },
+            {
+                "code": "honest_example_he-s-an-honest-man",
+                "text": "He's an honest man."
+            },
+            {
+                "code": "honest_example_she-gave-me-some-honest-feedback",
+                "text": "She gave me some honest feedback."
+            }
+        ]
+    }
+]

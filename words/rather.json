@@ -1,0 +1,44 @@
+[
+    {
+        "type": "(adv)",
+        "mean": "to some degree",
+        "examples": [
+            {
+                "code": "rather_example_i-rather-admire-her-stubbornness",
+                "text": "I rather admire her stubbornness."
+            },
+            {
+                "code": "rather_example_it-rather-depends-on-whether-everyone-is-going",
+                "text": "It rather depends on whether everyone is going."
+            },
+            {
+                "code": "rather_example_i-rather-enjoy-the-original",
+                "text": "I rather enjoy the original."
+            },
+            {
+                "code": "rather_example_i-d-rather-eat-something-else",
+                "text": "I'd rather eat something else."
+            },
+            {
+                "code": "rather_example_i-d-rather-go-somewhere-else",
+                "text": "I'd rather go somewhere else."
+            },
+            {
+                "code": "rather_example_i-d-rather-not-say",
+                "text": "I'd rather not say."
+            },
+            {
+                "code": "rather_example_they-would-rather-not-talk-about-it-anymore",
+                "text": "They would rather not talk about it anymore."
+            },
+            {
+                "code": "rather_example_this-is-rather-absurd",
+                "text": "This is rather absurd."
+            },
+            {
+                "code": "rather_example_i-am-feeling-rather-confused-about-what-happened",
+                "text": "I am feeling rather confused about what happened."
+            }
+        ]
+    }
+]

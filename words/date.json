@@ -1,0 +1,114 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a specific day, month and year; a scheduled meeting with a person",
+        "examples": [
+            {
+                "code": "date_example_i-would-like-the-earlier-date",
+                "text": "I would like the earlier date."
+            },
+            {
+                "code": "date_example_do-you-need-an-exact-date",
+                "text": "Do you need an exact date?"
+            },
+            {
+                "code": "date_example_the-closing-date-is-soon",
+                "text": "The closing date is soon."
+            },
+            {
+                "code": "date_example_do-you-know-their-arrival-date",
+                "text": "Do you know their arrival date?"
+            },
+            {
+                "code": "date_example_what-is-your-anniversary-date",
+                "text": "What is your anniversary date?"
+            },
+            {
+                "code": "date_example_the-sell-by-date-is-on-the-back",
+                "text": "The sell-by date is on the back."
+            },
+            {
+                "code": "date_example_the-cut-off-date-is-the-end-of-this-month",
+                "text": "The cut-off date is the end of this month."
+            },
+            {
+                "code": "date_example_what-is-today-s-date",
+                "text": "What is today's date?"
+            },
+            {
+                "code": "date_example_i-have-a-dinner-date-today",
+                "text": "I have a dinner date today."
+            },
+            {
+                "code": "date_example_our-first-date-went-well",
+                "text": "Our first date went well."
+            },
+            {
+                "code": "date_example_we-need-to-agree-on-a-date-for-the-wedding",
+                "text": "We need to agree on a date for the wedding."
+            },
+            {
+                "code": "date_example_they-will-announce-the-date-soon",
+                "text": "They will announce the date soon."
+            },
+            {
+                "code": "date_example_let-s-have-a-lunch-date",
+                "text": "Let's have a lunch date."
+            },
+            {
+                "code": "date_example_make-sure-to-check-the-date-on-the-package",
+                "text": "Make sure to check the date on the package."
+            },
+            {
+                "code": "date_example_can-we-change-the-date-of-the-party",
+                "text": "Can we change the date of the party?"
+            },
+            {
+                "code": "date_example_i-need-to-find-a-date-for-the-party",
+                "text": "I need to find a date for the party."
+            },
+            {
+                "code": "date_example_she-broke-a-date-with-him",
+                "text": "She broke a date with him."
+            },
+            {
+                "code": "date_example_they-will-not-take-applications-after-that-date",
+                "text": "They will not take applications after that date."
+            },
+            {
+                "code": "date_example_she-has-an-event-on-this-date",
+                "text": "She has an event on this date."
+            },
+            {
+                "code": "date_example_the-project-must-be-completed-by-the-set-date",
+                "text": "The project must be completed by the set date."
+            },
+            {
+                "code": "date_example_i-need-a-date-for-the-party",
+                "text": "I need a date for the party."
+            },
+            {
+                "code": "date_example_he-is-on-a-date",
+                "text": "He is on a date."
+            },
+            {
+                "code": "date_example_the-girl-has-a-date-with-her-boyfriend",
+                "text": "The girl has a date with her boyfriend."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to have a romantic relationship with someone; to decide when something was made or existed",
+        "examples": [
+            {
+                "code": "date_example_friends-often-date-each-other",
+                "text": "Friends often date each other."
+            },
+            {
+                "code": "date_example_archaeologists-try-to-accurately-date-their-discoveries",
+                "text": "Archaeologists try to accurately date their discoveries."
+            }
+        ]
+    }
+]

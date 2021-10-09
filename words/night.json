@@ -1,0 +1,104 @@
+[
+    {
+        "type": "(n)",
+        "mean": "time between sunset and sunrise; period of darkness; the evening when something important happens",
+        "examples": [
+            {
+                "code": "night_example_i-spent-the-night-at-her-house",
+                "text": "I spent the night at her house."
+            },
+            {
+                "code": "night_example_we-had-a-really-long-night",
+                "text": "We had a really long night."
+            },
+            {
+                "code": "night_example_he-is-on-night-duty-at-the-museum",
+                "text": "He is on night duty at the museum."
+            },
+            {
+                "code": "night_example_he-has-night-vision",
+                "text": "He has night vision."
+            },
+            {
+                "code": "night_example_the-night-sky-is-so-beautiful-in-the-countryside",
+                "text": "The night sky is so beautiful in the countryside."
+            },
+            {
+                "code": "night_example_she-has-been-having-night-sweats",
+                "text": "She has been having night sweats."
+            },
+            {
+                "code": "night_example_we-played-chess-the-whole-night",
+                "text": "We played chess the whole night."
+            },
+            {
+                "code": "night_example_it-happened-on-a-winter-night",
+                "text": "It happened on a winter night."
+            },
+            {
+                "code": "night_example_did-you-go-to-opening-night",
+                "text": "Did you go to opening night?"
+            },
+            {
+                "code": "night_example_what-are-your-plans-on-halloween-night",
+                "text": "What are your plans on Halloween night?"
+            },
+            {
+                "code": "night_example_she-had-a-busy-night",
+                "text": "She had a busy night."
+            },
+            {
+                "code": "night_example_i-was-awake-all-night",
+                "text": "I was awake all night."
+            },
+            {
+                "code": "night_example_it-is-a-beautiful-night",
+                "text": "It is a beautiful night."
+            },
+            {
+                "code": "night_example_he-spent-a-lonely-night-at-the-cafe",
+                "text": "He spent a lonely night at the café."
+            },
+            {
+                "code": "night_example_he-had-a-restless-night",
+                "text": "He had a restless night."
+            },
+            {
+                "code": "night_example_we-had-an-eventful-night",
+                "text": "We had an eventful night."
+            },
+            {
+                "code": "night_example_what-are-you-doing-tomorrow-night",
+                "text": "What are you doing tomorrow night?"
+            },
+            {
+                "code": "night_example_it-was-a-warm-night",
+                "text": "It was a warm night."
+            },
+            {
+                "code": "night_example_we-can-see-the-stars-at-night",
+                "text": "We can see the stars at night."
+            },
+            {
+                "code": "night_example_we-are-going-out-for-the-night",
+                "text": "We are going out for the night."
+            },
+            {
+                "code": "night_example_she-left-in-the-night",
+                "text": "She left in the night."
+            },
+            {
+                "code": "night_example_i-am-leaving-for-china-on-saturday-night",
+                "text": "I am leaving for China on Saturday night."
+            },
+            {
+                "code": "night_example_the-hotel-costs-100-per-night",
+                "text": "The hotel costs $100 per night."
+            },
+            {
+                "code": "night_example_i-don-t-sleep-well-during-the-night",
+                "text": "I don't sleep well during the night."
+            }
+        ]
+    }
+]

@@ -1,0 +1,76 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a side of a room or building",
+        "examples": [
+            {
+                "code": "wall_example_the-dog-jumped-over-the-tall-wall",
+                "text": "The dog jumped over the tall wall."
+            },
+            {
+                "code": "wall_example_the-apartment-has-thin-walls",
+                "text": "The apartment has thin walls."
+            },
+            {
+                "code": "wall_example_we-want-to-hang-pictures-on-the-bare-wall",
+                "text": "We want to hang pictures on the bare wall."
+            },
+            {
+                "code": "wall_example_we-are-going-to-paint-the-interior-walls",
+                "text": "We are going to paint the interior walls."
+            },
+            {
+                "code": "wall_example_the-old-building-has-brick-walls",
+                "text": "The old building has brick walls."
+            },
+            {
+                "code": "wall_example_the-carpenters-put-up-the-walls-this-morning",
+                "text": "The carpenters put up the walls this morning."
+            },
+            {
+                "code": "wall_example_the-bulldozer-destroyed-the-walls-of-the-building",
+                "text": "The bulldozer destroyed the walls of the building."
+            },
+            {
+                "code": "wall_example_we-painted-her-bedroom-walls",
+                "text": "We painted her bedroom walls."
+            },
+            {
+                "code": "wall_example_the-robber-climbed-over-the-wall",
+                "text": "The robber climbed over the wall."
+            },
+            {
+                "code": "wall_example_he-leaned-against-the-wall",
+                "text": "He leaned against the wall."
+            },
+            {
+                "code": "wall_example_the-walls-fell-during-the-earthquake",
+                "text": "The walls fell during the earthquake."
+            },
+            {
+                "code": "wall_example_the-wall-separated-the-dining-room-and-the-kitchen",
+                "text": "The wall separated the dining room and the kitchen."
+            },
+            {
+                "code": "wall_example_he-leaned-against-the-wall",
+                "text": "He leaned against the wall."
+            },
+            {
+                "code": "wall_example_she-hid-behind-the-wall",
+                "text": "She hid behind the wall."
+            },
+            {
+                "code": "wall_example_they-hung-pictures-on-the-wall",
+                "text": "They hung pictures on the wall."
+            },
+            {
+                "code": "wall_example_she-adjusted-the-wall-clock",
+                "text": "She adjusted the wall clock."
+            },
+            {
+                "code": "wall_example_she-put-up-a-new-wall-decoration",
+                "text": "She put up a new wall decoration."
+            }
+        ]
+    }
+]

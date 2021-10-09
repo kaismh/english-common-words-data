@@ -1,0 +1,52 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the customs or traditions of a certain country or group; the thoughts on art, music, or literature",
+        "examples": [
+            {
+                "code": "culture_example_we-are-studying-ancient-cultures",
+                "text": "We are studying ancient cultures."
+            },
+            {
+                "code": "culture_example_it-s-a-part-of-rural-culture",
+                "text": "It's a part of rural culture."
+            },
+            {
+                "code": "culture_example_he-is-new-to-company-culture",
+                "text": "He is new to company culture."
+            },
+            {
+                "code": "culture_example_do-you-follow-modern-culture",
+                "text": "Do you follow modern culture?"
+            },
+            {
+                "code": "culture_example_the-company-wants-to-build-a-diverse-culture",
+                "text": "The company wants to build a diverse culture."
+            },
+            {
+                "code": "culture_example_do-you-understand-their-culture",
+                "text": "Do you understand their culture?"
+            },
+            {
+                "code": "culture_example_we-should-maintain-our-culture",
+                "text": "We should maintain our culture."
+            },
+            {
+                "code": "culture_example_their-artwork-reflects-their-culture",
+                "text": "Their artwork reflects their culture."
+            },
+            {
+                "code": "culture_example_it-is-important-to-learn-other-cultures",
+                "text": "It is important to learn other cultures."
+            },
+            {
+                "code": "culture_example_there-is-a-definite-culture-shock-when-visiting-foreign-countries",
+                "text": "There is a definite culture shock when visiting foreign countries."
+            },
+            {
+                "code": "culture_example_women-are-respected-in-my-culture",
+                "text": "Women are respected in my culture."
+            }
+        ]
+    }
+]

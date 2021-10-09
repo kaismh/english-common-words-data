@@ -1,0 +1,80 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to take or get in a forceful way",
+        "examples": [
+            {
+                "code": "grab_example_she-suddenly-grabbed-the-papers-from-his-hand",
+                "text": "She suddenly grabbed the papers from his hand."
+            },
+            {
+                "code": "grab_example_she-managed-to-grab-her-purse-before-running-out-of-the-house",
+                "text": "She managed to grab her purse before running out of the house."
+            },
+            {
+                "code": "grab_example_he-tried-to-grab-her-arm",
+                "text": "He tried to grab her arm."
+            },
+            {
+                "code": "grab_example_she-grabbed-him-by-the-arm-to-keep-him-from-falling",
+                "text": "She grabbed him by the arm to keep him from falling."
+            },
+            {
+                "code": "grab_example_he-grabbed-at-the-railing-but-missed",
+                "text": "He grabbed at the railing but missed."
+            },
+            {
+                "code": "grab_example_he-tried-to-grab-the-money-from-her-hand",
+                "text": "He tried to grab the money from her hand."
+            },
+            {
+                "code": "grab_example_she-grabbed-his-hand-when-the-movie-got-scary",
+                "text": "She grabbed his hand when the movie got scary."
+            },
+            {
+                "code": "grab_example_i-need-to-grab-a-snack",
+                "text": "I need to grab a snack."
+            },
+            {
+                "code": "grab_example_do-you-want-to-grab-lunch",
+                "text": "Do you want to grab lunch?"
+            },
+            {
+                "code": "grab_example_we-should-grab-a-beer-sometime",
+                "text": "We should grab a beer sometime."
+            },
+            {
+                "code": "grab_example_she-grabbed-her-belongings-and-ran-for-the-bus",
+                "text": "She grabbed her belongings and ran for the bus."
+            },
+            {
+                "code": "grab_example_he-managed-to-grab-a-seat-on-the-packed-bus",
+                "text": "He managed to grab a seat on the packed bus."
+            },
+            {
+                "code": "grab_example_we-can-grab-a-taxi-after-the-show",
+                "text": "We can grab a taxi after the show."
+            },
+            {
+                "code": "grab_example_the-music-grabbed-her-attention",
+                "text": "The music grabbed her attention."
+            },
+            {
+                "code": "grab_example_she-is-always-trying-to-grab-the-spotlight",
+                "text": "She is always trying to grab the spotlight."
+            },
+            {
+                "code": "grab_example_she-grabbed-the-edge-of-the-table-to-steady-herself",
+                "text": "She grabbed the edge of the table to steady herself."
+            },
+            {
+                "code": "grab_example_he-tried-to-grab-the-rail-to-keep-from-falling",
+                "text": "He tried to grab the rail to keep from falling."
+            },
+            {
+                "code": "grab_example_he-quickly-grabbed-the-wheel",
+                "text": "He quickly grabbed the wheel."
+            }
+        ]
+    }
+]

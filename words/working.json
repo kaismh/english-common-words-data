@@ -1,0 +1,36 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "having a paying job",
+        "examples": [
+            {
+                "code": "working_example_the-working-age-in-this-country-is-sixteen-years-old",
+                "text": "The working age in this country is sixteen years old."
+            },
+            {
+                "code": "working_example_we-have-a-working-arrangement",
+                "text": "We have a working arrangement."
+            },
+            {
+                "code": "working_example_the-working-class-is-financially-struggling",
+                "text": "The working class is financially struggling."
+            },
+            {
+                "code": "working_example_the-government-is-investigating-the-working-conditions-of-the-factory",
+                "text": "The government is investigating the working conditions of the factory."
+            },
+            {
+                "code": "working_example_we-need-a-good-working-relationship-to-make-this-company-successful",
+                "text": "We need a good working relationship to make this company successful."
+            },
+            {
+                "code": "working_example_we-need-to-inspect-all-of-the-working-parts-of-the-machine",
+                "text": "We need to inspect all of the working parts of the machine."
+            },
+            {
+                "code": "working_example_there-are-many-more-working-mothers-in-the-workforce-now",
+                "text": "There are many more working mothers in the workforce now."
+            }
+        ]
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "having a strong interest in something",
+        "examples": [
+            {
+                "code": "curious_example_she-is-curious",
+                "text": "She is curious."
+            },
+            {
+                "code": "curious_example_the-child-became-curious",
+                "text": "The child became curious."
+            },
+            {
+                "code": "curious_example_he-made-me-curious-about-his-past",
+                "text": "He made me curious about his past."
+            },
+            {
+                "code": "curious_example_i-am-extremely-curious-about-what-is-in-that-box",
+                "text": "I am extremely curious about what is in that box."
+            },
+            {
+                "code": "curious_example_aren-t-you-fairly-curious",
+                "text": "Aren't you fairly curious?"
+            },
+            {
+                "code": "curious_example_the-dog-is-just-curious",
+                "text": "The dog is just curious."
+            },
+            {
+                "code": "curious_example_children-are-naturally-curious",
+                "text": "Children are naturally curious."
+            },
+            {
+                "code": "curious_example_the-crowd-was-curious-about-the-noise",
+                "text": "The crowd was curious about the noise."
+            },
+            {
+                "code": "curious_example_she-has-such-a-curious-mind",
+                "text": "She has such a curious mind."
+            }
+        ]
+    }
+]

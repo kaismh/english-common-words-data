@@ -1,0 +1,118 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the power to change or affect someone or something",
+        "examples": [
+            {
+                "code": "influence_example_he-has-a-strong-influence-on-his-son",
+                "text": "He has a strong influence on his son."
+            },
+            {
+                "code": "influence_example_she-has-had-growing-influence-on-me",
+                "text": "She has had growing influence on me."
+            },
+            {
+                "code": "influence_example_my-teacher-had-a-lasting-influence-on-my-life",
+                "text": "My teacher had a lasting influence on my life."
+            },
+            {
+                "code": "influence_example_alcohol-had-a-destructive-influence-on-his-marriage",
+                "text": "Alcohol had a destructive influence on his marriage."
+            },
+            {
+                "code": "influence_example_their-actions-had-a-direct-influence-on-his-life",
+                "text": "Their actions had a direct influence on his life."
+            },
+            {
+                "code": "influence_example_the-religious-group-avoided-all-outside-influences",
+                "text": "The religious group avoided all outside influences."
+            },
+            {
+                "code": "influence_example_he-has-a-calming-influence-on-everyone",
+                "text": "He has a calming influence on everyone."
+            },
+            {
+                "code": "influence_example_her-position-gave-her-influence-over-everyone",
+                "text": "Her position gave her influence over everyone."
+            },
+            {
+                "code": "influence_example_he-used-his-influence-to-find-her-a-job-at-his-company",
+                "text": "He used his influence to find her a job at his company."
+            },
+            {
+                "code": "influence_example_the-wealthy-people-extended-their-influences-throughout-the-city",
+                "text": "The wealthy people extended their influences throughout the city."
+            },
+            {
+                "code": "influence_example_he-tried-to-escape-the-influence-of-his-father",
+                "text": "He tried to escape the influence of his father."
+            },
+            {
+                "code": "influence_example_his-political-influence-was-growing",
+                "text": "His political influence was growing."
+            },
+            {
+                "code": "influence_example_he-was-under-the-influence-of-drugs",
+                "text": "He was under the influence of drugs."
+            },
+            {
+                "code": "influence_example_he-had-no-influence-from-the-outside",
+                "text": "He had no influence from the outside."
+            },
+            {
+                "code": "influence_example_she-had-a-major-influence-on-his-decision",
+                "text": "She had a major influence on his decision."
+            },
+            {
+                "code": "influence_example_i-have-absolutely-no-influence-over-him",
+                "text": "I have absolutely no influence over him."
+            },
+            {
+                "code": "influence_example_he-used-his-influence-with-the-police",
+                "text": "He used his influence with the police."
+            },
+            {
+                "code": "influence_example_she-has-a-lot-of-influence-in-her-company",
+                "text": "She has a lot of influence in her company."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to have an effect on someone or something",
+        "examples": [
+            {
+                "code": "influence_example_she-was-profoundly-influenced-by-her-pastor",
+                "text": "She was profoundly influenced by her pastor."
+            },
+            {
+                "code": "influence_example_his-attitude-was-highly-influenced-by-his-mother",
+                "text": "His attitude was highly influenced by his mother."
+            },
+            {
+                "code": "influence_example_he-was-clearly-influenced-by-money",
+                "text": "He was clearly influenced by money."
+            },
+            {
+                "code": "influence_example_we-did-not-try-to-influence-his-plans",
+                "text": "We did not try to influence his plans."
+            },
+            {
+                "code": "influence_example_nothing-seems-to-influence-her-actions",
+                "text": "Nothing seems to influence her actions."
+            },
+            {
+                "code": "influence_example_her-friends-tried-to-influence-her-into-smoking",
+                "text": "Her friends tried to influence her into smoking."
+            },
+            {
+                "code": "influence_example_nothing-could-influence-his-decision",
+                "text": "Nothing could influence his decision."
+            },
+            {
+                "code": "influence_example_they-tried-to-influence-the-outcome",
+                "text": "They tried to influence the outcome."
+            }
+        ]
+    }
+]

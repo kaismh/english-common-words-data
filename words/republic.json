@@ -1,0 +1,28 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a country that is run by a president and elected officials",
+        "examples": [
+            {
+                "code": "republic_example_they-are-trying-to-overthrow-the-republic",
+                "text": "They are trying to overthrow the republic."
+            },
+            {
+                "code": "republic_example_it-was-proclaimed-a-republic-in-1987",
+                "text": "It was proclaimed a republic in 1987."
+            },
+            {
+                "code": "republic_example_the-republic-was-established-in-the-last-century",
+                "text": "The republic was established in the last century."
+            },
+            {
+                "code": "republic_example_they-pass-laws-under-the-rules-of-a-democratic-republic",
+                "text": "They pass laws under the rules of a democratic republic."
+            },
+            {
+                "code": "republic_example_the-former-republic-was-overthrown",
+                "text": "The former republic was overthrown."
+            }
+        ]
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "all; each",
+        "examples": [
+            {
+                "code": "every_example_i-have-heard-every-excuse-possible-for-being-late",
+                "text": "I have heard every excuse possible for being late."
+            },
+            {
+                "code": "every_example_he-is-late-every-time",
+                "text": "He is late every time."
+            },
+            {
+                "code": "every_example_she-likes-every-kind-of-ice-cream",
+                "text": "She likes every kind of ice cream."
+            },
+            {
+                "code": "every_example_this-plan-has-every-chance-of-working",
+                "text": "This plan has every chance of working."
+            },
+            {
+                "code": "every_example_we-have-taken-every-step-necessary",
+                "text": "We have taken every step necessary."
+            },
+            {
+                "code": "every_example_she-makes-the-most-of-every-opportunity-she-gets",
+                "text": "She makes the most of every opportunity she gets."
+            }
+        ]
+    }
+]

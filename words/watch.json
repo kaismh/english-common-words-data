@@ -1,0 +1,134 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to look at something",
+        "examples": [
+            {
+                "code": "watch_example_people-are-closely-watching-the-election-results",
+                "text": "People are closely watching the election results."
+            },
+            {
+                "code": "watch_example_he-anxiously-watched-his-son-play-his-first-baseball-game",
+                "text": "He anxiously watched his son play his first baseball game."
+            },
+            {
+                "code": "watch_example_she-silently-watched-the-breaking-news",
+                "text": "She silently watched the breaking news."
+            },
+            {
+                "code": "watch_example_the-boy-secretly-watched-his-mother-hide-the-birthday-gifts",
+                "text": "The boy secretly watched his mother hide the birthday gifts."
+            },
+            {
+                "code": "watch_example_he-just-watches-television-all-day",
+                "text": "He just watches television all day."
+            },
+            {
+                "code": "watch_example_we-stopped-to-watch-the-sunset",
+                "text": "We stopped to watch the sunset."
+            },
+            {
+                "code": "watch_example_i-love-watching-my-children-play",
+                "text": "I love watching my children play."
+            },
+            {
+                "code": "watch_example_she-does-not-let-her-children-watch-television",
+                "text": "She does not let her children watch television."
+            },
+            {
+                "code": "watch_example_we-watched-for-any-sign-of-life",
+                "text": "We watched for any sign of life."
+            },
+            {
+                "code": "watch_example_they-watched-the-concert-from-the-first-row",
+                "text": "They watched the concert from the first row."
+            },
+            {
+                "code": "watch_example_they-watched-the-circus-show-in-amazement",
+                "text": "They watched the circus show in amazement."
+            },
+            {
+                "code": "watch_example_he-watched-the-birth-of-his-baby-with-great-joy",
+                "text": "He watched the birth of his baby with great joy."
+            },
+            {
+                "code": "watch_example_we-are-watching-television",
+                "text": "We are watching television."
+            },
+            {
+                "code": "watch_example_they-are-watching-the-game",
+                "text": "They are watching the game."
+            },
+            {
+                "code": "watch_example_she-is-watching-her-weight",
+                "text": "She is watching her weight."
+            }
+        ]
+    },
+    {
+        "type": "(n)",
+        "mean": "a device you wear on your wrist that tells time; the act of guarding or protecting",
+        "examples": [
+            {
+                "code": "watch_example_he-wears-a-digital-watch",
+                "text": "He wears a digital watch."
+            },
+            {
+                "code": "watch_example_the-sports-watch-is-waterproof",
+                "text": "The sports watch is waterproof."
+            },
+            {
+                "code": "watch_example_he-kept-a-close-watch-on-his-children",
+                "text": "He kept a close watch on his children."
+            },
+            {
+                "code": "watch_example_the-security-guard-is-on-night-watch",
+                "text": "The security guard is on night watch."
+            },
+            {
+                "code": "watch_example_the-sick-child-needs-constant-watch",
+                "text": "The sick child needs constant watch."
+            },
+            {
+                "code": "watch_example_the-prisoner-is-on-suicide-watch",
+                "text": "The prisoner is on suicide watch."
+            },
+            {
+                "code": "watch_example_we-have-a-neighborhood-watch",
+                "text": "We have a neighborhood watch."
+            },
+            {
+                "code": "watch_example_he-constantly-checks-his-watch",
+                "text": "He constantly checks his watch."
+            },
+            {
+                "code": "watch_example_don-t-forget-to-set-your-watch",
+                "text": "Don't forget to set your watch."
+            },
+            {
+                "code": "watch_example_he-doesn-t-wear-a-watch-anymore",
+                "text": "He doesn't wear a watch anymore."
+            },
+            {
+                "code": "watch_example_he-put-on-his-watch",
+                "text": "He put on his watch."
+            },
+            {
+                "code": "watch_example_he-was-asked-to-keep-watch-over-the-suspect",
+                "text": "He was asked to keep watch over the suspect."
+            },
+            {
+                "code": "watch_example_the-guards-are-on-evening-watch",
+                "text": "The guards are on evening watch."
+            },
+            {
+                "code": "watch_example_we-need-to-replace-the-watch-face",
+                "text": "We need to replace the watch face."
+            },
+            {
+                "code": "watch_example_he-is-guarding-the-area-from-a-watch-tower",
+                "text": "He is guarding the area from a watch tower."
+            }
+        ]
+    }
+]

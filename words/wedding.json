@@ -1,0 +1,108 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a ceremony where two people are getting married",
+        "examples": [
+            {
+                "code": "wedding_example_she-wants-a-church-wedding",
+                "text": "She wants a church wedding."
+            },
+            {
+                "code": "wedding_example_we-watched-the-royal-wedding-on-television",
+                "text": "We watched the royal wedding on television."
+            },
+            {
+                "code": "wedding_example_the-wedding-was-beautiful",
+                "text": "The wedding was beautiful."
+            },
+            {
+                "code": "wedding_example_we-are-attending-a-wedding-at-noon",
+                "text": "We are attending a wedding at noon."
+            },
+            {
+                "code": "wedding_example_i-was-invited-to-their-wedding",
+                "text": "I was invited to their wedding."
+            },
+            {
+                "code": "wedding_example_the-wedding-was-conducted-by-their-pastor",
+                "text": "The wedding was conducted by their pastor."
+            },
+            {
+                "code": "wedding_example_the-wedding-will-take-place-in-april",
+                "text": "The wedding will take place in April."
+            },
+            {
+                "code": "wedding_example_they-had-a-small-wedding",
+                "text": "They had a small wedding."
+            },
+            {
+                "code": "wedding_example_she-called-off-the-wedding",
+                "text": "She called off the wedding."
+            },
+            {
+                "code": "wedding_example_it-is-finally-our-wedding-day",
+                "text": "It is finally our wedding day."
+            },
+            {
+                "code": "wedding_example_have-you-received-the-wedding-invitation",
+                "text": "Have you received the wedding invitation?"
+            },
+            {
+                "code": "wedding_example_her-mom-is-helping-with-the-wedding-plans",
+                "text": "Her mom is helping with the wedding plans."
+            },
+            {
+                "code": "wedding_example_she-hired-a-professional-wedding-planner",
+                "text": "She hired a professional wedding planner."
+            },
+            {
+                "code": "wedding_example_have-you-set-the-wedding-date",
+                "text": "Have you set the wedding date?"
+            },
+            {
+                "code": "wedding_example_she-wants-the-perfect-wedding-dress",
+                "text": "She wants the perfect wedding dress."
+            },
+            {
+                "code": "wedding_example_can-i-see-your-wedding-ring",
+                "text": "Can I see your wedding ring?"
+            },
+            {
+                "code": "wedding_example_the-wedding-ceremony-was-beautiful",
+                "text": "The wedding ceremony was beautiful."
+            },
+            {
+                "code": "wedding_example_he-forgot-his-wedding-vows",
+                "text": "He forgot his wedding vows."
+            },
+            {
+                "code": "wedding_example_they-took-pictures-with-the-wedding-party",
+                "text": "They took pictures with the wedding party."
+            },
+            {
+                "code": "wedding_example_the-wedding-reception-had-great-food",
+                "text": "The wedding reception had great food."
+            },
+            {
+                "code": "wedding_example_the-photographer-is-taking-pictures-of-the-wedding-guests",
+                "text": "The photographer is taking pictures of the wedding guests."
+            },
+            {
+                "code": "wedding_example_the-wedding-cake-was-tall",
+                "text": "The wedding cake was tall."
+            },
+            {
+                "code": "wedding_example_she-was-not-happy-with-the-wedding-album",
+                "text": "She was not happy with the wedding album."
+            },
+            {
+                "code": "wedding_example_they-are-celebrating-their-first-wedding-anniversary",
+                "text": "They are celebrating their first wedding anniversary."
+            },
+            {
+                "code": "wedding_example_they-met-at-the-wedding",
+                "text": "They met at the wedding."
+            }
+        ]
+    }
+]

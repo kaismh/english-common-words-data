@@ -1,0 +1,76 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a place for medical care or surgery",
+        "examples": [
+            {
+                "code": "hospital_example_he-s-at-the-community-hospital",
+                "text": "He's at the community hospital."
+            },
+            {
+                "code": "hospital_example_she-works-at-a-private-hospital",
+                "text": "She works at a private hospital."
+            },
+            {
+                "code": "hospital_example_she-was-taken-to-the-children-s-hospital",
+                "text": "She was taken to the children's hospital."
+            },
+            {
+                "code": "hospital_example_he-was-sent-to-the-mental-hospital",
+                "text": "He was sent to the mental hospital."
+            },
+            {
+                "code": "hospital_example_they-are-setting-up-a-field-hospital",
+                "text": "They are setting up a field hospital."
+            },
+            {
+                "code": "hospital_example_he-needs-to-go-to-the-hospital",
+                "text": "He needs to go to the hospital."
+            },
+            {
+                "code": "hospital_example_they-were-rushed-to-the-hospital-after-the-accident",
+                "text": "They were rushed to the hospital after the accident."
+            },
+            {
+                "code": "hospital_example_he-was-admitted-to-the-hospital-with-stomach-pain",
+                "text": "He was admitted to the hospital with stomach pain."
+            },
+            {
+                "code": "hospital_example_she-will-stay-in-the-hospital-overnight",
+                "text": "She will stay in the hospital overnight."
+            },
+            {
+                "code": "hospital_example_they-left-the-hospital-this-morning",
+                "text": "They left the hospital this morning."
+            },
+            {
+                "code": "hospital_example_she-s-a-hospital-administrator",
+                "text": "She's a hospital administrator."
+            },
+            {
+                "code": "hospital_example_the-hospital-staff-has-been-really-nice",
+                "text": "The hospital staff has been really nice."
+            },
+            {
+                "code": "hospital_example_which-hospital-room-is-he-in",
+                "text": "Which hospital room is he in?"
+            },
+            {
+                "code": "hospital_example_the-hospital-stay-shouldn-t-be-long",
+                "text": "The hospital stay shouldn't be long."
+            },
+            {
+                "code": "hospital_example_he-s-at-the-hospital",
+                "text": "He's at the hospital."
+            },
+            {
+                "code": "hospital_example_she-will-be-in-the-hospital-for-a-week",
+                "text": "She will be in the hospital for a week."
+            },
+            {
+                "code": "hospital_example_they-took-him-to-the-hospital",
+                "text": "They took him to the hospital."
+            }
+        ]
+    }
+]

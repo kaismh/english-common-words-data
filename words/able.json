@@ -1,0 +1,44 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "capable of doing something; good at doing something",
+        "examples": [
+            {
+                "code": "able_example_i-am-able-to-go-with-you",
+                "text": "I am able to go with you."
+            },
+            {
+                "code": "able_example_he-is-able-to-come-with-me",
+                "text": "He is able to come with me."
+            },
+            {
+                "code": "able_example_they-are-able-to-go-together",
+                "text": "They are able to go together."
+            },
+            {
+                "code": "able_example_he-seems-able-to-do-the-work",
+                "text": "He seems able to do the work."
+            },
+            {
+                "code": "able_example_i-am-quite-able-to-walk-home-alone",
+                "text": "I am quite able to walk home alone."
+            },
+            {
+                "code": "able_example_they-are-not-financially-able-to-buy-a-house-yet",
+                "text": "They are not financially able to buy a house yet."
+            },
+            {
+                "code": "able_example_the-child-is-not-mentally-able-to-do-something-so-difficult",
+                "text": "The child is not mentally able to do something so difficult."
+            },
+            {
+                "code": "able_example_i-was-barely-able-to-see-the-small-letters",
+                "text": "I was barely able to see the small letters."
+            },
+            {
+                "code": "able_example_if-you-get-proper-training-you-will-be-better-able-to-do-the-task",
+                "text": "If you get proper training, you will be better able to do the task."
+            }
+        ]
+    }
+]

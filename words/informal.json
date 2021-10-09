@@ -1,0 +1,24 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "having a friendly and relaxed quality; casual",
+        "examples": [
+            {
+                "code": "informal_example_the-party-was-very-informal",
+                "text": "The party was very informal."
+            },
+            {
+                "code": "informal_example_their-relationship-remained-informal-after-working-together-for-so-many-years",
+                "text": "Their relationship remained informal after working together for so many years."
+            },
+            {
+                "code": "informal_example_our-meetings-are-relatively-informal",
+                "text": "Our meetings are relatively informal."
+            },
+            {
+                "code": "informal_example_i-prefer-an-informal-atmosphere",
+                "text": "I prefer an informal atmosphere."
+            }
+        ]
+    }
+]

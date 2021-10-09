@@ -1,0 +1,76 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a person, place or thing which something comes from or is received from; something or someone that gives information",
+        "examples": [
+            {
+                "code": "source_example_broccoli-is-an-excellent-source-of-fiber",
+                "text": "Broccoli is an excellent source of fiber."
+            },
+            {
+                "code": "source_example_i-don-t-have-any-other-source-of-income",
+                "text": "I don't have any other source of income."
+            },
+            {
+                "code": "source_example_they-were-the-main-source-of-donation",
+                "text": "They were the main source of donation."
+            },
+            {
+                "code": "source_example_she-was-the-likely-source-of-the-problem",
+                "text": "She was the likely source of the problem."
+            },
+            {
+                "code": "source_example_we-are-always-looking-for-alternative-sources-of-energy",
+                "text": "We are always looking for alternative sources of energy."
+            },
+            {
+                "code": "source_example_when-the-power-was-out-the-flashlight-was-the-only-source-of-light",
+                "text": "When the power was out, the flashlight was the only source of light."
+            },
+            {
+                "code": "source_example_this-book-was-a-valuable-source-for-our-research",
+                "text": "This book was a valuable source for our research."
+            },
+            {
+                "code": "source_example_dr-smith-is-an-authoritative-source-for-cancer-research",
+                "text": "Dr. Smith is an authoritative source for cancer research."
+            },
+            {
+                "code": "source_example_the-truth-was-given-from-multiple-sources",
+                "text": "The truth was given from multiple sources."
+            },
+            {
+                "code": "source_example_you-can-t-always-trust-media-sources",
+                "text": "You can't always trust media sources."
+            },
+            {
+                "code": "source_example_we-located-the-source-of-the-water-leak",
+                "text": "We located the source of the water leak."
+            },
+            {
+                "code": "source_example_the-food-bank-provides-a-food-source-for-the-homeless",
+                "text": "The food bank provides a food source for the homeless."
+            },
+            {
+                "code": "source_example_make-sure-to-quote-sources-for-your-paper",
+                "text": "Make sure to quote sources for your paper."
+            },
+            {
+                "code": "source_example_he-refused-to-reveal-the-source-of-his-information",
+                "text": "He refused to reveal the source of his information."
+            },
+            {
+                "code": "source_example_he-continues-to-protect-his-source",
+                "text": "He continues to protect his source."
+            },
+            {
+                "code": "source_example_she-was-a-source-of-inspiration-to-many",
+                "text": "She was a source of inspiration to many."
+            },
+            {
+                "code": "source_example_according-to-an-informed-source-he-will-resign-tomorrow",
+                "text": "According to an informed source, he will resign tomorrow."
+            }
+        ]
+    }
+]

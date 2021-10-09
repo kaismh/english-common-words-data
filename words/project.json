@@ -1,0 +1,90 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a planned activity; a school or work assignment",
+        "examples": [
+            {
+                "code": "project_example_i-am-starting-on-a-new-project",
+                "text": "I am starting on a new project."
+            },
+            {
+                "code": "project_example_who-is-funding-the-project",
+                "text": "Who is funding the project?"
+            },
+            {
+                "code": "project_example_we-are-doing-this-project-together",
+                "text": "We are doing this project together."
+            },
+            {
+                "code": "project_example_they-abandoned-the-project-last-month",
+                "text": "They abandoned the project last month."
+            },
+            {
+                "code": "project_example_the-project-aims-to-change-the-world",
+                "text": "The project aims to change the world."
+            },
+            {
+                "code": "project_example_the-project-is-aimed-at-children",
+                "text": "The project is aimed at children."
+            },
+            {
+                "code": "project_example_he-is-the-project-manager",
+                "text": "He is the project manager."
+            },
+            {
+                "code": "project_example_she-is-studying-project-management",
+                "text": "She is studying project management."
+            },
+            {
+                "code": "project_example_what-is-the-project-budget",
+                "text": "What is the project budget?"
+            },
+            {
+                "code": "project_example_do-you-want-help-with-your-art-project",
+                "text": "Do you want help with your art project?"
+            },
+            {
+                "code": "project_example_he-is-working-on-a-research-project",
+                "text": "He is working on a research project."
+            },
+            {
+                "code": "project_example_we-are-working-on-a-huge-project",
+                "text": "We are working on a huge project."
+            },
+            {
+                "code": "project_example_it-was-an-exciting-project",
+                "text": "It was an exciting project."
+            },
+            {
+                "code": "project_example_this-is-an-ongoing-project",
+                "text": "This is an ongoing project."
+            },
+            {
+                "code": "project_example_we-are-working-on-a-new-project",
+                "text": "We are working on a new project."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to stick out; to show or make heard from a distance; to predict",
+        "examples": [
+            {
+                "code": "project_example_nails-were-projecting-from-the-walls",
+                "text": "Nails were projecting from the walls."
+            },
+            {
+                "code": "project_example_the-intercom-projected-her-voice-throughout-the-house",
+                "text": "The intercom projected her voice throughout the house."
+            },
+            {
+                "code": "project_example_they-projected-a-movie-onto-the-screen",
+                "text": "They projected a movie onto the screen."
+            },
+            {
+                "code": "project_example_the-company-is-projecting-a-loss-for-this-quarter",
+                "text": "The company is projecting a loss for this quarter."
+            }
+        ]
+    }
+]

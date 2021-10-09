@@ -1,0 +1,68 @@
+[
+    {
+        "type": "(n)",
+        "mean": "an idea or plan that someone says to think about",
+        "examples": [
+            {
+                "code": "suggestion_example_that-is-an-excellent-suggestion",
+                "text": "That is an excellent suggestion."
+            },
+            {
+                "code": "suggestion_example_thank-you-for-your-helpful-suggestion",
+                "text": "Thank you for your helpful suggestion."
+            },
+            {
+                "code": "suggestion_example_his-stupid-suggestion-almost-got-her-fired",
+                "text": "His stupid suggestion almost got her fired."
+            },
+            {
+                "code": "suggestion_example_do-you-have-any-other-suggestions",
+                "text": "Do you have any other suggestions?"
+            },
+            {
+                "code": "suggestion_example_the-mere-suggestion-of-moving-makes-his-children-very-sad",
+                "text": "The mere suggestion of moving makes his children very sad."
+            },
+            {
+                "code": "suggestion_example_do-you-have-a-better-suggestion",
+                "text": "Do you have a better suggestion?"
+            },
+            {
+                "code": "suggestion_example_can-you-think-of-a-better-suggestion",
+                "text": "Can you think of a better suggestion?"
+            },
+            {
+                "code": "suggestion_example_please-send-your-suggestions-to-our-headquarters",
+                "text": "Please send your suggestions to our headquarters."
+            },
+            {
+                "code": "suggestion_example_we-followed-his-suggestion-to-reduce-his-number-of-employees",
+                "text": "We followed his suggestion to reduce his number of employees."
+            },
+            {
+                "code": "suggestion_example_they-rejected-our-suggestion-to-hire-more-help",
+                "text": "They rejected our suggestion to hire more help."
+            },
+            {
+                "code": "suggestion_example_we-appreciate-any-suggestions",
+                "text": "We appreciate any suggestions."
+            },
+            {
+                "code": "suggestion_example_i-will-seriously-consider-your-suggestion",
+                "text": "I will seriously consider your suggestion."
+            },
+            {
+                "code": "suggestion_example_we-need-more-suggestions-on-how-to-cut-costs",
+                "text": "We need more suggestions on how to cut costs."
+            },
+            {
+                "code": "suggestion_example_do-you-have-a-better-suggestion-for-us",
+                "text": "Do you have a better suggestion for us?"
+            },
+            {
+                "code": "suggestion_example_at-the-suggestion-of-our-accountant-we-laid-off-several-employees",
+                "text": "At the suggestion of our accountant, we laid off several employees."
+            }
+        ]
+    }
+]

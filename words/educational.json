@@ -1,0 +1,28 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "related to the process of learning, teaching, and gaining knowledge",
+        "examples": [
+            {
+                "code": "educational_example_the-students-enjoy-the-new-educational-toys",
+                "text": "The students enjoy the new educational toys."
+            },
+            {
+                "code": "educational_example_the-school-board-is-discussing-educational-assessment",
+                "text": "The school board is discussing educational assessment."
+            },
+            {
+                "code": "educational_example_this-test-measures-educational-achievement",
+                "text": "This test measures educational achievement."
+            },
+            {
+                "code": "educational_example_the-educational-needs-are-being-met",
+                "text": "The educational needs are being met."
+            },
+            {
+                "code": "educational_example_her-educational-experience-was-low-before-changing-schools",
+                "text": "Her educational experience was low before changing schools."
+            }
+        ]
+    }
+]

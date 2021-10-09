@@ -1,0 +1,146 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the use of the telephone; a visit; a signal for attention; a decision; a request",
+        "examples": [
+            {
+                "code": "call_example_you-have-a-phone-call",
+                "text": "You have a phone call."
+            },
+            {
+                "code": "call_example_i-need-to-make-a-quick-call",
+                "text": "I need to make a quick call."
+            },
+            {
+                "code": "call_example_international-calls-can-be-expensive",
+                "text": "International calls can be expensive."
+            },
+            {
+                "code": "call_example_she-makes-business-calls-from-her-home",
+                "text": "She makes business calls from her home."
+            },
+            {
+                "code": "call_example_i-hate-prank-calls",
+                "text": "I hate prank calls."
+            },
+            {
+                "code": "call_example_the-hotel-provides-wake-up-calls",
+                "text": "The hotel provides wake-up calls."
+            },
+            {
+                "code": "call_example_the-boat-received-a-distress-call",
+                "text": "The boat received a distress call."
+            },
+            {
+                "code": "call_example_she-paid-us-a-business-call",
+                "text": "She paid us a business call."
+            },
+            {
+                "code": "call_example_they-made-repeated-calls-for-donations",
+                "text": "They made repeated calls for donations."
+            },
+            {
+                "code": "call_example_the-bar-s-last-call-is-at-3-00-a-m",
+                "text": "The bar's last call is at 3:00 a.m."
+            },
+            {
+                "code": "call_example_i-need-to-make-a-call",
+                "text": "I need to make a call."
+            },
+            {
+                "code": "call_example_i-received-a-call-last-night",
+                "text": "I received a call last night."
+            },
+            {
+                "code": "call_example_i-need-to-answer-this-call",
+                "text": "I need to answer this call."
+            },
+            {
+                "code": "call_example_please-return-my-phone-call",
+                "text": "Please return my phone call."
+            },
+            {
+                "code": "call_example_the-government-often-monitors-our-telephone-calls",
+                "text": "The government often monitors our telephone calls."
+            },
+            {
+                "code": "call_example_i-heard-your-call",
+                "text": "I heard your call."
+            },
+            {
+                "code": "call_example_they-repeated-their-calls-for-help",
+                "text": "They repeated their calls for help."
+            },
+            {
+                "code": "call_example_the-decision-was-a-tough-call",
+                "text": "The decision was a tough call."
+            },
+            {
+                "code": "call_example_were-there-any-phone-calls-for-me",
+                "text": "Were there any phone calls for me?"
+            },
+            {
+                "code": "call_example_you-received-a-call-from-your-mother",
+                "text": "You received a call from your mother."
+            },
+            {
+                "code": "call_example_i-made-several-calls-to-my-daughter",
+                "text": "I made several calls to my daughter."
+            },
+            {
+                "code": "call_example_the-doctor-is-out-on-a-house-call",
+                "text": "The doctor is out on a house call."
+            },
+            {
+                "code": "call_example_all-of-the-calls-are-directed-to-a-call-center",
+                "text": "All of the calls are directed to a call center."
+            },
+            {
+                "code": "call_example_in-case-of-an-emergency-push-the-call-button",
+                "text": "In case of an emergency, push the call button."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to use a telephone; to visit; to shout; to have a name",
+        "examples": [
+            {
+                "code": "call_example_the-united-states-of-america-is-commonly-called-america",
+                "text": "The United States of America is commonly called America."
+            },
+            {
+                "code": "call_example_thailand-was-formerly-called-siam",
+                "text": "Thailand was formerly called Siam."
+            },
+            {
+                "code": "call_example_she-affectionately-calls-her-husband-honey",
+                "text": "She affectionately calls her husband 'honey'."
+            },
+            {
+                "code": "call_example_these-countries-are-collectively-called-the-middle-east",
+                "text": "These countries are collectively called the Middle East."
+            },
+            {
+                "code": "call_example_she-loudly-called-for-help",
+                "text": "She loudly called for help."
+            },
+            {
+                "code": "call_example_please-call-me-back",
+                "text": "Please call me back."
+            },
+            {
+                "code": "call_example_you-ll-need-to-call-ahead-for-this-restaurant",
+                "text": "You'll need to call ahead for this restaurant."
+            },
+            {
+                "code": "call_example_we-called-him-by-his-middle-name",
+                "text": "We called him by his middle name."
+            },
+            {
+                "code": "call_example_they-repeatedly-called-for-help",
+                "text": "They repeatedly called for help."
+            }
+        ]
+    }
+]

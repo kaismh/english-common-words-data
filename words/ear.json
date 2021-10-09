@@ -1,0 +1,76 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a body part on the side of the head used for hearing",
+        "examples": [
+            {
+                "code": "ear_example_he-has-an-earring-on-his-left-ear",
+                "text": "He has an earring on his left ear."
+            },
+            {
+                "code": "ear_example_that-dog-has-very-big-ears",
+                "text": "That dog has very big ears."
+            },
+            {
+                "code": "ear_example_she-has-pierced-ears",
+                "text": "She has pierced ears."
+            },
+            {
+                "code": "ear_example_my-brother-complained-of-the-loud-music-because-he-has-sensitive-ears",
+                "text": "My brother complained of the loud music because he has sensitive ears."
+            },
+            {
+                "code": "ear_example_if-you-can-hear-that-you-must-have-really-good-ears",
+                "text": "If you can hear that, you must have really good ears!"
+            },
+            {
+                "code": "ear_example_she-plugged-her-ears-because-it-was-too-noisy-to-sleep",
+                "text": "She plugged her ears because it was too noisy to sleep."
+            },
+            {
+                "code": "ear_example_he-had-to-strain-his-ears-to-hear-his-grandfather-s-soft-voice",
+                "text": "He had to strain his ears to hear his grandfather's soft voice."
+            },
+            {
+                "code": "ear_example_she-pierced-her-ears-so-she-could-wear-earrings",
+                "text": "She pierced her ears so she could wear earrings."
+            },
+            {
+                "code": "ear_example_the-loud-music-hurt-his-ears",
+                "text": "The loud music hurt his ears."
+            },
+            {
+                "code": "ear_example_sometimes-your-ears-pop-when-you-fly-on-an-airplane",
+                "text": "Sometimes your ears pop when you fly on an airplane."
+            },
+            {
+                "code": "ear_example_my-ears-redden-when-i-m-embarrassed",
+                "text": "My ears redden when I'm embarrassed."
+            },
+            {
+                "code": "ear_example_she-went-to-the-doctor-because-she-had-an-ear-infection",
+                "text": "She went to the doctor because she had an ear infection."
+            },
+            {
+                "code": "ear_example_the-doctor-gave-her-ear-drops",
+                "text": "The doctor gave her ear drops."
+            },
+            {
+                "code": "ear_example_she-used-her-ear-muffs-because-it-was-cold",
+                "text": "She used her ear muffs because it was cold."
+            },
+            {
+                "code": "ear_example_he-wears-ear-plugs-to-sleep",
+                "text": "He wears ear plugs to sleep."
+            },
+            {
+                "code": "ear_example_she-wears-ear-phones-so-her-music-doesn-t-bother-other-people",
+                "text": "She wears ear phones so her music doesn't bother other people."
+            },
+            {
+                "code": "ear_example_he-whispered-a-secret-in-my-ear",
+                "text": "He whispered a secret in my ear."
+            }
+        ]
+    }
+]

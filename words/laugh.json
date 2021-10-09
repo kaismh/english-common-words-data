@@ -1,0 +1,110 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to make a vocal sound when you hear or see something funny",
+        "examples": [
+            {
+                "code": "laugh_example_i-couldn-t-stop-myself-from-laughing-out-loud",
+                "text": "I couldn't stop myself from laughing out loud."
+            },
+            {
+                "code": "laugh_example_she-just-laughed-when-she-saw-my-outfit",
+                "text": "She just laughed when she saw my outfit."
+            },
+            {
+                "code": "laugh_example_he-laughed-a-lot-at-his-own-joke",
+                "text": "He laughed a lot at his own joke."
+            },
+            {
+                "code": "laugh_example_i-laughed-inwardly-when-i-saw-his-new-hairstyle",
+                "text": "I laughed inwardly when I saw his new hairstyle."
+            },
+            {
+                "code": "laugh_example_we-were-all-laughing-together",
+                "text": "We were all laughing together."
+            },
+            {
+                "code": "laugh_example_they-easily-laugh-at-the-silliest-things",
+                "text": "They easily laugh at the silliest things."
+            },
+            {
+                "code": "laugh_example_he-looked-so-funny-i-just-had-to-laugh",
+                "text": "He looked so funny I just had to laugh."
+            },
+            {
+                "code": "laugh_example_a-boy-made-a-funny-face-to-make-us-laugh",
+                "text": "A boy made a funny face to make us laugh."
+            },
+            {
+                "code": "laugh_example_i-heard-him-laughing-uncontrollably",
+                "text": "I heard him laughing uncontrollably."
+            },
+            {
+                "code": "laugh_example_i-tried-not-to-laugh-at-her-but-she-looked-so-silly",
+                "text": "I tried not to laugh at her, but she looked so silly."
+            },
+            {
+                "code": "laugh_example_one-day-you-ll-be-able-to-laugh-about-this",
+                "text": "One day you'll be able to laugh about this."
+            },
+            {
+                "code": "laugh_example_everyone-laughed-at-her-jokes",
+                "text": "Everyone laughed at her jokes."
+            },
+            {
+                "code": "laugh_example_she-spent-time-talking-and-laughing-with-her-family",
+                "text": "She spent time talking and laughing with her family."
+            }
+        ]
+    },
+    {
+        "type": "(n)",
+        "mean": "the act or sound of laughing",
+        "examples": [
+            {
+                "code": "laugh_example_she-responded-with-a-loud-laugh",
+                "text": "She responded with a loud laugh."
+            },
+            {
+                "code": "laugh_example_his-joke-got-the-biggest-laugh",
+                "text": "His joke got the biggest laugh."
+            },
+            {
+                "code": "laugh_example_he-is-well-known-for-his-evil-laugh",
+                "text": "He is well known for his evil laugh."
+            },
+            {
+                "code": "laugh_example_she-let-out-a-loud-laugh",
+                "text": "She let out a loud laugh."
+            },
+            {
+                "code": "laugh_example_we-all-shared-a-good-laugh",
+                "text": "We all shared a good laugh."
+            },
+            {
+                "code": "laugh_example_she-tried-to-hold-back-a-laugh-but-she-couldn-t",
+                "text": "She tried to hold back a laugh but she couldn't."
+            },
+            {
+                "code": "laugh_example_he-got-a-laugh-out-of-his-grandfather",
+                "text": "He got a laugh out of his grandfather."
+            },
+            {
+                "code": "laugh_example_i-heard-her-loud-laugh-from-the-other-room",
+                "text": "I heard her loud laugh from the other room."
+            },
+            {
+                "code": "laugh_example_he-acted-weird-just-for-laughs",
+                "text": "He acted weird just for laughs."
+            },
+            {
+                "code": "laugh_example_she-walked-out-with-a-sarcastic-laugh",
+                "text": "She walked out with a sarcastic laugh."
+            },
+            {
+                "code": "laugh_example_we-had-a-good-laugh-over-lunch",
+                "text": "We had a good laugh over lunch."
+            }
+        ]
+    }
+]

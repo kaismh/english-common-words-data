@@ -1,0 +1,86 @@
+[
+    {
+        "type": "(n)",
+        "mean": "something that sends information or a message",
+        "examples": [
+            {
+                "code": "signal_example_we-received-a-clear-signal",
+                "text": "We received a clear signal."
+            },
+            {
+                "code": "signal_example_he-was-giving-mixed-signals-to-his-ex-girlfriend",
+                "text": "He was giving mixed signals to his ex-girlfriend."
+            },
+            {
+                "code": "signal_example_we-were-startled-by-the-warning-signal",
+                "text": "We were startled by the warning signal."
+            },
+            {
+                "code": "signal_example_the-baseball-pitcher-gave-the-catcher-a-hand-signal",
+                "text": "The baseball pitcher gave the catcher a hand signal."
+            },
+            {
+                "code": "signal_example_i-called-him-but-i-got-a-busy-signal",
+                "text": "I called him, but I got a busy signal."
+            },
+            {
+                "code": "signal_example_she-gives-mixed-signals",
+                "text": "She gives mixed signals."
+            },
+            {
+                "code": "signal_example_the-employees-learned-to-pick-up-visual-signals",
+                "text": "The employees learned to pick up visual signals."
+            },
+            {
+                "code": "signal_example_the-nurse-tried-to-read-the-signals-from-the-patient",
+                "text": "The nurse tried to read the signals from the patient."
+            },
+            {
+                "code": "signal_example_this-signal-indicates-danger",
+                "text": "This signal indicates danger."
+            },
+            {
+                "code": "signal_example_the-police-officer-made-a-signal-for-her-to-pull-over",
+                "text": "The police officer made a signal for her to pull over."
+            },
+            {
+                "code": "signal_example_we-waited-for-the-signal-from-the-captain",
+                "text": "We waited for the signal from the captain."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to make a sound or motion that tells someone something; to show or mark",
+        "examples": [
+            {
+                "code": "signal_example_she-was-signaling-frantically-to-the-police-officer",
+                "text": "She was signaling frantically to the police officer."
+            },
+            {
+                "code": "signal_example_the-truce-clearly-signals-the-end-of-the-war",
+                "text": "The truce clearly signals the end of the war."
+            },
+            {
+                "code": "signal_example_i-tried-to-signal-to-them",
+                "text": "I tried to signal to them."
+            },
+            {
+                "code": "signal_example_the-hug-appears-to-signal-the-end-of-their-fight",
+                "text": "The hug appears to signal the end of their fight."
+            },
+            {
+                "code": "signal_example_this-speech-was-intended-to-signal-a-change-in-policy",
+                "text": "This speech was intended to signal a change in policy."
+            },
+            {
+                "code": "signal_example_the-bells-are-signaling-their-approach",
+                "text": "The bells are signaling their approach."
+            },
+            {
+                "code": "signal_example_his-new-job-signals-a-new-beginning",
+                "text": "His new job signals a new beginning."
+            }
+        ]
+    }
+]

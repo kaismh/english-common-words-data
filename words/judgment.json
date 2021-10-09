@@ -1,0 +1,68 @@
+[
+    {
+        "type": "(n)",
+        "mean": "an opinion; a decision made by a judge; ability to make wise decisions",
+        "examples": [
+            {
+                "code": "judgment_example_everyone-thought-he-made-an-accurate-judgment",
+                "text": "Everyone thought he made an accurate judgment."
+            },
+            {
+                "code": "judgment_example_he-was-criticized-for-making-poor-judgments",
+                "text": "He was criticized for making poor judgments."
+            },
+            {
+                "code": "judgment_example_i-ll-make-my-final-judgment-after-i-review-all-of-the-information",
+                "text": "I'll make my final judgment after I review all of the information."
+            },
+            {
+                "code": "judgment_example_she-is-bad-at-making-snap-judgments",
+                "text": "She is bad at making snap judgments."
+            },
+            {
+                "code": "judgment_example_don-t-make-a-judgment-without-all-the-facts",
+                "text": "Don't make a judgment without all the facts."
+            },
+            {
+                "code": "judgment_example_have-you-reached-a-judgment",
+                "text": "Have you reached a judgment?"
+            },
+            {
+                "code": "judgment_example_don-t-pass-judgment-so-easily",
+                "text": "Don't pass judgment so easily."
+            },
+            {
+                "code": "judgment_example_i-would-like-to-express-my-personal-judgment",
+                "text": "I would like to express my personal judgment."
+            },
+            {
+                "code": "judgment_example_i-ll-withhold-judgment-until-next-week",
+                "text": "I'll withhold judgment until next week."
+            },
+            {
+                "code": "judgment_example_she-was-trying-to-get-the-judgment-reversed",
+                "text": "She was trying to get the judgment reversed."
+            },
+            {
+                "code": "judgment_example_they-obtained-a-judgment-in-their-favor",
+                "text": "They obtained a judgment in their favor."
+            },
+            {
+                "code": "judgment_example_he-trusted-his-wife-s-judgment",
+                "text": "He trusted his wife's judgment."
+            },
+            {
+                "code": "judgment_example_she-needs-to-make-her-own-judgment-about-him",
+                "text": "She needs to make her own judgment about him."
+            },
+            {
+                "code": "judgment_example_the-worker-won-a-judgment-against-the-company",
+                "text": "The worker won a judgment against the company."
+            },
+            {
+                "code": "judgment_example_he-was-not-ready-to-make-a-judgment-on-the-case",
+                "text": "He was not ready to make a judgment on the case."
+            }
+        ]
+    }
+]

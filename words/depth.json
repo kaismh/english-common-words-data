@@ -1,0 +1,36 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the distance between the surface and bottom of something",
+        "examples": [
+            {
+                "code": "depth_example_the-divers-went-to-considerable-depths",
+                "text": "The divers went to considerable depths."
+            },
+            {
+                "code": "depth_example_the-water-depth-is-30-feet",
+                "text": "The water depth is 30 feet."
+            },
+            {
+                "code": "depth_example_the-depth-is-shallow",
+                "text": "The depth is shallow."
+            },
+            {
+                "code": "depth_example_we-tried-to-reach-that-maximum-depth",
+                "text": "We tried to reach that maximum depth."
+            },
+            {
+                "code": "depth_example_my-grandmother-has-poor-depth-perception",
+                "text": "My grandmother has poor depth perception."
+            },
+            {
+                "code": "depth_example_you-can-still-see-the-bottom-of-the-lake-at-the-maximum-depth",
+                "text": "You can still see the bottom of the lake at the maximum depth."
+            },
+            {
+                "code": "depth_example_the-divers-will-swim-to-a-considerable-depth",
+                "text": "The divers will swim to a considerable depth."
+            }
+        ]
+    }
+]

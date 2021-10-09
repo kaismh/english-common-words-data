@@ -1,0 +1,32 @@
+[
+    {
+        "type": "(n)",
+        "mean": "sweet, sticky substance made by bees",
+        "examples": [
+            {
+                "code": "honey_example_have-you-tried-wild-honey",
+                "text": "Have you tried wild honey?"
+            },
+            {
+                "code": "honey_example_bees-make-honey",
+                "text": "Bees make honey."
+            },
+            {
+                "code": "honey_example_we-tried-to-gather-honey-but-the-bees-were-too-aggressive",
+                "text": "We tried to gather honey but the bees were too aggressive."
+            },
+            {
+                "code": "honey_example_she-spread-honey-on-her-toast",
+                "text": "She spread honey on her toast."
+            },
+            {
+                "code": "honey_example_that-s-just-a-honey-bee",
+                "text": "That's just a honey bee."
+            },
+            {
+                "code": "honey_example_can-you-bring-me-the-honey-pot",
+                "text": "Can you bring me the honey pot?"
+            }
+        ]
+    }
+]

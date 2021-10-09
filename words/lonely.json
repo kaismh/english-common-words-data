@@ -1,0 +1,32 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "feeling sad about being alone",
+        "examples": [
+            {
+                "code": "lonely_example_the-widow-is-lonely",
+                "text": "The widow is lonely."
+            },
+            {
+                "code": "lonely_example_she-got-lonely-when-he-didn-t-return",
+                "text": "She got lonely when he didn't return."
+            },
+            {
+                "code": "lonely_example_she-was-extremely-lonely-after-the-divorce",
+                "text": "She was extremely lonely after the divorce."
+            },
+            {
+                "code": "lonely_example_she-feels-a-little-lonely-when-her-children-are-not-home",
+                "text": "She feels a little lonely when her children are not home."
+            },
+            {
+                "code": "lonely_example_she-experienced-a-lonely-childhood",
+                "text": "She experienced a lonely childhood."
+            },
+            {
+                "code": "lonely_example_he-traveled-the-lonely-road",
+                "text": "He traveled the lonely road."
+            }
+        ]
+    }
+]

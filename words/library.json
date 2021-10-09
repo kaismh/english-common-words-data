@@ -1,0 +1,72 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a place where books, magazines, and other materials are available for people to use or borrow",
+        "examples": [
+            {
+                "code": "library_example_we-live-close-to-a-public-library",
+                "text": "We live close to a public library."
+            },
+            {
+                "code": "library_example_he-spends-several-hours-a-day-at-the-campus-library",
+                "text": "He spends several hours a day at the campus library."
+            },
+            {
+                "code": "library_example_she-has-an-impressive-private-library",
+                "text": "She has an impressive private library."
+            },
+            {
+                "code": "library_example_she-has-a-huge-library-of-classic-books-at-home",
+                "text": "She has a huge library of classic books at home."
+            },
+            {
+                "code": "library_example_the-university-has-an-excellent-library",
+                "text": "The university has an excellent library."
+            },
+            {
+                "code": "library_example_college-students-go-to-the-library-daily",
+                "text": "College students go to the library daily."
+            },
+            {
+                "code": "library_example_i-borrowed-this-book-from-the-library",
+                "text": "I borrowed this book from the library."
+            },
+            {
+                "code": "library_example_i-need-to-return-this-book-to-the-library",
+                "text": "I need to return this book to the library."
+            },
+            {
+                "code": "library_example_everyone-should-have-access-to-a-library",
+                "text": "Everyone should have access to a library."
+            },
+            {
+                "code": "library_example_he-has-a-new-library-card",
+                "text": "He has a new library card."
+            },
+            {
+                "code": "library_example_the-library-staff-was-very-helpful",
+                "text": "The library staff was very helpful."
+            },
+            {
+                "code": "library_example_we-use-the-library-facilities-often",
+                "text": "We use the library facilities often."
+            },
+            {
+                "code": "library_example_they-are-updating-the-library-collection",
+                "text": "They are updating the library collection."
+            },
+            {
+                "code": "library_example_he-found-the-rare-book-at-the-library",
+                "text": "He found the rare book at the library."
+            },
+            {
+                "code": "library_example_she-is-studying-in-the-library",
+                "text": "She is studying in the library."
+            },
+            {
+                "code": "library_example_we-are-donating-books-to-the-library",
+                "text": "We are donating books to the library."
+            }
+        ]
+    }
+]

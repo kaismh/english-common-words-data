@@ -1,0 +1,32 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a thick slice of beef or fish",
+        "examples": [
+            {
+                "code": "steak_example_my-father-made-some-juicy-steaks-for-dinner",
+                "text": "My father made some juicy steaks for dinner."
+            },
+            {
+                "code": "steak_example_he-loves-new-york-steak",
+                "text": "He loves New York steak."
+            },
+            {
+                "code": "steak_example_do-you-eat-salmon-steaks",
+                "text": "Do you eat salmon steaks?"
+            },
+            {
+                "code": "steak_example_let-s-have-steak-for-lunch",
+                "text": "Let's have steak for lunch."
+            },
+            {
+                "code": "steak_example_i-need-a-sharp-steak-knife",
+                "text": "I need a sharp steak knife."
+            },
+            {
+                "code": "steak_example_my-favorite-meal-is-a-steak-dinner",
+                "text": "My favorite meal is a steak dinner."
+            }
+        ]
+    }
+]

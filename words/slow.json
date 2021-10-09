@@ -1,0 +1,78 @@
+[
+    {
+        "type": "(adv)",
+        "mean": "moving or operating at a low speed; not fast",
+        "examples": [
+            {
+                "code": "slow_example_he-moves-very-slow",
+                "text": "He moves very slow."
+            },
+            {
+                "code": "slow_example_the-store-remained-slow-all-day",
+                "text": "The store remained slow all day."
+            },
+            {
+                "code": "slow_example_my-computer-is-running-extremely-slow",
+                "text": "My computer is running extremely slow."
+            },
+            {
+                "code": "slow_example_my-mom-walks-considerably-slower-than-my-sister",
+                "text": "My mom walks considerably slower than my sister."
+            },
+            {
+                "code": "slow_example_the-ceremony-was-moving-agonizingly-slow",
+                "text": "The ceremony was moving agonizingly slow."
+            },
+            {
+                "code": "slow_example_he-is-really-slow-at-making-decisions",
+                "text": "He is really slow at making decisions."
+            },
+            {
+                "code": "slow_example_he-takes-slow-steps-while-walking-up-a-flight-of-stairs",
+                "text": "He takes slow steps while walking up a flight of stairs."
+            },
+            {
+                "code": "slow_example_i-prefer-slow-cooking",
+                "text": "I prefer slow cooking."
+            },
+            {
+                "code": "slow_example_it-s-been-a-very-slow-day",
+                "text": "It's been a very slow day."
+            },
+            {
+                "code": "slow_example_doctors-are-concerned-about-her-slow-pulse",
+                "text": "Doctors are concerned about her slow pulse."
+            },
+            {
+                "code": "slow_example_he-is-a-slow-reader",
+                "text": "He is a slow reader."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to start moving at a lower speed; to become slower",
+        "examples": [
+            {
+                "code": "slow_example_customers-have-slowed-down-considerably",
+                "text": "Customers have slowed down considerably."
+            },
+            {
+                "code": "slow_example_his-sickness-hardly-slowed-him-down",
+                "text": "His sickness hardly slowed him down."
+            },
+            {
+                "code": "slow_example_the-speeding-car-gradually-slowed-down",
+                "text": "The speeding car gradually slowed down."
+            },
+            {
+                "code": "slow_example_he-began-to-slow-down",
+                "text": "He began to slow down."
+            },
+            {
+                "code": "slow_example_she-tried-to-slow-her-breathing",
+                "text": "She tried to slow her breathing."
+            }
+        ]
+    }
+]

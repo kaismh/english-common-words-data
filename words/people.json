@@ -1,0 +1,72 @@
+[
+    {
+        "type": "(n)",
+        "mean": "more than one person; a group of human beings who make up a race, class, or nation",
+        "examples": [
+            {
+                "code": "people_example_young-people-need-education",
+                "text": "Young people need education."
+            },
+            {
+                "code": "people_example_old-people-need-health-care",
+                "text": "Old people need health care."
+            },
+            {
+                "code": "people_example_we-are-just-ordinary-people",
+                "text": "We are just ordinary people."
+            },
+            {
+                "code": "people_example_the-book-is-based-on-the-stories-of-real-people",
+                "text": "The book is based on the stories of real people."
+            },
+            {
+                "code": "people_example_she-has-autographs-of-many-famous-people",
+                "text": "She has autographs of many famous people."
+            },
+            {
+                "code": "people_example_the-politician-says-he-wants-to-help-middle-class-people",
+                "text": "The politician says he wants to help middle class people."
+            },
+            {
+                "code": "people_example_rich-people-have-lots-of-money",
+                "text": "Rich people have lots of money."
+            },
+            {
+                "code": "people_example_innocent-people-are-killed-every-day",
+                "text": "Innocent people are killed every day."
+            },
+            {
+                "code": "people_example_the-local-people-are-very-friendly",
+                "text": "The local people are very friendly."
+            },
+            {
+                "code": "people_example_this-country-is-made-up-of-very-diverse-people",
+                "text": "This country is made up of very diverse people."
+            },
+            {
+                "code": "people_example_our-society-is-made-up-of-civilized-people",
+                "text": "Our society is made up of civilized people."
+            },
+            {
+                "code": "people_example_we-are-studying-prehistoric-people-in-ancient-history",
+                "text": "We are studying prehistoric people in ancient history."
+            },
+            {
+                "code": "people_example_i-meet-many-different-people-in-my-line-of-work",
+                "text": "I meet many different people in my line of work."
+            },
+            {
+                "code": "people_example_the-store-is-trying-to-attract-more-people-with-big-sales",
+                "text": "The store is trying to attract more people with big sales."
+            },
+            {
+                "code": "people_example_the-athlete-represents-the-people-of-the-united-states",
+                "text": "The athlete represents the people of the United States."
+            },
+            {
+                "code": "people_example_the-olympic-games-unite-people-of-all-nations",
+                "text": "The Olympic Games unite people of all nations."
+            }
+        ]
+    }
+]

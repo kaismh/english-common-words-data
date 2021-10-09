@@ -1,0 +1,64 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a living creature",
+        "examples": [
+            {
+                "code": "animal_example_we-found-a-dead-animal-in-our-yard",
+                "text": "We found a dead animal in our yard."
+            },
+            {
+                "code": "animal_example_my-wife-thinks-our-dog-is-a-dumb-animal",
+                "text": "My wife thinks our dog is a dumb animal."
+            },
+            {
+                "code": "animal_example_i-gave-my-daughter-a-stuffed-animal-for-her-birthday",
+                "text": "I gave my daughter a stuffed animal for her birthday."
+            },
+            {
+                "code": "animal_example_be-careful-around-dangerous-animals",
+                "text": "Be careful around dangerous animals."
+            },
+            {
+                "code": "animal_example_some-chickens-are-domestic-animals",
+                "text": "Some chickens are domestic animals."
+            },
+            {
+                "code": "animal_example_the-farmer-keeps-a-lot-of-animals",
+                "text": "The farmer keeps a lot of animals."
+            },
+            {
+                "code": "animal_example_don-t-forget-to-feed-the-animals",
+                "text": "Don't forget to feed the animals."
+            },
+            {
+                "code": "animal_example_he-trains-animals",
+                "text": "He trains animals."
+            },
+            {
+                "code": "animal_example_biologists-study-animal-species",
+                "text": "Biologists study animal species."
+            },
+            {
+                "code": "animal_example_animal-behavior-is-unpredictable",
+                "text": "Animal behavior is unpredictable."
+            },
+            {
+                "code": "animal_example_my-mom-is-an-animal-lover",
+                "text": "My mom is an animal lover."
+            },
+            {
+                "code": "animal_example_she-fights-for-animal-rights",
+                "text": "She fights for animal rights."
+            },
+            {
+                "code": "animal_example_she-fights-against-animal-experimentation",
+                "text": "She fights against animal experimentation."
+            },
+            {
+                "code": "animal_example_he-was-arrested-for-animal-cruelty",
+                "text": "He was arrested for animal cruelty."
+            }
+        ]
+    }
+]

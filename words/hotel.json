@@ -1,0 +1,92 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a place where people pay to sleep in individual rooms for one or more nights",
+        "examples": [
+            {
+                "code": "hotel_example_they-run-a-large-hotel",
+                "text": "They run a large hotel."
+            },
+            {
+                "code": "hotel_example_we-stayed-at-a-five-star-hotel-on-our-trip",
+                "text": "We stayed at a five-star hotel on our trip."
+            },
+            {
+                "code": "hotel_example_i-hate-airport-hotels",
+                "text": "I hate airport hotels."
+            },
+            {
+                "code": "hotel_example_we-re-looking-for-a-beachfront-hotel",
+                "text": "We're looking for a beachfront hotel."
+            },
+            {
+                "code": "hotel_example_can-you-recommend-a-local-hotel",
+                "text": "Can you recommend a local hotel?"
+            },
+            {
+                "code": "hotel_example_we-are-staying-at-a-hotel-near-the-train-station",
+                "text": "We are staying at a hotel near the train station."
+            },
+            {
+                "code": "hotel_example_we-checked-into-the-hotel-at-3pm",
+                "text": "We checked into the hotel at 3pm."
+            },
+            {
+                "code": "hotel_example_we-need-to-check-out-of-the-hotel-by-11am",
+                "text": "We need to check out of the hotel by 11am."
+            },
+            {
+                "code": "hotel_example_we-booked-a-hotel-before-our-trip",
+                "text": "We booked a hotel before our trip."
+            },
+            {
+                "code": "hotel_example_they-own-a-small-hotel",
+                "text": "They own a small hotel."
+            },
+            {
+                "code": "hotel_example_they-are-building-a-new-hotel-near-the-lake",
+                "text": "They are building a new hotel near the lake."
+            },
+            {
+                "code": "hotel_example_the-hotel-is-located-near-many-attractions",
+                "text": "The hotel is located near many attractions."
+            },
+            {
+                "code": "hotel_example_the-hotel-room-is-big",
+                "text": "The hotel room is big."
+            },
+            {
+                "code": "hotel_example_we-need-to-make-a-hotel-reservation",
+                "text": "We need to make a hotel reservation."
+            },
+            {
+                "code": "hotel_example_we-can-go-to-the-hotel-bar",
+                "text": "We can go to the hotel bar."
+            },
+            {
+                "code": "hotel_example_i-ll-meet-you-in-the-hotel-lobby",
+                "text": "I'll meet you in the hotel lobby."
+            },
+            {
+                "code": "hotel_example_we-spoke-with-the-hotel-owner",
+                "text": "We spoke with the hotel owner."
+            },
+            {
+                "code": "hotel_example_the-hotel-staff-has-been-very-nice",
+                "text": "The hotel staff has been very nice."
+            },
+            {
+                "code": "hotel_example_i-always-stay-at-this-hotel-chain",
+                "text": "I always stay at this hotel chain."
+            },
+            {
+                "code": "hotel_example_i-don-t-think-the-hotel-guests-were-very-nice",
+                "text": "I don't think the hotel guests were very nice."
+            },
+            {
+                "code": "hotel_example_we-are-staying-at-a-hotel-near-the-beach",
+                "text": "We are staying at a hotel near the beach."
+            }
+        ]
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "type": "(n)",
+        "mean": "an occurrence of bad weather in form of rain, snow or wind",
+        "examples": [
+            {
+                "code": "storm_example_a-violent-storm-is-headed-our-way",
+                "text": "A violent storm is headed our way."
+            },
+            {
+                "code": "storm_example_we-saw-the-dark-clouds-of-an-approaching-storm",
+                "text": "We saw the dark clouds of an approaching storm."
+            },
+            {
+                "code": "storm_example_my-flight-was-cancelled-due-to-a-snow-storm",
+                "text": "My flight was cancelled due to a snow storm."
+            },
+            {
+                "code": "storm_example_i-think-we-re-in-for-a-huge-storm",
+                "text": "I think we're in for a huge storm."
+            },
+            {
+                "code": "storm_example_i-braved-a-snow-storm-to-get-to-work",
+                "text": "I braved a snow storm to get to work."
+            },
+            {
+                "code": "storm_example_we-are-tracking-the-storm-that-is-headed-our-way",
+                "text": "We are tracking the storm that is headed our way."
+            },
+            {
+                "code": "storm_example_a-major-winter-storm-swept-our-state",
+                "text": "A major winter storm swept our state."
+            },
+            {
+                "code": "storm_example_the-storm-lasted-for-two-days",
+                "text": "The storm lasted for two days."
+            },
+            {
+                "code": "storm_example_we-had-lots-of-storm-damage-to-our-house",
+                "text": "We had lots of storm damage to our house."
+            },
+            {
+                "code": "storm_example_they-didn-t-take-the-storm-warning-seriously",
+                "text": "They didn't take the storm warning seriously."
+            },
+            {
+                "code": "storm_example_the-storm-drain-was-clogged",
+                "text": "The storm drain was clogged."
+            },
+            {
+                "code": "storm_example_we-were-out-of-town-during-the-storm",
+                "text": "We were out of town during the storm."
+            },
+            {
+                "code": "storm_example_he-got-caught-in-the-storm",
+                "text": "He got caught in the storm."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to attack suddenly; to move quickly",
+        "examples": [
+            {
+                "code": "storm_example_the-demonstrators-stormed-the-building",
+                "text": "The demonstrators stormed the building."
+            },
+            {
+                "code": "storm_example_the-protestors-angrily-stormed-the-building",
+                "text": "The protestors angrily stormed the building."
+            }
+        ]
+    }
+]

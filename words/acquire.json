@@ -1,0 +1,36 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to gain or get something by effort, gift, or purchase",
+        "examples": [
+            {
+                "code": "acquire_example_she-acquired-the-ability-of-reading-people-s-minds",
+                "text": "She acquired the ability of reading people's minds."
+            },
+            {
+                "code": "acquire_example_he-has-acquired-great-knowledge-of-medicine",
+                "text": "He has acquired great knowledge of medicine."
+            },
+            {
+                "code": "acquire_example_he-acquired-an-impressive-collection-of-fine-wines",
+                "text": "He acquired an impressive collection of fine wines."
+            },
+            {
+                "code": "acquire_example_she-acquired-a-fortune-after-selling-her-stocks",
+                "text": "She acquired a fortune after selling her stocks."
+            },
+            {
+                "code": "acquire_example_he-has-acquired-a-bad-habit-of-smoking",
+                "text": "He has acquired a bad habit of smoking."
+            },
+            {
+                "code": "acquire_example_she-acquired-land-after-her-grandfather-passed-away",
+                "text": "She acquired land after her grandfather passed away."
+            },
+            {
+                "code": "acquire_example_he-has-acquired-a-reputation-for-being-difficult-to-work-with",
+                "text": "He has acquired a reputation for being difficult to work with."
+            }
+        ]
+    }
+]

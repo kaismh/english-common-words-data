@@ -1,0 +1,72 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the state of not having something anymore; the state of having lost a certain amount of money; death of a person",
+        "examples": [
+            {
+                "code": "loss_example_he-experienced-significant-loss-of-hearing-after-the-accident",
+                "text": "He experienced significant loss of hearing after the accident."
+            },
+            {
+                "code": "loss_example_she-suffered-partial-loss-of-vision-after-the-explosion",
+                "text": "She suffered partial loss of vision after the explosion."
+            },
+            {
+                "code": "loss_example_he-experienced-weight-loss-after-the-surgery",
+                "text": "He experienced weight loss after the surgery."
+            },
+            {
+                "code": "loss_example_poor-sales-resulted-in-a-huge-loss-for-the-company",
+                "text": "Poor sales resulted in a huge loss for the company."
+            },
+            {
+                "code": "loss_example_the-total-loss-was-smaller-than-expected",
+                "text": "The total loss was smaller than expected."
+            },
+            {
+                "code": "loss_example_the-company-reported-an-annual-loss",
+                "text": "The company reported an annual loss."
+            },
+            {
+                "code": "loss_example_our-family-has-suffered-a-tragic-loss",
+                "text": "Our family has suffered a tragic loss."
+            },
+            {
+                "code": "loss_example_she-suffered-the-loss-of-her-parents",
+                "text": "She suffered the loss of her parents."
+            },
+            {
+                "code": "loss_example_the-medication-causes-severe-hair-loss",
+                "text": "The medication causes severe hair loss."
+            },
+            {
+                "code": "loss_example_how-can-we-prevent-the-loss-of-more-jobs",
+                "text": "How can we prevent the loss of more jobs?"
+            },
+            {
+                "code": "loss_example_the-business-cannot-take-another-loss",
+                "text": "The business cannot take another loss."
+            },
+            {
+                "code": "loss_example_we-need-to-cut-our-losses-to-stay-in-business",
+                "text": "We need to cut our losses to stay in business."
+            },
+            {
+                "code": "loss_example_we-are-grieving-the-loss-of-our-beloved-grandmother",
+                "text": "We are grieving the loss of our beloved grandmother."
+            },
+            {
+                "code": "loss_example_a-symptom-of-the-medication-is-a-loss-of-appetite",
+                "text": "A symptom of the medication is a loss of appetite."
+            },
+            {
+                "code": "loss_example_the-teacher-s-death-was-a-tragic-loss-to-the-school",
+                "text": "The teacher's death was a tragic loss to the school."
+            },
+            {
+                "code": "loss_example_we-sold-the-business-at-a-loss",
+                "text": "We sold the business at a loss."
+            }
+        ]
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a roll of paper filled with tobacco used for smoking",
+        "examples": [
+            {
+                "code": "cigarette_example_a-lighted-cigarette-caused-the-fire",
+                "text": "A lighted cigarette caused the fire."
+            },
+            {
+                "code": "cigarette_example_he-prefers-unfiltered-cigarettes",
+                "text": "He prefers unfiltered cigarettes."
+            },
+            {
+                "code": "cigarette_example_do-you-smoke-cigarettes",
+                "text": "Do you smoke cigarettes?"
+            },
+            {
+                "code": "cigarette_example_he-lit-a-cigarette-before-speaking",
+                "text": "He lit a cigarette before speaking."
+            },
+            {
+                "code": "cigarette_example_she-rolls-her-own-cigarettes",
+                "text": "She rolls her own cigarettes."
+            },
+            {
+                "code": "cigarette_example_can-i-borrow-a-cigarette",
+                "text": "Can I borrow a cigarette?"
+            },
+            {
+                "code": "cigarette_example_he-flicked-his-cigarette-into-the-street-before-entering-the-building",
+                "text": "He flicked his cigarette into the street before entering the building."
+            },
+            {
+                "code": "cigarette_example_i-hate-cigarette-smoke",
+                "text": "I hate cigarette smoke."
+            },
+            {
+                "code": "cigarette_example_there-were-cigarette-ashes-on-the-ground",
+                "text": "There were cigarette ashes on the ground."
+            },
+            {
+                "code": "cigarette_example_i-lost-my-cigarette-lighter",
+                "text": "I lost my cigarette lighter."
+            },
+            {
+                "code": "cigarette_example_cigarette-smoking-has-gone-down",
+                "text": "Cigarette smoking has gone down."
+            },
+            {
+                "code": "cigarette_example_cigarette-advertisements-are-not-allowed-on-tv",
+                "text": "Cigarette advertisements are not allowed on TV."
+            },
+            {
+                "code": "cigarette_example_he-works-for-a-cigarette-company",
+                "text": "He works for a cigarette company."
+            },
+            {
+                "code": "cigarette_example_i-need-a-cigarette-break",
+                "text": "I need a cigarette break."
+            },
+            {
+                "code": "cigarette_example_i-need-to-buy-a-pack-of-cigarettes",
+                "text": "I need to buy a pack of cigarettes."
+            }
+        ]
+    }
+]

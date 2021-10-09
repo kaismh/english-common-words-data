@@ -1,0 +1,122 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to change position; to make something change its position",
+        "examples": [
+            {
+                "code": "move_example_move-the-cursor-to-the-bottom-of-the-screen",
+                "text": "Move the cursor to the bottom of the screen."
+            },
+            {
+                "code": "move_example_traffic-isn-t-moving-at-all-today",
+                "text": "Traffic isn't moving at all today."
+            },
+            {
+                "code": "move_example_our-company-is-moving-its-headquarters",
+                "text": "Our company is moving its headquarters."
+            },
+            {
+                "code": "move_example_he-helped-to-move-the-furniture",
+                "text": "He helped to move the furniture."
+            },
+            {
+                "code": "move_example_the-dancer-moves-gracefully",
+                "text": "The dancer moves gracefully."
+            },
+            {
+                "code": "move_example_can-you-move-your-arm",
+                "text": "Can you move your arm?"
+            }
+        ]
+    },
+    {
+        "type": "(n)",
+        "mean": "a change in position; an action",
+        "examples": [
+            {
+                "code": "move_example_she-made-a-move-to-leave",
+                "text": "She made a move to leave."
+            },
+            {
+                "code": "move_example_we-have-been-preparing-for-the-move",
+                "text": "We have been preparing for the move."
+            },
+            {
+                "code": "move_example_can-you-help-with-the-move-this-weekend",
+                "text": "Can you help with the move this weekend?"
+            },
+            {
+                "code": "move_example_the-move-will-take-place-next-month",
+                "text": "The move will take place next month."
+            },
+            {
+                "code": "move_example_the-move-surprised-everyone",
+                "text": "The move surprised everyone."
+            },
+            {
+                "code": "move_example_we-will-announce-our-move-at-the-meeting",
+                "text": "We will announce our move at the meeting."
+            },
+            {
+                "code": "move_example_what-prompted-the-move",
+                "text": "What prompted the move?"
+            },
+            {
+                "code": "move_example_he-made-an-opening-move",
+                "text": "He made an opening move."
+            },
+            {
+                "code": "move_example_i-learned-a-new-dance-move",
+                "text": "I learned a new dance move."
+            },
+            {
+                "code": "move_example_going-back-to-school-was-a-good-move",
+                "text": "Going back to school was a good move."
+            },
+            {
+                "code": "move_example_quitting-school-was-a-dumb-move",
+                "text": "Quitting school was a dumb move."
+            },
+            {
+                "code": "move_example_that-was-a-bold-move",
+                "text": "That was a bold move."
+            },
+            {
+                "code": "move_example_i-think-you-made-a-good-career-move",
+                "text": "I think you made a good career move."
+            },
+            {
+                "code": "move_example_i-was-afraid-to-make-a-wrong-move",
+                "text": "I was afraid to make a wrong move."
+            },
+            {
+                "code": "move_example_what-s-the-next-move",
+                "text": "What's the next move?"
+            },
+            {
+                "code": "move_example_the-president-made-a-brilliant-move",
+                "text": "The president made a brilliant move."
+            },
+            {
+                "code": "move_example_don-t-make-any-sudden-moves",
+                "text": "Don't make any sudden moves."
+            },
+            {
+                "code": "move_example_it-s-going-to-be-a-temporary-move",
+                "text": "It's going to be a temporary move."
+            },
+            {
+                "code": "move_example_he-made-a-move-against-us",
+                "text": "He made a move against us."
+            },
+            {
+                "code": "move_example_i-made-a-career-move-from-secretary-to-manager-in-just-two-years",
+                "text": "I made a career move from secretary to manager in just two years."
+            },
+            {
+                "code": "move_example_they-have-been-on-the-move-since-they-got-here",
+                "text": "They have been on the move since they got here."
+            }
+        ]
+    }
+]

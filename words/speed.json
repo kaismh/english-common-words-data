@@ -1,0 +1,98 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the rate at which someone or something is able to move or operate",
+        "examples": [
+            {
+                "code": "speed_example_the-work-was-done-with-remarkable-speed",
+                "text": "The work was done with remarkable speed."
+            },
+            {
+                "code": "speed_example_the-machine-was-operating-at-high-speed",
+                "text": "The machine was operating at high speed."
+            },
+            {
+                "code": "speed_example_she-moves-at-a-slow-speed",
+                "text": "She moves at a slow speed."
+            },
+            {
+                "code": "speed_example_he-was-ticketed-for-driving-at-excess-speed",
+                "text": "He was ticketed for driving at excess speed."
+            },
+            {
+                "code": "speed_example_this-instrument-measures-wind-speed",
+                "text": "This instrument measures wind speed."
+            },
+            {
+                "code": "speed_example_the-motorcycle-reached-a-speed-of-100-miles-per-hour",
+                "text": "The motorcycle reached a speed of 100 miles per hour."
+            },
+            {
+                "code": "speed_example_the-racecar-began-to-increase-its-speed",
+                "text": "The racecar began to increase its speed."
+            },
+            {
+                "code": "speed_example_he-maintained-a-steady-speed-on-the-race-track",
+                "text": "He maintained a steady speed on the race track."
+            },
+            {
+                "code": "speed_example_he-reduced-his-speed-when-he-saw-the-policeman",
+                "text": "He reduced his speed when he saw the policeman."
+            },
+            {
+                "code": "speed_example_her-speed-increased-with-the-new-computer-keyboard",
+                "text": "Her speed increased with the new computer keyboard."
+            },
+            {
+                "code": "speed_example_the-racecar-driver-set-a-new-speed-record-today",
+                "text": "The racecar driver set a new speed record today."
+            },
+            {
+                "code": "speed_example_don-t-drive-too-fast-over-the-speed-bumps",
+                "text": "Don't drive too fast over the speed bumps."
+            },
+            {
+                "code": "speed_example_he-knew-all-the-speed-traps-in-the-city",
+                "text": "He knew all the speed traps in the city."
+            },
+            {
+                "code": "speed_example_what-is-the-speed-limit-here",
+                "text": "What is the speed limit here?"
+            },
+            {
+                "code": "speed_example_he-was-driving-at-a-high-speed-when-he-was-caught-by-police",
+                "text": "He was driving at a high speed when he was caught by police."
+            },
+            {
+                "code": "speed_example_we-noticed-an-increase-in-speed-with-the-new-machine",
+                "text": "We noticed an increase in speed with the new machine."
+            },
+            {
+                "code": "speed_example_she-won-the-race-with-surprising-speed",
+                "text": "She won the race with surprising speed."
+            },
+            {
+                "code": "speed_example_please-drive-the-posted-speed-of-45-miles-per-hour",
+                "text": "Please drive the posted speed of 45 miles per hour."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to move very fast",
+        "examples": [
+            {
+                "code": "speed_example_she-sped-away-as-fast-as-she-could",
+                "text": "She sped away as fast as she could."
+            },
+            {
+                "code": "speed_example_he-was-speeding-from-the-police",
+                "text": "He was speeding from the police."
+            },
+            {
+                "code": "speed_example_he-got-pulled-over-while-speeding-to-the-hospital",
+                "text": "He got pulled over while speeding to the hospital."
+            }
+        ]
+    }
+]

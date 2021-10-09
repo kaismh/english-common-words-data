@@ -1,0 +1,98 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a moment that is measured in seconds, minutes and hours; a particular moment",
+        "examples": [
+            {
+                "code": "time_example_what-is-the-current-time",
+                "text": "What is the current time?"
+            },
+            {
+                "code": "time_example_it-happened-at-5-o-clock-local-time",
+                "text": "It happened at 5 o'clock local time."
+            },
+            {
+                "code": "time_example_it-is-the-perfect-time-to-buy-a-house",
+                "text": "It is the perfect time to buy a house."
+            },
+            {
+                "code": "time_example_it-is-a-good-time-to-go-on-vacation",
+                "text": "It is a good time to go on vacation."
+            },
+            {
+                "code": "time_example_time-goes-by-so-fast",
+                "text": "Time goes by so fast."
+            },
+            {
+                "code": "time_example_i-wish-we-could-slow-down-time",
+                "text": "I wish we could slow down time."
+            },
+            {
+                "code": "time_example_the-swimmer-decreased-her-time-by-a-few-seconds",
+                "text": "The swimmer decreased her time by a few seconds."
+            },
+            {
+                "code": "time_example_he-calculates-the-runner-s-time",
+                "text": "He calculates the runner's time."
+            },
+            {
+                "code": "time_example_do-you-have-the-time",
+                "text": "Do you have the time?"
+            },
+            {
+                "code": "time_example_he-keeps-looking-at-the-time",
+                "text": "He keeps looking at the time."
+            },
+            {
+                "code": "time_example_do-you-know-how-to-tell-time",
+                "text": "Do you know how to tell time?"
+            },
+            {
+                "code": "time_example_that-song-takes-me-back-in-time",
+                "text": "That song takes me back in time."
+            },
+            {
+                "code": "time_example_i-d-like-to-travel-through-time",
+                "text": "I'd like to travel through time."
+            },
+            {
+                "code": "time_example_hawaii-is-three-hours-before-our-time",
+                "text": "Hawaii is three hours before our time."
+            },
+            {
+                "code": "time_example_we-found-a-time-capsule",
+                "text": "We found a time capsule."
+            },
+            {
+                "code": "time_example_the-scientist-made-a-time-machine",
+                "text": "The scientist made a time machine."
+            },
+            {
+                "code": "time_example_we-need-to-work-on-time-management",
+                "text": "We need to work on time management."
+            },
+            {
+                "code": "time_example_what-time-zone-do-you-live-in",
+                "text": "What time zone do you live in?"
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to arrange for something to happen at a particular moment; to measure how long something takes",
+        "examples": [
+            {
+                "code": "time_example_the-joke-was-badly-timed",
+                "text": "The joke was badly timed."
+            },
+            {
+                "code": "time_example_the-dance-moves-were-perfectly-timed",
+                "text": "The dance moves were perfectly timed."
+            },
+            {
+                "code": "time_example_the-test-was-timed-for-three-hours",
+                "text": "The test was timed for three hours."
+            }
+        ]
+    }
+]

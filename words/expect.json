@@ -1,0 +1,72 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to think something will happen or someone will do something; to wait for someone or something to arrive; to consider something is necessary",
+        "examples": [
+            {
+                "code": "expect_example_he-confidently-expects-to-be-chosen",
+                "text": "He confidently expects to be chosen."
+            },
+            {
+                "code": "expect_example_she-fully-expected-her-students-to-listen",
+                "text": "She fully expected her students to listen."
+            },
+            {
+                "code": "expect_example_i-do-not-necessarily-expect-this-project-to-be-easy",
+                "text": "I do not necessarily expect this project to be easy."
+            },
+            {
+                "code": "expect_example_they-were-half-expecting-their-idea-to-fail",
+                "text": "They were half expecting their idea to fail."
+            },
+            {
+                "code": "expect_example_he-initially-expected-his-job-to-be-easy",
+                "text": "He initially expected his job to be easy."
+            },
+            {
+                "code": "expect_example_i-don-t-seriously-expect-her-to-understand-my-point",
+                "text": "I don't seriously expect her to understand my point."
+            },
+            {
+                "code": "expect_example_she-expects-effort-from-her-students",
+                "text": "She expects effort from her students."
+            },
+            {
+                "code": "expect_example_i-m-expecting-an-answer-from-him-today",
+                "text": "I'm expecting an answer from him today."
+            },
+            {
+                "code": "expect_example_the-weatherman-said-to-expect-snow",
+                "text": "The weatherman said to expect snow."
+            },
+            {
+                "code": "expect_example_she-s-expecting-some-good-news",
+                "text": "She's expecting some good news."
+            },
+            {
+                "code": "expect_example_he-always-expects-the-worst",
+                "text": "He always expects the worst."
+            },
+            {
+                "code": "expect_example_he-expects-honesty-from-his-employees",
+                "text": "He expects honesty from his employees."
+            },
+            {
+                "code": "expect_example_i-m-expecting-visitors-later",
+                "text": "I'm expecting visitors later."
+            },
+            {
+                "code": "expect_example_the-company-expects-backlash-for-their-announcement",
+                "text": "The company expects backlash for their announcement."
+            },
+            {
+                "code": "expect_example_his-failure-was-expected",
+                "text": "His failure was expected."
+            },
+            {
+                "code": "expect_example_they-are-expecting-a-baby-next-year",
+                "text": "They are expecting a baby next year."
+            }
+        ]
+    }
+]

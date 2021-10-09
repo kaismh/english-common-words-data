@@ -1,0 +1,212 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the way two things go together; sudden attack something that cannot be controlled; angry behavior",
+        "examples": [
+            {
+                "code": "fit_example_he-is-an-excellent-fit-for-the-position",
+                "text": "He is an excellent fit for the position."
+            },
+            {
+                "code": "fit_example_is-it-a-perfect-fit",
+                "text": "Is it a perfect fit?"
+            },
+            {
+                "code": "fit_example_i-think-she-s-a-poor-fit",
+                "text": "I think she's a poor fit."
+            },
+            {
+                "code": "fit_example_you-want-a-snug-fit-on-the-straps",
+                "text": "You want a snug fit on the straps."
+            },
+            {
+                "code": "fit_example_this-sweater-has-a-loose-fit",
+                "text": "This sweater has a loose fit."
+            },
+            {
+                "code": "fit_example_she-s-a-natural-fit-for-the-position",
+                "text": "She's a natural fit for the position."
+            },
+            {
+                "code": "fit_example_she-had-a-fainting-fit-during-class",
+                "text": "She had a fainting fit during class."
+            },
+            {
+                "code": "fit_example_he-had-a-coughing-fit-during-dinner",
+                "text": "He had a coughing fit during dinner."
+            },
+            {
+                "code": "fit_example_she-threw-a-major-fit-over-the-decision",
+                "text": "She threw a major fit over the decision."
+            },
+            {
+                "code": "fit_example_she-had-a-laughing-fit-in-the-middle-of-class",
+                "text": "She had a laughing fit in the middle of class."
+            },
+            {
+                "code": "fit_example_he-grabbed-her-arm-in-a-sudden-fit-of-anger",
+                "text": "He grabbed her arm in a sudden fit of anger."
+            },
+            {
+                "code": "fit_example_she-gets-her-clothes-tailored-to-get-a-perfect-fit",
+                "text": "She gets her clothes tailored to get a perfect fit."
+            },
+            {
+                "code": "fit_example_he-suffers-from-epileptic-fits",
+                "text": "He suffers from epileptic fits."
+            },
+            {
+                "code": "fit_example_many-things-can-cause-her-fits",
+                "text": "Many things can cause her fits."
+            },
+            {
+                "code": "fit_example_she-s-on-a-new-medication-to-control-her-fits",
+                "text": "She's on a new medication to control her fits."
+            },
+            {
+                "code": "fit_example_his-fits-usually-happen-when-he-is-tired",
+                "text": "His fits usually happen when he is tired."
+            },
+            {
+                "code": "fit_example_she-threw-a-major-fit-when-she-didn-t-get-her-way",
+                "text": "She threw a major fit when she didn't get her way."
+            },
+            {
+                "code": "fit_example_she-burst-into-a-fit-of-laughter",
+                "text": "She burst into a fit of laughter."
+            },
+            {
+                "code": "fit_example_the-flowers-brought-on-a-sneezing-fit",
+                "text": "The flowers brought on a sneezing fit."
+            },
+            {
+                "code": "fit_example_he-hit-his-head-during-one-of-his-fits",
+                "text": "He hit his head during one of his fits."
+            },
+            {
+                "code": "fit_example_he-threw-the-book-in-a-fit-of-rage",
+                "text": "He threw the book in a fit of rage."
+            },
+            {
+                "code": "fit_example_she-collapsed-in-a-fit-of-laughter",
+                "text": "She collapsed in a fit of laughter."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to be the right shape or size; to agree or match; to make something right or appropriate",
+        "examples": [
+            {
+                "code": "fit_example_the-books-fit-neatly-on-the-shelf",
+                "text": "The books fit neatly on the shelf."
+            },
+            {
+                "code": "fit_example_this-sweater-is-designed-to-fit-snugly",
+                "text": "This sweater is designed to fit snugly."
+            },
+            {
+                "code": "fit_example_the-pegs-fit-exactly-in-the-holes",
+                "text": "The pegs fit exactly in the holes."
+            },
+            {
+                "code": "fit_example_those-jeans-fit-you-perfectly",
+                "text": "Those jeans fit you perfectly."
+            },
+            {
+                "code": "fit_example_her-clothes-always-fit-badly",
+                "text": "Her clothes always fit badly."
+            },
+            {
+                "code": "fit_example_those-pants-hardly-fit-him-anymore",
+                "text": "Those pants hardly fit him anymore."
+            },
+            {
+                "code": "fit_example_that-should-fit-in-this-box-easily",
+                "text": "That should fit in this box easily."
+            },
+            {
+                "code": "fit_example_these-pieces-fit-together-to-complete-the-table",
+                "text": "These pieces fit together to complete the table."
+            },
+            {
+                "code": "fit_example_these-boxes-are-designed-to-fit-under-the-bed",
+                "text": "These boxes are designed to fit under the bed."
+            },
+            {
+                "code": "fit_example_the-box-won-t-fit-under-the-bed",
+                "text": "The box won't fit under the bed."
+            },
+            {
+                "code": "fit_example_will-these-fit-in-the-box",
+                "text": "Will these fit in the box?"
+            },
+            {
+                "code": "fit_example_that-should-fit-over-the-door",
+                "text": "That should fit over the door."
+            },
+            {
+                "code": "fit_example_that-song-fits-perfectly-with-this-scene",
+                "text": "That song fits perfectly with this scene."
+            },
+            {
+                "code": "fit_example_this-one-fits-her-description",
+                "text": "This one fits her description."
+            },
+            {
+                "code": "fit_example_her-car-really-fits-her-personality",
+                "text": "Her car really fits her personality."
+            },
+            {
+                "code": "fit_example_he-doesn-t-fit-well-in-that-role",
+                "text": "He doesn't fit well in that role."
+            },
+            {
+                "code": "fit_example_this-doesn-t-fit-in-the-engine",
+                "text": "This doesn't fit in the engine."
+            },
+            {
+                "code": "fit_example_does-this-fit-the-image",
+                "text": "Does this fit the image?"
+            },
+            {
+                "code": "fit_example_does-this-size-fit",
+                "text": "Does this size fit?"
+            }
+        ]
+    },
+    {
+        "type": "(adj)",
+        "mean": "healthy; suitable",
+        "examples": [
+            {
+                "code": "fit_example_he-seems-very-fit",
+                "text": "He seems very fit."
+            },
+            {
+                "code": "fit_example_she-has-been-struggling-to-get-fit",
+                "text": "She has been struggling to get fit."
+            },
+            {
+                "code": "fit_example_this-routine-should-make-you-fit",
+                "text": "This routine should make you fit."
+            },
+            {
+                "code": "fit_example_they-didn-t-consider-his-novel-fit-for-publication",
+                "text": "They didn't consider his novel fit for publication."
+            },
+            {
+                "code": "fit_example_i-know-you-ll-do-what-you-see-fit",
+                "text": "I know you'll do what you see fit."
+            },
+            {
+                "code": "fit_example_he-is-extremely-fit",
+                "text": "He is extremely fit."
+            },
+            {
+                "code": "fit_example_that-water-is-not-fit-for-drinking",
+                "text": "That water is not fit for drinking."
+            }
+        ]
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to move using your legs and feet",
+        "examples": [
+            {
+                "code": "walk_example_she-walked-down-the-hall-quickly",
+                "text": "She walked down the hall quickly."
+            },
+            {
+                "code": "walk_example_my-grandfather-walks-slowly-down-the-stairs",
+                "text": "My grandfather walks slowly down the stairs."
+            },
+            {
+                "code": "walk_example_the-mother-walked-quietly-into-the-baby-s-room",
+                "text": "The mother walked quietly into the baby's room."
+            },
+            {
+                "code": "walk_example_she-took-her-shoes-off-and-walked-barefoot-in-the-sand",
+                "text": "She took her shoes off and walked barefoot in the sand."
+            },
+            {
+                "code": "walk_example_they-walked-downstairs",
+                "text": "They walked downstairs."
+            },
+            {
+                "code": "walk_example_they-walked-ahead",
+                "text": "They walked ahead."
+            },
+            {
+                "code": "walk_example_they-walked-along-the-street",
+                "text": "They walked along the street."
+            },
+            {
+                "code": "walk_example_i-saw-her-walking-towards-school",
+                "text": "I saw her walking towards school."
+            }
+        ]
+    },
+    {
+        "type": "(n)",
+        "mean": "movement using your legs and feet",
+        "examples": [
+            {
+                "code": "walk_example_we-took-a-short-walk-around-the-block",
+                "text": "We took a short walk around the block."
+            },
+            {
+                "code": "walk_example_i-took-my-dog-on-a-long-walk",
+                "text": "I took my dog on a long walk."
+            },
+            {
+                "code": "walk_example_we-had-a-pleasant-walk",
+                "text": "We had a pleasant walk."
+            },
+            {
+                "code": "walk_example_we-go-on-daily-walks",
+                "text": "We go on daily walks."
+            },
+            {
+                "code": "walk_example_she-takes-a-walk-after-dinner-every-night",
+                "text": "She takes a walk after dinner every night."
+            },
+            {
+                "code": "walk_example_they-met-on-an-afternoon-walk-in-the-park",
+                "text": "They met on an afternoon walk in the park."
+            },
+            {
+                "code": "walk_example_downtown-is-within-a-short-walk-of-the-hotel",
+                "text": "Downtown is within a short walk of the hotel."
+            }
+        ]
+    }
+]

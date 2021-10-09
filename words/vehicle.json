@@ -1,0 +1,64 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a machine used for moving people or things from one place to another",
+        "examples": [
+            {
+                "code": "vehicle_example_she-was-hit-by-an-oncoming-vehicle",
+                "text": "She was hit by an oncoming vehicle."
+            },
+            {
+                "code": "vehicle_example_the-unattended-vehicle-was-towed-away",
+                "text": "The unattended vehicle was towed away."
+            },
+            {
+                "code": "vehicle_example_the-stolen-vehicle-was-found",
+                "text": "The stolen vehicle was found."
+            },
+            {
+                "code": "vehicle_example_there-is-a-disabled-vehicle-blocking-the-freeway-lane",
+                "text": "There is a disabled vehicle blocking the freeway lane."
+            },
+            {
+                "code": "vehicle_example_he-hit-a-parked-vehicle",
+                "text": "He hit a parked vehicle."
+            },
+            {
+                "code": "vehicle_example_the-emergency-vehicle-did-not-arrive-in-time",
+                "text": "The emergency vehicle did not arrive in time."
+            },
+            {
+                "code": "vehicle_example_she-owns-several-vehicles",
+                "text": "She owns several vehicles."
+            },
+            {
+                "code": "vehicle_example_she-abandoned-her-vehicle-on-the-side-of-the-road",
+                "text": "She abandoned her vehicle on the side of the road."
+            },
+            {
+                "code": "vehicle_example_she-was-driving-a-vehicle-without-a-license",
+                "text": "She was driving a vehicle without a license."
+            },
+            {
+                "code": "vehicle_example_their-vehicle-was-towed-away-for-parking-illegally",
+                "text": "Their vehicle was towed away for parking illegally."
+            },
+            {
+                "code": "vehicle_example_the-vehicle-broke-down-in-the-middle-of-the-road",
+                "text": "The vehicle broke down in the middle of the road."
+            },
+            {
+                "code": "vehicle_example_the-vehicle-crashed-into-a-pole",
+                "text": "The vehicle crashed into a pole."
+            },
+            {
+                "code": "vehicle_example_our-car-failed-the-vehicle-inspection",
+                "text": "Our car failed the vehicle inspection."
+            },
+            {
+                "code": "vehicle_example_the-police-officer-asked-to-see-the-vehicle-registration",
+                "text": "The police officer asked to see the vehicle registration."
+            }
+        ]
+    }
+]

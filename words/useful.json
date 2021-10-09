@@ -1,0 +1,52 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "helpful",
+        "examples": [
+            {
+                "code": "useful_example_this-information-is-very-useful",
+                "text": "This information is very useful."
+            },
+            {
+                "code": "useful_example_her-cooking-skills-have-been-truly-useful",
+                "text": "Her cooking skills have been truly useful."
+            },
+            {
+                "code": "useful_example_make-yourself-useful-and-help-me-with-this",
+                "text": "Make yourself useful and help me with this."
+            },
+            {
+                "code": "useful_example_she-has-become-one-of-the-most-useful-members-on-the-team",
+                "text": "She has become one of the most useful members on the team."
+            },
+            {
+                "code": "useful_example_this-information-is-very-useful",
+                "text": "This information is very useful."
+            },
+            {
+                "code": "useful_example_you-might-find-this-useful",
+                "text": "You might find this useful."
+            },
+            {
+                "code": "useful_example_i-need-some-useful-advice",
+                "text": "I need some useful advice."
+            },
+            {
+                "code": "useful_example_thanks-for-the-useful-information",
+                "text": "Thanks for the useful information."
+            },
+            {
+                "code": "useful_example_that-information-was-very-useful-to-the-tourists",
+                "text": "That information was very useful to the tourists."
+            },
+            {
+                "code": "useful_example_that-book-is-useful-for-beginners",
+                "text": "That book is useful for beginners."
+            },
+            {
+                "code": "useful_example_computers-are-very-useful-in-classrooms",
+                "text": "Computers are very useful in classrooms."
+            }
+        ]
+    }
+]

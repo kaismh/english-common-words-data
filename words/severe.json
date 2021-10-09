@@ -1,0 +1,40 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "very bad; serious; painful; harsh",
+        "examples": [
+            {
+                "code": "severe_example_his-injury-looks-severe",
+                "text": "His injury looks severe."
+            },
+            {
+                "code": "severe_example_the-weather-grew-very-severe",
+                "text": "The weather grew very severe."
+            },
+            {
+                "code": "severe_example_we-had-an-extremely-severe-winter",
+                "text": "We had an extremely severe winter."
+            },
+            {
+                "code": "severe_example_the-wind-has-gotten-increasingly-severe",
+                "text": "The wind has gotten increasingly severe."
+            },
+            {
+                "code": "severe_example_george-has-severe-allergies",
+                "text": "George has severe allergies."
+            },
+            {
+                "code": "severe_example_we-witnessed-severe-weather-in-alaska",
+                "text": "We witnessed severe weather in Alaska."
+            },
+            {
+                "code": "severe_example_the-patient-experienced-severe-bleeding",
+                "text": "The patient experienced severe bleeding."
+            },
+            {
+                "code": "severe_example_she-has-a-severe-disability",
+                "text": "She has a severe disability."
+            }
+        ]
+    }
+]

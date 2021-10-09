@@ -1,0 +1,72 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the regular weather conditions of a certain place; the general feeling of a certain place",
+        "examples": [
+            {
+                "code": "climate_example_i-prefer-warm-climates",
+                "text": "I prefer warm climates."
+            },
+            {
+                "code": "climate_example_it-is-difficult-to-live-in-extreme-climates",
+                "text": "It is difficult to live in extreme climates."
+            },
+            {
+                "code": "climate_example_the-city-lies-in-a-desert-climate",
+                "text": "The city lies in a desert climate."
+            },
+            {
+                "code": "climate_example_the-global-climate-is-changing",
+                "text": "The global climate is changing."
+            },
+            {
+                "code": "climate_example_he-works-in-a-positive-climate",
+                "text": "He works in a positive climate."
+            },
+            {
+                "code": "climate_example_he-doesn-t-want-to-run-for-president-in-this-current-climate",
+                "text": "He doesn't want to run for president in this current climate."
+            },
+            {
+                "code": "climate_example_this-is-a-great-business-climate",
+                "text": "This is a great business climate."
+            },
+            {
+                "code": "climate_example_this-city-has-a-mild-climate",
+                "text": "This city has a mild climate."
+            },
+            {
+                "code": "climate_example_global-warming-has-affected-the-climate-around-here",
+                "text": "Global warming has affected the climate around here."
+            },
+            {
+                "code": "climate_example_we-need-to-create-a-positive-climate-for-change",
+                "text": "We need to create a positive climate for change."
+            },
+            {
+                "code": "climate_example_how-can-we-improve-the-office-climate-at-work",
+                "text": "How can we improve the office climate at work?"
+            },
+            {
+                "code": "climate_example_scientists-are-worried-about-climate-change",
+                "text": "Scientists are worried about climate change."
+            },
+            {
+                "code": "climate_example_she-is-involved-in-climate-research",
+                "text": "She is involved in climate research."
+            },
+            {
+                "code": "climate_example_we-cannot-continue-working-in-this-hostile-climate",
+                "text": "We cannot continue working in this hostile climate."
+            },
+            {
+                "code": "climate_example_we-need-to-create-a-positive-climate-for-change",
+                "text": "We need to create a positive climate for change."
+            },
+            {
+                "code": "climate_example_the-new-president-has-created-a-climate-of-fear-in-the-company",
+                "text": "The new president has created a climate of fear in the company."
+            }
+        ]
+    }
+]

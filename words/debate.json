@@ -1,0 +1,118 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a formal discussion to express different views",
+        "examples": [
+            {
+                "code": "debate_example_there-is-growing-debate-over-religion-in-schools",
+                "text": "There is growing debate over religion in schools."
+            },
+            {
+                "code": "debate_example_they-had-a-heated-debate-about-global-warming",
+                "text": "They had a heated debate about global warming."
+            },
+            {
+                "code": "debate_example_can-we-have-a-rational-debate",
+                "text": "Can we have a rational debate?"
+            },
+            {
+                "code": "debate_example_the-town-hall-is-hosting-a-public-debate",
+                "text": "The town hall is hosting a public debate."
+            },
+            {
+                "code": "debate_example_it-has-been-an-endless-debate",
+                "text": "It has been an endless debate."
+            },
+            {
+                "code": "debate_example_the-president-will-have-a-brief-debate",
+                "text": "The president will have a brief debate."
+            },
+            {
+                "code": "debate_example_i-saw-him-on-a-televised-debate",
+                "text": "I saw him on a televised debate."
+            },
+            {
+                "code": "debate_example_the-congressional-debate-is-on-tv",
+                "text": "The congressional debate is on TV."
+            },
+            {
+                "code": "debate_example_let-s-have-a-debate",
+                "text": "Let's have a debate."
+            },
+            {
+                "code": "debate_example_she-may-lose-the-debate",
+                "text": "She may lose the debate."
+            },
+            {
+                "code": "debate_example_the-mayor-dominated-the-debate",
+                "text": "The mayor dominated the debate."
+            },
+            {
+                "code": "debate_example_the-debate-will-take-place-on-friday",
+                "text": "The debate will take place on Friday."
+            },
+            {
+                "code": "debate_example_the-television-network-will-host-the-presidential-debate",
+                "text": "The television network will host the presidential debate."
+            },
+            {
+                "code": "debate_example_the-topic-is-under-debate",
+                "text": "The topic is under debate."
+            },
+            {
+                "code": "debate_example_the-debate-between-the-two-parties-is-getting-out-of-control",
+                "text": "The debate between the two parties is getting out of control."
+            },
+            {
+                "code": "debate_example_they-are-having-a-debate-on-global-warming",
+                "text": "They are having a debate on global warming."
+            },
+            {
+                "code": "debate_example_he-is-having-a-debate-with-the-mayor",
+                "text": "He is having a debate with the mayor."
+            },
+            {
+                "code": "debate_example_he-was-nervous-during-the-debate",
+                "text": "He was nervous during the debate."
+            },
+            {
+                "code": "debate_example_who-is-the-debate-moderator",
+                "text": "Who is the debate moderator?"
+            },
+            {
+                "code": "debate_example_he-is-on-the-debate-team-at-school",
+                "text": "He is on the debate team at school."
+            },
+            {
+                "code": "debate_example_people-were-criticizing-the-president-s-debate-performance",
+                "text": "People were criticizing the president's debate performance."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to discuss the different views of a topic",
+        "examples": [
+            {
+                "code": "debate_example_we-fully-debated-on-religion-in-schools",
+                "text": "We fully debated on religion in schools."
+            },
+            {
+                "code": "debate_example_the-two-actors-openly-debated-about-cosmetic-surgery",
+                "text": "The two actors openly debated about cosmetic surgery."
+            },
+            {
+                "code": "debate_example_they-debated-endlessly-on-many-community-issues",
+                "text": "They debated endlessly on many community issues."
+            },
+            {
+                "code": "debate_example_he-wants-to-debate-with-you",
+                "text": "He wants to debate with you."
+            },
+            {
+                "code": "debate_example_we-like-to-debate-the-issue",
+                "text": "We like to debate the issue."
+            }
+        ]
+    }
+]

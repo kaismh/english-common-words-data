@@ -1,0 +1,108 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a gift",
+        "examples": [
+            {
+                "code": "present_example_i-bought-a-present-for-my-sister",
+                "text": "I bought a present for my sister."
+            },
+            {
+                "code": "present_example_i-gave-a-present-to-my-friend",
+                "text": "I gave a present to my friend."
+            },
+            {
+                "code": "present_example_i-unwrapped-many-presents",
+                "text": "I unwrapped many presents."
+            },
+            {
+                "code": "present_example_we-exchange-presents-during-the-holidays",
+                "text": "We exchange presents during the holidays."
+            },
+            {
+                "code": "present_example_i-wrapped-all-of-the-presents",
+                "text": "I wrapped all of the presents."
+            },
+            {
+                "code": "present_example_i-got-a-lot-of-birthday-presents",
+                "text": "I got a lot of birthday presents."
+            },
+            {
+                "code": "present_example_i-received-a-present-from-my-brother",
+                "text": "I received a present from my brother."
+            },
+            {
+                "code": "present_example_i-gave-a-present-to-my-brother",
+                "text": "I gave a present to my brother."
+            },
+            {
+                "code": "present_example_she-bought-a-present-for-him",
+                "text": "She bought a present for him."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to give; to show",
+        "examples": [
+            {
+                "code": "present_example_the-evidence-was-clearly-presented-to-the-jury",
+                "text": "The evidence was clearly presented to the jury."
+            },
+            {
+                "code": "present_example_the-idea-was-visibly-presented-to-her-boss",
+                "text": "The idea was visibly presented to her boss."
+            },
+            {
+                "code": "present_example_they-presented-me-with-an-award",
+                "text": "They presented me with an award."
+            },
+            {
+                "code": "present_example_she-presented-the-evidence-to-the-jury",
+                "text": "She presented the evidence to the jury."
+            },
+            {
+                "code": "present_example_he-presents-himself-as-a-christian",
+                "text": "He presents himself as a Christian."
+            }
+        ]
+    },
+    {
+        "type": "(adj)",
+        "mean": "being in a particular place; now",
+        "examples": [
+            {
+                "code": "present_example_the-police-don-t-know-anything-at-the-present-time",
+                "text": "The police don't know anything at the present time."
+            },
+            {
+                "code": "present_example_the-present-owner-is-out-of-town",
+                "text": "The present owner is out of town."
+            },
+            {
+                "code": "present_example_how-should-we-deal-with-the-present-situation",
+                "text": "How should we deal with the present situation?"
+            },
+            {
+                "code": "present_example_i-don-t-know-his-present-whereabouts",
+                "text": "I don't know his present whereabouts."
+            },
+            {
+                "code": "present_example_in-my-present-state-i-should-not-leave-the-house",
+                "text": "In my present state, I should not leave the house."
+            },
+            {
+                "code": "present_example_she-is-physically-present",
+                "text": "She is physically present."
+            },
+            {
+                "code": "present_example_she-is-always-present-at-his-sports-games",
+                "text": "She is always present at his sports games."
+            },
+            {
+                "code": "present_example_he-remains-present-on-the-board-of-directors",
+                "text": "He remains present on the board of directors."
+            }
+        ]
+    }
+]

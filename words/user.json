@@ -1,0 +1,36 @@
+[
+    {
+        "type": "(n)",
+        "mean": "someone who uses something; someone who uses illegal drugs",
+        "examples": [
+            {
+                "code": "user_example_he-s-an-occasional-user-of-his-gym-membership",
+                "text": "He's an occasional user of his gym membership."
+            },
+            {
+                "code": "user_example_he-is-a-heavy-user-of-illegal-drugs",
+                "text": "He is a heavy user of illegal drugs."
+            },
+            {
+                "code": "user_example_information-is-available-for-registered-users-only",
+                "text": "Information is available for registered users only."
+            },
+            {
+                "code": "user_example_unauthorized-users-are-not-allowed-on-the-computers",
+                "text": "Unauthorized users are not allowed on the computers."
+            },
+            {
+                "code": "user_example_please-refer-to-the-user-manual-for-instructions",
+                "text": "Please refer to the user manual for instructions."
+            },
+            {
+                "code": "user_example_error-is-often-caused-by-user-fault",
+                "text": "Error is often caused by user fault."
+            },
+            {
+                "code": "user_example_first-you-have-to-create-a-user-profile",
+                "text": "First, you have to create a user profile."
+            }
+        ]
+    }
+]

@@ -1,0 +1,56 @@
+[
+    {
+        "type": "(adv)",
+        "mean": "usually; mainly",
+        "examples": [
+            {
+                "code": "mostly_example_robberies-mostly-occur-during-the-day",
+                "text": "Robberies mostly occur during the day."
+            },
+            {
+                "code": "mostly_example_we-mostly-rely-on-donations",
+                "text": "We mostly rely on donations."
+            },
+            {
+                "code": "mostly_example_i-mostly-remember-the-smell",
+                "text": "I mostly remember the smell."
+            },
+            {
+                "code": "mostly_example_the-decision-mostly-concerns-upper-management",
+                "text": "The decision mostly concerns upper management."
+            },
+            {
+                "code": "mostly_example_she-mostly-concentrates-on-her-studies",
+                "text": "She mostly concentrates on her studies."
+            },
+            {
+                "code": "mostly_example_the-dessert-mostly-consists-of-chocolate",
+                "text": "The dessert mostly consists of chocolate."
+            },
+            {
+                "code": "mostly_example_he-mostly-works-from-home",
+                "text": "He mostly works from home."
+            },
+            {
+                "code": "mostly_example_the-weather-this-weekend-will-be-mostly-cloudy",
+                "text": "The weather this weekend will be mostly cloudy."
+            },
+            {
+                "code": "mostly_example_the-sky-is-mostly-empty",
+                "text": "The sky is mostly empty."
+            },
+            {
+                "code": "mostly_example_i-was-mostly-concerned-about-you",
+                "text": "I was mostly concerned about you."
+            },
+            {
+                "code": "mostly_example_the-improvements-on-the-house-are-mostly-cosmetic",
+                "text": "The improvements on the house are mostly cosmetic."
+            },
+            {
+                "code": "mostly_example_she-is-mostly-upset-at-her-parents",
+                "text": "She is mostly upset at her parents."
+            }
+        ]
+    }
+]

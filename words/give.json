@@ -1,0 +1,128 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to hand something to someone; to deliver; to provide",
+        "examples": [
+            {
+                "code": "give_example_did-he-give-you-an-answer-yet",
+                "text": "Did he give you an answer yet?"
+            },
+            {
+                "code": "give_example_she-gave-me-her-address",
+                "text": "She gave me her address."
+            },
+            {
+                "code": "give_example_can-you-give-me-an-example",
+                "text": "Can you give me an example?"
+            },
+            {
+                "code": "give_example_please-give-me-a-description-of-the-car",
+                "text": "Please give me a description of the car."
+            },
+            {
+                "code": "give_example_can-you-give-me-directions-to-your-house",
+                "text": "Can you give me directions to your house?"
+            },
+            {
+                "code": "give_example_she-s-giving-an-exam-tomorrow",
+                "text": "She's giving an exam tomorrow."
+            },
+            {
+                "code": "give_example_the-nurse-gave-me-some-medicine",
+                "text": "The nurse gave me some medicine."
+            },
+            {
+                "code": "give_example_the-doctor-gave-me-a-prescription",
+                "text": "The doctor gave me a prescription."
+            },
+            {
+                "code": "give_example_they-finally-gave-us-the-approval-we-needed",
+                "text": "They finally gave us the approval we needed."
+            },
+            {
+                "code": "give_example_did-she-give-any-indication-that-she-was-unhappy",
+                "text": "Did she give any indication that she was unhappy?"
+            },
+            {
+                "code": "give_example_he-gives-a-lot-of-donations-to-charity-organizations",
+                "text": "He gives a lot of donations to charity organizations."
+            },
+            {
+                "code": "give_example_the-president-gave-a-medal-to-the-hero",
+                "text": "The president gave a medal to the hero."
+            },
+            {
+                "code": "give_example_he-gave-me-some-advice",
+                "text": "He gave me some advice."
+            },
+            {
+                "code": "give_example_she-finally-gave-me-an-apology",
+                "text": "She finally gave me an apology."
+            },
+            {
+                "code": "give_example_they-gave-his-idea-some-attention",
+                "text": "They gave his idea some attention."
+            },
+            {
+                "code": "give_example_she-gave-the-dirty-dog-a-bath",
+                "text": "She gave the dirty dog a bath."
+            },
+            {
+                "code": "give_example_my-boss-gave-me-a-big-bonus",
+                "text": "My boss gave me a big bonus."
+            },
+            {
+                "code": "give_example_give-me-a-call-tomorrow",
+                "text": "Give me a call tomorrow."
+            },
+            {
+                "code": "give_example_i-gave-him-two-choices",
+                "text": "I gave him two choices."
+            },
+            {
+                "code": "give_example_they-gave-me-their-decision",
+                "text": "They gave me their decision."
+            },
+            {
+                "code": "give_example_i-gave-her-a-good-discount",
+                "text": "I gave her a good discount."
+            },
+            {
+                "code": "give_example_the-government-gave-us-extra-funding",
+                "text": "The government gave us extra funding."
+            },
+            {
+                "code": "give_example_i-gave-her-a-hug",
+                "text": "I gave her a hug."
+            },
+            {
+                "code": "give_example_the-news-gave-him-hope",
+                "text": "The news gave him hope."
+            },
+            {
+                "code": "give_example_he-gave-a-lecture-on-global-warming",
+                "text": "He gave a lecture on global warming."
+            },
+            {
+                "code": "give_example_that-movie-gave-me-nightmares",
+                "text": "That movie gave me nightmares."
+            },
+            {
+                "code": "give_example_we-gave-him-plenty-of-opportunities-to-improve",
+                "text": "We gave him plenty of opportunities to improve."
+            },
+            {
+                "code": "give_example_the-organization-gives-many-scholarships",
+                "text": "The organization gives many scholarships."
+            },
+            {
+                "code": "give_example_he-gave-a-statement-to-the-police",
+                "text": "He gave a statement to the police."
+            },
+            {
+                "code": "give_example_they-gave-him-a-ticket",
+                "text": "They gave him a ticket."
+            }
+        ]
+    }
+]

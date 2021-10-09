@@ -1,0 +1,96 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the time from midnight to noon; the part of the day before noon",
+        "examples": [
+            {
+                "code": "morning_example_how-did-you-spend-your-morning",
+                "text": "How did you spend your morning?"
+            },
+            {
+                "code": "morning_example_it-got-colder-as-the-morning-passed",
+                "text": "It got colder as the morning passed."
+            },
+            {
+                "code": "morning_example_i-am-not-a-morning-person",
+                "text": "I am not a morning person."
+            },
+            {
+                "code": "morning_example_i-just-got-back-from-my-morning-workout",
+                "text": "I just got back from my morning workout."
+            },
+            {
+                "code": "morning_example_this-pregnancy-is-giving-me-morning-sickness",
+                "text": "This pregnancy is giving me morning sickness."
+            },
+            {
+                "code": "morning_example_do-you-read-the-morning-newspaper",
+                "text": "Do you read the morning newspaper?"
+            },
+            {
+                "code": "morning_example_the-accident-happened-during-the-morning-commute",
+                "text": "The accident happened during the morning commute."
+            },
+            {
+                "code": "morning_example_morning-rush-hour-is-the-worst",
+                "text": "Morning rush hour is the worst."
+            },
+            {
+                "code": "morning_example_i-never-break-my-morning-routine",
+                "text": "I never break my morning routine."
+            },
+            {
+                "code": "morning_example_i-need-my-morning-coffee",
+                "text": "I need my morning coffee."
+            },
+            {
+                "code": "morning_example_we-have-morning-prayer-at-church",
+                "text": "We have morning prayer at church."
+            },
+            {
+                "code": "morning_example_i-love-the-morning-air",
+                "text": "I love the morning air."
+            },
+            {
+                "code": "morning_example_we-have-breakfast-with-them-every-weekday-morning",
+                "text": "We have breakfast with them every weekday morning."
+            },
+            {
+                "code": "morning_example_we-usually-go-jogging-in-the-early-morning",
+                "text": "We usually go jogging in the early morning."
+            },
+            {
+                "code": "morning_example_what-time-are-you-getting-up-tomorrow-morning",
+                "text": "What time are you getting up tomorrow morning?"
+            },
+            {
+                "code": "morning_example_we-met-with-him-yesterday-morning",
+                "text": "We met with him yesterday morning."
+            },
+            {
+                "code": "morning_example_it-is-another-lazy-morning",
+                "text": "It is another lazy morning."
+            },
+            {
+                "code": "morning_example_we-had-a-peaceful-morning-together",
+                "text": "We had a peaceful morning together."
+            },
+            {
+                "code": "morning_example_we-are-leaving-on-the-morning-of-the-tenth",
+                "text": "We are leaving on the morning of the tenth."
+            },
+            {
+                "code": "morning_example_the-morning-of-the-eleventh-was-cold",
+                "text": "The morning of the eleventh was cold."
+            },
+            {
+                "code": "morning_example_it-will-be-ready-by-morning",
+                "text": "It will be ready by morning."
+            },
+            {
+                "code": "morning_example_the-accident-happened-during-the-morning",
+                "text": "The accident happened during the morning."
+            }
+        ]
+    }
+]

@@ -1,0 +1,36 @@
+[
+    {
+        "type": "(adv)",
+        "mean": "in comparison to others",
+        "examples": [
+            {
+                "code": "relatively_example_recovery-from-surgery-was-relatively-painless",
+                "text": "Recovery from surgery was relatively painless."
+            },
+            {
+                "code": "relatively_example_i-am-relatively-comfortable-here",
+                "text": "I am relatively comfortable here."
+            },
+            {
+                "code": "relatively_example_this-math-problem-is-relatively-simple",
+                "text": "This math problem is relatively simple."
+            },
+            {
+                "code": "relatively_example_he-is-relatively-inexperienced-at-teaching",
+                "text": "He is relatively inexperienced at teaching."
+            },
+            {
+                "code": "relatively_example_he-is-a-relatively-unknown-author",
+                "text": "He is a relatively unknown author."
+            },
+            {
+                "code": "relatively_example_the-car-is-relatively-cheap",
+                "text": "The car is relatively cheap."
+            },
+            {
+                "code": "relatively_example_we-live-relatively-close-to-the-school",
+                "text": "We live relatively close to the school."
+            }
+        ]
+    }
+]

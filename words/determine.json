@@ -1,0 +1,36 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to find out; to cause or decide an outcome",
+        "examples": [
+            {
+                "code": "determine_example_we-are-trying-to-determine-exactly-what-happened",
+                "text": "We are trying to determine exactly what happened."
+            },
+            {
+                "code": "determine_example_the-teacher-needs-to-objectively-determine-who-was-wrong",
+                "text": "The teacher needs to objectively determine who was wrong."
+            },
+            {
+                "code": "determine_example_his-decision-will-ultimately-determine-whether-she-gets-the-job",
+                "text": "His decision will ultimately determine whether she gets the job."
+            },
+            {
+                "code": "determine_example_can-you-accurately-determine-the-root-cause",
+                "text": "Can you accurately determine the root cause?"
+            },
+            {
+                "code": "determine_example_a-test-score-can-largely-determine-your-choices-for-college",
+                "text": "A test score can largely determine your choices for college."
+            },
+            {
+                "code": "determine_example_who-will-determine-the-champion",
+                "text": "Who will determine the champion?"
+            },
+            {
+                "code": "determine_example_we-will-determine-the-distance",
+                "text": "We will determine the distance."
+            }
+        ]
+    }
+]

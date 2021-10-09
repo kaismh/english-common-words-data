@@ -1,0 +1,72 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "not good; serious",
+        "examples": [
+            {
+                "code": "bad_example_her-injury-looks-bad",
+                "text": "Her injury looks bad."
+            },
+            {
+                "code": "bad_example_that-outfit-looks-bad",
+                "text": "That outfit looks bad."
+            },
+            {
+                "code": "bad_example_that-is-a-bad-idea",
+                "text": "That is a bad idea."
+            },
+            {
+                "code": "bad_example_that-sounds-like-a-bad-idea",
+                "text": "That sounds like a bad idea."
+            },
+            {
+                "code": "bad_example_your-cooking-smells-bad",
+                "text": "Your cooking smells bad."
+            },
+            {
+                "code": "bad_example_that-food-has-gone-bad",
+                "text": "That food has gone bad."
+            },
+            {
+                "code": "bad_example_i-feel-bad-for-you",
+                "text": "I feel bad for you."
+            },
+            {
+                "code": "bad_example_your-injury-looks-extremely-bad",
+                "text": "Your injury looks extremely bad."
+            },
+            {
+                "code": "bad_example_my-test-scores-were-embarrassingly-bad",
+                "text": "My test scores were embarrassingly bad."
+            },
+            {
+                "code": "bad_example_his-attitude-is-especially-bad-today",
+                "text": "His attitude is especially bad today."
+            },
+            {
+                "code": "bad_example_my-favorite-baseball-team-is-notoriously-bad",
+                "text": "My favorite baseball team is notoriously bad."
+            },
+            {
+                "code": "bad_example_the-restaurant-s-food-and-service-were-equally-bad",
+                "text": "The restaurant's food and service were equally bad."
+            },
+            {
+                "code": "bad_example_things-were-bad-enough-before-the-hurricane",
+                "text": "Things were bad enough before the hurricane."
+            },
+            {
+                "code": "bad_example_she-is-really-bad-at-cooking",
+                "text": "She is really bad at cooking."
+            },
+            {
+                "code": "bad_example_candy-is-bad-for-your-teeth",
+                "text": "Candy is bad for your teeth."
+            },
+            {
+                "code": "bad_example_she-felt-bad-about-causing-the-accident",
+                "text": "She felt bad about causing the accident."
+            }
+        ]
+    }
+]

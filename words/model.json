@@ -1,0 +1,94 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a person who poses for a photographer wearing a new style of clothing; a person who sets an example of good behavior; a smaller copy of an original item; a particular design of a product",
+        "examples": [
+            {
+                "code": "model_example_his-job-is-to-photograph-models",
+                "text": "His job is to photograph models."
+            },
+            {
+                "code": "model_example_the-model-poses-for-the-camera",
+                "text": "The model poses for the camera."
+            },
+            {
+                "code": "model_example_the-architect-constructed-a-model-of-his-project",
+                "text": "The architect constructed a model of his project."
+            },
+            {
+                "code": "model_example_the-car-company-is-releasing-a-new-model-next-year",
+                "text": "The car company is releasing a new model next year."
+            },
+            {
+                "code": "model_example_i-bought-a-model-airplane",
+                "text": "I bought a model airplane."
+            },
+            {
+                "code": "model_example_she-is-a-model-student",
+                "text": "She is a model student."
+            },
+            {
+                "code": "model_example_we-looked-at-model-homes",
+                "text": "We looked at model homes."
+            },
+            {
+                "code": "model_example_i-like-building-model-airplanes",
+                "text": "I like building model airplanes."
+            },
+            {
+                "code": "model_example_his-car-is-the-latest-model",
+                "text": "His car is the latest model."
+            },
+            {
+                "code": "model_example_they-made-a-computer-model-of-the-house",
+                "text": "They made a computer model of the house."
+            },
+            {
+                "code": "model_example_we-built-an-architectural-model-in-drafting-class",
+                "text": "We built an architectural model in drafting class."
+            },
+            {
+                "code": "model_example_my-older-brother-is-a-great-role-model",
+                "text": "My older brother is a great role model."
+            },
+            {
+                "code": "model_example_she-is-a-fashion-model-in-paris",
+                "text": "She is a fashion model in Paris."
+            },
+            {
+                "code": "model_example_the-architect-made-a-model-of-the-building",
+                "text": "The architect made a model of the building."
+            },
+            {
+                "code": "model_example_he-is-a-good-role-model-for-kids",
+                "text": "He is a good role model for kids."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to pose for a photographer wearing a new style of clothing; make a copy",
+        "examples": [
+            {
+                "code": "model_example_we-modeled-our-behavior-after-them",
+                "text": "We modeled our behavior after them."
+            },
+            {
+                "code": "model_example_she-modeled-dresses-for-a-store-catalog",
+                "text": "She modeled dresses for a store catalog."
+            },
+            {
+                "code": "model_example_we-modeled-the-new-design-closely-to-the-one-last-year",
+                "text": "We modeled the new design closely to the one last year."
+            },
+            {
+                "code": "model_example_how-can-we-accurately-model-this-program-to-the-popular-one",
+                "text": "How can we accurately model this program to the popular one?"
+            },
+            {
+                "code": "model_example_we-want-to-model-our-business-plan-on-those-from-the-past",
+                "text": "We want to model our business plan on those from the past."
+            }
+        ]
+    }
+]

@@ -1,0 +1,70 @@
+[
+    {
+        "type": "(n)",
+        "mean": "an instrument with ink used for writing or drawing",
+        "examples": [
+            {
+                "code": "pen_example_she-writes-and-draws-with-a-ballpoint-pen",
+                "text": "She writes and draws with a ballpoint pen."
+            },
+            {
+                "code": "pen_example_he-used-a-calligraphy-pen-to-write-fancy-letters",
+                "text": "He used a calligraphy pen to write fancy letters."
+            },
+            {
+                "code": "pen_example_we-keep-our-dogs-in-a-wooden-pen",
+                "text": "We keep our dogs in a wooden pen."
+            },
+            {
+                "code": "pen_example_he-uses-a-fountain-pen",
+                "text": "He uses a fountain pen."
+            },
+            {
+                "code": "pen_example_may-i-borrow-a-pen",
+                "text": "May I borrow a pen?"
+            },
+            {
+                "code": "pen_example_the-farmer-keeps-his-pigs-in-a-large-pen",
+                "text": "The farmer keeps his pigs in a large pen."
+            },
+            {
+                "code": "pen_example_i-lost-my-pen-cap",
+                "text": "I lost my pen cap."
+            },
+            {
+                "code": "pen_example_i-ran-out-of-pen-ink",
+                "text": "I ran out of pen ink."
+            },
+            {
+                "code": "pen_example_it-left-a-pen-mark-on-his-shirt",
+                "text": "It left a pen mark on his shirt."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to write something; to keep in a confined area; keep in a cage",
+        "examples": [
+            {
+                "code": "pen_example_he-penned-his-autobiography",
+                "text": "He penned his autobiography."
+            },
+            {
+                "code": "pen_example_she-penned-her-own-musical-lyrics",
+                "text": "She penned her own musical lyrics."
+            },
+            {
+                "code": "pen_example_he-penned-a-song-about-his-ex-girlfriend",
+                "text": "He penned a song about his ex-girlfriend."
+            },
+            {
+                "code": "pen_example_we-pen-our-dog-when-we-leave-to-work",
+                "text": "We pen our dog when we leave to work."
+            },
+            {
+                "code": "pen_example_the-farmer-pens-his-animals-separately",
+                "text": "The farmer pens his animals separately."
+            }
+        ]
+    }
+]

@@ -1,0 +1,56 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a person who attends school, college or university",
+        "examples": [
+            {
+                "code": "student_example_he-is-a-brilliant-student",
+                "text": "He is a brilliant student."
+            },
+            {
+                "code": "student_example_she-is-a-full-time-student-at-the-university",
+                "text": "She is a full-time student at the university."
+            },
+            {
+                "code": "student_example_he-is-a-former-student-of-mine",
+                "text": "He is a former student of mine."
+            },
+            {
+                "code": "student_example_she-is-an-art-student-in-college",
+                "text": "She is an art student in college."
+            },
+            {
+                "code": "student_example_more-than-fifty-students-are-enrolled-in-the-class",
+                "text": "More than fifty students are enrolled in the class."
+            },
+            {
+                "code": "student_example_the-students-are-encouraged-to-work-independently",
+                "text": "The students are encouraged to work independently."
+            },
+            {
+                "code": "student_example_she-wants-the-students-to-take-academic-risks",
+                "text": "She wants the students to take academic risks."
+            },
+            {
+                "code": "student_example_she-is-a-student-nurse",
+                "text": "She is a student nurse."
+            },
+            {
+                "code": "student_example_i-m-thoroughly-enjoying-my-student-life",
+                "text": "I'm thoroughly enjoying my student life."
+            },
+            {
+                "code": "student_example_the-teacher-encourages-student-participation",
+                "text": "The teacher encourages student participation."
+            },
+            {
+                "code": "student_example_he-qualified-for-a-student-loan",
+                "text": "He qualified for a student loan."
+            },
+            {
+                "code": "student_example_she-has-an-opportunity-to-go-to-london-as-an-international-student",
+                "text": "She has an opportunity to go to London as an international student."
+            }
+        ]
+    }
+]

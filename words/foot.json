@@ -1,0 +1,126 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the part of the body at the end of the leg that you use to stand with; a unit of measurement equal to 12 inches",
+        "examples": [
+            {
+                "code": "foot_example_he-injured-his-left-foot",
+                "text": "He injured his left foot."
+            },
+            {
+                "code": "foot_example_she-has-tiny-feet",
+                "text": "She has tiny feet."
+            },
+            {
+                "code": "foot_example_she-always-walks-around-in-bare-feet-in-the-summer",
+                "text": "She always walks around in bare feet in the summer."
+            },
+            {
+                "code": "foot_example_he-had-swollen-feet-after-the-hike",
+                "text": "He had swollen feet after the hike."
+            },
+            {
+                "code": "foot_example_his-feet-are-so-smelly",
+                "text": "His feet are so smelly."
+            },
+            {
+                "code": "foot_example_she-has-a-broken-foot",
+                "text": "She has a broken foot."
+            },
+            {
+                "code": "foot_example_many-birds-have-webbed-feet-to-help-them-swim",
+                "text": "Many birds have webbed feet to help them swim."
+            },
+            {
+                "code": "foot_example_he-quickly-got-to-his-feet",
+                "text": "He quickly got to his feet."
+            },
+            {
+                "code": "foot_example_i-am-on-my-feet-all-day",
+                "text": "I am on my feet all day."
+            },
+            {
+                "code": "foot_example_she-put-her-feet-in-the-water",
+                "text": "She put her feet in the water."
+            },
+            {
+                "code": "foot_example_he-raised-his-foot-off-the-ground",
+                "text": "He raised his foot off the ground."
+            },
+            {
+                "code": "foot_example_she-stomped-her-feet-in-anger",
+                "text": "She stomped her feet in anger."
+            },
+            {
+                "code": "foot_example_he-tapped-his-feet-nervously",
+                "text": "He tapped his feet nervously."
+            },
+            {
+                "code": "foot_example_just-swing-your-foot-over-the-top-and-climb-up",
+                "text": "Just swing your foot over the top and climb up."
+            },
+            {
+                "code": "foot_example_wipe-your-feet-before-you-come-inside",
+                "text": "Wipe your feet before you come inside."
+            },
+            {
+                "code": "foot_example_she-dragged-her-feet-as-she-reluctantly-followed",
+                "text": "She dragged her feet as she reluctantly followed."
+            },
+            {
+                "code": "foot_example_my-foot-caught-on-the-cord-and-i-tripped",
+                "text": "My foot caught on the cord and I tripped."
+            },
+            {
+                "code": "foot_example_her-foot-slipped-and-she-fell-down-the-stairs",
+                "text": "Her foot slipped and she fell down the stairs."
+            },
+            {
+                "code": "foot_example_i-dangled-my-feet-over-the-edge-of-the-pool",
+                "text": "I dangled my feet over the edge of the pool."
+            },
+            {
+                "code": "foot_example_his-feet-hit-the-bottom-of-the-lake-when-he-jumped-in",
+                "text": "His feet hit the bottom of the lake when he jumped in."
+            },
+            {
+                "code": "foot_example_i-need-a-foot-massage-after-that-hike",
+                "text": "I need a foot massage after that hike."
+            },
+            {
+                "code": "foot_example_she-has-a-painful-foot-injury",
+                "text": "She has a painful foot injury."
+            },
+            {
+                "code": "foot_example_foot-traffic-is-heavy-in-this-area",
+                "text": "Foot traffic is heavy in this area."
+            },
+            {
+                "code": "foot_example_the-police-officer-is-on-foot-patrol",
+                "text": "The police officer is on foot patrol."
+            },
+            {
+                "code": "foot_example_the-dry-leaves-crunched-beneath-her-feet",
+                "text": "The dry leaves crunched beneath her feet."
+            },
+            {
+                "code": "foot_example_she-explored-the-area-on-foot",
+                "text": "She explored the area on foot."
+            },
+            {
+                "code": "foot_example_she-pushed-the-door-open-with-her-foot",
+                "text": "She pushed the door open with her foot."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to pay for something",
+        "examples": [
+            {
+                "code": "foot_example_he-offered-to-foot-the-bill-for-dinner",
+                "text": "He offered to foot the bill for dinner."
+            }
+        ]
+    }
+]

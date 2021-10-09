@@ -1,0 +1,64 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the act of looking or listening and showing interest",
+        "examples": [
+            {
+                "code": "attention_example_you-have-my-full-attention",
+                "text": "You have my full attention."
+            },
+            {
+                "code": "attention_example_pay-careful-attention-to-his-words",
+                "text": "Pay careful attention to his words."
+            },
+            {
+                "code": "attention_example_the-book-received-critical-attention",
+                "text": "The book received critical attention."
+            },
+            {
+                "code": "attention_example_the-scandal-got-international-attention",
+                "text": "The scandal got international attention."
+            },
+            {
+                "code": "attention_example_my-grandmother-needs-medical-attention",
+                "text": "My grandmother needs medical attention."
+            },
+            {
+                "code": "attention_example_please-devote-your-attention-to-this-project",
+                "text": "Please devote your attention to this project."
+            },
+            {
+                "code": "attention_example_we-should-pay-attention-to-the-teacher",
+                "text": "We should pay attention to the teacher."
+            },
+            {
+                "code": "attention_example_the-movie-gained-a-lot-of-attention",
+                "text": "The movie gained a lot of attention."
+            },
+            {
+                "code": "attention_example_her-words-caught-our-attention",
+                "text": "Her words caught our attention."
+            },
+            {
+                "code": "attention_example_we-concentrated-our-attention-on-getting-the-job-done",
+                "text": "We concentrated our attention on getting the job done."
+            },
+            {
+                "code": "attention_example_the-issue-deserves-our-attention",
+                "text": "The issue deserves our attention."
+            },
+            {
+                "code": "attention_example_my-kids-compete-for-my-attention",
+                "text": "My kids compete for my attention."
+            },
+            {
+                "code": "attention_example_my-wife-brought-this-story-to-my-attention",
+                "text": "My wife brought this story to my attention."
+            },
+            {
+                "code": "attention_example_my-attention-wanders-during-class",
+                "text": "My attention wanders during class."
+            }
+        ]
+    }
+]

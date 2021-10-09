@@ -1,0 +1,36 @@
+[
+    {
+        "type": "(n)",
+        "mean": "someone who manages a newspaper or magazine; someone who prepares texts, video, or radio for publication",
+        "examples": [
+            {
+                "code": "editor_example_i-got-a-job-as-a-copy-editor",
+                "text": "I got a job as a copy editor."
+            },
+            {
+                "code": "editor_example_i-am-the-managing-editor-of-the-newspaper",
+                "text": "I am the managing editor of the newspaper."
+            },
+            {
+                "code": "editor_example_she-works-as-a-newspaper-editor",
+                "text": "She works as a newspaper editor."
+            },
+            {
+                "code": "editor_example_can-you-help-the-news-editor-tomorrow",
+                "text": "Can you help the news editor tomorrow?"
+            },
+            {
+                "code": "editor_example_he-is-an-editor-of-a-major-newspaper",
+                "text": "He is an editor of a major newspaper."
+            },
+            {
+                "code": "editor_example_the-editor-cut-my-article",
+                "text": "The editor cut my article."
+            },
+            {
+                "code": "editor_example_my-editor-gave-me-a-deadline",
+                "text": "My editor gave me a deadline."
+            }
+        ]
+    }
+]

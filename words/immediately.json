@@ -1,0 +1,72 @@
+[
+    {
+        "type": "(adv)",
+        "mean": "right away without delay",
+        "examples": [
+            {
+                "code": "immediately_example_the-doctor-was-immediately-available-to-see-her",
+                "text": "The doctor was immediately available to see her."
+            },
+            {
+                "code": "immediately_example_the-pain-medicine-was-immediately-effective",
+                "text": "The pain medicine was immediately effective."
+            },
+            {
+                "code": "immediately_example_it-was-immediately-obvious-that-she-was-responsible-for-the-accident",
+                "text": "It was immediately obvious that she was responsible for the accident."
+            },
+            {
+                "code": "immediately_example_the-dent-on-the-car-was-immediately-noticeable-to-his-parents",
+                "text": "The dent on the car was immediately noticeable to his parents."
+            },
+            {
+                "code": "immediately_example_he-acted-immediately-when-he-saw-the-house-on-fire",
+                "text": "He acted immediately when he saw the house on fire."
+            },
+            {
+                "code": "immediately_example_he-immediately-apologized-for-his-behavior",
+                "text": "He immediately apologized for his behavior."
+            },
+            {
+                "code": "immediately_example_she-immediately-regretted-her-behavior",
+                "text": "She immediately regretted her behavior."
+            },
+            {
+                "code": "immediately_example_the-school-immediately-contacted-the-parents-after-the-accident",
+                "text": "The school immediately contacted the parents after the accident."
+            },
+            {
+                "code": "immediately_example_the-house-was-immediately-destroyed-during-the-tornado",
+                "text": "The house was immediately destroyed during the tornado."
+            },
+            {
+                "code": "immediately_example_we-had-to-immediately-evacuate-the-building",
+                "text": "We had to immediately evacuate the building."
+            },
+            {
+                "code": "immediately_example_the-student-was-immediately-expelled-for-bringing-drugs-to-school",
+                "text": "The student was immediately expelled for bringing drugs to school."
+            },
+            {
+                "code": "immediately_example_the-reception-immediately-followed-the-wedding-ceremony",
+                "text": "The reception immediately followed the wedding ceremony."
+            },
+            {
+                "code": "immediately_example_she-immediately-noticed-the-damage-to-her-car",
+                "text": "She immediately noticed the damage to her car."
+            },
+            {
+                "code": "immediately_example_the-voters-immediately-rejected-the-new-contract-offer",
+                "text": "The voters immediately rejected the new contract offer."
+            },
+            {
+                "code": "immediately_example_the-politician-immediately-resigned-after-the-scandal-came-out",
+                "text": "The politician immediately resigned after the scandal came out."
+            },
+            {
+                "code": "immediately_example_he-was-immediately-terminated-for-stealing-from-the-company",
+                "text": "He was immediately terminated for stealing from the company."
+            }
+        ]
+    }
+]

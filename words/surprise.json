@@ -1,0 +1,114 @@
+[
+    {
+        "type": "(n)",
+        "mean": "an unexpected event or news",
+        "examples": [
+            {
+                "code": "surprise_example_it-was-a-total-surprise-to-see-my-old-friend",
+                "text": "It was a total surprise to see my old friend."
+            },
+            {
+                "code": "surprise_example_he-had-a-great-surprise-for-his-wife",
+                "text": "He had a great surprise for his wife."
+            },
+            {
+                "code": "surprise_example_the-party-was-a-real-surprise-to-the-birthday-girl",
+                "text": "The party was a real surprise to the birthday girl."
+            },
+            {
+                "code": "surprise_example_what-a-pleasant-surprise-to-see-you-here",
+                "text": "What a pleasant surprise to see you here."
+            },
+            {
+                "code": "surprise_example_she-had-a-little-surprise-for-her-daughter",
+                "text": "She had a little surprise for her daughter."
+            },
+            {
+                "code": "surprise_example_i-have-a-little-surprise-for-you",
+                "text": "I have a little surprise for you."
+            },
+            {
+                "code": "surprise_example_i-received-a-big-surprise-when-i-arrived-home",
+                "text": "I received a big surprise when I arrived home."
+            },
+            {
+                "code": "surprise_example_he-spoiled-the-surprise",
+                "text": "He spoiled the surprise."
+            },
+            {
+                "code": "surprise_example_that-was-a-huge-surprise-to-everyone",
+                "text": "That was a huge surprise to everyone."
+            },
+            {
+                "code": "surprise_example_the-band-made-a-surprise-appearance",
+                "text": "The band made a surprise appearance."
+            },
+            {
+                "code": "surprise_example_he-threw-his-girlfriend-a-surprise-party",
+                "text": "He threw his girlfriend a surprise party."
+            },
+            {
+                "code": "surprise_example_they-made-a-surprise-announcement-at-dinner",
+                "text": "They made a surprise announcement at dinner."
+            },
+            {
+                "code": "surprise_example_there-was-a-surprise-attack-on-the-sleeping-soldiers",
+                "text": "There was a surprise attack on the sleeping soldiers."
+            },
+            {
+                "code": "surprise_example_it-was-a-surprise-win-for-the-team",
+                "text": "It was a surprise win for the team."
+            },
+            {
+                "code": "surprise_example_we-have-a-surprise-guest-tonight",
+                "text": "We have a surprise guest tonight."
+            },
+            {
+                "code": "surprise_example_he-had-a-big-surprise-for-her",
+                "text": "He had a big surprise for her."
+            },
+            {
+                "code": "surprise_example_the-news-came-as-a-complete-surprise-to-him",
+                "text": "The news came as a complete surprise to him."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to amaze or shock someone by doing or saying something unexpectedly; to meet or attack someone without warning",
+        "examples": [
+            {
+                "code": "surprise_example_she-really-surprised-us-with-her-musical-talent",
+                "text": "She really surprised us with her musical talent."
+            },
+            {
+                "code": "surprise_example_things-hardly-surprise-me-anymore",
+                "text": "Things hardly surprise me anymore."
+            },
+            {
+                "code": "surprise_example_he-was-surprised-by-the-results",
+                "text": "He was surprised by the results."
+            },
+            {
+                "code": "surprise_example_she-surprised-everyone-with-her-new-haircut",
+                "text": "She surprised everyone with her new haircut."
+            },
+            {
+                "code": "surprise_example_nothing-surprises-me-anymore",
+                "text": "Nothing surprises me anymore."
+            },
+            {
+                "code": "surprise_example_things-still-surprise-me-at-this-age",
+                "text": "Things still surprise me at this age."
+            },
+            {
+                "code": "surprise_example_she-still-surprises-me-after-all-these-years",
+                "text": "She still surprises me after all these years."
+            },
+            {
+                "code": "surprise_example_everything-surprises-him",
+                "text": "Everything surprises him."
+            }
+        ]
+    }
+]

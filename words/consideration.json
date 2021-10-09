@@ -1,0 +1,64 @@
+[
+    {
+        "type": "(n)",
+        "mean": "careful attention to something; attention to the feelings of others; things to think about when making a decision",
+        "examples": [
+            {
+                "code": "consideration_example_give-careful-consideration-to-her-request",
+                "text": "Give careful consideration to her request."
+            },
+            {
+                "code": "consideration_example_the-problem-deserves-further-consideration",
+                "text": "The problem deserves further consideration."
+            },
+            {
+                "code": "consideration_example_the-boss-s-daughter-will-not-get-special-consideration",
+                "text": "The boss's daughter will not get special consideration."
+            },
+            {
+                "code": "consideration_example_price-is-always-an-important-consideration",
+                "text": "Price is always an important consideration."
+            },
+            {
+                "code": "consideration_example_the-committee-will-give-it-consideration",
+                "text": "The committee will give it consideration."
+            },
+            {
+                "code": "consideration_example_please-take-into-consideration-her-current-situation",
+                "text": "Please take into consideration her current situation."
+            },
+            {
+                "code": "consideration_example_her-plan-deserves-serious-consideration",
+                "text": "Her plan deserves serious consideration."
+            },
+            {
+                "code": "consideration_example_please-show-her-some-consideration",
+                "text": "Please show her some consideration."
+            },
+            {
+                "code": "consideration_example_he-received-special-consideration",
+                "text": "He received special consideration."
+            },
+            {
+                "code": "consideration_example_money-is-a-major-consideration-when-buying-a-home",
+                "text": "Money is a major consideration when buying a home."
+            },
+            {
+                "code": "consideration_example_the-business-plan-is-under-consideration",
+                "text": "The business plan is under consideration."
+            },
+            {
+                "code": "consideration_example_i-washed-the-dishes-out-of-consideration-for-you",
+                "text": "I washed the dishes out of consideration for you."
+            },
+            {
+                "code": "consideration_example_after-much-consideration-we-decided-to-close-the-business",
+                "text": "After much consideration, we decided to close the business."
+            },
+            {
+                "code": "consideration_example_the-business-plan-was-sent-to-the-manager-for-consideration",
+                "text": "The business plan was sent to the manager for consideration."
+            }
+        ]
+    }
+]

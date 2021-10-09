@@ -1,0 +1,68 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a plan of action",
+        "examples": [
+            {
+                "code": "strategy_example_that-is-a-good-strategy-for-marketing",
+                "text": "That is a good strategy for marketing."
+            },
+            {
+                "code": "strategy_example_let-s-discuss-the-long-term-strategy-for-our-company",
+                "text": "Let's discuss the long-term strategy for our company."
+            },
+            {
+                "code": "strategy_example_we-need-a-simple-strategy-to-increase-revenue",
+                "text": "We need a simple strategy to increase revenue."
+            },
+            {
+                "code": "strategy_example_government-needs-a-better-defense-strategy",
+                "text": "Government needs a better defense strategy."
+            },
+            {
+                "code": "strategy_example_they-are-discussing-financial-strategies",
+                "text": "They are discussing financial strategies."
+            },
+            {
+                "code": "strategy_example_he-has-the-perfect-investment-strategy",
+                "text": "He has the perfect investment strategy."
+            },
+            {
+                "code": "strategy_example_they-are-exploring-new-strategies",
+                "text": "They are exploring new strategies."
+            },
+            {
+                "code": "strategy_example_we-will-describe-the-new-sales-strategy-at-the-staff-meeting",
+                "text": "We will describe the new sales strategy at the staff meeting."
+            },
+            {
+                "code": "strategy_example_we-need-to-revise-our-strategy",
+                "text": "We need to revise our strategy."
+            },
+            {
+                "code": "strategy_example_her-strategy-is-based-on-her-experience-in-the-field",
+                "text": "Her strategy is based on her experience in the field."
+            },
+            {
+                "code": "strategy_example_my-investment-strategy-backfired",
+                "text": "My investment strategy backfired."
+            },
+            {
+                "code": "strategy_example_it-s-time-for-another-strategy-meeting",
+                "text": "It's time for another strategy meeting."
+            },
+            {
+                "code": "strategy_example_we-need-to-work-on-strategy-development",
+                "text": "We need to work on strategy development."
+            },
+            {
+                "code": "strategy_example_we-need-a-new-strategy-for-boosting-sales",
+                "text": "We need a new strategy for boosting sales."
+            },
+            {
+                "code": "strategy_example_we-developed-a-short-term-strategy-on-helping-the-homeless",
+                "text": "We developed a short-term strategy on helping the homeless."
+            }
+        ]
+    }
+]

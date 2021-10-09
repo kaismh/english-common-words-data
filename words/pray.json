@@ -1,0 +1,48 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to talk to God to give thanks or ask for something; to hope for something",
+        "examples": [
+            {
+                "code": "pray_example_she-prayed-desperately-for-her-sick-mother",
+                "text": "She prayed desperately for her sick mother."
+            },
+            {
+                "code": "pray_example_she-humbly-prayed-for-forgiveness",
+                "text": "She humbly prayed for forgiveness."
+            },
+            {
+                "code": "pray_example_he-prayed-quietly-in-the-corner",
+                "text": "He prayed quietly in the corner."
+            },
+            {
+                "code": "pray_example_we-prayed-together-for-the-hurricane-victims",
+                "text": "We prayed together for the hurricane victims."
+            },
+            {
+                "code": "pray_example_he-secretly-prayed-that-his-boss-would-get-fired",
+                "text": "He secretly prayed that his boss would get fired."
+            },
+            {
+                "code": "pray_example_i-always-pray-for-good-weather",
+                "text": "I always pray for good weather."
+            },
+            {
+                "code": "pray_example_he-prayed-for-rain",
+                "text": "He prayed for rain."
+            },
+            {
+                "code": "pray_example_she-prayed-to-god-for-help",
+                "text": "She prayed to God for help."
+            },
+            {
+                "code": "pray_example_the-priest-prayed-over-the-dead-body",
+                "text": "The priest prayed over the dead body."
+            },
+            {
+                "code": "pray_example_please-pray-with-me",
+                "text": "Please pray with me."
+            }
+        ]
+    }
+]

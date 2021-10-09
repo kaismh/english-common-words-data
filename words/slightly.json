@@ -1,0 +1,48 @@
+[
+    {
+        "type": "(adv)",
+        "mean": "a little",
+        "examples": [
+            {
+                "code": "slightly_example_she-was-slightly-annoyed-by-his-comment",
+                "text": "She was slightly annoyed by his comment."
+            },
+            {
+                "code": "slightly_example_i-find-him-slightly-amusing",
+                "text": "I find him slightly amusing."
+            },
+            {
+                "code": "slightly_example_it-was-a-slightly-awkward-situation",
+                "text": "It was a slightly awkward situation."
+            },
+            {
+                "code": "slightly_example_he-found-the-work-slightly-difficult",
+                "text": "He found the work slightly difficult."
+            },
+            {
+                "code": "slightly_example_he-is-slightly-worried-about-his-job",
+                "text": "He is slightly worried about his job."
+            },
+            {
+                "code": "slightly_example_he-slightly-dented-his-mother-s-new-car",
+                "text": "He slightly dented his mother's new car."
+            },
+            {
+                "code": "slightly_example_the-road-slightly-curves-to-the-right",
+                "text": "The road slightly curves to the right."
+            },
+            {
+                "code": "slightly_example_he-slightly-modified-his-design-plan",
+                "text": "He slightly modified his design plan."
+            },
+            {
+                "code": "slightly_example_slightly-reduce-the-oven-temperature",
+                "text": "Slightly reduce the oven temperature."
+            },
+            {
+                "code": "slightly_example_slightly-raise-the-oven-temperature",
+                "text": "Slightly raise the oven temperature."
+            }
+        ]
+    }
+]

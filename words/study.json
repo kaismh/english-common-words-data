@@ -1,0 +1,82 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the activity of learning; a room in the house for reading or studying",
+        "examples": [
+            {
+                "code": "study_example_she-will-return-to-her-graduate-studies-next-year",
+                "text": "She will return to her graduate studies next year."
+            },
+            {
+                "code": "study_example_this-online-course-is-perfect-for-independent-study",
+                "text": "This online course is perfect for independent study."
+            },
+            {
+                "code": "study_example_you-need-to-pursue-further-studies-after-college",
+                "text": "You need to pursue further studies after college."
+            },
+            {
+                "code": "study_example_he-is-taking-cultural-studies-at-the-university",
+                "text": "He is taking cultural studies at the university."
+            },
+            {
+                "code": "study_example_they-took-part-in-a-study-on-sleep-disorders",
+                "text": "They took part in a study on sleep disorders."
+            },
+            {
+                "code": "study_example_she-will-begin-her-studies-in-teaching-soon",
+                "text": "She will begin her studies in teaching soon."
+            },
+            {
+                "code": "study_example_he-lectures-in-management-studies",
+                "text": "He lectures in management studies."
+            },
+            {
+                "code": "study_example_we-formed-a-study-group",
+                "text": "We formed a study group."
+            },
+            {
+                "code": "study_example_i-need-to-develop-better-study-skills",
+                "text": "I need to develop better study skills."
+            },
+            {
+                "code": "study_example_this-is-an-excellent-language-study-program",
+                "text": "This is an excellent language study program."
+            },
+            {
+                "code": "study_example_he-will-begin-his-studies-for-a-phd-in-the-fall",
+                "text": "He will begin his studies for a PhD in the fall."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to learn about a subject; to examine carefully",
+        "examples": [
+            {
+                "code": "study_example_he-studies-hard-to-get-good-grades",
+                "text": "He studies hard to get good grades."
+            },
+            {
+                "code": "study_example_she-is-studying-abroad-in-france",
+                "text": "She is studying abroad in France."
+            },
+            {
+                "code": "study_example_the-jury-is-carefully-studying-all-the-evidence",
+                "text": "The jury is carefully studying all the evidence."
+            },
+            {
+                "code": "study_example_she-is-studying-for-her-final-exams",
+                "text": "She is studying for her final exams."
+            },
+            {
+                "code": "study_example_he-is-leaving-home-to-study-at-a-top-university",
+                "text": "He is leaving home to study at a top university."
+            },
+            {
+                "code": "study_example_he-always-wants-to-study-with-me",
+                "text": "He always wants to study with me."
+            }
+        ]
+    }
+]

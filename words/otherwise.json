@@ -1,0 +1,28 @@
+[
+    {
+        "type": "(adv)",
+        "mean": "in a different way",
+        "examples": [
+            {
+                "code": "otherwise_example_he-never-thought-otherwise",
+                "text": "He never thought otherwise."
+            },
+            {
+                "code": "otherwise_example_she-pretended-otherwise",
+                "text": "She pretended otherwise."
+            },
+            {
+                "code": "otherwise_example_she-was-otherwise-engaged",
+                "text": "She was otherwise engaged."
+            },
+            {
+                "code": "otherwise_example_he-is-an-otherwise-intelligent-guy",
+                "text": "He is an otherwise intelligent guy."
+            },
+            {
+                "code": "otherwise_example_the-food-was-otherwise-excellent",
+                "text": "The food was otherwise excellent."
+            }
+        ]
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "located on or towards the inner part of something",
+        "examples": [
+            {
+                "code": "inside_example_we-got-an-inside-look-at-how-the-factory-operates",
+                "text": "We got an inside look at how the factory operates."
+            },
+            {
+                "code": "inside_example_we-got-the-inside-story-of-what-really-happened",
+                "text": "We got the inside story of what really happened."
+            },
+            {
+                "code": "inside_example_the-theft-was-an-inside-job",
+                "text": "The theft was an inside job."
+            },
+            {
+                "code": "inside_example_it-s-located-on-the-inside-corner",
+                "text": "It's located on the inside corner."
+            }
+        ]
+    },
+    {
+        "type": "(adv)",
+        "mean": "on or towards the inner part of something",
+        "examples": [
+            {
+                "code": "inside_example_we-went-inside-the-dark-house",
+                "text": "We went inside the dark house."
+            },
+            {
+                "code": "inside_example_she-peered-inside-the-window",
+                "text": "She peered inside the window."
+            },
+            {
+                "code": "inside_example_i-was-trembling-inside-with-fear",
+                "text": "I was trembling inside with fear."
+            }
+        ]
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the state of worry and tension",
+        "examples": [
+            {
+                "code": "stress_example_divorce-is-a-time-of-intense-stress-on-the-children",
+                "text": "Divorce is a time of intense stress on the children."
+            },
+            {
+                "code": "stress_example_she-suffers-from-chronic-stress",
+                "text": "She suffers from chronic stress."
+            },
+            {
+                "code": "stress_example_his-teenage-daughter-gives-him-added-stress",
+                "text": "His teenage daughter gives him added stress."
+            },
+            {
+                "code": "stress_example_the-company-is-under-extreme-financial-stress",
+                "text": "The company is under extreme financial stress."
+            },
+            {
+                "code": "stress_example_losing-a-job-causes-great-emotional-and-financial-stress",
+                "text": "Losing a job causes great emotional and financial stress."
+            },
+            {
+                "code": "stress_example_how-can-we-avoid-stress",
+                "text": "How can we avoid stress?"
+            },
+            {
+                "code": "stress_example_she-has-so-much-stress-at-work",
+                "text": "She has so much stress at work."
+            },
+            {
+                "code": "stress_example_she-does-not-handle-stress-well",
+                "text": "She does not handle stress well."
+            },
+            {
+                "code": "stress_example_he-needs-to-lower-his-stress-level",
+                "text": "He needs to lower his stress level."
+            },
+            {
+                "code": "stress_example_his-work-offers-stress-management-classes",
+                "text": "His work offers stress management classes."
+            },
+            {
+                "code": "stress_example_a-long-vacation-will-give-her-stress-relief",
+                "text": "A long vacation will give her stress relief."
+            },
+            {
+                "code": "stress_example_the-job-put-him-under-a-lot-of-stress",
+                "text": "The job put him under a lot of stress."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to give special attention to something",
+        "examples": [
+            {
+                "code": "stress_example_she-constantly-stresses-the-importance-of-exercise",
+                "text": "She constantly stresses the importance of exercise."
+            },
+            {
+                "code": "stress_example_i-cannot-stress-enough-how-important-this-event-is-to-me",
+                "text": "I cannot stress enough how important this event is to me."
+            },
+            {
+                "code": "stress_example_i-must-stress-the-importance-of-daily-exercise",
+                "text": "I must stress the importance of daily exercise."
+            }
+        ]
+    }
+]

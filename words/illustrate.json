@@ -1,0 +1,48 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to provide with pictures; to explain with pictures",
+        "examples": [
+            {
+                "code": "illustrate_example_the-magazine-was-beautifully-illustrated-with-amazing-pictures",
+                "text": "The magazine was beautifully illustrated with amazing pictures."
+            },
+            {
+                "code": "illustrate_example_his-report-was-neatly-illustrated-with-charts-and-pictures",
+                "text": "His report was neatly illustrated with charts and pictures."
+            },
+            {
+                "code": "illustrate_example_the-news-report-graphically-illustrated-the-consequences-of-war",
+                "text": "The news report graphically illustrated the consequences of war."
+            },
+            {
+                "code": "illustrate_example_the-commercial-attempted-to-illustrate-the-differences-between-the-two-products",
+                "text": "The commercial attempted to illustrate the differences between the two products."
+            },
+            {
+                "code": "illustrate_example_the-statistics-from-the-survey-served-to-illustrate-his-point",
+                "text": "The statistics from the survey served to illustrate his point."
+            },
+            {
+                "code": "illustrate_example_the-painting-is-intended-to-illustrate-the-gift-of-life",
+                "text": "The painting is intended to illustrate the gift of life."
+            },
+            {
+                "code": "illustrate_example_the-magazine-was-heavily-illustrated-with-photographs-of-beaches",
+                "text": "The magazine was heavily illustrated with photographs of beaches."
+            },
+            {
+                "code": "illustrate_example_the-growth-of-the-company-can-be-illustrated-by-a-simple-pie-chart",
+                "text": "The growth of the company can be illustrated by a simple pie chart."
+            },
+            {
+                "code": "illustrate_example_the-article-fully-illustrated-his-point",
+                "text": "The article fully illustrated his point."
+            },
+            {
+                "code": "illustrate_example_the-presentation-helped-illustrate-the-argument",
+                "text": "The presentation helped illustrate the argument."
+            }
+        ]
+    }
+]

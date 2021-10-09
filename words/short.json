@@ -1,0 +1,66 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "not long; not lasting a long time; a small distance; not having enough",
+        "examples": [
+            {
+                "code": "short_example_michael-is-short-and-skinny",
+                "text": "Michael is short and skinny."
+            },
+            {
+                "code": "short_example_her-hair-is-getting-shorter-every-time-i-see-her",
+                "text": "Her hair is getting shorter every time I see her."
+            },
+            {
+                "code": "short_example_i-want-to-keep-my-nails-short",
+                "text": "I want to keep my nails short."
+            },
+            {
+                "code": "short_example_we-were-short-one-player",
+                "text": "We were short one player."
+            },
+            {
+                "code": "short_example_try-to-make-your-conversation-short",
+                "text": "Try to make your conversation short."
+            },
+            {
+                "code": "short_example_she-is-extremely-short",
+                "text": "She is extremely short."
+            },
+            {
+                "code": "short_example_seattle-is-a-relatively-short-distance-from-here",
+                "text": "Seattle is a relatively short distance from here."
+            },
+            {
+                "code": "short_example_the-movie-was-really-short",
+                "text": "The movie was really short."
+            },
+            {
+                "code": "short_example_we-are-terribly-short-on-time",
+                "text": "We are terribly short on time."
+            },
+            {
+                "code": "short_example_he-is-a-little-short-of-cash-every-month",
+                "text": "He is a little short of cash every month."
+            }
+        ]
+    },
+    {
+        "type": "(adv)",
+        "mean": "not as far as expected; all of a sudden",
+        "examples": [
+            {
+                "code": "short_example_the-meeting-was-cut-short-due-to-an-emergency",
+                "text": "The meeting was cut short due to an emergency."
+            },
+            {
+                "code": "short_example_the-car-stopped-short-of-the-destination",
+                "text": "The car stopped short of the destination."
+            },
+            {
+                "code": "short_example_the-ball-fell-short-of-the-basket",
+                "text": "The ball fell short of the basket."
+            }
+        ]
+    }
+]

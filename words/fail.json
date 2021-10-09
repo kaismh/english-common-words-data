@@ -1,0 +1,84 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to not be successful; to not do something",
+        "examples": [
+            {
+                "code": "fail_example_i-tried-to-write-my-paper-in-one-night-but-failed-miserably",
+                "text": "I tried to write my paper in one night but failed miserably."
+            },
+            {
+                "code": "fail_example_his-behavior-never-fails-to-attract-attention",
+                "text": "His behavior never fails to attract attention."
+            },
+            {
+                "code": "fail_example_she-completely-failed-the-driving-test",
+                "text": "She completely failed the driving test."
+            },
+            {
+                "code": "fail_example_that-plan-cannot-fail",
+                "text": "That plan cannot fail."
+            },
+            {
+                "code": "fail_example_her-idea-is-bound-to-fail",
+                "text": "Her idea is bound to fail."
+            },
+            {
+                "code": "fail_example_he-failed-in-his-duty-to-inform-us-of-the-changes",
+                "text": "He failed in his duty to inform us of the changes."
+            },
+            {
+                "code": "fail_example_his-appeal-failed-and-he-was-sent-to-prison",
+                "text": "His appeal failed and he was sent to prison."
+            },
+            {
+                "code": "fail_example_her-approach-failed-to-make-a-difference",
+                "text": "Her approach failed to make a difference."
+            },
+            {
+                "code": "fail_example_their-experiment-failed-miserably",
+                "text": "Their experiment failed miserably."
+            },
+            {
+                "code": "fail_example_the-negotiations-failed-to-reach-a-solution",
+                "text": "The negotiations failed to reach a solution."
+            },
+            {
+                "code": "fail_example_our-attempts-to-negotiate-failed",
+                "text": "Our attempts to negotiate failed."
+            },
+            {
+                "code": "fail_example_her-health-is-failing",
+                "text": "Her health is failing."
+            },
+            {
+                "code": "fail_example_their-marriage-failed",
+                "text": "Their marriage failed."
+            },
+            {
+                "code": "fail_example_the-brakes-failed-so-he-can-t-drive-the-car",
+                "text": "The brakes failed so he can't drive the car."
+            },
+            {
+                "code": "fail_example_the-system-has-failed-us",
+                "text": "The system has failed us."
+            },
+            {
+                "code": "fail_example_she-failed-that-exam",
+                "text": "She failed that exam."
+            },
+            {
+                "code": "fail_example_he-was-disappointed-that-he-failed-his-audition",
+                "text": "He was disappointed that he failed his audition."
+            },
+            {
+                "code": "fail_example_the-business-failed-the-inspection-and-had-to-shut-down",
+                "text": "The business failed the inspection and had to shut down."
+            },
+            {
+                "code": "fail_example_the-doctor-said-that-i-failed-my-physical",
+                "text": "The doctor said that I failed my physical."
+            }
+        ]
+    }
+]

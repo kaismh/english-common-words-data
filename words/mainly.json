@@ -1,0 +1,52 @@
+[
+    {
+        "type": "(adv)",
+        "mean": "mostly",
+        "examples": [
+            {
+                "code": "mainly_example_we-mainly-use-olive-oil-in-our-recipes",
+                "text": "We mainly use olive oil in our recipes."
+            },
+            {
+                "code": "mainly_example_this-situation-mainly-influenced-his-decision",
+                "text": "This situation mainly influenced his decision."
+            },
+            {
+                "code": "mainly_example_she-focuses-mainly-on-studying",
+                "text": "She focuses mainly on studying."
+            },
+            {
+                "code": "mainly_example_the-bread-mainly-consists-of-potato-flour",
+                "text": "The bread mainly consists of potato flour."
+            },
+            {
+                "code": "mainly_example_the-incident-mainly-concerns-two-people",
+                "text": "The incident mainly concerns two people."
+            },
+            {
+                "code": "mainly_example_our-restaurant-mainly-serves-vegetarian-dishes",
+                "text": "Our restaurant mainly serves vegetarian dishes."
+            },
+            {
+                "code": "mainly_example_we-mainly-feed-the-dogs-meat-and-rice",
+                "text": "We mainly feed the dogs meat and rice."
+            },
+            {
+                "code": "mainly_example_we-are-mainly-concerned-with-feeding-people",
+                "text": "We are mainly concerned with feeding people."
+            },
+            {
+                "code": "mainly_example_we-are-mainly-responsible-for-his-education",
+                "text": "We are mainly responsible for his education."
+            },
+            {
+                "code": "mainly_example_she-is-mainly-interested-in-ivy-league-colleges",
+                "text": "She is mainly interested in Ivy League colleges."
+            },
+            {
+                "code": "mainly_example_he-is-mainly-dependent-on-his-parents-for-money",
+                "text": "He is mainly dependent on his parents for money."
+            }
+        ]
+    }
+]

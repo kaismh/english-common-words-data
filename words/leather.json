@@ -1,0 +1,44 @@
+[
+    {
+        "type": "(n)",
+        "mean": "material made from animal skin",
+        "examples": [
+            {
+                "code": "leather_example_the-jacket-is-made-of-thick-leather",
+                "text": "The jacket is made of thick leather."
+            },
+            {
+                "code": "leather_example_she-found-out-her-purse-was-made-of-imitation-leather",
+                "text": "She found out her purse was made of imitation leather."
+            },
+            {
+                "code": "leather_example_the-leather-has-been-treated-with-wax",
+                "text": "The leather has been treated with wax."
+            },
+            {
+                "code": "leather_example_the-sofa-is-made-from-genuine-leather",
+                "text": "The sofa is made from genuine leather."
+            },
+            {
+                "code": "leather_example_she-often-wears-leather",
+                "text": "She often wears leather."
+            },
+            {
+                "code": "leather_example_he-wants-a-new-leather-belt",
+                "text": "He wants a new leather belt."
+            },
+            {
+                "code": "leather_example_she-bought-leather-furniture",
+                "text": "She bought leather furniture."
+            },
+            {
+                "code": "leather_example_she-is-looking-for-a-sofa-in-black-leather",
+                "text": "She is looking for a sofa in black leather."
+            },
+            {
+                "code": "leather_example_she-has-a-purse-made-of-genuine-leather",
+                "text": "She has a purse made of genuine leather."
+            }
+        ]
+    }
+]

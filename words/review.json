@@ -1,0 +1,114 @@
+[
+    {
+        "type": "(n)",
+        "mean": "an opinion of something; a careful look at something; study session",
+        "examples": [
+            {
+                "code": "review_example_he-wrote-a-review-online",
+                "text": "He wrote a review online."
+            },
+            {
+                "code": "review_example_the-restaurant-received-bad-reviews",
+                "text": "The restaurant received bad reviews."
+            },
+            {
+                "code": "review_example_i-gave-the-movie-a-good-review",
+                "text": "I gave the movie a good review."
+            },
+            {
+                "code": "review_example_the-school-board-is-conducting-a-review-of-the-curriculum",
+                "text": "The school board is conducting a review of the curriculum."
+            },
+            {
+                "code": "review_example_the-teacher-is-holding-a-review-for-the-upcoming-test",
+                "text": "The teacher is holding a review for the upcoming test."
+            },
+            {
+                "code": "review_example_she-writes-restaurant-reviews",
+                "text": "She writes restaurant reviews."
+            },
+            {
+                "code": "review_example_our-restaurant-got-an-excellent-review",
+                "text": "Our restaurant got an excellent review."
+            },
+            {
+                "code": "review_example_the-movie-received-a-bad-review",
+                "text": "The movie received a bad review."
+            },
+            {
+                "code": "review_example_the-book-received-mixed-reviews",
+                "text": "The book received mixed reviews."
+            },
+            {
+                "code": "review_example_after-careful-review-we-decided-to-terminate-her-employment",
+                "text": "After careful review, we decided to terminate her employment."
+            },
+            {
+                "code": "review_example_we-decided-to-make-changes-after-a-complete-review-of-the-policies",
+                "text": "We decided to make changes after a complete review of the policies."
+            },
+            {
+                "code": "review_example_they-did-a-quick-review-of-their-class-notes-the-night-before-the-big-test",
+                "text": "They did a quick review of their class notes the night before the big test."
+            },
+            {
+                "code": "review_example_the-teacher-is-holding-a-review-session",
+                "text": "The teacher is holding a review session."
+            },
+            {
+                "code": "review_example_we-are-studying-the-review-materials",
+                "text": "We are studying the review materials."
+            },
+            {
+                "code": "review_example_this-policy-is-under-review",
+                "text": "This policy is under review."
+            },
+            {
+                "code": "review_example_the-review-by-the-newspaper-was-not-good",
+                "text": "The review by the newspaper was not good."
+            },
+            {
+                "code": "review_example_the-teacher-is-holding-a-review-for-the-upcoming-test",
+                "text": "The teacher is holding a review for the upcoming test."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to give an opinion; to look at something carefully; to study",
+        "examples": [
+            {
+                "code": "review_example_she-reviewed-the-new-restaurant",
+                "text": "She reviewed the new restaurant."
+            },
+            {
+                "code": "review_example_they-reviewed-his-recommendations",
+                "text": "They reviewed his recommendations."
+            },
+            {
+                "code": "review_example_i-m-reviewing-for-my-big-test",
+                "text": "I'm reviewing for my big test."
+            },
+            {
+                "code": "review_example_the-book-has-been-favorably-reviewed-by-readers-and-critics",
+                "text": "The book has been favorably reviewed by readers and critics."
+            },
+            {
+                "code": "review_example_the-company-has-thoroughly-reviewed-its-policies",
+                "text": "The company has thoroughly reviewed its policies."
+            },
+            {
+                "code": "review_example_the-speaker-briefly-reviewed-his-notes-before-going-on-stage",
+                "text": "The speaker briefly reviewed his notes before going on stage."
+            },
+            {
+                "code": "review_example_the-case-will-be-reviewed-by-a-judge",
+                "text": "The case will be reviewed by a judge."
+            },
+            {
+                "code": "review_example_the-teacher-helped-her-class-review-for-the-test",
+                "text": "The teacher helped her class review for the test."
+            }
+        ]
+    }
+]

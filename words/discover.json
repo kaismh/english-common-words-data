@@ -1,0 +1,32 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to find",
+        "examples": [
+            {
+                "code": "discover_example_her-daughter-quickly-discovered-the-birthday-presents",
+                "text": "Her daughter quickly discovered the birthday presents."
+            },
+            {
+                "code": "discover_example_he-suddenly-discovered-his-purpose-here",
+                "text": "He suddenly discovered his purpose here."
+            },
+            {
+                "code": "discover_example_she-accidentally-discovered-the-hidden-passageway",
+                "text": "She accidentally discovered the hidden passageway."
+            },
+            {
+                "code": "discover_example_who-originally-discovered-this-land",
+                "text": "Who originally discovered this land?"
+            },
+            {
+                "code": "discover_example_scientists-are-working-to-discover-the-answer",
+                "text": "Scientists are working to discover the answer."
+            },
+            {
+                "code": "discover_example_we-are-trying-to-discover-love",
+                "text": "We are trying to discover love."
+            }
+        ]
+    }
+]

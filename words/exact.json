@@ -1,0 +1,46 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "perfectly correct and accurate",
+        "examples": [
+            {
+                "code": "exact_example_we-need-to-pour-exact-amounts-of-the-chemicals",
+                "text": "We need to pour exact amounts of the chemicals."
+            },
+            {
+                "code": "exact_example_his-answer-was-the-exact-opposite-of-what-i-was-expecting",
+                "text": "His answer was the exact opposite of what I was expecting."
+            },
+            {
+                "code": "exact_example_i-need-the-exact-dimensions-for-the-report",
+                "text": "I need the exact dimensions for the report."
+            },
+            {
+                "code": "exact_example_his-model-was-an-exact-copy-of-the-original",
+                "text": "His model was an exact copy of the original."
+            },
+            {
+                "code": "exact_example_he-gave-the-policeman-an-exact-description-of-the-missing-item",
+                "text": "He gave the policeman an exact description of the missing item."
+            },
+            {
+                "code": "exact_example_we-are-trying-to-find-the-exact-location-of-the-missing-boat",
+                "text": "We are trying to find the exact location of the missing boat."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to demand and get something from someone",
+        "examples": [
+            {
+                "code": "exact_example_the-teacher-tries-to-exact-obedience-from-his-students",
+                "text": "The teacher tries to exact obedience from his students."
+            },
+            {
+                "code": "exact_example_he-exacted-revenge-on-his-rival",
+                "text": "He exacted revenge on his rival."
+            }
+        ]
+    }
+]

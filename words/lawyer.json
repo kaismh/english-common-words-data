@@ -1,0 +1,52 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a person who guides and assists people in matters relating to the law",
+        "examples": [
+            {
+                "code": "lawyer_example_he-hired-a-brilliant-lawyer",
+                "text": "He hired a brilliant lawyer."
+            },
+            {
+                "code": "lawyer_example_a-leading-criminal-defense-lawyer-took-on-his-case",
+                "text": "A leading criminal defense lawyer took on his case."
+            },
+            {
+                "code": "lawyer_example_he-is-the-best-criminal-defense-lawyer-in-the-state",
+                "text": "He is the best criminal defense lawyer in the state."
+            },
+            {
+                "code": "lawyer_example_a-court-appointed-lawyer-represented-the-homeless-man",
+                "text": "A court-appointed lawyer represented the homeless man."
+            },
+            {
+                "code": "lawyer_example_he-worked-as-a-family-lawyer-for-20-years",
+                "text": "He worked as a family lawyer for 20 years."
+            },
+            {
+                "code": "lawyer_example_the-court-appointed-us-a-lawyer",
+                "text": "The court appointed us a lawyer."
+            },
+            {
+                "code": "lawyer_example_we-hired-a-lawyer",
+                "text": "We hired a lawyer."
+            },
+            {
+                "code": "lawyer_example_their-lawyer-was-fired",
+                "text": "Their lawyer was fired."
+            },
+            {
+                "code": "lawyer_example_the-lawyer-won-his-case",
+                "text": "The lawyer won his case."
+            },
+            {
+                "code": "lawyer_example_the-lawyer-gave-his-closing-arguments",
+                "text": "The lawyer gave his closing arguments."
+            },
+            {
+                "code": "lawyer_example_the-lawyer-counseled-his-client",
+                "text": "The lawyer counseled his client."
+            }
+        ]
+    }
+]

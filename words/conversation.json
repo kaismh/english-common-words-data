@@ -1,0 +1,112 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a talk between two or more people",
+        "examples": [
+            {
+                "code": "conversation_example_the-father-and-son-had-a-brief-conversation",
+                "text": "The father and son had a brief conversation."
+            },
+            {
+                "code": "conversation_example_small-talk-is-considered-everyday-conversation",
+                "text": "Small talk is considered everyday conversation."
+            },
+            {
+                "code": "conversation_example_the-two-friends-had-an-intimate-conversation",
+                "text": "The two friends had an intimate conversation."
+            },
+            {
+                "code": "conversation_example_face-to-face-conversation-is-the-most-effective",
+                "text": "Face-to-face conversation is the most effective."
+            },
+            {
+                "code": "conversation_example_they-had-a-very-long-phone-conversation",
+                "text": "They had a very long phone conversation."
+            },
+            {
+                "code": "conversation_example_they-are-unable-to-have-a-civilized-conversation",
+                "text": "They are unable to have a civilized conversation."
+            },
+            {
+                "code": "conversation_example_i-enjoy-good-conversation",
+                "text": "I enjoy good conversation."
+            },
+            {
+                "code": "conversation_example_we-have-honest-conversations",
+                "text": "We have honest conversations."
+            },
+            {
+                "code": "conversation_example_the-men-had-a-strange-conversation",
+                "text": "The men had a strange conversation."
+            },
+            {
+                "code": "conversation_example_children-do-not-understand-adult-conversation",
+                "text": "Children do not understand adult conversation."
+            },
+            {
+                "code": "conversation_example_how-can-we-have-a-conversation-with-all-the-noise",
+                "text": "How can we have a conversation with all the noise?"
+            },
+            {
+                "code": "conversation_example_let-s-make-conversation-with-the-new-student",
+                "text": "Let's make conversation with the new student."
+            },
+            {
+                "code": "conversation_example_why-don-t-we-begin-the-conversation",
+                "text": "Why don't we begin the conversation?"
+            },
+            {
+                "code": "conversation_example_she-always-tries-to-control-the-conversation",
+                "text": "She always tries to control the conversation."
+            },
+            {
+                "code": "conversation_example_they-joined-in-the-conversation",
+                "text": "They joined in the conversation."
+            },
+            {
+                "code": "conversation_example_shall-we-conclude-the-conversation-here",
+                "text": "Shall we conclude the conversation here?"
+            },
+            {
+                "code": "conversation_example_please-do-not-interrupt-our-conversation",
+                "text": "Please do not interrupt our conversation."
+            },
+            {
+                "code": "conversation_example_where-did-the-conversation-occur",
+                "text": "Where did the conversation occur?"
+            },
+            {
+                "code": "conversation_example_he-tries-to-avoid-conversations-with-strangers",
+                "text": "He tries to avoid conversations with strangers."
+            },
+            {
+                "code": "conversation_example_i-heard-their-conversation",
+                "text": "I heard their conversation."
+            },
+            {
+                "code": "conversation_example_she-taped-their-conversation",
+                "text": "She taped their conversation."
+            },
+            {
+                "code": "conversation_example_do-you-remember-our-conversation",
+                "text": "Do you remember our conversation?"
+            },
+            {
+                "code": "conversation_example_try-to-keep-eye-contact-during-conversation",
+                "text": "Try to keep eye contact during conversation."
+            },
+            {
+                "code": "conversation_example_we-had-a-long-conversation-about-politics",
+                "text": "We had a long conversation about politics."
+            },
+            {
+                "code": "conversation_example_we-overheard-the-conversation-between-the-married-couple",
+                "text": "We overheard the conversation between the married couple."
+            },
+            {
+                "code": "conversation_example_i-had-a-short-conversation-with-my-neighbor",
+                "text": "I had a short conversation with my neighbor."
+            }
+        ]
+    }
+]

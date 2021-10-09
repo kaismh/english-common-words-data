@@ -1,0 +1,100 @@
+[
+    {
+        "type": "(n)",
+        "mean": "an organization that solves and prevents crimes and makes people obey laws",
+        "examples": [
+            {
+                "code": "police_example_we-called-the-police",
+                "text": "We called the police."
+            },
+            {
+                "code": "police_example_the-police-arrested-the-criminal",
+                "text": "The police arrested the criminal."
+            },
+            {
+                "code": "police_example_the-police-investigated-the-crime",
+                "text": "The police investigated the crime."
+            },
+            {
+                "code": "police_example_the-police-raided-the-building",
+                "text": "The police raided the building."
+            },
+            {
+                "code": "police_example_the-police-are-patrolling-the-area",
+                "text": "The police are patrolling the area."
+            },
+            {
+                "code": "police_example_the-police-arrived-immediately",
+                "text": "The police arrived immediately."
+            },
+            {
+                "code": "police_example_the-police-questioned-the-suspect",
+                "text": "The police questioned the suspect."
+            },
+            {
+                "code": "police_example_he-became-a-police-officer",
+                "text": "He became a police officer."
+            },
+            {
+                "code": "police_example_police-brutality-is-on-the-rise",
+                "text": "Police brutality is on the rise."
+            },
+            {
+                "code": "police_example_we-live-near-the-police-station",
+                "text": "We live near the police station."
+            },
+            {
+                "code": "police_example_the-robbery-is-under-police-investigation",
+                "text": "The robbery is under police investigation."
+            },
+            {
+                "code": "police_example_she-asked-for-a-police-escort",
+                "text": "She asked for a police escort."
+            },
+            {
+                "code": "police_example_i-filed-a-police-report",
+                "text": "I filed a police report."
+            },
+            {
+                "code": "police_example_he-has-a-long-police-record",
+                "text": "He has a long police record."
+            },
+            {
+                "code": "police_example_i-want-to-join-the-police-force",
+                "text": "I want to join the police force."
+            },
+            {
+                "code": "police_example_the-police-uniforms-were-stolen",
+                "text": "The police uniforms were stolen."
+            },
+            {
+                "code": "police_example_i-hear-a-police-siren",
+                "text": "I hear a police siren."
+            },
+            {
+                "code": "police_example_the-police-dogs-are-well-trained",
+                "text": "The police dogs are well-trained."
+            },
+            {
+                "code": "police_example_we-watched-the-police-chase-on-tv",
+                "text": "We watched the police chase on TV."
+            },
+            {
+                "code": "police_example_the-traffic-police-pulled-me-over-again",
+                "text": "The traffic police pulled me over again."
+            },
+            {
+                "code": "police_example_we-have-armed-police-patrolling-the-area",
+                "text": "We have armed police patrolling the area."
+            },
+            {
+                "code": "police_example_the-city-called-in-the-riot-police",
+                "text": "The city called in the riot police."
+            },
+            {
+                "code": "police_example_he-was-detained-by-the-airport-police",
+                "text": "He was detained by the airport police."
+            }
+        ]
+    }
+]

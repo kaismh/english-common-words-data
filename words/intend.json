@@ -1,0 +1,36 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to have specific plan to do something",
+        "examples": [
+            {
+                "code": "intend_example_she-fully-intends-to-continue-her-education",
+                "text": "She fully intends to continue her education."
+            },
+            {
+                "code": "intend_example_he-had-originally-intended-to-stay-for-two-years",
+                "text": "He had originally intended to stay for two years."
+            },
+            {
+                "code": "intend_example_i-never-intended-to-hurt-you",
+                "text": "I never intended to hurt you."
+            },
+            {
+                "code": "intend_example_the-training-class-is-intended-for-all-employees",
+                "text": "The training class is intended for all employees."
+            },
+            {
+                "code": "intend_example_what-do-you-intend-to-do-about-this",
+                "text": "What do you intend to do about this?"
+            },
+            {
+                "code": "intend_example_i-intend-to-run-for-president",
+                "text": "I intend to run for President."
+            },
+            {
+                "code": "intend_example_i-intend-to-find-out-what-happened",
+                "text": "I intend to find out what happened."
+            }
+        ]
+    }
+]

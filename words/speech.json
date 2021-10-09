@@ -1,0 +1,68 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the act of speaking; a formal talk given in front of people",
+        "examples": [
+            {
+                "code": "speech_example_his-slurred-speech-was-an-indication-that-he-had-too-much-to-drink",
+                "text": "His slurred speech was an indication that he had too much to drink."
+            },
+            {
+                "code": "speech_example_we-were-worried-that-he-was-going-to-suddenly-give-a-spontaneous-speech",
+                "text": "We were worried that he was going to suddenly give a spontaneous speech."
+            },
+            {
+                "code": "speech_example_we-have-the-right-to-free-speech",
+                "text": "We have the right to free speech."
+            },
+            {
+                "code": "speech_example_slang-is-used-mostly-in-informal-speech",
+                "text": "Slang is used mostly in informal speech."
+            },
+            {
+                "code": "speech_example_we-were-touched-by-his-emotional-speech",
+                "text": "We were touched by his emotional speech."
+            },
+            {
+                "code": "speech_example_he-fell-asleep-during-the-professor-s-boring-speech",
+                "text": "He fell asleep during the professor's boring speech."
+            },
+            {
+                "code": "speech_example_she-was-really-excited-to-hear-the-keynote-speech",
+                "text": "She was really excited to hear the keynote speech."
+            },
+            {
+                "code": "speech_example_we-were-surprised-by-his-farewell-speech",
+                "text": "We were surprised by his farewell speech."
+            },
+            {
+                "code": "speech_example_he-struggles-with-speech-impediment",
+                "text": "He struggles with speech impediment."
+            },
+            {
+                "code": "speech_example_she-needs-to-find-a-speech-therapist",
+                "text": "She needs to find a speech therapist."
+            },
+            {
+                "code": "speech_example_his-son-needs-speech-therapy",
+                "text": "His son needs speech therapy."
+            },
+            {
+                "code": "speech_example_new-cell-phones-are-capable-of-speech-recognition",
+                "text": "New cell phones are capable of speech recognition."
+            },
+            {
+                "code": "speech_example_he-mentioned-his-mother-in-his-speech",
+                "text": "He mentioned his mother in his speech."
+            },
+            {
+                "code": "speech_example_the-president-gave-a-speech-on-the-state-of-the-economy",
+                "text": "The president gave a speech on the state of the economy."
+            },
+            {
+                "code": "speech_example_the-president-delivered-his-final-speech-to-the-nation",
+                "text": "The president delivered his final speech to the nation."
+            }
+        ]
+    }
+]

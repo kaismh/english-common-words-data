@@ -1,0 +1,60 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a suggestion",
+        "examples": [
+            {
+                "code": "recommendation_example_my-teacher-made-a-recommendation-for-a-good-tutor",
+                "text": "My teacher made a recommendation for a good tutor."
+            },
+            {
+                "code": "recommendation_example_the-committee-issued-several-recommendations",
+                "text": "The committee issued several recommendations."
+            },
+            {
+                "code": "recommendation_example_we-followed-his-recommendations",
+                "text": "We followed his recommendations."
+            },
+            {
+                "code": "recommendation_example_they-ignored-my-recommendation",
+                "text": "They ignored my recommendation."
+            },
+            {
+                "code": "recommendation_example_let-s-discuss-their-recommendations",
+                "text": "Let's discuss their recommendations."
+            },
+            {
+                "code": "recommendation_example_this-dentist-came-with-strong-recommendations",
+                "text": "This dentist came with strong recommendations."
+            },
+            {
+                "code": "recommendation_example_she-wrote-me-a-recommendation-letter",
+                "text": "She wrote me a recommendation letter."
+            },
+            {
+                "code": "recommendation_example_the-hotel-received-a-good-recommendation",
+                "text": "The hotel received a good recommendation."
+            },
+            {
+                "code": "recommendation_example_he-comes-with-the-highest-recommendation",
+                "text": "He comes with the highest recommendation."
+            },
+            {
+                "code": "recommendation_example_i-gave-them-a-personal-recommendation",
+                "text": "I gave them a personal recommendation."
+            },
+            {
+                "code": "recommendation_example_my-recommendations-are-based-on-experience",
+                "text": "My recommendations are based on experience."
+            },
+            {
+                "code": "recommendation_example_i-have-several-recommendations-for-him",
+                "text": "I have several recommendations for him."
+            },
+            {
+                "code": "recommendation_example_we-went-there-at-his-recommendation",
+                "text": "We went there at his recommendation."
+            }
+        ]
+    }
+]

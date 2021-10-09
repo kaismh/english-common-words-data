@@ -1,0 +1,52 @@
+[
+    {
+        "type": "(n)",
+        "mean": "loud or unpleasant sound",
+        "examples": [
+            {
+                "code": "noise_example_we-were-asked-to-reduce-the-noise",
+                "text": "We were asked to reduce the noise."
+            },
+            {
+                "code": "noise_example_the-noise-is-growing-louder",
+                "text": "The noise is growing louder."
+            },
+            {
+                "code": "noise_example_the-machine-produces-a-lot-of-noise",
+                "text": "The machine produces a lot of noise."
+            },
+            {
+                "code": "noise_example_we-listened-to-the-noise",
+                "text": "We listened to the noise."
+            },
+            {
+                "code": "noise_example_we-could-hear-a-noise-in-the-distance",
+                "text": "We could hear a noise in the distance."
+            },
+            {
+                "code": "noise_example_the-noise-pollution-in-the-city-is-bad",
+                "text": "The noise pollution in the city is bad."
+            },
+            {
+                "code": "noise_example_i-heard-a-loud-noise-outside",
+                "text": "I heard a loud noise outside."
+            },
+            {
+                "code": "noise_example_the-car-made-an-awful-noise",
+                "text": "The car made an awful noise."
+            },
+            {
+                "code": "noise_example_there-was-a-hissing-noise-in-the-background",
+                "text": "There was a hissing noise in the background."
+            },
+            {
+                "code": "noise_example_the-noise-from-the-engine-is-too-loud",
+                "text": "The noise from the engine is too loud."
+            },
+            {
+                "code": "noise_example_we-had-to-scream-above-the-noise-of-the-music",
+                "text": "We had to scream above the noise of the music."
+            }
+        ]
+    }
+]

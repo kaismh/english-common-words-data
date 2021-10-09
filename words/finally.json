@@ -1,0 +1,56 @@
+[
+    {
+        "type": "(adv)",
+        "mean": "at the end; at last; after a long time",
+        "examples": [
+            {
+                "code": "finally_example_dinner-is-finally-ready",
+                "text": "Dinner is finally ready."
+            },
+            {
+                "code": "finally_example_they-finally-abandoned-their-plan",
+                "text": "They finally abandoned their plan."
+            },
+            {
+                "code": "finally_example_we-finally-arrived-at-our-destination",
+                "text": "We finally arrived at our destination."
+            },
+            {
+                "code": "finally_example_they-finally-surrendered",
+                "text": "They finally surrendered."
+            },
+            {
+                "code": "finally_example_the-wound-finally-healed",
+                "text": "The wound finally healed."
+            },
+            {
+                "code": "finally_example_i-finally-understand-his-point",
+                "text": "I finally understand his point."
+            },
+            {
+                "code": "finally_example_the-storm-finally-ceased",
+                "text": "The storm finally ceased."
+            },
+            {
+                "code": "finally_example_he-finally-replaced-the-light-bulbs",
+                "text": "He finally replaced the light bulbs."
+            },
+            {
+                "code": "finally_example_they-finally-resolved-their-differences",
+                "text": "They finally resolved their differences."
+            },
+            {
+                "code": "finally_example_she-finally-said-what-she-meant",
+                "text": "She finally said what she meant."
+            },
+            {
+                "code": "finally_example_i-finally-finished-the-project",
+                "text": "I finally finished the project."
+            },
+            {
+                "code": "finally_example_they-finally-released-the-movie",
+                "text": "They finally released the movie."
+            }
+        ]
+    }
+]

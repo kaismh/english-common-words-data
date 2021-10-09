@@ -1,0 +1,60 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a duty to fully take care of something",
+        "examples": [
+            {
+                "code": "responsibility_example_he-s-having-a-hard-time-handling-his-responsibilities",
+                "text": "He's having a hard time handling his responsibilities."
+            },
+            {
+                "code": "responsibility_example_we-have-many-responsibilities-at-home",
+                "text": "We have many responsibilities at home."
+            },
+            {
+                "code": "responsibility_example_he-is-trying-to-avoid-responsibility",
+                "text": "He is trying to avoid responsibility."
+            },
+            {
+                "code": "responsibility_example_you-must-accept-your-responsibility",
+                "text": "You must accept your responsibility."
+            },
+            {
+                "code": "responsibility_example_he-claimed-responsibility-for-the-accident",
+                "text": "He claimed responsibility for the accident."
+            },
+            {
+                "code": "responsibility_example_he-couldn-t-take-the-responsibility",
+                "text": "He couldn't take the responsibility."
+            },
+            {
+                "code": "responsibility_example_having-children-is-a-big-responsibility",
+                "text": "Having children is a big responsibility."
+            },
+            {
+                "code": "responsibility_example_she-has-a-legal-responsibility-to-her-children",
+                "text": "She has a legal responsibility to her children."
+            },
+            {
+                "code": "responsibility_example_what-is-your-main-responsibility-at-work",
+                "text": "What is your main responsibility at work?"
+            },
+            {
+                "code": "responsibility_example_i-take-full-responsibility-of-the-project-s-failure",
+                "text": "I take full responsibility of the project's failure."
+            },
+            {
+                "code": "responsibility_example_we-have-joint-responsibilities-with-the-children",
+                "text": "We have joint responsibilities with the children."
+            },
+            {
+                "code": "responsibility_example_the-teacher-has-a-responsibility-to-her-students",
+                "text": "The teacher has a responsibility to her students."
+            },
+            {
+                "code": "responsibility_example_the-hospital-has-a-responsibility-for-quality-care",
+                "text": "The hospital has a responsibility for quality care."
+            }
+        ]
+    }
+]

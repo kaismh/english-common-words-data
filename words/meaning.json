@@ -1,0 +1,68 @@
+[
+    {
+        "type": "(n)",
+        "mean": "what something represents; the importance",
+        "examples": [
+            {
+                "code": "meaning_example_his-life-lost-all-meaning-after-his-wife-passed-away",
+                "text": "His life lost all meaning after his wife passed away."
+            },
+            {
+                "code": "meaning_example_this-has-taken-on-a-new-meaning-for-me",
+                "text": "This has taken on a new meaning for me."
+            },
+            {
+                "code": "meaning_example_i-misunderstood-the-meaning-of-the-story",
+                "text": "I misunderstood the meaning of the story."
+            },
+            {
+                "code": "meaning_example_i-try-to-find-meaning-in-little-things",
+                "text": "I try to find meaning in little things."
+            },
+            {
+                "code": "meaning_example_he-communicated-the-meaning-through-body-language",
+                "text": "He communicated the meaning through body language."
+            },
+            {
+                "code": "meaning_example_let-s-ponder-the-meaning-of-those-words",
+                "text": "Let's ponder the meaning of those words."
+            },
+            {
+                "code": "meaning_example_this-locket-has-a-lot-of-meaning-to-me",
+                "text": "This locket has a lot of meaning to me."
+            },
+            {
+                "code": "meaning_example_i-don-t-quite-grasp-the-meaning-of-this",
+                "text": "I don't quite grasp the meaning of this."
+            },
+            {
+                "code": "meaning_example_can-you-explain-the-meaning-of-all-of-this",
+                "text": "Can you explain the meaning of all of this?"
+            },
+            {
+                "code": "meaning_example_there-is-a-deeper-meaning-in-his-words",
+                "text": "There is a deeper meaning in his words."
+            },
+            {
+                "code": "meaning_example_what-s-the-exact-meaning-of-the-word",
+                "text": "What's the exact meaning of the word?"
+            },
+            {
+                "code": "meaning_example_what-is-the-book-s-intended-meaning",
+                "text": "What is the book's intended meaning?"
+            },
+            {
+                "code": "meaning_example_what-s-the-meaning-behind-the-painting",
+                "text": "What's the meaning behind the painting?"
+            },
+            {
+                "code": "meaning_example_my-life-is-without-meaning",
+                "text": "My life is without meaning."
+            },
+            {
+                "code": "meaning_example_what-is-the-meaning-of-life",
+                "text": "What is the meaning of life?"
+            }
+        ]
+    }
+]

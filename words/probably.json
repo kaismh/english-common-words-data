@@ -1,0 +1,44 @@
+[
+    {
+        "type": "(adv)",
+        "mean": "most likely to happen or be true",
+        "examples": [
+            {
+                "code": "probably_example_you-are-probably-right",
+                "text": "You are probably right."
+            },
+            {
+                "code": "probably_example_it-was-probably-worth-the-wait",
+                "text": "It was probably worth the wait."
+            },
+            {
+                "code": "probably_example_he-probably-deserved-the-reward",
+                "text": "He probably deserved the reward."
+            },
+            {
+                "code": "probably_example_she-probably-needs-help",
+                "text": "She probably needs help."
+            },
+            {
+                "code": "probably_example_it-s-probably-for-the-best",
+                "text": "It's probably for the best."
+            },
+            {
+                "code": "probably_example_the-game-is-probably-over-by-now",
+                "text": "The game is probably over by now."
+            },
+            {
+                "code": "probably_example_you-are-probably-one-of-the-nicest-people-i-know",
+                "text": "You are probably one of the nicest people I know."
+            },
+            {
+                "code": "probably_example_that-was-probably-one-of-the-worst-movies-i-ve-ever-seen",
+                "text": "That was probably one of the worst movies I've ever seen."
+            },
+            {
+                "code": "probably_example_are-you-going-to-the-party-tonight-probably",
+                "text": "Are you going to the party tonight? Probably."
+            }
+        ]
+    }
+]

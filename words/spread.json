@@ -1,0 +1,52 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to open, arrange or place over a large area; to affect a larger area",
+        "examples": [
+            {
+                "code": "spread_example_spread-out-the-rags-before-painting",
+                "text": "Spread out the rags before painting."
+            },
+            {
+                "code": "spread_example_he-carefully-spread-the-fertilizer-on-his-lawn",
+                "text": "He carefully spread the fertilizer on his lawn."
+            },
+            {
+                "code": "spread_example_the-fire-spread-quickly-through-the-building",
+                "text": "The fire spread quickly through the building."
+            },
+            {
+                "code": "spread_example_the-rumor-is-gradually-spreading-through-the-community",
+                "text": "The rumor is gradually spreading through the community."
+            },
+            {
+                "code": "spread_example_the-cold-virus-can-spread-easily",
+                "text": "The cold virus can spread easily."
+            },
+            {
+                "code": "spread_example_she-likes-to-spread-jam-on-her-toast",
+                "text": "She likes to spread jam on her toast."
+            },
+            {
+                "code": "spread_example_unfortunately-cancer-had-spread-all-over-her-body",
+                "text": "Unfortunately cancer had spread all over her body."
+            },
+            {
+                "code": "spread_example_the-odor-had-spread-across-the-room",
+                "text": "The odor had spread across the room."
+            },
+            {
+                "code": "spread_example_the-virus-can-be-spread-by-contact",
+                "text": "The virus can be spread by contact."
+            },
+            {
+                "code": "spread_example_the-news-spread-throughout-the-country",
+                "text": "The news spread throughout the country."
+            },
+            {
+                "code": "spread_example_the-fire-spread-quickly",
+                "text": "The fire spread quickly."
+            }
+        ]
+    }
+]

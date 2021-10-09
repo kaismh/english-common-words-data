@@ -1,0 +1,32 @@
+[
+    {
+        "type": "(n)",
+        "mean": "A long seat for two or more people; a work table",
+        "examples": [
+            {
+                "code": "bench_example_let-s-sit-on-that-park-bench",
+                "text": "Let's sit on that park bench."
+            },
+            {
+                "code": "bench_example_we-put-a-metal-bench-in-the-patio",
+                "text": "We put a metal bench in the patio."
+            },
+            {
+                "code": "bench_example_this-bench-is-too-hard",
+                "text": "This bench is too hard."
+            },
+            {
+                "code": "bench_example_he-put-all-of-his-tools-on-the-work-bench",
+                "text": "He put all of his tools on the work bench."
+            },
+            {
+                "code": "bench_example_let-s-sit-on-that-bench",
+                "text": "Let's sit on that bench."
+            },
+            {
+                "code": "bench_example_they-find-homeless-people-sleeping-on-park-benches",
+                "text": "They find homeless people sleeping on park benches."
+            }
+        ]
+    }
+]

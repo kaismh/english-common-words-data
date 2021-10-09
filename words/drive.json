@@ -1,0 +1,98 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a journey in a car; the way a car moves; strong desire; an organized event; part of the computer that stores data",
+        "examples": [
+            {
+                "code": "drive_example_it-was-an-easy-drive",
+                "text": "It was an easy drive."
+            },
+            {
+                "code": "drive_example_they-took-a-long-drive",
+                "text": "They took a long drive."
+            },
+            {
+                "code": "drive_example_the-car-salesman-will-take-you-on-a-test-drive",
+                "text": "The car salesman will take you on a test drive."
+            },
+            {
+                "code": "drive_example_this-car-has-all-wheel-drive",
+                "text": "This car has all-wheel drive."
+            },
+            {
+                "code": "drive_example_she-has-the-competitive-drive-to-succeed",
+                "text": "She has the competitive drive to succeed."
+            },
+            {
+                "code": "drive_example_he-has-lost-his-sex-drive",
+                "text": "He has lost his sex drive."
+            },
+            {
+                "code": "drive_example_the-fundraising-drive-was-televised",
+                "text": "The fundraising drive was televised."
+            },
+            {
+                "code": "drive_example_the-community-organized-a-membership-drive",
+                "text": "The community organized a membership drive."
+            },
+            {
+                "code": "drive_example_our-church-is-having-a-blood-drive",
+                "text": "Our church is having a blood drive."
+            },
+            {
+                "code": "drive_example_check-the-cd-rom-drive",
+                "text": "Check the CD-ROM drive."
+            },
+            {
+                "code": "drive_example_let-s-go-for-a-drive",
+                "text": "Let's go for a drive."
+            },
+            {
+                "code": "drive_example_he-has-the-competitive-drive-to-win",
+                "text": "He has the competitive drive to win."
+            },
+            {
+                "code": "drive_example_the-community-center-will-organize-a-food-drive",
+                "text": "The community center will organize a food drive."
+            },
+            {
+                "code": "drive_example_you-will-need-to-format-the-hard-drive",
+                "text": "You will need to format the hard drive."
+            },
+            {
+                "code": "drive_example_the-store-is-within-a-short-drive",
+                "text": "The store is within a short drive."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to operate a vehicle",
+        "examples": [
+            {
+                "code": "drive_example_he-drives-fast",
+                "text": "He drives fast."
+            },
+            {
+                "code": "drive_example_she-quickly-drove-us-home",
+                "text": "She quickly drove us home."
+            },
+            {
+                "code": "drive_example_he-drives-carefully-through-the-neighborhood",
+                "text": "He drives carefully through the neighborhood."
+            },
+            {
+                "code": "drive_example_she-got-mad-and-drove-away",
+                "text": "She got mad and drove away."
+            },
+            {
+                "code": "drive_example_they-will-drive-home-from-canada",
+                "text": "They will drive home from Canada."
+            },
+            {
+                "code": "drive_example_we-are-driving-to-california",
+                "text": "We are driving to California."
+            }
+        ]
+    }
+]

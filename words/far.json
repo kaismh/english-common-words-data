@@ -1,0 +1,82 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "not near or close",
+        "examples": [
+            {
+                "code": "far_example_she-swam-to-the-far-bank-of-the-river",
+                "text": "She swam to the far bank of the river."
+            },
+            {
+                "code": "far_example_their-house-is-a-far-distance-from-here",
+                "text": "Their house is a far distance from here."
+            },
+            {
+                "code": "far_example_it-is-located-to-your-far-left",
+                "text": "It is located to your far left."
+            },
+            {
+                "code": "far_example_that-won-t-happen-until-far-in-the-future",
+                "text": "That won't happen until far in the future."
+            },
+            {
+                "code": "far_example_put-it-in-the-far-corner-of-the-room",
+                "text": "Put it in the far corner of the room."
+            },
+            {
+                "code": "far_example_i-left-it-near-the-far-wall",
+                "text": "I left it near the far wall."
+            }
+        ]
+    },
+    {
+        "type": "(adv)",
+        "mean": "at a long distance; very much",
+        "examples": [
+            {
+                "code": "far_example_his-skill-is-far-superior-to-mine",
+                "text": "His skill is far superior to mine."
+            },
+            {
+                "code": "far_example_her-test-score-was-far-better-than-she-had-expected",
+                "text": "Her test score was far better than she had expected."
+            },
+            {
+                "code": "far_example_the-two-sisters-are-far-more-different-than-i-had-imagined",
+                "text": "The two sisters are far more different than I had imagined."
+            },
+            {
+                "code": "far_example_her-idea-is-far-more-preferable-than-mine",
+                "text": "Her idea is far more preferable than mine."
+            },
+            {
+                "code": "far_example_sales-have-far-exceeded-our-expectations",
+                "text": "Sales have far exceeded our expectations."
+            },
+            {
+                "code": "far_example_the-benefits-far-outweigh-the-risks",
+                "text": "The benefits far outweigh the risks."
+            },
+            {
+                "code": "far_example_the-army-far-outnumbered-our-enemy",
+                "text": "The army far outnumbered our enemy."
+            },
+            {
+                "code": "far_example_the-arrow-penetrated-far-into-the-tree-trunk",
+                "text": "The arrow penetrated far into the tree trunk."
+            },
+            {
+                "code": "far_example_they-have-traveled-far-to-be-here",
+                "text": "They have traveled far to be here."
+            },
+            {
+                "code": "far_example_the-cow-has-strayed-far-from-its-pen",
+                "text": "The cow has strayed far from its pen."
+            },
+            {
+                "code": "far_example_she-never-ventures-far-from-home",
+                "text": "She never ventures far from home."
+            }
+        ]
+    }
+]

@@ -1,0 +1,122 @@
+[
+    {
+        "type": "(n)",
+        "mean": "something that is made to look the same as something else",
+        "examples": [
+            {
+                "code": "copy_example_we-need-an-accurate-copy",
+                "text": "We need an accurate copy."
+            },
+            {
+                "code": "copy_example_he-made-a-cheap-copy-of-the-painting",
+                "text": "He made a cheap copy of the painting."
+            },
+            {
+                "code": "copy_example_the-painting-is-a-carbon-copy",
+                "text": "The painting is a carbon copy."
+            },
+            {
+                "code": "copy_example_there-is-only-one-master-copy",
+                "text": "There is only one master copy."
+            },
+            {
+                "code": "copy_example_please-make-an-additional-copy",
+                "text": "Please make an additional copy."
+            },
+            {
+                "code": "copy_example_save-a-hard-copy-for-your-records",
+                "text": "Save a hard copy for your records."
+            },
+            {
+                "code": "copy_example_that-book-is-my-only-copy",
+                "text": "That book is my only copy."
+            },
+            {
+                "code": "copy_example_the-magazine-will-give-away-one-free-copy",
+                "text": "The magazine will give away one free copy."
+            },
+            {
+                "code": "copy_example_the-book-was-a-hardback-copy",
+                "text": "The book was a hardback copy."
+            },
+            {
+                "code": "copy_example_the-professor-bought-an-old-copy-of-the-classic-book",
+                "text": "The professor bought an old copy of the classic book."
+            },
+            {
+                "code": "copy_example_the-fan-wants-an-autographed-copy",
+                "text": "The fan wants an autographed copy."
+            },
+            {
+                "code": "copy_example_please-create-a-copy-for-yourself",
+                "text": "Please create a copy for yourself."
+            },
+            {
+                "code": "copy_example_could-you-email-him-a-copy",
+                "text": "Could you email him a copy?"
+            },
+            {
+                "code": "copy_example_i-ve-attached-a-copy-for-your-records",
+                "text": "I've attached a copy for your records."
+            },
+            {
+                "code": "copy_example_copies-of-the-classic-book-were-distributed-to-the-class",
+                "text": "Copies of the classic book were distributed to the class."
+            },
+            {
+                "code": "copy_example_how-can-i-get-a-copy-of-that-book",
+                "text": "How can I get a copy of that book?"
+            },
+            {
+                "code": "copy_example_i-have-a-copy-of-that-famous-painting",
+                "text": "I have a copy of that famous painting."
+            },
+            {
+                "code": "copy_example_it-s-in-the-copy-machine",
+                "text": "It's in the copy machine."
+            },
+            {
+                "code": "copy_example_we-are-out-of-copy-paper",
+                "text": "We are out of copy paper."
+            },
+            {
+                "code": "copy_example_do-you-have-my-copy-of-the-magazine",
+                "text": "Do you have my copy of the magazine?"
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to make something look or be like something else",
+        "examples": [
+            {
+                "code": "copy_example_they-illegally-copy-software",
+                "text": "They illegally copy software."
+            },
+            {
+                "code": "copy_example_she-carefully-copied-the-design-onto-the-final-paper",
+                "text": "She carefully copied the design onto the final paper."
+            },
+            {
+                "code": "copy_example_copy-exactly-what-was-written-on-the-board",
+                "text": "Copy exactly what was written on the board."
+            },
+            {
+                "code": "copy_example_he-copied-down-her-phone-number",
+                "text": "He copied down her phone number."
+            },
+            {
+                "code": "copy_example_he-is-copying-information-from-a-disk",
+                "text": "He is copying information from a disk."
+            },
+            {
+                "code": "copy_example_she-copied-all-of-the-phone-numbers-into-her-new-address-book",
+                "text": "She copied all of the phone numbers into her new address book."
+            },
+            {
+                "code": "copy_example_he-got-caught-copying-off-another-student",
+                "text": "He got caught copying off another student."
+            }
+        ]
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to try very hard to do something; to injure yourself by applying too much pressure; to put a mixture through a wire basket to separate the liquid and solid",
+        "examples": [
+            {
+                "code": "strain_example_he-strained-forward-to-hear-her-talk",
+                "text": "He strained forward to hear her talk."
+            },
+            {
+                "code": "strain_example_he-seriously-strained-his-calf-muscle",
+                "text": "He seriously strained his calf muscle."
+            },
+            {
+                "code": "strain_example_he-was-straining-to-hear-better",
+                "text": "He was straining to hear better."
+            },
+            {
+                "code": "strain_example_he-strained-his-back",
+                "text": "He strained his back."
+            },
+            {
+                "code": "strain_example_we-are-straining-our-budget-every-month",
+                "text": "We are straining our budget every month."
+            },
+            {
+                "code": "strain_example_she-strained-the-juice-in-a-colander",
+                "text": "She strained the juice in a colander."
+            }
+        ]
+    },
+    {
+        "type": "(n)",
+        "mean": "stress; enormous demand or pressure",
+        "examples": [
+            {
+                "code": "strain_example_our-financial-situation-put-a-real-strain-on-our-marriage",
+                "text": "Our financial situation put a real strain on our marriage."
+            },
+            {
+                "code": "strain_example_being-a-nurse-is-putting-too-much-mental-strain-on-her",
+                "text": "Being a nurse is putting too much mental strain on her."
+            },
+            {
+                "code": "strain_example_losing-my-job-is-having-an-excessive-strain-on-our-finances",
+                "text": "Losing my job is having an excessive strain on our finances."
+            },
+            {
+                "code": "strain_example_she-is-starting-to-feel-the-strain-of-working-two-jobs",
+                "text": "She is starting to feel the strain of working two jobs."
+            },
+            {
+                "code": "strain_example_increasing-demand-is-causing-strain-on-production",
+                "text": "Increasing demand is causing strain on production."
+            },
+            {
+                "code": "strain_example_let-s-try-to-ease-the-strain-on-our-bodies",
+                "text": "Let's try to ease the strain on our bodies."
+            },
+            {
+                "code": "strain_example_i-can-t-stand-the-emotional-strain-this-is-taking-on-our-relationship",
+                "text": "I can't stand the emotional strain this is taking on our relationship."
+            },
+            {
+                "code": "strain_example_losing-his-job-put-a-strain-on-their-marriage",
+                "text": "Losing his job put a strain on their marriage."
+            },
+            {
+                "code": "strain_example_he-resigned-under-the-strain-of-the-scandal",
+                "text": "He resigned under the strain of the scandal."
+            }
+        ]
+    }
+]

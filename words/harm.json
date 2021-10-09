@@ -1,0 +1,82 @@
+[
+    {
+        "type": "(n)",
+        "mean": "physical injury; damage",
+        "examples": [
+            {
+                "code": "harm_example_his-behavior-caused-considerable-harm-to-their-relationship",
+                "text": "His behavior caused considerable harm to their relationship."
+            },
+            {
+                "code": "harm_example_he-suffered-emotional-harm-as-a-child",
+                "text": "He suffered emotional harm as a child."
+            },
+            {
+                "code": "harm_example_we-are-trying-to-fix-the-economic-harm-resulting-from-the-policy-change",
+                "text": "We are trying to fix the economic harm resulting from the policy change."
+            },
+            {
+                "code": "harm_example_the-company-caused-a-lot-of-harm-to-the-local-environment",
+                "text": "The company caused a lot of harm to the local environment."
+            },
+            {
+                "code": "harm_example_he-inflicted-a-lot-of-emotional-harm-on-her",
+                "text": "He inflicted a lot of emotional harm on her."
+            },
+            {
+                "code": "harm_example_he-doesn-t-mean-you-any-harm",
+                "text": "He doesn't mean you any harm."
+            },
+            {
+                "code": "harm_example_i-hope-he-doesn-t-suffer-any-harm",
+                "text": "I hope he doesn't suffer any harm."
+            },
+            {
+                "code": "harm_example_they-are-trying-to-protect-the-children-from-harm",
+                "text": "They are trying to protect the children from harm."
+            },
+            {
+                "code": "harm_example_he-is-working-to-prevent-environmental-harm",
+                "text": "He is working to prevent environmental harm."
+            },
+            {
+                "code": "harm_example_she-suffered-physical-harm-from-her-parents",
+                "text": "She suffered physical harm from her parents."
+            },
+            {
+                "code": "harm_example_they-want-to-prevent-harm-to-the-environment",
+                "text": "They want to prevent harm to the environment."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to cause or inflict physical injury or damage",
+        "examples": [
+            {
+                "code": "harm_example_head-injuries-can-seriously-harm-your-brain",
+                "text": "Head injuries can seriously harm your brain."
+            },
+            {
+                "code": "harm_example_he-was-accused-of-physically-harming-her",
+                "text": "He was accused of physically harming her."
+            },
+            {
+                "code": "harm_example_he-said-he-never-intended-to-harm-her",
+                "text": "He said he never intended to harm her."
+            },
+            {
+                "code": "harm_example_their-actions-really-harmed-the-environment",
+                "text": "Their actions really harmed the environment."
+            },
+            {
+                "code": "harm_example_we-tried-not-to-harm-any-wildlife",
+                "text": "We tried not to harm any wildlife."
+            },
+            {
+                "code": "harm_example_his-eating-habits-are-harming-his-health",
+                "text": "His eating habits are harming his health."
+            }
+        ]
+    }
+]

@@ -1,0 +1,142 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a naturally oily substance found in the body tissues of humans and animals under their skin; a solid or liquid substance from animals that is turned into oil for cooking",
+        "examples": [
+            {
+                "code": "fat_example_she-needs-to-get-rid-of-extra-fat-to-be-healthier",
+                "text": "She needs to get rid of extra fat to be healthier."
+            },
+            {
+                "code": "fat_example_he-still-has-some-baby-fat",
+                "text": "He still has some baby fat."
+            },
+            {
+                "code": "fat_example_they-are-trying-to-avoid-dietary-fat",
+                "text": "They are trying to avoid dietary fat."
+            },
+            {
+                "code": "fat_example_he-is-following-a-reduced-fat-diet",
+                "text": "He is following a reduced fat diet."
+            },
+            {
+                "code": "fat_example_there-is-a-lot-of-visible-fat-in-this-steak",
+                "text": "There is a lot of visible fat in this steak."
+            },
+            {
+                "code": "fat_example_this-dish-was-flavored-with-bacon-fat",
+                "text": "This dish was flavored with bacon fat."
+            },
+            {
+                "code": "fat_example_i-gained-a-lot-of-fat-from-eating-poorly",
+                "text": "I gained a lot of fat from eating poorly."
+            },
+            {
+                "code": "fat_example_he-is-trying-to-lose-extra-fat",
+                "text": "He is trying to lose extra fat."
+            },
+            {
+                "code": "fat_example_many-animals-try-to-store-fat-for-the-winter",
+                "text": "Many animals try to store fat for the winter."
+            },
+            {
+                "code": "fat_example_this-product-claims-to-break-down-fat",
+                "text": "This product claims to break down fat."
+            },
+            {
+                "code": "fat_example_dessert-usually-contains-a-lot-of-fat",
+                "text": "Dessert usually contains a lot of fat."
+            },
+            {
+                "code": "fat_example_she-s-trying-to-eat-less-fat",
+                "text": "She's trying to eat less fat."
+            },
+            {
+                "code": "fat_example_they-are-cutting-down-on-fat-in-their-diet",
+                "text": "They are cutting down on fat in their diet."
+            },
+            {
+                "code": "fat_example_they-are-eliminating-fat-from-their-diet",
+                "text": "They are eliminating fat from their diet."
+            },
+            {
+                "code": "fat_example_she-avoids-fat-as-part-of-her-diet",
+                "text": "She avoids fat as part of her diet."
+            },
+            {
+                "code": "fat_example_i-always-remove-the-fat-before-cooking-meat",
+                "text": "I always remove the fat before cooking meat."
+            },
+            {
+                "code": "fat_example_adding-a-little-fat-will-give-the-dish-flavor",
+                "text": "Adding a little fat will give the dish flavor."
+            },
+            {
+                "code": "fat_example_drain-the-fat-from-the-pan-before-serving-it",
+                "text": "Drain the fat from the pan before serving it."
+            },
+            {
+                "code": "fat_example_he-s-limiting-his-fat-intake",
+                "text": "He's limiting his fat intake."
+            },
+            {
+                "code": "fat_example_the-fat-content-of-that-dish-is-very-high",
+                "text": "The fat content of that dish is very high."
+            }
+        ]
+    },
+    {
+        "type": "(adj)",
+        "mean": "not thin; having too much flesh on the body; heavy; large",
+        "examples": [
+            {
+                "code": "fat_example_i-feel-very-fat",
+                "text": "I feel very fat."
+            },
+            {
+                "code": "fat_example_my-cat-is-getting-fat",
+                "text": "My cat is getting fat."
+            },
+            {
+                "code": "fat_example_having-dessert-every-night-is-making-me-fat",
+                "text": "Having dessert every night is making me fat."
+            },
+            {
+                "code": "fat_example_did-she-just-call-you-fat",
+                "text": "Did she just call you fat?"
+            },
+            {
+                "code": "fat_example_her-cat-is-enormously-fat",
+                "text": "Her cat is enormously fat."
+            },
+            {
+                "code": "fat_example_his-body-is-quite-fat",
+                "text": "His body is quite fat."
+            },
+            {
+                "code": "fat_example_she-received-a-fat-envelope-in-the-mail",
+                "text": "She received a fat envelope in the mail."
+            },
+            {
+                "code": "fat_example_the-doctor-poked-at-my-fat-tummy",
+                "text": "The doctor poked at my fat tummy."
+            },
+            {
+                "code": "fat_example_what-a-fat-cat",
+                "text": "What a fat cat."
+            },
+            {
+                "code": "fat_example_she-thinks-she-has-a-fat-face",
+                "text": "She thinks she has a fat face."
+            },
+            {
+                "code": "fat_example_i-have-a-fat-lip-from-getting-hit-in-the-face",
+                "text": "I have a fat lip from getting hit in the face."
+            },
+            {
+                "code": "fat_example_he-had-a-fat-wallet-when-he-left-the-bank",
+                "text": "He had a fat wallet when he left the bank."
+            }
+        ]
+    }
+]

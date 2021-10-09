@@ -1,0 +1,68 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "not often; not usual; not cooked very long",
+        "examples": [
+            {
+                "code": "rare_example_we-have-a-collection-of-rare-coins",
+                "text": "We have a collection of rare coins."
+            },
+            {
+                "code": "rare_example_i-like-rare-steak",
+                "text": "I like rare steak."
+            },
+            {
+                "code": "rare_example_this-is-a-rare-opportunity-for-me",
+                "text": "This is a rare opportunity for me."
+            },
+            {
+                "code": "rare_example_chocolate-cake-is-a-rare-treat-for-me",
+                "text": "Chocolate cake is a rare treat for me."
+            },
+            {
+                "code": "rare_example_seeing-them-together-is-a-rare-sight",
+                "text": "Seeing them together is a rare sight."
+            },
+            {
+                "code": "rare_example_those-are-rare-gems",
+                "text": "Those are rare gems."
+            },
+            {
+                "code": "rare_example_she-has-a-rare-disorder",
+                "text": "She has a rare disorder."
+            },
+            {
+                "code": "rare_example_this-is-a-rare-gift",
+                "text": "This is a rare gift."
+            },
+            {
+                "code": "rare_example_he-made-a-rare-appearance",
+                "text": "He made a rare appearance."
+            },
+            {
+                "code": "rare_example_this-animal-is-becoming-increasingly-rare-to-see",
+                "text": "This animal is becoming increasingly rare to see."
+            },
+            {
+                "code": "rare_example_they-found-an-extremely-rare-jewel",
+                "text": "They found an extremely rare jewel."
+            },
+            {
+                "code": "rare_example_i-like-my-steak-very-rare",
+                "text": "I like my steak very rare."
+            },
+            {
+                "code": "rare_example_that-color-is-becoming-increasingly-rare-to-find",
+                "text": "That color is becoming increasingly rare to find."
+            },
+            {
+                "code": "rare_example_it-is-rare-to-see-that-kind-of-service-these-days",
+                "text": "It is rare to see that kind of service these days."
+            },
+            {
+                "code": "rare_example_that-material-remains-rare-around-the-world",
+                "text": "That material remains rare around the world."
+            }
+        ]
+    }
+]

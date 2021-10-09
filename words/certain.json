@@ -1,0 +1,36 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "being sure about something; particular",
+        "examples": [
+            {
+                "code": "certain_example_he-is-certain-there-is-no-danger",
+                "text": "He is certain there is no danger."
+            },
+            {
+                "code": "certain_example_she-looks-certain-about-the-outcome",
+                "text": "She looks certain about the outcome."
+            },
+            {
+                "code": "certain_example_i-became-more-certain-about-my-decision-as-time-passed",
+                "text": "I became more certain about my decision as time passed."
+            },
+            {
+                "code": "certain_example_this-information-has-made-me-certain-of-what-to-do",
+                "text": "This information has made me certain of what to do."
+            },
+            {
+                "code": "certain_example_success-is-very-certain",
+                "text": "Success is very certain."
+            },
+            {
+                "code": "certain_example_this-is-by-no-means-certain",
+                "text": "This is by no means certain."
+            },
+            {
+                "code": "certain_example_are-you-certain-about-this",
+                "text": "Are you certain about this?"
+            }
+        ]
+    }
+]

@@ -1,0 +1,48 @@
+[
+    {
+        "type": "(n)",
+        "mean": "one part of the divided sections in a book; a time period",
+        "examples": [
+            {
+                "code": "chapter_example_please-read-the-first-chapter-by-tomorrow",
+                "text": "Please read the first chapter by tomorrow."
+            },
+            {
+                "code": "chapter_example_her-divorce-was-a-difficult-chapter-in-her-life",
+                "text": "Her divorce was a difficult chapter in her life."
+            },
+            {
+                "code": "chapter_example_i-forgot-to-read-the-chapter",
+                "text": "I forgot to read the chapter."
+            },
+            {
+                "code": "chapter_example_the-author-wrote-three-new-chapters",
+                "text": "The author wrote three new chapters."
+            },
+            {
+                "code": "chapter_example_this-chapter-is-dedicated-to-my-mother",
+                "text": "This chapter is dedicated to my mother."
+            },
+            {
+                "code": "chapter_example_what-is-the-chapter-titled",
+                "text": "What is the chapter titled?"
+            },
+            {
+                "code": "chapter_example_this-chapter-will-address-controversial-issues",
+                "text": "This chapter will address controversial issues."
+            },
+            {
+                "code": "chapter_example_what-topics-will-this-chapter-contain",
+                "text": "What topics will this chapter contain?"
+            },
+            {
+                "code": "chapter_example_everything-is-explained-in-the-last-chapter",
+                "text": "Everything is explained in the last chapter."
+            },
+            {
+                "code": "chapter_example_the-chapters-about-the-early-years-of-his-life-were-sad",
+                "text": "The chapters about the early years of his life were sad."
+            }
+        ]
+    }
+]

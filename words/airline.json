@@ -1,0 +1,40 @@
+[
+    {
+        "type": "(n)",
+        "mean": "company that flies airplanes",
+        "examples": [
+            {
+                "code": "airline_example_he-works-for-a-private-airline",
+                "text": "He works for a private airline."
+            },
+            {
+                "code": "airline_example_the-airline-operates-all-over-the-country",
+                "text": "The airline operates all over the country."
+            },
+            {
+                "code": "airline_example_i-work-in-the-airline-industry",
+                "text": "I work in the airline industry."
+            },
+            {
+                "code": "airline_example_i-am-unhappy-with-airline-service",
+                "text": "I am unhappy with airline service."
+            },
+            {
+                "code": "airline_example_he-is-an-airline-pilot",
+                "text": "He is an airline pilot."
+            },
+            {
+                "code": "airline_example_airline-tickets-have-increased",
+                "text": "Airline tickets have increased."
+            },
+            {
+                "code": "airline_example_all-airline-flights-have-been-cancelled",
+                "text": "All airline flights have been cancelled."
+            },
+            {
+                "code": "airline_example_i-need-to-make-an-airline-reservation",
+                "text": "I need to make an airline reservation."
+            }
+        ]
+    }
+]

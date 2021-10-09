@@ -1,0 +1,52 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to experience pain, illness, injury or tragedy",
+        "examples": [
+            {
+                "code": "suffer_example_many-people-suffered-severely-in-the-storm",
+                "text": "Many people suffered severely in the storm."
+            },
+            {
+                "code": "suffer_example_she-has-been-suffering-physically-for-a-long-time",
+                "text": "She has been suffering physically for a long time."
+            },
+            {
+                "code": "suffer_example_too-many-children-in-the-world-are-suffering-needlessly",
+                "text": "Too many children in the world are suffering needlessly."
+            },
+            {
+                "code": "suffer_example_their-relationship-continues-to-suffer-because-of-his-work",
+                "text": "Their relationship continues to suffer because of his work."
+            },
+            {
+                "code": "suffer_example_no-child-deserves-to-suffer-for-any-reason",
+                "text": "No child deserves to suffer for any reason."
+            },
+            {
+                "code": "suffer_example_she-suffers-from-back-pain",
+                "text": "She suffers from back pain."
+            },
+            {
+                "code": "suffer_example_that-nation-is-suffering-under-a-heartless-dictator",
+                "text": "That nation is suffering under a heartless dictator."
+            },
+            {
+                "code": "suffer_example_he-should-suffer-for-what-he-has-done",
+                "text": "He should suffer for what he has done."
+            },
+            {
+                "code": "suffer_example_she-is-suffering-from-abuse",
+                "text": "She is suffering from abuse."
+            },
+            {
+                "code": "suffer_example_he-has-suffered-from-embarrassment-long-enough",
+                "text": "He has suffered from embarrassment long enough."
+            },
+            {
+                "code": "suffer_example_the-victim-has-suffered-enough",
+                "text": "The victim has suffered enough."
+            }
+        ]
+    }
+]

@@ -1,0 +1,54 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "relating to the sex that cannot produce babies",
+        "examples": [
+            {
+                "code": "male_example_he-hoped-to-have-a-male-heir",
+                "text": "He hoped to have a male heir."
+            },
+            {
+                "code": "male_example_we-are-studying-the-male-anatomy-in-biology-class",
+                "text": "We are studying the male anatomy in Biology class."
+            },
+            {
+                "code": "male_example_i-m-taking-a-male-companion-to-the-party",
+                "text": "I'm taking a male companion to the party."
+            },
+            {
+                "code": "male_example_the-male-employees-are-getting-paid-more-than-the-female",
+                "text": "The male employees are getting paid more than the female."
+            },
+            {
+                "code": "male_example_i-have-a-male-doctor",
+                "text": "I have a male doctor."
+            },
+            {
+                "code": "male_example_the-movie-cast-is-entirely-male",
+                "text": "The movie cast is entirely male."
+            },
+            {
+                "code": "male_example_i-work-in-a-very-male-environment",
+                "text": "I work in a very male environment."
+            }
+        ]
+    },
+    {
+        "type": "(n)",
+        "mean": "a male person or animal; a man",
+        "examples": [
+            {
+                "code": "male_example_there-are-young-males-in-the-army",
+                "text": "There are young males in the army."
+            },
+            {
+                "code": "male_example_we-need-more-after-school-programs-for-adolescent-males",
+                "text": "We need more after school programs for adolescent males."
+            },
+            {
+                "code": "male_example_the-dog-is-an-alpha-male",
+                "text": "The dog is an alpha male."
+            }
+        ]
+    }
+]

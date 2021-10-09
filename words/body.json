@@ -1,0 +1,104 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the physical form of a human or animal; group of people; a large amount of something",
+        "examples": [
+            {
+                "code": "body_example_after-exercising-my-whole-body-aches",
+                "text": "After exercising, my whole body aches."
+            },
+            {
+                "code": "body_example_he-s-trying-to-develop-his-upper-body",
+                "text": "He's trying to develop his upper body."
+            },
+            {
+                "code": "body_example_we-have-to-draw-a-naked-body-in-art-class",
+                "text": "We have to draw a naked body in art class."
+            },
+            {
+                "code": "body_example_my-body-is-too-fat",
+                "text": "My body is too fat."
+            },
+            {
+                "code": "body_example_the-athlete-has-a-muscular-body",
+                "text": "The athlete has a muscular body."
+            },
+            {
+                "code": "body_example_the-police-discovered-a-dead-body-in-the-river",
+                "text": "The police discovered a dead body in the river."
+            },
+            {
+                "code": "body_example_the-corporate-body-comes-from-all-over-the-country",
+                "text": "The corporate body comes from all over the country."
+            },
+            {
+                "code": "body_example_decisions-will-be-made-by-an-international-body-of-people",
+                "text": "Decisions will be made by an international body of people."
+            },
+            {
+                "code": "body_example_there-was-a-growing-body-of-evidence-against-him",
+                "text": "There was a growing body of evidence against him."
+            },
+            {
+                "code": "body_example_the-student-body-is-made-up-of-many-different-cultures",
+                "text": "The student body is made up of many different cultures."
+            },
+            {
+                "code": "body_example_my-body-aches",
+                "text": "My body aches."
+            },
+            {
+                "code": "body_example_she-was-so-nervous-that-her-whole-body-shook",
+                "text": "She was so nervous that her whole body shook."
+            },
+            {
+                "code": "body_example_the-body-was-discovered-in-the-forest",
+                "text": "The body was discovered in the forest."
+            },
+            {
+                "code": "body_example_we-will-examine-the-body",
+                "text": "We will examine the body."
+            },
+            {
+                "code": "body_example_they-are-forming-a-decision-making-body",
+                "text": "They are forming a decision-making body."
+            },
+            {
+                "code": "body_example_the-doctor-took-her-body-temperature",
+                "text": "The doctor took her body temperature."
+            },
+            {
+                "code": "body_example_we-shared-our-body-heat-during-the-winter",
+                "text": "We shared our body heat during the winter."
+            },
+            {
+                "code": "body_example_i-have-to-work-hard-to-keep-my-body-shape",
+                "text": "I have to work hard to keep my body shape."
+            },
+            {
+                "code": "body_example_i-m-trying-to-lose-some-body-fat",
+                "text": "I'm trying to lose some body fat."
+            },
+            {
+                "code": "body_example_the-soldier-lost-some-body-parts",
+                "text": "The soldier lost some body parts."
+            },
+            {
+                "code": "body_example_your-body-odor-is-bad",
+                "text": "Your body odor is bad!"
+            },
+            {
+                "code": "body_example_we-need-to-have-positive-body-images",
+                "text": "We need to have positive body images."
+            },
+            {
+                "code": "body_example_she-has-tattoos-on-her-body",
+                "text": "She has tattoos on her body."
+            },
+            {
+                "code": "body_example_puberty-causes-changes-in-the-body",
+                "text": "Puberty causes changes in the body."
+            }
+        ]
+    }
+]

@@ -1,0 +1,60 @@
+[
+    {
+        "type": "(n)",
+        "mean": "freedom to do whatever one chooses or desires",
+        "examples": [
+            {
+                "code": "independence_example_teenagers-want-to-have-total-independence",
+                "text": "Teenagers want to have total independence."
+            },
+            {
+                "code": "independence_example_my-son-is-pursuing-financial-independence",
+                "text": "My son is pursuing financial independence."
+            },
+            {
+                "code": "independence_example_you-cannot-have-true-independence-while-still-living-with-your-parents",
+                "text": "You cannot have true independence while still living with your parents."
+            },
+            {
+                "code": "independence_example_he-enjoys-his-new-found-independence",
+                "text": "He enjoys his new-found independence."
+            },
+            {
+                "code": "independence_example_she-has-more-independence-since-she-left-her-parents-home",
+                "text": "She has more independence since she left her parents' home."
+            },
+            {
+                "code": "independence_example_argentina-gained-independence-from-spain-in-1816",
+                "text": "Argentina gained independence from Spain in 1816."
+            },
+            {
+                "code": "independence_example_she-doesn-t-want-to-lose-her-independence",
+                "text": "She doesn't want to lose her independence."
+            },
+            {
+                "code": "independence_example_the-military-fights-to-maintain-the-independence-of-their-country",
+                "text": "The military fights to maintain the independence of their country."
+            },
+            {
+                "code": "independence_example_she-needs-to-encourage-independence-in-her-son",
+                "text": "She needs to encourage independence in her son."
+            },
+            {
+                "code": "independence_example_india-observes-a-national-holiday-that-celebrates-independence-from-british-rule",
+                "text": "India observes a national holiday that celebrates independence from British rule."
+            },
+            {
+                "code": "independence_example_the-united-states-proclaimed-independence-from-great-britain-on-july-4-1776",
+                "text": "The United States proclaimed independence from Great Britain on July 4, 1776."
+            },
+            {
+                "code": "independence_example_mexico-gained-independence-from-spain-in-1821",
+                "text": "Mexico gained independence from Spain in 1821."
+            },
+            {
+                "code": "independence_example_july-4th-is-independence-day-for-the-united-states-of-america",
+                "text": "July 4th is Independence Day for the United States of America."
+            }
+        ]
+    }
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "type": "(n)",
+        "mean": "someone who wants to be chosen for a job or win an election",
+        "examples": [
+            {
+                "code": "candidate_example_all-potential-candidates-will-be-notified-by-email",
+                "text": "All potential candidates will be notified by email."
+            },
+            {
+                "code": "candidate_example_we-think-she-is-a-qualified-candidate-for-the-job",
+                "text": "We think she is a qualified candidate for the job."
+            },
+            {
+                "code": "candidate_example_he-is-certainly-an-excellent-candidate-for-this-position",
+                "text": "He is certainly an excellent candidate for this position."
+            },
+            {
+                "code": "candidate_example_the-leading-candidate-must-be-careful-not-to-make-any-mistakes",
+                "text": "The leading candidate must be careful not to make any mistakes."
+            },
+            {
+                "code": "candidate_example_which-congressional-candidate-do-you-prefer",
+                "text": "Which congressional candidate do you prefer?"
+            },
+            {
+                "code": "candidate_example_our-teacher-is-a-doctoral-candidate",
+                "text": "Our teacher is a doctoral candidate."
+            },
+            {
+                "code": "candidate_example_he-always-votes-for-the-conservative-candidate",
+                "text": "He always votes for the conservative candidate."
+            },
+            {
+                "code": "candidate_example_how-are-the-candidates-chosen",
+                "text": "How are the candidates chosen?"
+            },
+            {
+                "code": "candidate_example_the-candidate-was-rejected-because-he-lied-on-his-resume",
+                "text": "The candidate was rejected because he lied on his resume."
+            },
+            {
+                "code": "candidate_example_when-will-they-nominate-their-candidate",
+                "text": "When will they nominate their candidate?"
+            },
+            {
+                "code": "candidate_example_he-was-the-only-suitable-candidate-for-the-job",
+                "text": "He was the only suitable candidate for the job."
+            }
+        ]
+    }
+]

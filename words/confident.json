@@ -1,0 +1,56 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "feeling sure about your own abilities or someone else's abilities",
+        "examples": [
+            {
+                "code": "confident_example_the-intern-appears-confident",
+                "text": "The intern appears confident."
+            },
+            {
+                "code": "confident_example_she-feels-confident-in-her-abilities",
+                "text": "She feels confident in her abilities."
+            },
+            {
+                "code": "confident_example_he-sounds-confident",
+                "text": "He sounds confident."
+            },
+            {
+                "code": "confident_example_she-is-becoming-more-confident-at-work",
+                "text": "She is becoming more confident at work."
+            },
+            {
+                "code": "confident_example_she-remains-confident-that-she-will-get-the-promotion",
+                "text": "She remains confident that she will get the promotion."
+            },
+            {
+                "code": "confident_example_he-is-extremely-confident-that-he-will-get-the-job",
+                "text": "He is extremely confident that he will get the job."
+            },
+            {
+                "code": "confident_example_it-is-risky-to-be-overly-confident",
+                "text": "It is risky to be overly confident."
+            },
+            {
+                "code": "confident_example_the-player-has-become-increasingly-confident",
+                "text": "The player has become increasingly confident."
+            },
+            {
+                "code": "confident_example_i-am-reasonably-confident-about-getting-a-raise",
+                "text": "I am reasonably confident about getting a raise."
+            },
+            {
+                "code": "confident_example_he-feels-confident-about-his-future",
+                "text": "He feels confident about his future."
+            },
+            {
+                "code": "confident_example_he-is-not-very-confident-at-his-job",
+                "text": "He is not very confident at his job."
+            },
+            {
+                "code": "confident_example_i-m-confident-in-our-abilities-to-get-it-done",
+                "text": "I'm confident in our abilities to get it done."
+            }
+        ]
+    }
+]

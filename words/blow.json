@@ -1,0 +1,94 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a physical or emotional hit",
+        "examples": [
+            {
+                "code": "blow_example_the-boxer-received-a-heavy-blow-to-the-head",
+                "text": "The boxer received a heavy blow to the head."
+            },
+            {
+                "code": "blow_example_he-suffered-only-a-light-blow",
+                "text": "He suffered only a light blow."
+            },
+            {
+                "code": "blow_example_she-knocked-him-out-with-a-single-blow",
+                "text": "She knocked him out with a single blow."
+            },
+            {
+                "code": "blow_example_the-last-punch-was-a-deadly-blow",
+                "text": "The last punch was a deadly blow."
+            },
+            {
+                "code": "blow_example_the-loss-of-our-mother-was-a-devastating-blow-to-all-of-us",
+                "text": "The loss of our mother was a devastating blow to all of us."
+            },
+            {
+                "code": "blow_example_the-tax-increase-was-a-crippling-blow-to-our-company",
+                "text": "The tax increase was a crippling blow to our company."
+            },
+            {
+                "code": "blow_example_he-received-a-powerful-blow-to-the-face",
+                "text": "He received a powerful blow to the face."
+            },
+            {
+                "code": "blow_example_the-boxer-delivered-many-blows-to-the-face",
+                "text": "The boxer delivered many blows to the face."
+            },
+            {
+                "code": "blow_example_the-boys-exchanged-blows",
+                "text": "The boys exchanged blows."
+            },
+            {
+                "code": "blow_example_i-tried-to-block-as-many-of-her-blows-as-i-could",
+                "text": "I tried to block as many of her blows as I could."
+            },
+            {
+                "code": "blow_example_he-felt-the-blow-before-he-saw-the-fist",
+                "text": "He felt the blow before he saw the fist."
+            },
+            {
+                "code": "blow_example_the-blow-landed-on-the-side-of-her-face",
+                "text": "The blow landed on the side of her face."
+            },
+            {
+                "code": "blow_example_his-blows-knocked-me-to-the-ground",
+                "text": "His blows knocked me to the ground."
+            },
+            {
+                "code": "blow_example_my-husband-s-support-cushioned-the-blow-of-losing-my-job",
+                "text": "My husband's support cushioned the blow of losing my job."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to move air; to send air out from the mouth",
+        "examples": [
+            {
+                "code": "blow_example_the-wind-is-blowing-hard",
+                "text": "The wind is blowing hard."
+            },
+            {
+                "code": "blow_example_to-whistle-you-need-to-blow-softly",
+                "text": "To whistle, you need to blow softly."
+            },
+            {
+                "code": "blow_example_blow-on-your-hands-to-keep-warm",
+                "text": "Blow on your hands to keep warm."
+            },
+            {
+                "code": "blow_example_the-boat-was-blown-way-off-course",
+                "text": "The boat was blown way off course."
+            },
+            {
+                "code": "blow_example_the-wind-continues-to-blow-from-the-east",
+                "text": "The wind continues to blow from the east."
+            },
+            {
+                "code": "blow_example_we-can-feel-the-breeze-blowing-through-the-trees",
+                "text": "We can feel the breeze blowing through the trees."
+            }
+        ]
+    }
+]

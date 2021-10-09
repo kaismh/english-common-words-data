@@ -1,0 +1,72 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to see someone or something and to know who the person is or what it is; to understand something and accept that it is true; to show praise and reward someone for good work",
+        "examples": [
+            {
+                "code": "recognize_example_she-immediately-recognized-her-long-lost-sister",
+                "text": "She immediately recognized her long lost sister."
+            },
+            {
+                "code": "recognize_example_he-easily-recognized-the-famous-tune",
+                "text": "He easily recognized the famous tune."
+            },
+            {
+                "code": "recognize_example_she-barely-recognized-her-friend-from-college",
+                "text": "She barely recognized her friend from college."
+            },
+            {
+                "code": "recognize_example_the-school-clearly-recognized-the-need-for-smaller-class-sizes",
+                "text": "The school clearly recognized the need for smaller class sizes."
+            },
+            {
+                "code": "recognize_example_the-company-finally-recognized-his-hard-work",
+                "text": "The company finally recognized his hard work."
+            },
+            {
+                "code": "recognize_example_she-is-nationally-recognized-as-a-singing-sensation",
+                "text": "She is nationally recognized as a singing sensation."
+            },
+            {
+                "code": "recognize_example_she-was-publicly-recognized-for-her-work-with-homeless-people",
+                "text": "She was publicly recognized for her work with homeless people."
+            },
+            {
+                "code": "recognize_example_we-must-recognize-those-who-work-hard",
+                "text": "We must recognize those who work hard."
+            },
+            {
+                "code": "recognize_example_he-is-beginning-to-recognize-his-parents",
+                "text": "He is beginning to recognize his parents."
+            },
+            {
+                "code": "recognize_example_the-company-failed-to-recognize-its-employees",
+                "text": "The company failed to recognize its employees."
+            },
+            {
+                "code": "recognize_example_he-agreed-to-recognize-her-part-of-the-work",
+                "text": "He agreed to recognize her part of the work."
+            },
+            {
+                "code": "recognize_example_he-refused-to-recognize-her-as-a-colleague",
+                "text": "He refused to recognize her as a colleague."
+            },
+            {
+                "code": "recognize_example_he-recognized-the-person-as-the-robber",
+                "text": "He recognized the person as the robber."
+            },
+            {
+                "code": "recognize_example_i-recognized-her-by-her-voice",
+                "text": "I recognized her by her voice."
+            },
+            {
+                "code": "recognize_example_i-recognized-her-from-school",
+                "text": "I recognized her from school."
+            },
+            {
+                "code": "recognize_example_he-was-recognized-as-the-best-piano-player-in-the-world",
+                "text": "He was recognized as the best piano player in the world."
+            }
+        ]
+    }
+]

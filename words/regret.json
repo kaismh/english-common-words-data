@@ -1,0 +1,50 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to feel bad about something",
+        "examples": [
+            {
+                "code": "regret_example_i-came-to-regret-it",
+                "text": "I came to regret it."
+            },
+            {
+                "code": "regret_example_she-seemed-to-regret-her-decision",
+                "text": "She seemed to regret her decision."
+            },
+            {
+                "code": "regret_example_we-regretted-our-decision",
+                "text": "We regretted our decision."
+            },
+            {
+                "code": "regret_example_he-never-regretted-his-decision",
+                "text": "He never regretted his decision."
+            }
+        ]
+    },
+    {
+        "type": "(n)",
+        "mean": "the feeling of sadness or disappointed for something you did or did not do",
+        "examples": [
+            {
+                "code": "regret_example_she-showed-no-regret",
+                "text": "She showed no regret."
+            },
+            {
+                "code": "regret_example_i-feel-no-regret-over-my-decision",
+                "text": "I feel no regret over my decision."
+            },
+            {
+                "code": "regret_example_i-have-sincere-regrets-in-my-life",
+                "text": "I have sincere regrets in my life."
+            },
+            {
+                "code": "regret_example_i-have-regret-for-the-decision-i-made",
+                "text": "I have regret for the decision I made."
+            },
+            {
+                "code": "regret_example_she-lives-without-regret",
+                "text": "She lives without regret."
+            }
+        ]
+    }
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "type": "(n)",
+        "mean": "an order given to a person or animal; control or authority over people",
+        "examples": [
+            {
+                "code": "command_example_he-disobeyed-a-simple-command",
+                "text": "He disobeyed a simple command."
+            },
+            {
+                "code": "command_example_she-s-in-complete-command",
+                "text": "She's in complete command."
+            },
+            {
+                "code": "command_example_he-has-excellent-command-of-his-emotions",
+                "text": "He has excellent command of his emotions."
+            },
+            {
+                "code": "command_example_you-need-to-obey-her-commands",
+                "text": "You need to obey her commands."
+            },
+            {
+                "code": "command_example_he-was-punished-for-disobeying-her-commands",
+                "text": "He was punished for disobeying her commands."
+            },
+            {
+                "code": "command_example_he-shouted-his-command-to-fire",
+                "text": "He shouted his command to fire."
+            },
+            {
+                "code": "command_example_he-will-take-over-command",
+                "text": "He will take over command."
+            },
+            {
+                "code": "command_example_this-came-from-the-command-center",
+                "text": "This came from the command center."
+            },
+            {
+                "code": "command_example_i-am-at-your-command",
+                "text": "I am at your command."
+            },
+            {
+                "code": "command_example_who-is-in-command-here",
+                "text": "Who is in command here?"
+            },
+            {
+                "code": "command_example_we-are-under-the-command-of-the-general",
+                "text": "We are under the command of the general."
+            }
+        ]
+    }
+]

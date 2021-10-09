@@ -1,0 +1,36 @@
+[
+    {
+        "type": "(adv)",
+        "mean": "done most of the time",
+        "examples": [
+            {
+                "code": "usually_example_it-is-usually-quiet-around-here",
+                "text": "It is usually quiet around here."
+            },
+            {
+                "code": "usually_example_that-dosage-is-usually-fatal",
+                "text": "That dosage is usually fatal."
+            },
+            {
+                "code": "usually_example_our-neighbors-are-usually-loud",
+                "text": "Our neighbors are usually loud."
+            },
+            {
+                "code": "usually_example_we-usually-eat-breakfast-at-home",
+                "text": "We usually eat breakfast at home."
+            },
+            {
+                "code": "usually_example_they-usually-walk-to-school",
+                "text": "They usually walk to school."
+            },
+            {
+                "code": "usually_example_they-usually-talk-on-the-phone",
+                "text": "They usually talk on the phone."
+            },
+            {
+                "code": "usually_example_it-usually-occurs-at-night",
+                "text": "It usually occurs at night."
+            }
+        ]
+    }
+]

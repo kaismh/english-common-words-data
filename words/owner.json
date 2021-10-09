@@ -1,0 +1,36 @@
+[
+    {
+        "type": "(n)",
+        "mean": "someone who owns something",
+        "examples": [
+            {
+                "code": "owner_example_i-became-the-owner-of-the-business-last-year",
+                "text": "I became the owner of the business last year."
+            },
+            {
+                "code": "owner_example_let-s-find-the-dog-s-owner",
+                "text": "Let's find the dog's owner."
+            },
+            {
+                "code": "owner_example_does-this-bike-have-an-owner",
+                "text": "Does this bike have an owner?"
+            },
+            {
+                "code": "owner_example_she-is-a-property-owner",
+                "text": "She is a property owner."
+            },
+            {
+                "code": "owner_example_i-am-the-legal-owner-of-the-business",
+                "text": "I am the legal owner of the business."
+            },
+            {
+                "code": "owner_example_he-was-a-business-owner",
+                "text": "He was a business owner."
+            },
+            {
+                "code": "owner_example_she-is-the-former-owner-of-the-building",
+                "text": "She is the former owner of the building."
+            }
+        ]
+    }
+]

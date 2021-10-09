@@ -1,0 +1,44 @@
+[
+    {
+        "type": "(v)",
+        "mean": "a feeling that something is true without getting proof or checking it",
+        "examples": [
+            {
+                "code": "assumption_example_he-made-basic-assumptions-during-the-board-meeting",
+                "text": "He made basic assumptions during the board meeting."
+            },
+            {
+                "code": "assumption_example_science-has-disproven-many-common-assumptions",
+                "text": "Science has disproven many common assumptions."
+            },
+            {
+                "code": "assumption_example_we-need-to-correct-those-false-assumptions",
+                "text": "We need to correct those false assumptions."
+            },
+            {
+                "code": "assumption_example_that-is-a-safe-assumption",
+                "text": "That is a safe assumption."
+            },
+            {
+                "code": "assumption_example_my-teacher-told-me-not-to-make-assumptions",
+                "text": "My teacher told me not to make assumptions."
+            },
+            {
+                "code": "assumption_example_our-research-was-based-on-that-assumption",
+                "text": "Our research was based on that assumption."
+            },
+            {
+                "code": "assumption_example_she-is-challenging-certain-assumptions",
+                "text": "She is challenging certain assumptions."
+            },
+            {
+                "code": "assumption_example_the-evidence-supports-our-assumption",
+                "text": "The evidence supports our assumption."
+            },
+            {
+                "code": "assumption_example_men-make-basic-assumptions-about-women",
+                "text": "Men make basic assumptions about women."
+            }
+        ]
+    }
+]

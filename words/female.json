@@ -1,0 +1,56 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "not male; girl",
+        "examples": [
+            {
+                "code": "female_example_we-saw-a-performance-by-an-all-female-chorus",
+                "text": "We saw a performance by an all-female chorus."
+            },
+            {
+                "code": "female_example_he-thinks-his-female-teachers-are-more-caring",
+                "text": "He thinks his female teachers are more caring."
+            },
+            {
+                "code": "female_example_she-prefers-to-be-treated-by-a-female-doctor",
+                "text": "She prefers to be treated by a female doctor."
+            },
+            {
+                "code": "female_example_he-wants-to-get-a-female-perspective-on-his-problem",
+                "text": "He wants to get a female perspective on his problem."
+            },
+            {
+                "code": "female_example_he-was-accused-of-treating-female-employees-badly",
+                "text": "He was accused of treating female employees badly."
+            },
+            {
+                "code": "female_example_the-female-population-on-campus-is-increasing",
+                "text": "The female population on campus is increasing."
+            },
+            {
+                "code": "female_example_she-doesn-t-have-many-female-friends",
+                "text": "She doesn't have many female friends."
+            },
+            {
+                "code": "female_example_she-likes-to-spend-time-with-her-female-cousins",
+                "text": "She likes to spend time with her female cousins."
+            },
+            {
+                "code": "female_example_they-discussed-typical-female-traits",
+                "text": "They discussed typical female traits."
+            },
+            {
+                "code": "female_example_he-has-a-female-twin",
+                "text": "He has a female twin."
+            },
+            {
+                "code": "female_example_they-learned-to-draw-the-female-body-in-art-class",
+                "text": "They learned to draw the female body in art class."
+            },
+            {
+                "code": "female_example_i-don-t-know-if-there-s-a-female-counterpart-to-that",
+                "text": "I don't know if there's a female counterpart to that."
+            }
+        ]
+    }
+]

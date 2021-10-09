@@ -1,0 +1,44 @@
+[
+    {
+        "type": "(n)",
+        "mean": "an appliance where food and drinks are kept cold to stay fresh",
+        "examples": [
+            {
+                "code": "refrigerator_example_my-son-opened-the-refrigerator-to-get-more-milk",
+                "text": "My son opened the refrigerator to get more milk."
+            },
+            {
+                "code": "refrigerator_example_i-filled-the-refrigerator-with-organic-fruits-and-vegetables",
+                "text": "I filled the refrigerator with organic fruits and vegetables."
+            },
+            {
+                "code": "refrigerator_example_he-forgot-to-close-the-refrigerator-door-again",
+                "text": "He forgot to close the refrigerator door again."
+            },
+            {
+                "code": "refrigerator_example_we-post-notes-with-refrigerator-magnets",
+                "text": "We post notes with refrigerator magnets."
+            },
+            {
+                "code": "refrigerator_example_i-always-have-an-empty-refrigerator",
+                "text": "I always have an empty refrigerator."
+            },
+            {
+                "code": "refrigerator_example_we-bought-a-new-stainless-steel-refrigerator",
+                "text": "We bought a new stainless-steel refrigerator."
+            },
+            {
+                "code": "refrigerator_example_we-have-a-mini-refrigerator-for-drinks",
+                "text": "We have a mini refrigerator for drinks."
+            },
+            {
+                "code": "refrigerator_example_the-restaurant-has-a-huge-walk-in-refrigerator",
+                "text": "The restaurant has a huge walk-in refrigerator."
+            },
+            {
+                "code": "refrigerator_example_there-is-milk-in-the-refrigerator",
+                "text": "There is milk in the refrigerator."
+            }
+        ]
+    }
+]

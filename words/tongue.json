@@ -1,0 +1,32 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the soft muscle in the mouth used for tasting and talking",
+        "examples": [
+            {
+                "code": "tongue_example_the-giraffe-has-a-long-tongue",
+                "text": "The giraffe has a long tongue."
+            },
+            {
+                "code": "tongue_example_don-t-stick-out-your-tongue-at-people",
+                "text": "Don't stick out your tongue at people."
+            },
+            {
+                "code": "tongue_example_her-dog-s-tongue-is-always-hanging-out",
+                "text": "Her dog's tongue is always hanging out."
+            },
+            {
+                "code": "tongue_example_the-child-accidentally-bit-her-tongue",
+                "text": "The child accidentally bit her tongue."
+            },
+            {
+                "code": "tongue_example_that-s-quite-a-tongue-twister",
+                "text": "That's quite a tongue twister."
+            },
+            {
+                "code": "tongue_example_he-has-a-tongue-piercing",
+                "text": "He has a tongue piercing."
+            }
+        ]
+    }
+]

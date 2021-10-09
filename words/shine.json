@@ -1,0 +1,44 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to make a bright light",
+        "examples": [
+            {
+                "code": "shine_example_the-sun-shines-brightly-through-the-window",
+                "text": "The sun shines brightly through the window."
+            },
+            {
+                "code": "shine_example_there-was-a-small-light-shining-faintly-from-the-other-room",
+                "text": "There was a small light shining faintly from the other room."
+            },
+            {
+                "code": "shine_example_the-dentist-made-her-teeth-shine",
+                "text": "The dentist made her teeth shine."
+            },
+            {
+                "code": "shine_example_the-policeman-was-shining-his-flashlight-at-us",
+                "text": "The policeman was shining his flashlight at us."
+            },
+            {
+                "code": "shine_example_a-bright-light-shines-from-the-lighthouse",
+                "text": "A bright light shines from the lighthouse."
+            },
+            {
+                "code": "shine_example_her-face-was-shining-in-the-moonlight",
+                "text": "Her face was shining in the moonlight."
+            },
+            {
+                "code": "shine_example_look-at-how-the-light-shines-on-his-face",
+                "text": "Look at how the light shines on his face."
+            },
+            {
+                "code": "shine_example_the-lamp-was-shining-in-the-background",
+                "text": "The lamp was shining in the background."
+            },
+            {
+                "code": "shine_example_he-shined-the-flashlight-on-us",
+                "text": "He shined the flashlight on us."
+            }
+        ]
+    }
+]

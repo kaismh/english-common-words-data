@@ -1,0 +1,74 @@
+[
+    {
+        "type": "(n)",
+        "mean": "small object used to fasten or decorate clothing; a part of a machine that you press to start or stop",
+        "examples": [
+            {
+                "code": "button_example_you-missed-your-bottom-button",
+                "text": "You missed your bottom button."
+            },
+            {
+                "code": "button_example_this-shirt-has-pearl-buttons",
+                "text": "This shirt has pearl buttons."
+            },
+            {
+                "code": "button_example_push-the-on-button",
+                "text": "Push the on button."
+            },
+            {
+                "code": "button_example_the-elevator-buttons-don-t-work",
+                "text": "The elevator buttons don't work."
+            },
+            {
+                "code": "button_example_this-alarm-has-a-snooze-button",
+                "text": "This alarm has a snooze button."
+            },
+            {
+                "code": "button_example_push-the-fast-forward-button-on-the-remote-control",
+                "text": "Push the fast-forward button on the remote control."
+            },
+            {
+                "code": "button_example_you-need-to-do-your-buttons",
+                "text": "You need to do your buttons."
+            },
+            {
+                "code": "button_example_she-was-fumbling-with-her-buttons",
+                "text": "She was fumbling with her buttons."
+            },
+            {
+                "code": "button_example_my-jacket-lost-a-button",
+                "text": "My jacket lost a button."
+            },
+            {
+                "code": "button_example_will-you-sew-a-button-for-me",
+                "text": "Will you sew a button for me?"
+            },
+            {
+                "code": "button_example_a-button-is-missing-on-your-coat",
+                "text": "A button is missing on your coat."
+            },
+            {
+                "code": "button_example_you-have-to-click-the-mouse-button-to-open-the-program",
+                "text": "You have to click the mouse button to open the program."
+            },
+            {
+                "code": "button_example_she-hit-the-rocket-s-launch-button",
+                "text": "She hit the rocket's launch button."
+            },
+            {
+                "code": "button_example_he-often-wears-buttons-on-his-hat",
+                "text": "He often wears buttons on his hat."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to fasten clothing with a small object made of plastic or metal",
+        "examples": [
+            {
+                "code": "button_example_you-forgot-to-button-your-shirt",
+                "text": "You forgot to button your shirt."
+            }
+        ]
+    }
+]

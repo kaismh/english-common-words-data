@@ -1,0 +1,64 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a collection of wires used for sending electricity or communication signals; a service that provides television, internet or phone service; a thick wire",
+        "examples": [
+            {
+                "code": "cable_example_the-utility-company-has-been-installing-electric-cables-throughout-the-city",
+                "text": "The utility company has been installing electric cables throughout the city."
+            },
+            {
+                "code": "cable_example_the-bridge-is-held-up-with-steel-cables",
+                "text": "The bridge is held up with steel cables."
+            },
+            {
+                "code": "cable_example_construction-workers-are-laying-cable-underground",
+                "text": "Construction workers are laying cable underground."
+            },
+            {
+                "code": "cable_example_you-need-to-attach-the-cable-to-a-power-source",
+                "text": "You need to attach the cable to a power source."
+            },
+            {
+                "code": "cable_example_don-t-disconnect-the-cable",
+                "text": "Don't disconnect the cable."
+            },
+            {
+                "code": "cable_example_there-is-a-cable-running-under-our-house",
+                "text": "There is a cable running under our house."
+            },
+            {
+                "code": "cable_example_this-cable-carries-information-very-quickly",
+                "text": "This cable carries information very quickly."
+            },
+            {
+                "code": "cable_example_we-don-t-have-cable",
+                "text": "We don't have cable."
+            },
+            {
+                "code": "cable_example_the-company-installs-cable-for-free",
+                "text": "The company installs cable for free."
+            },
+            {
+                "code": "cable_example_do-you-get-cable-television",
+                "text": "Do you get cable television?"
+            },
+            {
+                "code": "cable_example_we-re-unhappy-with-our-cable-provider",
+                "text": "We're unhappy with our cable provider."
+            },
+            {
+                "code": "cable_example_our-cable-connection-is-weak",
+                "text": "Our cable connection is weak."
+            },
+            {
+                "code": "cable_example_the-cable-bill-is-too-high",
+                "text": "The cable bill is too high!"
+            },
+            {
+                "code": "cable_example_are-you-a-cable-subscriber",
+                "text": "Are you a cable subscriber?"
+            }
+        ]
+    }
+]

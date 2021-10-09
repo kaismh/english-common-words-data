@@ -1,0 +1,36 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "upset that something that was expected to happen did not happen",
+        "examples": [
+            {
+                "code": "disappointed_example_she-is-disappointed",
+                "text": "She is disappointed."
+            },
+            {
+                "code": "disappointed_example_her-father-was-extremely-disappointed",
+                "text": "Her father was extremely disappointed."
+            },
+            {
+                "code": "disappointed_example_he-felt-almost-disappointed",
+                "text": "He felt almost disappointed."
+            },
+            {
+                "code": "disappointed_example_the-couple-was-fairly-disappointed",
+                "text": "The couple was fairly disappointed."
+            },
+            {
+                "code": "disappointed_example_the-girl-is-clearly-disappointed",
+                "text": "The girl is clearly disappointed."
+            },
+            {
+                "code": "disappointed_example_are-you-disappointed-about-the-decision",
+                "text": "Are you disappointed about the decision?"
+            },
+            {
+                "code": "disappointed_example_he-felt-disappointed-in-his-friend",
+                "text": "He felt disappointed in his friend."
+            }
+        ]
+    }
+]

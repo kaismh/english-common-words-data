@@ -1,0 +1,56 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the act of allowing someone to do something",
+        "examples": [
+            {
+                "code": "permission_example_did-your-parents-give-you-permission-to-go-on-the-school-trip",
+                "text": "Did your parents give you permission to go on the school trip?"
+            },
+            {
+                "code": "permission_example_did-you-get-permission-to-enter-the-building",
+                "text": "Did you get permission to enter the building?"
+            },
+            {
+                "code": "permission_example_do-you-have-permission-to-drive-her-car",
+                "text": "Do you have permission to drive her car?"
+            },
+            {
+                "code": "permission_example_he-was-refused-permission-to-use-the-car",
+                "text": "He was refused permission to use the car."
+            },
+            {
+                "code": "permission_example_her-parents-have-signed-the-permission-slip",
+                "text": "Her parents have signed the permission slip."
+            },
+            {
+                "code": "permission_example_do-you-have-written-permission-to-be-here",
+                "text": "Do you have written permission to be here?"
+            },
+            {
+                "code": "permission_example_he-was-given-special-permission-to-tour-the-white-house",
+                "text": "He was given special permission to tour the White House."
+            },
+            {
+                "code": "permission_example_she-was-granted-the-necessary-permission-to-leave-the-country",
+                "text": "She was granted the necessary permission to leave the country."
+            },
+            {
+                "code": "permission_example_do-you-have-permission-to-carry-that-weapon",
+                "text": "Do you have permission to carry that weapon?"
+            },
+            {
+                "code": "permission_example_he-was-given-permission-from-the-government",
+                "text": "He was given permission from the government."
+            },
+            {
+                "code": "permission_example_with-your-permission-i-d-like-to-speak",
+                "text": "With your permission, I'd like to speak."
+            },
+            {
+                "code": "permission_example_you-will-need-to-ask-for-permission-to-go-inside",
+                "text": "You will need to ask for permission to go inside."
+            }
+        ]
+    }
+]

@@ -1,0 +1,64 @@
+[
+    {
+        "type": "(n)",
+        "mean": "something that influences or contributes to a final result",
+        "examples": [
+            {
+                "code": "factor_example_his-health-was-a-major-factor-in-his-decision-to-retire",
+                "text": "His health was a major factor in his decision to retire."
+            },
+            {
+                "code": "factor_example_cost-was-the-deciding-factor",
+                "text": "Cost was the deciding factor."
+            },
+            {
+                "code": "factor_example_she-described-the-common-factors-of-both-proposals",
+                "text": "She described the common factors of both proposals."
+            },
+            {
+                "code": "factor_example_many-external-factors-influence-the-process",
+                "text": "Many external factors influence the process."
+            },
+            {
+                "code": "factor_example_he-s-investigating-the-risk-factors-of-this-proposal",
+                "text": "He's investigating the risk factors of this proposal."
+            },
+            {
+                "code": "factor_example_many-environmental-factors-need-to-be-considered",
+                "text": "Many environmental factors need to be considered."
+            },
+            {
+                "code": "factor_example_the-human-factor-in-the-process-cannot-be-ignored",
+                "text": "The human factor in the process cannot be ignored."
+            },
+            {
+                "code": "factor_example_there-are-many-factors-we-need-to-consider",
+                "text": "There are many factors we need to consider."
+            },
+            {
+                "code": "factor_example_the-success-of-this-project-depends-on-a-number-of-factors",
+                "text": "The success of this project depends on a number of factors."
+            },
+            {
+                "code": "factor_example_language-is-just-one-factor-that-influences-success",
+                "text": "Language is just one factor that influences success."
+            },
+            {
+                "code": "factor_example_we-need-to-look-at-the-environmental-factors-that-might-cause-this-problem",
+                "text": "We need to look at the environmental factors that might cause this problem."
+            },
+            {
+                "code": "factor_example_some-possible-factors-include-age-gender-and-intelligence",
+                "text": "Some possible factors include age, gender and intelligence."
+            },
+            {
+                "code": "factor_example_her-age-was-the-primary-factor-in-her-decision",
+                "text": "Her age was the primary factor in her decision."
+            },
+            {
+                "code": "factor_example_we-are-looking-into-the-factors-behind-his-failure",
+                "text": "We are looking into the factors behind his failure."
+            }
+        ]
+    }
+]

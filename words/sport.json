@@ -1,0 +1,78 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a physical activity, often of a competitive nature",
+        "examples": [
+            {
+                "code": "sport_example_he-is-actively-involved-in-high-school-sports",
+                "text": "He is actively involved in high-school sports."
+            },
+            {
+                "code": "sport_example_my-dream-was-to-play-professional-sports",
+                "text": "My dream was to play professional sports."
+            },
+            {
+                "code": "sport_example_i-prefer-active-sports",
+                "text": "I prefer active sports."
+            },
+            {
+                "code": "sport_example_she-plays-lots-of-sports",
+                "text": "She plays lots of sports."
+            },
+            {
+                "code": "sport_example_we-encouraged-our-sons-to-take-up-sports",
+                "text": "We encouraged our sons to take up sports."
+            },
+            {
+                "code": "sport_example_we-need-to-promote-sports-among-the-youth-for-good-physical-health",
+                "text": "We need to promote sports among the youth for good physical health."
+            },
+            {
+                "code": "sport_example_the-city-built-a-new-sports-arena",
+                "text": "The city built a new sports arena."
+            },
+            {
+                "code": "sport_example_i-decided-to-join-the-new-sports-league",
+                "text": "I decided to join the new sports league."
+            },
+            {
+                "code": "sport_example_he-is-the-biggest-sports-fan-in-the-family",
+                "text": "He is the biggest sports fan in the family."
+            },
+            {
+                "code": "sport_example_we-enjoy-watching-the-sports-channel",
+                "text": "We enjoy watching the sports channel."
+            },
+            {
+                "code": "sport_example_she-wants-to-become-a-sports-writer",
+                "text": "She wants to become a sports writer."
+            },
+            {
+                "code": "sport_example_we-need-to-buy-more-sports-equipment",
+                "text": "We need to buy more sports equipment."
+            },
+            {
+                "code": "sport_example_they-re-investigating-the-use-of-drugs-in-sports",
+                "text": "They're investigating the use of drugs in sports."
+            },
+            {
+                "code": "sport_example_we-enjoy-the-sport-of-table-tennis",
+                "text": "We enjoy the sport of table tennis."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to wear proudly",
+        "examples": [
+            {
+                "code": "sport_example_he-is-sporting-a-new-mustache",
+                "text": "He is sporting a new mustache."
+            },
+            {
+                "code": "sport_example_his-car-is-sporting-the-company-s-logo",
+                "text": "His car is sporting the company's logo."
+            }
+        ]
+    }
+]

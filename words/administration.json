@@ -1,0 +1,40 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the process of planning or organizing activities in a company, business, school or government",
+        "examples": [
+            {
+                "code": "administration_example_things-didn-t-work-out-because-of-poor-administration",
+                "text": "Things didn't work out because of poor administration."
+            },
+            {
+                "code": "administration_example_i-work-in-business-administration",
+                "text": "I work in business administration."
+            },
+            {
+                "code": "administration_example_there-is-a-clear-problem-with-the-justice-administration",
+                "text": "There is a clear problem with the justice administration."
+            },
+            {
+                "code": "administration_example_we-expect-positive-change-from-an-efficient-administration",
+                "text": "We expect positive change from an efficient administration."
+            },
+            {
+                "code": "administration_example_i-work-in-the-administration-building",
+                "text": "I work in the administration building."
+            },
+            {
+                "code": "administration_example_do-you-have-an-administration-degree",
+                "text": "Do you have an administration degree?"
+            },
+            {
+                "code": "administration_example_there-is-a-small-administration-fee",
+                "text": "There is a small administration fee."
+            },
+            {
+                "code": "administration_example_there-are-not-many-administration-jobs-right-now",
+                "text": "There are not many administration jobs right now."
+            }
+        ]
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the time when a person is a child",
+        "examples": [
+            {
+                "code": "childhood_example_i-had-a-wonderful-childhood",
+                "text": "I had a wonderful childhood."
+            },
+            {
+                "code": "childhood_example_did-you-have-a-difficult-childhood",
+                "text": "Did you have a difficult childhood?"
+            },
+            {
+                "code": "childhood_example_i-lived-in-new-york-during-my-early-childhood",
+                "text": "I lived in New York during my early childhood."
+            },
+            {
+                "code": "childhood_example_i-want-my-daughter-to-have-a-happy-childhood",
+                "text": "I want my daughter to have a happy childhood."
+            },
+            {
+                "code": "childhood_example_where-did-you-spend-your-childhood",
+                "text": "Where did you spend your childhood?"
+            },
+            {
+                "code": "childhood_example_she-can-t-remember-her-childhood",
+                "text": "She can't remember her childhood."
+            },
+            {
+                "code": "childhood_example_some-children-lose-their-childhood-too-early",
+                "text": "Some children lose their childhood too early."
+            },
+            {
+                "code": "childhood_example_we-often-distort-our-childhood-memories",
+                "text": "We often distort our childhood memories."
+            },
+            {
+                "code": "childhood_example_what-was-your-childhood-fantasy",
+                "text": "What was your childhood fantasy?"
+            },
+            {
+                "code": "childhood_example_he-suffered-from-childhood-abuse",
+                "text": "He suffered from childhood abuse."
+            },
+            {
+                "code": "childhood_example_she-married-her-childhood-friend",
+                "text": "She married her childhood friend."
+            },
+            {
+                "code": "childhood_example_we-sold-our-childhood-home",
+                "text": "We sold our childhood home."
+            },
+            {
+                "code": "childhood_example_he-treats-childhood-diseases",
+                "text": "He treats childhood diseases."
+            },
+            {
+                "code": "childhood_example_she-lost-her-parents-during-early-childhood",
+                "text": "She lost her parents during early childhood."
+            },
+            {
+                "code": "childhood_example_she-has-no-memories-from-her-childhood",
+                "text": "She has no memories from her childhood."
+            },
+            {
+                "code": "childhood_example_he-moved-all-throughout-his-childhood",
+                "text": "He moved all throughout his childhood."
+            }
+        ]
+    }
+]

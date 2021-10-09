@@ -1,0 +1,52 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to say or write in a form of a question to get information",
+        "examples": [
+            {
+                "code": "ask_example_if-you-want-help-please-ask-nicely",
+                "text": "If you want help, please ask nicely."
+            },
+            {
+                "code": "ask_example_i-calmly-asked-if-he-knew-anything-about-the-accident",
+                "text": "I calmly asked if he knew anything about the accident."
+            },
+            {
+                "code": "ask_example_they-nervously-asked-about-the-accident",
+                "text": "They nervously asked about the accident."
+            },
+            {
+                "code": "ask_example_my-son-eagerly-asked-about-his-birthday-present",
+                "text": "My son eagerly asked about his birthday present."
+            },
+            {
+                "code": "ask_example_my-wife-suspiciously-asked-where-i-was-last-night",
+                "text": "My wife suspiciously asked where I was last night."
+            },
+            {
+                "code": "ask_example_i-specifically-asked-for-a-window-seat",
+                "text": "I specifically asked for a window seat."
+            },
+            {
+                "code": "ask_example_i-want-to-ask-you-a-serious-question",
+                "text": "I want to ask you a serious question."
+            },
+            {
+                "code": "ask_example_i-dare-you-to-ask-her-out-on-a-date",
+                "text": "I dare you to ask her out on a date."
+            },
+            {
+                "code": "ask_example_you-forgot-to-ask-the-important-question",
+                "text": "You forgot to ask the important question."
+            },
+            {
+                "code": "ask_example_i-asked-about-his-childhood",
+                "text": "I asked about his childhood."
+            },
+            {
+                "code": "ask_example_do-not-ask-him-for-money",
+                "text": "Do not ask him for money."
+            }
+        ]
+    }
+]

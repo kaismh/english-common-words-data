@@ -1,0 +1,80 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "making you laugh or amused; strange or unusual",
+        "examples": [
+            {
+                "code": "funny_example_he-is-extremely-funny",
+                "text": "He is extremely funny."
+            },
+            {
+                "code": "funny_example_his-performance-was-hysterically-funny",
+                "text": "His performance was hysterically funny."
+            },
+            {
+                "code": "funny_example_she-is-surprisingly-funny",
+                "text": "She is surprisingly funny."
+            },
+            {
+                "code": "funny_example_this-situation-is-almost-funny",
+                "text": "This situation is almost funny."
+            },
+            {
+                "code": "funny_example_that-s-a-very-funny-question-to-ask",
+                "text": "That's a very funny question to ask."
+            },
+            {
+                "code": "funny_example_this-situation-seems-a-little-funny-to-me",
+                "text": "This situation seems a little funny to me."
+            },
+            {
+                "code": "funny_example_she-told-me-a-funny-story-about-when-she-was-in-college",
+                "text": "She told me a funny story about when she was in college."
+            },
+            {
+                "code": "funny_example_that-s-a-funny-coincidence",
+                "text": "That's a funny coincidence."
+            },
+            {
+                "code": "funny_example_that-was-a-really-funny-show",
+                "text": "That was a really funny show."
+            },
+            {
+                "code": "funny_example_i-have-a-funny-feeling-about-this",
+                "text": "I have a funny feeling about this."
+            },
+            {
+                "code": "funny_example_she-gave-me-a-funny-look",
+                "text": "She gave me a funny look."
+            },
+            {
+                "code": "funny_example_there-s-a-funny-smell-coming-from-that-room",
+                "text": "There's a funny smell coming from that room."
+            },
+            {
+                "code": "funny_example_i-just-heard-a-funny-sound-outside",
+                "text": "I just heard a funny sound outside."
+            },
+            {
+                "code": "funny_example_she-has-a-funny-voice",
+                "text": "She has a funny voice."
+            },
+            {
+                "code": "funny_example_this-show-is-really-funny",
+                "text": "This show is really funny."
+            },
+            {
+                "code": "funny_example_this-movie-gets-funnier-every-time-i-watch-it",
+                "text": "This movie gets funnier every time I watch it."
+            },
+            {
+                "code": "funny_example_i-find-it-funny-that-she-never-mentioned-you-before",
+                "text": "I find it funny that she never mentioned you before."
+            },
+            {
+                "code": "funny_example_does-this-smell-funny-to-you",
+                "text": "Does this smell funny to you?"
+            }
+        ]
+    }
+]

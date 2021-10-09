@@ -1,0 +1,82 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to go from one place to another",
+        "examples": [
+            {
+                "code": "travel_example_he-travels-regularly-for-business",
+                "text": "He travels regularly for business."
+            },
+            {
+                "code": "travel_example_they-like-to-travel-separately",
+                "text": "They like to travel separately."
+            },
+            {
+                "code": "travel_example_we-can-travel-freely-without-kids",
+                "text": "We can travel freely without kids."
+            },
+            {
+                "code": "travel_example_news-travels-fast-around-here",
+                "text": "News travels fast around here."
+            },
+            {
+                "code": "travel_example_they-travelled-by-train",
+                "text": "They travelled by train."
+            },
+            {
+                "code": "travel_example_the-movie-star-travels-with-her-body-guard",
+                "text": "The movie star travels with her body guard."
+            },
+            {
+                "code": "travel_example_the-students-are-traveling-through-europe",
+                "text": "The students are traveling through Europe."
+            }
+        ]
+    },
+    {
+        "type": "(n)",
+        "mean": "the act of going from one place to another",
+        "examples": [
+            {
+                "code": "travel_example_air-travel-has-become-very-expensive",
+                "text": "Air travel has become very expensive."
+            },
+            {
+                "code": "travel_example_her-business-requires-much-domestic-travel",
+                "text": "Her business requires much domestic travel."
+            },
+            {
+                "code": "travel_example_i-do-not-do-well-with-long-distance-travel",
+                "text": "I do not do well with long-distance travel."
+            },
+            {
+                "code": "travel_example_we-reserved-our-tickets-with-a-travel-agent",
+                "text": "We reserved our tickets with a travel agent."
+            },
+            {
+                "code": "travel_example_i-recommend-getting-travel-insurance-in-case-of-an-emergency",
+                "text": "I recommend getting travel insurance in case of an emergency."
+            },
+            {
+                "code": "travel_example_we-picked-up-some-travel-brochures-at-the-agency",
+                "text": "We picked up some travel brochures at the agency."
+            },
+            {
+                "code": "travel_example_what-are-your-travel-plans",
+                "text": "What are your travel plans?"
+            },
+            {
+                "code": "travel_example_where-is-your-travel-destination",
+                "text": "Where is your travel destination?"
+            },
+            {
+                "code": "travel_example_what-is-the-travel-time",
+                "text": "What is the travel time?"
+            },
+            {
+                "code": "travel_example_don-t-forget-your-travel-documents",
+                "text": "Don't forget your travel documents."
+            }
+        ]
+    }
+]

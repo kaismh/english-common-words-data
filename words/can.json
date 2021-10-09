@@ -1,0 +1,126 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to be able to",
+        "examples": [
+            {
+                "code": "can_example_my-daughter-can-drive-a-car",
+                "text": "My daughter can drive a car."
+            },
+            {
+                "code": "can_example_john-can-speak-several-different-languages",
+                "text": "John can speak several different languages."
+            },
+            {
+                "code": "can_example_i-can-do-it-by-myself",
+                "text": "I can do it by myself."
+            },
+            {
+                "code": "can_example_we-can-go-to-the-party",
+                "text": "We can go to the party."
+            },
+            {
+                "code": "can_example_he-can-eat-spicy-food",
+                "text": "He can eat spicy food."
+            },
+            {
+                "code": "can_example_i-can-hold-my-breath-for-a-long-time",
+                "text": "I can hold my breath for a long time."
+            },
+            {
+                "code": "can_example_i-can-jump-really-high",
+                "text": "I can jump really high."
+            },
+            {
+                "code": "can_example_i-can-make-a-snowflake-out-of-paper",
+                "text": "I can make a snowflake out of paper."
+            },
+            {
+                "code": "can_example_she-can-swim-across-the-lake",
+                "text": "She can swim across the lake."
+            },
+            {
+                "code": "can_example_i-can-hit-the-ball-over-the-fence",
+                "text": "I can hit the ball over the fence."
+            },
+            {
+                "code": "can_example_they-can-understand-what-we-re-saying",
+                "text": "They can understand what we're saying."
+            },
+            {
+                "code": "can_example_women-can-vote-now",
+                "text": "Women can vote now."
+            },
+            {
+                "code": "can_example_i-can-walk-up-the-stairs",
+                "text": "I can walk up the stairs."
+            },
+            {
+                "code": "can_example_i-can-visit-you-next-year",
+                "text": "I can visit you next year."
+            },
+            {
+                "code": "can_example_i-can-travel-all-over-the-world",
+                "text": "I can travel all over the world."
+            },
+            {
+                "code": "can_example_my-son-can-count-to-1000",
+                "text": "My son can count to 1000."
+            }
+        ]
+    },
+    {
+        "type": "(n)",
+        "mean": "a metal, cylindrical container",
+        "examples": [
+            {
+                "code": "can_example_the-soup-is-in-an-aluminum-can",
+                "text": "The soup is in an aluminum can."
+            },
+            {
+                "code": "can_example_recycle-the-empty-cans",
+                "text": "Recycle the empty cans."
+            },
+            {
+                "code": "can_example_we-keep-a-gas-can-in-the-garage",
+                "text": "We keep a gas can in the garage."
+            },
+            {
+                "code": "can_example_we-have-many-different-paint-cans-in-the-garage",
+                "text": "We have many different paint cans in the garage."
+            },
+            {
+                "code": "can_example_don-t-forget-to-take-the-garbage-can-out",
+                "text": "Don't forget to take the garbage can out."
+            },
+            {
+                "code": "can_example_diced-tomatoes-come-in-a-can",
+                "text": "Diced tomatoes come in a can."
+            },
+            {
+                "code": "can_example_we-opened-a-can-of-soda",
+                "text": "We opened a can of soda."
+            },
+            {
+                "code": "can_example_make-sure-to-drain-all-of-the-cans-before-recycling-them",
+                "text": "Make sure to drain all of the cans before recycling them."
+            },
+            {
+                "code": "can_example_don-t-forget-to-recycle-your-metal-cans",
+                "text": "Don't forget to recycle your metal cans."
+            },
+            {
+                "code": "can_example_does-anyone-have-a-can-opener",
+                "text": "Does anyone have a can opener?"
+            },
+            {
+                "code": "can_example_i-want-a-can-of-soda",
+                "text": "I want a can of soda."
+            },
+            {
+                "code": "can_example_i-threw-it-in-the-garbage-can",
+                "text": "I threw it in the garbage can."
+            }
+        ]
+    }
+]

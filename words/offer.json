@@ -1,0 +1,186 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to suggest; to give; to say you are willing to do something or give something",
+        "examples": [
+            {
+                "code": "offer_example_we-are-prepared-to-offer-a-generous-deal",
+                "text": "We are prepared to offer a generous deal."
+            },
+            {
+                "code": "offer_example_they-have-nothing-to-offer",
+                "text": "They have nothing to offer."
+            },
+            {
+                "code": "offer_example_the-college-offers-many-courses",
+                "text": "The college offers many courses."
+            },
+            {
+                "code": "offer_example_the-hotel-offered-a-lot-of-amenities",
+                "text": "The hotel offered a lot of amenities."
+            },
+            {
+                "code": "offer_example_the-menu-offers-lots-of-choices",
+                "text": "The menu offers lots of choices."
+            },
+            {
+                "code": "offer_example_i-offered-him-my-condolences",
+                "text": "I offered him my condolences."
+            },
+            {
+                "code": "offer_example_i-was-offered-access-to-the-site",
+                "text": "I was offered access to the site."
+            },
+            {
+                "code": "offer_example_he-offered-me-advice",
+                "text": "He offered me advice."
+            },
+            {
+                "code": "offer_example_we-offered-our-expertise",
+                "text": "We offered our expertise."
+            },
+            {
+                "code": "offer_example_i-offered-a-critique",
+                "text": "I offered a critique."
+            },
+            {
+                "code": "offer_example_my-job-offered-insurance",
+                "text": "My job offered insurance."
+            },
+            {
+                "code": "offer_example_i-tried-to-offer-her-more-information",
+                "text": "I tried to offer her more information."
+            },
+            {
+                "code": "offer_example_the-shop-offers-different-types-of-candles",
+                "text": "The shop offers different types of candles."
+            },
+            {
+                "code": "offer_example_the-menu-offers-a-variety-of-dishes",
+                "text": "The menu offers a variety of dishes."
+            },
+            {
+                "code": "offer_example_he-offered-me-a-seat",
+                "text": "He offered me a seat."
+            },
+            {
+                "code": "offer_example_i-offered-him-counseling",
+                "text": "I offered him counseling."
+            },
+            {
+                "code": "offer_example_the-company-offered-a-contribution",
+                "text": "The company offered a contribution."
+            },
+            {
+                "code": "offer_example_he-offered-evidence-at-the-trial",
+                "text": "He offered evidence at the trial."
+            },
+            {
+                "code": "offer_example_the-college-offered-a-seminar",
+                "text": "The college offered a seminar."
+            },
+            {
+                "code": "offer_example_they-offered-an-example",
+                "text": "They offered an example."
+            },
+            {
+                "code": "offer_example_i-was-offered-a-job-recently",
+                "text": "I was offered a job recently."
+            },
+            {
+                "code": "offer_example_he-offered-us-a-ride",
+                "text": "He offered us a ride."
+            },
+            {
+                "code": "offer_example_we-offered-them-shelter",
+                "text": "We offered them shelter."
+            },
+            {
+                "code": "offer_example_they-were-offered-many-pointers",
+                "text": "They were offered many pointers."
+            },
+            {
+                "code": "offer_example_she-offered-me-a-pardon",
+                "text": "She offered me a pardon."
+            },
+            {
+                "code": "offer_example_he-offered-support-to-us",
+                "text": "He offered support to us."
+            },
+            {
+                "code": "offer_example_she-kindly-offered-to-help-him-with-his-homework",
+                "text": "She kindly offered to help him with his homework."
+            },
+            {
+                "code": "offer_example_he-offered-his-help-to-the-students",
+                "text": "He offered his help to the students ."
+            },
+            {
+                "code": "offer_example_i-offered-him-1000-for-the-car",
+                "text": "I offered him $1,000 for the car."
+            }
+        ]
+    },
+    {
+        "type": "(n)",
+        "mean": "the act of saying you are willing to do something or give something; the amount of money that someone is willing to pay for something",
+        "examples": [
+            {
+                "code": "offer_example_we-matched-their-initial-offer",
+                "text": "We matched their initial offer."
+            },
+            {
+                "code": "offer_example_he-declined-my-offer",
+                "text": "He declined my offer."
+            },
+            {
+                "code": "offer_example_we-received-an-offer-for-the-house",
+                "text": "We received an offer for the house."
+            },
+            {
+                "code": "offer_example_i-increased-my-offer-to-buy-the-car",
+                "text": "I increased my offer to buy the car."
+            },
+            {
+                "code": "offer_example_this-is-a-reasonable-offer",
+                "text": "This is a reasonable offer."
+            },
+            {
+                "code": "offer_example_this-is-my-last-offer",
+                "text": "This is my last offer."
+            },
+            {
+                "code": "offer_example_we-took-his-introductory-offer",
+                "text": "We took his introductory offer."
+            },
+            {
+                "code": "offer_example_we-made-a-formal-offer",
+                "text": "We made a formal offer."
+            },
+            {
+                "code": "offer_example_i-got-a-few-job-offers",
+                "text": "I got a few job offers."
+            },
+            {
+                "code": "offer_example_that-s-a-tempting-offer-but-i-have-to-decline",
+                "text": "That's a tempting offer, but I have to decline."
+            },
+            {
+                "code": "offer_example_what-is-the-offer-price-on-the-house",
+                "text": "What is the offer price on the house?"
+            },
+            {
+                "code": "offer_example_he-made-an-offer-for-the-house",
+                "text": "He made an offer for the house."
+            },
+            {
+                "code": "offer_example_he-rejected-our-offer-of-5000",
+                "text": "He rejected our offer of $5000."
+            },
+            {
+                "code": "offer_example_i-received-a-job-offer-from-a-big-law-firm",
+                "text": "I received a job offer from a big law firm."
+            }
+        ]
+    }
+]

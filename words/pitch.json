@@ -1,0 +1,70 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to throw a baseball; to suggest an idea; to set up",
+        "examples": [
+            {
+                "code": "pitch_example_he-pitched-his-idea-to-his-boss",
+                "text": "He pitched his idea to his boss."
+            },
+            {
+                "code": "pitch_example_he-pitched-the-ball-three-times",
+                "text": "He pitched the ball three times."
+            },
+            {
+                "code": "pitch_example_they-pitched-their-tent-by-the-river",
+                "text": "They pitched their tent by the river."
+            },
+            {
+                "code": "pitch_example_he-has-pitched-well-this-season",
+                "text": "He has pitched well this season."
+            },
+            {
+                "code": "pitch_example_she-successfully-pitched-her-idea-to-the-boss",
+                "text": "She successfully pitched her idea to the boss."
+            },
+            {
+                "code": "pitch_example_he-pitches-for-our-baseball-team",
+                "text": "He pitches for our baseball team."
+            },
+            {
+                "code": "pitch_example_he-pitched-a-great-idea-to-the-company",
+                "text": "He pitched a great idea to the company."
+            }
+        ]
+    },
+    {
+        "type": "(n)",
+        "mean": "the act of throwing a baseball; a musical tone; a talk by someone who is trying to sell something",
+        "examples": [
+            {
+                "code": "pitch_example_he-threw-the-first-pitch",
+                "text": "He threw the first pitch."
+            },
+            {
+                "code": "pitch_example_her-pitch-changes-during-the-song",
+                "text": "Her pitch changes during the song."
+            },
+            {
+                "code": "pitch_example_she-delivered-a-great-sales-pitch",
+                "text": "She delivered a great sales pitch."
+            },
+            {
+                "code": "pitch_example_she-sang-at-a-high-pitch",
+                "text": "She sang at a high pitch."
+            },
+            {
+                "code": "pitch_example_the-violinist-has-perfect-pitch",
+                "text": "The violinist has perfect pitch."
+            },
+            {
+                "code": "pitch_example_we-listened-to-his-sales-pitch",
+                "text": "We listened to his sales pitch."
+            },
+            {
+                "code": "pitch_example_he-delivered-a-strong-sales-pitch-to-the-company",
+                "text": "He delivered a strong sales pitch to the company."
+            }
+        ]
+    }
+]

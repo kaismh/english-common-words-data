@@ -1,0 +1,28 @@
+[
+    {
+        "type": "(adv)",
+        "mean": "in the manner of believing what you want will happen",
+        "examples": [
+            {
+                "code": "hopefully_example_he-asked-her-out-on-a-date-hopefully",
+                "text": "He asked her out on a date hopefully."
+            },
+            {
+                "code": "hopefully_example_things-will-hopefully-get-better",
+                "text": "Things will hopefully get better."
+            },
+            {
+                "code": "hopefully_example_hopefully-she-will-recover",
+                "text": "Hopefully, she will recover."
+            },
+            {
+                "code": "hopefully_example_they-looked-at-us-hopefully",
+                "text": "They looked at us hopefully."
+            },
+            {
+                "code": "hopefully_example_hopefully-things-will-return-to-normal-soon",
+                "text": "Hopefully, things will return to normal soon."
+            }
+        ]
+    }
+]

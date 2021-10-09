@@ -1,0 +1,62 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to attach something; to hold someone is position",
+        "examples": [
+            {
+                "code": "pin_example_she-carefully-pinned-the-ribbon-on-the-winner",
+                "text": "She carefully pinned the ribbon on the winner."
+            },
+            {
+                "code": "pin_example_she-pinned-the-fabric-together",
+                "text": "She pinned the fabric together."
+            },
+            {
+                "code": "pin_example_she-pinned-back-her-hair",
+                "text": "She pinned back her hair."
+            },
+            {
+                "code": "pin_example_he-was-pinned-down-until-the-police-arrived",
+                "text": "He was pinned down until the police arrived."
+            },
+            {
+                "code": "pin_example_she-was-helplessly-pinned-between-the-cars",
+                "text": "She was helplessly pinned between the cars."
+            },
+            {
+                "code": "pin_example_pin-the-paper-to-the-board",
+                "text": "Pin the paper to the board."
+            }
+        ]
+    },
+    {
+        "type": "(n)",
+        "mean": "a thin sharp piece of metal; a piece of jewelry attached to clothes",
+        "examples": [
+            {
+                "code": "pin_example_she-wore-a-silver-pin",
+                "text": "She wore a silver pin."
+            },
+            {
+                "code": "pin_example_she-keeps-her-hair-up-with-bobby-pins",
+                "text": "She keeps her hair up with bobby pins."
+            },
+            {
+                "code": "pin_example_they-put-notes-on-the-bulletin-board-with-pushpins",
+                "text": "They put notes on the bulletin board with pushpins."
+            },
+            {
+                "code": "pin_example_the-diaper-was-held-together-with-safety-pins",
+                "text": "The diaper was held together with safety pins."
+            },
+            {
+                "code": "pin_example_my-aunt-gave-me-a-diamond-pin",
+                "text": "My aunt gave me a diamond pin."
+            },
+            {
+                "code": "pin_example_she-hung-the-sheets-with-clothes-pins",
+                "text": "She hung the sheets with clothes pins."
+            }
+        ]
+    }
+]

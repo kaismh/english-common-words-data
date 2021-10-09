@@ -1,0 +1,102 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a place to sit down; something to sit on",
+        "examples": [
+            {
+                "code": "seat_example_there-were-no-empty-seats-in-the-theater",
+                "text": "There were no empty seats in the theater."
+            },
+            {
+                "code": "seat_example_this-gym-has-comfortable-seats",
+                "text": "This gym has comfortable seats."
+            },
+            {
+                "code": "seat_example_i-like-the-leather-seats-in-this-car",
+                "text": "I like the leather seats in this car."
+            },
+            {
+                "code": "seat_example_i-always-try-to-get-a-window-seat-on-the-airplane",
+                "text": "I always try to get a window seat on the airplane."
+            },
+            {
+                "code": "seat_example_i-got-good-seats-to-the-game",
+                "text": "I got good seats to the game."
+            },
+            {
+                "code": "seat_example_i-like-to-sit-in-the-front-seat-of-the-car",
+                "text": "I like to sit in the front seat of the car."
+            },
+            {
+                "code": "seat_example_please-take-a-seat",
+                "text": "Please take a seat."
+            },
+            {
+                "code": "seat_example_we-need-to-book-a-seat-for-tonight-s-show",
+                "text": "We need to book a seat for tonight's show."
+            },
+            {
+                "code": "seat_example_please-return-to-your-seats",
+                "text": "Please return to your seats."
+            },
+            {
+                "code": "seat_example_the-young-man-offered-his-seat-to-the-elderly-lady",
+                "text": "The young man offered his seat to the elderly lady."
+            },
+            {
+                "code": "seat_example_i-purchased-seat-covers-for-my-chairs",
+                "text": "I purchased seat covers for my chairs."
+            },
+            {
+                "code": "seat_example_the-man-in-the-front-seat-is-giving-directions",
+                "text": "The man in the front seat is giving directions."
+            },
+            {
+                "code": "seat_example_she-placed-her-purse-on-the-seat",
+                "text": "She placed her purse on the seat."
+            },
+            {
+                "code": "seat_example_he-jumped-out-of-his-seat-when-he-saw-his-daughter",
+                "text": "He jumped out of his seat when he saw his daughter."
+            },
+            {
+                "code": "seat_example_we-got-front-row-seats-for-the-concert",
+                "text": "We got front row seats for the concert."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to sit down; to give someone a place to sit down",
+        "examples": [
+            {
+                "code": "seat_example_the-car-comfortably-seats-seven-passengers",
+                "text": "The car comfortably seats seven passengers."
+            },
+            {
+                "code": "seat_example_my-dad-was-seated-in-his-favorite-chair",
+                "text": "My dad was seated in his favorite chair."
+            },
+            {
+                "code": "seat_example_we-were-seated-at-a-table-overlooking-the-ocean",
+                "text": "We were seated at a table overlooking the ocean."
+            },
+            {
+                "code": "seat_example_we-seated-ourselves-on-the-sofa",
+                "text": "We seated ourselves on the sofa."
+            },
+            {
+                "code": "seat_example_the-dining-room-seats-eight-people",
+                "text": "The dining room seats eight people."
+            },
+            {
+                "code": "seat_example_the-arena-seats-hundreds-of-people",
+                "text": "The arena seats hundreds of people."
+            },
+            {
+                "code": "seat_example_the-place-seats-many-guests",
+                "text": "The place seats many guests."
+            }
+        ]
+    }
+]

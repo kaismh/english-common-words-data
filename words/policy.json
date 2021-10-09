@@ -1,0 +1,100 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a plan that people use to help make decisions; a written contract with an insurance company",
+        "examples": [
+            {
+                "code": "policy_example_he-strictly-enforces-the-policy",
+                "text": "He strictly enforces the policy."
+            },
+            {
+                "code": "policy_example_we-have-a-strict-no-smoking-policy",
+                "text": "We have a strict no smoking policy."
+            },
+            {
+                "code": "policy_example_our-policy-prohibits-dogs",
+                "text": "Our policy prohibits dogs."
+            },
+            {
+                "code": "policy_example_they-have-designed-an-effective-policy-on-private-spending",
+                "text": "They have designed an effective policy on private spending."
+            },
+            {
+                "code": "policy_example_we-support-the-school-policy-on-expelling-bullies",
+                "text": "We support the school policy on expelling bullies."
+            },
+            {
+                "code": "policy_example_this-policy-affects-all-of-the-employees",
+                "text": "This policy affects all of the employees."
+            },
+            {
+                "code": "policy_example_our-insurance-policy-expires-tomorrow",
+                "text": "Our insurance policy expires tomorrow."
+            },
+            {
+                "code": "policy_example_my-policy-doesn-t-cover-dental-procedures",
+                "text": "My policy doesn't cover dental procedures."
+            },
+            {
+                "code": "policy_example_she-took-out-a-life-insurance-policy-before-she-died",
+                "text": "She took out a life insurance policy before she died."
+            },
+            {
+                "code": "policy_example_he-is-one-of-the-policy-makers",
+                "text": "He is one of the policy makers."
+            },
+            {
+                "code": "policy_example_i-support-policy-change",
+                "text": "I support policy change."
+            },
+            {
+                "code": "policy_example_i-am-a-policy-holder",
+                "text": "I am a policy holder."
+            },
+            {
+                "code": "policy_example_our-company-has-a-new-policy",
+                "text": "Our company has a new policy."
+            },
+            {
+                "code": "policy_example_company-policy-allows-it",
+                "text": "Company policy allows it."
+            },
+            {
+                "code": "policy_example_they-have-a-clear-policy-of-no-smoking-in-the-building",
+                "text": "They have a clear policy of no smoking in the building."
+            },
+            {
+                "code": "policy_example_they-established-an-effective-policy-on-reducing-government-spending",
+                "text": "They established an effective policy on reducing government spending."
+            },
+            {
+                "code": "policy_example_the-school-has-a-zero-tolerance-policy-on-drugs",
+                "text": "The school has a zero-tolerance policy on drugs."
+            },
+            {
+                "code": "policy_example_my-auto-policy-is-not-very-expensive",
+                "text": "My auto policy is not very expensive."
+            },
+            {
+                "code": "policy_example_the-government-instituted-a-new-economic-policy",
+                "text": "The government instituted a new economic policy."
+            },
+            {
+                "code": "policy_example_we-have-a-policy-of-not-allowing-dogs-inside-the-store",
+                "text": "We have a policy of not allowing dogs inside the store."
+            },
+            {
+                "code": "policy_example_the-landlord-s-policy-on-dogs-is-very-firm",
+                "text": "The landlord's policy on dogs is very firm."
+            },
+            {
+                "code": "policy_example_you-can-find-the-coverage-information-in-the-policy",
+                "text": "You can find the coverage information in the policy."
+            },
+            {
+                "code": "policy_example_is-collision-coverage-covered-under-the-policy",
+                "text": "Is collision coverage covered under the policy?"
+            }
+        ]
+    }
+]

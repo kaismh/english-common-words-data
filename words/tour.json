@@ -1,0 +1,98 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a trip or short visit",
+        "examples": [
+            {
+                "code": "tour_example_they-went-on-a-sightseeing-tour-of-europe",
+                "text": "They went on a sightseeing tour of Europe."
+            },
+            {
+                "code": "tour_example_the-administrator-gave-us-a-short-tour-of-the-campus",
+                "text": "The administrator gave us a short tour of the campus."
+            },
+            {
+                "code": "tour_example_the-hostess-gave-us-a-grand-tour-of-her-new-house",
+                "text": "The hostess gave us a grand tour of her new house."
+            },
+            {
+                "code": "tour_example_the-couple-took-a-romantic-tour-of-france",
+                "text": "The couple took a romantic tour of France."
+            },
+            {
+                "code": "tour_example_please-give-us-a-tour-of-your-lovely-home",
+                "text": "Please give us a tour of your lovely home."
+            },
+            {
+                "code": "tour_example_the-travel-agent-arranged-a-three-city-tour",
+                "text": "The travel agent arranged a three-city tour."
+            },
+            {
+                "code": "tour_example_the-supervisor-offered-a-tour-of-the-factory",
+                "text": "The supervisor offered a tour of the factory."
+            },
+            {
+                "code": "tour_example_the-guide-led-a-great-tour-of-the-old-city",
+                "text": "The guide led a great tour of the old city."
+            },
+            {
+                "code": "tour_example_i-made-a-quick-tour-of-the-college-campus",
+                "text": "I made a quick tour of the college campus."
+            },
+            {
+                "code": "tour_example_please-stay-with-your-tour-group",
+                "text": "Please stay with your tour group."
+            },
+            {
+                "code": "tour_example_your-tour-guide-will-give-you-all-of-the-details",
+                "text": "Your tour guide will give you all of the details."
+            },
+            {
+                "code": "tour_example_the-musicians-travelled-by-tour-bus",
+                "text": "The musicians travelled by tour bus."
+            },
+            {
+                "code": "tour_example_do-you-have-your-tour-schedule",
+                "text": "Do you have your tour schedule?"
+            },
+            {
+                "code": "tour_example_he-met-his-wife-on-a-tour-of-italy",
+                "text": "He met his wife on a tour of Italy."
+            },
+            {
+                "code": "tour_example_i-would-like-to-take-a-tour-of-asia-someday",
+                "text": "I would like to take a tour of Asia someday."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to travel or make a short visit; to travel around various cities and perform in concerts",
+        "examples": [
+            {
+                "code": "tour_example_he-will-tour-extensively-for-one-year",
+                "text": "He will tour extensively for one year."
+            },
+            {
+                "code": "tour_example_he-has-toured-globally-throughout-his-career",
+                "text": "He has toured globally throughout his career."
+            },
+            {
+                "code": "tour_example_she-is-currently-touring-europe-with-friends",
+                "text": "She is currently touring Europe with friends."
+            },
+            {
+                "code": "tour_example_they-will-be-touring-around-the-united-states",
+                "text": "They will be touring around the United States."
+            },
+            {
+                "code": "tour_example_she-is-currently-touring-with-her-rock-star-husband",
+                "text": "She is currently touring with her rock star husband."
+            },
+            {
+                "code": "tour_example_she-has-toured-in-most-parts-of-asia",
+                "text": "She has toured in most parts of Asia."
+            }
+        ]
+    }
+]

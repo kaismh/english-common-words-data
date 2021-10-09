@@ -1,0 +1,44 @@
+[
+    {
+        "type": "(adv)",
+        "mean": "maybe",
+        "examples": [
+            {
+                "code": "possibly_example_i-can-t-possibly-prevent-that",
+                "text": "I can't possibly prevent that."
+            },
+            {
+                "code": "possibly_example_could-you-possibly-imagine-what-would-happen",
+                "text": "Could you possibly imagine what would happen?"
+            },
+            {
+                "code": "possibly_example_it-could-possibly-happen-overnight",
+                "text": "It could possibly happen overnight."
+            },
+            {
+                "code": "possibly_example_she-could-possibly-recover-sooner-than-predicted",
+                "text": "She could possibly recover sooner than predicted."
+            },
+            {
+                "code": "possibly_example_could-you-possibly-finish-it-by-tomorrow",
+                "text": "Could you possibly finish it by tomorrow?"
+            },
+            {
+                "code": "possibly_example_that-is-a-possibly-fatal-dose",
+                "text": "That is a possibly fatal dose."
+            },
+            {
+                "code": "possibly_example_the-evidence-is-possibly-damaging-to-his-career",
+                "text": "The evidence is possibly damaging to his career."
+            },
+            {
+                "code": "possibly_example_that-is-possibly-illegal",
+                "text": "That is possibly illegal."
+            },
+            {
+                "code": "possibly_example_recovering-the-stolen-items-is-possibly-unlikely",
+                "text": "Recovering the stolen items is possibly unlikely."
+            }
+        ]
+    }
+]

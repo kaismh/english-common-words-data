@@ -1,0 +1,84 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the recording of moving pictures and sound",
+        "examples": [
+            {
+                "code": "video_example_the-children-enjoy-watching-home-videos",
+                "text": "The children enjoy watching home videos."
+            },
+            {
+                "code": "video_example_he-produces-music-videos",
+                "text": "He produces music videos."
+            },
+            {
+                "code": "video_example_we-are-watching-live-video-of-the-event",
+                "text": "We are watching live video of the event."
+            },
+            {
+                "code": "video_example_she-accidentally-erased-her-wedding-video",
+                "text": "She accidentally erased her wedding video."
+            },
+            {
+                "code": "video_example_he-made-a-video-of-people-s-funniest-moments",
+                "text": "He made a video of people's funniest moments."
+            },
+            {
+                "code": "video_example_we-are-renting-a-video-for-family-movie-night",
+                "text": "We are renting a video for family movie night."
+            },
+            {
+                "code": "video_example_we-caught-the-moment-on-video",
+                "text": "We caught the moment on video."
+            },
+            {
+                "code": "video_example_we-watched-the-video-of-the-earthquake-on-the-news",
+                "text": "We watched the video of the earthquake on the news."
+            },
+            {
+                "code": "video_example_he-is-directing-the-rock-band-s-first-video",
+                "text": "He is directing the rock band's first video."
+            },
+            {
+                "code": "video_example_they-aired-the-music-video",
+                "text": "They aired the music video."
+            },
+            {
+                "code": "video_example_play-the-video",
+                "text": "Play the video."
+            },
+            {
+                "code": "video_example_we-need-a-new-video-camera",
+                "text": "We need a new video camera."
+            },
+            {
+                "code": "video_example_we-watched-video-footage-of-the-crime",
+                "text": "We watched video footage of the crime."
+            },
+            {
+                "code": "video_example_my-son-loves-playing-video-games",
+                "text": "My son loves playing video games."
+            },
+            {
+                "code": "video_example_we-used-to-go-to-the-video-arcade-when-we-were-kids",
+                "text": "We used to go to the video arcade when we were kids."
+            },
+            {
+                "code": "video_example_look-at-the-video-screen",
+                "text": "Look at the video screen."
+            },
+            {
+                "code": "video_example_the-music-group-is-doing-a-video-shoot",
+                "text": "The music group is doing a video shoot."
+            },
+            {
+                "code": "video_example_he-watched-a-video-about-animal-cruelty",
+                "text": "He watched a video about animal cruelty."
+            },
+            {
+                "code": "video_example_they-made-a-video-of-their-wedding",
+                "text": "They made a video of their wedding."
+            }
+        ]
+    }
+]

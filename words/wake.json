@@ -1,0 +1,74 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to stop sleeping; to make someone stop sleeping",
+        "examples": [
+            {
+                "code": "wake_example_she-had-woken-early-today",
+                "text": "She had woken early today."
+            },
+            {
+                "code": "wake_example_she-had-suddenly-woken",
+                "text": "She had suddenly woken."
+            },
+            {
+                "code": "wake_example_she-gently-wakes-him-every-morning",
+                "text": "She gently wakes him every morning."
+            },
+            {
+                "code": "wake_example_he-woke-up-from-a-deep-sleep",
+                "text": "He woke up from a deep sleep."
+            },
+            {
+                "code": "wake_example_i-wake-up-at-six-o-clock-every-morning",
+                "text": "I wake up at six o'clock every morning."
+            },
+            {
+                "code": "wake_example_he-woke-up-to-the-sound-of-his-alarm-clock",
+                "text": "He woke up to the sound of his alarm clock."
+            },
+            {
+                "code": "wake_example_please-wake-me-when-you-leave",
+                "text": "Please wake me when you leave."
+            },
+            {
+                "code": "wake_example_she-wakes-up-very-early",
+                "text": "She wakes up very early."
+            },
+            {
+                "code": "wake_example_nothing-can-wake-him-up-when-he-s-in-a-deep-sleep",
+                "text": "Nothing can wake him up when he's in a deep sleep."
+            },
+            {
+                "code": "wake_example_his-snoring-can-wake-the-dead",
+                "text": "His snoring can wake the dead."
+            },
+            {
+                "code": "wake_example_please-do-not-wake-up-of-the-sleeping-baby",
+                "text": "Please do not wake up of the sleeping baby."
+            }
+        ]
+    },
+    {
+        "type": "(n)",
+        "mean": "the time to pay your respects to a deceased person before the burial",
+        "examples": [
+            {
+                "code": "wake_example_many-people-attended-the-wake",
+                "text": "Many people attended the wake."
+            },
+            {
+                "code": "wake_example_we-have-to-make-arrangements-for-the-wake",
+                "text": "We have to make arrangements for the wake."
+            },
+            {
+                "code": "wake_example_they-were-very-emotional-at-the-wake",
+                "text": "They were very emotional at the wake."
+            },
+            {
+                "code": "wake_example_everyone-was-crying-at-the-wake",
+                "text": "Everyone was crying at the wake."
+            }
+        ]
+    }
+]

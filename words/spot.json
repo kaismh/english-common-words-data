@@ -1,0 +1,82 @@
+[
+    {
+        "type": "(n)",
+        "mean": "small mark; a particular place or area",
+        "examples": [
+            {
+                "code": "spot_example_she-refers-to-her-mole-as-a-beauty-spot",
+                "text": "She refers to her mole as a beauty spot."
+            },
+            {
+                "code": "spot_example_we-found-dark-spots-on-the-wall",
+                "text": "We found dark spots on the wall."
+            },
+            {
+                "code": "spot_example_my-mother-is-starting-to-get-liver-spots-on-her-hands",
+                "text": "My mother is starting to get liver spots on her hands."
+            },
+            {
+                "code": "spot_example_we-found-a-good-spot-to-have-a-picnic",
+                "text": "We found a good spot to have a picnic."
+            },
+            {
+                "code": "spot_example_she-wanted-me-to-wait-for-her-at-this-exact-spot",
+                "text": "She wanted me to wait for her at this exact spot."
+            },
+            {
+                "code": "spot_example_this-is-a-beautiful-spot-to-relax-and-enjoy-the-sun",
+                "text": "This is a beautiful spot to relax and enjoy the sun."
+            },
+            {
+                "code": "spot_example_the-park-is-a-popular-spot-for-kids",
+                "text": "The park is a popular spot for kids."
+            },
+            {
+                "code": "spot_example_everyone-has-a-weak-spot",
+                "text": "Everyone has a weak spot."
+            },
+            {
+                "code": "spot_example_we-finally-found-a-parking-spot",
+                "text": "We finally found a parking spot."
+            },
+            {
+                "code": "spot_example_she-marked-the-spot-on-the-map",
+                "text": "She marked the spot on the map."
+            },
+            {
+                "code": "spot_example_they-picked-a-perfect-spot-for-the-church-picnic",
+                "text": "They picked a perfect spot for the church picnic."
+            },
+            {
+                "code": "spot_example_you-re-sitting-in-my-spot",
+                "text": "You're sitting in my spot."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to see or notice someone or something",
+        "examples": [
+            {
+                "code": "spot_example_she-immediately-spotted-her-daughter-in-the-crowd",
+                "text": "She immediately spotted her daughter in the crowd."
+            },
+            {
+                "code": "spot_example_he-finally-spotted-a-deer-in-the-woods",
+                "text": "He finally spotted a deer in the woods."
+            },
+            {
+                "code": "spot_example_i-can-spot-danger",
+                "text": "I can spot danger."
+            },
+            {
+                "code": "spot_example_she-spotted-the-difference-immediately",
+                "text": "She spotted the difference immediately."
+            },
+            {
+                "code": "spot_example_the-hunter-spotted-movement-in-the-woods",
+                "text": "The hunter spotted movement in the woods."
+            }
+        ]
+    }
+]

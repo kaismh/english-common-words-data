@@ -1,0 +1,44 @@
+[
+    {
+        "type": "(n)",
+        "mean": "an army rank; an official in an organization; a policeman or policewoman",
+        "examples": [
+            {
+                "code": "officer_example_he-became-an-officer-recently",
+                "text": "He became an officer recently."
+            },
+            {
+                "code": "officer_example_my-father-is-a-military-officer",
+                "text": "My father is a military officer."
+            },
+            {
+                "code": "officer_example_the-officers-raided-the-building",
+                "text": "The officers raided the building."
+            },
+            {
+                "code": "officer_example_officers-are-patrolling-the-area",
+                "text": "Officers are patrolling the area."
+            },
+            {
+                "code": "officer_example_the-officer-arrested-him",
+                "text": "The officer arrested him."
+            },
+            {
+                "code": "officer_example_he-is-a-police-officer",
+                "text": "He is a police officer."
+            },
+            {
+                "code": "officer_example_she-was-the-arresting-officer",
+                "text": "She was the arresting officer."
+            },
+            {
+                "code": "officer_example_he-was-a-commissioned-officer",
+                "text": "He was a commissioned officer."
+            },
+            {
+                "code": "officer_example_he-wanted-to-be-a-military-officer",
+                "text": "He wanted to be a military officer."
+            }
+        ]
+    }
+]

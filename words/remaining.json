@@ -1,0 +1,32 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "left over",
+        "examples": [
+            {
+                "code": "remaining_example_he-ate-the-remaining-portion",
+                "text": "He ate the remaining portion."
+            },
+            {
+                "code": "remaining_example_she-is-the-remaining-survivor",
+                "text": "She is the remaining survivor."
+            },
+            {
+                "code": "remaining_example_calculate-the-remaining-amount",
+                "text": "Calculate the remaining amount."
+            },
+            {
+                "code": "remaining_example_we-paid-the-remaining-balance-on-the-account",
+                "text": "We paid the remaining balance on the account."
+            },
+            {
+                "code": "remaining_example_how-many-remaining-episodes-are-there",
+                "text": "How many remaining episodes are there?"
+            },
+            {
+                "code": "remaining_example_what-is-the-remaining-time-on-the-clock",
+                "text": "What is the remaining time on the clock?"
+            }
+        ]
+    }
+]

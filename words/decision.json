@@ -1,0 +1,80 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a choice made after thought and consideration",
+        "examples": [
+            {
+                "code": "decision_example_marriage-is-a-big-decision",
+                "text": "Marriage is a big decision."
+            },
+            {
+                "code": "decision_example_she-had-a-difficult-decision-to-make",
+                "text": "She had a difficult decision to make."
+            },
+            {
+                "code": "decision_example_this-is-my-final-decision",
+                "text": "This is my final decision."
+            },
+            {
+                "code": "decision_example_she-waited-to-make-an-informed-decision",
+                "text": "She waited to make an informed decision."
+            },
+            {
+                "code": "decision_example_eating-healthy-is-a-good-decision",
+                "text": "Eating healthy is a good decision."
+            },
+            {
+                "code": "decision_example_he-always-seems-to-make-the-right-decision",
+                "text": "He always seems to make the right decision."
+            },
+            {
+                "code": "decision_example_why-does-she-make-such-bad-decisions",
+                "text": "Why does she make such bad decisions?"
+            },
+            {
+                "code": "decision_example_the-voters-came-to-a-joint-decision",
+                "text": "The voters came to a joint decision."
+            },
+            {
+                "code": "decision_example_did-you-come-to-a-decision",
+                "text": "Did you come to a decision?"
+            },
+            {
+                "code": "decision_example_i-don-t-want-to-influence-your-decision",
+                "text": "I don't want to influence your decision."
+            },
+            {
+                "code": "decision_example_her-father-respects-her-decision",
+                "text": "Her father respects her decision."
+            },
+            {
+                "code": "decision_example_they-applaud-his-decision",
+                "text": "They applaud his decision."
+            },
+            {
+                "code": "decision_example_he-faces-a-tough-decision",
+                "text": "He faces a tough decision."
+            },
+            {
+                "code": "decision_example_she-wanted-to-explain-her-decision",
+                "text": "She wanted to explain her decision."
+            },
+            {
+                "code": "decision_example_please-don-t-make-me-question-my-decision",
+                "text": "Please don't make me question my decision."
+            },
+            {
+                "code": "decision_example_she-wants-to-be-a-part-of-the-decision-process",
+                "text": "She wants to be a part of the decision process."
+            },
+            {
+                "code": "decision_example_it-is-finally-decision-time",
+                "text": "It is finally decision time."
+            },
+            {
+                "code": "decision_example_he-came-to-a-decision-about-his-job",
+                "text": "He came to a decision about his job."
+            }
+        ]
+    }
+]

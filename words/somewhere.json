@@ -1,0 +1,58 @@
+[
+    {
+        "type": "(adv)",
+        "mean": "at a place that is not known or named",
+        "examples": [
+            {
+                "code": "somewhere_example_his-clues-led-us-somewhere",
+                "text": "His clues led us somewhere."
+            },
+            {
+                "code": "somewhere_example_she-hid-the-presents-somewhere",
+                "text": "She hid the presents somewhere."
+            },
+            {
+                "code": "somewhere_example_he-went-somewhere",
+                "text": "He went somewhere."
+            },
+            {
+                "code": "somewhere_example_it-has-to-be-somewhere-around-here",
+                "text": "It has to be somewhere around here."
+            },
+            {
+                "code": "somewhere_example_my-cousin-lives-somewhere-in-california",
+                "text": "My cousin lives somewhere in California."
+            },
+            {
+                "code": "somewhere_example_haven-t-i-seen-you-somewhere-before",
+                "text": "Haven't I seen you somewhere before?"
+            },
+            {
+                "code": "somewhere_example_let-s-go-somewhere-else",
+                "text": "Let's go somewhere else."
+            },
+            {
+                "code": "somewhere_example_i-know-it-s-somewhere-around-here",
+                "text": "I know it's somewhere around here."
+            },
+            {
+                "code": "somewhere_example_we-ll-find-it-somewhere",
+                "text": "We'll find it somewhere."
+            }
+        ]
+    },
+    {
+        "type": "(n)",
+        "mean": "a place that is not known or named",
+        "examples": [
+            {
+                "code": "somewhere_example_i-know-the-perfect-somewhere-to-have-dinner",
+                "text": "I know the perfect somewhere to have dinner."
+            },
+            {
+                "code": "somewhere_example_i-m-trying-to-find-somewhere-to-put-my-glasses",
+                "text": "I'm trying to find somewhere to put my glasses."
+            }
+        ]
+    }
+]

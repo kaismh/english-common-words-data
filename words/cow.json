@@ -1,0 +1,24 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a large animal raised on a farm for its milk and meat",
+        "examples": [
+            {
+                "code": "cow_example_we-raise-dairy-cows",
+                "text": "We raise dairy cows."
+            },
+            {
+                "code": "cow_example_the-farmer-breeds-cows",
+                "text": "The farmer breeds cows."
+            },
+            {
+                "code": "cow_example_cows-graze-on-grass-all-day",
+                "text": "Cows graze on grass all day."
+            },
+            {
+                "code": "cow_example_they-re-all-out-in-the-cow-pasture",
+                "text": "They're all out in the cow pasture."
+            }
+        ]
+    }
+]

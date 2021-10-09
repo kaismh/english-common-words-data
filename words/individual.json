@@ -1,0 +1,50 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a single person separate from a group",
+        "examples": [
+            {
+                "code": "individual_example_he-was-an-outstanding-individual",
+                "text": "He was an outstanding individual."
+            },
+            {
+                "code": "individual_example_they-were-a-group-of-like-minded-individuals",
+                "text": "They were a group of like-minded individuals."
+            },
+            {
+                "code": "individual_example_they-only-want-qualified-individuals",
+                "text": "They only want qualified individuals."
+            },
+            {
+                "code": "individual_example_she-is-seeking-donations-from-wealthy-individuals",
+                "text": "She is seeking donations from wealthy individuals."
+            },
+            {
+                "code": "individual_example_the-police-are-looking-for-a-particular-individual",
+                "text": "The police are looking for a particular individual."
+            },
+            {
+                "code": "individual_example_each-child-should-be-treated-as-an-individual",
+                "text": "Each child should be treated as an individual."
+            },
+            {
+                "code": "individual_example_each-individual-varies-in-personality",
+                "text": "Each individual varies in personality."
+            }
+        ]
+    },
+    {
+        "type": "(adj)",
+        "mean": "single or separate",
+        "examples": [
+            {
+                "code": "individual_example_we-need-to-recognize-each-student-s-individual-achievement",
+                "text": "We need to recognize each student's individual achievement."
+            },
+            {
+                "code": "individual_example_teachers-cannot-give-each-child-individual-attention",
+                "text": "Teachers cannot give each child individual attention."
+            }
+        ]
+    }
+]

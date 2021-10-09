@@ -1,0 +1,98 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a male parent to a child or animal; a priest",
+        "examples": [
+            {
+                "code": "father_example_it-is-difficult-being-a-single-father",
+                "text": "It is difficult being a single father."
+            },
+            {
+                "code": "father_example_he-is-a-married-father-with-three-girls",
+                "text": "He is a married father with three girls."
+            },
+            {
+                "code": "father_example_she-blames-her-absent-father-for-her-problems",
+                "text": "She blames her absent father for her problems."
+            },
+            {
+                "code": "father_example_they-want-to-find-their-biological-father",
+                "text": "They want to find their biological father."
+            },
+            {
+                "code": "father_example_he-credits-his-adoptive-father-for-his-success",
+                "text": "He credits his adoptive father for his success."
+            },
+            {
+                "code": "father_example_my-neighbor-is-like-a-second-father-to-me",
+                "text": "My neighbor is like a second father to me."
+            },
+            {
+                "code": "father_example_the-new-father-couldn-t-stop-smiling",
+                "text": "The new father couldn't stop smiling."
+            },
+            {
+                "code": "father_example_he-is-a-proud-father",
+                "text": "He is a proud father."
+            },
+            {
+                "code": "father_example_she-cares-for-her-aging-father",
+                "text": "She cares for her aging father."
+            },
+            {
+                "code": "father_example_he-dedicated-his-award-to-his-late-father",
+                "text": "He dedicated his award to his late father."
+            },
+            {
+                "code": "father_example_she-spoke-about-growing-up-with-a-strict-father",
+                "text": "She spoke about growing up with a strict father."
+            },
+            {
+                "code": "father_example_he-is-not-a-bad-father-but-not-a-very-lovable-one-either",
+                "text": "He is not a bad father, but not a very lovable one either."
+            },
+            {
+                "code": "father_example_he-did-not-tell-anyone-he-has-a-famous-father",
+                "text": "He did not tell anyone he has a famous father."
+            },
+            {
+                "code": "father_example_she-resembles-her-father",
+                "text": "She resembles her father."
+            },
+            {
+                "code": "father_example_she-inherited-her-blue-eyes-from-her-father",
+                "text": "She inherited her blue eyes from her father."
+            },
+            {
+                "code": "father_example_he-followed-his-father-into-the-medical-field",
+                "text": "He followed his father into the medical field."
+            },
+            {
+                "code": "father_example_he-said-we-should-honor-our-fathers",
+                "text": "He said we should honor our fathers."
+            },
+            {
+                "code": "father_example_she-lost-her-father-when-she-was-15",
+                "text": "She lost her father when she was 15."
+            },
+            {
+                "code": "father_example_he-needs-a-father-figure-in-his-life",
+                "text": "He needs a father figure in his life."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to produce a child by making a woman pregnant",
+        "examples": [
+            {
+                "code": "father_example_he-hopes-to-someday-father-a-child",
+                "text": "He hopes to someday father a child."
+            },
+            {
+                "code": "father_example_he-has-fathered-three-children",
+                "text": "He has fathered three children."
+            }
+        ]
+    }
+]

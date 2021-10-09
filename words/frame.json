@@ -1,0 +1,62 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the border that surrounds and holds a door, window or picture in place; the shape of the body",
+        "examples": [
+            {
+                "code": "frame_example_i-need-to-repair-the-window-frame",
+                "text": "I need to repair the window frame."
+            },
+            {
+                "code": "frame_example_i-really-like-this-picture-frame",
+                "text": "I really like this picture frame."
+            },
+            {
+                "code": "frame_example_he-built-a-metal-frame-for-the-chicken-coop",
+                "text": "He built a metal frame for the chicken coop."
+            },
+            {
+                "code": "frame_example_he-has-a-large-frame",
+                "text": "He has a large frame."
+            },
+            {
+                "code": "frame_example_she-has-a-petite-frame",
+                "text": "She has a petite frame."
+            },
+            {
+                "code": "frame_example_he-has-an-athletic-frame",
+                "text": "He has an athletic frame."
+            },
+            {
+                "code": "frame_example_she-has-a-slender-frame",
+                "text": "She has a slender frame."
+            },
+            {
+                "code": "frame_example_we-put-the-picture-in-a-new-frame",
+                "text": "We put the picture in a new frame."
+            },
+            {
+                "code": "frame_example_this-style-is-good-for-women-with-petite-frames",
+                "text": "This style is good for women with petite frames."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to border or surround something; to provide understanding; to put in a frame; to appear as if in a frame",
+        "examples": [
+            {
+                "code": "frame_example_that-hairdo-frames-your-face-nicely",
+                "text": "That hairdo frames your face nicely."
+            },
+            {
+                "code": "frame_example_let-me-frame-the-concept-in-a-different-way",
+                "text": "Let me frame the concept in a different way."
+            },
+            {
+                "code": "frame_example_she-framed-her-baby-s-picture",
+                "text": "She framed her baby's picture."
+            }
+        ]
+    }
+]

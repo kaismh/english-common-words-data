@@ -1,0 +1,40 @@
+[
+    {
+        "type": "(adv)",
+        "mean": "not often",
+        "examples": [
+            {
+                "code": "rarely_example_we-rarely-use-that-room",
+                "text": "We rarely use that room."
+            },
+            {
+                "code": "rarely_example_this-type-of-thing-rarely-occurs",
+                "text": "This type of thing rarely occurs."
+            },
+            {
+                "code": "rarely_example_she-rarely-visits-me",
+                "text": "She rarely visits me."
+            },
+            {
+                "code": "rarely_example_he-rarely-cries",
+                "text": "He rarely cries."
+            },
+            {
+                "code": "rarely_example_he-rarely-appears-outside-of-his-home",
+                "text": "He rarely appears outside of his home."
+            },
+            {
+                "code": "rarely_example_we-rarely-mention-her-anymore",
+                "text": "We rarely mention her anymore."
+            },
+            {
+                "code": "rarely_example_the-car-is-rarely-used",
+                "text": "The car is rarely used."
+            },
+            {
+                "code": "rarely_example_she-is-rarely-happy",
+                "text": "She is rarely happy."
+            }
+        ]
+    }
+]

@@ -1,0 +1,96 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a note sent or given to someone when you're unable to speak with them",
+        "examples": [
+            {
+                "code": "message_example_she-left-me-a-message-last-week",
+                "text": "She left me a message last week."
+            },
+            {
+                "code": "message_example_i-got-your-message-this-morning",
+                "text": "I got your message this morning."
+            },
+            {
+                "code": "message_example_i-sent-the-message-to-her",
+                "text": "I sent the message to her."
+            },
+            {
+                "code": "message_example_the-message-has-been-conveyed",
+                "text": "The message has been conveyed."
+            },
+            {
+                "code": "message_example_i-took-the-message-for-them",
+                "text": "I took the message for them."
+            },
+            {
+                "code": "message_example_we-decoded-the-message",
+                "text": "We decoded the message."
+            },
+            {
+                "code": "message_example_the-message-came-yesterday",
+                "text": "The message came yesterday."
+            },
+            {
+                "code": "message_example_the-message-says-to-call-him-back",
+                "text": "The message says to call him back."
+            },
+            {
+                "code": "message_example_i-just-sent-him-a-text-message",
+                "text": "I just sent him a text message."
+            },
+            {
+                "code": "message_example_i-have-an-important-message-for-you",
+                "text": "I have an important message for you."
+            },
+            {
+                "code": "message_example_he-sends-a-lot-of-mixed-messages",
+                "text": "He sends a lot of mixed messages."
+            },
+            {
+                "code": "message_example_what-is-the-organization-s-main-message",
+                "text": "What is the organization's main message?"
+            },
+            {
+                "code": "message_example_they-have-a-simple-message",
+                "text": "They have a simple message."
+            },
+            {
+                "code": "message_example_i-recorded-an-outgoing-message",
+                "text": "I recorded an outgoing message."
+            },
+            {
+                "code": "message_example_i-got-an-error-message",
+                "text": "I got an error message."
+            },
+            {
+                "code": "message_example_they-tried-to-send-a-positive-message",
+                "text": "They tried to send a positive message."
+            },
+            {
+                "code": "message_example_i-have-to-listen-to-my-voice-messages",
+                "text": "I have to listen to my voice messages."
+            },
+            {
+                "code": "message_example_they-send-the-wrong-message",
+                "text": "They send the wrong message."
+            },
+            {
+                "code": "message_example_i-got-a-message-about-it",
+                "text": "I got a message about it."
+            },
+            {
+                "code": "message_example_there-is-a-message-for-you",
+                "text": "There is a message for you."
+            },
+            {
+                "code": "message_example_this-is-a-message-from-her",
+                "text": "This is a message from her."
+            },
+            {
+                "code": "message_example_we-tried-to-send-a-message-of-hope",
+                "text": "We tried to send a message of hope."
+            }
+        ]
+    }
+]

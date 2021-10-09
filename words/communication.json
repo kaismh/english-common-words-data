@@ -1,0 +1,64 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the act of sharing information or feelings through talking or writing",
+        "examples": [
+            {
+                "code": "communication_example_clear-communication-is-very-important-in-a-relationship",
+                "text": "Clear communication is very important in a relationship."
+            },
+            {
+                "code": "communication_example_poor-communication-makes-it-hard-to-find-a-job",
+                "text": "Poor communication makes it hard to find a job."
+            },
+            {
+                "code": "communication_example_many-problems-get-solved-with-regular-communication",
+                "text": "Many problems get solved with regular communication."
+            },
+            {
+                "code": "communication_example_i-prefer-electronic-communication",
+                "text": "I prefer electronic communication."
+            },
+            {
+                "code": "communication_example_we-have-great-communication",
+                "text": "We have great communication."
+            },
+            {
+                "code": "communication_example_have-you-established-communication-with-them",
+                "text": "Have you established communication with them?"
+            },
+            {
+                "code": "communication_example_you-can-improve-communication-by-listening-well",
+                "text": "You can improve communication by listening well."
+            },
+            {
+                "code": "communication_example_business-students-need-to-have-good-communication-skills",
+                "text": "Business students need to have good communication skills."
+            },
+            {
+                "code": "communication_example_what-is-your-communication-style",
+                "text": "What is your communication style?"
+            },
+            {
+                "code": "communication_example_speaking-different-languages-can-cause-a-communication-breakdown",
+                "text": "Speaking different languages can cause a communication breakdown."
+            },
+            {
+                "code": "communication_example_have-you-had-any-communication-with-the-lost-hikers",
+                "text": "Have you had any communication with the lost hikers?"
+            },
+            {
+                "code": "communication_example_there-was-communication-between-the-two-countries",
+                "text": "There was communication between the two countries."
+            },
+            {
+                "code": "communication_example_we-have-had-communication-by-email",
+                "text": "We have had communication by email."
+            },
+            {
+                "code": "communication_example_have-you-been-in-communication-with-them",
+                "text": "Have you been in communication with them?"
+            }
+        ]
+    }
+]

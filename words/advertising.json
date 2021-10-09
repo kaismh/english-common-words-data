@@ -1,0 +1,36 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the activity or business of selling something by newspaper, magazine, television, radio or internet",
+        "examples": [
+            {
+                "code": "advertising_example_the-health-magazine-bans-cigarette-advertising",
+                "text": "The health magazine bans cigarette advertising."
+            },
+            {
+                "code": "advertising_example_i-work-for-an-advertising-agency",
+                "text": "I work for an advertising agency."
+            },
+            {
+                "code": "advertising_example_she-works-in-the-advertising-industry",
+                "text": "She works in the advertising industry."
+            },
+            {
+                "code": "advertising_example_they-worked-on-that-advertising-campaign",
+                "text": "They worked on that advertising campaign."
+            },
+            {
+                "code": "advertising_example_she-works-in-advertising",
+                "text": "She works in advertising."
+            },
+            {
+                "code": "advertising_example_we-need-more-advertising",
+                "text": "We need more advertising."
+            },
+            {
+                "code": "advertising_example_advertising-helped-us-gain-more-customers",
+                "text": "Advertising helped us gain more customers."
+            }
+        ]
+    }
+]

@@ -1,0 +1,92 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "true; actually existing",
+        "examples": [
+            {
+                "code": "real_example_this-story-seems-real",
+                "text": "This story seems real."
+            },
+            {
+                "code": "real_example_the-fake-flowers-look-real",
+                "text": "The fake flowers look real."
+            },
+            {
+                "code": "real_example_the-situation-is-becoming-real",
+                "text": "The situation is becoming real."
+            },
+            {
+                "code": "real_example_this-necklace-is-made-of-real-gold",
+                "text": "This necklace is made of real gold."
+            },
+            {
+                "code": "real_example_what-is-his-real-name",
+                "text": "What is his real name?"
+            },
+            {
+                "code": "real_example_she-and-i-have-a-real-friendship",
+                "text": "She and I have a real friendship."
+            },
+            {
+                "code": "real_example_that-horse-is-a-real-beauty",
+                "text": "That horse is a real beauty."
+            },
+            {
+                "code": "real_example_i-would-never-do-that-in-real-life",
+                "text": "I would never do that in real life."
+            },
+            {
+                "code": "real_example_the-real-world-is-a-rough-place",
+                "text": "The real world is a rough place."
+            },
+            {
+                "code": "real_example_this-looks-like-the-real-thing",
+                "text": "This looks like the real thing."
+            },
+            {
+                "code": "real_example_he-is-a-real-friend",
+                "text": "He is a real friend."
+            },
+            {
+                "code": "real_example_the-movie-was-shot-in-real-time",
+                "text": "The movie was shot in real time."
+            },
+            {
+                "code": "real_example_moving-out-of-the-country-is-a-real-possibility",
+                "text": "Moving out of the country is a real possibility."
+            },
+            {
+                "code": "real_example_he-is-in-real-danger",
+                "text": "He is in real danger."
+            },
+            {
+                "code": "real_example_i-don-t-know-who-my-real-mother-is",
+                "text": "I don't know who my real mother is."
+            },
+            {
+                "code": "real_example_you-have-no-real-understanding-of-the-situation",
+                "text": "You have no real understanding of the situation."
+            },
+            {
+                "code": "real_example_this-coat-is-made-of-real-fur",
+                "text": "This coat is made of real fur."
+            },
+            {
+                "code": "real_example_we-have-a-real-problem-here",
+                "text": "We have a real problem here."
+            },
+            {
+                "code": "real_example_this-car-is-a-real-value",
+                "text": "This car is a real value."
+            },
+            {
+                "code": "real_example_the-diamonds-look-real-enough",
+                "text": "The diamonds look real enough."
+            },
+            {
+                "code": "real_example_it-was-all-too-real",
+                "text": "It was all too real."
+            }
+        ]
+    }
+]

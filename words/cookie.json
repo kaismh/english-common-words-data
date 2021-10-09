@@ -1,0 +1,36 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a small, flat cake",
+        "examples": [
+            {
+                "code": "cookie_example_she-is-baking-chocolate-cookies",
+                "text": "She is baking chocolate cookies."
+            },
+            {
+                "code": "cookie_example_she-bakes-all-kinds-of-cookies",
+                "text": "She bakes all kinds of cookies."
+            },
+            {
+                "code": "cookie_example_she-sells-cookies-at-the-bake-sale",
+                "text": "She sells cookies at the bake sale."
+            },
+            {
+                "code": "cookie_example_we-often-eat-the-cookie-crumbs",
+                "text": "We often eat the cookie crumbs."
+            },
+            {
+                "code": "cookie_example_the-cookie-jar-is-always-full",
+                "text": "The cookie jar is always full."
+            },
+            {
+                "code": "cookie_example_the-cookie-cutter-is-useful",
+                "text": "The cookie cutter is useful."
+            },
+            {
+                "code": "cookie_example_what-is-her-cookie-recipe",
+                "text": "What is her cookie recipe?"
+            }
+        ]
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a group of rings that are linked together; things in a line; a group of stores owned by one company; a series of connected things",
+        "examples": [
+            {
+                "code": "chain_example_the-bike-was-locked-with-a-heavy-chain",
+                "text": "The bike was locked with a heavy chain."
+            },
+            {
+                "code": "chain_example_he-wears-a-gold-chain",
+                "text": "He wears a gold chain."
+            },
+            {
+                "code": "chain_example_i-lost-my-key-chain",
+                "text": "I lost my key chain."
+            },
+            {
+                "code": "chain_example_they-formed-a-human-chain-to-block-the-protestors",
+                "text": "They formed a human chain to block the protestors."
+            },
+            {
+                "code": "chain_example_his-department-store-is-a-major-chain",
+                "text": "His department store is a major chain."
+            },
+            {
+                "code": "chain_example_i-don-t-support-fast-food-chains",
+                "text": "I don't support fast-food chains."
+            },
+            {
+                "code": "chain_example_a-long-chain-of-events-led-to-this-situation",
+                "text": "A long chain of events led to this situation."
+            },
+            {
+                "code": "chain_example_this-animal-is-an-important-part-of-the-food-chain",
+                "text": "This animal is an important part of the food chain."
+            },
+            {
+                "code": "chain_example_the-chain-link-broke",
+                "text": "The chain link broke."
+            },
+            {
+                "code": "chain_example_we-like-to-support-local-businesses-and-not-chain-stores",
+                "text": "We like to support local businesses and not chain stores."
+            },
+            {
+                "code": "chain_example_it-set-off-a-chain-reaction",
+                "text": "It set off a chain reaction."
+            },
+            {
+                "code": "chain_example_he-received-a-chain-letter",
+                "text": "He received a chain letter."
+            },
+            {
+                "code": "chain_example_the-poor-dog-was-kept-on-a-short-chain-all-day",
+                "text": "The poor dog was kept on a short chain all day."
+            },
+            {
+                "code": "chain_example_the-violent-criminal-was-brought-into-court-in-chains",
+                "text": "The violent criminal was brought into court in chains."
+            },
+            {
+                "code": "chain_example_she-owns-a-chain-of-restaurants-throughout-the-country",
+                "text": "She owns a chain of restaurants throughout the country."
+            }
+        ]
+    }
+]

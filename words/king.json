@@ -1,0 +1,44 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a male ruler",
+        "examples": [
+            {
+                "code": "king_example_he-was-the-rightful-king",
+                "text": "He was the rightful king."
+            },
+            {
+                "code": "king_example_he-was-a-great-king-of-england",
+                "text": "He was a great king of England."
+            },
+            {
+                "code": "king_example_he-is-the-future-king",
+                "text": "He is the future king."
+            },
+            {
+                "code": "king_example_he-became-the-king-at-a-young-age",
+                "text": "He became the king at a young age."
+            },
+            {
+                "code": "king_example_he-served-the-king-faithfully",
+                "text": "He served the king faithfully."
+            },
+            {
+                "code": "king_example_the-king-reigned-for-10-years",
+                "text": "The king reigned for 10 years."
+            },
+            {
+                "code": "king_example_the-new-king-was-anointed-immediately",
+                "text": "The new king was anointed immediately."
+            },
+            {
+                "code": "king_example_life-under-the-new-king-has-been-better",
+                "text": "Life under the new king has been better."
+            },
+            {
+                "code": "king_example_he-was-the-first-king-of-england",
+                "text": "He was the first King of England."
+            }
+        ]
+    }
+]

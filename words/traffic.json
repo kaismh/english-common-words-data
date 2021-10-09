@@ -1,0 +1,72 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the movement of vehicles on the road, in the air, or on the sea",
+        "examples": [
+            {
+                "code": "traffic_example_there-is-always-bad-traffic-during-this-hour",
+                "text": "There is always bad traffic during this hour."
+            },
+            {
+                "code": "traffic_example_please-use-this-lane-for-slow-moving-traffic",
+                "text": "Please use this lane for slow-moving traffic."
+            },
+            {
+                "code": "traffic_example_i-m-stuck-in-rush-hour-traffic",
+                "text": "I'm stuck in rush-hour traffic."
+            },
+            {
+                "code": "traffic_example_northbound-traffic-is-heavy",
+                "text": "Northbound traffic is heavy."
+            },
+            {
+                "code": "traffic_example_the-accident-stopped-traffic-for-hours",
+                "text": "The accident stopped traffic for hours."
+            },
+            {
+                "code": "traffic_example_the-police-officer-directed-traffic-at-the-crash-scene",
+                "text": "The police officer directed traffic at the crash scene."
+            },
+            {
+                "code": "traffic_example_try-to-avoid-early-morning-traffic",
+                "text": "Try to avoid early morning traffic."
+            },
+            {
+                "code": "traffic_example_traffic-increases-during-this-time-of-the-day",
+                "text": "Traffic increases during this time of the day."
+            },
+            {
+                "code": "traffic_example_i-m-driving-with-the-flow-of-traffic",
+                "text": "I'm driving with the flow of traffic."
+            },
+            {
+                "code": "traffic_example_do-not-ride-your-bike-against-traffic",
+                "text": "Do not ride your bike against traffic."
+            },
+            {
+                "code": "traffic_example_there-was-a-horrible-traffic-accident-on-the-way-to-work",
+                "text": "There was a horrible traffic accident on the way to work."
+            },
+            {
+                "code": "traffic_example_he-received-a-traffic-ticket-for-speeding",
+                "text": "He received a traffic ticket for speeding."
+            },
+            {
+                "code": "traffic_example_pay-attention-to-the-traffic-signs-on-the-road",
+                "text": "Pay attention to the traffic signs on the road."
+            },
+            {
+                "code": "traffic_example_traffic-congestion-is-a-big-problem-in-this-city",
+                "text": "Traffic congestion is a big problem in this city."
+            },
+            {
+                "code": "traffic_example_the-city-needs-to-improve-traffic-flow",
+                "text": "The city needs to improve traffic flow."
+            },
+            {
+                "code": "traffic_example_check-the-traffic-report-before-leaving",
+                "text": "Check the traffic report before leaving."
+            }
+        ]
+    }
+]

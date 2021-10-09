@@ -1,0 +1,64 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a strong structure that covers a building or vehicle",
+        "examples": [
+            {
+                "code": "roof_example_i-think-the-roof-is-going-to-collapse",
+                "text": "I think the roof is going to collapse."
+            },
+            {
+                "code": "roof_example_the-roof-is-leaking",
+                "text": "The roof is leaking."
+            },
+            {
+                "code": "roof_example_the-old-roof-is-covered-with-moss",
+                "text": "The old roof is covered with moss."
+            },
+            {
+                "code": "roof_example_the-roof-is-supported-by-wooden-beams",
+                "text": "The roof is supported by wooden beams."
+            },
+            {
+                "code": "roof_example_the-roof-top-is-flat",
+                "text": "The roof top is flat."
+            },
+            {
+                "code": "roof_example_we-installed-roof-tiles",
+                "text": "We installed roof tiles."
+            },
+            {
+                "code": "roof_example_we-want-to-build-a-roof-garden",
+                "text": "We want to build a roof garden."
+            },
+            {
+                "code": "roof_example_we-put-extra-cargo-on-the-roof-rack",
+                "text": "We put extra cargo on the roof rack."
+            },
+            {
+                "code": "roof_example_we-need-to-fix-our-leaky-roof",
+                "text": "We need to fix our leaky roof."
+            },
+            {
+                "code": "roof_example_our-car-has-a-sun-roof",
+                "text": "Our car has a sun roof."
+            },
+            {
+                "code": "roof_example_the-house-has-a-slanted-roof",
+                "text": "The house has a slanted roof."
+            },
+            {
+                "code": "roof_example_we-live-under-the-same-roof-now",
+                "text": "We live under the same roof now."
+            },
+            {
+                "code": "roof_example_the-workers-are-on-the-roof",
+                "text": "The workers are on the roof."
+            },
+            {
+                "code": "roof_example_there-are-leaks-in-the-roof",
+                "text": "There are leaks in the roof."
+            }
+        ]
+    }
+]

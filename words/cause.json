@@ -1,0 +1,88 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the reason something happens; a goal that people support",
+        "examples": [
+            {
+                "code": "cause_example_we-need-to-find-the-real-cause-of-the-problem",
+                "text": "We need to find the real cause of the problem."
+            },
+            {
+                "code": "cause_example_the-biggest-cause-of-obesity-is-poor-diet",
+                "text": "The biggest cause of obesity is poor diet."
+            },
+            {
+                "code": "cause_example_ice-on-the-road-was-the-clear-cause-of-the-accident",
+                "text": "Ice on the road was the clear cause of the accident."
+            },
+            {
+                "code": "cause_example_smoking-is-the-common-cause-of-cancer",
+                "text": "Smoking is the common cause of cancer."
+            },
+            {
+                "code": "cause_example_lack-of-sleep-was-an-indirect-cause-of-my-poor-performance",
+                "text": "Lack of sleep was an indirect cause of my poor performance."
+            },
+            {
+                "code": "cause_example_this-noise-was-the-immediate-cause-of-my-headache",
+                "text": "This noise was the immediate cause of my headache."
+            },
+            {
+                "code": "cause_example_the-detective-had-good-cause-to-search-the-suspect-s-house",
+                "text": "The detective had good cause to search the suspect's house."
+            },
+            {
+                "code": "cause_example_we-are-donating-money-to-a-great-cause",
+                "text": "We are donating money to a great cause."
+            },
+            {
+                "code": "cause_example_she-puts-too-much-energy-into-lost-causes",
+                "text": "She puts too much energy into lost causes."
+            },
+            {
+                "code": "cause_example_he-supports-charitable-causes",
+                "text": "He supports charitable causes."
+            },
+            {
+                "code": "cause_example_the-investigation-should-determine-the-cause",
+                "text": "The investigation should determine the cause."
+            },
+            {
+                "code": "cause_example_we-ll-need-to-examine-the-cause-of-the-problem",
+                "text": "We'll need to examine the cause of the problem."
+            },
+            {
+                "code": "cause_example_we-may-never-know-the-cause-of-her-death",
+                "text": "We may never know the cause of her death."
+            },
+            {
+                "code": "cause_example_we-have-cause-for-celebration",
+                "text": "We have cause for celebration."
+            },
+            {
+                "code": "cause_example_your-attitude-is-giving-me-cause-for-concern",
+                "text": "Your attitude is giving me cause for concern."
+            },
+            {
+                "code": "cause_example_she-only-supports-popular-causes",
+                "text": "She only supports popular causes."
+            },
+            {
+                "code": "cause_example_i-am-certainly-committed-to-your-cause",
+                "text": "I am certainly committed to your cause."
+            },
+            {
+                "code": "cause_example_after-her-father-died-she-took-up-his-cause",
+                "text": "After her father died, she took up his cause."
+            },
+            {
+                "code": "cause_example_what-was-the-cause-of-death",
+                "text": "What was the cause of death?"
+            },
+            {
+                "code": "cause_example_there-is-no-cause-for-concern",
+                "text": "There is no cause for concern."
+            }
+        ]
+    }
+]

@@ -1,0 +1,48 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "not big; small",
+        "examples": [
+            {
+                "code": "little_example_we-had-a-little-argument",
+                "text": "We had a little argument."
+            },
+            {
+                "code": "little_example_the-little-child-is-lost",
+                "text": "The little child is lost."
+            },
+            {
+                "code": "little_example_he-has-a-little-bump-on-the-head",
+                "text": "He has a little bump on the head."
+            },
+            {
+                "code": "little_example_we-had-a-little-celebration-for-her-job-promotion",
+                "text": "We had a little celebration for her job promotion."
+            },
+            {
+                "code": "little_example_we-had-a-little-chat-about-our-futures",
+                "text": "We had a little chat about our futures."
+            },
+            {
+                "code": "little_example_she-made-a-little-mistake",
+                "text": "She made a little mistake."
+            },
+            {
+                "code": "little_example_can-i-have-a-little-piece-of-cake",
+                "text": "Can I have a little piece of cake?"
+            },
+            {
+                "code": "little_example_we-are-taking-a-little-trip-to-the-beach",
+                "text": "We are taking a little trip to the beach."
+            },
+            {
+                "code": "little_example_she-is-so-little",
+                "text": "She is so little."
+            },
+            {
+                "code": "little_example_these-dogs-are-typically-little-in-size",
+                "text": "These dogs are typically little in size."
+            }
+        ]
+    }
+]

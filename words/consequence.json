@@ -1,0 +1,52 @@
+[
+    {
+        "type": "(n)",
+        "mean": "result of something that happened",
+        "examples": [
+            {
+                "code": "consequence_example_your-lies-have-resulted-in-serious-consequences",
+                "text": "Your lies have resulted in serious consequences."
+            },
+            {
+                "code": "consequence_example_his-gambling-addiction-has-led-to-bad-consequences",
+                "text": "His gambling addiction has led to bad consequences."
+            },
+            {
+                "code": "consequence_example_the-traffic-was-the-main-consequence-of-moving-to-a-big-city",
+                "text": "The traffic was the main consequence of moving to a big city."
+            },
+            {
+                "code": "consequence_example_his-actions-had-a-direct-consequence-on-everyone",
+                "text": "His actions had a direct consequence on everyone."
+            },
+            {
+                "code": "consequence_example_what-do-you-think-will-be-the-likely-consequence",
+                "text": "What do you think will be the likely consequence?"
+            },
+            {
+                "code": "consequence_example_they-are-facing-serious-economic-consequences",
+                "text": "They are facing serious economic consequences."
+            },
+            {
+                "code": "consequence_example_his-decisions-have-serious-consequences",
+                "text": "His decisions have serious consequences."
+            },
+            {
+                "code": "consequence_example_you-must-accept-the-consequence",
+                "text": "You must accept the consequence."
+            },
+            {
+                "code": "consequence_example_let-s-consider-all-of-the-consequences",
+                "text": "Let's consider all of the consequences."
+            },
+            {
+                "code": "consequence_example_i-can-predict-the-consequences-of-your-actions",
+                "text": "I can predict the consequences of your actions."
+            },
+            {
+                "code": "consequence_example_his-lying-will-have-serious-consequences-on-their-marriage",
+                "text": "His lying will have serious consequences on their marriage."
+            }
+        ]
+    }
+]

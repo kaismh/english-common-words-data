@@ -1,0 +1,40 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the main idea of a story, music, or art",
+        "examples": [
+            {
+                "code": "theme_example_the-main-theme-of-the-story-was-sad",
+                "text": "The main theme of the story was sad."
+            },
+            {
+                "code": "theme_example_the-overall-theme-is-about-education",
+                "text": "The overall theme is about education."
+            },
+            {
+                "code": "theme_example_what-is-the-common-theme-of-her-books",
+                "text": "What is the common theme of her books?"
+            },
+            {
+                "code": "theme_example_the-teacher-introduced-the-theme-of-the-story",
+                "text": "The teacher introduced the theme of the story."
+            },
+            {
+                "code": "theme_example_he-noticed-the-same-theme-in-all-of-his-musicals",
+                "text": "He noticed the same theme in all of his musicals."
+            },
+            {
+                "code": "theme_example_what-is-the-theme-song-of-this-movie",
+                "text": "What is the theme song of this movie?"
+            },
+            {
+                "code": "theme_example_we-re-going-to-a-theme-party",
+                "text": "We're going to a theme party."
+            },
+            {
+                "code": "theme_example_music-is-the-theme-of-the-day",
+                "text": "Music is the theme of the day."
+            }
+        ]
+    }
+]

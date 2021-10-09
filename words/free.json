@@ -1,0 +1,160 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to allow someone or something to leave; to release",
+        "examples": [
+            {
+                "code": "free_example_he-struggled-to-free-his-hands",
+                "text": "He struggled to free his hands."
+            },
+            {
+                "code": "free_example_she-freed-the-animals-from-their-cages",
+                "text": "She freed the animals from their cages."
+            },
+            {
+                "code": "free_example_he-was-freed-of-his-duties",
+                "text": "He was freed of his duties."
+            },
+            {
+                "code": "free_example_they-freed-the-prisoners",
+                "text": "They freed the prisoners."
+            }
+        ]
+    },
+    {
+        "type": "(adj)",
+        "mean": "not controlled by rules; not restricted, trapped, jailed or caged; costing nothing; not being used; not busy",
+        "examples": [
+            {
+                "code": "free_example_we-are-free-on-sunday-afternoon",
+                "text": "We are free on Sunday afternoon."
+            },
+            {
+                "code": "free_example_he-let-the-hostages-go-free",
+                "text": "He let the hostages go free."
+            },
+            {
+                "code": "free_example_they-remain-free-on-bail-until-the-trial",
+                "text": "They remain free on bail until the trial."
+            },
+            {
+                "code": "free_example_she-set-the-animals-free-from-their-cages",
+                "text": "She set the animals free from their cages."
+            },
+            {
+                "code": "free_example_the-poster-is-free-when-you-buy-the-dvd-set",
+                "text": "The poster is free when you buy the DVD set."
+            },
+            {
+                "code": "free_example_this-room-becomes-free-in-the-evenings",
+                "text": "This room becomes free in the evenings."
+            },
+            {
+                "code": "free_example_we-try-to-keep-some-appointments-free-for-emergencies",
+                "text": "We try to keep some appointments free for emergencies."
+            },
+            {
+                "code": "free_example_students-are-completely-free-to-choose-a-topic-for-this-essay",
+                "text": "Students are completely free to choose a topic for this essay."
+            },
+            {
+                "code": "free_example_he-couldn-t-believe-he-was-truly-free-after-two-years-of-imprisonment",
+                "text": "He couldn't believe he was truly free after two years of imprisonment."
+            },
+            {
+                "code": "free_example_the-class-is-offered-absolutely-free",
+                "text": "The class is offered absolutely free."
+            },
+            {
+                "code": "free_example_after-the-discounts-it-s-virtually-free",
+                "text": "After the discounts, it's virtually free."
+            },
+            {
+                "code": "free_example_the-museum-is-free-for-children",
+                "text": "The museum is free for children."
+            },
+            {
+                "code": "free_example_they-want-to-have-free-access-to-the-information",
+                "text": "They want to have free access to the information."
+            },
+            {
+                "code": "free_example_there-is-free-entertainment-at-the-hotel",
+                "text": "There is free entertainment at the hotel."
+            },
+            {
+                "code": "free_example_they-gave-out-free-gifts-at-the-event",
+                "text": "They gave out free gifts at the event."
+            },
+            {
+                "code": "free_example_he-argued-for-free-market-policies",
+                "text": "He argued for free market policies."
+            },
+            {
+                "code": "free_example_they-received-free-admission-into-the-museum",
+                "text": "They received free admission into the museum."
+            },
+            {
+                "code": "free_example_do-you-have-a-free-hand",
+                "text": "Do you have a free hand?"
+            },
+            {
+                "code": "free_example_she-hopes-to-someday-live-in-a-free-country",
+                "text": "She hopes to someday live in a free country."
+            },
+            {
+                "code": "free_example_she-visited-a-free-clinic-to-get-medical-treatment",
+                "text": "She visited a free clinic to get medical treatment."
+            },
+            {
+                "code": "free_example_there-is-free-parking-on-sundays",
+                "text": "There is free parking on Sundays."
+            },
+            {
+                "code": "free_example_they-went-to-a-free-concert-last-night",
+                "text": "They went to a free concert last night."
+            },
+            {
+                "code": "free_example_students-are-eligible-for-free-membership",
+                "text": "Students are eligible for free membership."
+            },
+            {
+                "code": "free_example_she-advocates-for-free-speech",
+                "text": "She advocates for free speech."
+            },
+            {
+                "code": "free_example_he-won-a-free-trip-to-new-york-city",
+                "text": "He won a free trip to New York City."
+            },
+            {
+                "code": "free_example_the-school-offers-free-tuition-to-good-students",
+                "text": "The school offers free tuition to good students."
+            },
+            {
+                "code": "free_example_we-never-have-any-free-time",
+                "text": "We never have any free time."
+            }
+        ]
+    },
+    {
+        "type": "(adv)",
+        "mean": "without cost; not trapped or held",
+        "examples": [
+            {
+                "code": "free_example_materials-will-be-provided-for-free",
+                "text": "Materials will be provided for free."
+            },
+            {
+                "code": "free_example_she-managed-to-wriggle-free-from-the-ropes",
+                "text": "She managed to wriggle free from the ropes."
+            },
+            {
+                "code": "free_example_the-animals-roam-free-in-the-pasture",
+                "text": "The animals roam free in the pasture."
+            },
+            {
+                "code": "free_example_my-dog-broke-free-from-his-leash-and-ran-away",
+                "text": "My dog broke free from his leash and ran away."
+            }
+        ]
+    }
+]

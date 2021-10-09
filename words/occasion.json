@@ -1,0 +1,40 @@
+[
+    {
+        "type": "(n)",
+        "mean": "an important or special event; a time when something happens",
+        "examples": [
+            {
+                "code": "occasion_example_i-remembered-the-occasion",
+                "text": "I remembered the occasion."
+            },
+            {
+                "code": "occasion_example_the-occasion-calls-for-wine",
+                "text": "The occasion calls for wine."
+            },
+            {
+                "code": "occasion_example_we-met-him-on-multiple-occasions",
+                "text": "We met him on multiple occasions."
+            },
+            {
+                "code": "occasion_example_it-s-a-special-occasion",
+                "text": "It's a special occasion."
+            },
+            {
+                "code": "occasion_example_this-is-a-historic-occasion",
+                "text": "This is a historic occasion."
+            },
+            {
+                "code": "occasion_example_i-saw-her-on-a-previous-occasion",
+                "text": "I saw her on a previous occasion."
+            },
+            {
+                "code": "occasion_example_it-s-the-right-occasion-to-buy-a-house",
+                "text": "It's the right occasion to buy a house."
+            },
+            {
+                "code": "occasion_example_i-see-her-on-occasion",
+                "text": "I see her on occasion."
+            }
+        ]
+    }
+]

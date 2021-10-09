@@ -1,0 +1,94 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "smooth or level; the same; equal",
+        "examples": [
+            {
+                "code": "even_example_the-shelf-doesn-t-look-even-to-me",
+                "text": "The shelf doesn't look even to me."
+            },
+            {
+                "code": "even_example_the-two-slices-of-pizza-are-even",
+                "text": "The two slices of pizza are even."
+            },
+            {
+                "code": "even_example_the-score-is-even-after-two-quarters",
+                "text": "The score is even after two quarters."
+            },
+            {
+                "code": "even_example_she-tried-to-keep-even-with-the-others",
+                "text": "She tried to keep even with the others."
+            },
+            {
+                "code": "even_example_the-quilting-stitches-will-become-even-with-practice",
+                "text": "The quilting stitches will become even with practice."
+            },
+            {
+                "code": "even_example_he-had-a-hard-time-building-the-deck-completely-even",
+                "text": "He had a hard time building the deck completely even."
+            },
+            {
+                "code": "even_example_the-groups-are-very-even",
+                "text": "The groups are very even."
+            },
+            {
+                "code": "even_example_the-surface-of-the-water-is-very-even",
+                "text": "The surface of the water is very even."
+            },
+            {
+                "code": "even_example_the-presidential-race-is-dead-even",
+                "text": "The presidential race is dead even."
+            },
+            {
+                "code": "even_example_she-tried-to-keep-an-even-tone-while-giving-her-speech",
+                "text": "She tried to keep an even tone while giving her speech."
+            },
+            {
+                "code": "even_example_i-need-an-even-surface-to-put-this-on",
+                "text": "I need an even surface to put this on."
+            },
+            {
+                "code": "even_example_this-has-been-an-even-contest-since-the-start",
+                "text": "This has been an even contest since the start."
+            },
+            {
+                "code": "even_example_we-are-trying-to-have-an-even-number-of-students",
+                "text": "We are trying to have an even number of students."
+            },
+            {
+                "code": "even_example_the-dam-keeps-an-even-flow-of-water-into-the-river",
+                "text": "The dam keeps an even flow of water into the river."
+            },
+            {
+                "code": "even_example_my-dog-has-a-very-even-temperament",
+                "text": "My dog has a very even temperament."
+            }
+        ]
+    },
+    {
+        "type": "(adv)",
+        "mean": "more than before; surprisingly",
+        "examples": [
+            {
+                "code": "even_example_her-day-got-even-better",
+                "text": "Her day got even better."
+            },
+            {
+                "code": "even_example_she-likes-him-even-more-than-before",
+                "text": "She likes him even more than before."
+            },
+            {
+                "code": "even_example_i-can-t-even-contemplate-that-right-now",
+                "text": "I can't even contemplate that right now."
+            },
+            {
+                "code": "even_example_he-hasn-t-even-heard-of-that-band",
+                "text": "He hasn't even heard of that band."
+            },
+            {
+                "code": "even_example_she-hasn-t-even-started-her-homework",
+                "text": "She hasn't even started her homework."
+            }
+        ]
+    }
+]

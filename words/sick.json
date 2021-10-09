@@ -1,0 +1,44 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "not feeling well; physically or mentally ill; annoyed or irritated",
+        "examples": [
+            {
+                "code": "sick_example_john-is-sick-today",
+                "text": "John is sick today."
+            },
+            {
+                "code": "sick_example_she-became-sick-after-eating-spoiled-food",
+                "text": "She became sick after eating spoiled food."
+            },
+            {
+                "code": "sick_example_i-am-getting-sick-of-all-these-delays",
+                "text": "I am getting sick of all these delays."
+            },
+            {
+                "code": "sick_example_you-make-me-sick-with-your-awful-jokes",
+                "text": "You make me sick with your awful jokes."
+            },
+            {
+                "code": "sick_example_my-grandma-is-extremely-sick",
+                "text": "My grandma is extremely sick."
+            },
+            {
+                "code": "sick_example_the-man-is-mentally-sick",
+                "text": "The man is mentally sick."
+            },
+            {
+                "code": "sick_example_they-got-sick-from-eating-undercooked-chicken",
+                "text": "They got sick from eating undercooked chicken."
+            },
+            {
+                "code": "sick_example_she-was-sick-with-the-flu",
+                "text": "She was sick with the flu."
+            },
+            {
+                "code": "sick_example_john-is-sick-of-listening-to-her-complain",
+                "text": "John is sick of listening to her complain."
+            }
+        ]
+    }
+]

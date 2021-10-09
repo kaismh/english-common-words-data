@@ -1,0 +1,218 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the front part of the head with eyes, nose and mouth; an expression or look on a person's face; front part of something",
+        "examples": [
+            {
+                "code": "face_example_the-baby-has-an-angelic-face",
+                "text": "The baby has an angelic face."
+            },
+            {
+                "code": "face_example_she-described-him-as-having-a-plain-face",
+                "text": "She described him as having a plain face."
+            },
+            {
+                "code": "face_example_her-face-was-pale-with-fright",
+                "text": "Her face was pale with fright."
+            },
+            {
+                "code": "face_example_she-has-a-oval-face",
+                "text": "She has a oval face."
+            },
+            {
+                "code": "face_example_her-wrinkled-face-showed-her-age",
+                "text": "Her wrinkled face showed her age."
+            },
+            {
+                "code": "face_example_people-always-think-he-s-young-because-he-has-a-baby-face",
+                "text": "People always think he's young because he has a baby face."
+            },
+            {
+                "code": "face_example_she-always-has-a-smiling-face",
+                "text": "She always has a smiling face."
+            },
+            {
+                "code": "face_example_these-features-are-common-on-a-human-face",
+                "text": "These features are common on a human face."
+            },
+            {
+                "code": "face_example_their-worried-faces-told-me-the-news-was-bad",
+                "text": "Their worried faces told me the news was bad."
+            },
+            {
+                "code": "face_example_you-could-tell-the-movie-was-scary-by-their-frightened-faces",
+                "text": "You could tell the movie was scary by their frightened faces."
+            },
+            {
+                "code": "face_example_he-made-a-disgusted-face-and-left",
+                "text": "He made a disgusted face and left."
+            },
+            {
+                "code": "face_example_there-were-a-lot-of-long-faces-at-school-that-day",
+                "text": "There were a lot of long faces at school that day."
+            },
+            {
+                "code": "face_example_my-teacher-has-a-kind-face",
+                "text": "My teacher has a kind face."
+            },
+            {
+                "code": "face_example_he-kept-a-poker-face-throughout-the-whole-ordeal",
+                "text": "He kept a poker face throughout the whole ordeal."
+            },
+            {
+                "code": "face_example_there-s-a-big-sign-on-the-front-face-of-the-building",
+                "text": "There's a big sign on the front face of the building."
+            },
+            {
+                "code": "face_example_it-ll-be-nice-to-see-some-familiar-faces",
+                "text": "It'll be nice to see some familiar faces."
+            },
+            {
+                "code": "face_example_there-are-many-new-faces-here",
+                "text": "There are many new faces here."
+            },
+            {
+                "code": "face_example_she-hoped-to-see-some-famous-faces-on-her-trip",
+                "text": "She hoped to see some famous faces on her trip."
+            },
+            {
+                "code": "face_example_he-has-a-handsome-face",
+                "text": "He has a handsome face."
+            },
+            {
+                "code": "face_example_she-turned-her-face-towards-the-camera",
+                "text": "She turned her face towards the camera."
+            },
+            {
+                "code": "face_example_she-buried-her-face-in-his-arm",
+                "text": "She buried her face in his arm."
+            },
+            {
+                "code": "face_example_he-covered-his-face-to-hide-his-embarrassment",
+                "text": "He covered his face to hide his embarrassment."
+            },
+            {
+                "code": "face_example_a-face-looked-out-through-the-window",
+                "text": "A face looked out through the window."
+            },
+            {
+                "code": "face_example_her-face-appeared-in-front-of-him",
+                "text": "Her face appeared in front of him."
+            },
+            {
+                "code": "face_example_she-made-a-face-at-her-brother",
+                "text": "She made a face at her brother."
+            },
+            {
+                "code": "face_example_his-face-grew-angry-as-the-meeting-went-on",
+                "text": "His face grew angry as the meeting went on."
+            },
+            {
+                "code": "face_example_their-faces-brightened-at-the-news",
+                "text": "Their faces brightened at the news."
+            },
+            {
+                "code": "face_example_his-face-hardened-with-the-pain",
+                "text": "His face hardened with the pain."
+            },
+            {
+                "code": "face_example_her-face-softened-as-she-smiled",
+                "text": "Her face softened as she smiled."
+            },
+            {
+                "code": "face_example_his-face-flushed-and-he-turned-away",
+                "text": "His face flushed and he turned away."
+            },
+            {
+                "code": "face_example_his-face-indicated-his-true-feelings",
+                "text": "His face indicated his true feelings."
+            },
+            {
+                "code": "face_example_it-s-really-nice-to-see-so-many-new-faces-here",
+                "text": "It's really nice to see so many new faces here."
+            },
+            {
+                "code": "face_example_the-ball-hit-her-right-in-the-face",
+                "text": "The ball hit her right in the face."
+            },
+            {
+                "code": "face_example_she-put-some-cream-on-her-face-before-bed",
+                "text": "She put some cream on her face before bed."
+            },
+            {
+                "code": "face_example_she-always-has-a-smile-on-her-face",
+                "text": "She always has a smile on her face."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to turn toward something; to deal with or accept a situation",
+        "examples": [
+            {
+                "code": "face_example_their-house-faces-the-main-road",
+                "text": "Their house faces the main road."
+            },
+            {
+                "code": "face_example_we-are-facing-a-major-challenge-this-month",
+                "text": "We are facing a major challenge this month."
+            },
+            {
+                "code": "face_example_they-will-face-a-lot-of-danger-on-this-trip",
+                "text": "They will face a lot of danger on this trip."
+            },
+            {
+                "code": "face_example_he-is-facing-some-serious-charges",
+                "text": "He is facing some serious charges."
+            },
+            {
+                "code": "face_example_she-faced-a-lot-of-prejudice-during-her-childhood",
+                "text": "She faced a lot of prejudice during her childhood."
+            },
+            {
+                "code": "face_example_he-always-faces-challenges-head-on",
+                "text": "He always faces challenges head on."
+            },
+            {
+                "code": "face_example_they-are-facing-arrest-by-being-here",
+                "text": "They are facing arrest by being here."
+            },
+            {
+                "code": "face_example_they-want-a-house-that-faces-the-mountains",
+                "text": "They want a house that faces the mountains."
+            },
+            {
+                "code": "face_example_she-turned-to-face-the-blackboard",
+                "text": "She turned to face the blackboard."
+            },
+            {
+                "code": "face_example_she-stays-calm-when-facing-a-crisis",
+                "text": "She stays calm when facing a crisis."
+            },
+            {
+                "code": "face_example_he-faces-humiliation-for-his-confession",
+                "text": "He faces humiliation for his confession."
+            },
+            {
+                "code": "face_example_the-army-faced-the-enemy",
+                "text": "The army faced the enemy."
+            },
+            {
+                "code": "face_example_their-idea-faces-a-lot-of-opposition",
+                "text": "Their idea faces a lot of opposition."
+            },
+            {
+                "code": "face_example_he-will-face-his-opponent-on-saturday",
+                "text": "He will face his opponent on Saturday."
+            },
+            {
+                "code": "face_example_she-is-trying-hard-to-face-her-fears",
+                "text": "She is trying hard to face her fears."
+            },
+            {
+                "code": "face_example_he-has-faced-a-lot-of-setbacks-in-his-research",
+                "text": "He has faced a lot of setbacks in his research."
+            }
+        ]
+    }
+]

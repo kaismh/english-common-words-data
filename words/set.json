@@ -1,0 +1,120 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a group of things belonging together; a place where a movie is filmed",
+        "examples": [
+            {
+                "code": "set_example_we-received-a-complete-set-of-dinner-plates-for-a-wedding-gift",
+                "text": "We received a complete set of dinner plates for a wedding gift."
+            },
+            {
+                "code": "set_example_twins-have-a-common-set-of-characteristics",
+                "text": "Twins have a common set of characteristics."
+            },
+            {
+                "code": "set_example_this-job-requires-a-different-skill-set",
+                "text": "This job requires a different skill set."
+            },
+            {
+                "code": "set_example_he-received-a-drum-set-for-his-birthday",
+                "text": "He received a drum set for his birthday."
+            },
+            {
+                "code": "set_example_she-wants-a-matching-set-of-earrings",
+                "text": "She wants a matching set of earrings."
+            },
+            {
+                "code": "set_example_the-actors-met-on-a-studio-set",
+                "text": "The actors met on a studio set."
+            },
+            {
+                "code": "set_example_she-bought-the-new-doll-to-complete-her-set",
+                "text": "She bought the new doll to complete her set."
+            },
+            {
+                "code": "set_example_this-set-contains-two-rare-pieces",
+                "text": "This set contains two rare pieces."
+            },
+            {
+                "code": "set_example_they-designed-the-television-set-to-look-prehistoric",
+                "text": "They designed the television set to look prehistoric."
+            },
+            {
+                "code": "set_example_there-are-five-books-in-the-set",
+                "text": "There are five books in the set."
+            },
+            {
+                "code": "set_example_i-bought-a-matching-set-of-towels",
+                "text": "I bought a matching set of towels."
+            },
+            {
+                "code": "set_example_the-actors-met-on-the-movie-set",
+                "text": "The actors met on the movie set."
+            },
+            {
+                "code": "set_example_my-sister-is-set-designer",
+                "text": "My sister is set designer."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to put or arrange into a particular position or time",
+        "examples": [
+            {
+                "code": "set_example_please-set-the-table",
+                "text": "Please set the table."
+            },
+            {
+                "code": "set_example_he-set-his-watch-for-three-o-clock",
+                "text": "He set his watch for three o'clock."
+            },
+            {
+                "code": "set_example_they-set-a-date-for-the-wedding",
+                "text": "They set a date for the wedding."
+            },
+            {
+                "code": "set_example_we-need-to-set-a-realistic-budget",
+                "text": "We need to set a realistic budget."
+            },
+            {
+                "code": "set_example_he-set-a-world-record",
+                "text": "He set a world record."
+            }
+        ]
+    },
+    {
+        "type": "(adj)",
+        "mean": "ready; not changing",
+        "examples": [
+            {
+                "code": "set_example_she-is-set-to-leave-in-the-morning",
+                "text": "She is set to leave in the morning."
+            },
+            {
+                "code": "set_example_are-you-really-set-to-go",
+                "text": "Are you really set to go?"
+            },
+            {
+                "code": "set_example_he-had-enough-money-to-be-set-for-life",
+                "text": "He had enough money to be set for life."
+            },
+            {
+                "code": "set_example_she-is-set-on-buying-a-house-in-that-neighborhood",
+                "text": "She is set on buying a house in that neighborhood."
+            },
+            {
+                "code": "set_example_the-store-would-not-negotiate-the-set-fee",
+                "text": "The store would not negotiate the set fee."
+            },
+            {
+                "code": "set_example_he-follows-a-set-routine-every-morning",
+                "text": "He follows a set routine every morning."
+            },
+            {
+                "code": "set_example_there-is-a-set-number-you-can-borrow-each-week",
+                "text": "There is a set number you can borrow each week."
+            }
+        ]
+    }
+]

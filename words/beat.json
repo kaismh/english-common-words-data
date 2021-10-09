@@ -1,0 +1,78 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the rhythmic sound of music or the heart",
+        "examples": [
+            {
+                "code": "beat_example_the-radio-played-a-hip-hop-beat",
+                "text": "The radio played a hip-hop beat."
+            },
+            {
+                "code": "beat_example_i-have-difficulty-clapping-to-the-rhythmic-beat",
+                "text": "I have difficulty clapping to the rhythmic beat."
+            },
+            {
+                "code": "beat_example_can-you-feel-my-heartbeat",
+                "text": "Can you feel my heartbeat?"
+            },
+            {
+                "code": "beat_example_my-heart-is-making-a-pounding-beat",
+                "text": "My heart is making a pounding beat."
+            },
+            {
+                "code": "beat_example_everyone-was-clapping-to-the-beat",
+                "text": "Everyone was clapping to the beat."
+            },
+            {
+                "code": "beat_example_we-could-feel-the-beat",
+                "text": "We could feel the beat."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to defeat; to hit; to move with rhythm",
+        "examples": [
+            {
+                "code": "beat_example_they-easily-beat-the-other-team",
+                "text": "They easily beat the other team."
+            },
+            {
+                "code": "beat_example_she-divorced-her-ex-husband-because-he-badly-beat-her",
+                "text": "She divorced her ex-husband because he badly beat her."
+            },
+            {
+                "code": "beat_example_he-consistently-beat-him-in-every-tournament",
+                "text": "He consistently beat him in every tournament."
+            },
+            {
+                "code": "beat_example_his-heart-is-beating-fast",
+                "text": "His heart is beating fast."
+            },
+            {
+                "code": "beat_example_she-was-frantically-beating-on-her-neighbor-s-door",
+                "text": "She was frantically beating on her neighbor's door."
+            },
+            {
+                "code": "beat_example_she-beat-the-drums-loudly",
+                "text": "She beat the drums loudly."
+            },
+            {
+                "code": "beat_example_you-must-beat-the-eggs-thoroughly",
+                "text": "You must beat the eggs thoroughly."
+            },
+            {
+                "code": "beat_example_my-brother-always-beats-me-at-basketball",
+                "text": "My brother always beats me at basketball."
+            },
+            {
+                "code": "beat_example_we-were-beaten-by-the-other-team",
+                "text": "We were beaten by the other team."
+            },
+            {
+                "code": "beat_example_he-was-beaten-with-a-baseball-bat",
+                "text": "He was beaten with a baseball bat."
+            }
+        ]
+    }
+]

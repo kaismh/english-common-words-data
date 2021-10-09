@@ -1,0 +1,74 @@
+[
+    {
+        "type": "(adv)",
+        "mean": "no more than",
+        "examples": [
+            {
+                "code": "only_example_i-only-want-one-thing-from-her",
+                "text": "I only want one thing from her."
+            },
+            {
+                "code": "only_example_i-only-hope-that-she-will-understand",
+                "text": "I only hope that she will understand."
+            },
+            {
+                "code": "only_example_i-have-only-dreamed-of-going-to-this-university",
+                "text": "I have only dreamed of going to this university."
+            },
+            {
+                "code": "only_example_they-only-exist-in-the-jungle",
+                "text": "They only exist in the jungle."
+            },
+            {
+                "code": "only_example_her-attitude-only-confirms-i-was-right",
+                "text": "Her attitude only confirms I was right."
+            },
+            {
+                "code": "only_example_this-dessert-consists-only-of-five-ingredients",
+                "text": "This dessert consists only of five ingredients."
+            },
+            {
+                "code": "only_example_the-move-is-only-temporary",
+                "text": "The move is only temporary."
+            },
+            {
+                "code": "only_example_it-s-only-natural-to-be-upset-about-the-situation",
+                "text": "It's only natural to be upset about the situation."
+            }
+        ]
+    },
+    {
+        "type": "(adj)",
+        "mean": "being with no one else; having just the one",
+        "examples": [
+            {
+                "code": "only_example_he-is-their-only-child",
+                "text": "He is their only child."
+            },
+            {
+                "code": "only_example_she-is-our-only-daughter",
+                "text": "She is our only daughter."
+            },
+            {
+                "code": "only_example_that-s-our-only-chance",
+                "text": "That's our only chance."
+            },
+            {
+                "code": "only_example_that-was-the-only-time-i-saw-them",
+                "text": "That was the only time I saw them."
+            },
+            {
+                "code": "only_example_noise-is-our-only-complaint-about-the-hotel",
+                "text": "Noise is our only complaint about the hotel."
+            },
+            {
+                "code": "only_example_don-t-lose-that-because-it-s-our-only-copy",
+                "text": "Don't lose that because it's our only copy."
+            },
+            {
+                "code": "only_example_he-was-the-only-survivor-of-the-plane-crash",
+                "text": "He was the only survivor of the plane crash."
+            }
+        ]
+    }
+]

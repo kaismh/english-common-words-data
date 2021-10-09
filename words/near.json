@@ -1,0 +1,60 @@
+[
+    {
+        "type": "(adv)",
+        "mean": "at a short distance or time away",
+        "examples": [
+            {
+                "code": "near_example_he-leaned-near-me",
+                "text": "He leaned near me."
+            },
+            {
+                "code": "near_example_i-don-t-want-to-go-near-there",
+                "text": "I don't want to go near there."
+            },
+            {
+                "code": "near_example_this-is-a-near-impossible-project",
+                "text": "This is a near impossible project."
+            },
+            {
+                "code": "near_example_she-is-a-near-perfect-friend",
+                "text": "She is a near perfect friend."
+            }
+        ]
+    },
+    {
+        "type": "(adj)",
+        "mean": "a short distance or time away",
+        "examples": [
+            {
+                "code": "near_example_in-the-near-future-i-want-to-go-camping",
+                "text": "In the near future, I want to go camping."
+            },
+            {
+                "code": "near_example_it-is-a-near-certainty-that-you-will-get-there-soon",
+                "text": "It is a near certainty that you will get there soon."
+            },
+            {
+                "code": "near_example_he-made-a-near-escape",
+                "text": "He made a near escape."
+            },
+            {
+                "code": "near_example_her-work-is-near-perfection",
+                "text": "Her work is near perfection."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to come close",
+        "examples": [
+            {
+                "code": "near_example_she-is-nearing-death",
+                "text": "She is nearing death."
+            },
+            {
+                "code": "near_example_the-project-is-nearing-completion",
+                "text": "The project is nearing completion."
+            }
+        ]
+    }
+]

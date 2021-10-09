@@ -1,0 +1,44 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "might happen; might be true",
+        "examples": [
+            {
+                "code": "possible_example_it-didn-t-seem-possible",
+                "text": "It didn't seem possible."
+            },
+            {
+                "code": "possible_example_it-is-very-possible-that-she-came-here-first",
+                "text": "It is very possible that she came here first."
+            },
+            {
+                "code": "possible_example_she-has-made-it-all-possible",
+                "text": "She has made it all possible."
+            },
+            {
+                "code": "possible_example_there-are-several-possible-outcomes",
+                "text": "There are several possible outcomes."
+            },
+            {
+                "code": "possible_example_we-have-only-three-possible-options",
+                "text": "We have only three possible options."
+            },
+            {
+                "code": "possible_example_it-is-a-possible-misunderstanding",
+                "text": "It is a possible misunderstanding."
+            },
+            {
+                "code": "possible_example_it-s-quite-possible-that-she-didn-t-hear-you",
+                "text": "It's quite possible that she didn't hear you."
+            },
+            {
+                "code": "possible_example_it-is-still-possible-to-see-the-outline-of-the-building",
+                "text": "It is still possible to see the outline of the building."
+            },
+            {
+                "code": "possible_example_we-are-doing-everything-humanly-possible-to-find-him",
+                "text": "We are doing everything humanly possible to find him."
+            }
+        ]
+    }
+]

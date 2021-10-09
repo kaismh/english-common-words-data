@@ -1,0 +1,108 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the end of life",
+        "examples": [
+            {
+                "code": "death_example_he-suffered-an-early-death",
+                "text": "He suffered an early death."
+            },
+            {
+                "code": "death_example_the-accident-caused-sudden-death",
+                "text": "The accident caused sudden death."
+            },
+            {
+                "code": "death_example_cancer-can-be-a-slow-death",
+                "text": "Cancer can be a slow death."
+            },
+            {
+                "code": "death_example_war-causes-unnecessary-death",
+                "text": "War causes unnecessary death."
+            },
+            {
+                "code": "death_example_she-suffered-a-gruesome-death",
+                "text": "She suffered a gruesome death."
+            },
+            {
+                "code": "death_example_the-family-wants-to-investigate-his-mysterious-death",
+                "text": "The family wants to investigate his mysterious death."
+            },
+            {
+                "code": "death_example_smoking-will-cause-death",
+                "text": "Smoking will cause death."
+            },
+            {
+                "code": "death_example_the-old-woman-was-ready-to-face-death",
+                "text": "The old woman was ready to face death."
+            },
+            {
+                "code": "death_example_the-man-is-near-death",
+                "text": "The man is near death."
+            },
+            {
+                "code": "death_example_nurses-experience-death-every-day",
+                "text": "Nurses experience death every day."
+            },
+            {
+                "code": "death_example_he-suffered-a-painful-death",
+                "text": "He suffered a painful death."
+            },
+            {
+                "code": "death_example_they-are-grieving-the-death-of-their-grandmother",
+                "text": "They are grieving the death of their grandmother."
+            },
+            {
+                "code": "death_example_police-are-investigating-the-suspicious-deaths",
+                "text": "Police are investigating the suspicious deaths."
+            },
+            {
+                "code": "death_example_more-deaths-occur-during-the-holidays",
+                "text": "More deaths occur during the holidays."
+            },
+            {
+                "code": "death_example_that-country-has-a-high-death-rate",
+                "text": "That country has a high death rate."
+            },
+            {
+                "code": "death_example_the-murderer-will-face-the-death-penalty",
+                "text": "The murderer will face the death penalty."
+            },
+            {
+                "code": "death_example_he-is-on-death-row",
+                "text": "He is on death row."
+            },
+            {
+                "code": "death_example_i-received-her-death-certificate",
+                "text": "I received her death certificate."
+            },
+            {
+                "code": "death_example_he-is-on-his-deathbed",
+                "text": "He is on his deathbed."
+            },
+            {
+                "code": "death_example_the-military-has-a-death-squad",
+                "text": "The military has a death squad."
+            },
+            {
+                "code": "death_example_he-received-death-threats-over-his-political-views",
+                "text": "He received death threats over his political views."
+            },
+            {
+                "code": "death_example_the-animal-was-near-death",
+                "text": "The animal was near death."
+            },
+            {
+                "code": "death_example_he-revised-his-will-before-his-death",
+                "text": "He revised his will before his death."
+            },
+            {
+                "code": "death_example_the-building-was-sold-after-his-death",
+                "text": "The building was sold after his death."
+            },
+            {
+                "code": "death_example_many-children-suffer-death-from-abuse",
+                "text": "Many children suffer death from abuse."
+            }
+        ]
+    }
+]

@@ -1,0 +1,36 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "on the outside",
+        "examples": [
+            {
+                "code": "external_example_she-suspected-external-influences-were-involved",
+                "text": "She suspected external influences were involved."
+            },
+            {
+                "code": "external_example_an-external-assessment-of-the-issue-is-being-done",
+                "text": "An external assessment of the issue is being done."
+            },
+            {
+                "code": "external_example_they-are-calculating-the-external-diameter-of-the-object",
+                "text": "They are calculating the external diameter of the object."
+            },
+            {
+                "code": "external_example_she-is-trying-to-find-some-external-funding-for-the-project",
+                "text": "She is trying to find some external funding for the project."
+            },
+            {
+                "code": "external_example_the-ointment-is-for-external-use-only",
+                "text": "The ointment is for external use only."
+            },
+            {
+                "code": "external_example_the-architect-is-designing-the-external-features-of-the-building",
+                "text": "The architect is designing the external features of the building."
+            },
+            {
+                "code": "external_example_have-you-noticed-any-external-symptoms-of-the-disease",
+                "text": "Have you noticed any external symptoms of the disease?"
+            }
+        ]
+    }
+]

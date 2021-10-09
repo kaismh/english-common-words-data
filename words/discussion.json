@@ -1,0 +1,88 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a conversation",
+        "examples": [
+            {
+                "code": "discussion_example_they-had-a-detailed-discussion-about-what-happened",
+                "text": "They had a detailed discussion about what happened."
+            },
+            {
+                "code": "discussion_example_nothing-was-accomplished-during-the-initial-discussion",
+                "text": "Nothing was accomplished during the initial discussion."
+            },
+            {
+                "code": "discussion_example_they-had-public-discussion-about-road-maintenance",
+                "text": "They had public discussion about road maintenance."
+            },
+            {
+                "code": "discussion_example_our-teacher-holds-a-class-discussion",
+                "text": "Our teacher holds a class discussion."
+            },
+            {
+                "code": "discussion_example_the-businessman-would-like-a-one-on-one-discussion",
+                "text": "The businessman would like a one-on-one discussion."
+            },
+            {
+                "code": "discussion_example_let-s-have-a-frank-discussion",
+                "text": "Let's have a frank discussion."
+            },
+            {
+                "code": "discussion_example_they-try-to-promote-constructive-discussion",
+                "text": "They try to promote constructive discussion."
+            },
+            {
+                "code": "discussion_example_he-enjoys-deep-discussions",
+                "text": "He enjoys deep discussions."
+            },
+            {
+                "code": "discussion_example_teachers-should-encourage-critical-discussion",
+                "text": "Teachers should encourage critical discussion."
+            },
+            {
+                "code": "discussion_example_he-had-a-heated-discussion-with-the-mayor",
+                "text": "He had a heated discussion with the mayor."
+            },
+            {
+                "code": "discussion_example_a-simple-remark-can-prompt-a-discussion",
+                "text": "A simple remark can prompt a discussion."
+            },
+            {
+                "code": "discussion_example_who-would-like-to-begin-the-discussion",
+                "text": "Who would like to begin the discussion?"
+            },
+            {
+                "code": "discussion_example_she-always-dominates-our-discussions",
+                "text": "She always dominates our discussions."
+            },
+            {
+                "code": "discussion_example_may-we-continue-the-discussion",
+                "text": "May we continue the discussion?"
+            },
+            {
+                "code": "discussion_example_we-created-a-discussion-group",
+                "text": "We created a discussion group."
+            },
+            {
+                "code": "discussion_example_the-governor-was-aware-of-the-subject-for-discussion",
+                "text": "The governor was aware of the subject for discussion."
+            },
+            {
+                "code": "discussion_example_the-men-have-been-in-discussion-with-them",
+                "text": "The men have been in discussion with them."
+            },
+            {
+                "code": "discussion_example_there-was-a-discussion-among-the-workers",
+                "text": "There was a discussion among the workers."
+            },
+            {
+                "code": "discussion_example_in-our-discussions-you-voiced-your-disappointment-with-the-company",
+                "text": "In our discussions, you voiced your disappointment with the company."
+            },
+            {
+                "code": "discussion_example_they-are-having-a-discussion-about-world-hunger",
+                "text": "They are having a discussion about world hunger."
+            }
+        ]
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to legally take someone else's child into your own family; to accept something new or different",
+        "examples": [
+            {
+                "code": "adopt_example_we-legally-adopted-our-son-last-year",
+                "text": "We legally adopted our son last year."
+            },
+            {
+                "code": "adopt_example_congress-was-forced-to-adopt-unpopular-laws",
+                "text": "Congress was forced to adopt unpopular laws."
+            },
+            {
+                "code": "adopt_example_we-plan-to-adopt-a-child-from-china",
+                "text": "We plan to adopt a child from China."
+            },
+            {
+                "code": "adopt_example_we-are-adopting-new-laws-to-benefit-senior-citizens",
+                "text": "We are adopting new laws to benefit senior citizens."
+            },
+            {
+                "code": "adopt_example_we-adopted-a-child-from-africa",
+                "text": "We adopted a child from Africa."
+            },
+            {
+                "code": "adopt_example_we-adopted-a-dog-from-a-pet-shelter",
+                "text": "We adopted a dog from a pet shelter."
+            }
+        ]
+    }
+]

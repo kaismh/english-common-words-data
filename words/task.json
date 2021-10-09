@@ -1,0 +1,32 @@
+[
+    {
+        "type": "(n)",
+        "mean": "work to be completed",
+        "examples": [
+            {
+                "code": "task_example_that-was-a-challenging-task",
+                "text": "That was a challenging task."
+            },
+            {
+                "code": "task_example_he-had-a-simple-task-of-making-copies",
+                "text": "He had a simple task of making copies."
+            },
+            {
+                "code": "task_example_nobody-was-attempting-the-difficult-task",
+                "text": "Nobody was attempting the difficult task."
+            },
+            {
+                "code": "task_example_she-tackled-that-task-head-on",
+                "text": "She tackled that task head-on."
+            },
+            {
+                "code": "task_example_he-completed-the-task-by-the-deadline",
+                "text": "He completed the task by the deadline."
+            },
+            {
+                "code": "task_example_that-was-an-easy-task-for-the-group",
+                "text": "That was an easy task for the group."
+            }
+        ]
+    }
+]

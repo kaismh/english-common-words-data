@@ -1,0 +1,48 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to understand; to become aware of something; to achieve something",
+        "examples": [
+            {
+                "code": "realize_example_i-failed-to-realize-what-was-happening",
+                "text": "I failed to realize what was happening."
+            },
+            {
+                "code": "realize_example_the-accident-made-me-realize-how-much-i-love-him",
+                "text": "The accident made me realize how much I love him."
+            },
+            {
+                "code": "realize_example_you-don-t-seem-to-realize-what-is-going-on",
+                "text": "You don't seem to realize what is going on."
+            },
+            {
+                "code": "realize_example_i-finally-realized-the-truth-of-the-situation",
+                "text": "I finally realized the truth of the situation."
+            },
+            {
+                "code": "realize_example_he-realized-his-ambition",
+                "text": "He realized his ambition."
+            },
+            {
+                "code": "realize_example_he-soon-realized-his-mistake",
+                "text": "He soon realized his mistake."
+            },
+            {
+                "code": "realize_example_she-slowly-realized-what-was-happening",
+                "text": "She slowly realized what was happening."
+            },
+            {
+                "code": "realize_example_i-didn-t-realize-it-at-first",
+                "text": "I didn't realize it at first."
+            },
+            {
+                "code": "realize_example_i-realize-now-that-i-was-wrong",
+                "text": "I realize now that I was wrong."
+            },
+            {
+                "code": "realize_example_she-never-realized-how-much-she-missed-him",
+                "text": "She never realized how much she missed him."
+            }
+        ]
+    }
+]

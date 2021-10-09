@@ -1,0 +1,60 @@
+[
+    {
+        "type": "(n)",
+        "mean": "part of the upper body that connects the shoulder to the hand",
+        "examples": [
+            {
+                "code": "arm_example_i-have-a-tattoo-on-my-left-arm",
+                "text": "I have a tattoo on my left arm."
+            },
+            {
+                "code": "arm_example_he-has-powerful-arms",
+                "text": "He has powerful arms."
+            },
+            {
+                "code": "arm_example_she-has-a-broken-arm",
+                "text": "She has a broken arm."
+            },
+            {
+                "code": "arm_example_we-welcome-you-with-open-arms",
+                "text": "We welcome you with open arms."
+            },
+            {
+                "code": "arm_example_he-misses-the-loving-arms-of-his-wife",
+                "text": "He misses the loving arms of his wife."
+            },
+            {
+                "code": "arm_example_can-you-bend-your-arm",
+                "text": "Can you bend your arm?"
+            },
+            {
+                "code": "arm_example_he-broke-his-arm",
+                "text": "He broke his arm."
+            },
+            {
+                "code": "arm_example_i-crossed-my-arms-because-it-was-cold",
+                "text": "I crossed my arms because it was cold."
+            },
+            {
+                "code": "arm_example_the-doctors-amputated-his-arm",
+                "text": "The doctors amputated his arm."
+            },
+            {
+                "code": "arm_example_he-grabbed-her-arm",
+                "text": "He grabbed her arm."
+            },
+            {
+                "code": "arm_example_she-has-an-arm-injury",
+                "text": "She has an arm injury."
+            },
+            {
+                "code": "arm_example_she-pulled-an-arm-muscle",
+                "text": "She pulled an arm muscle."
+            },
+            {
+                "code": "arm_example_the-shirt-restricts-arm-movement",
+                "text": "The shirt restricts arm movement."
+            }
+        ]
+    }
+]

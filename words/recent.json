@@ -1,0 +1,48 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "happening or done a short time ago",
+        "examples": [
+            {
+                "code": "recent_example_it-is-a-fairly-recent-development",
+                "text": "It is a fairly recent development."
+            },
+            {
+                "code": "recent_example_it-is-a-pretty-recent-finding",
+                "text": "It is a pretty recent finding."
+            },
+            {
+                "code": "recent_example_there-was-a-recent-outbreak-of-the-flu",
+                "text": "There was a recent outbreak of the flu."
+            },
+            {
+                "code": "recent_example_she-is-a-recent-graduate",
+                "text": "She is a recent graduate."
+            },
+            {
+                "code": "recent_example_recent-findings-have-changed-our-views",
+                "text": "Recent findings have changed our views."
+            },
+            {
+                "code": "recent_example_i-bought-a-recent-edition-of-her-book",
+                "text": "I bought a recent edition of her book."
+            },
+            {
+                "code": "recent_example_i-haven-t-seen-anything-like-that-in-recent-years",
+                "text": "I haven't seen anything like that in recent years."
+            },
+            {
+                "code": "recent_example_he-made-a-recent-appearance",
+                "text": "He made a recent appearance."
+            },
+            {
+                "code": "recent_example_the-building-has-gone-through-recent-improvements",
+                "text": "The building has gone through recent improvements."
+            },
+            {
+                "code": "recent_example_people-have-been-talking-about-the-recent-scandal",
+                "text": "People have been talking about the recent scandal."
+            }
+        ]
+    }
+]

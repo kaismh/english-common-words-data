@@ -1,0 +1,24 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "familiar, accepted as knowledge by many people",
+        "examples": [
+            {
+                "code": "known_example_there-is-no-known-cure-for-the-disease",
+                "text": "There is no known cure for the disease."
+            },
+            {
+                "code": "known_example_he-is-a-known-criminal",
+                "text": "He is a known criminal."
+            },
+            {
+                "code": "known_example_it-is-a-known-fact-that-excessive-eating-causes-weight-gain",
+                "text": "It is a known fact that excessive eating causes weight gain."
+            },
+            {
+                "code": "known_example_there-are-no-known-side-effects-with-this-medication",
+                "text": "There are no known side effects with this medication."
+            }
+        ]
+    }
+]

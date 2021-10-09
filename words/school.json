@@ -1,0 +1,84 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a place to learn",
+        "examples": [
+            {
+                "code": "school_example_i-went-to-elementary-school-in-seattle",
+                "text": "I went to elementary school in Seattle."
+            },
+            {
+                "code": "school_example_she-sent-her-kids-to-boarding-school",
+                "text": "She sent her kids to boarding school."
+            },
+            {
+                "code": "school_example_james-had-to-attend-summer-school-after-failing-math",
+                "text": "James had to attend summer school after failing math."
+            },
+            {
+                "code": "school_example_she-went-to-law-school-in-new-york",
+                "text": "She went to law school in New York."
+            },
+            {
+                "code": "school_example_i-went-to-school-in-florida",
+                "text": "I went to school in Florida."
+            },
+            {
+                "code": "school_example_i-started-school-at-five-years-old",
+                "text": "I started school at five years old."
+            },
+            {
+                "code": "school_example_she-stayed-in-school-until-she-was-eighteen",
+                "text": "She stayed in school until she was eighteen."
+            },
+            {
+                "code": "school_example_mark-dropped-out-of-school-when-he-was-seventeen",
+                "text": "Mark dropped out of school when he was seventeen."
+            },
+            {
+                "code": "school_example_he-teaches-elementary-school-in-atlanta",
+                "text": "He teaches elementary school in Atlanta."
+            },
+            {
+                "code": "school_example_our-class-went-to-the-school-gym",
+                "text": "Our class went to the school gym."
+            },
+            {
+                "code": "school_example_he-was-sent-to-the-school-principal",
+                "text": "He was sent to the school principal."
+            },
+            {
+                "code": "school_example_school-meals-are-rarely-healthy",
+                "text": "School meals are rarely healthy."
+            },
+            {
+                "code": "school_example_the-school-rules-are-very-strict",
+                "text": "The school rules are very strict."
+            },
+            {
+                "code": "school_example_he-rides-the-school-bus-every-morning",
+                "text": "He rides the school bus every morning."
+            },
+            {
+                "code": "school_example_my-kids-wear-school-uniforms",
+                "text": "My kids wear school uniforms."
+            },
+            {
+                "code": "school_example_let-s-meet-after-school",
+                "text": "Let's meet after school."
+            },
+            {
+                "code": "school_example_he-wasn-t-very-good-at-school",
+                "text": "He wasn't very good at school."
+            },
+            {
+                "code": "school_example_she-is-the-smartest-child-in-the-school",
+                "text": "She is the smartest child in the school."
+            },
+            {
+                "code": "school_example_it-is-time-to-get-ready-for-school",
+                "text": "It is time to get ready for school."
+            }
+        ]
+    }
+]

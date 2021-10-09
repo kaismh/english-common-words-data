@@ -1,0 +1,48 @@
+[
+    {
+        "type": "(n)",
+        "mean": "an organization that provides money for a specific purpose; the solid base of a building; the idea or plan that something is based on",
+        "examples": [
+            {
+                "code": "foundation_example_she-works-for-a-charitable-foundation",
+                "text": "She works for a charitable foundation."
+            },
+            {
+                "code": "foundation_example_the-tower-was-built-on-a-deep-foundation",
+                "text": "The tower was built on a deep foundation."
+            },
+            {
+                "code": "foundation_example_his-ideals-have-a-strong-foundation",
+                "text": "His ideals have a strong foundation."
+            },
+            {
+                "code": "foundation_example_her-opinion-has-a-very-weak-foundation",
+                "text": "Her opinion has a very weak foundation."
+            },
+            {
+                "code": "foundation_example_there-is-a-strong-moral-foundation-for-his-argument",
+                "text": "There is a strong moral foundation for his argument."
+            },
+            {
+                "code": "foundation_example_they-established-the-foundation-ten-years-ago",
+                "text": "They established the foundation ten years ago."
+            },
+            {
+                "code": "foundation_example_they-are-digging-the-foundation-for-the-new-building",
+                "text": "They are digging the foundation for the new building."
+            },
+            {
+                "code": "foundation_example_his-research-laid-the-foundation-for-future-scientists",
+                "text": "His research laid the foundation for future scientists."
+            },
+            {
+                "code": "foundation_example_new-discoveries-destroyed-the-foundation-of-his-argument",
+                "text": "New discoveries destroyed the foundation of his argument."
+            },
+            {
+                "code": "foundation_example_her-parents-created-a-good-foundation-for-learning",
+                "text": "Her parents created a good foundation for learning."
+            }
+        ]
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "not clean",
+        "examples": [
+            {
+                "code": "dirty_example_her-hair-is-dirty",
+                "text": "Her hair is dirty."
+            },
+            {
+                "code": "dirty_example_we-got-dirty-playing-in-the-mud",
+                "text": "We got dirty playing in the mud."
+            },
+            {
+                "code": "dirty_example_the-car-is-extremely-dirty",
+                "text": "The car is extremely dirty."
+            },
+            {
+                "code": "dirty_example_my-shirt-is-a-little-dirty",
+                "text": "My shirt is a little dirty."
+            },
+            {
+                "code": "dirty_example_clean-your-dirty-clothes",
+                "text": "Clean your dirty clothes."
+            },
+            {
+                "code": "dirty_example_don-t-touch-the-dirty-water",
+                "text": "Don't touch the dirty water."
+            }
+        ]
+    }
+]

@@ -1,0 +1,100 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a young person who is not yet an adult; a young boy or girl",
+        "examples": [
+            {
+                "code": "child_example_i-m-writing-a-book-for-young-children",
+                "text": "I'm writing a book for young children."
+            },
+            {
+                "code": "child_example_you-have-very-good-children",
+                "text": "You have very good children."
+            },
+            {
+                "code": "child_example_this-child-is-aggressive",
+                "text": "This child is aggressive."
+            },
+            {
+                "code": "child_example_she-works-with-abused-children",
+                "text": "She works with abused children."
+            },
+            {
+                "code": "child_example_this-charity-helps-sickly-children",
+                "text": "This charity helps sickly children."
+            },
+            {
+                "code": "child_example_she-is-just-an-innocent-child",
+                "text": "She is just an innocent child."
+            },
+            {
+                "code": "child_example_she-is-the-only-child",
+                "text": "She is the only child."
+            },
+            {
+                "code": "child_example_the-law-protects-unborn-children",
+                "text": "The law protects unborn children."
+            },
+            {
+                "code": "child_example_there-are-tax-credits-for-dependent-children",
+                "text": "There are tax credits for dependent children."
+            },
+            {
+                "code": "child_example_would-you-like-to-have-a-child",
+                "text": "Would you like to have a child?"
+            },
+            {
+                "code": "child_example_are-you-expecting-a-child",
+                "text": "Are you expecting a child?"
+            },
+            {
+                "code": "child_example_it-was-very-painful-for-her-to-lose-her-child",
+                "text": "It was very painful for her to lose her child."
+            },
+            {
+                "code": "child_example_don-t-spoil-your-children",
+                "text": "Don't spoil your children."
+            },
+            {
+                "code": "child_example_i-love-my-child",
+                "text": "I love my child."
+            },
+            {
+                "code": "child_example_it-s-rewarding-to-educate-a-child",
+                "text": "It's rewarding to educate a child."
+            },
+            {
+                "code": "child_example_their-child-was-kidnapped",
+                "text": "Their child was kidnapped."
+            },
+            {
+                "code": "child_example_when-was-your-child-born",
+                "text": "When was your child born?"
+            },
+            {
+                "code": "child_example_children-grow-so-quickly",
+                "text": "Children grow so quickly."
+            },
+            {
+                "code": "child_example_our-child-screamed-in-the-store",
+                "text": "Our child screamed in the store."
+            },
+            {
+                "code": "child_example_she-was-a-child-actor",
+                "text": "She was a child actor."
+            },
+            {
+                "code": "child_example_i-m-studying-child-development",
+                "text": "I'm studying child development."
+            },
+            {
+                "code": "child_example_he-refuses-to-pay-child-support",
+                "text": "He refuses to pay child support."
+            },
+            {
+                "code": "child_example_the-law-needs-to-be-tougher-on-child-abuse",
+                "text": "The law needs to be tougher on child abuse."
+            }
+        ]
+    }
+]

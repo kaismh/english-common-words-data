@@ -1,0 +1,96 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "weighs a lot; greater than normal; thick",
+        "examples": [
+            {
+                "code": "heavy_example_that-box-is-really-heavy",
+                "text": "That box is really heavy."
+            },
+            {
+                "code": "heavy_example_he-is-getting-too-heavy-to-carry",
+                "text": "He is getting too heavy to carry."
+            },
+            {
+                "code": "heavy_example_the-books-are-making-this-box-really-heavy",
+                "text": "The books are making this box really heavy."
+            },
+            {
+                "code": "heavy_example_i-don-t-find-that-heavy",
+                "text": "I don't find that heavy."
+            },
+            {
+                "code": "heavy_example_the-rain-is-really-heavy-today",
+                "text": "The rain is really heavy today."
+            },
+            {
+                "code": "heavy_example_traffic-gets-heavy-in-the-afternoon",
+                "text": "Traffic gets heavy in the afternoon."
+            },
+            {
+                "code": "heavy_example_my-suitcase-is-extremely-heavy",
+                "text": "My suitcase is extremely heavy."
+            },
+            {
+                "code": "heavy_example_heavy-rain-is-in-the-forecast",
+                "text": "Heavy rain is in the forecast."
+            },
+            {
+                "code": "heavy_example_you-need-training-to-use-heavy-equipment",
+                "text": "You need training to use heavy equipment."
+            },
+            {
+                "code": "heavy_example_i-need-a-heavy-blanket-to-keep-me-warm",
+                "text": "I need a heavy blanket to keep me warm."
+            },
+            {
+                "code": "heavy_example_the-castle-has-a-heavy-door",
+                "text": "The castle has a heavy door."
+            },
+            {
+                "code": "heavy_example_secure-the-gate-with-a-heavy-chain",
+                "text": "Secure the gate with a heavy chain."
+            },
+            {
+                "code": "heavy_example_heavy-fog-covered-the-city",
+                "text": "Heavy fog covered the city."
+            },
+            {
+                "code": "heavy_example_he-is-moving-a-heavy-load",
+                "text": "He is moving a heavy load."
+            },
+            {
+                "code": "heavy_example_he-has-a-heavy-accent",
+                "text": "He has a heavy accent."
+            },
+            {
+                "code": "heavy_example_there-is-heavy-traffic-today",
+                "text": "There is heavy traffic today."
+            },
+            {
+                "code": "heavy_example_she-wears-heavy-make-up",
+                "text": "She wears heavy make-up."
+            },
+            {
+                "code": "heavy_example_she-received-a-heavy-sentence-for-her-crimes",
+                "text": "She received a heavy sentence for her crimes."
+            },
+            {
+                "code": "heavy_example_the-doctors-are-keeping-her-under-heavy-sedation",
+                "text": "The doctors are keeping her under heavy sedation."
+            },
+            {
+                "code": "heavy_example_be-careful-moving-heavy-weights",
+                "text": "Be careful moving heavy weights."
+            },
+            {
+                "code": "heavy_example_he-was-a-heavy-smoker-for-many-years",
+                "text": "He was a heavy smoker for many years."
+            },
+            {
+                "code": "heavy_example_that-was-a-really-heavy-meal",
+                "text": "That was a really heavy meal."
+            }
+        ]
+    }
+]

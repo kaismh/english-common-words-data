@@ -1,0 +1,56 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a solid shiny substance that can be melted and formed into shapes",
+        "examples": [
+            {
+                "code": "metal_example_the-welder-melted-the-metal-into-shapes",
+                "text": "The welder melted the metal into shapes."
+            },
+            {
+                "code": "metal_example_the-gate-is-made-of-metal",
+                "text": "The gate is made of metal."
+            },
+            {
+                "code": "metal_example_we-re-using-a-metal-pipe",
+                "text": "We're using a metal pipe."
+            },
+            {
+                "code": "metal_example_the-material-is-a-metal-alloy",
+                "text": "The material is a metal alloy."
+            },
+            {
+                "code": "metal_example_i-find-coins-with-a-metal-detector",
+                "text": "I find coins with a metal detector."
+            },
+            {
+                "code": "metal_example_we-found-a-metal-object-in-the-sand",
+                "text": "We found a metal object in the sand."
+            },
+            {
+                "code": "metal_example_they-installed-a-metal-door",
+                "text": "They installed a metal door."
+            },
+            {
+                "code": "metal_example_he-collects-precious-metals",
+                "text": "He collects precious metals."
+            },
+            {
+                "code": "metal_example_the-roof-is-made-of-corrugated-metal",
+                "text": "The roof is made of corrugated metal."
+            },
+            {
+                "code": "metal_example_this-gate-is-solid-metal",
+                "text": "This gate is solid metal."
+            },
+            {
+                "code": "metal_example_i-was-distracted-by-the-shiny-metal",
+                "text": "I was distracted by the shiny metal."
+            },
+            {
+                "code": "metal_example_he-sculpted-something-out-of-soft-metal",
+                "text": "He sculpted something out of soft metal."
+            }
+        ]
+    }
+]

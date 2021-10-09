@@ -1,0 +1,68 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the act of putting letters, words, or numbers on paper or another surface using a pen or pencil; written words to form a story or poem",
+        "examples": [
+            {
+                "code": "writing_example_her-english-class-teaches-creative-writing",
+                "text": "Her English class teaches creative writing."
+            },
+            {
+                "code": "writing_example_his-writing-is-not-clear",
+                "text": "His writing is not clear."
+            },
+            {
+                "code": "writing_example_she-needs-help-with-essay-writing",
+                "text": "She needs help with essay writing."
+            },
+            {
+                "code": "writing_example_she-does-freelance-writing",
+                "text": "She does freelance writing."
+            },
+            {
+                "code": "writing_example_i-need-to-improve-my-writing",
+                "text": "I need to improve my writing."
+            },
+            {
+                "code": "writing_example_she-teaches-basic-writing-in-school",
+                "text": "She teaches basic writing in school."
+            },
+            {
+                "code": "writing_example_have-you-read-his-writing",
+                "text": "Have you read his writing?"
+            },
+            {
+                "code": "writing_example_they-are-publishing-her-early-writings",
+                "text": "They are publishing her early writings."
+            },
+            {
+                "code": "writing_example_he-put-his-demands-in-writing",
+                "text": "He put his demands in writing."
+            },
+            {
+                "code": "writing_example_people-love-his-writings-about-nature",
+                "text": "People love his writings about nature."
+            },
+            {
+                "code": "writing_example_she-expresses-her-feelings-through-her-writing",
+                "text": "She expresses her feelings through her writing."
+            },
+            {
+                "code": "writing_example_he-has-great-writing-skills",
+                "text": "He has great writing skills."
+            },
+            {
+                "code": "writing_example_i-love-her-writing-style",
+                "text": "I love her writing style."
+            },
+            {
+                "code": "writing_example_i-have-an-antique-writing-desk",
+                "text": "I have an antique writing desk."
+            },
+            {
+                "code": "writing_example_i-need-more-writing-paper",
+                "text": "I need more writing paper."
+            }
+        ]
+    }
+]

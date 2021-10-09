@@ -1,0 +1,56 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "strong; having control or influence over people",
+        "examples": [
+            {
+                "code": "powerful_example_he-has-grown-too-powerful",
+                "text": "He has grown too powerful."
+            },
+            {
+                "code": "powerful_example_he-looks-powerful",
+                "text": "He looks powerful."
+            },
+            {
+                "code": "powerful_example_he-is-a-powerful-leader",
+                "text": "He is a powerful leader."
+            },
+            {
+                "code": "powerful_example_she-had-a-powerful-impact-on-me",
+                "text": "She had a powerful impact on me."
+            },
+            {
+                "code": "powerful_example_the-actor-gave-a-powerful-performance",
+                "text": "The actor gave a powerful performance."
+            },
+            {
+                "code": "powerful_example_he-has-a-powerful-presence",
+                "text": "He has a powerful presence."
+            },
+            {
+                "code": "powerful_example_they-have-a-powerful-army",
+                "text": "They have a powerful army."
+            },
+            {
+                "code": "powerful_example_that-was-a-powerful-message",
+                "text": "That was a powerful message."
+            },
+            {
+                "code": "powerful_example_he-has-many-powerful-enemies",
+                "text": "He has many powerful enemies."
+            },
+            {
+                "code": "powerful_example_there-was-a-powerful-explosion-at-the-factory",
+                "text": "There was a powerful explosion at the factory."
+            },
+            {
+                "code": "powerful_example_she-is-very-powerful",
+                "text": "She is very powerful."
+            },
+            {
+                "code": "powerful_example_she-is-unusually-powerful-for-her-size",
+                "text": "She is unusually powerful for her size."
+            }
+        ]
+    }
+]

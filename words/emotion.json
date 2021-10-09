@@ -1,0 +1,80 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a strong feeling",
+        "examples": [
+            {
+                "code": "emotion_example_she-felt-strong-emotions-after-her-father-s-death",
+                "text": "She felt strong emotions after her father's death."
+            },
+            {
+                "code": "emotion_example_he-showed-genuine-emotion-today",
+                "text": "He showed genuine emotion today."
+            },
+            {
+                "code": "emotion_example_bad-memories-can-cause-painful-emotions",
+                "text": "Bad memories can cause painful emotions."
+            },
+            {
+                "code": "emotion_example_she-had-conflicting-emotions-about-moving",
+                "text": "She had conflicting emotions about moving."
+            },
+            {
+                "code": "emotion_example_his-suppressed-emotions-came-out-in-the-argument",
+                "text": "His suppressed emotions came out in the argument."
+            },
+            {
+                "code": "emotion_example_sadness-is-a-normal-human-emotion",
+                "text": "Sadness is a normal human emotion."
+            },
+            {
+                "code": "emotion_example_her-face-didn-t-show-any-trace-of-emotion",
+                "text": "Her face didn't show any trace of emotion."
+            },
+            {
+                "code": "emotion_example_a-flood-of-emotions-suddenly-came-over-her",
+                "text": "A flood of emotions suddenly came over her."
+            },
+            {
+                "code": "emotion_example_she-felt-many-emotions-after-her-dog-died",
+                "text": "She felt many emotions after her dog died."
+            },
+            {
+                "code": "emotion_example_he-was-overcome-with-emotion",
+                "text": "He was overcome with emotion."
+            },
+            {
+                "code": "emotion_example_the-killer-lacked-any-emotion",
+                "text": "The killer lacked any emotion."
+            },
+            {
+                "code": "emotion_example_he-isn-t-very-good-at-showing-his-emotions",
+                "text": "He isn't very good at showing his emotions."
+            },
+            {
+                "code": "emotion_example_releasing-your-emotions-may-help-you-feel-better",
+                "text": "Releasing your emotions may help you feel better."
+            },
+            {
+                "code": "emotion_example_tears-in-his-eyes-revealed-his-true-emotions",
+                "text": "Tears in his eyes revealed his true emotions."
+            },
+            {
+                "code": "emotion_example_she-has-a-hard-time-controlling-her-emotions",
+                "text": "She has a hard time controlling her emotions."
+            },
+            {
+                "code": "emotion_example_the-attack-stirred-up-strong-emotions",
+                "text": "The attack stirred up strong emotions."
+            },
+            {
+                "code": "emotion_example_he-always-hides-his-emotions-in-public",
+                "text": "He always hides his emotions in public."
+            },
+            {
+                "code": "emotion_example_he-reacted-without-emotion",
+                "text": "He reacted without emotion."
+            }
+        ]
+    }
+]

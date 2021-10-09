@@ -1,0 +1,32 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "able to move",
+        "examples": [
+            {
+                "code": "mobile_example_what-kind-of-mobile-phone-do-you-have",
+                "text": "What kind of mobile phone do you have?"
+            },
+            {
+                "code": "mobile_example_they-lived-in-a-mobile-home-for-a-year",
+                "text": "They lived in a mobile home for a year."
+            },
+            {
+                "code": "mobile_example_my-grandfather-is-extremely-mobile-for-someone-his-age",
+                "text": "My grandfather is extremely mobile for someone his age."
+            },
+            {
+                "code": "mobile_example_our-daughter-is-becoming-increasingly-mobile",
+                "text": "Our daughter is becoming increasingly mobile."
+            },
+            {
+                "code": "mobile_example_she-is-very-mobile-for-someone-who-just-had-a-baby",
+                "text": "She is very mobile for someone who just had a baby."
+            },
+            {
+                "code": "mobile_example_our-baby-is-becoming-more-and-more-mobile-each-day",
+                "text": "Our baby is becoming more and more mobile each day."
+            }
+        ]
+    }
+]

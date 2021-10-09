@@ -1,0 +1,44 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a large container for holding liquid or gas; a military vehicle",
+        "examples": [
+            {
+                "code": "tank_example_my-car-s-gas-tank-is-empty",
+                "text": "My car's gas tank is empty."
+            },
+            {
+                "code": "tank_example_we-need-to-replace-the-water-tank",
+                "text": "We need to replace the water tank."
+            },
+            {
+                "code": "tank_example_i-saw-an-armored-tank-coming-over-the-hill",
+                "text": "I saw an armored tank coming over the hill."
+            },
+            {
+                "code": "tank_example_how-do-you-fill-the-water-tank",
+                "text": "How do you fill the water tank?"
+            },
+            {
+                "code": "tank_example_the-tank-contains-liquid",
+                "text": "The tank contains liquid."
+            },
+            {
+                "code": "tank_example_a-soldier-climbed-into-the-enemy-tank",
+                "text": "A soldier climbed into the enemy tank."
+            },
+            {
+                "code": "tank_example_he-drives-an-army-tank",
+                "text": "He drives an army tank."
+            },
+            {
+                "code": "tank_example_the-military-tanks-rolled-into-the-enemy-territory",
+                "text": "The military tanks rolled into the enemy territory."
+            },
+            {
+                "code": "tank_example_we-added-more-water-to-the-fish-tank",
+                "text": "We added more water to the fish tank."
+            }
+        ]
+    }
+]

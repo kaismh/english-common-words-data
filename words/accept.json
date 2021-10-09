@@ -1,0 +1,40 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to take or receive; to agree",
+        "examples": [
+            {
+                "code": "accept_example_he-gratefully-accepted-my-help",
+                "text": "He gratefully accepted my help."
+            },
+            {
+                "code": "accept_example_i-am-unable-to-accept-your-late-homework",
+                "text": "I am unable to accept your late homework."
+            },
+            {
+                "code": "accept_example_i-have-to-accept-punishment-for-my-crimes",
+                "text": "I have to accept punishment for my crimes."
+            },
+            {
+                "code": "accept_example_you-have-to-accept-responsibility-for-your-actions",
+                "text": "You have to accept responsibility for your actions."
+            },
+            {
+                "code": "accept_example_my-new-school-is-accepting-credits-from-my-previous-school",
+                "text": "My new school is accepting credits from my previous school."
+            },
+            {
+                "code": "accept_example_we-are-accepting-applications-at-this-time",
+                "text": "We are accepting applications at this time."
+            },
+            {
+                "code": "accept_example_we-accept-cash",
+                "text": "We accept cash."
+            },
+            {
+                "code": "accept_example_i-accept-your-suggestion",
+                "text": "I accept your suggestion."
+            }
+        ]
+    }
+]

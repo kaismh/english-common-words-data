@@ -1,0 +1,32 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the careful examination of something",
+        "examples": [
+            {
+                "code": "analysis_example_the-scientist-conducted-a-close-analysis-of-the-results",
+                "text": "The scientist conducted a close analysis of the results."
+            },
+            {
+                "code": "analysis_example_can-i-trust-your-objective-analysis",
+                "text": "Can I trust your objective analysis?"
+            },
+            {
+                "code": "analysis_example_they-performed-an-analysis-of-the-results",
+                "text": "They performed an analysis of the results."
+            },
+            {
+                "code": "analysis_example_the-analysis-indicated-a-need-for-revisions",
+                "text": "The analysis indicated a need for revisions."
+            },
+            {
+                "code": "analysis_example_please-complete-your-analysis-of-the-book",
+                "text": "Please complete your analysis of the book."
+            },
+            {
+                "code": "analysis_example_he-was-surprised-to-find-wrong-information-in-his-analysis",
+                "text": "He was surprised to find wrong information in his analysis."
+            }
+        ]
+    }
+]

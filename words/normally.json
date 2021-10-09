@@ -1,0 +1,28 @@
+[
+    {
+        "type": "(adv)",
+        "mean": "usually; in the expected way",
+        "examples": [
+            {
+                "code": "normally_example_i-normally-use-the-door",
+                "text": "I normally use the door."
+            },
+            {
+                "code": "normally_example_the-car-is-functioning-normally",
+                "text": "The car is functioning normally."
+            },
+            {
+                "code": "normally_example_she-is-behaving-normally",
+                "text": "She is behaving normally."
+            },
+            {
+                "code": "normally_example_it-is-normally-quiet-around-here",
+                "text": "It is normally quiet around here."
+            },
+            {
+                "code": "normally_example_it-is-normally-busy-at-the-shopping-mall-during-the-holidays",
+                "text": "It is normally busy at the shopping mall during the holidays."
+            }
+        ]
+    }
+]

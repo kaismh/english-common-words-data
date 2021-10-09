@@ -1,0 +1,52 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the border between land and water",
+        "examples": [
+            {
+                "code": "coast_example_this-is-a-rocky-coast",
+                "text": "This is a rocky coast."
+            },
+            {
+                "code": "coast_example_we-live-on-the-east-coast",
+                "text": "We live on the east coast."
+            },
+            {
+                "code": "coast_example_we-like-walking-along-the-sea-coast",
+                "text": "We like walking along the sea coast."
+            },
+            {
+                "code": "coast_example_the-city-is-near-the-atlantic-coast",
+                "text": "The city is near the Atlantic coast."
+            },
+            {
+                "code": "coast_example_when-will-the-storm-reach-the-coast",
+                "text": "When will the storm reach the coast?"
+            },
+            {
+                "code": "coast_example_the-road-follows-the-coast",
+                "text": "The road follows the coast."
+            },
+            {
+                "code": "coast_example_we-ll-drive-along-the-coast-road",
+                "text": "We'll drive along the coast road."
+            },
+            {
+                "code": "coast_example_i-like-to-walk-along-the-coast",
+                "text": "I like to walk along the coast."
+            },
+            {
+                "code": "coast_example_we-sailed-around-the-coast",
+                "text": "We sailed around the coast."
+            },
+            {
+                "code": "coast_example_they-spent-their-honeymoon-at-the-coast",
+                "text": "They spent their honeymoon at the coast."
+            },
+            {
+                "code": "coast_example_they-re-fishing-just-off-the-coast",
+                "text": "They're fishing just off the coast."
+            }
+        ]
+    }
+]

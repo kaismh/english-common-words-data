@@ -1,0 +1,94 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to imagine something",
+        "examples": [
+            {
+                "code": "picture_example_can-you-picture-the-scene-of-the-accident",
+                "text": "Can you picture the scene of the accident?"
+            }
+        ]
+    },
+    {
+        "type": "(n)",
+        "mean": "an image of something; a painting or drawing; a photograph; a movie",
+        "examples": [
+            {
+                "code": "picture_example_my-daughter-made-a-picture",
+                "text": "My daughter made a picture."
+            },
+            {
+                "code": "picture_example_we-posed-for-a-picture-together",
+                "text": "We posed for a picture together."
+            },
+            {
+                "code": "picture_example_i-took-a-picture-of-them",
+                "text": "I took a picture of them."
+            },
+            {
+                "code": "picture_example_i-framed-the-picture",
+                "text": "I framed the picture."
+            },
+            {
+                "code": "picture_example_look-at-this-picture",
+                "text": "Look at this picture."
+            },
+            {
+                "code": "picture_example_she-uploaded-five-pictures",
+                "text": "She uploaded five pictures."
+            },
+            {
+                "code": "picture_example_these-picture-frames-are-expensive",
+                "text": "These picture frames are expensive."
+            },
+            {
+                "code": "picture_example_picture-books-are-for-children",
+                "text": "Picture books are for children."
+            },
+            {
+                "code": "picture_example_i-received-a-picture-postcard-from-their-trip",
+                "text": "I received a picture postcard from their trip."
+            },
+            {
+                "code": "picture_example_we-looked-at-his-baby-pictures",
+                "text": "We looked at his baby pictures."
+            },
+            {
+                "code": "picture_example_he-takes-such-beautiful-pictures",
+                "text": "He takes such beautiful pictures."
+            },
+            {
+                "code": "picture_example_the-pictures-were-blurry",
+                "text": "The pictures were blurry."
+            },
+            {
+                "code": "picture_example_he-loves-taking-black-and-white-pictures",
+                "text": "He loves taking black and white pictures."
+            },
+            {
+                "code": "picture_example_i-don-t-think-you-are-seeing-the-whole-picture",
+                "text": "I don't think you are seeing the whole picture."
+            },
+            {
+                "code": "picture_example_she-painted-a-clear-picture-of-what-her-life-would-be-like-in-five-years",
+                "text": "She painted a clear picture of what her life would be like in five years."
+            },
+            {
+                "code": "picture_example_he-directed-a-major-picture-for-hollywood",
+                "text": "He directed a major picture for Hollywood."
+            },
+            {
+                "code": "picture_example_the-movie-won-an-award-for-best-picture",
+                "text": "The movie won an award for best picture."
+            },
+            {
+                "code": "picture_example_it-is-a-picture-of-a-dog",
+                "text": "It is a picture of a dog."
+            },
+            {
+                "code": "picture_example_there-was-a-girl-in-the-picture",
+                "text": "There was a girl in the picture."
+            }
+        ]
+    }
+]

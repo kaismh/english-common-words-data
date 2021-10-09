@@ -1,0 +1,90 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a change in direction; a chance to do something before or after someone else",
+        "examples": [
+            {
+                "code": "turn_example_he-made-a-sudden-turn-at-the-traffic-light",
+                "text": "He made a sudden turn at the traffic light."
+            },
+            {
+                "code": "turn_example_the-school-bus-makes-wide-turns",
+                "text": "The school bus makes wide turns."
+            },
+            {
+                "code": "turn_example_make-a-left-turn-here",
+                "text": "Make a left turn here."
+            },
+            {
+                "code": "turn_example_he-had-to-make-a-u-turn-during-his-driving-test",
+                "text": "He had to make a U-turn during his driving test."
+            },
+            {
+                "code": "turn_example_the-car-made-a-complete-turn-before-stopping",
+                "text": "The car made a complete turn before stopping."
+            },
+            {
+                "code": "turn_example_she-made-a-90-degree-turn",
+                "text": "She made a 90-degree turn."
+            },
+            {
+                "code": "turn_example_the-car-made-a-turn-at-the-light",
+                "text": "The car made a turn at the light."
+            },
+            {
+                "code": "turn_example_can-i-have-my-turn-now",
+                "text": "Can I have my turn now?"
+            },
+            {
+                "code": "turn_example_give-her-a-turn",
+                "text": "Give her a turn."
+            },
+            {
+                "code": "turn_example_he-missed-his-turn",
+                "text": "He missed his turn."
+            },
+            {
+                "code": "turn_example_you-have-to-wait-your-turn",
+                "text": "You have to wait your turn."
+            },
+            {
+                "code": "turn_example_let-s-take-turns-riding-the-bike",
+                "text": "Let's take turns riding the bike."
+            },
+            {
+                "code": "turn_example_make-a-right-turn-at-the-signal",
+                "text": "Make a right turn at the signal."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to change directions",
+        "examples": [
+            {
+                "code": "turn_example_she-quickly-turned-her-head",
+                "text": "She quickly turned her head."
+            },
+            {
+                "code": "turn_example_he-slowly-turned-the-doorknob-to-the-haunted-house",
+                "text": "He slowly turned the doorknob to the haunted house."
+            },
+            {
+                "code": "turn_example_she-turned-her-face-towards-the-stage",
+                "text": "She turned her face towards the stage."
+            },
+            {
+                "code": "turn_example_her-expression-turned-cold",
+                "text": "Her expression turned cold."
+            },
+            {
+                "code": "turn_example_the-weather-turned-warm",
+                "text": "The weather turned warm."
+            },
+            {
+                "code": "turn_example_he-turned-the-wheel-to-the-right",
+                "text": "He turned the wheel to the right."
+            }
+        ]
+    }
+]

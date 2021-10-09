@@ -1,0 +1,44 @@
+[
+    {
+        "type": "(n)",
+        "mean": "an outer part of a surface, object, or body",
+        "examples": [
+            {
+                "code": "side_example_she-sat-at-the-other-side-of-the-table",
+                "text": "She sat at the other side of the table."
+            },
+            {
+                "code": "side_example_the-car-was-driving-on-the-wrong-side-of-the-road",
+                "text": "The car was driving on the wrong side of the road."
+            },
+            {
+                "code": "side_example_paul-drew-on-the-left-hand-side-of-the-page",
+                "text": "Paul drew on the left-hand side of the page."
+            },
+            {
+                "code": "side_example_he-is-in-the-passenger-side-of-the-car",
+                "text": "He is in the passenger side of the car."
+            },
+            {
+                "code": "side_example_the-date-is-on-the-flip-side-of-the-photo",
+                "text": "The date is on the flip side of the photo."
+            },
+            {
+                "code": "side_example_my-side-aches-from-laughing-so-much",
+                "text": "My side aches from laughing so much."
+            },
+            {
+                "code": "side_example_he-walked-on-the-right-side-of-the-road",
+                "text": "He walked on the right side of the road."
+            },
+            {
+                "code": "side_example_the-school-is-located-on-the-east-side-of-town",
+                "text": "The school is located on the east side of town."
+            },
+            {
+                "code": "side_example_i-have-pain-in-my-side",
+                "text": "I have pain in my side."
+            }
+        ]
+    }
+]

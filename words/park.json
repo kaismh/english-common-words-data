@@ -1,0 +1,78 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a protected natural space for recreation",
+        "examples": [
+            {
+                "code": "park_example_we-sat-on-a-park-bench",
+                "text": "We sat on a park bench."
+            },
+            {
+                "code": "park_example_let-s-meet-at-the-park-entrance",
+                "text": "Let's meet at the park entrance."
+            },
+            {
+                "code": "park_example_the-park-ranger-patrols-the-area-at-night",
+                "text": "The park ranger patrols the area at night."
+            },
+            {
+                "code": "park_example_park-visitors-are-asked-to-leave-at-dusk",
+                "text": "Park visitors are asked to leave at dusk."
+            },
+            {
+                "code": "park_example_we-often-go-to-the-park-after-school",
+                "text": "We often go to the park after school."
+            },
+            {
+                "code": "park_example_she-was-hired-to-design-an-urban-park",
+                "text": "She was hired to design an urban park."
+            },
+            {
+                "code": "park_example_the-ranger-manages-the-city-park",
+                "text": "The ranger manages the city park."
+            },
+            {
+                "code": "park_example_the-public-park-is-just-down-the-street-from-our-house",
+                "text": "The public park is just down the street from our house."
+            },
+            {
+                "code": "park_example_the-amusement-park-is-offering-free-admission-this-weekend",
+                "text": "The amusement park is offering free admission this weekend."
+            },
+            {
+                "code": "park_example_the-beautiful-park-is-a-landmark",
+                "text": "The beautiful park is a landmark."
+            },
+            {
+                "code": "park_example_i-take-my-puppy-to-the-dog-park",
+                "text": "I take my puppy to the dog park."
+            },
+            {
+                "code": "park_example_there-is-a-tennis-court-at-the-park",
+                "text": "There is a tennis court at the park."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to leave a vehicle at a certain spot",
+        "examples": [
+            {
+                "code": "park_example_i-received-a-ticket-for-parking-illegally",
+                "text": "I received a ticket for parking illegally."
+            },
+            {
+                "code": "park_example_he-was-in-such-a-hurry-he-quickly-parked-his-car-in-the-wrong-spot",
+                "text": "He was in such a hurry, he quickly parked his car in the wrong spot."
+            },
+            {
+                "code": "park_example_she-carefully-parked-her-brand-new-sports-car",
+                "text": "She carefully parked her brand new sports car."
+            },
+            {
+                "code": "park_example_he-parked-his-car-in-front-of-his-house",
+                "text": "He parked his car in front of his house."
+            }
+        ]
+    }
+]

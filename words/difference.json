@@ -1,0 +1,64 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the way in which things are not the same",
+        "examples": [
+            {
+                "code": "difference_example_that-is-the-big-difference-between-them",
+                "text": "That is the big difference between them."
+            },
+            {
+                "code": "difference_example_the-basic-difference-is-their-views-on-the-topic",
+                "text": "The basic difference is their views on the topic."
+            },
+            {
+                "code": "difference_example_we-believe-the-clear-difference-is-their-values",
+                "text": "We believe the clear difference is their values."
+            },
+            {
+                "code": "difference_example_it-is-only-a-minor-difference",
+                "text": "It is only a minor difference."
+            },
+            {
+                "code": "difference_example_they-pointed-out-the-age-difference",
+                "text": "They pointed out the age difference."
+            },
+            {
+                "code": "difference_example_there-is-one-major-difference",
+                "text": "There is one major difference."
+            },
+            {
+                "code": "difference_example_students-can-make-a-difference",
+                "text": "Students can make a difference."
+            },
+            {
+                "code": "difference_example_we-appreciate-the-difference-between-the-two-artists",
+                "text": "We appreciate the difference between the two artists."
+            },
+            {
+                "code": "difference_example_can-you-feel-the-difference",
+                "text": "Can you feel the difference?"
+            },
+            {
+                "code": "difference_example_can-you-explain-the-difference",
+                "text": "Can you explain the difference?"
+            },
+            {
+                "code": "difference_example_the-difference-among-the-two-pictures-was-minor",
+                "text": "The difference among the two pictures was minor."
+            },
+            {
+                "code": "difference_example_his-parents-could-see-the-difference-from-the-other-children",
+                "text": "His parents could see the difference from the other children."
+            },
+            {
+                "code": "difference_example_he-couldn-t-believe-the-difference-in-price",
+                "text": "He couldn't believe the difference in price."
+            },
+            {
+                "code": "difference_example_the-difference-with-our-company-is-our-work-ethic",
+                "text": "The difference with our company is our work ethic."
+            }
+        ]
+    }
+]

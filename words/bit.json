@@ -1,0 +1,36 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a small amount; a piece of something; an amount of time",
+        "examples": [
+            {
+                "code": "bit_example_may-i-have-a-little-bit-of-cake",
+                "text": "May I have a little bit of cake?"
+            },
+            {
+                "code": "bit_example_it-snowed-a-little-bit-last-night",
+                "text": "It snowed a little bit last night."
+            },
+            {
+                "code": "bit_example_it-took-the-least-bit-of-effort",
+                "text": "It took the least bit of effort."
+            },
+            {
+                "code": "bit_example_she-skipped-through-the-boring-bits-of-the-movie",
+                "text": "She skipped through the boring bits of the movie."
+            },
+            {
+                "code": "bit_example_it-might-take-a-bit-to-drive-to-chicago",
+                "text": "It might take a bit to drive to Chicago."
+            },
+            {
+                "code": "bit_example_she-had-bits-of-food-in-her-teeth",
+                "text": "She had bits of food in her teeth."
+            },
+            {
+                "code": "bit_example_my-editor-only-picked-the-best-bits-of-my-story",
+                "text": "My editor only picked the best bits of my story."
+            }
+        ]
+    }
+]

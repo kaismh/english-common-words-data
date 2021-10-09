@@ -1,0 +1,72 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a part by an actor; a part someone has in an organization or job",
+        "examples": [
+            {
+                "code": "role_example_she-won-a-role-in-the-film",
+                "text": "She won a role in the film."
+            },
+            {
+                "code": "role_example_he-plays-a-critical-role-in-the-company",
+                "text": "He plays a critical role in the company."
+            },
+            {
+                "code": "role_example_she-adopted-the-role-of-vice-president-until-a-new-one-was-hired",
+                "text": "She adopted the role of vice president until a new one was hired."
+            },
+            {
+                "code": "role_example_we-should-explore-the-roles-women-play-in-society",
+                "text": "We should explore the roles women play in society."
+            },
+            {
+                "code": "role_example_he-fits-into-any-role-that-is-given-to-him",
+                "text": "He fits into any role that is given to him."
+            },
+            {
+                "code": "role_example_she-is-my-role-model",
+                "text": "She is my role model."
+            },
+            {
+                "code": "role_example_the-counselor-had-the-couple-play-role-reversal",
+                "text": "The counselor had the couple play role reversal."
+            },
+            {
+                "code": "role_example_she-had-a-big-role-in-my-life",
+                "text": "She had a big role in my life."
+            },
+            {
+                "code": "role_example_he-has-a-supporting-role-in-the-movie",
+                "text": "He has a supporting role in the movie."
+            },
+            {
+                "code": "role_example_she-got-the-film-role",
+                "text": "She got the film role."
+            },
+            {
+                "code": "role_example_he-has-a-leadership-role-in-the-organization",
+                "text": "He has a leadership role in the organization."
+            },
+            {
+                "code": "role_example_he-has-a-crucial-role-in-the-plan",
+                "text": "He has a crucial role in the plan."
+            },
+            {
+                "code": "role_example_they-played-an-influential-role-in-his-life",
+                "text": "They played an influential role in his life."
+            },
+            {
+                "code": "role_example_this-is-the-perfect-role-for-her",
+                "text": "This is the perfect role for her."
+            },
+            {
+                "code": "role_example_what-is-your-role-in-the-organization",
+                "text": "What is your role in the organization?"
+            },
+            {
+                "code": "role_example_do-you-feel-comfortable-with-your-role-as-a-parent",
+                "text": "Do you feel comfortable with your role as a parent?"
+            }
+        ]
+    }
+]

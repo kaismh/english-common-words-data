@@ -1,0 +1,60 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a person riding in a vehicle who is not the driver",
+        "examples": [
+            {
+                "code": "passenger_example_i-left-a-note-for-you-on-the-passenger-seat",
+                "text": "I left a note for you on the passenger seat."
+            },
+            {
+                "code": "passenger_example_our-main-priority-is-passenger-safety",
+                "text": "Our main priority is passenger safety."
+            },
+            {
+                "code": "passenger_example_he-was-not-on-the-passenger-list",
+                "text": "He was not on the passenger list."
+            },
+            {
+                "code": "passenger_example_please-wait-at-the-passenger-area",
+                "text": "Please wait at the passenger area."
+            },
+            {
+                "code": "passenger_example_the-ship-exceeded-the-passenger-capacity",
+                "text": "The ship exceeded the passenger capacity."
+            },
+            {
+                "code": "passenger_example_she-is-traveling-by-passenger-ferry",
+                "text": "She is traveling by passenger ferry."
+            },
+            {
+                "code": "passenger_example_the-airplane-passengers-were-told-to-remain-seated",
+                "text": "The airplane passengers were told to remain seated."
+            },
+            {
+                "code": "passenger_example_front-seat-passengers-in-a-car-are-less-safe",
+                "text": "Front seat passengers in a car are less safe."
+            },
+            {
+                "code": "passenger_example_all-of-the-passengers-on-the-plane-were-told-to-exit-immediately",
+                "text": "All of the passengers on the plane were told to exit immediately."
+            },
+            {
+                "code": "passenger_example_the-airplane-is-carrying-too-many-passengers",
+                "text": "The airplane is carrying too many passengers."
+            },
+            {
+                "code": "passenger_example_the-bus-picks-up-passengers-every-hour",
+                "text": "The bus picks up passengers every hour."
+            },
+            {
+                "code": "passenger_example_the-passengers-boarded-the-plane",
+                "text": "The passengers boarded the plane."
+            },
+            {
+                "code": "passenger_example_airlines-are-screening-passengers-of-all-ages",
+                "text": "Airlines are screening passengers of all ages."
+            }
+        ]
+    }
+]

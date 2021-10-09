@@ -1,0 +1,122 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a guess or approximate calculation of the size, value, or quantity of something",
+        "examples": [
+            {
+                "code": "estimate_example_the-official-estimate-is-one-million-dollars",
+                "text": "The official estimate is one million dollars."
+            },
+            {
+                "code": "estimate_example_the-current-estimate-shows-the-project-will-be-finished-in-2-weeks",
+                "text": "The current estimate shows the project will be finished in 2 weeks."
+            },
+            {
+                "code": "estimate_example_the-initial-estimate-was-three-months-for-completion",
+                "text": "The initial estimate was three months for completion."
+            },
+            {
+                "code": "estimate_example_he-gave-me-a-very-accurate-estimate",
+                "text": "He gave me a very accurate estimate."
+            },
+            {
+                "code": "estimate_example_the-mechanic-gave-me-a-fair-estimate-for-the-repairs",
+                "text": "The mechanic gave me a fair estimate for the repairs."
+            },
+            {
+                "code": "estimate_example_they-gave-a-rough-estimate-of-attendance",
+                "text": "They gave a rough estimate of attendance."
+            },
+            {
+                "code": "estimate_example_he-gave-me-a-high-estimate-of-the-cost",
+                "text": "He gave me a high estimate of the cost."
+            },
+            {
+                "code": "estimate_example_a-conservative-estimate-of-the-damages-is-two-thousand-dollars",
+                "text": "A conservative estimate of the damages is two thousand dollars."
+            },
+            {
+                "code": "estimate_example_i-have-the-overall-estimate-of-the-project-budget",
+                "text": "I have the overall estimate of the project budget."
+            },
+            {
+                "code": "estimate_example_we-need-to-make-an-estimate-of-time-for-this-project",
+                "text": "We need to make an estimate of time for this project."
+            },
+            {
+                "code": "estimate_example_they-submitted-an-estimate-of-their-costs-to-the-finance-manager",
+                "text": "They submitted an estimate of their costs to the finance manager."
+            },
+            {
+                "code": "estimate_example_i-will-obtain-a-new-estimate-tomorrow",
+                "text": "I will obtain a new estimate tomorrow."
+            },
+            {
+                "code": "estimate_example_he-needs-to-revise-his-budget-estimate",
+                "text": "He needs to revise his budget estimate."
+            },
+            {
+                "code": "estimate_example_she-compared-the-two-estimates-for-repairs",
+                "text": "She compared the two estimates for repairs."
+            },
+            {
+                "code": "estimate_example_the-budget-has-exceeded-the-original-estimate",
+                "text": "The budget has exceeded the original estimate."
+            },
+            {
+                "code": "estimate_example_the-budget-estimate-is-based-on-many-factors",
+                "text": "The budget estimate is based on many factors."
+            },
+            {
+                "code": "estimate_example_the-initial-estimate-shows-that-five-million-dollars-was-lost",
+                "text": "The initial estimate shows that five million dollars was lost."
+            },
+            {
+                "code": "estimate_example_his-estimate-puts-the-cost-at-5000",
+                "text": "His estimate puts the cost at $5,000."
+            },
+            {
+                "code": "estimate_example_the-estimate-could-vary-as-much-as-300-people",
+                "text": "The estimate could vary as much as 300 people."
+            },
+            {
+                "code": "estimate_example_according-to-our-estimates-this-will-take-a-week-to-fix",
+                "text": "According to our estimates, this will take a week to fix."
+            },
+            {
+                "code": "estimate_example_the-cost-of-the-project-differed-greatly-from-the-initial-estimate",
+                "text": "The cost of the project differed greatly from the initial estimate."
+            },
+            {
+                "code": "estimate_example_i-have-to-get-an-estimate-for-the-damage",
+                "text": "I have to get an estimate for the damage."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to make a guess or approximate calculation of the size, value, or quantity of something",
+        "examples": [
+            {
+                "code": "estimate_example_he-currently-estimates-the-cost-for-repairs-to-his-boat-to-be-over-5000",
+                "text": "He currently estimates the cost for repairs to his boat to be over $5000."
+            },
+            {
+                "code": "estimate_example_she-initially-estimated-that-it-would-take-four-days-to-complete-the-paint-job",
+                "text": "She initially estimated that it would take four days to complete the paint job."
+            },
+            {
+                "code": "estimate_example_his-quote-is-much-higher-than-previously-estimated",
+                "text": "His quote is much higher than previously estimated."
+            },
+            {
+                "code": "estimate_example_the-roofing-company-accurately-estimated-the-cost-for-repairs",
+                "text": "The roofing company accurately estimated the cost for repairs."
+            },
+            {
+                "code": "estimate_example_they-estimated-the-cost-of-roof-repairs-at-10000",
+                "text": "They estimated the cost of roof repairs at $10,000."
+            }
+        ]
+    }
+]

@@ -1,0 +1,118 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a sports game; two of the same; a fire starter",
+        "examples": [
+            {
+                "code": "match_example_i-finally-met-my-match",
+                "text": "I finally met my match."
+            },
+            {
+                "code": "match_example_they-lost-the-match",
+                "text": "They lost the match."
+            },
+            {
+                "code": "match_example_we-went-to-the-final-match",
+                "text": "We went to the final match."
+            },
+            {
+                "code": "match_example_i-have-a-match-on-friday",
+                "text": "I have a match on Friday."
+            },
+            {
+                "code": "match_example_she-struck-the-match",
+                "text": "She struck the match."
+            },
+            {
+                "code": "match_example_i-can-t-find-the-match-to-my-sock",
+                "text": "I can't find the match to my sock."
+            },
+            {
+                "code": "match_example_the-curtains-make-a-good-match-with-the-bedding",
+                "text": "The curtains make a good match with the bedding."
+            },
+            {
+                "code": "match_example_i-have-a-box-of-matches",
+                "text": "I have a box of matches."
+            },
+            {
+                "code": "match_example_we-watched-the-tennis-match-on-tv",
+                "text": "We watched the tennis match on TV."
+            },
+            {
+                "code": "match_example_we-saw-the-championship-match-together",
+                "text": "We saw the championship match together."
+            },
+            {
+                "code": "match_example_i-m-practicing-for-a-big-match-tomorrow",
+                "text": "I'm practicing for a big match tomorrow."
+            },
+            {
+                "code": "match_example_we-watched-an-exciting-match-between-two-rivals",
+                "text": "We watched an exciting match between two rivals."
+            },
+            {
+                "code": "match_example_she-held-a-lit-match",
+                "text": "She held a lit match."
+            },
+            {
+                "code": "match_example_these-two-are-a-perfect-match",
+                "text": "These two are a perfect match."
+            },
+            {
+                "code": "match_example_we-played-a-match-in-san-diego-over-the-weekend",
+                "text": "We played a match in San Diego over the weekend."
+            },
+            {
+                "code": "match_example_we-played-a-match-against-our-rival",
+                "text": "We played a match against our rival."
+            },
+            {
+                "code": "match_example_they-left-during-the-match",
+                "text": "They left during the match."
+            },
+            {
+                "code": "match_example_he-is-no-match-for-me",
+                "text": "He is no match for me."
+            },
+            {
+                "code": "match_example_it-s-a-great-match-between-the-two-teams",
+                "text": "It's a great match between the two teams."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to make a pair; to combine two things",
+        "examples": [
+            {
+                "code": "match_example_the-agency-tries-to-match-people-with-similar-interests",
+                "text": "The agency tries to match people with similar interests."
+            },
+            {
+                "code": "match_example_the-little-boy-correctly-matched-the-pairs-together",
+                "text": "The little boy correctly matched the pairs together."
+            },
+            {
+                "code": "match_example_the-shoes-match-perfectly-with-her-dress",
+                "text": "The shoes match perfectly with her dress."
+            },
+            {
+                "code": "match_example_the-colors-match-exactly",
+                "text": "The colors match exactly."
+            },
+            {
+                "code": "match_example_the-two-people-match-well",
+                "text": "The two people match well."
+            },
+            {
+                "code": "match_example_the-pieces-do-not-match-up",
+                "text": "The pieces do not match up."
+            },
+            {
+                "code": "match_example_the-dating-service-tries-to-match-people-with-similar-interests",
+                "text": "The dating service tries to match people with similar interests."
+            }
+        ]
+    }
+]

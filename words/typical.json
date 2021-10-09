@@ -1,0 +1,28 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "usual or normal",
+        "examples": [
+            {
+                "code": "typical_example_it-s-very-typical-of-john-to-not-show-up",
+                "text": "It's very typical of John to not show up."
+            },
+            {
+                "code": "typical_example_that-s-just-typical-of-her-to-be-late",
+                "text": "That's just typical of her to be late."
+            },
+            {
+                "code": "typical_example_her-behavior-is-very-typical-of-a-four-year-old-child",
+                "text": "Her behavior is very typical of a four-year old child."
+            },
+            {
+                "code": "typical_example_that-is-very-typical-of-her",
+                "text": "That is very typical of her."
+            },
+            {
+                "code": "typical_example_that-s-a-typical-case",
+                "text": "That's a typical case."
+            }
+        ]
+    }
+]

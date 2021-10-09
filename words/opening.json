@@ -1,0 +1,82 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the first night of a show; the beginning; a way in or out; a hole; an available job",
+        "examples": [
+            {
+                "code": "opening_example_i-cut-an-opening-in-the-wall",
+                "text": "I cut an opening in the wall."
+            },
+            {
+                "code": "opening_example_she-covered-the-small-opening-in-the-wall",
+                "text": "She covered the small opening in the wall."
+            },
+            {
+                "code": "opening_example_the-company-filled-the-opening-for-a-new-assistant-manager",
+                "text": "The company filled the opening for a new assistant manager."
+            },
+            {
+                "code": "opening_example_we-celebrated-the-opening-of-the-shop",
+                "text": "We celebrated the opening of the shop."
+            },
+            {
+                "code": "opening_example_we-should-go-to-her-art-opening",
+                "text": "We should go to her art opening."
+            },
+            {
+                "code": "opening_example_there-s-a-large-opening-in-the-wall",
+                "text": "There's a large opening in the wall."
+            },
+            {
+                "code": "opening_example_we-went-to-the-grand-opening-at-the-gallery",
+                "text": "We went to the grand opening at the gallery."
+            },
+            {
+                "code": "opening_example_let-s-go-to-a-gallery-opening-this-weekend",
+                "text": "Let's go to a gallery opening this weekend."
+            },
+            {
+                "code": "opening_example_there-is-a-job-opening-at-his-company",
+                "text": "There is a job opening at his company."
+            },
+            {
+                "code": "opening_example_there-is-a-small-opening-in-the-fence",
+                "text": "There is a small opening in the fence."
+            },
+            {
+                "code": "opening_example_we-went-to-an-opening-for-her-art-show",
+                "text": "We went to an opening for her art show."
+            },
+            {
+                "code": "opening_example_what-is-the-opening-to-the-book-about",
+                "text": "What is the opening to the book about?"
+            }
+        ]
+    },
+    {
+        "type": "(adj)",
+        "mean": "happening at the beginning; first",
+        "examples": [
+            {
+                "code": "opening_example_we-went-to-the-ballet-on-opening-night",
+                "text": "We went to the ballet on opening night."
+            },
+            {
+                "code": "opening_example_you-missed-the-opening-act",
+                "text": "You missed the opening act."
+            },
+            {
+                "code": "opening_example_what-is-your-opening-bid",
+                "text": "What is your opening bid?"
+            },
+            {
+                "code": "opening_example_the-opening-track-is-very-short",
+                "text": "The opening track is very short."
+            },
+            {
+                "code": "opening_example_did-you-read-the-opening-paragraph",
+                "text": "Did you read the opening paragraph."
+            }
+        ]
+    }
+]

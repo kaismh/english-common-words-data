@@ -1,0 +1,108 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to need",
+        "examples": [
+            {
+                "code": "require_example_the-circumstance-requires-immediate-action",
+                "text": "The circumstance requires immediate action."
+            },
+            {
+                "code": "require_example_we-require-access-to-the-building",
+                "text": "We require access to the building."
+            },
+            {
+                "code": "require_example_she-requires-a-transfusion",
+                "text": "She requires a transfusion."
+            },
+            {
+                "code": "require_example_this-job-requires-skill",
+                "text": "This job requires skill."
+            },
+            {
+                "code": "require_example_my-job-requires-a-lot-of-time",
+                "text": "My job requires a lot of time."
+            },
+            {
+                "code": "require_example_raising-kids-requires-energy",
+                "text": "Raising kids requires energy."
+            },
+            {
+                "code": "require_example_the-program-requires-students-to-have-good-grades",
+                "text": "The program requires students to have good grades."
+            },
+            {
+                "code": "require_example_this-recipe-requires-three-cups-of-milk",
+                "text": "This recipe requires three cups of milk."
+            },
+            {
+                "code": "require_example_this-dress-requires-another-alteration",
+                "text": "This dress requires another alteration."
+            },
+            {
+                "code": "require_example_this-document-requires-your-signature",
+                "text": "This document requires your signature."
+            },
+            {
+                "code": "require_example_our-plans-require-approval",
+                "text": "Our plans require approval."
+            },
+            {
+                "code": "require_example_she-requires-surgery-on-her-hip",
+                "text": "She requires surgery on her hip."
+            },
+            {
+                "code": "require_example_the-garden-requires-lots-of-upkeep",
+                "text": "The garden requires lots of upkeep."
+            },
+            {
+                "code": "require_example_starting-a-business-requires-persistence",
+                "text": "Starting a business requires persistence."
+            },
+            {
+                "code": "require_example_we-require-a-permit-for-camping",
+                "text": "We require a permit for camping."
+            },
+            {
+                "code": "require_example_we-require-your-input",
+                "text": "We require your input."
+            },
+            {
+                "code": "require_example_the-restaurant-requires-reservations",
+                "text": "The restaurant requires reservations."
+            },
+            {
+                "code": "require_example_ballet-dancing-requires-practice",
+                "text": "Ballet dancing requires practice."
+            },
+            {
+                "code": "require_example_they-require-a-visa-for-entry",
+                "text": "They require a visa for entry."
+            },
+            {
+                "code": "require_example_we-require-an-explanation-for-this",
+                "text": "We require an explanation for this."
+            },
+            {
+                "code": "require_example_this-place-requires-leadership",
+                "text": "This place requires leadership."
+            },
+            {
+                "code": "require_example_she-urgently-requires-surgery",
+                "text": "She urgently requires surgery."
+            },
+            {
+                "code": "require_example_the-law-legally-requires-everyone-to-wear-a-seat-belt",
+                "text": "The law legally requires everyone to wear a seat belt."
+            },
+            {
+                "code": "require_example_the-doctor-s-office-frequently-requires-updates-on-insurance-information",
+                "text": "The doctor's office frequently requires updates on insurance information."
+            },
+            {
+                "code": "require_example_the-company-generally-requires-its-employees-to-wear-id-badges-in-the-office",
+                "text": "The company generally requires its employees to wear ID badges in the office."
+            }
+        ]
+    }
+]

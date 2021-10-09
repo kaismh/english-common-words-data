@@ -1,0 +1,64 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the qualities of a person that makes him or her different from another person",
+        "examples": [
+            {
+                "code": "personality_example_he-has-a-great-personality",
+                "text": "He has a great personality."
+            },
+            {
+                "code": "personality_example_she-has-developed-a-unique-personality",
+                "text": "She has developed a unique personality."
+            },
+            {
+                "code": "personality_example_her-childhood-shaped-her-personality",
+                "text": "Her childhood shaped her personality."
+            },
+            {
+                "code": "personality_example_her-clothes-reflect-her-outgoing-personality",
+                "text": "Her clothes reflect her outgoing personality."
+            },
+            {
+                "code": "personality_example_he-lacks-any-real-personality",
+                "text": "He lacks any real personality."
+            },
+            {
+                "code": "personality_example_her-clothes-do-not-match-her-personality",
+                "text": "Her clothes do not match her personality."
+            },
+            {
+                "code": "personality_example_there-are-lots-of-different-personality-types",
+                "text": "There are lots of different personality types."
+            },
+            {
+                "code": "personality_example_there-is-a-personality-clash-with-two-people-at-work",
+                "text": "There is a personality clash with two people at work."
+            },
+            {
+                "code": "personality_example_children-go-through-different-personality-changes",
+                "text": "Children go through different personality changes."
+            },
+            {
+                "code": "personality_example_a-personality-profile-is-part-of-the-application-process",
+                "text": "A personality profile is part of the application process."
+            },
+            {
+                "code": "personality_example_she-has-an-easy-going-personality",
+                "text": "She has an easy-going personality."
+            },
+            {
+                "code": "personality_example_my-friend-has-a-unique-personality",
+                "text": "My friend has a unique personality."
+            },
+            {
+                "code": "personality_example_he-seems-to-have-multiple-personalities-at-times",
+                "text": "He seems to have multiple personalities at times."
+            },
+            {
+                "code": "personality_example_her-addictive-personality-makes-it-hard-for-her-to-maintain-friendships",
+                "text": "Her addictive personality makes it hard for her to maintain friendships."
+            }
+        ]
+    }
+]

@@ -1,0 +1,54 @@
+[
+    {
+        "type": "(n)",
+        "mean": "something heavy that is carried",
+        "examples": [
+            {
+                "code": "load_example_she-has-a-heavy-load-of-laundry-to-do",
+                "text": "She has a heavy load of laundry to do."
+            },
+            {
+                "code": "load_example_the-maximum-load-for-the-elevator-is-1500-pounds",
+                "text": "The maximum load for the elevator is 1500 pounds."
+            },
+            {
+                "code": "load_example_the-truck-hauls-loads-of-produce-to-the-market",
+                "text": "The truck hauls loads of produce to the market."
+            },
+            {
+                "code": "load_example_the-small-car-couldn-t-handle-the-passenger-load",
+                "text": "The small car couldn't handle the passenger load."
+            },
+            {
+                "code": "load_example_we-need-to-spread-the-load",
+                "text": "We need to spread the load."
+            },
+            {
+                "code": "load_example_he-tries-to-drop-his-load-on-other-workers",
+                "text": "He tries to drop his load on other workers."
+            },
+            {
+                "code": "load_example_the-shelf-broke-from-the-heavy-load",
+                "text": "The shelf broke from the heavy load."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to put something large or heavy in or on another place; to put bullets into a gun",
+        "examples": [
+            {
+                "code": "load_example_we-loaded-the-truck-with-boxes",
+                "text": "We loaded the truck with boxes."
+            },
+            {
+                "code": "load_example_he-loaded-the-gun-and-ran-outside",
+                "text": "He loaded the gun and ran outside."
+            },
+            {
+                "code": "load_example_it-s-my-turn-to-load-the-dishwasher",
+                "text": "It's my turn to load the dishwasher."
+            }
+        ]
+    }
+]

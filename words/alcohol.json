@@ -1,0 +1,40 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a clear liquid used in drinks that can make people drunk; a liquid that is used in medicines or chemicals",
+        "examples": [
+            {
+                "code": "alcohol_example_excessive-alcohol-consumption-can-be-dangerous",
+                "text": "Excessive alcohol consumption can be dangerous."
+            },
+            {
+                "code": "alcohol_example_i-do-not-like-strong-alcohol",
+                "text": "I do not like strong alcohol."
+            },
+            {
+                "code": "alcohol_example_i-used-rubbing-alcohol-to-clean-the-wound",
+                "text": "I used rubbing alcohol to clean the wound."
+            },
+            {
+                "code": "alcohol_example_children-should-not-drink-alcohol",
+                "text": "Children should not drink alcohol."
+            },
+            {
+                "code": "alcohol_example_he-stays-away-from-alcohol",
+                "text": "He stays away from alcohol."
+            },
+            {
+                "code": "alcohol_example_he-found-an-alcohol-bottle-in-the-cabinet",
+                "text": "He found an alcohol bottle in the cabinet."
+            },
+            {
+                "code": "alcohol_example_the-alcohol-content-is-high",
+                "text": "The alcohol content is high."
+            },
+            {
+                "code": "alcohol_example_alcohol-abuse-is-a-problem-in-our-society",
+                "text": "Alcohol abuse is a problem in our society."
+            }
+        ]
+    }
+]

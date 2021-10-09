@@ -1,0 +1,124 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the highest part of something; the highest point or position; the cover or lid of something; piece of clothing that covers the upper part of the body",
+        "examples": [
+            {
+                "code": "top_example_he-made-it-to-the-very-top-of-the-mountain",
+                "text": "He made it to the very top of the mountain."
+            },
+            {
+                "code": "top_example_we-couldn-t-open-the-bottle-top",
+                "text": "We couldn't open the bottle top."
+            },
+            {
+                "code": "top_example_she-wore-a-long-sleeved-top",
+                "text": "She wore a long-sleeved top."
+            },
+            {
+                "code": "top_example_they-are-wearing-matching-tops",
+                "text": "They are wearing matching tops."
+            },
+            {
+                "code": "top_example_he-climbed-to-the-top-of-the-mountain",
+                "text": "He climbed to the top of the mountain."
+            },
+            {
+                "code": "top_example_they-reached-the-top-of-the-hill",
+                "text": "They reached the top of the hill."
+            },
+            {
+                "code": "top_example_meet-me-at-the-top-of-the-hill",
+                "text": "Meet me at the top of the hill."
+            },
+            {
+                "code": "top_example_the-helicopter-landed-on-top-of-the-building",
+                "text": "The helicopter landed on top of the building."
+            },
+            {
+                "code": "top_example_he-rose-to-the-top-of-the-company-quickly",
+                "text": "He rose to the top of the company quickly."
+            },
+            {
+                "code": "top_example_the-cat-sits-on-top-of-the-car-every-morning",
+                "text": "The cat sits on top of the car every morning."
+            },
+            {
+                "code": "top_example_remove-the-bottle-top-before-recycling",
+                "text": "Remove the bottle top before recycling."
+            },
+            {
+                "code": "top_example_put-the-top-back-on-the-toothpaste",
+                "text": "Put the top back on the toothpaste."
+            },
+            {
+                "code": "top_example_she-wears-tight-tops",
+                "text": "She wears tight tops."
+            },
+            {
+                "code": "top_example_put-your-name-at-the-top-of-the-page",
+                "text": "Put your name at the top of the page."
+            },
+            {
+                "code": "top_example_i-like-cherries-on-top-of-my-ice-cream-sundaes",
+                "text": "I like cherries on top of my ice cream sundaes."
+            },
+            {
+                "code": "top_example_exercising-is-at-the-top-of-my-to-do-list",
+                "text": "Exercising is at the top of my to-do list."
+            }
+        ]
+    },
+    {
+        "type": "(adj)",
+        "mean": "highest in a position",
+        "examples": [
+            {
+                "code": "top_example_she-is-the-top-student-of-her-class",
+                "text": "She is the top student of her class."
+            },
+            {
+                "code": "top_example_he-received-top-honors-for-his-service-in-the-military",
+                "text": "He received top honors for his service in the military."
+            },
+            {
+                "code": "top_example_she-is-the-top-surgeon-in-her-field",
+                "text": "She is the top surgeon in her field."
+            },
+            {
+                "code": "top_example_he-was-the-top-student-of-his-graduating-class",
+                "text": "He was the top student of his graduating class."
+            },
+            {
+                "code": "top_example_he-is-the-top-advisor-to-the-president",
+                "text": "He is the top advisor to the president."
+            },
+            {
+                "code": "top_example_she-is-the-top-athlete",
+                "text": "She is the top athlete."
+            },
+            {
+                "code": "top_example_she-received-the-top-award",
+                "text": "She received the top award."
+            },
+            {
+                "code": "top_example_can-you-reach-the-top-button",
+                "text": "Can you reach the top button?"
+            },
+            {
+                "code": "top_example_they-live-on-the-top-floor",
+                "text": "They live on the top floor."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to do better than someone or something else",
+        "examples": [
+            {
+                "code": "top_example_he-easily-topped-the-world-record-for-speed-skating",
+                "text": "He easily topped the world record for speed skating."
+            }
+        ]
+    }
+]

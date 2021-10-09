@@ -1,0 +1,82 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a connection between two things or situations",
+        "examples": [
+            {
+                "code": "link_example_there-is-a-close-link-between-poor-nutrition-and-diseases",
+                "text": "There is a close link between poor nutrition and diseases."
+            },
+            {
+                "code": "link_example_nurses-provide-a-vital-link-between-doctors-and-patients",
+                "text": "Nurses provide a vital link between doctors and patients."
+            },
+            {
+                "code": "link_example_the-police-were-trying-to-find-the-missing-link-in-the-case",
+                "text": "The police were trying to find the missing link in the case."
+            },
+            {
+                "code": "link_example_they-found-a-possible-link-between-the-two-cases",
+                "text": "They found a possible link between the two cases."
+            },
+            {
+                "code": "link_example_the-company-is-trying-to-build-a-strong-link-with-the-manufacturer",
+                "text": "The company is trying to build a strong link with the manufacturer."
+            },
+            {
+                "code": "link_example_studies-highlight-the-link-between-diet-and-diseases",
+                "text": "Studies highlight the link between diet and diseases."
+            },
+            {
+                "code": "link_example_a-close-link-exists-between-music-and-the-visual-arts",
+                "text": "A close link exists between music and the visual arts."
+            },
+            {
+                "code": "link_example_we-found-the-link-between-the-two-cases",
+                "text": "We found the link between the two cases."
+            },
+            {
+                "code": "link_example_he-was-the-weakest-link-in-the-team",
+                "text": "He was the weakest link in the team."
+            },
+            {
+                "code": "link_example_she-always-had-a-strong-link-with-children",
+                "text": "She always had a strong link with children."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to connect",
+        "examples": [
+            {
+                "code": "link_example_he-was-closely-linked-to-a-local-gang",
+                "text": "He was closely linked to a local gang."
+            },
+            {
+                "code": "link_example_she-was-indirectly-linked-to-a-political-party",
+                "text": "She was indirectly linked to a political party."
+            },
+            {
+                "code": "link_example_he-is-intimately-linked-to-his-ex-wife",
+                "text": "He is intimately linked to his ex-wife."
+            },
+            {
+                "code": "link_example_it-was-discovered-that-she-was-closely-linked-to-the-rival-team",
+                "text": "It was discovered that she was closely linked to the rival team."
+            },
+            {
+                "code": "link_example_the-police-think-she-is-linked-to-the-murder",
+                "text": "The police think she is linked to the murder."
+            },
+            {
+                "code": "link_example_they-linked-arms-as-they-walked-into-the-room",
+                "text": "They linked arms as they walked into the room."
+            },
+            {
+                "code": "link_example_the-bridge-links-the-two-towns",
+                "text": "The bridge links the two towns."
+            }
+        ]
+    }
+]

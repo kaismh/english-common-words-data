@@ -1,0 +1,74 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a particular way something is done; a particular design",
+        "examples": [
+            {
+                "code": "style_example_she-prefers-classic-styles",
+                "text": "She prefers classic styles."
+            },
+            {
+                "code": "style_example_she-likes-to-wear-the-latest-styles",
+                "text": "She likes to wear the latest styles."
+            },
+            {
+                "code": "style_example_his-style-is-very-old-fashioned",
+                "text": "His style is very old-fashioned."
+            },
+            {
+                "code": "style_example_she-definitely-has-her-own-unique-style",
+                "text": "She definitely has her own unique style."
+            },
+            {
+                "code": "style_example_he-has-a-distinct-acting-style",
+                "text": "He has a distinct acting style."
+            },
+            {
+                "code": "style_example_he-was-dressed-in-casual-style",
+                "text": "He was dressed in casual style."
+            },
+            {
+                "code": "style_example_his-aggressive-style-sometimes-gets-him-into-trouble",
+                "text": "His aggressive style sometimes gets him into trouble."
+            },
+            {
+                "code": "style_example_the-two-sisters-have-radically-different-styles",
+                "text": "The two sisters have radically different styles."
+            },
+            {
+                "code": "style_example_he-has-developed-his-own-unique-style-of-painting",
+                "text": "He has developed his own unique style of painting."
+            },
+            {
+                "code": "style_example_she-has-to-change-her-acting-style-for-this-role",
+                "text": "She has to change her acting style for this role."
+            },
+            {
+                "code": "style_example_people-often-try-to-copy-his-style-of-writing",
+                "text": "People often try to copy his style of writing."
+            },
+            {
+                "code": "style_example_everything-she-does-she-does-with-style",
+                "text": "Everything she does, she does with style."
+            },
+            {
+                "code": "style_example_after-winning-the-award-we-celebrated-in-style",
+                "text": "After winning the award, we celebrated in style."
+            },
+            {
+                "code": "style_example_the-house-is-very-unique-in-style",
+                "text": "The house is very unique in style."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to design something",
+        "examples": [
+            {
+                "code": "style_example_she-styles-hair-for-a-living",
+                "text": "She styles hair for a living."
+            }
+        ]
+    }
+]

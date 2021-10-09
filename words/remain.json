@@ -1,0 +1,40 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to stay",
+        "examples": [
+            {
+                "code": "remain_example_it-still-remains-a-problem",
+                "text": "It still remains a problem."
+            },
+            {
+                "code": "remain_example_the-situation-remained-unresolved-for-many-years",
+                "text": "The situation remained unresolved for many years."
+            },
+            {
+                "code": "remain_example_he-remained-calm-even-through-the-chaos",
+                "text": "He remained calm even through the chaos."
+            },
+            {
+                "code": "remain_example_please-remain-seated",
+                "text": "Please remain seated."
+            },
+            {
+                "code": "remain_example_please-remain-standing",
+                "text": "Please remain standing."
+            },
+            {
+                "code": "remain_example_everyone-evacuated-the-city-but-they-remained-behind-with-their-pets",
+                "text": "Everyone evacuated the city, but they remained behind with their pets."
+            },
+            {
+                "code": "remain_example_he-remained-nervous-until-the-election-was-over",
+                "text": "He remained nervous until the election was over."
+            },
+            {
+                "code": "remain_example_there-is-hardly-any-money-remaining-in-the-bank-account",
+                "text": "There is hardly any money remaining in the bank account."
+            }
+        ]
+    }
+]

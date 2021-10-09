@@ -1,0 +1,98 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the feeling of wanting something or wanting something to happen",
+        "examples": [
+            {
+                "code": "wish_example_my-biggest-wish-is-to-see-my-mother-again",
+                "text": "My biggest wish is to see my mother again."
+            },
+            {
+                "code": "wish_example_he-has-a-strong-wish-to-see-his-father-again",
+                "text": "He has a strong wish to see his father again."
+            },
+            {
+                "code": "wish_example_i-have-a-secret-wish-but-i-cannot-tell-you-what-it-is",
+                "text": "I have a secret wish, but I cannot tell you what it is."
+            },
+            {
+                "code": "wish_example_her-dying-wish-was-to-be-buried-by-her-mother",
+                "text": "Her dying wish was to be buried by her mother."
+            },
+            {
+                "code": "wish_example_i-have-expressed-my-wishes-about-going-to-college",
+                "text": "I have expressed my wishes about going to college."
+            },
+            {
+                "code": "wish_example_please-fulfill-her-last-wishes",
+                "text": "Please fulfill her last wishes."
+            },
+            {
+                "code": "wish_example_we-need-to-respect-his-dying-wishes",
+                "text": "We need to respect his dying wishes."
+            },
+            {
+                "code": "wish_example_they-denied-his-wish-for-a-new-trial",
+                "text": "They denied his wish for a new trial."
+            },
+            {
+                "code": "wish_example_the-judge-granted-him-one-wish",
+                "text": "The judge granted him one wish."
+            },
+            {
+                "code": "wish_example_his-wishes-were-ignored-by-his-family",
+                "text": "His wishes were ignored by his family."
+            },
+            {
+                "code": "wish_example_she-made-a-wish-to-see-her-son",
+                "text": "She made a wish to see her son."
+            },
+            {
+                "code": "wish_example_my-daughter-makes-a-birthday-wish-list-every-year",
+                "text": "My daughter makes a birthday wish list every year."
+            },
+            {
+                "code": "wish_example_she-moved-out-of-the-house-against-her-mother-s-wishes",
+                "text": "She moved out of the house against her mother's wishes."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to want something or to want something to happen",
+        "examples": [
+            {
+                "code": "wish_example_i-really-wish-i-could-be-there",
+                "text": "I really wish I could be there."
+            },
+            {
+                "code": "wish_example_the-little-girl-wished-really-hard-for-a-puppy",
+                "text": "The little girl wished really hard for a puppy."
+            },
+            {
+                "code": "wish_example_he-secretly-wishes-he-married-his-ex-girlfriend",
+                "text": "He secretly wishes he married his ex-girlfriend."
+            },
+            {
+                "code": "wish_example_i-just-wish-they-could-get-along-with-each-other",
+                "text": "I just wish they could get along with each other."
+            },
+            {
+                "code": "wish_example_i-wish-for-many-things",
+                "text": "I wish for many things."
+            },
+            {
+                "code": "wish_example_we-wish-you-happiness",
+                "text": "We wish you happiness."
+            },
+            {
+                "code": "wish_example_we-wish-you-a-quick-recovery",
+                "text": "We wish you a quick recovery."
+            },
+            {
+                "code": "wish_example_we-wish-you-a-fond-farewell",
+                "text": "We wish you a fond farewell."
+            }
+        ]
+    }
+]

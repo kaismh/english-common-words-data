@@ -1,0 +1,86 @@
+[
+    {
+        "type": "(n)",
+        "mean": "material that is used to produce heat or power",
+        "examples": [
+            {
+                "code": "fuel_example_they-are-looking-for-clean-fuel-sources",
+                "text": "They are looking for clean fuel sources."
+            },
+            {
+                "code": "fuel_example_we-are-trying-to-reduce-use-of-fossil-fuels",
+                "text": "We are trying to reduce use of fossil fuels."
+            },
+            {
+                "code": "fuel_example_her-car-takes-diesel-fuel",
+                "text": "Her car takes diesel fuel."
+            },
+            {
+                "code": "fuel_example_they-consume-a-lot-of-fuel-in-the-winter",
+                "text": "They consume a lot of fuel in the winter."
+            },
+            {
+                "code": "fuel_example_this-runs-on-special-fuel",
+                "text": "This runs on special fuel."
+            },
+            {
+                "code": "fuel_example_they-are-trying-to-save-fuel",
+                "text": "They are trying to save fuel."
+            },
+            {
+                "code": "fuel_example_this-process-wastes-a-lot-of-fuel",
+                "text": "This process wastes a lot of fuel."
+            },
+            {
+                "code": "fuel_example_fuel-costs-are-very-high-this-year",
+                "text": "Fuel costs are very high this year."
+            },
+            {
+                "code": "fuel_example_fuel-consumption-in-this-country-is-very-high",
+                "text": "Fuel consumption in this country is very high."
+            },
+            {
+                "code": "fuel_example_this-car-has-good-fuel-economy",
+                "text": "This car has good fuel economy."
+            },
+            {
+                "code": "fuel_example_a-fuel-tanker-exploded-on-the-highway",
+                "text": "A fuel tanker exploded on the highway."
+            },
+            {
+                "code": "fuel_example_the-fuel-supply-is-limited-right-now",
+                "text": "The fuel supply is limited right now."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to supply something with material that is used to produce heat or power; to make stronger",
+        "examples": [
+            {
+                "code": "fuel_example_they-fuel-the-airplanes-before-departure",
+                "text": "They fuel the airplanes before departure."
+            },
+            {
+                "code": "fuel_example_her-comments-just-fueled-his-anger",
+                "text": "Her comments just fueled his anger."
+            },
+            {
+                "code": "fuel_example_the-media-keeps-fueling-the-controversy",
+                "text": "The media keeps fueling the controversy."
+            },
+            {
+                "code": "fuel_example_reading-fuels-her-imagination",
+                "text": "Reading fuels her imagination."
+            },
+            {
+                "code": "fuel_example_the-incident-fueled-his-mistrust-of-the-government",
+                "text": "The incident fueled his mistrust of the government."
+            },
+            {
+                "code": "fuel_example_they-are-trying-to-fuel-growth",
+                "text": "They are trying to fuel growth."
+            }
+        ]
+    }
+]

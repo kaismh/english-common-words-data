@@ -1,0 +1,32 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a person who sings",
+        "examples": [
+            {
+                "code": "singer_example_she-is-a-great-singer",
+                "text": "She is a great singer."
+            },
+            {
+                "code": "singer_example_bobby-is-a-well-known-singer",
+                "text": "Bobby is a well-known singer."
+            },
+            {
+                "code": "singer_example_i-am-an-amateur-singer",
+                "text": "I am an amateur singer."
+            },
+            {
+                "code": "singer_example_who-is-that-blues-singer",
+                "text": "Who is that blues singer?"
+            },
+            {
+                "code": "singer_example_the-singer-belted-the-last-note",
+                "text": "The singer belted the last note."
+            },
+            {
+                "code": "singer_example_the-singer-performed-the-national-anthem",
+                "text": "The singer performed the national anthem."
+            }
+        ]
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a drawing of the earth with detailed markings of cities, streets, and waterways",
+        "examples": [
+            {
+                "code": "map_example_we-made-our-own-map-of-the-city",
+                "text": "We made our own map of the city."
+            },
+            {
+                "code": "map_example_the-map-revealed-the-location",
+                "text": "The map revealed the location."
+            },
+            {
+                "code": "map_example_the-location-is-marked-on-the-map",
+                "text": "The location is marked on the map."
+            },
+            {
+                "code": "map_example_i-viewed-a-map-online",
+                "text": "I viewed a map online."
+            },
+            {
+                "code": "map_example_the-map-depicts-the-entire-country",
+                "text": "The map depicts the entire country."
+            },
+            {
+                "code": "map_example_make-sure-to-study-the-map-before-we-leave",
+                "text": "Make sure to study the map before we leave."
+            },
+            {
+                "code": "map_example_he-followed-the-map-to-the-new-house",
+                "text": "He followed the map to the new house."
+            },
+            {
+                "code": "map_example_do-you-prefer-paper-maps",
+                "text": "Do you prefer paper maps?"
+            },
+            {
+                "code": "map_example_we-need-a-detailed-map-of-the-area",
+                "text": "We need a detailed map of the area."
+            },
+            {
+                "code": "map_example_we-have-a-world-map-hanging-in-our-hallway",
+                "text": "We have a world map hanging in our hallway."
+            },
+            {
+                "code": "map_example_pirates-found-a-treasure-map-in-the-sand",
+                "text": "Pirates found a treasure map in the sand."
+            },
+            {
+                "code": "map_example_students-made-a-relief-map-in-class",
+                "text": "Students made a relief map in class."
+            },
+            {
+                "code": "map_example_i-used-a-map-to-their-new-house",
+                "text": "I used a map to their new house."
+            },
+            {
+                "code": "map_example_i-couldn-t-find-the-city-on-the-map",
+                "text": "I couldn't find the city on the map."
+            },
+            {
+                "code": "map_example_i-need-a-map-of-the-city",
+                "text": "I need a map of the city."
+            },
+            {
+                "code": "map_example_according-to-the-map-there-are-three-highway-exits",
+                "text": "According to the map, there are three highway exits."
+            }
+        ]
+    }
+]

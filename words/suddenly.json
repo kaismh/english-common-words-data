@@ -1,0 +1,56 @@
+[
+    {
+        "type": "(adv)",
+        "mean": "quickly and unexpectedly",
+        "examples": [
+            {
+                "code": "suddenly_example_he-was-suddenly-afraid-of-the-dark",
+                "text": "He was suddenly afraid of the dark."
+            },
+            {
+                "code": "suddenly_example_we-became-suddenly-aware-of-the-situation",
+                "text": "We became suddenly aware of the situation."
+            },
+            {
+                "code": "suddenly_example_it-has-become-suddenly-fashionable-to-wear-hats",
+                "text": "It has become suddenly fashionable to wear hats."
+            },
+            {
+                "code": "suddenly_example_she-became-suddenly-nervous-to-go-on-stage",
+                "text": "She became suddenly nervous to go on stage."
+            },
+            {
+                "code": "suddenly_example_he-suddenly-appeared-out-of-nowhere",
+                "text": "He suddenly appeared out of nowhere."
+            },
+            {
+                "code": "suddenly_example_it-suddenly-began-to-snow",
+                "text": "It suddenly began to snow."
+            },
+            {
+                "code": "suddenly_example_she-suddenly-changed-her-mind",
+                "text": "She suddenly changed her mind."
+            },
+            {
+                "code": "suddenly_example_he-suddenly-decided-to-leave",
+                "text": "He suddenly decided to leave."
+            },
+            {
+                "code": "suddenly_example_the-dog-suddenly-disappeared",
+                "text": "The dog suddenly disappeared."
+            },
+            {
+                "code": "suddenly_example_the-factory-suddenly-exploded",
+                "text": "The factory suddenly exploded."
+            },
+            {
+                "code": "suddenly_example_we-suddenly-realized-he-was-not-telling-the-truth",
+                "text": "We suddenly realized he was not telling the truth."
+            },
+            {
+                "code": "suddenly_example_i-suddenly-remembered-where-i-left-my-keys",
+                "text": "I suddenly remembered where I left my keys."
+            }
+        ]
+    }
+]

@@ -1,0 +1,134 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the end of something; the look or feel of something",
+        "examples": [
+            {
+                "code": "finish_example_the-race-had-an-exciting-finish",
+                "text": "The race had an exciting finish."
+            },
+            {
+                "code": "finish_example_it-came-down-to-a-close-finish",
+                "text": "It came down to a close finish."
+            },
+            {
+                "code": "finish_example_that-was-the-perfect-finish-to-the-trip",
+                "text": "That was the perfect finish to the trip."
+            },
+            {
+                "code": "finish_example_he-gave-the-table-a-smooth-finish",
+                "text": "He gave the table a smooth finish."
+            },
+            {
+                "code": "finish_example_she-wanted-a-glossy-finish-on-the-pottery",
+                "text": "She wanted a glossy finish on the pottery."
+            },
+            {
+                "code": "finish_example_he-bought-cabinet-handles-with-a-chrome-finish",
+                "text": "He bought cabinet handles with a chrome finish."
+            },
+            {
+                "code": "finish_example_she-put-a-protective-finish-on-her-artwork",
+                "text": "She put a protective finish on her artwork."
+            },
+            {
+                "code": "finish_example_the-frame-has-a-metallic-finish",
+                "text": "The frame has a metallic finish."
+            },
+            {
+                "code": "finish_example_he-worked-hard-to-get-the-perfect-finish",
+                "text": "He worked hard to get the perfect finish."
+            },
+            {
+                "code": "finish_example_they-tried-to-match-the-finish-of-the-original-cabinets",
+                "text": "They tried to match the finish of the original cabinets."
+            },
+            {
+                "code": "finish_example_clean-the-wood-before-applying-the-finish",
+                "text": "Clean the wood before applying the finish."
+            },
+            {
+                "code": "finish_example_her-friends-were-waiting-at-the-finish-line",
+                "text": "Her friends were waiting at the finish line."
+            },
+            {
+                "code": "finish_example_a-few-runners-collapsed-at-the-finish",
+                "text": "A few runners collapsed at the finish."
+            },
+            {
+                "code": "finish_example_he-applied-a-natural-finish-to-the-floor",
+                "text": "He applied a natural finish to the floor."
+            },
+            {
+                "code": "finish_example_she-wants-a-faucet-with-a-chrome-finish",
+                "text": "She wants a faucet with a chrome finish."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to complete; to reach the end of",
+        "examples": [
+            {
+                "code": "finish_example_dinner-is-almost-finished",
+                "text": "Dinner is almost finished."
+            },
+            {
+                "code": "finish_example_i-barely-finished-the-food-on-my-plate",
+                "text": "I barely finished the food on my plate."
+            },
+            {
+                "code": "finish_example_i-just-finished-getting-ready",
+                "text": "I just finished getting ready."
+            },
+            {
+                "code": "finish_example_she-recently-finished-school",
+                "text": "She recently finished school."
+            },
+            {
+                "code": "finish_example_this-project-will-be-finished-soon",
+                "text": "This project will be finished soon."
+            },
+            {
+                "code": "finish_example_she-let-him-finish-his-homework-during-class",
+                "text": "She let him finish his homework during class."
+            },
+            {
+                "code": "finish_example_the-event-finished-with-an-award-ceremony",
+                "text": "The event finished with an award ceremony."
+            },
+            {
+                "code": "finish_example_she-finished-her-speech-by-quoting-a-famous-poet",
+                "text": "She finished her speech by quoting a famous poet."
+            },
+            {
+                "code": "finish_example_she-has-to-finish-her-work-before-coming",
+                "text": "She has to finish her work before coming."
+            },
+            {
+                "code": "finish_example_he-is-working-hard-to-finish-college",
+                "text": "He is working hard to finish college."
+            },
+            {
+                "code": "finish_example_she-will-finish-her-degree-next-year",
+                "text": "She will finish her degree next year."
+            },
+            {
+                "code": "finish_example_she-needs-to-finish-some-errands",
+                "text": "She needs to finish some errands."
+            },
+            {
+                "code": "finish_example_he-finished-his-journey-in-thailand",
+                "text": "He finished his journey in Thailand."
+            },
+            {
+                "code": "finish_example_he-s-trying-hard-to-finish-his-novel",
+                "text": "He's trying hard to finish his novel."
+            },
+            {
+                "code": "finish_example_she-finished-the-marathon-in-good-time",
+                "text": "She finished the marathon in good time."
+            }
+        ]
+    }
+]

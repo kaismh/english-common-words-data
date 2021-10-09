@@ -1,0 +1,56 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to act in public; to do something; to function",
+        "examples": [
+            {
+                "code": "perform_example_she-is-unable-to-perform-in-the-show-tonight",
+                "text": "She is unable to perform in the show tonight."
+            },
+            {
+                "code": "perform_example_the-priest-will-perform-the-ceremony",
+                "text": "The priest will perform the ceremony."
+            },
+            {
+                "code": "perform_example_scientists-performed-an-experiment",
+                "text": "Scientists performed an experiment."
+            },
+            {
+                "code": "perform_example_the-doctor-will-perform-the-surgery",
+                "text": "The doctor will perform the surgery."
+            },
+            {
+                "code": "perform_example_he-performs-magic-during-his-shows",
+                "text": "He performs magic during his shows."
+            },
+            {
+                "code": "perform_example_she-performed-the-song-on-stage",
+                "text": "She performed the song on stage."
+            },
+            {
+                "code": "perform_example_this-machine-performs-an-important-function",
+                "text": "This machine performs an important function."
+            },
+            {
+                "code": "perform_example_the-economy-has-performed-badly-lately",
+                "text": "The economy has performed badly lately."
+            },
+            {
+                "code": "perform_example_the-band-performed-well-last-night",
+                "text": "The band performed well last night."
+            },
+            {
+                "code": "perform_example_he-performs-inspections-annually",
+                "text": "He performs inspections annually."
+            },
+            {
+                "code": "perform_example_the-doctor-performed-his-first-surgery-successfully",
+                "text": "The doctor performed his first surgery successfully."
+            },
+            {
+                "code": "perform_example_he-performs-his-duties-faithfully",
+                "text": "He performs his duties faithfully."
+            }
+        ]
+    }
+]

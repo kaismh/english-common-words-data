@@ -1,0 +1,118 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to do something with a machine or object for a specific purpose",
+        "examples": [
+            {
+                "code": "use_example_please-use-the-power-tools-safely",
+                "text": "Please use the power tools safely."
+            },
+            {
+                "code": "use_example_the-computer-is-mainly-used-for-creating-documents",
+                "text": "The computer is mainly used for creating documents."
+            },
+            {
+                "code": "use_example_the-machine-is-broken-because-it-was-not-properly-used",
+                "text": "The machine is broken because it was not properly used."
+            },
+            {
+                "code": "use_example_we-occasionally-use-the-swimming-pool",
+                "text": "We occasionally use the swimming pool."
+            },
+            {
+                "code": "use_example_we-originally-used-her-idea",
+                "text": "We originally used her idea."
+            },
+            {
+                "code": "use_example_he-will-teach-his-daughter-how-to-use-a-lawnmower",
+                "text": "He will teach his daughter how to use a lawnmower."
+            },
+            {
+                "code": "use_example_am-i-allowed-to-use-the-car",
+                "text": "Am I allowed to use the car?"
+            },
+            {
+                "code": "use_example_i-need-to-use-the-phone-when-you-are-done",
+                "text": "I need to use the phone when you are done."
+            },
+            {
+                "code": "use_example_i-am-using-the-paint-for-my-art-project",
+                "text": "I am using the paint for my art project."
+            },
+            {
+                "code": "use_example_you-cannot-use-calculators-during-the-test",
+                "text": "You cannot use calculators during the test."
+            },
+            {
+                "code": "use_example_they-are-using-the-garden-as-a-wedding-venue",
+                "text": "They are using the garden as a wedding venue."
+            }
+        ]
+    },
+    {
+        "type": "(n)",
+        "mean": "the act of doing something with a machine or object",
+        "examples": [
+            {
+                "code": "use_example_we-found-new-uses-for-tin-cans",
+                "text": "We found new uses for tin cans."
+            },
+            {
+                "code": "use_example_the-computers-are-for-limited-use-only",
+                "text": "The computers are for limited use only."
+            },
+            {
+                "code": "use_example_the-daily-use-of-cigarettes-is-bad-for-your-health",
+                "text": "The daily use of cigarettes is bad for your health."
+            },
+            {
+                "code": "use_example_the-heavy-use-of-illegal-drugs-can-kill-you",
+                "text": "The heavy use of illegal drugs can kill you."
+            },
+            {
+                "code": "use_example_he-has-a-cell-phone-for-personal-use",
+                "text": "He has a cell phone for personal use."
+            },
+            {
+                "code": "use_example_she-made-full-use-of-her-inherited-money",
+                "text": "She made full use of her inherited money."
+            },
+            {
+                "code": "use_example_with-proper-use-the-machine-can-last-for-years",
+                "text": "With proper use, the machine can last for years."
+            },
+            {
+                "code": "use_example_shoe-boxes-have-a-variety-of-uses",
+                "text": "Shoe boxes have a variety of uses."
+            },
+            {
+                "code": "use_example_they-discontinued-the-use-of-chemicals-in-their-products",
+                "text": "They discontinued the use of chemicals in their products."
+            },
+            {
+                "code": "use_example_the-teacher-allows-the-use-of-calculators-during-tests",
+                "text": "The teacher allows the use of calculators during tests."
+            },
+            {
+                "code": "use_example_the-state-is-trying-to-ban-the-use-of-marijuana",
+                "text": "The state is trying to ban the use of marijuana."
+            },
+            {
+                "code": "use_example_schools-should-regulate-the-use-of-cell-phones-in-the-classroom",
+                "text": "Schools should regulate the use of cell phones in the classroom."
+            },
+            {
+                "code": "use_example_she-supports-the-use-of-organic-cleaning-products",
+                "text": "She supports the use of organic cleaning products."
+            },
+            {
+                "code": "use_example_this-money-is-for-emergency-use-only",
+                "text": "This money is for emergency use only."
+            },
+            {
+                "code": "use_example_the-computer-is-always-in-use",
+                "text": "The computer is always in use."
+            }
+        ]
+    }
+]

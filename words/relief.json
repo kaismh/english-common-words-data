@@ -1,0 +1,72 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the feeling of happiness when there is no more pain or worry; help for people in need",
+        "examples": [
+            {
+                "code": "relief_example_the-organization-provided-medical-relief",
+                "text": "The organization provided medical relief."
+            },
+            {
+                "code": "relief_example_we-received-relief-from-the-agency",
+                "text": "We received relief from the agency."
+            },
+            {
+                "code": "relief_example_i-finally-have-relief-from-the-new-medication",
+                "text": "I finally have relief from the new medication."
+            },
+            {
+                "code": "relief_example_this-comes-as-a-relief",
+                "text": "This comes as a relief."
+            },
+            {
+                "code": "relief_example_she-experienced-relief-after-it-was-over",
+                "text": "She experienced relief after it was over."
+            },
+            {
+                "code": "relief_example_we-called-the-relief-agency-for-help",
+                "text": "We called the relief agency for help."
+            },
+            {
+                "code": "relief_example_the-hurricane-victims-received-relief-packages",
+                "text": "The hurricane victims received relief packages."
+            },
+            {
+                "code": "relief_example_the-volunteer-doctors-are-part-of-the-relief-operation",
+                "text": "The volunteer doctors are part of the relief operation."
+            },
+            {
+                "code": "relief_example_the-medicine-gave-her-pain-relief",
+                "text": "The medicine gave her pain relief."
+            },
+            {
+                "code": "relief_example_we-experienced-immense-relief",
+                "text": "We experienced immense relief."
+            },
+            {
+                "code": "relief_example_we-donated-money-for-humanitarian-relief",
+                "text": "We donated money for humanitarian relief."
+            },
+            {
+                "code": "relief_example_this-warm-weather-is-a-welcome-relief",
+                "text": "This warm weather is a welcome relief."
+            },
+            {
+                "code": "relief_example_the-medicine-gave-him-immediate-relief",
+                "text": "The medicine gave him immediate relief."
+            },
+            {
+                "code": "relief_example_i-sighed-in-relief",
+                "text": "I sighed in relief."
+            },
+            {
+                "code": "relief_example_we-reacted-in-relief-at-the-events",
+                "text": "We reacted in relief at the events."
+            },
+            {
+                "code": "relief_example_to-my-relief-they-were-not-late",
+                "text": "To my relief, they were not late."
+            }
+        ]
+    }
+]

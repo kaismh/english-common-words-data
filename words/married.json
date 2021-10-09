@@ -1,0 +1,52 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "having a husband or wife",
+        "examples": [
+            {
+                "code": "married_example_we-will-get-married-in-october",
+                "text": "We will get married in October."
+            },
+            {
+                "code": "married_example_they-stayed-married-even-after-the-infidelity",
+                "text": "They stayed married even after the infidelity."
+            },
+            {
+                "code": "married_example_she-is-a-married-woman",
+                "text": "She is a married woman."
+            },
+            {
+                "code": "married_example_they-are-a-married-couple",
+                "text": "They are a married couple."
+            },
+            {
+                "code": "married_example_he-s-a-married-man",
+                "text": "He's a married man."
+            },
+            {
+                "code": "married_example_how-is-married-life",
+                "text": "How is married life?"
+            },
+            {
+                "code": "married_example_i-was-never-legally-married",
+                "text": "I was never legally married."
+            },
+            {
+                "code": "married_example_she-is-newly-married",
+                "text": "She is newly married."
+            },
+            {
+                "code": "married_example_he-was-previously-married",
+                "text": "He was previously married."
+            },
+            {
+                "code": "married_example_she-is-married-to-a-doctor",
+                "text": "She is married to a doctor."
+            },
+            {
+                "code": "married_example_we-were-married-for-a-decade",
+                "text": "We were married for a decade."
+            }
+        ]
+    }
+]

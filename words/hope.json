@@ -1,0 +1,126 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the belief that something you want will happen; something you wish for",
+        "examples": [
+            {
+                "code": "hope_example_she-has-really-high-hopes-for-the-future",
+                "text": "She has really high hopes for the future."
+            },
+            {
+                "code": "hope_example_he-s-our-best-hope-for-success",
+                "text": "He's our best hope for success."
+            },
+            {
+                "code": "hope_example_there-is-slight-hope-that-things-will-get-better",
+                "text": "There is slight hope that things will get better."
+            },
+            {
+                "code": "hope_example_you-need-to-have-realistic-hopes",
+                "text": "You need to have realistic hopes."
+            },
+            {
+                "code": "hope_example_don-t-give-her-false-hope",
+                "text": "Don't give her false hope."
+            },
+            {
+                "code": "hope_example_the-change-gave-him-fresh-hope",
+                "text": "The change gave him fresh hope."
+            },
+            {
+                "code": "hope_example_college-is-a-distant-hope",
+                "text": "College is a distant hope."
+            },
+            {
+                "code": "hope_example_the-team-has-championship-hopes",
+                "text": "The team has championship hopes."
+            },
+            {
+                "code": "hope_example_she-was-his-last-hope",
+                "text": "She was his last hope."
+            },
+            {
+                "code": "hope_example_the-children-are-full-of-hope-for-the-future",
+                "text": "The children are full of hope for the future."
+            },
+            {
+                "code": "hope_example_we-have-little-hope-for-success",
+                "text": "We have little hope for success."
+            },
+            {
+                "code": "hope_example_he-expressed-hope-that-the-project-would-succeed",
+                "text": "He expressed hope that the project would succeed."
+            },
+            {
+                "code": "hope_example_he-found-hope-in-the-new-treatment",
+                "text": "He found hope in the new treatment."
+            },
+            {
+                "code": "hope_example_she-is-clinging-to-one-last-hope",
+                "text": "She is clinging to one last hope."
+            },
+            {
+                "code": "hope_example_i-haven-t-abandoned-hope-yet",
+                "text": "I haven't abandoned hope yet."
+            },
+            {
+                "code": "hope_example_the-announcement-brought-hope-to-the-community",
+                "text": "The announcement brought hope to the community."
+            },
+            {
+                "code": "hope_example_the-storm-crushed-her-hope-for-a-nice-weekend",
+                "text": "The storm crushed her hope for a nice weekend."
+            },
+            {
+                "code": "hope_example_he-carries-the-hopes-of-the-entire-nation-on-his-shoulders",
+                "text": "He carries the hopes of the entire nation on his shoulders."
+            },
+            {
+                "code": "hope_example_he-represents-our-best-hope-for-a-win",
+                "text": "He represents our best hope for a win."
+            },
+            {
+                "code": "hope_example_i-think-this-situation-is-beyond-hope",
+                "text": "I think this situation is beyond hope."
+            },
+            {
+                "code": "hope_example_they-are-full-of-hope-for-a-cure",
+                "text": "They are full of hope for a cure."
+            },
+            {
+                "code": "hope_example_this-plan-has-no-hope-of-success",
+                "text": "This plan has no hope of success."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to want or desire something to happen",
+        "examples": [
+            {
+                "code": "hope_example_he-desperately-hoped-she-would-come-home",
+                "text": "He desperately hoped she would come home."
+            },
+            {
+                "code": "hope_example_she-only-hopes-for-one-thing",
+                "text": "She only hopes for one thing."
+            },
+            {
+                "code": "hope_example_he-secretly-hoped-she-was-right",
+                "text": "He secretly hoped she was right."
+            },
+            {
+                "code": "hope_example_i-began-to-hope-for-change",
+                "text": "I began to hope for change."
+            },
+            {
+                "code": "hope_example_we-dared-to-hope-that-he-would-succeed",
+                "text": "We dared to hope that he would succeed."
+            },
+            {
+                "code": "hope_example_we-are-hoping-for-a-boy",
+                "text": "We are hoping for a boy."
+            }
+        ]
+    }
+]

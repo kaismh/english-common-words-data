@@ -1,0 +1,40 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to get something; to grasp; to consume",
+        "examples": [
+            {
+                "code": "take_example_she-quietly-took-her-friend-outside-to-have-a-serious-talk",
+                "text": "She quietly took her friend outside to have a serious talk."
+            },
+            {
+                "code": "take_example_please-quickly-take-this-to-the-other-room",
+                "text": "Please quickly take this to the other room."
+            },
+            {
+                "code": "take_example_he-firmly-took-her-hand-and-left-the-room",
+                "text": "He firmly took her hand and left the room."
+            },
+            {
+                "code": "take_example_you-need-to-take-this-medicine-regularly",
+                "text": "You need to take this medicine regularly."
+            },
+            {
+                "code": "take_example_she-took-my-comments-as-criticism",
+                "text": "She took my comments as criticism."
+            },
+            {
+                "code": "take_example_sometimes-we-need-to-take-advice",
+                "text": "Sometimes we need to take advice."
+            },
+            {
+                "code": "take_example_i-m-going-to-take-a-chance",
+                "text": "I'm going to take a chance."
+            },
+            {
+                "code": "take_example_i-need-to-take-a-bath",
+                "text": "I need to take a bath."
+            }
+        ]
+    }
+]

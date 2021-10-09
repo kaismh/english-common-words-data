@@ -1,0 +1,100 @@
+[
+    {
+        "type": "(n)",
+        "mean": "something wrong or incorrect; a mistake",
+        "examples": [
+            {
+                "code": "error_example_he-made-a-major-error-on-the-test",
+                "text": "He made a major error on the test."
+            },
+            {
+                "code": "error_example_caesar-s-fatal-error-was-trusting-brutus",
+                "text": "Caesar's fatal error was trusting Brutus."
+            },
+            {
+                "code": "error_example_i-keep-making-careless-errors-today",
+                "text": "I keep making careless errors today."
+            },
+            {
+                "code": "error_example_she-made-an-embarrassing-error-in-front-of-her-boss",
+                "text": "She made an embarrassing error in front of her boss."
+            },
+            {
+                "code": "error_example_he-has-to-learn-from-his-past-errors-in-business",
+                "text": "He has to learn from his past errors in business."
+            },
+            {
+                "code": "error_example_there-are-many-spelling-errors-in-this-paper",
+                "text": "There are many spelling errors in this paper."
+            },
+            {
+                "code": "error_example_that-statement-contains-a-factual-error",
+                "text": "That statement contains a factual error."
+            },
+            {
+                "code": "error_example_a-random-error-is-causing-the-problem",
+                "text": "A random error is causing the problem."
+            },
+            {
+                "code": "error_example_he-makes-too-many-clerical-errors",
+                "text": "He makes too many clerical errors."
+            },
+            {
+                "code": "error_example_the-crash-was-the-result-of-human-error",
+                "text": "The crash was the result of human error."
+            },
+            {
+                "code": "error_example_he-made-many-errors-in-the-debate",
+                "text": "He made many errors in the debate."
+            },
+            {
+                "code": "error_example_his-error-caused-the-team-to-lose",
+                "text": "His error caused the team to lose."
+            },
+            {
+                "code": "error_example_this-report-contains-many-errors",
+                "text": "This report contains many errors."
+            },
+            {
+                "code": "error_example_she-found-an-error-in-my-paper",
+                "text": "She found an error in my paper."
+            },
+            {
+                "code": "error_example_i-realized-a-major-error-on-my-test-after-i-turned-it-in",
+                "text": "I realized a major error on my test after I turned it in."
+            },
+            {
+                "code": "error_example_i-think-i-fixed-any-major-errors-in-my-assignment",
+                "text": "I think I fixed any major errors in my assignment."
+            },
+            {
+                "code": "error_example_this-system-should-help-us-reduce-errors",
+                "text": "This system should help us reduce errors."
+            },
+            {
+                "code": "error_example_she-is-trying-not-to-repeat-the-same-errors-she-made-on-the-last-assignment",
+                "text": "She is trying not to repeat the same errors she made on the last assignment."
+            },
+            {
+                "code": "error_example_the-factual-error-resulted-from-bad-research",
+                "text": "The factual error resulted from bad research."
+            },
+            {
+                "code": "error_example_her-errors-occurred-because-she-was-tired",
+                "text": "Her errors occurred because she was tired."
+            },
+            {
+                "code": "error_example_we-need-a-system-that-will-enhance-error-detection",
+                "text": "We need a system that will enhance error detection."
+            },
+            {
+                "code": "error_example_an-error-message-appears-every-time-i-click-this",
+                "text": "An error message appears every time I click this."
+            },
+            {
+                "code": "error_example_there-is-a-high-error-rate-in-the-last-assignment",
+                "text": "There is a high error rate in the last assignment."
+            }
+        ]
+    }
+]

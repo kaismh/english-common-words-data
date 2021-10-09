@@ -1,0 +1,174 @@
+[
+    {
+        "type": "(n)",
+        "mean": "money that must be paid as punishment for doing something wrong",
+        "examples": [
+            {
+                "code": "fine_example_they-had-to-pay-a-big-fine",
+                "text": "They had to pay a big fine."
+            },
+            {
+                "code": "fine_example_i-only-had-to-pay-a-small-fine",
+                "text": "I only had to pay a small fine."
+            },
+            {
+                "code": "fine_example_the-maximum-fine-is-1000",
+                "text": "The maximum fine is $1000."
+            },
+            {
+                "code": "fine_example_he-got-a-fine-for-trespassing",
+                "text": "He got a fine for trespassing."
+            },
+            {
+                "code": "fine_example_he-had-to-pay-a-big-fine",
+                "text": "He had to pay a big fine."
+            },
+            {
+                "code": "fine_example_violations-can-lead-to-a-fine-of-500",
+                "text": "Violations can lead to a fine of $500."
+            },
+            {
+                "code": "fine_example_the-fine-increases-with-each-incident",
+                "text": "The fine increases with each incident."
+            },
+            {
+                "code": "fine_example_littering-is-punishable-by-a-200-fine",
+                "text": "Littering is punishable by a $200 fine."
+            },
+            {
+                "code": "fine_example_they-had-to-pay-1000-in-fines",
+                "text": "They had to pay $1000 in fines."
+            },
+            {
+                "code": "fine_example_he-received-a-fine-for-littering",
+                "text": "He received a fine for littering."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to punish by making someone pay money for doing something wrong",
+        "examples": [
+            {
+                "code": "fine_example_violators-will-be-fined-heavily",
+                "text": "Violators will be fined heavily."
+            },
+            {
+                "code": "fine_example_they-were-fined-for-trespassing",
+                "text": "They were fined for trespassing."
+            }
+        ]
+    },
+    {
+        "type": "(adj)",
+        "mean": "very good; in good health; thin",
+        "examples": [
+            {
+                "code": "fine_example_dinner-was-fine",
+                "text": "Dinner was fine."
+            },
+            {
+                "code": "fine_example_she-looks-fine",
+                "text": "She looks fine."
+            },
+            {
+                "code": "fine_example_i-keep-hoping-everything-will-turn-out-fine",
+                "text": "I keep hoping everything will turn out fine."
+            },
+            {
+                "code": "fine_example_he-feels-fine-now",
+                "text": "He feels fine now."
+            },
+            {
+                "code": "fine_example_she-has-fine-features",
+                "text": "She has fine features."
+            },
+            {
+                "code": "fine_example_i-hope-the-flowers-remain-fine-for-the-wedding",
+                "text": "I hope the flowers remain fine for the wedding."
+            },
+            {
+                "code": "fine_example_he-made-a-very-fine-change-to-the-presentation",
+                "text": "He made a very fine change to the presentation."
+            },
+            {
+                "code": "fine_example_don-t-worry-i-m-completely-fine",
+                "text": "Don't worry. I'm completely fine."
+            },
+            {
+                "code": "fine_example_he-s-physically-fine-to-participate",
+                "text": "He's physically fine to participate."
+            },
+            {
+                "code": "fine_example_they-celebrated-his-fine-achievement",
+                "text": "They celebrated his fine achievement."
+            },
+            {
+                "code": "fine_example_he-is-a-fine-actor",
+                "text": "He is a fine actor."
+            },
+            {
+                "code": "fine_example_she-went-shopping-for-fine-jewelry",
+                "text": "She went shopping for fine jewelry."
+            },
+            {
+                "code": "fine_example_we-enjoyed-the-fine-cuisine",
+                "text": "We enjoyed the fine cuisine."
+            },
+            {
+                "code": "fine_example_the-museum-has-a-fine-collection-of-his-work",
+                "text": "The museum has a fine collection of his work."
+            },
+            {
+                "code": "fine_example_the-dress-is-made-of-fine-silk",
+                "text": "The dress is made of fine silk."
+            },
+            {
+                "code": "fine_example_the-beach-is-known-for-having-fine-sand",
+                "text": "The beach is known for having fine sand."
+            },
+            {
+                "code": "fine_example_there-is-a-fine-layer-of-ash-on-the-ground",
+                "text": "There is a fine layer of ash on the ground."
+            },
+            {
+                "code": "fine_example_that-was-a-really-fine-game",
+                "text": "That was a really fine game."
+            },
+            {
+                "code": "fine_example_we-saw-some-fine-paintings-today",
+                "text": "We saw some fine paintings today."
+            },
+            {
+                "code": "fine_example_the-cup-has-a-very-fine-crack-in-it",
+                "text": "The cup has a very fine crack in it."
+            },
+            {
+                "code": "fine_example_they-stayed-at-a-really-fine-hotel",
+                "text": "They stayed at a really fine hotel."
+            },
+            {
+                "code": "fine_example_this-place-has-a-fine-reputation",
+                "text": "This place has a fine reputation."
+            },
+            {
+                "code": "fine_example_she-has-really-fine-features",
+                "text": "She has really fine features."
+            }
+        ]
+    },
+    {
+        "type": "(adv)",
+        "mean": "in an acceptable way; well",
+        "examples": [
+            {
+                "code": "fine_example_that-will-work-fine",
+                "text": "That will work fine."
+            },
+            {
+                "code": "fine_example_that-idea-suits-me-fine",
+                "text": "That idea suits me fine."
+            }
+        ]
+    }
+]

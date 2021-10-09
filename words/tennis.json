@@ -1,0 +1,40 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a game played by hitting a ball over a net with rackets",
+        "examples": [
+            {
+                "code": "tennis_example_he-plays-singles-tennis",
+                "text": "He plays singles tennis."
+            },
+            {
+                "code": "tennis_example_she-is-on-a-professional-tennis-team",
+                "text": "She is on a professional tennis team."
+            },
+            {
+                "code": "tennis_example_do-you-know-how-to-play-table-tennis",
+                "text": "Do you know how to play table tennis?"
+            },
+            {
+                "code": "tennis_example_they-play-tennis",
+                "text": "They play tennis."
+            },
+            {
+                "code": "tennis_example_he-watches-tennis",
+                "text": "He watches tennis."
+            },
+            {
+                "code": "tennis_example_we-need-tennis-balls-to-play",
+                "text": "We need tennis balls to play."
+            },
+            {
+                "code": "tennis_example_the-club-is-strict-about-tennis-uniforms",
+                "text": "The club is strict about tennis uniforms."
+            },
+            {
+                "code": "tennis_example_we-have-tickets-to-a-tennis-game",
+                "text": "We have tickets to a tennis game."
+            }
+        ]
+    }
+]

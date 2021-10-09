@@ -1,0 +1,36 @@
+[
+    {
+        "type": "(n)",
+        "mean": "rented set of rooms in a building for people to live in",
+        "examples": [
+            {
+                "code": "apartment_example_we-live-in-a-large-apartment",
+                "text": "We live in a large apartment."
+            },
+            {
+                "code": "apartment_example_our-home-is-the-upstairs-apartment",
+                "text": "Our home is the upstairs apartment."
+            },
+            {
+                "code": "apartment_example_you-should-clean-the-apartment",
+                "text": "You should clean the apartment."
+            },
+            {
+                "code": "apartment_example_i-m-trying-to-find-an-apartment",
+                "text": "I'm trying to find an apartment."
+            },
+            {
+                "code": "apartment_example_i-m-looking-for-a-new-apartment",
+                "text": "I'm looking for a new apartment."
+            },
+            {
+                "code": "apartment_example_i-live-in-a-downtown-apartment",
+                "text": "I live in a downtown apartment."
+            },
+            {
+                "code": "apartment_example_where-is-the-apartment-building",
+                "text": "Where is the apartment building?"
+            }
+        ]
+    }
+]

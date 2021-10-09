@@ -1,0 +1,132 @@
+[
+    {
+        "type": "(n)",
+        "mean": "lack of success; unsuccessful person or thing; not doing something; physical break down",
+        "examples": [
+            {
+                "code": "failure_example_the-project-was-a-complete-failure",
+                "text": "The project was a complete failure."
+            },
+            {
+                "code": "failure_example_they-are-waiting-for-his-inevitable-failure",
+                "text": "They are waiting for his inevitable failure."
+            },
+            {
+                "code": "failure_example_this-product-is-a-relative-failure-compared-to-previous-versions",
+                "text": "This product is a relative failure compared to previous versions."
+            },
+            {
+                "code": "failure_example_she-has-recovered-well-from-her-initial-failure",
+                "text": "She has recovered well from her initial failure."
+            },
+            {
+                "code": "failure_example_he-talked-about-his-personal-failures",
+                "text": "He talked about his personal failures."
+            },
+            {
+                "code": "failure_example_the-reform-has-been-a-big-failure",
+                "text": "The reform has been a big failure."
+            },
+            {
+                "code": "failure_example_she-tries-to-learn-from-her-past-failures",
+                "text": "She tries to learn from her past failures."
+            },
+            {
+                "code": "failure_example_this-has-been-an-unexpected-failure",
+                "text": "This has been an unexpected failure."
+            },
+            {
+                "code": "failure_example_there-has-been-a-consistent-failure-to-respond-in-a-timely-manner",
+                "text": "There has been a consistent failure to respond in a timely manner."
+            },
+            {
+                "code": "failure_example_we-are-addressing-his-fundamental-failure-to-do-his-jobs",
+                "text": "We are addressing his fundamental failure to do his jobs."
+            },
+            {
+                "code": "failure_example_they-are-trying-to-fix-a-serious-mechanical-failure",
+                "text": "They are trying to fix a serious mechanical failure."
+            },
+            {
+                "code": "failure_example_computer-failure-is-causing-a-lot-of-problems",
+                "text": "Computer failure is causing a lot of problems."
+            },
+            {
+                "code": "failure_example_she-was-diagnosed-with-heart-failure",
+                "text": "She was diagnosed with heart failure."
+            },
+            {
+                "code": "failure_example_the-crisis-is-a-result-of-communication-failure",
+                "text": "The crisis is a result of communication failure."
+            },
+            {
+                "code": "failure_example_his-plans-always-end-in-failure",
+                "text": "His plans always end in failure."
+            },
+            {
+                "code": "failure_example_she-will-never-admit-her-failures",
+                "text": "She will never admit her failures."
+            },
+            {
+                "code": "failure_example_my-parents-will-not-tolerate-failure",
+                "text": "My parents will not tolerate failure."
+            },
+            {
+                "code": "failure_example_they-blamed-the-failure-of-the-project-on-each-other",
+                "text": "They blamed the failure of the project on each other."
+            },
+            {
+                "code": "failure_example_the-crisis-represents-a-failure-of-the-system",
+                "text": "The crisis represents a failure of the system."
+            },
+            {
+                "code": "failure_example_the-problem-here-is-a-failure-to-communicate",
+                "text": "The problem here is a failure to communicate."
+            },
+            {
+                "code": "failure_example_she-felt-like-a-complete-failure-after-losing-her-job",
+                "text": "She felt like a complete failure after losing her job."
+            },
+            {
+                "code": "failure_example_he-experienced-a-lot-of-failure-before-becoming-successful",
+                "text": "He experienced a lot of failure before becoming successful."
+            },
+            {
+                "code": "failure_example_her-parents-considered-her-a-failure",
+                "text": "Her parents considered her a failure."
+            },
+            {
+                "code": "failure_example_i-can-t-excuse-your-failure-to-complete-the-project-this-time",
+                "text": "I can't excuse your failure to complete the project this time."
+            },
+            {
+                "code": "failure_example_they-are-trying-to-prevent-a-complete-structural-failure",
+                "text": "They are trying to prevent a complete structural failure."
+            },
+            {
+                "code": "failure_example_this-illness-may-cause-heart-failure",
+                "text": "This illness may cause heart failure."
+            },
+            {
+                "code": "failure_example_we-are-experiencing-a-major-mechanical-failure",
+                "text": "We are experiencing a major mechanical failure."
+            },
+            {
+                "code": "failure_example_the-mechanical-failure-occurred-last-night",
+                "text": "The mechanical failure occurred last night."
+            },
+            {
+                "code": "failure_example_there-is-a-high-failure-rate-for-this-test",
+                "text": "There is a high failure rate for this test."
+            },
+            {
+                "code": "failure_example_he-experienced-a-major-failure-in-his-life",
+                "text": "He experienced a major failure in his life."
+            },
+            {
+                "code": "failure_example_there-was-a-complete-failure-of-the-brakes",
+                "text": "There was a complete failure of the brakes."
+            }
+        ]
+    }
+]

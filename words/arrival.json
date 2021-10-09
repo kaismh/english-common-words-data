@@ -1,0 +1,56 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the act of coming to a place; someone or something that has come to a place",
+        "examples": [
+            {
+                "code": "arrival_example_the-plane-made-an-early-arrival",
+                "text": "The plane made an early arrival."
+            },
+            {
+                "code": "arrival_example_we-weren-t-ready-for-his-sudden-arrival",
+                "text": "We weren't ready for his sudden arrival."
+            },
+            {
+                "code": "arrival_example_i-m-delighted-by-your-safe-arrival",
+                "text": "I'm delighted by your safe arrival."
+            },
+            {
+                "code": "arrival_example_we-would-like-to-welcome-our-latest-arrival",
+                "text": "We would like to welcome our latest arrival."
+            },
+            {
+                "code": "arrival_example_when-did-she-make-her-arrival",
+                "text": "When did she make her arrival?"
+            },
+            {
+                "code": "arrival_example_snow-marks-the-arrival-of-winter",
+                "text": "Snow marks the arrival of winter."
+            },
+            {
+                "code": "arrival_example_we-are-expecting-their-arrival",
+                "text": "We are expecting their arrival."
+            },
+            {
+                "code": "arrival_example_i-cannot-wait-to-meet-our-newest-arrival",
+                "text": "I cannot wait to meet our newest arrival."
+            },
+            {
+                "code": "arrival_example_when-is-your-arrival-date",
+                "text": "When is your arrival date?"
+            },
+            {
+                "code": "arrival_example_the-party-will-begin-upon-their-arrival",
+                "text": "The party will begin upon their arrival."
+            },
+            {
+                "code": "arrival_example_we-will-await-his-arrival-at-the-airport",
+                "text": "We will await his arrival at the airport."
+            },
+            {
+                "code": "arrival_example_we-re-excited-for-their-arrival-in-seattle",
+                "text": "We're excited for their arrival in Seattle."
+            }
+        ]
+    }
+]

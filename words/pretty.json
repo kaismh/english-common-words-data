@@ -1,0 +1,62 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "good looking",
+        "examples": [
+            {
+                "code": "pretty_example_i-feel-pretty-in-this-dress",
+                "text": "I feel pretty in this dress."
+            },
+            {
+                "code": "pretty_example_she-looks-pretty-is-that-dress",
+                "text": "She looks pretty is that dress."
+            },
+            {
+                "code": "pretty_example_she-is-a-pretty-girl",
+                "text": "She is a pretty girl."
+            },
+            {
+                "code": "pretty_example_those-clothes-are-pretty",
+                "text": "Those clothes are pretty."
+            },
+            {
+                "code": "pretty_example_she-is-very-pretty",
+                "text": "She is very pretty."
+            }
+        ]
+    },
+    {
+        "type": "(adv)",
+        "mean": "very; quite",
+        "examples": [
+            {
+                "code": "pretty_example_it-is-pretty-clear-that-she-doesn-t-care",
+                "text": "It is pretty clear that she doesn't care."
+            },
+            {
+                "code": "pretty_example_i-feel-pretty-sick-today",
+                "text": "I feel pretty sick today."
+            },
+            {
+                "code": "pretty_example_this-tv-show-is-pretty-ridiculous",
+                "text": "This TV show is pretty ridiculous."
+            },
+            {
+                "code": "pretty_example_it-s-pretty-sunny-today",
+                "text": "It's pretty sunny today."
+            },
+            {
+                "code": "pretty_example_i-m-pretty-certain-it-s-there",
+                "text": "I'm pretty certain it's there."
+            },
+            {
+                "code": "pretty_example_this-is-a-pretty-important-day-for-her",
+                "text": "This is a pretty important day for her."
+            },
+            {
+                "code": "pretty_example_he-feels-pretty-hopeless",
+                "text": "He feels pretty hopeless."
+            }
+        ]
+    }
+]

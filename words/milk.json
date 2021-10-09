@@ -1,0 +1,94 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the white liquid that is produced by female cows",
+        "examples": [
+            {
+                "code": "milk_example_i-drink-milk-every-day",
+                "text": "I drink milk every day."
+            },
+            {
+                "code": "milk_example_do-you-take-milk-with-your-tea",
+                "text": "Do you take milk with your tea?"
+            },
+            {
+                "code": "milk_example_she-added-milk-to-the-oatmeal",
+                "text": "She added milk to the oatmeal."
+            },
+            {
+                "code": "milk_example_i-heat-milk-for-my-children",
+                "text": "I heat milk for my children."
+            },
+            {
+                "code": "milk_example_she-spilled-milk-on-the-table",
+                "text": "She spilled milk on the table."
+            },
+            {
+                "code": "milk_example_female-cows-produce-milk",
+                "text": "Female cows produce milk."
+            },
+            {
+                "code": "milk_example_the-milk-has-gone-bad",
+                "text": "The milk has gone bad."
+            },
+            {
+                "code": "milk_example_my-kids-love-milkshakes",
+                "text": "My kids love milkshakes."
+            },
+            {
+                "code": "milk_example_milk-bottles-are-recyclable",
+                "text": "Milk bottles are recyclable."
+            },
+            {
+                "code": "milk_example_i-like-using-milk-chocolate-in-my-cookies",
+                "text": "I like using milk chocolate in my cookies."
+            },
+            {
+                "code": "milk_example_the-milk-crates-were-stacked-against-the-wall",
+                "text": "The milk crates were stacked against the wall."
+            },
+            {
+                "code": "milk_example_milk-production-is-increasing",
+                "text": "Milk production is increasing."
+            },
+            {
+                "code": "milk_example_many-kids-have-milk-allergies-these-days",
+                "text": "Many kids have milk allergies these days."
+            },
+            {
+                "code": "milk_example_we-buy-dried-milk",
+                "text": "We buy dried milk."
+            },
+            {
+                "code": "milk_example_the-milk-is-sour",
+                "text": "The milk is sour."
+            },
+            {
+                "code": "milk_example_we-need-condensed-milk-for-the-recipe",
+                "text": "We need condensed milk for the recipe."
+            },
+            {
+                "code": "milk_example_my-children-like-chocolate-milk",
+                "text": "My children like chocolate milk."
+            },
+            {
+                "code": "milk_example_she-feeds-her-baby-breast-milk",
+                "text": "She feeds her baby breast milk."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to get milk from a cow; to try to get something out of someone",
+        "examples": [
+            {
+                "code": "milk_example_he-milks-the-cow-every-morning",
+                "text": "He milks the cow every morning."
+            },
+            {
+                "code": "milk_example_they-tried-to-milk-information-out-of-him",
+                "text": "They tried to milk information out of him."
+            }
+        ]
+    }
+]

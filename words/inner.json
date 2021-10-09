@@ -1,0 +1,40 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "inside; private or secret",
+        "examples": [
+            {
+                "code": "inner_example_she-has-inner-beauty",
+                "text": "She has inner beauty."
+            },
+            {
+                "code": "inner_example_listen-to-your-inner-voice",
+                "text": "Listen to your inner voice."
+            },
+            {
+                "code": "inner_example_her-baby-has-an-inner-ear-infection",
+                "text": "Her baby has an inner ear infection."
+            },
+            {
+                "code": "inner_example_he-ripped-the-inner-lining-of-his-jacket",
+                "text": "He ripped the inner lining of his jacket."
+            },
+            {
+                "code": "inner_example_she-found-her-inner-peace",
+                "text": "She found her inner peace."
+            },
+            {
+                "code": "inner_example_he-found-a-lump-on-his-inner-arm",
+                "text": "He found a lump on his inner arm."
+            },
+            {
+                "code": "inner_example_he-counsels-inner-city-youths",
+                "text": "He counsels inner city youths."
+            },
+            {
+                "code": "inner_example_he-has-been-fighting-his-inner-demons",
+                "text": "He has been fighting his inner demons."
+            }
+        ]
+    }
+]

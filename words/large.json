@@ -1,0 +1,40 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "big in size or amount",
+        "examples": [
+            {
+                "code": "large_example_he-is-a-large-man",
+                "text": "He is a large man."
+            },
+            {
+                "code": "large_example_the-house-looks-very-large",
+                "text": "The house looks very large."
+            },
+            {
+                "code": "large_example_his-debt-remained-quite-large",
+                "text": "His debt remained quite large."
+            },
+            {
+                "code": "large_example_the-plant-grew-very-large",
+                "text": "The plant grew very large."
+            },
+            {
+                "code": "large_example_the-jacket-looked-very-large-on-her",
+                "text": "The jacket looked very large on her."
+            },
+            {
+                "code": "large_example_their-house-was-exceptionally-large",
+                "text": "Their house was exceptionally large."
+            },
+            {
+                "code": "large_example_i-wonder-if-this-room-will-be-large-enough-for-our-furniture",
+                "text": "I wonder if this room will be large enough for our furniture."
+            },
+            {
+                "code": "large_example_she-has-a-very-large-house",
+                "text": "She has a very large house."
+            }
+        ]
+    }
+]

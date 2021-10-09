@@ -1,0 +1,32 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the process of putting something with something else",
+        "examples": [
+            {
+                "code": "addition_example_the-sofa-was-a-new-addition-to-the-living-room",
+                "text": "The sofa was a new addition to the living room."
+            },
+            {
+                "code": "addition_example_she-is-an-important-addition-to-our-team",
+                "text": "She is an important addition to our team."
+            },
+            {
+                "code": "addition_example_she-is-learning-simple-addition-at-school",
+                "text": "She is learning simple addition at school."
+            },
+            {
+                "code": "addition_example_we-are-planning-a-new-room-addition",
+                "text": "We are planning a new room addition."
+            },
+            {
+                "code": "addition_example_the-architect-is-planning-the-addition-of-the-new-rooms",
+                "text": "The architect is planning the addition of the new rooms."
+            },
+            {
+                "code": "addition_example_we-are-expecting-a-new-addition-to-the-family",
+                "text": "We are expecting a new addition to the family."
+            }
+        ]
+    }
+]

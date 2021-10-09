@@ -1,0 +1,110 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to let someone or something free; to make something public",
+        "examples": [
+            {
+                "code": "release_example_she-released-her-grip-of-the-steering-wheel",
+                "text": "She released her grip of the steering wheel."
+            },
+            {
+                "code": "release_example_the-police-will-release-the-suspect",
+                "text": "The police will release the suspect."
+            },
+            {
+                "code": "release_example_the-kidnapper-is-releasing-the-captives",
+                "text": "The kidnapper is releasing the captives."
+            },
+            {
+                "code": "release_example_my-band-just-released-a-new-single",
+                "text": "My band just released a new single."
+            },
+            {
+                "code": "release_example_the-mayor-has-released-a-statement",
+                "text": "The mayor has released a statement."
+            },
+            {
+                "code": "release_example_they-quickly-released-the-dog-to-its-owner",
+                "text": "They quickly released the dog to its owner."
+            },
+            {
+                "code": "release_example_he-was-eventually-released-from-prison",
+                "text": "He was eventually released from prison."
+            },
+            {
+                "code": "release_example_they-finally-released-my-father-from-the-hospital",
+                "text": "They finally released my father from the hospital."
+            },
+            {
+                "code": "release_example_they-accidentally-released-the-animal-from-its-cage",
+                "text": "They accidentally released the animal from its cage."
+            },
+            {
+                "code": "release_example_they-officially-released-the-police-report-to-the-public",
+                "text": "They officially released the police report to the public."
+            },
+            {
+                "code": "release_example_the-new-cell-phone-will-be-released-shortly",
+                "text": "The new cell phone will be released shortly."
+            },
+            {
+                "code": "release_example_the-government-refuses-to-release-more-information",
+                "text": "The government refuses to release more information."
+            },
+            {
+                "code": "release_example_he-was-released-from-jail",
+                "text": "He was released from jail."
+            },
+            {
+                "code": "release_example_are-they-going-to-release-it-to-the-public",
+                "text": "Are they going to release it to the public?"
+            },
+            {
+                "code": "release_example_it-hasn-t-been-released-in-the-theaters",
+                "text": "It hasn't been released in the theaters."
+            },
+            {
+                "code": "release_example_it-hasn-t-been-released-on-dvd",
+                "text": "It hasn't been released on DVD."
+            }
+        ]
+    },
+    {
+        "type": "(n)",
+        "mean": "the act of letting someone or something free; the act of making something public",
+        "examples": [
+            {
+                "code": "release_example_there-are-asking-for-his-immediate-release",
+                "text": "There are asking for his immediate release."
+            },
+            {
+                "code": "release_example_we-are-waiting-for-the-latest-release-of-his-album",
+                "text": "We are waiting for the latest release of his album."
+            },
+            {
+                "code": "release_example_we-are-waiting-for-the-news-release",
+                "text": "We are waiting for the news release."
+            },
+            {
+                "code": "release_example_we-demand-his-immediate-release",
+                "text": "We demand his immediate release."
+            },
+            {
+                "code": "release_example_the-government-secured-his-release",
+                "text": "The government secured his release."
+            },
+            {
+                "code": "release_example_we-celebrated-his-release-from-the-hospital",
+                "text": "We celebrated his release from the hospital."
+            },
+            {
+                "code": "release_example_we-are-waiting-for-the-movie-s-release-on-dvd",
+                "text": "We are waiting for the movie's release on DVD."
+            },
+            {
+                "code": "release_example_when-is-the-release-date",
+                "text": "When is the release date?"
+            }
+        ]
+    }
+]

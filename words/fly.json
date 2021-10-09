@@ -1,0 +1,106 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a small insect with two wings; the opening on a pair of pants that covers the zipper or buttons",
+        "examples": [
+            {
+                "code": "fly_example_he-swatted-the-fly",
+                "text": "He swatted the fly."
+            },
+            {
+                "code": "fly_example_the-fruit-is-attracting-flies",
+                "text": "The fruit is attracting flies."
+            },
+            {
+                "code": "fly_example_he-is-great-at-catching-flies",
+                "text": "He is great at catching flies."
+            },
+            {
+                "code": "fly_example_a-huge-fly-buzzed-around-the-room",
+                "text": "A huge fly buzzed around the room."
+            },
+            {
+                "code": "fly_example_a-fly-landed-on-her-plate",
+                "text": "A fly landed on her plate."
+            },
+            {
+                "code": "fly_example_i-can-t-button-my-fly-with-a-broken-finger",
+                "text": "I can't button my fly with a broken finger."
+            },
+            {
+                "code": "fly_example_you-need-to-kill-the-fly-larvae-before-they-hatch",
+                "text": "You need to kill the fly larvae before they hatch."
+            },
+            {
+                "code": "fly_example_she-bought-a-fly-swatter",
+                "text": "She bought a fly swatter."
+            },
+            {
+                "code": "fly_example_they-use-fly-paper-in-the-kitchen",
+                "text": "They use fly paper in the kitchen."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to move or travel through the air; control something in the air",
+        "examples": [
+            {
+                "code": "fly_example_the-birds-flew-low-over-the-yard",
+                "text": "The birds flew low over the yard."
+            },
+            {
+                "code": "fly_example_the-helicopter-flew-around-the-house",
+                "text": "The helicopter flew around the house."
+            },
+            {
+                "code": "fly_example_the-pigeons-flew-off-the-roof",
+                "text": "The pigeons flew off the roof."
+            },
+            {
+                "code": "fly_example_birds-flew-out-of-the-cave",
+                "text": "Birds flew out of the cave."
+            },
+            {
+                "code": "fly_example_they-will-fly-back-for-christmas",
+                "text": "They will fly back for Christmas."
+            },
+            {
+                "code": "fly_example_we-watched-airplanes-flying-above-the-city",
+                "text": "We watched airplanes flying above the city."
+            },
+            {
+                "code": "fly_example_he-flies-airplanes",
+                "text": "He flies airplanes."
+            },
+            {
+                "code": "fly_example_they-flew-a-route-between-chicago-and-new-york",
+                "text": "They flew a route between Chicago and New York."
+            },
+            {
+                "code": "fly_example_we-re-going-to-fly-kites-in-the-afternoon",
+                "text": "We're going to fly kites in the afternoon."
+            },
+            {
+                "code": "fly_example_they-always-fly-the-flag-on-the-fourth-of-july",
+                "text": "They always fly the flag on the Fourth of July."
+            },
+            {
+                "code": "fly_example_bullets-flew-in-every-direction",
+                "text": "Bullets flew in every direction."
+            },
+            {
+                "code": "fly_example_mosquitoes-flew-around-the-garden",
+                "text": "Mosquitoes flew around the garden."
+            },
+            {
+                "code": "fly_example_a-bird-flew-up-to-the-roof",
+                "text": "A bird flew up to the roof."
+            },
+            {
+                "code": "fly_example_they-watched-an-eagle-fly-by",
+                "text": "They watched an eagle fly by."
+            }
+        ]
+    }
+]

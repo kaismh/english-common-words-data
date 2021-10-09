@@ -1,0 +1,178 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the act of helping and encouraging someone in a difficult situation; help that is given through money",
+        "examples": [
+            {
+                "code": "support_example_you-have-my-total-support",
+                "text": "You have my total support."
+            },
+            {
+                "code": "support_example_she-received-overwhelming-support-after-the-accident",
+                "text": "She received overwhelming support after the accident."
+            },
+            {
+                "code": "support_example_the-new-candidate-is-enjoying-the-growing-support-from-the-voters",
+                "text": "The new candidate is enjoying the growing support from the voters."
+            },
+            {
+                "code": "support_example_thank-you-for-your-continuing-support",
+                "text": "Thank you for your continuing support."
+            },
+            {
+                "code": "support_example_she-lacks-parental-support",
+                "text": "She lacks parental support."
+            },
+            {
+                "code": "support_example_she-came-with-her-friend-for-moral-support",
+                "text": "She came with her friend for moral support."
+            },
+            {
+                "code": "support_example_she-is-on-life-support",
+                "text": "She is on life support."
+            },
+            {
+                "code": "support_example_we-need-extra-support-from-the-community",
+                "text": "We need extra support from the community."
+            },
+            {
+                "code": "support_example_tech-support-was-unable-to-fix-her-computer-problem",
+                "text": "Tech support was unable to fix her computer problem."
+            },
+            {
+                "code": "support_example_i-have-the-support-of-my-family",
+                "text": "I have the support of my family."
+            },
+            {
+                "code": "support_example_we-receive-great-support-from-our-community",
+                "text": "We receive great support from our community."
+            },
+            {
+                "code": "support_example_we-give-support-to-our-local-small-businesses",
+                "text": "We give support to our local small businesses."
+            },
+            {
+                "code": "support_example_he-is-losing-the-support-of-his-voters-every-day",
+                "text": "He is losing the support of his voters every day."
+            },
+            {
+                "code": "support_example_the-community-withdrew-their-support-for-a-new-town-center",
+                "text": "The community withdrew their support for a new town center."
+            },
+            {
+                "code": "support_example_she-needs-a-lot-of-support-after-the-loss-of-her-parents",
+                "text": "She needs a lot of support after the loss of her parents."
+            },
+            {
+                "code": "support_example_can-i-rely-on-your-support",
+                "text": "Can I rely on your support?"
+            },
+            {
+                "code": "support_example_she-deserves-the-support-of-her-friends",
+                "text": "She deserves the support of her friends."
+            },
+            {
+                "code": "support_example_please-show-support-for-the-new-youth-center",
+                "text": "Please show support for the new youth center."
+            },
+            {
+                "code": "support_example_i-appreciate-your-continuous-support",
+                "text": "I appreciate your continuous support."
+            },
+            {
+                "code": "support_example_support-for-the-president-is-slowly-weakening",
+                "text": "Support for the president is slowly weakening."
+            },
+            {
+                "code": "support_example_support-for-the-mayoral-candidate-is-increasing",
+                "text": "Support for the mayoral candidate is increasing."
+            },
+            {
+                "code": "support_example_he-is-paying-spousal-support-every-month",
+                "text": "He is paying spousal support every month."
+            },
+            {
+                "code": "support_example_she-is-claiming-child-support-for-two-children",
+                "text": "She is claiming child support for two children."
+            },
+            {
+                "code": "support_example_she-attends-a-weekly-support-group",
+                "text": "She attends a weekly support group."
+            },
+            {
+                "code": "support_example_she-has-a-great-support-system-of-friends",
+                "text": "She has a great support system of friends."
+            },
+            {
+                "code": "support_example_please-report-any-technical-problems-to-the-support-staff",
+                "text": "Please report any technical problems to the support staff."
+            },
+            {
+                "code": "support_example_i-cannot-do-this-without-your-support",
+                "text": "I cannot do this without your support."
+            },
+            {
+                "code": "support_example_i-can-only-do-this-with-your-support",
+                "text": "I can only do this with your support."
+            },
+            {
+                "code": "support_example_we-offer-support-for-our-local-businesses",
+                "text": "We offer support for our local businesses."
+            },
+            {
+                "code": "support_example_the-president-of-the-board-does-not-have-support-from-his-members",
+                "text": "The president of the board does not have support from his members."
+            },
+            {
+                "code": "support_example_do-we-have-enough-support-between-the-two-of-them",
+                "text": "Do we have enough support between the two of them?"
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to help and encourage someone, especially in a difficult situation; to agree with someone; to help by giving money",
+        "examples": [
+            {
+                "code": "support_example_i-strongly-support-our-school-policy-on-bullying",
+                "text": "I strongly support our school policy on bullying."
+            },
+            {
+                "code": "support_example_the-voters-overwhelmingly-support-the-new-mayor",
+                "text": "The voters overwhelmingly support the new mayor."
+            },
+            {
+                "code": "support_example_he-openly-supports-gay-marriage",
+                "text": "He openly supports gay marriage."
+            },
+            {
+                "code": "support_example_she-has-consistently-supported-gun-restriction-laws",
+                "text": "She has consistently supported gun restriction laws."
+            },
+            {
+                "code": "support_example_she-clearly-supports-her-husband-s-opinions",
+                "text": "She clearly supports her husband's opinions."
+            },
+            {
+                "code": "support_example_she-financially-supports-her-aging-mother",
+                "text": "She financially supports her aging mother."
+            },
+            {
+                "code": "support_example_are-you-prepared-to-support-him-during-the-difficult-times",
+                "text": "Are you prepared to support him during the difficult times?"
+            },
+            {
+                "code": "support_example_he-refused-to-support-his-children-after-the-divorce",
+                "text": "He refused to support his children after the divorce."
+            },
+            {
+                "code": "support_example_my-parents-supported-me-through-medical-school",
+                "text": "My parents supported me through medical school."
+            },
+            {
+                "code": "support_example_i-have-supported-my-sister-in-everything-she-has-done",
+                "text": "I have supported my sister in everything she has done."
+            }
+        ]
+    }
+]

@@ -1,0 +1,80 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "significant and valuable",
+        "examples": [
+            {
+                "code": "important_example_the-message-seems-important",
+                "text": "The message seems important."
+            },
+            {
+                "code": "important_example_she-makes-me-feel-important",
+                "text": "She makes me feel important."
+            },
+            {
+                "code": "important_example_what-makes-you-so-important",
+                "text": "What makes you so important?"
+            },
+            {
+                "code": "important_example_he-believes-he-is-very-important",
+                "text": "He believes he is very important."
+            },
+            {
+                "code": "important_example_his-findings-have-become-important-to-the-research",
+                "text": "His findings have become important to the research."
+            },
+            {
+                "code": "important_example_it-is-extremely-important-that-you-see-a-doctor",
+                "text": "It is extremely important that you see a doctor."
+            },
+            {
+                "code": "important_example_good-communication-is-tremendously-important-in-a-marriage",
+                "text": "Good communication is tremendously important in a marriage."
+            },
+            {
+                "code": "important_example_both-suggestions-are-equally-important",
+                "text": "Both suggestions are equally important."
+            },
+            {
+                "code": "important_example_it-is-pretty-important-that-you-finish-the-project-on-time",
+                "text": "It is pretty important that you finish the project on time."
+            },
+            {
+                "code": "important_example_it-s-important-for-you-to-read-this",
+                "text": "It's important for you to read this."
+            },
+            {
+                "code": "important_example_spending-time-with-my-family-is-important-to-me",
+                "text": "Spending time with my family is important to me."
+            },
+            {
+                "code": "important_example_there-will-be-an-important-addition-to-the-company",
+                "text": "There will be an important addition to the company."
+            },
+            {
+                "code": "important_example_she-missed-a-very-important-appointment",
+                "text": "She missed a very important appointment."
+            },
+            {
+                "code": "important_example_they-made-an-important-breakthrough",
+                "text": "They made an important breakthrough."
+            },
+            {
+                "code": "important_example_he-is-an-important-client",
+                "text": "He is an important client."
+            },
+            {
+                "code": "important_example_i-had-to-make-an-important-decision",
+                "text": "I had to make an important decision."
+            },
+            {
+                "code": "important_example_she-learned-an-important-lesson",
+                "text": "She learned an important lesson."
+            },
+            {
+                "code": "important_example_that-was-an-important-moment-for-him",
+                "text": "That was an important moment for him."
+            }
+        ]
+    }
+]

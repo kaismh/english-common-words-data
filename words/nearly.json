@@ -1,0 +1,52 @@
+[
+    {
+        "type": "(adv)",
+        "mean": "almost; not completely",
+        "examples": [
+            {
+                "code": "nearly_example_i-was-nearly-killed",
+                "text": "I was nearly killed."
+            },
+            {
+                "code": "nearly_example_the-road-nearly-disappeared",
+                "text": "The road nearly disappeared."
+            },
+            {
+                "code": "nearly_example_we-nearly-won",
+                "text": "We nearly won."
+            },
+            {
+                "code": "nearly_example_he-nearly-vanished",
+                "text": "He nearly vanished."
+            },
+            {
+                "code": "nearly_example_they-are-nearly-gone",
+                "text": "They are nearly gone."
+            },
+            {
+                "code": "nearly_example_the-sky-is-nearly-black",
+                "text": "The sky is nearly black."
+            },
+            {
+                "code": "nearly_example_the-room-was-nearly-silent",
+                "text": "The room was nearly silent."
+            },
+            {
+                "code": "nearly_example_the-clothes-are-nearly-dry",
+                "text": "The clothes are nearly dry."
+            },
+            {
+                "code": "nearly_example_this-math-problem-is-nearly-impossible-to-solve",
+                "text": "This math problem is nearly impossible to solve."
+            },
+            {
+                "code": "nearly_example_he-s-nearly-bald",
+                "text": "He's nearly bald."
+            },
+            {
+                "code": "nearly_example_i-was-nearly-asleep",
+                "text": "I was nearly asleep."
+            }
+        ]
+    }
+]

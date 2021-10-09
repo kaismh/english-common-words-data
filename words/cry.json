@@ -1,0 +1,98 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a loud sound or call to express a strong emotion",
+        "examples": [
+            {
+                "code": "cry_example_the-dog-let-out-a-little-cry",
+                "text": "The dog let out a little cry."
+            },
+            {
+                "code": "cry_example_sometimes-all-you-need-is-a-great-cry",
+                "text": "Sometimes all you need is a great cry."
+            },
+            {
+                "code": "cry_example_the-sharp-cry-could-be-heard-for-miles",
+                "text": "The sharp cry could be heard for miles."
+            },
+            {
+                "code": "cry_example_the-warrior-made-a-battle-cry",
+                "text": "The warrior made a battle cry."
+            },
+            {
+                "code": "cry_example_we-could-hear-the-desperate-cries-for-help",
+                "text": "We could hear the desperate cries for help."
+            },
+            {
+                "code": "cry_example_she-gave-a-great-cry",
+                "text": "She gave a great cry."
+            },
+            {
+                "code": "cry_example_the-cry-echoed-in-the-cave",
+                "text": "The cry echoed in the cave."
+            },
+            {
+                "code": "cry_example_she-dropped-to-her-knees-with-a-cry",
+                "text": "She dropped to her knees with a cry."
+            },
+            {
+                "code": "cry_example_the-note-was-a-cry-for-help",
+                "text": "The note was a cry for help."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to make tears; to shout loudly",
+        "examples": [
+            {
+                "code": "cry_example_she-cried-a-lot",
+                "text": "She cried a lot."
+            },
+            {
+                "code": "cry_example_did-you-almost-cry",
+                "text": "Did you almost cry?"
+            },
+            {
+                "code": "cry_example_she-will-never-cry-in-public",
+                "text": "She will never cry in public."
+            },
+            {
+                "code": "cry_example_he-cried-loudly-over-the-news",
+                "text": "He cried loudly over the news."
+            },
+            {
+                "code": "cry_example_she-cried-uncontrollably-at-the-funeral",
+                "text": "She cried uncontrollably at the funeral."
+            },
+            {
+                "code": "cry_example_he-desperately-cried-for-help",
+                "text": "He desperately cried for help."
+            },
+            {
+                "code": "cry_example_he-began-to-cry",
+                "text": "He began to cry."
+            },
+            {
+                "code": "cry_example_i-want-to-cry",
+                "text": "I want to cry."
+            },
+            {
+                "code": "cry_example_what-is-she-crying-about-this-time",
+                "text": "What is she crying about this time?"
+            },
+            {
+                "code": "cry_example_they-cried-over-the-death-of-their-father",
+                "text": "They cried over the death of their father."
+            },
+            {
+                "code": "cry_example_the-baby-was-crying-for-her-mother",
+                "text": "The baby was crying for her mother."
+            },
+            {
+                "code": "cry_example_she-started-to-cry-with-anger",
+                "text": "She started to cry with anger."
+            }
+        ]
+    }
+]

@@ -1,0 +1,114 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a one-piece item of women's clothing that covers the body from the shoulders to the legs; male or female clothing",
+        "examples": [
+            {
+                "code": "dress_example_what-a-beautiful-dress",
+                "text": "What a beautiful dress."
+            },
+            {
+                "code": "dress_example_she-is-wearing-a-knee-length-dress",
+                "text": "She is wearing a knee-length dress."
+            },
+            {
+                "code": "dress_example_she-wore-a-skintight-dress",
+                "text": "She wore a skintight dress."
+            },
+            {
+                "code": "dress_example_she-spilled-her-drink-on-her-cotton-dress",
+                "text": "She spilled her drink on her cotton dress."
+            },
+            {
+                "code": "dress_example_we-need-to-buy-a-cocktail-dress",
+                "text": "We need to buy a cocktail dress."
+            },
+            {
+                "code": "dress_example_everyone-was-in-formal-dress",
+                "text": "Everyone was in formal dress."
+            },
+            {
+                "code": "dress_example_can-you-help-me-unzip-my-dress",
+                "text": "Can you help me unzip my dress?"
+            },
+            {
+                "code": "dress_example_do-these-shoes-go-with-this-dress",
+                "text": "Do these shoes go with this dress?"
+            },
+            {
+                "code": "dress_example_try-not-to-rip-your-dress",
+                "text": "Try not to rip your dress."
+            },
+            {
+                "code": "dress_example_i-bought-it-in-a-dress-shop",
+                "text": "I bought it in a dress shop."
+            },
+            {
+                "code": "dress_example_she-is-a-famous-dress-designer",
+                "text": "She is a famous dress designer."
+            },
+            {
+                "code": "dress_example_what-is-you-dress-size",
+                "text": "What is you dress size?"
+            },
+            {
+                "code": "dress_example_what-is-the-dress-code",
+                "text": "What is the dress code?"
+            },
+            {
+                "code": "dress_example_where-is-your-dress-coat",
+                "text": "Where is your dress coat?"
+            },
+            {
+                "code": "dress_example_she-showed-up-in-a-fancy-dress",
+                "text": "She showed up in a fancy dress."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to put clothes on",
+        "examples": [
+            {
+                "code": "dress_example_she-quickly-dressed-her-baby",
+                "text": "She quickly dressed her baby."
+            },
+            {
+                "code": "dress_example_she-dressed-beautifully-for-the-occasion",
+                "text": "She dressed beautifully for the occasion."
+            },
+            {
+                "code": "dress_example_her-neighbor-dresses-badly",
+                "text": "Her neighbor dresses badly."
+            },
+            {
+                "code": "dress_example_please-dress-appropriately-for-the-interview",
+                "text": "Please dress appropriately for the interview."
+            },
+            {
+                "code": "dress_example_i-wish-she-would-dress-decently-around-my-parents",
+                "text": "I wish she would dress decently around my parents."
+            },
+            {
+                "code": "dress_example_the-mother-and-daughter-dress-similarly",
+                "text": "The mother and daughter dress similarly."
+            },
+            {
+                "code": "dress_example_please-dress-professionally-for-this-job",
+                "text": "Please dress professionally for this job."
+            },
+            {
+                "code": "dress_example_her-child-was-dressed-as-a-clown",
+                "text": "Her child was dressed as a clown."
+            },
+            {
+                "code": "dress_example_my-son-likes-to-dress-like-a-pirate",
+                "text": "My son likes to dress like a pirate."
+            },
+            {
+                "code": "dress_example_they-are-all-dressed-in-black",
+                "text": "They are all dressed in black."
+            }
+        ]
+    }
+]

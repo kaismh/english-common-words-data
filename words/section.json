@@ -1,0 +1,68 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a part of a whole",
+        "examples": [
+            {
+                "code": "section_example_the-race-continued-on-a-long-section-of-the-street",
+                "text": "The race continued on a long section of the street."
+            },
+            {
+                "code": "section_example_i-really-enjoyed-the-opening-section-of-the-book",
+                "text": "I really enjoyed the opening section of the book."
+            },
+            {
+                "code": "section_example_we-re-moving-on-to-the-next-section",
+                "text": "We're moving on to the next section."
+            },
+            {
+                "code": "section_example_we-had-to-take-out-a-large-section-of-the-carpet",
+                "text": "We had to take out a large section of the carpet."
+            },
+            {
+                "code": "section_example_famous-people-get-to-sit-in-a-special-section-of-the-restaurant",
+                "text": "Famous people get to sit in a special section of the restaurant."
+            },
+            {
+                "code": "section_example_can-i-see-the-business-section-of-the-newspaper",
+                "text": "Can I see the business section of the newspaper?"
+            },
+            {
+                "code": "section_example_the-horn-section-sounded-great",
+                "text": "The horn section sounded great!"
+            },
+            {
+                "code": "section_example_that-book-can-be-found-in-the-fiction-section",
+                "text": "That book can be found in the fiction section."
+            },
+            {
+                "code": "section_example_the-author-added-a-new-section-on-mammals",
+                "text": "The author added a new section on mammals."
+            },
+            {
+                "code": "section_example_i-skipped-the-section-on-gardening-tips",
+                "text": "I skipped the section on gardening tips."
+            },
+            {
+                "code": "section_example_the-room-was-divided-into-sections",
+                "text": "The room was divided into sections."
+            },
+            {
+                "code": "section_example_the-section-leader-helped-tune-the-instruments",
+                "text": "The section leader helped tune the instruments."
+            },
+            {
+                "code": "section_example_you-can-find-dictionaries-in-the-reference-section",
+                "text": "You can find dictionaries in the reference section."
+            },
+            {
+                "code": "section_example_the-bookcase-comes-in-several-sections",
+                "text": "The bookcase comes in several sections."
+            },
+            {
+                "code": "section_example_please-look-in-your-books-under-section-three",
+                "text": "Please look in your books under section three."
+            }
+        ]
+    }
+]

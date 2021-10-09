@@ -1,0 +1,130 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "having to do with the community; belonging to everybody",
+        "examples": [
+            {
+                "code": "public_example_is-there-a-public-bathroom-at-the-park",
+                "text": "Is there a public bathroom at the park?"
+            },
+            {
+                "code": "public_example_we-applied-for-public-housing",
+                "text": "We applied for public housing."
+            },
+            {
+                "code": "public_example_she-had-to-complete-20-hours-of-public-service",
+                "text": "She had to complete 20 hours of public service."
+            },
+            {
+                "code": "public_example_you-need-a-permit-to-hunt-on-public-land",
+                "text": "You need a permit to hunt on public land."
+            },
+            {
+                "code": "public_example_where-is-the-public-hospital",
+                "text": "Where is the public hospital?"
+            },
+            {
+                "code": "public_example_i-usually-take-public-transportation",
+                "text": "I usually take public transportation."
+            },
+            {
+                "code": "public_example_public-spending-is-growing-every-year",
+                "text": "Public spending is growing every year."
+            },
+            {
+                "code": "public_example_you-can-park-for-free-on-public-streets",
+                "text": "You can park for free on public streets."
+            },
+            {
+                "code": "public_example_she-goes-to-a-public-school",
+                "text": "She goes to a public school."
+            },
+            {
+                "code": "public_example_he-is-studying-public-relations",
+                "text": "He is studying public relations."
+            },
+            {
+                "code": "public_example_he-is-a-public-employee",
+                "text": "He is a public employee."
+            },
+            {
+                "code": "public_example_public-opinion-is-against-him",
+                "text": "Public opinion is against him."
+            },
+            {
+                "code": "public_example_i-watch-a-lot-of-public-television",
+                "text": "I watch a lot of public television."
+            },
+            {
+                "code": "public_example_there-is-public-knowledge-of-the-event",
+                "text": "There is public knowledge of the event."
+            },
+            {
+                "code": "public_example_he-made-several-public-appearances",
+                "text": "He made several public appearances."
+            },
+            {
+                "code": "public_example_there-was-public-uproar-after-the-election",
+                "text": "There was public uproar after the election."
+            },
+            {
+                "code": "public_example_it-is-public-record-now",
+                "text": "It is public record now."
+            },
+            {
+                "code": "public_example_they-received-public-funding",
+                "text": "They received public funding."
+            },
+            {
+                "code": "public_example_she-experienced-public-humiliation-after-the-scandal",
+                "text": "She experienced public humiliation after the scandal."
+            },
+            {
+                "code": "public_example_we-have-a-public-duty-to-defend-the-land",
+                "text": "We have a public duty to defend the land."
+            },
+            {
+                "code": "public_example_she-holds-public-office",
+                "text": "She holds public office."
+            },
+            {
+                "code": "public_example_i-support-public-education",
+                "text": "I support public education."
+            },
+            {
+                "code": "public_example_they-put-on-a-public-performance",
+                "text": "They put on a public performance."
+            },
+            {
+                "code": "public_example_he-provided-public-testimony",
+                "text": "He provided public testimony."
+            }
+        ]
+    },
+    {
+        "type": "(n)",
+        "mean": "the community",
+        "examples": [
+            {
+                "code": "public_example_someone-needs-to-inform-the-public",
+                "text": "Someone needs to inform the public."
+            },
+            {
+                "code": "public_example_she-tried-to-mislead-the-public",
+                "text": "She tried to mislead the public."
+            },
+            {
+                "code": "public_example_he-was-elected-to-serve-the-public",
+                "text": "He was elected to serve the public."
+            },
+            {
+                "code": "public_example_the-show-is-open-to-the-general-public",
+                "text": "The show is open to the general public."
+            },
+            {
+                "code": "public_example_he-is-afraid-to-be-seen-in-public",
+                "text": "He is afraid to be seen in public."
+            }
+        ]
+    }
+]

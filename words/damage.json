@@ -1,0 +1,102 @@
+[
+    {
+        "type": "(n)",
+        "mean": "harm that is done to someone or something",
+        "examples": [
+            {
+                "code": "damage_example_the-building-had-considerable-damage-after-the-earthquake",
+                "text": "The building had considerable damage after the earthquake."
+            },
+            {
+                "code": "damage_example_my-car-has-minor-damage-from-the-accident",
+                "text": "My car has minor damage from the accident."
+            },
+            {
+                "code": "damage_example_the-earthquake-caused-lasting-damage",
+                "text": "The earthquake caused lasting damage."
+            },
+            {
+                "code": "damage_example_the-victims-suffered-emotional-damage",
+                "text": "The victims suffered emotional damage."
+            },
+            {
+                "code": "damage_example_the-storm-caused-property-damage",
+                "text": "The storm caused property damage."
+            },
+            {
+                "code": "damage_example_the-abuse-caused-serious-psychological-damage",
+                "text": "The abuse caused serious psychological damage."
+            },
+            {
+                "code": "damage_example_the-house-suffered-damages-in-the-fire",
+                "text": "The house suffered damages in the fire."
+            },
+            {
+                "code": "damage_example_who-will-repair-the-damage-to-my-car",
+                "text": "Who will repair the damage to my car?"
+            },
+            {
+                "code": "damage_example_how-can-i-prevent-more-damages-to-my-roof",
+                "text": "How can I prevent more damages to my roof?"
+            },
+            {
+                "code": "damage_example_they-tried-to-limit-the-damage-to-the-car",
+                "text": "They tried to limit the damage to the car."
+            },
+            {
+                "code": "damage_example_how-did-the-damage-occur",
+                "text": "How did the damage occur?"
+            },
+            {
+                "code": "damage_example_the-insurance-company-will-fill-out-a-damage-report",
+                "text": "The insurance company will fill out a damage report."
+            },
+            {
+                "code": "damage_example_they-hired-a-specialist-to-deal-with-damage-control",
+                "text": "They hired a specialist to deal with damage control."
+            },
+            {
+                "code": "damage_example_she-suffered-emotional-damage-from-years-of-abuse",
+                "text": "She suffered emotional damage from years of abuse."
+            },
+            {
+                "code": "damage_example_alcohol-did-permanent-damage-to-her-liver",
+                "text": "Alcohol did permanent damage to her liver."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to harm someone or something",
+        "examples": [
+            {
+                "code": "damage_example_the-house-was-seriously-damaged-by-the-flood",
+                "text": "The house was seriously damaged by the flood."
+            },
+            {
+                "code": "damage_example_she-slightly-damaged-the-car-in-the-accident",
+                "text": "She slightly damaged the car in the accident."
+            },
+            {
+                "code": "damage_example_he-permanently-damaged-his-back-in-the-fall",
+                "text": "He permanently damaged his back in the fall."
+            },
+            {
+                "code": "damage_example_the-fire-damaged-the-house",
+                "text": "The fire damaged the house."
+            },
+            {
+                "code": "damage_example_smoking-damaged-his-health",
+                "text": "Smoking damaged his health."
+            },
+            {
+                "code": "damage_example_rumors-damaged-his-reputation",
+                "text": "Rumors damaged his reputation."
+            },
+            {
+                "code": "damage_example_fire-damaged-the-building",
+                "text": "Fire damaged the building."
+            }
+        ]
+    }
+]

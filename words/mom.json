@@ -1,0 +1,36 @@
+[
+    {
+        "type": "(n)",
+        "mean": "mother",
+        "examples": [
+            {
+                "code": "mom_example_did-you-call-your-mom",
+                "text": "Did you call your mom?"
+            },
+            {
+                "code": "mom_example_his-mom-scolds-him-constantly",
+                "text": "His mom scolds him constantly."
+            },
+            {
+                "code": "mom_example_moms-love-their-children",
+                "text": "Moms love their children."
+            },
+            {
+                "code": "mom_example_she-s-a-great-mom",
+                "text": "She's a great mom."
+            },
+            {
+                "code": "mom_example_the-young-mom-works-two-jobs",
+                "text": "The young mom works two jobs."
+            },
+            {
+                "code": "mom_example_i-am-a-full-time-mom",
+                "text": "I am a full-time mom."
+            },
+            {
+                "code": "mom_example_i-want-to-find-my-birth-mom",
+                "text": "I want to find my birth mom."
+            }
+        ]
+    }
+]

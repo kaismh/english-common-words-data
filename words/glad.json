@@ -1,0 +1,40 @@
+[
+    {
+        "type": "(v)",
+        "mean": "happy",
+        "examples": [
+            {
+                "code": "glad_example_she-feels-glad-to-just-be-alive",
+                "text": "She feels glad to just be alive."
+            },
+            {
+                "code": "glad_example_her-children-make-her-glad-she-is-a-mother",
+                "text": "Her children make her glad she is a mother."
+            },
+            {
+                "code": "glad_example_they-were-extremely-glad-to-be-rescued",
+                "text": "They were extremely glad to be rescued."
+            },
+            {
+                "code": "glad_example_he-was-awfully-glad-that-exams-were-over",
+                "text": "He was awfully glad that exams were over."
+            },
+            {
+                "code": "glad_example_she-was-secretly-glad-he-came-to-the-party",
+                "text": "She was secretly glad he came to the party."
+            },
+            {
+                "code": "glad_example_he-seemed-almost-glad-she-left",
+                "text": "He seemed almost glad she left."
+            },
+            {
+                "code": "glad_example_what-are-you-so-glad-about",
+                "text": "What are you so glad about?"
+            },
+            {
+                "code": "glad_example_she-was-glad-for-his-help",
+                "text": "She was glad for his help."
+            }
+        ]
+    }
+]

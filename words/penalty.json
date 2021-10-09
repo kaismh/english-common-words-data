@@ -1,0 +1,64 @@
+[
+    {
+        "type": "(n)",
+        "mean": "punishment for breaking the law, rule, or contract",
+        "examples": [
+            {
+                "code": "penalty_example_he-received-a-harsh-penalty-for-violating-his-parole",
+                "text": "He received a harsh penalty for violating his parole."
+            },
+            {
+                "code": "penalty_example_the-restaurant-received-the-maximum-penalty-for-violating-the-health-code",
+                "text": "The restaurant received the maximum penalty for violating the health code."
+            },
+            {
+                "code": "penalty_example_some-people-are-against-the-death-penalty",
+                "text": "Some people are against the death penalty."
+            },
+            {
+                "code": "penalty_example_he-is-paying-the-ultimate-penalty-for-drunk-driving",
+                "text": "He is paying the ultimate penalty for drunk driving."
+            },
+            {
+                "code": "penalty_example_the-credit-card-company-imposed-a-strict-penalty-for-late-payments",
+                "text": "The credit card company imposed a strict penalty for late payments."
+            },
+            {
+                "code": "penalty_example_the-judge-handed-down-a-harsh-penalty-for-lying-on-the-stand",
+                "text": "The judge handed down a harsh penalty for lying on the stand."
+            },
+            {
+                "code": "penalty_example_she-faced-a-penalty-for-breaking-her-contract",
+                "text": "She faced a penalty for breaking her contract."
+            },
+            {
+                "code": "penalty_example_the-prosecutors-are-seeking-the-death-penalty",
+                "text": "The prosecutors are seeking the death penalty."
+            },
+            {
+                "code": "penalty_example_mortgage-companies-are-increasing-their-penalties-for-late-payments",
+                "text": "Mortgage companies are increasing their penalties for late payments."
+            },
+            {
+                "code": "penalty_example_the-cable-company-reduced-the-penalty-for-breaking-the-contract",
+                "text": "The cable company reduced the penalty for breaking the contract."
+            },
+            {
+                "code": "penalty_example_she-is-paying-the-penalty-for-her-delinquent-children",
+                "text": "She is paying the penalty for her delinquent children."
+            },
+            {
+                "code": "penalty_example_he-received-a-penalty-fee-for-breaking-his-contract",
+                "text": "He received a penalty fee for breaking his contract."
+            },
+            {
+                "code": "penalty_example_he-received-a-harsh-penalty-for-failing-to-show-up-in-court",
+                "text": "He received a harsh penalty for failing to show up in court."
+            },
+            {
+                "code": "penalty_example_the-judge-imposed-stricter-penalties-on-drunk-drivers",
+                "text": "The judge imposed stricter penalties on drunk drivers."
+            }
+        ]
+    }
+]

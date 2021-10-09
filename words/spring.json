@@ -1,0 +1,70 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the season between winter and summer; a coiled piece of metal that returns to its original shape when pressed",
+        "examples": [
+            {
+                "code": "spring_example_she-moved-to-california-last-spring",
+                "text": "She moved to California last spring."
+            },
+            {
+                "code": "spring_example_they-are-getting-married-next-spring",
+                "text": "They are getting married next spring."
+            },
+            {
+                "code": "spring_example_this-flower-blooms-in-early-spring",
+                "text": "This flower blooms in early spring."
+            },
+            {
+                "code": "spring_example_it-s-going-to-be-a-wet-spring",
+                "text": "It's going to be a wet spring."
+            },
+            {
+                "code": "spring_example_the-mattress-is-made-of-coiled-springs",
+                "text": "The mattress is made of coiled springs."
+            },
+            {
+                "code": "spring_example_we-love-spring-weather",
+                "text": "We love spring weather."
+            },
+            {
+                "code": "spring_example_she-is-sitting-in-the-backyard-enjoying-the-spring-sun",
+                "text": "She is sitting in the backyard enjoying the spring sun."
+            },
+            {
+                "code": "spring_example_what-a-perfect-spring-day",
+                "text": "What a perfect spring day!"
+            },
+            {
+                "code": "spring_example_my-kids-are-enjoying-their-spring-semester",
+                "text": "My kids are enjoying their spring semester."
+            },
+            {
+                "code": "spring_example_i-need-to-do-some-spring-cleaning",
+                "text": "I need to do some spring cleaning."
+            },
+            {
+                "code": "spring_example_the-fashion-magazine-is-bringing-out-its-spring-collection-soon",
+                "text": "The fashion magazine is bringing out its spring collection soon."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to move or jump suddenly",
+        "examples": [
+            {
+                "code": "spring_example_she-suddenly-sprang-into-action-when-she-heard-the-fire-alarm",
+                "text": "She suddenly sprang into action when she heard the fire alarm."
+            },
+            {
+                "code": "spring_example_he-sprang-into-action",
+                "text": "He sprang into action."
+            },
+            {
+                "code": "spring_example_he-sprang-off-the-couch-when-he-heard-the-alarm",
+                "text": "He sprang off the couch when he heard the alarm."
+            }
+        ]
+    }
+]

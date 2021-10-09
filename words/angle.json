@@ -1,0 +1,48 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the position for looking at something; the direction that is not straight; the space between two lines connected at one endpoint",
+        "examples": [
+            {
+                "code": "angle_example_this-triangle-has-an-acute-angle",
+                "text": "This triangle has an acute angle."
+            },
+            {
+                "code": "angle_example_the-car-turned-at-a-sharp-angle",
+                "text": "The car turned at a sharp angle."
+            },
+            {
+                "code": "angle_example_the-athlete-s-leg-was-bent-at-an-awkward-angle",
+                "text": "The athlete's leg was bent at an awkward angle."
+            },
+            {
+                "code": "angle_example_the-hill-is-at-a-sharp-angle",
+                "text": "The hill is at a sharp angle."
+            },
+            {
+                "code": "angle_example_let-s-climb-this-hill-to-get-a-better-angle",
+                "text": "Let's climb this hill to get a better angle."
+            },
+            {
+                "code": "angle_example_we-need-to-adjust-the-angle-of-the-camera",
+                "text": "We need to adjust the angle of the camera."
+            },
+            {
+                "code": "angle_example_the-mathematician-calculated-the-angle",
+                "text": "The mathematician calculated the angle."
+            },
+            {
+                "code": "angle_example_you-can-get-a-better-angle-from-here",
+                "text": "You can get a better angle from here."
+            },
+            {
+                "code": "angle_example_we-calculated-the-angle-between-the-two-lines",
+                "text": "We calculated the angle between the two lines."
+            },
+            {
+                "code": "angle_example_he-parked-his-car-at-an-angle",
+                "text": "He parked his car at an angle."
+            }
+        ]
+    }
+]

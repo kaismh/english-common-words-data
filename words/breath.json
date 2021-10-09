@@ -1,0 +1,60 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the air that you take into your lungs and send out again",
+        "examples": [
+            {
+                "code": "breath_example_take-a-deep-breath-before-going-underwater",
+                "text": "Take a deep breath before going underwater."
+            },
+            {
+                "code": "breath_example_he-could-only-take-shallow-breaths-after-his-run",
+                "text": "He could only take shallow breaths after his run."
+            },
+            {
+                "code": "breath_example_he-has-bad-breath",
+                "text": "He has bad breath."
+            },
+            {
+                "code": "breath_example_i-could-feel-his-hot-breath-on-my-neck",
+                "text": "I could feel his hot breath on my neck."
+            },
+            {
+                "code": "breath_example_take-a-deep-breath",
+                "text": "Take a deep breath."
+            },
+            {
+                "code": "breath_example_i-could-feel-her-breath-on-my-neck",
+                "text": "I could feel her breath on my neck."
+            },
+            {
+                "code": "breath_example_the-swimmer-can-hold-her-breath-for-a-long-time",
+                "text": "The swimmer can hold her breath for a long time."
+            },
+            {
+                "code": "breath_example_give-me-a-moment-to-catch-my-breath",
+                "text": "Give me a moment to catch my breath."
+            },
+            {
+                "code": "breath_example_he-spoke-quickly-without-pausing-for-breath",
+                "text": "He spoke quickly without pausing for breath."
+            },
+            {
+                "code": "breath_example_save-your-breath-because-he-won-t-listen-to-you",
+                "text": "Save your breath because he won't listen to you."
+            },
+            {
+                "code": "breath_example_i-could-smell-his-breath",
+                "text": "I could smell his breath."
+            },
+            {
+                "code": "breath_example_i-could-smell-the-alcohol-on-his-breath",
+                "text": "I could smell the alcohol on his breath."
+            },
+            {
+                "code": "breath_example_she-was-out-of-breath-after-walking-up-the-stairs",
+                "text": "She was out of breath after walking up the stairs."
+            }
+        ]
+    }
+]

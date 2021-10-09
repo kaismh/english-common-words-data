@@ -1,0 +1,56 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a part of a large organization with a specific function",
+        "examples": [
+            {
+                "code": "department_example_he-works-for-the-state-department",
+                "text": "He works for the state department."
+            },
+            {
+                "code": "department_example_she-is-transferring-to-the-finance-department",
+                "text": "She is transferring to the finance department."
+            },
+            {
+                "code": "department_example_call-the-fire-department-in-case-of-emergencies",
+                "text": "Call the fire department in case of emergencies."
+            },
+            {
+                "code": "department_example_he-got-a-job-in-the-biology-department",
+                "text": "He got a job in the biology department."
+            },
+            {
+                "code": "department_example_she-was-chosen-to-run-the-department",
+                "text": "She was chosen to run the department."
+            },
+            {
+                "code": "department_example_they-created-a-new-department-for-the-position",
+                "text": "They created a new department for the position."
+            },
+            {
+                "code": "department_example_contact-the-health-department",
+                "text": "Contact the health department."
+            },
+            {
+                "code": "department_example_the-department-official-made-an-announcement",
+                "text": "The department official made an announcement."
+            },
+            {
+                "code": "department_example_the-department-staff-will-handle-it",
+                "text": "The department staff will handle it."
+            },
+            {
+                "code": "department_example_she-is-the-department-chair",
+                "text": "She is the department chair."
+            },
+            {
+                "code": "department_example_write-a-letter-to-the-department-of-transportation",
+                "text": "Write a letter to the Department of Transportation."
+            },
+            {
+                "code": "department_example_they-usually-hire-within-the-department",
+                "text": "They usually hire within the department."
+            }
+        ]
+    }
+]

@@ -1,0 +1,94 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a feeling caused by something amazing or beautiful; something that is amazing or beautiful",
+        "examples": [
+            {
+                "code": "wonder_example_she-looked-up-at-the-football-player-with-great-wonder",
+                "text": "She looked up at the football player with great wonder."
+            },
+            {
+                "code": "wonder_example_niagara-falls-is-a-natural-wonder",
+                "text": "Niagara Falls is a natural wonder."
+            },
+            {
+                "code": "wonder_example_the-eiffel-tower-is-an-architectural-wonder",
+                "text": "The Eiffel Tower is an architectural wonder."
+            },
+            {
+                "code": "wonder_example_internet-is-a-technological-wonder",
+                "text": "Internet is a technological wonder."
+            },
+            {
+                "code": "wonder_example_the-eight-year-old-college-student-is-a-child-wonder",
+                "text": "The eight year old college student is a child wonder."
+            },
+            {
+                "code": "wonder_example_i-cannot-express-the-wonder-that-i-feel-right-now",
+                "text": "I cannot express the wonder that I feel right now."
+            },
+            {
+                "code": "wonder_example_the-children-s-eyes-were-filled-with-wonder-when-they-saw-santa-claus",
+                "text": "The children's eyes were filled with wonder when they saw Santa Claus."
+            },
+            {
+                "code": "wonder_example_can-you-feel-the-wonder-of-christmas",
+                "text": "Can you feel the wonder of Christmas?"
+            },
+            {
+                "code": "wonder_example_he-discovered-the-wonders-of-the-rainforest",
+                "text": "He discovered the wonders of the rainforest."
+            },
+            {
+                "code": "wonder_example_we-should-appreciate-the-wonders-of-nature",
+                "text": "We should appreciate the wonders of nature."
+            },
+            {
+                "code": "wonder_example_the-scientists-are-very-excited-about-a-new-wonder-drug",
+                "text": "The scientists are very excited about a new wonder drug."
+            },
+            {
+                "code": "wonder_example_the-wonders-of-science-are-truly-amazing",
+                "text": "The wonders of science are truly amazing."
+            },
+            {
+                "code": "wonder_example_she-was-filled-with-wonder-after-meeting-her-television-idol",
+                "text": "She was filled with wonder after meeting her television idol."
+            },
+            {
+                "code": "wonder_example_he-looked-up-in-wonder-at-the-tallest-building-in-the-world",
+                "text": "He looked up in wonder at the tallest building in the world."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to think about what will happen, what is true, or what should be done",
+        "examples": [
+            {
+                "code": "wonder_example_i-often-wonder-why-he-is-so-sad",
+                "text": "I often wonder why he is so sad."
+            },
+            {
+                "code": "wonder_example_i-always-wondered-why-no-one-bought-that-house",
+                "text": "I always wondered why no one bought that house."
+            },
+            {
+                "code": "wonder_example_you-are-probably-wondering-what-i-have-in-my-bag",
+                "text": "You are probably wondering what I have in my bag."
+            },
+            {
+                "code": "wonder_example_i-am-beginning-to-wonder-if-we-ll-ever-get-out-of-here",
+                "text": "I am beginning to wonder if we'll ever get out of here."
+            },
+            {
+                "code": "wonder_example_his-actions-make-me-wonder-if-he-s-really-sincere",
+                "text": "His actions make me wonder if he's really sincere."
+            },
+            {
+                "code": "wonder_example_i-wonder-about-my-job-security",
+                "text": "I wonder about my job security."
+            }
+        ]
+    }
+]

@@ -1,0 +1,160 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a hard surface where vehicles travel on",
+        "examples": [
+            {
+                "code": "road_example_i-followed-the-road-to-the-lake",
+                "text": "I followed the road to the lake."
+            },
+            {
+                "code": "road_example_she-went-down-the-road",
+                "text": "She went down the road."
+            },
+            {
+                "code": "road_example_the-car-traveled-down-the-road",
+                "text": "The car traveled down the road."
+            },
+            {
+                "code": "road_example_they-are-building-the-road",
+                "text": "They are building the road."
+            },
+            {
+                "code": "road_example_the-roads-are-maintained-throughout-the-year",
+                "text": "The roads are maintained throughout the year."
+            },
+            {
+                "code": "road_example_when-the-road-curves-get-in-the-right-lane",
+                "text": "When the road curves, get in the right lane."
+            },
+            {
+                "code": "road_example_this-road-connects-the-industrial-area-to-the-central-district",
+                "text": "This road connects the industrial area to the central district."
+            },
+            {
+                "code": "road_example_the-road-goes-south",
+                "text": "The road goes south."
+            },
+            {
+                "code": "road_example_we-walked-along-the-road",
+                "text": "We walked along the road."
+            },
+            {
+                "code": "road_example_the-road-is-lined-with-trees",
+                "text": "The road is lined with trees."
+            },
+            {
+                "code": "road_example_this-road-crosses-my-property",
+                "text": "This road crosses my property."
+            },
+            {
+                "code": "road_example_the-city-sweeps-the-road-every-month",
+                "text": "The city sweeps the road every month."
+            },
+            {
+                "code": "road_example_the-men-are-doing-road-work",
+                "text": "The men are doing road work."
+            },
+            {
+                "code": "road_example_the-police-set-up-a-road-block",
+                "text": "The police set up a road block."
+            },
+            {
+                "code": "road_example_we-looked-at-the-road-map",
+                "text": "We looked at the road map."
+            },
+            {
+                "code": "road_example_you-shouldn-t-eat-road-kill",
+                "text": "You shouldn't eat road kill."
+            },
+            {
+                "code": "road_example_the-city-is-monitoring-road-safety",
+                "text": "The city is monitoring road safety."
+            },
+            {
+                "code": "road_example_i-bought-myself-a-road-bike",
+                "text": "I bought myself a road bike."
+            },
+            {
+                "code": "road_example_we-went-on-a-road-trip",
+                "text": "We went on a road trip."
+            },
+            {
+                "code": "road_example_i-did-a-road-test-first",
+                "text": "I did a road test first."
+            },
+            {
+                "code": "road_example_i-saw-a-road-sweeper-this-morning",
+                "text": "I saw a road sweeper this morning."
+            },
+            {
+                "code": "road_example_there-is-a-road-closure-ahead",
+                "text": "There is a road closure ahead."
+            },
+            {
+                "code": "road_example_road-rage-can-be-very-dangerous",
+                "text": "Road rage can be very dangerous."
+            },
+            {
+                "code": "road_example_take-the-side-road",
+                "text": "Take the side road."
+            },
+            {
+                "code": "road_example_the-empty-road-stretched-ahead-of-us",
+                "text": "The empty road stretched ahead of us."
+            },
+            {
+                "code": "road_example_he-traveled-down-the-country-road",
+                "text": "He traveled down the country road."
+            },
+            {
+                "code": "road_example_she-lives-on-a-main-road",
+                "text": "She lives on a main road."
+            },
+            {
+                "code": "road_example_they-took-the-wrong-road",
+                "text": "They took the wrong road."
+            },
+            {
+                "code": "road_example_i-walked-along-the-muddy-road",
+                "text": "I walked along the muddy road."
+            },
+            {
+                "code": "road_example_we-biked-along-the-twisting-road",
+                "text": "We biked along the twisting road."
+            },
+            {
+                "code": "road_example_she-drove-up-the-private-road",
+                "text": "She drove up the private road."
+            },
+            {
+                "code": "road_example_we-drove-through-a-dangerous-road",
+                "text": "We drove through a dangerous road."
+            },
+            {
+                "code": "road_example_i-sat-down-on-the-road",
+                "text": "I sat down on the road."
+            },
+            {
+                "code": "road_example_we-sat-in-the-road",
+                "text": "We sat in the road."
+            },
+            {
+                "code": "road_example_i-saw-him-across-the-road",
+                "text": "I saw him across the road."
+            },
+            {
+                "code": "road_example_she-walked-right-into-the-main-road-without-looking-for-cars",
+                "text": "She walked right into the main road without looking for cars."
+            },
+            {
+                "code": "road_example_we-walked-along-the-road",
+                "text": "We walked along the road."
+            },
+            {
+                "code": "road_example_the-road-from-the-city-is-unpaved",
+                "text": "The road from the city is unpaved."
+            }
+        ]
+    }
+]

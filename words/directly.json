@@ -1,0 +1,36 @@
+[
+    {
+        "type": "(adv)",
+        "mean": "in an exact or connected way",
+        "examples": [
+            {
+                "code": "directly_example_the-flyer-is-directly-attached",
+                "text": "The flyer is directly attached."
+            },
+            {
+                "code": "directly_example_the-stories-are-directly-related",
+                "text": "The stories are directly related."
+            },
+            {
+                "code": "directly_example_my-point-is-directly-relevant-to-the-issue",
+                "text": "My point is directly relevant to the issue."
+            },
+            {
+                "code": "directly_example_does-the-decision-directly-affect-you",
+                "text": "Does the decision directly affect you?"
+            },
+            {
+                "code": "directly_example_we-try-to-directly-communicate-with-them",
+                "text": "We try to directly communicate with them."
+            },
+            {
+                "code": "directly_example_she-deals-directly-with-him",
+                "text": "She deals directly with him."
+            },
+            {
+                "code": "directly_example_the-company-will-directly-wire-the-money",
+                "text": "The company will directly wire the money."
+            }
+        ]
+    }
+]

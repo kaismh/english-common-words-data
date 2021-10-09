@@ -1,0 +1,44 @@
+[
+    {
+        "type": "(n)",
+        "mean": "an insect; an illness; something wrong with a computer program",
+        "examples": [
+            {
+                "code": "bug_example_i-stayed-home-because-i-have-a-nasty-bug",
+                "text": "I stayed home because I have a nasty bug."
+            },
+            {
+                "code": "bug_example_the-computer-has-a-minor-bug",
+                "text": "The computer has a minor bug."
+            },
+            {
+                "code": "bug_example_i-cannot-finish-my-work-because-of-a-computer-bug",
+                "text": "I cannot finish my work because of a computer bug."
+            },
+            {
+                "code": "bug_example_i-caught-a-stomach-bug",
+                "text": "I caught a stomach bug."
+            },
+            {
+                "code": "bug_example_a-flu-bug-is-going-around-the-school",
+                "text": "A flu bug is going around the school."
+            },
+            {
+                "code": "bug_example_i-was-bitten-by-a-bug-last-night",
+                "text": "I was bitten by a bug last night."
+            },
+            {
+                "code": "bug_example_the-programmers-discovered-the-computer-bug",
+                "text": "The programmers discovered the computer bug."
+            },
+            {
+                "code": "bug_example_she-cannot-go-to-school-with-a-flu-bug",
+                "text": "She cannot go to school with a flu bug."
+            },
+            {
+                "code": "bug_example_there-is-a-minor-bug-in-the-software-system",
+                "text": "There is a minor bug in the software system."
+            }
+        ]
+    }
+]

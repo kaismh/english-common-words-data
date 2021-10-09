@@ -1,0 +1,64 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a meal eaten in the middle of the day after breakfast and before dinner",
+        "examples": [
+            {
+                "code": "lunch_example_we-enjoyed-a-hot-lunch-today",
+                "text": "We enjoyed a hot lunch today."
+            },
+            {
+                "code": "lunch_example_i-brought-a-boxed-lunch-to-the-conference",
+                "text": "I brought a boxed lunch to the conference."
+            },
+            {
+                "code": "lunch_example_i-only-had-time-for-a-quick-lunch",
+                "text": "I only had time for a quick lunch."
+            },
+            {
+                "code": "lunch_example_we-met-for-a-business-lunch",
+                "text": "We met for a business lunch."
+            },
+            {
+                "code": "lunch_example_let-s-grab-lunch-together",
+                "text": "Let's grab lunch together."
+            },
+            {
+                "code": "lunch_example_she-prepared-lunch-for-everyone",
+                "text": "She prepared lunch for everyone."
+            },
+            {
+                "code": "lunch_example_let-s-do-lunch-sometime",
+                "text": "Let's do lunch sometime."
+            },
+            {
+                "code": "lunch_example_she-skipped-lunch-because-she-s-on-a-diet",
+                "text": "She skipped lunch because she's on a diet."
+            },
+            {
+                "code": "lunch_example_i-have-a-lunch-appointment-tomorrow",
+                "text": "I have a lunch appointment tomorrow."
+            },
+            {
+                "code": "lunch_example_what-time-is-your-lunch-break",
+                "text": "What time is your lunch break?"
+            },
+            {
+                "code": "lunch_example_the-restaurant-was-packed-with-the-lunch-crowd",
+                "text": "The restaurant was packed with the lunch crowd."
+            },
+            {
+                "code": "lunch_example_she-gave-her-son-some-lunch-money",
+                "text": "She gave her son some lunch money."
+            },
+            {
+                "code": "lunch_example_she-packed-her-daughter-a-lunch-box",
+                "text": "She packed her daughter a lunch box."
+            },
+            {
+                "code": "lunch_example_we-would-like-to-see-your-lunch-menu",
+                "text": "We would like to see your lunch menu."
+            }
+        ]
+    }
+]

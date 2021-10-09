@@ -1,0 +1,48 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "mainly; most importantly",
+        "examples": [
+            {
+                "code": "primarily_example_she-is-primarily-concerned-with-her-children-s-education",
+                "text": "She is primarily concerned with her children's education."
+            },
+            {
+                "code": "primarily_example_he-is-primarily-interested-in-sports",
+                "text": "He is primarily interested in sports."
+            },
+            {
+                "code": "primarily_example_she-is-primarily-responsible-for-the-household-finances",
+                "text": "She is primarily responsible for the household finances."
+            },
+            {
+                "code": "primarily_example_his-anger-was-aimed-primarily-at-his-parents",
+                "text": "His anger was aimed primarily at his parents."
+            },
+            {
+                "code": "primarily_example_she-primarily-based-her-opinions-on-rumors",
+                "text": "She primarily based her opinions on rumors."
+            },
+            {
+                "code": "primarily_example_cotton-candy-consists-primarily-of-sugar",
+                "text": "Cotton candy consists primarily of sugar."
+            },
+            {
+                "code": "primarily_example_she-primarily-focuses-on-her-career",
+                "text": "She primarily focuses on her career."
+            },
+            {
+                "code": "primarily_example_it-is-located-primarily-in-downtown",
+                "text": "It is located primarily in downtown."
+            },
+            {
+                "code": "primarily_example_it-primarily-occurs-once-a-month",
+                "text": "It primarily occurs once a month."
+            },
+            {
+                "code": "primarily_example_the-market-primarily-serves-the-local-area",
+                "text": "The market primarily serves the local area."
+            }
+        ]
+    }
+]

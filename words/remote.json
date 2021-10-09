@@ -1,0 +1,56 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "distant; far away",
+        "examples": [
+            {
+                "code": "remote_example_can-i-have-the-remote-control",
+                "text": "Can I have the remote control?"
+            },
+            {
+                "code": "remote_example_the-movie-is-about-a-remote-galaxy",
+                "text": "The movie is about a remote galaxy."
+            },
+            {
+                "code": "remote_example_i-think-there-is-a-remote-possibility-that-she-will-go",
+                "text": "I think there is a remote possibility that she will go."
+            },
+            {
+                "code": "remote_example_in-the-remote-past-people-hunted-and-gathered",
+                "text": "In the remote past, people hunted and gathered."
+            },
+            {
+                "code": "remote_example_my-remote-ancestors-came-from-there",
+                "text": "My remote ancestors came from there."
+            },
+            {
+                "code": "remote_example_she-has-remote-access-to-my-computer",
+                "text": "She has remote access to my computer."
+            },
+            {
+                "code": "remote_example_i-may-have-children-in-the-remote-future",
+                "text": "I may have children in the remote future."
+            },
+            {
+                "code": "remote_example_they-live-in-a-remote-area",
+                "text": "They live in a remote area."
+            },
+            {
+                "code": "remote_example_they-live-in-a-geographically-remote-region",
+                "text": "They live in a geographically remote region."
+            },
+            {
+                "code": "remote_example_it-s-a-fairly-remote-possibility-she-will-retire",
+                "text": "It's a fairly remote possibility she will retire."
+            },
+            {
+                "code": "remote_example_we-live-in-a-relatively-remote-area",
+                "text": "We live in a relatively remote area."
+            },
+            {
+                "code": "remote_example_this-place-is-remote-from-civilization",
+                "text": "This place is remote from civilization."
+            }
+        ]
+    }
+]

@@ -1,0 +1,162 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a building where people live; the people staying in a building",
+        "examples": [
+            {
+                "code": "house_example_they-have-a-lovely-house",
+                "text": "They have a lovely house."
+            },
+            {
+                "code": "house_example_this-is-such-a-fancy-house",
+                "text": "This is such a fancy house."
+            },
+            {
+                "code": "house_example_they-re-building-their-dream-house",
+                "text": "They're building their dream house."
+            },
+            {
+                "code": "house_example_i-could-get-lost-in-their-huge-house",
+                "text": "I could get lost in their huge house."
+            },
+            {
+                "code": "house_example_we-bought-a-modest-house",
+                "text": "We bought a modest house."
+            },
+            {
+                "code": "house_example_there-are-a-lot-of-empty-houses-on-this-street",
+                "text": "There are a lot of empty houses on this street."
+            },
+            {
+                "code": "house_example_we-re-looking-for-a-summer-house",
+                "text": "We're looking for a summer house."
+            },
+            {
+                "code": "house_example_people-think-that-is-a-haunted-house",
+                "text": "People think that is a haunted house."
+            },
+            {
+                "code": "house_example_the-band-was-playing-to-a-packed-house",
+                "text": "The band was playing to a packed house."
+            },
+            {
+                "code": "house_example_the-music-woke-up-the-whole-house",
+                "text": "The music woke up the whole house."
+            },
+            {
+                "code": "house_example_three-students-live-in-this-house",
+                "text": "Three students live in this house."
+            },
+            {
+                "code": "house_example_they-are-renting-the-house",
+                "text": "They are renting the house."
+            },
+            {
+                "code": "house_example_she-owns-the-house",
+                "text": "She owns the house."
+            },
+            {
+                "code": "house_example_they-are-going-to-demolish-that-old-house",
+                "text": "They are going to demolish that old house."
+            },
+            {
+                "code": "house_example_i-have-to-clean-the-house-this-weekend",
+                "text": "I have to clean the house this weekend."
+            },
+            {
+                "code": "house_example_they-are-renovating-their-house",
+                "text": "They are renovating their house."
+            },
+            {
+                "code": "house_example_i-ve-searched-the-whole-house-and-i-can-t-find-my-keys",
+                "text": "I've searched the whole house and I can't find my keys."
+            },
+            {
+                "code": "house_example_they-are-building-a-lot-of-new-houses-in-our-town",
+                "text": "They are building a lot of new houses in our town."
+            },
+            {
+                "code": "house_example_be-quiet-or-you-ll-wake-up-the-whole-house",
+                "text": "Be quiet or you'll wake up the whole house."
+            },
+            {
+                "code": "house_example_their-house-overlooks-the-lake",
+                "text": "Their house overlooks the lake."
+            },
+            {
+                "code": "house_example_their-house-burned-down-last-year",
+                "text": "Their house burned down last year."
+            },
+            {
+                "code": "house_example_the-band-always-plays-to-a-full-house",
+                "text": "The band always plays to a full house."
+            },
+            {
+                "code": "house_example_we-re-going-house-hunting-this-weekend",
+                "text": "We're going house hunting this weekend."
+            },
+            {
+                "code": "house_example_i-can-t-find-my-house-keys",
+                "text": "I can't find my house keys."
+            },
+            {
+                "code": "house_example_we-have-house-guests-this-weekend",
+                "text": "We have house guests this weekend."
+            },
+            {
+                "code": "house_example_can-you-see-the-house-number",
+                "text": "Can you see the house number?"
+            },
+            {
+                "code": "house_example_the-neighbors-had-a-huge-house-party-last-night",
+                "text": "The neighbors had a huge house party last night."
+            },
+            {
+                "code": "house_example_he-s-under-house-arrest-until-the-trial",
+                "text": "He's under house arrest until the trial."
+            },
+            {
+                "code": "house_example_there-was-a-house-fire-down-the-street",
+                "text": "There was a house fire down the street."
+            },
+            {
+                "code": "house_example_we-turned-off-the-house-lights-before-we-left",
+                "text": "We turned off the house lights before we left."
+            },
+            {
+                "code": "house_example_i-met-him-at-your-house",
+                "text": "I met him at your house."
+            },
+            {
+                "code": "house_example_it-s-too-hot-in-the-house",
+                "text": "It's too hot in the house."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to provide someone a place to live or stay; to provide a place for something to be kept safe",
+        "examples": [
+            {
+                "code": "house_example_boys-and-girls-will-be-housed-separately-during-the-trip",
+                "text": "Boys and girls will be housed separately during the trip."
+            },
+            {
+                "code": "house_example_this-building-will-temporarily-house-the-homeless-people",
+                "text": "This building will temporarily house the homeless people."
+            },
+            {
+                "code": "house_example_this-building-houses-prisoners",
+                "text": "This building houses prisoners."
+            },
+            {
+                "code": "house_example_the-museum-houses-two-main-collections",
+                "text": "The museum houses two main collections."
+            },
+            {
+                "code": "house_example_this-building-houses-the-archives",
+                "text": "This building houses the archives."
+            }
+        ]
+    }
+]

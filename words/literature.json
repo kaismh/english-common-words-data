@@ -1,0 +1,44 @@
+[
+    {
+        "type": "(n)",
+        "mean": "classic writing valued as art; written information related to a subject",
+        "examples": [
+            {
+                "code": "literature_example_he-was-always-interested-in-classical-literature",
+                "text": "He was always interested in classical literature."
+            },
+            {
+                "code": "literature_example_she-taught-african-literature-for-20-years",
+                "text": "She taught African literature for 20 years."
+            },
+            {
+                "code": "literature_example_i-found-current-literature-on-natural-history-at-the-library",
+                "text": "I found current literature on natural history at the library."
+            },
+            {
+                "code": "literature_example_we-are-reading-african-literature-in-english-class",
+                "text": "We are reading African literature in English class."
+            },
+            {
+                "code": "literature_example_the-author-wrote-great-literature-in-his-early-years",
+                "text": "The author wrote great literature in his early years."
+            },
+            {
+                "code": "literature_example_she-teaches-classical-literature-at-the-local-college",
+                "text": "She teaches classical literature at the local college."
+            },
+            {
+                "code": "literature_example_i-bought-some-literature-on-real-estate-investments",
+                "text": "I bought some literature on real estate investments."
+            },
+            {
+                "code": "literature_example_employees-must-read-the-literature-regarding-safety",
+                "text": "Employees must read the literature regarding safety."
+            },
+            {
+                "code": "literature_example_he-published-literature-concerning-cancer-research",
+                "text": "He published literature concerning cancer research."
+            }
+        ]
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the ability to do something dangerous without fear",
+        "examples": [
+            {
+                "code": "courage_example_the-woman-has-great-courage",
+                "text": "The woman has great courage."
+            },
+            {
+                "code": "courage_example_the-solider-showed-personal-courage",
+                "text": "The solider showed personal courage."
+            },
+            {
+                "code": "courage_example_it-requires-courage-to-speak-in-public",
+                "text": "It requires courage to speak in public."
+            },
+            {
+                "code": "courage_example_she-has-courage",
+                "text": "She has courage."
+            },
+            {
+                "code": "courage_example_i-admire-your-courage",
+                "text": "I admire your courage."
+            },
+            {
+                "code": "courage_example_she-found-the-courage-to-see-him",
+                "text": "She found the courage to see him."
+            }
+        ]
+    }
+]

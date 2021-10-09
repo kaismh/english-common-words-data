@@ -1,0 +1,40 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to join in an activity",
+        "examples": [
+            {
+                "code": "participate_example_we-are-able-to-participate-in-the-event",
+                "text": "We are able to participate in the event."
+            },
+            {
+                "code": "participate_example_she-finally-agreed-to-participate-in-the-show-this-year",
+                "text": "She finally agreed to participate in the show this year."
+            },
+            {
+                "code": "participate_example_you-should-try-to-participate-in-the-class",
+                "text": "You should try to participate in the class."
+            },
+            {
+                "code": "participate_example_we-can-participate-together-if-you-want-to",
+                "text": "We can participate together if you want to."
+            },
+            {
+                "code": "participate_example_he-fully-participated-in-the-office-games",
+                "text": "He fully participated in the office games."
+            },
+            {
+                "code": "participate_example_they-voluntarily-participated-in-the-survey",
+                "text": "They voluntarily participated in the survey."
+            },
+            {
+                "code": "participate_example_we-eagerly-participate-in-the-annual-marathon",
+                "text": "We eagerly participate in the annual marathon."
+            },
+            {
+                "code": "participate_example_you-are-welcome-to-participate-in-the-party-preparations",
+                "text": "You are welcome to participate in the party preparations."
+            }
+        ]
+    }
+]

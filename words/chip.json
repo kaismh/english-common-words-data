@@ -1,0 +1,58 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a thin dried snack; a small piece that was broken off of something; a small round disk used as money in card games",
+        "examples": [
+            {
+                "code": "chip_example_i-love-potato-chips",
+                "text": "I love potato chips."
+            },
+            {
+                "code": "chip_example_we-found-a-broken-chip-of-the-statue",
+                "text": "We found a broken chip of the statue."
+            },
+            {
+                "code": "chip_example_we-ran-out-of-poker-chips",
+                "text": "We ran out of poker chips."
+            },
+            {
+                "code": "chip_example_the-statue-has-a-large-chip-in-it",
+                "text": "The statue has a large chip in it."
+            },
+            {
+                "code": "chip_example_he-broke-a-chip-of-paint-off-the-old-wall",
+                "text": "He broke a chip of paint off the old wall."
+            },
+            {
+                "code": "chip_example_the-card-dealer-handed-out-the-poker-chips",
+                "text": "The card dealer handed out the poker chips."
+            },
+            {
+                "code": "chip_example_she-won-the-most-chips",
+                "text": "She won the most chips."
+            },
+            {
+                "code": "chip_example_we-will-bring-a-bag-of-potato-chips-to-the-party",
+                "text": "We will bring a bag of potato chips to the party."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to break off a small piece",
+        "examples": [
+            {
+                "code": "chip_example_her-tooth-was-badly-chipped",
+                "text": "Her tooth was badly chipped."
+            },
+            {
+                "code": "chip_example_the-sculptor-chipped-away-at-the-rock",
+                "text": "The sculptor chipped away at the rock."
+            },
+            {
+                "code": "chip_example_he-started-to-chip-the-paint-off-the-wooden-bench",
+                "text": "He started to chip the paint off the wooden bench."
+            }
+        ]
+    }
+]

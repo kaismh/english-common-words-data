@@ -1,0 +1,126 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a short rest from working or studying; a situation that has changed or ended; an opportunity",
+        "examples": [
+            {
+                "code": "break_example_let-s-take-a-quick-break",
+                "text": "Let's take a quick break."
+            },
+            {
+                "code": "break_example_it-s-time-for-my-coffee-break",
+                "text": "It's time for my coffee break."
+            },
+            {
+                "code": "break_example_students-are-home-for-winter-break",
+                "text": "Students are home for winter break."
+            },
+            {
+                "code": "break_example_she-decided-to-make-a-clean-break-from-her-family",
+                "text": "She decided to make a clean break from her family."
+            },
+            {
+                "code": "break_example_the-tv-show-will-return-after-a-commercial-break",
+                "text": "The TV show will return after a commercial break."
+            },
+            {
+                "code": "break_example_this-weekend-will-be-a-welcome-break",
+                "text": "This weekend will be a welcome break."
+            },
+            {
+                "code": "break_example_this-job-opportunity-was-a-lucky-break-for-me",
+                "text": "This job opportunity was a lucky break for me."
+            },
+            {
+                "code": "break_example_after-a-busy-week-she-can-use-a-break",
+                "text": "After a busy week, she can use a break."
+            },
+            {
+                "code": "break_example_when-can-i-have-my-break",
+                "text": "When can I have my break?"
+            },
+            {
+                "code": "break_example_i-need-to-make-a-clean-break-from-my-bad-friends",
+                "text": "I need to make a clean break from my bad friends."
+            },
+            {
+                "code": "break_example_after-many-years-of-trying-the-actor-finally-got-his-break",
+                "text": "After many years of trying, the actor finally got his break."
+            },
+            {
+                "code": "break_example_finally-it-s-break-time",
+                "text": "Finally, it's break time!"
+            },
+            {
+                "code": "break_example_i-ve-worked-all-day-without-a-break",
+                "text": "I've worked all day without a break."
+            },
+            {
+                "code": "break_example_can-we-break-for-lunch",
+                "text": "Can we break for lunch?"
+            },
+            {
+                "code": "break_example_we-need-a-break-from-work",
+                "text": "We need a break from work."
+            },
+            {
+                "code": "break_example_he-is-on-his-lunch-break",
+                "text": "He is on his lunch break."
+            },
+            {
+                "code": "break_example_we-re-going-to-florida-during-spring-break",
+                "text": "We're going to Florida during spring break."
+            },
+            {
+                "code": "break_example_we-need-a-break-in-this-terrible-weather",
+                "text": "We need a break in this terrible weather."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to stop working; to come apart; to take a short rest",
+        "examples": [
+            {
+                "code": "break_example_my-nails-break-easily",
+                "text": "My nails break easily."
+            },
+            {
+                "code": "break_example_all-machines-eventually-break",
+                "text": "All machines eventually break."
+            },
+            {
+                "code": "break_example_he-broke-his-candy-bar-in-half-to-share-with-me",
+                "text": "He broke his candy bar in half to share with me."
+            },
+            {
+                "code": "break_example_we-ll-break-for-lunch",
+                "text": "We'll break for lunch."
+            },
+            {
+                "code": "break_example_her-wine-glass-broke-into-a-million-pieces",
+                "text": "Her wine glass broke into a million pieces."
+            },
+            {
+                "code": "break_example_she-broke-my-heart",
+                "text": "She broke my heart."
+            },
+            {
+                "code": "break_example_the-dam-broke",
+                "text": "The dam broke."
+            },
+            {
+                "code": "break_example_he-was-fined-for-breaking-the-law",
+                "text": "He was fined for breaking the law."
+            },
+            {
+                "code": "break_example_she-broke-her-fingernail",
+                "text": "She broke her fingernail."
+            },
+            {
+                "code": "break_example_you-broke-your-promise",
+                "text": "You broke your promise."
+            }
+        ]
+    }
+]

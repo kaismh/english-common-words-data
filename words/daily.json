@@ -1,0 +1,46 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "happening every day",
+        "examples": [
+            {
+                "code": "daily_example_the-meeting-happens-on-a-daily-basis",
+                "text": "The meeting happens on a daily basis."
+            },
+            {
+                "code": "daily_example_the-doctor-recommended-daily-exercise",
+                "text": "The doctor recommended daily exercise."
+            },
+            {
+                "code": "daily_example_he-gets-a-daily-allowance",
+                "text": "He gets a daily allowance."
+            },
+            {
+                "code": "daily_example_i-have-daily-errands",
+                "text": "I have daily errands."
+            },
+            {
+                "code": "daily_example_i-write-a-daily-journal",
+                "text": "I write a daily journal."
+            },
+            {
+                "code": "daily_example_she-really-enjoys-our-daily-visits",
+                "text": "She really enjoys our daily visits."
+            }
+        ]
+    },
+    {
+        "type": "(adv)",
+        "mean": "happening every day",
+        "examples": [
+            {
+                "code": "daily_example_i-commute-to-work-daily",
+                "text": "I commute to work daily."
+            },
+            {
+                "code": "daily_example_i-ve-been-checking-the-mail-daily",
+                "text": "I've been checking the mail daily."
+            }
+        ]
+    }
+]

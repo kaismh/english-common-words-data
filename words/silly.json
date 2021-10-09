@@ -1,0 +1,52 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "foolish or stupid",
+        "examples": [
+            {
+                "code": "silly_example_we-had-a-silly-argument",
+                "text": "We had a silly argument."
+            },
+            {
+                "code": "silly_example_this-is-a-silly-game",
+                "text": "This is a silly game."
+            },
+            {
+                "code": "silly_example_he-had-a-silly-grin-on-his-face",
+                "text": "He had a silly grin on his face."
+            },
+            {
+                "code": "silly_example_she-told-a-silly-joke",
+                "text": "She told a silly joke."
+            },
+            {
+                "code": "silly_example_john-wore-a-silly-hat-to-school",
+                "text": "John wore a silly hat to school."
+            },
+            {
+                "code": "silly_example_my-brother-is-silly",
+                "text": "My brother is silly."
+            },
+            {
+                "code": "silly_example_stop-acting-so-silly",
+                "text": "Stop acting so silly!"
+            },
+            {
+                "code": "silly_example_what-a-silly-thing-to-say",
+                "text": "What a silly thing to say."
+            },
+            {
+                "code": "silly_example_that-is-just-silly",
+                "text": "That is just silly."
+            },
+            {
+                "code": "silly_example_you-are-being-silly",
+                "text": "You are being silly."
+            },
+            {
+                "code": "silly_example_don-t-be-so-silly",
+                "text": "Don't be so silly."
+            }
+        ]
+    }
+]

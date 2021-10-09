@@ -1,0 +1,68 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a piece of land or property owned by a person or family; the money and property of a person who has died",
+        "examples": [
+            {
+                "code": "estate_example_he-lives-on-a-large-estate-near-the-river",
+                "text": "He lives on a large estate near the river."
+            },
+            {
+                "code": "estate_example_the-queen-goes-to-her-country-estate-during-the-summer",
+                "text": "The queen goes to her country estate during the summer."
+            },
+            {
+                "code": "estate_example_we-visited-the-royal-estate",
+                "text": "We visited the royal estate."
+            },
+            {
+                "code": "estate_example_the-government-is-investigating-her-personal-estate",
+                "text": "The government is investigating her personal estate."
+            },
+            {
+                "code": "estate_example_the-family-owns-an-estate-in-the-hamptons",
+                "text": "The family owns an estate in the Hamptons."
+            },
+            {
+                "code": "estate_example_the-government-bought-the-estate-in-1951",
+                "text": "The government bought the estate in 1951."
+            },
+            {
+                "code": "estate_example_the-oldest-son-manages-the-family-s-estate",
+                "text": "The oldest son manages the family's estate."
+            },
+            {
+                "code": "estate_example_he-left-most-of-his-estate-to-charity",
+                "text": "He left most of his estate to charity."
+            },
+            {
+                "code": "estate_example_she-inherited-half-of-her-father-s-estate",
+                "text": "She inherited half of her father's estate."
+            },
+            {
+                "code": "estate_example_it-took-many-years-to-settle-his-estate",
+                "text": "It took many years to settle his estate."
+            },
+            {
+                "code": "estate_example_the-children-fought-over-their-father-s-estate",
+                "text": "The children fought over their father's estate."
+            },
+            {
+                "code": "estate_example_she-is-an-estate-manager",
+                "text": "She is an estate manager."
+            },
+            {
+                "code": "estate_example_they-are-having-an-estate-sale-with-my-grandmother-s-belongings",
+                "text": "They are having an estate sale with my grandmother's belongings."
+            },
+            {
+                "code": "estate_example_there-is-a-lake-on-the-estate",
+                "text": "There is a lake on the estate."
+            },
+            {
+                "code": "estate_example_we-visited-the-estate-of-george-washington-on-our-trip",
+                "text": "We visited the estate of George Washington on our trip."
+            }
+        ]
+    }
+]

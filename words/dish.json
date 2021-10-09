@@ -1,0 +1,72 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a shallow container to hold food; the general collection of plates, bowls, and utensils; food made in a certain way",
+        "examples": [
+            {
+                "code": "dish_example_could-you-find-me-a-deep-dish",
+                "text": "Could you find me a deep dish?"
+            },
+            {
+                "code": "dish_example_they-used-paper-dishes-at-the-party",
+                "text": "They used paper dishes at the party."
+            },
+            {
+                "code": "dish_example_i-need-to-bake-it-in-a-casserole-dish",
+                "text": "I need to bake it in a casserole dish."
+            },
+            {
+                "code": "dish_example_do-we-have-any-clean-dishes",
+                "text": "Do we have any clean dishes?"
+            },
+            {
+                "code": "dish_example_could-you-take-care-of-the-dirty-dishes",
+                "text": "Could you take care of the dirty dishes?"
+            },
+            {
+                "code": "dish_example_the-main-dish-will-be-served-soon",
+                "text": "The main dish will be served soon."
+            },
+            {
+                "code": "dish_example_her-favorite-dish-is-roast-beef",
+                "text": "Her favorite dish is roast beef."
+            },
+            {
+                "code": "dish_example_she-made-a-delicious-dish",
+                "text": "She made a delicious dish."
+            },
+            {
+                "code": "dish_example_his-top-pick-is-a-savory-dish",
+                "text": "His top pick is a savory dish."
+            },
+            {
+                "code": "dish_example_could-you-pass-me-the-cheese-dish",
+                "text": "Could you pass me the cheese dish?"
+            },
+            {
+                "code": "dish_example_her-teenagers-will-clean-the-dishes",
+                "text": "Her teenagers will clean the dishes."
+            },
+            {
+                "code": "dish_example_he-will-cook-the-dishes-for-the-party",
+                "text": "He will cook the dishes for the party."
+            },
+            {
+                "code": "dish_example_the-restaurant-serves-unique-dishes",
+                "text": "The restaurant serves unique dishes."
+            },
+            {
+                "code": "dish_example_which-dish-do-you-eat-here",
+                "text": "Which dish do you eat here?"
+            },
+            {
+                "code": "dish_example_i-haven-t-tried-that-dish",
+                "text": "I haven't tried that dish."
+            },
+            {
+                "code": "dish_example_put-the-chicken-in-a-deep-dish",
+                "text": "Put the chicken in a deep dish."
+            }
+        ]
+    }
+]

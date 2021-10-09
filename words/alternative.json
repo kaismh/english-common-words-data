@@ -1,0 +1,94 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "different than what is usual",
+        "examples": [
+            {
+                "code": "alternative_example_the-doctors-are-taking-an-alternative-approach-to-treating-her-disease",
+                "text": "The doctors are taking an alternative approach to treating her disease."
+            },
+            {
+                "code": "alternative_example_we-are-making-alternative-arrangements-in-case-of-an-emergency",
+                "text": "We are making alternative arrangements in case of an emergency."
+            },
+            {
+                "code": "alternative_example_the-movie-has-an-alternative-ending",
+                "text": "The movie has an alternative ending."
+            },
+            {
+                "code": "alternative_example_their-alternative-lifestyle-is-not-popular-with-their-families",
+                "text": "Their alternative lifestyle is not popular with their families."
+            },
+            {
+                "code": "alternative_example_she-is-looking-into-alternative-medicine-for-her-disease",
+                "text": "She is looking into alternative medicine for her disease."
+            },
+            {
+                "code": "alternative_example_do-you-know-an-alternative-route",
+                "text": "Do you know an alternative route?"
+            },
+            {
+                "code": "alternative_example_do-you-have-any-alternative-ideas",
+                "text": "Do you have any alternative ideas?"
+            }
+        ]
+    },
+    {
+        "type": "(n)",
+        "mean": "something you can choose to have or do instead of something else",
+        "examples": [
+            {
+                "code": "alternative_example_we-found-an-effective-alternative-to-her-expensive-medication",
+                "text": "We found an effective alternative to her expensive medication."
+            },
+            {
+                "code": "alternative_example_the-hotel-offered-us-an-acceptable-alternative-to-the-dirty-hotel-room",
+                "text": "The hotel offered us an acceptable alternative to the dirty hotel room."
+            },
+            {
+                "code": "alternative_example_the-only-clear-alternative-was-to-walk-home",
+                "text": "The only clear alternative was to walk home."
+            },
+            {
+                "code": "alternative_example_is-there-a-healthier-alternative-to-meat",
+                "text": "Is there a healthier alternative to meat?"
+            },
+            {
+                "code": "alternative_example_what-real-alternatives-do-we-have",
+                "text": "What real alternatives do we have?"
+            },
+            {
+                "code": "alternative_example_we-have-a-few-alternatives",
+                "text": "We have a few alternatives."
+            },
+            {
+                "code": "alternative_example_they-offered-us-a-cheap-alternative",
+                "text": "They offered us a cheap alternative."
+            },
+            {
+                "code": "alternative_example_pharmacists-are-developing-alternatives-to-expensive-medications",
+                "text": "Pharmacists are developing alternatives to expensive medications."
+            },
+            {
+                "code": "alternative_example_we-are-seeking-an-alternative-to-surgery",
+                "text": "We are seeking an alternative to surgery."
+            },
+            {
+                "code": "alternative_example_let-s-consider-the-alternatives",
+                "text": "Let's consider the alternatives."
+            },
+            {
+                "code": "alternative_example_the-homeopathic-doctor-presented-an-alternative-to-surgery",
+                "text": "The homeopathic doctor presented an alternative to surgery."
+            },
+            {
+                "code": "alternative_example_now-there-is-an-alternative-for-people-with-low-income",
+                "text": "Now there is an alternative for people with low income."
+            },
+            {
+                "code": "alternative_example_is-there-an-alternative-to-painkillers",
+                "text": "Is there an alternative to painkillers?"
+            }
+        ]
+    }
+]

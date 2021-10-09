@@ -1,0 +1,44 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to pay someone to work; to use",
+        "examples": [
+            {
+                "code": "employ_example_the-tourism-industry-directly-employs-millions-of-people-in-this-city",
+                "text": "The tourism industry directly employs millions of people in this city."
+            },
+            {
+                "code": "employ_example_technology-is-increasingly-employed-in-the-classroom",
+                "text": "Technology is increasingly employed in the classroom."
+            },
+            {
+                "code": "employ_example_guest-speakers-commonly-employ-examples-of-real-life-situations",
+                "text": "Guest speakers commonly employ examples of real-life situations."
+            },
+            {
+                "code": "employ_example_we-typically-employ-extra-people-in-the-summer",
+                "text": "We typically employ extra people in the summer."
+            },
+            {
+                "code": "employ_example_the-director-successfully-employed-special-effects-in-the-movie",
+                "text": "The director successfully employed special effects in the movie."
+            },
+            {
+                "code": "employ_example_she-was-employed-in-education",
+                "text": "She was employed in education."
+            },
+            {
+                "code": "employ_example_she-employed-many-approaches-when-looking-for-a-job",
+                "text": "She employed many approaches when looking for a job."
+            },
+            {
+                "code": "employ_example_this-artist-employs-an-interesting-method-when-painting",
+                "text": "This artist employs an interesting method when painting."
+            },
+            {
+                "code": "employ_example_many-rich-people-employ-servants-to-do-household-chores",
+                "text": "Many rich people employ servants to do household chores."
+            }
+        ]
+    }
+]

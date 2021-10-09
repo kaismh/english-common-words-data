@@ -1,0 +1,56 @@
+[
+    {
+        "type": "(n)",
+        "mean": "something that is useful or helpful",
+        "examples": [
+            {
+                "code": "resource_example_our-country-lacks-the-necessary-resources",
+                "text": "Our country lacks the necessary resources."
+            },
+            {
+                "code": "resource_example_he-drained-all-of-our-resources",
+                "text": "He drained all of our resources."
+            },
+            {
+                "code": "resource_example_we-need-to-conserve-our-resources",
+                "text": "We need to conserve our resources."
+            },
+            {
+                "code": "resource_example_they-allocate-their-resources-well",
+                "text": "They allocate their resources well."
+            },
+            {
+                "code": "resource_example_she-specializes-in-resource-management",
+                "text": "She specializes in resource management."
+            },
+            {
+                "code": "resource_example_please-refer-to-the-resource-center",
+                "text": "Please refer to the resource center."
+            },
+            {
+                "code": "resource_example_she-is-the-head-of-human-resources",
+                "text": "She is the head of human resources."
+            },
+            {
+                "code": "resource_example_the-country-has-excellent-resources",
+                "text": "The country has excellent resources."
+            },
+            {
+                "code": "resource_example_we-need-additional-resources-to-complete-the-project",
+                "text": "We need additional resources to complete the project."
+            },
+            {
+                "code": "resource_example_the-library-is-a-great-place-for-educational-resources",
+                "text": "The library is a great place for educational resources."
+            },
+            {
+                "code": "resource_example_there-are-lots-of-good-online-resources",
+                "text": "There are lots of good online resources."
+            },
+            {
+                "code": "resource_example_we-are-looking-for-renewable-resources",
+                "text": "We are looking for renewable resources."
+            }
+        ]
+    }
+]

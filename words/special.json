@@ -1,0 +1,54 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a meal that is not on the usual menu; a television program that is not part of a regular series",
+        "examples": [
+            {
+                "code": "special_example_this-restaurant-has-great-daily-specials",
+                "text": "This restaurant has great daily specials."
+            },
+            {
+                "code": "special_example_our-family-enjoys-prime-time-specials-on-tv",
+                "text": "Our family enjoys prime-time specials on TV."
+            },
+            {
+                "code": "special_example_the-news-show-will-have-a-two-hour-special-on-the-election-tonight",
+                "text": "The news show will have a two-hour special on the election tonight."
+            }
+        ]
+    },
+    {
+        "type": "(adj)",
+        "mean": "not usual; different than normal",
+        "examples": [
+            {
+                "code": "special_example_they-took-a-special-trip-to-hawaii",
+                "text": "They took a special trip to Hawaii."
+            },
+            {
+                "code": "special_example_she-received-special-treatment",
+                "text": "She received special treatment."
+            },
+            {
+                "code": "special_example_they-made-special-arrangements",
+                "text": "They made special arrangements."
+            },
+            {
+                "code": "special_example_he-received-a-special-assignment",
+                "text": "He received a special assignment."
+            },
+            {
+                "code": "special_example_it-s-a-special-case",
+                "text": "It's a special case."
+            },
+            {
+                "code": "special_example_the-movie-had-special-effects",
+                "text": "The movie had special effects."
+            },
+            {
+                "code": "special_example_he-is-a-special-guest",
+                "text": "He is a special guest."
+            }
+        ]
+    }
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a formal arrangement to meet; the selection of someone for a job",
+        "examples": [
+            {
+                "code": "appointment_example_you-should-be-careful-not-to-miss-an-important-appointment",
+                "text": "You should be careful not to miss an important appointment."
+            },
+            {
+                "code": "appointment_example_i-need-to-schedule-a-dentist-appointment",
+                "text": "I need to schedule a dentist appointment."
+            },
+            {
+                "code": "appointment_example_his-appointment-to-the-board-of-directors-is-permanent",
+                "text": "His appointment to the board of directors is permanent."
+            },
+            {
+                "code": "appointment_example_she-is-a-key-appointment-to-our-staff",
+                "text": "She is a key appointment to our staff."
+            },
+            {
+                "code": "appointment_example_we-have-an-appointment-for-tuesday",
+                "text": "We have an appointment for Tuesday."
+            },
+            {
+                "code": "appointment_example_don-t-forget-your-appointment",
+                "text": "Don't forget your appointment."
+            },
+            {
+                "code": "appointment_example_the-president-cannot-hold-any-other-appointments",
+                "text": "The president cannot hold any other appointments."
+            },
+            {
+                "code": "appointment_example_she-resigned-from-her-appointment-as-supreme-court-judge",
+                "text": "She resigned from her appointment as Supreme Court judge."
+            },
+            {
+                "code": "appointment_example_the-board-of-directors-approved-his-appointment",
+                "text": "The board of directors approved his appointment."
+            },
+            {
+                "code": "appointment_example_you-can-only-see-the-doctor-by-appointment",
+                "text": "You can only see the doctor by appointment."
+            },
+            {
+                "code": "appointment_example_she-was-the-right-appointment-for-the-job",
+                "text": "She was the right appointment for the job."
+            }
+        ]
+    }
+]

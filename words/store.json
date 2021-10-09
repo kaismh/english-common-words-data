@@ -1,0 +1,82 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a place where things are sold",
+        "examples": [
+            {
+                "code": "store_example_we-can-only-find-that-item-in-a-large-store",
+                "text": "We can only find that item in a large store."
+            },
+            {
+                "code": "store_example_you-can-buy-music-and-movies-from-an-online-store",
+                "text": "You can buy music and movies from an online store."
+            },
+            {
+                "code": "store_example_he-went-to-the-grocery-store-after-work",
+                "text": "He went to the grocery store after work."
+            },
+            {
+                "code": "store_example_she-visited-a-specialty-store-in-san-francisco",
+                "text": "She visited a specialty store in San Francisco."
+            },
+            {
+                "code": "store_example_they-plan-to-open-another-store",
+                "text": "They plan to open another store."
+            },
+            {
+                "code": "store_example_my-brother-runs-two-clothing-stores",
+                "text": "My brother runs two clothing stores."
+            },
+            {
+                "code": "store_example_the-new-video-game-will-hit-stores-in-march",
+                "text": "The new video game will hit stores in March."
+            },
+            {
+                "code": "store_example_the-store-sells-only-children-s-clothes",
+                "text": "The store sells only children's clothes."
+            },
+            {
+                "code": "store_example_the-hardware-store-closes-at-9-o-clock",
+                "text": "The hardware store closes at 9 o'clock."
+            },
+            {
+                "code": "store_example_his-first-job-was-a-store-clerk",
+                "text": "His first job was a store clerk."
+            },
+            {
+                "code": "store_example_i-want-to-be-a-store-manager",
+                "text": "I want to be a store manager."
+            },
+            {
+                "code": "store_example_store-brands-are-less-expensive",
+                "text": "Store brands are less expensive."
+            },
+            {
+                "code": "store_example_she-s-been-shopping-at-the-store-for-five-hours",
+                "text": "She's been shopping at the store for five hours."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to put something away for later use",
+        "examples": [
+            {
+                "code": "store_example_she-carefully-stored-her-jewelry-in-the-safe",
+                "text": "She carefully stored her jewelry in the safe."
+            },
+            {
+                "code": "store_example_his-books-were-conveniently-stored-in-boxes",
+                "text": "His books were conveniently stored in boxes."
+            },
+            {
+                "code": "store_example_i-need-to-protect-my-digitally-stored-information",
+                "text": "I need to protect my digitally stored information."
+            },
+            {
+                "code": "store_example_let-s-store-clothes-and-shoes-separately",
+                "text": "Let's store clothes and shoes separately."
+            }
+        ]
+    }
+]

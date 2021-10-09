@@ -1,0 +1,44 @@
+[
+    {
+        "type": "(n)",
+        "mean": "power and skill to do something",
+        "examples": [
+            {
+                "code": "ability_example_he-has-an-amazing-ability",
+                "text": "He has an amazing ability."
+            },
+            {
+                "code": "ability_example_that-is-a-very-useful-ability",
+                "text": "That is a very useful ability."
+            },
+            {
+                "code": "ability_example_her-academic-ability-is-amazing",
+                "text": "Her academic ability is amazing."
+            },
+            {
+                "code": "ability_example_i-have-the-ability-to-draw-cartoons",
+                "text": "I have the ability to draw cartoons."
+            },
+            {
+                "code": "ability_example_she-really-displayed-her-ability-to-sing",
+                "text": "She really displayed her ability to sing."
+            },
+            {
+                "code": "ability_example_don-t-underestimate-my-ability",
+                "text": "Don't underestimate my ability."
+            },
+            {
+                "code": "ability_example_i-need-to-improve-my-ability-to-draw",
+                "text": "I need to improve my ability to draw."
+            },
+            {
+                "code": "ability_example_he-needs-to-acquire-the-ability-to-communicate-effectively",
+                "text": "He needs to acquire the ability to communicate effectively."
+            },
+            {
+                "code": "ability_example_i-want-to-improve-my-ability-in-drawing",
+                "text": "I want to improve my ability in drawing."
+            }
+        ]
+    }
+]

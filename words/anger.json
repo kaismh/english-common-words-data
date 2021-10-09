@@ -1,0 +1,74 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the strong feeling of being upset; negative feelings toward someone or something",
+        "examples": [
+            {
+                "code": "anger_example_i-felt-great-anger-toward-him",
+                "text": "I felt great anger toward him."
+            },
+            {
+                "code": "anger_example_after-years-of-growing-anger-he-finally-quit-his-job",
+                "text": "After years of growing anger, he finally quit his job."
+            },
+            {
+                "code": "anger_example_there-was-widespread-anger-at-the-government",
+                "text": "There was widespread anger at the government."
+            },
+            {
+                "code": "anger_example_they-felt-anger-toward-their-parents",
+                "text": "They felt anger toward their parents."
+            },
+            {
+                "code": "anger_example_he-expressed-his-anger-at-the-judges",
+                "text": "He expressed his anger at the judges."
+            },
+            {
+                "code": "anger_example_you-shouldn-t-hide-your-anger",
+                "text": "You shouldn't hide your anger."
+            },
+            {
+                "code": "anger_example_please-control-your-anger",
+                "text": "Please control your anger."
+            },
+            {
+                "code": "anger_example_the-conflict-caused-our-anger-to-boil-over",
+                "text": "The conflict caused our anger to boil over."
+            },
+            {
+                "code": "anger_example_he-expressed-his-anger-towards-the-new-policy",
+                "text": "He expressed his anger towards the new policy."
+            },
+            {
+                "code": "anger_example_he-yelled-with-anger",
+                "text": "He yelled with anger."
+            },
+            {
+                "code": "anger_example_he-s-getting-therapy-for-anger-management",
+                "text": "He's getting therapy for anger management."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to cause negative feelings toward someone or something",
+        "examples": [
+            {
+                "code": "anger_example_he-deeply-angers-me",
+                "text": "He deeply angers me."
+            },
+            {
+                "code": "anger_example_her-behavior-angers-a-lot-of-people",
+                "text": "Her behavior angers a lot of people."
+            },
+            {
+                "code": "anger_example_he-was-angered-to-find-out-that-someone-stole-his-computer",
+                "text": "He was angered to find out that someone stole his computer."
+            },
+            {
+                "code": "anger_example_she-appears-to-anger-easily",
+                "text": "She appears to anger easily."
+            }
+        ]
+    }
+]

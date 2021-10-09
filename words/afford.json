@@ -1,0 +1,24 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to have enough money to pay for something; to be able to do something without having problems; to offer or provide something to someone",
+        "examples": [
+            {
+                "code": "afford_example_i-can-easily-afford-a-used-car",
+                "text": "I can easily afford a used car."
+            },
+            {
+                "code": "afford_example_you-can-hardly-afford-to-miss-another-day-of-work",
+                "text": "You can hardly afford to miss another day of work."
+            },
+            {
+                "code": "afford_example_my-boss-kindly-afforded-me-extra-vacation-days",
+                "text": "My boss kindly afforded me extra vacation days."
+            },
+            {
+                "code": "afford_example_i-can-afford-those-new-shoes",
+                "text": "I can afford those new shoes."
+            }
+        ]
+    }
+]

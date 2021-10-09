@@ -1,0 +1,44 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to put something or someone in place of something else",
+        "examples": [
+            {
+                "code": "replace_example_i-replaced-the-carpet-last-month",
+                "text": "I replaced the carpet last month."
+            },
+            {
+                "code": "replace_example_she-had-to-get-a-filling-replaced",
+                "text": "She had to get a filling replaced."
+            },
+            {
+                "code": "replace_example_we-replaced-the-manager",
+                "text": "We replaced the manager."
+            },
+            {
+                "code": "replace_example_we-need-to-completely-replace-our-old-furniture",
+                "text": "We need to completely replace our old furniture."
+            },
+            {
+                "code": "replace_example_the-manager-quickly-replaced-his-secretary",
+                "text": "The manager quickly replaced his secretary."
+            },
+            {
+                "code": "replace_example_she-cannot-be-easily-replaced",
+                "text": "She cannot be easily replaced."
+            },
+            {
+                "code": "replace_example_we-are-going-to-finally-replace-our-old-car",
+                "text": "We are going to finally replace our old car."
+            },
+            {
+                "code": "replace_example_she-was-replaced-by-a-more-experienced-worker",
+                "text": "She was replaced by a more experienced worker."
+            },
+            {
+                "code": "replace_example_i-was-replaced-as-head-secretary",
+                "text": "I was replaced as head secretary."
+            }
+        ]
+    }
+]

@@ -1,0 +1,60 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a period of seven days in a row",
+        "examples": [
+            {
+                "code": "week_example_what-a-busy-week",
+                "text": "What a busy week!"
+            },
+            {
+                "code": "week_example_where-were-you-last-week",
+                "text": "Where were you last week?"
+            },
+            {
+                "code": "week_example_i-have-time-next-week",
+                "text": "I have time next week."
+            },
+            {
+                "code": "week_example_it-was-a-quiet-week-in-the-office",
+                "text": "It was a quiet week in the office."
+            },
+            {
+                "code": "week_example_she-is-on-vacation-for-the-whole-week",
+                "text": "She is on vacation for the whole week."
+            },
+            {
+                "code": "week_example_the-week-went-too-fast",
+                "text": "The week went too fast."
+            },
+            {
+                "code": "week_example_i-spent-the-week-at-the-beach",
+                "text": "I spent the week at the beach."
+            },
+            {
+                "code": "week_example_we-are-paid-by-the-week",
+                "text": "We are paid by the week."
+            },
+            {
+                "code": "week_example_i-study-during-the-week",
+                "text": "I study during the week."
+            },
+            {
+                "code": "week_example_i-haven-t-talked-to-her-for-a-week",
+                "text": "I haven't talked to her for a week."
+            },
+            {
+                "code": "week_example_i-need-to-make-a-decision-within-a-week",
+                "text": "I need to make a decision within a week."
+            },
+            {
+                "code": "week_example_it-has-been-over-a-week-since-i-saw-him",
+                "text": "It has been over a week since I saw him."
+            },
+            {
+                "code": "week_example_how-much-do-you-make-per-week",
+                "text": "How much do you make per week?"
+            }
+        ]
+    }
+]

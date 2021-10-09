@@ -1,0 +1,106 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to close your eyes and have your body go into a natural state of rest",
+        "examples": [
+            {
+                "code": "sleep_example_i-hope-my-baby-sleeps-well-tonight",
+                "text": "I hope my baby sleeps well tonight."
+            },
+            {
+                "code": "sleep_example_my-mom-yelled-at-me-for-sleeping-so-late",
+                "text": "My mom yelled at me for sleeping so late."
+            },
+            {
+                "code": "sleep_example_she-slept-deeply-after-working-all-day",
+                "text": "She slept deeply after working all day."
+            },
+            {
+                "code": "sleep_example_i-hardly-slept-last-night",
+                "text": "I hardly slept last night."
+            },
+            {
+                "code": "sleep_example_she-can-t-sleep-alone",
+                "text": "She can't sleep alone."
+            },
+            {
+                "code": "sleep_example_i-was-so-tired-but-i-couldn-t-sleep",
+                "text": "I was so tired, but I couldn't sleep."
+            },
+            {
+                "code": "sleep_example_let-s-try-to-sleep-early-tonight",
+                "text": "Let's try to sleep early tonight."
+            },
+            {
+                "code": "sleep_example_she-tried-everything-to-put-her-baby-to-sleep",
+                "text": "She tried everything to put her baby to sleep."
+            },
+            {
+                "code": "sleep_example_he-only-slept-for-three-hours-last-night",
+                "text": "He only slept for three hours last night."
+            },
+            {
+                "code": "sleep_example_he-slept-right-through-the-fire-alarm",
+                "text": "He slept right through the fire alarm."
+            },
+            {
+                "code": "sleep_example_my-daughter-always-sleeps-with-her-doll",
+                "text": "My daughter always sleeps with her doll."
+            }
+        ]
+    },
+    {
+        "type": "(n)",
+        "mean": "a natural state of unconsciousness where your eyes are closed and your body is resting",
+        "examples": [
+            {
+                "code": "sleep_example_i-got-some-deep-sleep-last-night",
+                "text": "I got some deep sleep last night."
+            },
+            {
+                "code": "sleep_example_she-woke-up-after-a-good-sleep",
+                "text": "She woke up after a good sleep."
+            },
+            {
+                "code": "sleep_example_she-says-she-needs-her-beauty-sleep",
+                "text": "She says she needs her beauty sleep."
+            },
+            {
+                "code": "sleep_example_she-fell-back-to-sleep-after-turning-her-alarm-clock-off",
+                "text": "She fell back to sleep after turning her alarm clock off."
+            },
+            {
+                "code": "sleep_example_we-re-leaving-early-in-the-morning-so-try-to-get-some-sleep",
+                "text": "We're leaving early in the morning, so try to get some sleep."
+            },
+            {
+                "code": "sleep_example_i-desperately-need-some-sleep-now",
+                "text": "I desperately need some sleep now."
+            },
+            {
+                "code": "sleep_example_hope-you-have-a-good-sleep",
+                "text": "Hope you have a good sleep."
+            },
+            {
+                "code": "sleep_example_how-can-he-survive-on-just-a-few-hours-of-sleep-a-night",
+                "text": "How can he survive on just a few hours of sleep a night?"
+            },
+            {
+                "code": "sleep_example_new-mothers-always-struggle-with-sleep-deprivation",
+                "text": "New mothers always struggle with sleep deprivation."
+            },
+            {
+                "code": "sleep_example_he-struggles-with-sleep-disorder",
+                "text": "He struggles with sleep disorder."
+            },
+            {
+                "code": "sleep_example_i-m-trying-to-figure-out-my-baby-s-sleep-cycle",
+                "text": "I'm trying to figure out my baby's sleep cycle."
+            },
+            {
+                "code": "sleep_example_he-snores-during-his-sleep",
+                "text": "He snores during his sleep."
+            }
+        ]
+    }
+]

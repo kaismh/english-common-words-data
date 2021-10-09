@@ -1,0 +1,72 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "that is needed; must happen and cannot be avoided",
+        "examples": [
+            {
+                "code": "necessary_example_getting-involved-has-become-necessary",
+                "text": "Getting involved has become necessary."
+            },
+            {
+                "code": "necessary_example_he-doesn-t-feel-it-is-necessary",
+                "text": "He doesn't feel it is necessary."
+            },
+            {
+                "code": "necessary_example_we-found-it-necessary-to-go",
+                "text": "We found it necessary to go."
+            },
+            {
+                "code": "necessary_example_this-doesn-t-seem-necessary",
+                "text": "This doesn't seem necessary."
+            },
+            {
+                "code": "necessary_example_i-am-missing-some-necessary-information",
+                "text": "I am missing some necessary information."
+            },
+            {
+                "code": "necessary_example_we-don-t-have-the-necessary-ingredients",
+                "text": "We don't have the necessary ingredients."
+            },
+            {
+                "code": "necessary_example_he-doesn-t-have-the-necessary-training",
+                "text": "He doesn't have the necessary training."
+            },
+            {
+                "code": "necessary_example_we-took-the-necessary-actions",
+                "text": "We took the necessary actions."
+            },
+            {
+                "code": "necessary_example_do-you-have-the-necessary-permit",
+                "text": "Do you have the necessary permit?"
+            },
+            {
+                "code": "necessary_example_there-are-a-few-necessary-preparations",
+                "text": "There are a few necessary preparations."
+            },
+            {
+                "code": "necessary_example_i-made-some-necessary-improvements",
+                "text": "I made some necessary improvements."
+            },
+            {
+                "code": "necessary_example_this-action-is-hardly-necessary",
+                "text": "This action is hardly necessary."
+            },
+            {
+                "code": "necessary_example_the-operation-is-medically-necessary",
+                "text": "The operation is medically necessary."
+            },
+            {
+                "code": "necessary_example_i-will-call-you-when-necessary",
+                "text": "I will call you when necessary."
+            },
+            {
+                "code": "necessary_example_just-vacuum-where-necessary",
+                "text": "Just vacuum where necessary."
+            },
+            {
+                "code": "necessary_example_air-is-necessary-for-survival",
+                "text": "Air is necessary for survival."
+            }
+        ]
+    }
+]

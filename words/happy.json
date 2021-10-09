@@ -1,0 +1,80 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "feeling pleasure; not sad",
+        "examples": [
+            {
+                "code": "happy_example_he-appears-happy-with-the-news",
+                "text": "He appears happy with the news."
+            },
+            {
+                "code": "happy_example_he-feels-really-happy-about-this-decision",
+                "text": "He feels really happy about this decision."
+            },
+            {
+                "code": "happy_example_can-he-make-you-happy",
+                "text": "Can he make you happy?"
+            },
+            {
+                "code": "happy_example_how-can-he-become-happy-again",
+                "text": "How can he become happy again?"
+            },
+            {
+                "code": "happy_example_she-is-extremely-happy-with-her-choice",
+                "text": "She is extremely happy with her choice."
+            },
+            {
+                "code": "happy_example_he-is-far-from-happy-at-his-job",
+                "text": "He is far from happy at his job."
+            },
+            {
+                "code": "happy_example_he-seems-perfectly-happy-with-his-life",
+                "text": "He seems perfectly happy with his life."
+            },
+            {
+                "code": "happy_example_she-is-just-happy-to-be-here",
+                "text": "She is just happy to be here."
+            },
+            {
+                "code": "happy_example_i-am-not-happy-about-the-new-requirements",
+                "text": "I am not happy about the new requirements."
+            },
+            {
+                "code": "happy_example_i-am-trying-to-be-happy-for-her",
+                "text": "I am trying to be happy for her."
+            },
+            {
+                "code": "happy_example_she-is-happy-with-the-way-it-turned-out",
+                "text": "She is happy with the way it turned out."
+            },
+            {
+                "code": "happy_example_well-that-was-a-happy-ending",
+                "text": "Well, that was a happy ending."
+            },
+            {
+                "code": "happy_example_this-place-has-a-happy-atmosphere",
+                "text": "This place has a happy atmosphere."
+            },
+            {
+                "code": "happy_example_she-had-a-happy-childhood",
+                "text": "She had a happy childhood."
+            },
+            {
+                "code": "happy_example_they-have-a-happy-marriage",
+                "text": "They have a happy marriage."
+            },
+            {
+                "code": "happy_example_they-wished-him-a-happy-retirement",
+                "text": "They wished him a happy retirement."
+            },
+            {
+                "code": "happy_example_she-cried-happy-tears",
+                "text": "She cried happy tears."
+            },
+            {
+                "code": "happy_example_i-have-some-happy-news",
+                "text": "I have some happy news."
+            }
+        ]
+    }
+]

@@ -1,0 +1,116 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a small piece of plastic with information on it relating to credit, business, identification, or greetings for special occasions; set of small, rectangular pieces of paper used for playing games; a piece of computer hardware",
+        "examples": [
+            {
+                "code": "card_example_you-ll-need-your-id-card-to-enter",
+                "text": "You'll need your ID card to enter."
+            },
+            {
+                "code": "card_example_here-is-my-business-card",
+                "text": "Here is my business card."
+            },
+            {
+                "code": "card_example_the-notes-were-written-on-the-report-card",
+                "text": "The notes were written on the report card."
+            },
+            {
+                "code": "card_example_she-lost-her-charge-card",
+                "text": "She lost her charge card."
+            },
+            {
+                "code": "card_example_my-computer-needs-a-new-memory-card",
+                "text": "My computer needs a new memory card."
+            },
+            {
+                "code": "card_example_thank-you-for-the-birthday-card",
+                "text": "Thank you for the birthday card."
+            },
+            {
+                "code": "card_example_she-wants-to-buy-playing-cards",
+                "text": "She wants to buy playing cards."
+            },
+            {
+                "code": "card_example_what-was-the-wild-card",
+                "text": "What was the wild card?"
+            },
+            {
+                "code": "card_example_he-hands-out-his-business-card-to-anyone-who-will-take-it",
+                "text": "He hands out his business card to anyone who will take it."
+            },
+            {
+                "code": "card_example_you-can-swipe-your-card-in-this-machine",
+                "text": "You can swipe your card in this machine."
+            },
+            {
+                "code": "card_example_would-you-like-to-pay-by-credit-card",
+                "text": "Would you like to pay by credit card?"
+            },
+            {
+                "code": "card_example_they-don-t-accept-credit-cards-here",
+                "text": "They don't accept credit cards here."
+            },
+            {
+                "code": "card_example_the-bank-canceled-our-cards",
+                "text": "The bank canceled our cards."
+            },
+            {
+                "code": "card_example_he-will-install-the-sound-card-for-me",
+                "text": "He will install the sound card for me."
+            },
+            {
+                "code": "card_example_my-grandmother-sends-me-a-card-for-every-holiday",
+                "text": "My grandmother sends me a card for every holiday."
+            },
+            {
+                "code": "card_example_did-you-get-any-birthday-cards",
+                "text": "Did you get any birthday cards?"
+            },
+            {
+                "code": "card_example_everyone-signed-her-retirement-card",
+                "text": "Everyone signed her retirement card."
+            },
+            {
+                "code": "card_example_would-you-like-to-cut-the-cards",
+                "text": "Would you like to cut the cards?"
+            },
+            {
+                "code": "card_example_the-magician-told-her-to-pick-a-card",
+                "text": "The magician told her to pick a card."
+            },
+            {
+                "code": "card_example_what-is-your-card-number",
+                "text": "What is your card number?"
+            },
+            {
+                "code": "card_example_your-credit-card-company-should-protect-you-if-the-card-is-stolen",
+                "text": "Your credit card company should protect you if the card is stolen."
+            },
+            {
+                "code": "card_example_does-anyone-have-a-deck-of-cards",
+                "text": "Does anyone have a deck of cards?"
+            },
+            {
+                "code": "card_example_we-ll-play-a-hand-of-cards",
+                "text": "We'll play a hand of cards."
+            },
+            {
+                "code": "card_example_are-you-ready-for-a-card-game",
+                "text": "Are you ready for a card game?"
+            },
+            {
+                "code": "card_example_all-the-card-players-were-having-fun",
+                "text": "All the card players were having fun."
+            },
+            {
+                "code": "card_example_we-ll-eat-at-the-card-table",
+                "text": "We'll eat at the card table."
+            },
+            {
+                "code": "card_example_do-you-have-a-card-catalogue-here",
+                "text": "Do you have a card catalogue here?"
+            }
+        ]
+    }
+]

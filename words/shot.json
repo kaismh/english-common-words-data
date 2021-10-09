@@ -1,0 +1,56 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the act of firing a gun; a chance; the act of throwing a ball in a sports game; an injection with a needle",
+        "examples": [
+            {
+                "code": "shot_example_the-police-fired-a-warning-shot",
+                "text": "The police fired a warning shot."
+            },
+            {
+                "code": "shot_example_the-coach-says-i-have-an-excellent-shot-of-being-chosen",
+                "text": "The coach says I have an excellent shot of being chosen."
+            },
+            {
+                "code": "shot_example_he-made-a-lucky-shot-at-the-end-of-the-game",
+                "text": "He made a lucky shot at the end of the game."
+            },
+            {
+                "code": "shot_example_have-you-had-a-flu-shot",
+                "text": "Have you had a flu shot?"
+            },
+            {
+                "code": "shot_example_he-aimed-his-shot-carefully",
+                "text": "He aimed his shot carefully."
+            },
+            {
+                "code": "shot_example_he-took-a-shot-at-the-deer",
+                "text": "He took a shot at the deer."
+            },
+            {
+                "code": "shot_example_the-shot-missed-the-target",
+                "text": "The shot missed the target."
+            },
+            {
+                "code": "shot_example_the-nurse-gives-the-shots-at-the-doctor-s-office",
+                "text": "The nurse gives the shots at the doctor's office."
+            },
+            {
+                "code": "shot_example_she-still-needs-to-get-the-flu-shot",
+                "text": "She still needs to get the flu shot."
+            },
+            {
+                "code": "shot_example_he-fired-the-fatal-shot-from-his-shotgun",
+                "text": "He fired the fatal shot from his shotgun."
+            },
+            {
+                "code": "shot_example_the-deer-was-killed-by-a-single-shot-to-the-head",
+                "text": "The deer was killed by a single shot to the head."
+            },
+            {
+                "code": "shot_example_she-is-going-to-need-a-shot-of-antibiotics-to-get-rid-of-the-infection",
+                "text": "She is going to need a shot of antibiotics to get rid of the infection."
+            }
+        ]
+    }
+]

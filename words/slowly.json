@@ -1,0 +1,28 @@
+[
+    {
+        "type": "(adv)",
+        "mean": "not fast; not quickly",
+        "examples": [
+            {
+                "code": "slowly_example_he-is-adjusting-slowly-to-the-new-school",
+                "text": "He is adjusting slowly to the new school."
+            },
+            {
+                "code": "slowly_example_the-boat-slowly-approached-the-shore",
+                "text": "The boat slowly approached the shore."
+            },
+            {
+                "code": "slowly_example_we-slowly-entered-the-tunnel",
+                "text": "We slowly entered the tunnel."
+            },
+            {
+                "code": "slowly_example_she-slowly-walked-away",
+                "text": "She slowly walked away."
+            },
+            {
+                "code": "slowly_example_he-slowly-pushed-the-door",
+                "text": "He slowly pushed the door."
+            }
+        ]
+    }
+]

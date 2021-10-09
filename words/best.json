@@ -1,0 +1,60 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "better than everything else",
+        "examples": [
+            {
+                "code": "best_example_your-idea-is-the-best",
+                "text": "Your idea is the best."
+            },
+            {
+                "code": "best_example_he-is-considered-the-best-soccer-player-in-the-world",
+                "text": "He is considered the best soccer player in the world."
+            },
+            {
+                "code": "best_example_i-bought-the-very-best-suit-i-could-afford",
+                "text": "I bought the very best suit I could afford."
+            },
+            {
+                "code": "best_example_this-painting-is-by-far-the-best-of-his-work",
+                "text": "This painting is by far the best of his work."
+            },
+            {
+                "code": "best_example_in-your-family-who-is-the-best-at-math",
+                "text": "In your family, who is the best at math?"
+            },
+            {
+                "code": "best_example_we-think-this-is-best-for-our-family",
+                "text": "We think this is best for our family."
+            },
+            {
+                "code": "best_example_this-is-the-best-part-of-the-movie",
+                "text": "This is the best part of the movie."
+            },
+            {
+                "code": "best_example_your-charm-is-your-best-asset",
+                "text": "Your charm is your best asset."
+            },
+            {
+                "code": "best_example_she-wore-her-best-clothes",
+                "text": "She wore her best clothes."
+            },
+            {
+                "code": "best_example_i-can-only-give-you-my-best-guess",
+                "text": "I can only give you my best guess."
+            },
+            {
+                "code": "best_example_he-has-been-my-best-friend-since-childhood",
+                "text": "He has been my best friend since childhood."
+            },
+            {
+                "code": "best_example_i-m-only-thinking-of-your-best-interests",
+                "text": "I'm only thinking of your best interests."
+            },
+            {
+                "code": "best_example_give-your-mother-my-best-regards",
+                "text": "Give your mother my best regards."
+            }
+        ]
+    }
+]

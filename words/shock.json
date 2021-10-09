@@ -1,0 +1,86 @@
+[
+    {
+        "type": "(n)",
+        "mean": "extreme surprise",
+        "examples": [
+            {
+                "code": "shock_example_the-family-will-be-in-for-a-big-shock-when-they-see-the-airfare-costs",
+                "text": "The family will be in for a big shock when they see the airfare costs."
+            },
+            {
+                "code": "shock_example_i-enjoyed-the-party-after-the-initial-shock-wore-off",
+                "text": "I enjoyed the party after the initial shock wore off."
+            },
+            {
+                "code": "shock_example_when-we-went-to-china-he-experienced-culture-shock",
+                "text": "When we went to China, he experienced culture shock."
+            },
+            {
+                "code": "shock_example_i-got-a-huge-shock-when-i-saw-him",
+                "text": "I got a huge shock when I saw him."
+            },
+            {
+                "code": "shock_example_you-gave-me-quite-a-shock",
+                "text": "You gave me quite a shock."
+            },
+            {
+                "code": "shock_example_his-mom-expressed-great-shock-by-her-son-s-bad-grades",
+                "text": "His mom expressed great shock by her son's bad grades."
+            },
+            {
+                "code": "shock_example_she-never-got-over-the-shock-of-the-tragic-accident",
+                "text": "She never got over the shock of the tragic accident."
+            },
+            {
+                "code": "shock_example_he-does-crazy-things-just-for-the-shock-value",
+                "text": "He does crazy things just for the shock value."
+            },
+            {
+                "code": "shock_example_she-fainted-in-shock-over-the-news",
+                "text": "She fainted in shock over the news."
+            },
+            {
+                "code": "shock_example_that-was-a-huge-shock-to-me",
+                "text": "That was a huge shock to me."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to surprise someone; to affect with an electric discharge",
+        "examples": [
+            {
+                "code": "shock_example_she-was-deeply-shocked-by-her-grandmother-s-death",
+                "text": "She was deeply shocked by her grandmother's death."
+            },
+            {
+                "code": "shock_example_the-child-was-easily-shocked-by-the-clown",
+                "text": "The child was easily shocked by the clown."
+            },
+            {
+                "code": "shock_example_he-completely-shocked-everyone-with-his-news",
+                "text": "He completely shocked everyone with his news."
+            },
+            {
+                "code": "shock_example_he-accidentally-shocked-himself-with-a-live-wire",
+                "text": "He accidentally shocked himself with a live wire."
+            },
+            {
+                "code": "shock_example_his-death-shocked-her-into-depression",
+                "text": "His death shocked her into depression."
+            },
+            {
+                "code": "shock_example_she-was-shocked-by-the-bad-news",
+                "text": "She was shocked by the bad news."
+            },
+            {
+                "code": "shock_example_he-shocked-everyone-with-his-new-appearance",
+                "text": "He shocked everyone with his new appearance."
+            },
+            {
+                "code": "shock_example_he-shocked-himself-with-a-live-wire",
+                "text": "He shocked himself with a live wire."
+            }
+        ]
+    }
+]

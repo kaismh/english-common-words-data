@@ -1,0 +1,60 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the act of keeping someone or something safe; security",
+        "examples": [
+            {
+                "code": "protection_example_they-provided-protection-for-us",
+                "text": "They provided protection for us."
+            },
+            {
+                "code": "protection_example_we-offered-them-protection",
+                "text": "We offered them protection."
+            },
+            {
+                "code": "protection_example_we-have-protection-from-the-snow",
+                "text": "We have protection from the snow."
+            },
+            {
+                "code": "protection_example_he-carries-a-gun-for-added-protection",
+                "text": "He carries a gun for added protection."
+            },
+            {
+                "code": "protection_example_he-is-in-a-witness-protection-program",
+                "text": "He is in a witness protection program."
+            },
+            {
+                "code": "protection_example_there-is-growing-concern-for-consumer-protection",
+                "text": "There is growing concern for consumer protection."
+            },
+            {
+                "code": "protection_example_we-are-receiving-police-protection",
+                "text": "We are receiving police protection."
+            },
+            {
+                "code": "protection_example_these-glasses-offer-eye-protection",
+                "text": "These glasses offer eye protection."
+            },
+            {
+                "code": "protection_example_we-learned-about-fire-protection",
+                "text": "We learned about fire protection."
+            },
+            {
+                "code": "protection_example_we-have-protection-against-the-wind",
+                "text": "We have protection against the wind."
+            },
+            {
+                "code": "protection_example_they-have-protection-under-the-law",
+                "text": "They have protection under the law."
+            },
+            {
+                "code": "protection_example_we-were-given-protection-by-the-police",
+                "text": "We were given protection by the police."
+            },
+            {
+                "code": "protection_example_he-asked-for-extra-protection-for-his-family",
+                "text": "He asked for extra protection for his family."
+            }
+        ]
+    }
+]

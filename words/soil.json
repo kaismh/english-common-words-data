@@ -1,0 +1,52 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the upper layer of earth in which plants grow",
+        "examples": [
+            {
+                "code": "soil_example_you-need-good-soil-to-grow-fruit-trees",
+                "text": "You need good soil to grow fruit trees."
+            },
+            {
+                "code": "soil_example_it-will-be-hard-to-grow-anything-in-shallow-soil",
+                "text": "It will be hard to grow anything in shallow soil."
+            },
+            {
+                "code": "soil_example_the-gardener-told-him-to-keep-the-soil-moist",
+                "text": "The gardener told him to keep the soil moist."
+            },
+            {
+                "code": "soil_example_my-backyard-is-covered-with-rocky-soil",
+                "text": "My backyard is covered with rocky soil."
+            },
+            {
+                "code": "soil_example_they-re-planning-to-cultivate-the-soil",
+                "text": "They're planning to cultivate the soil."
+            },
+            {
+                "code": "soil_example_we-need-to-fertilize-the-soil",
+                "text": "We need to fertilize the soil."
+            },
+            {
+                "code": "soil_example_their-soil-doesn-t-drain-very-well",
+                "text": "Their soil doesn't drain very well."
+            },
+            {
+                "code": "soil_example_we-are-concerned-about-soil-conservation",
+                "text": "We are concerned about soil conservation."
+            },
+            {
+                "code": "soil_example_soil-samples-were-taken-from-the-land-near-the-nuclear-plant",
+                "text": "Soil samples were taken from the land near the nuclear plant."
+            },
+            {
+                "code": "soil_example_he-studies-soil-types-before-planting-anything",
+                "text": "He studies soil types before planting anything."
+            },
+            {
+                "code": "soil_example_the-flowers-grow-well-in-rich-soil",
+                "text": "The flowers grow well in rich soil."
+            }
+        ]
+    }
+]

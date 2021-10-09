@@ -1,0 +1,32 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to demand something in a forceful way",
+        "examples": [
+            {
+                "code": "insist_example_i-strongly-insist-that-you-leave-at-once",
+                "text": "I strongly insist that you leave at once."
+            },
+            {
+                "code": "insist_example_he-stubbornly-insisted-on-doing-it-all-by-himself",
+                "text": "He stubbornly insisted on doing it all by himself."
+            },
+            {
+                "code": "insist_example_my-father-always-insists-on-paying-for-dinner",
+                "text": "My father always insists on paying for dinner."
+            },
+            {
+                "code": "insist_example_she-still-insists-her-husband-is-wrong",
+                "text": "She still insists her husband is wrong."
+            },
+            {
+                "code": "insist_example_he-continues-to-insist-that-we-are-wrong",
+                "text": "He continues to insist that we are wrong."
+            },
+            {
+                "code": "insist_example_he-insists-on-joining-us-for-dinner",
+                "text": "He insists on joining us for dinner."
+            }
+        ]
+    }
+]

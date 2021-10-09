@@ -1,0 +1,52 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to become a member; to connect two or more things together",
+        "examples": [
+            {
+                "code": "join_example_he-officially-joined-the-organization",
+                "text": "He officially joined the organization."
+            },
+            {
+                "code": "join_example_they-voluntarily-joined-the-military-during-the-war",
+                "text": "They voluntarily joined the military during the war."
+            },
+            {
+                "code": "join_example_she-recently-joined-a-health-club",
+                "text": "She recently joined a health club."
+            },
+            {
+                "code": "join_example_they-can-join-together-to-build-a-stronger-team",
+                "text": "They can join together to build a stronger team."
+            },
+            {
+                "code": "join_example_i-will-gladly-join-you-for-dinner",
+                "text": "I will gladly join you for dinner."
+            },
+            {
+                "code": "join_example_he-wanted-to-join-the-army",
+                "text": "He wanted to join the army."
+            },
+            {
+                "code": "join_example_she-persuaded-him-to-join-their-team",
+                "text": "She persuaded him to join their team."
+            },
+            {
+                "code": "join_example_they-invited-us-to-join-them-at-their-table",
+                "text": "They invited us to join them at their table."
+            },
+            {
+                "code": "join_example_thousands-of-people-are-expected-to-join-the-marathon",
+                "text": "Thousands of people are expected to join the marathon."
+            },
+            {
+                "code": "join_example_would-you-like-to-join-me-for-a-drink",
+                "text": "Would you like to join me for a drink?"
+            },
+            {
+                "code": "join_example_please-join-me-in-thanking-our-guest-tonight",
+                "text": "Please join me in thanking our guest tonight."
+            }
+        ]
+    }
+]

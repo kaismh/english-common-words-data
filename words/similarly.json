@@ -1,0 +1,32 @@
+[
+    {
+        "type": "(adv)",
+        "mean": "in almost the same way",
+        "examples": [
+            {
+                "code": "similarly_example_the-shoes-are-priced-similarly",
+                "text": "The shoes are priced similarly."
+            },
+            {
+                "code": "similarly_example_tom-and-john-behave-similarly",
+                "text": "Tom and John behave similarly."
+            },
+            {
+                "code": "similarly_example_the-girls-are-expected-to-dress-similarly",
+                "text": "The girls are expected to dress similarly."
+            },
+            {
+                "code": "similarly_example_all-students-respond-similarly",
+                "text": "All students respond similarly."
+            },
+            {
+                "code": "similarly_example_these-tables-are-similarly-shaped",
+                "text": "These tables are similarly shaped."
+            },
+            {
+                "code": "similarly_example_the-houses-are-similarly-large",
+                "text": "The houses are similarly large."
+            }
+        ]
+    }
+]

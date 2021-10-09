@@ -1,0 +1,36 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to have an opinion or to form a thought about something",
+        "examples": [
+            {
+                "code": "think_example_i-honestly-think-we-should-do-it-this-way",
+                "text": "I honestly think we should do it this way."
+            },
+            {
+                "code": "think_example_i-personally-think-they-mistreated-you",
+                "text": "I personally think they mistreated you."
+            },
+            {
+                "code": "think_example_she-constantly-thinks-about-her-bad-experiences",
+                "text": "She constantly thinks about her bad experiences."
+            },
+            {
+                "code": "think_example_i-have-to-seriously-think-about-it",
+                "text": "I have to seriously think about it."
+            },
+            {
+                "code": "think_example_you-re-not-thinking-clearly",
+                "text": "You're not thinking clearly."
+            },
+            {
+                "code": "think_example_i-suddenly-thought-of-an-idea",
+                "text": "I suddenly thought of an idea."
+            },
+            {
+                "code": "think_example_what-do-you-think-of-the-book",
+                "text": "What do you think of the book?"
+            }
+        ]
+    }
+]

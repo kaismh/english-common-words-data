@@ -1,0 +1,36 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the first meal of the day",
+        "examples": [
+            {
+                "code": "breakfast_example_the-hotel-serves-a-big-breakfast",
+                "text": "The hotel serves a big breakfast."
+            },
+            {
+                "code": "breakfast_example_i-ll-eat-a-light-breakfast",
+                "text": "I'll eat a light breakfast."
+            },
+            {
+                "code": "breakfast_example_we-re-having-an-early-breakfast",
+                "text": "We're having an early breakfast."
+            },
+            {
+                "code": "breakfast_example_we-ate-breakfast-in-bed",
+                "text": "We ate breakfast in bed."
+            },
+            {
+                "code": "breakfast_example_they-serve-breakfast-until-noon",
+                "text": "They serve breakfast until noon."
+            },
+            {
+                "code": "breakfast_example_i-ll-buy-some-breakfast-cereal",
+                "text": "I'll buy some breakfast cereal."
+            },
+            {
+                "code": "breakfast_example_please-clear-the-breakfast-dishes",
+                "text": "Please clear the breakfast dishes."
+            }
+        ]
+    }
+]

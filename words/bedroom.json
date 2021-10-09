@@ -1,0 +1,64 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a room for sleeping",
+        "examples": [
+            {
+                "code": "bedroom_example_we-want-a-house-with-large-bedrooms",
+                "text": "We want a house with large bedrooms."
+            },
+            {
+                "code": "bedroom_example_what-a-comfortable-bedroom",
+                "text": "What a comfortable bedroom."
+            },
+            {
+                "code": "bedroom_example_i-had-to-sleep-in-the-small-bedroom",
+                "text": "I had to sleep in the small bedroom."
+            },
+            {
+                "code": "bedroom_example_he-sleeps-in-the-master-bedroom",
+                "text": "He sleeps in the master bedroom."
+            },
+            {
+                "code": "bedroom_example_the-children-were-happy-to-have-separate-bedrooms",
+                "text": "The children were happy to have separate bedrooms."
+            },
+            {
+                "code": "bedroom_example_we-re-going-to-share-a-bedroom-to-save-money",
+                "text": "We're going to share a bedroom to save money."
+            },
+            {
+                "code": "bedroom_example_she-s-decided-to-redecorate-her-bedroom",
+                "text": "She's decided to redecorate her bedroom."
+            },
+            {
+                "code": "bedroom_example_he-converted-the-extra-bedroom-into-an-office",
+                "text": "He converted the extra bedroom into an office."
+            },
+            {
+                "code": "bedroom_example_how-big-is-the-bedroom-closet",
+                "text": "How big is the bedroom closet?"
+            },
+            {
+                "code": "bedroom_example_will-our-bedroom-furniture-fit",
+                "text": "Will our bedroom furniture fit?"
+            },
+            {
+                "code": "bedroom_example_we-will-have-to-replace-the-bedroom-door",
+                "text": "We will have to replace the bedroom door."
+            },
+            {
+                "code": "bedroom_example_i-am-going-to-paint-the-bedroom-walls",
+                "text": "I am going to paint the bedroom walls."
+            },
+            {
+                "code": "bedroom_example_they-found-their-things-thrown-all-around-the-bedroom-after-the-robbery",
+                "text": "They found their things thrown all around the bedroom after the robbery."
+            },
+            {
+                "code": "bedroom_example_they-are-sleeping-in-the-bedroom",
+                "text": "They are sleeping in the bedroom."
+            }
+        ]
+    }
+]

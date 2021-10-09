@@ -1,0 +1,24 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a living thing; the act of existing",
+        "examples": [
+            {
+                "code": "being_example_we-are-living-beings",
+                "text": "We are living beings."
+            },
+            {
+                "code": "being_example_he-thinks-he-saw-magical-beings",
+                "text": "He thinks he saw magical beings."
+            },
+            {
+                "code": "being_example_do-you-believe-in-a-supreme-being",
+                "text": "Do you believe in a supreme being?"
+            },
+            {
+                "code": "being_example_we-are-studying-how-humans-were-brought-into-being",
+                "text": "We are studying how humans were brought into being."
+            }
+        ]
+    }
+]

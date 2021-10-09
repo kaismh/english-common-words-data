@@ -1,0 +1,48 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to get better after an illness or a difficult situation; to get something back that was lost or stolen",
+        "examples": [
+            {
+                "code": "recover_example_he-recovered-his-confidence",
+                "text": "He recovered his confidence."
+            },
+            {
+                "code": "recover_example_the-economy-is-finally-recovering",
+                "text": "The economy is finally recovering."
+            },
+            {
+                "code": "recover_example_the-acrobat-recovered-her-balance",
+                "text": "The acrobat recovered her balance."
+            },
+            {
+                "code": "recover_example_he-was-able-to-recover-his-losses",
+                "text": "He was able to recover his losses."
+            },
+            {
+                "code": "recover_example_she-fully-recovered-from-her-illness",
+                "text": "She fully recovered from her illness."
+            },
+            {
+                "code": "recover_example_they-are-recovering-well-after-being-lost-in-the-cold-overnight",
+                "text": "They are recovering well after being lost in the cold overnight."
+            },
+            {
+                "code": "recover_example_i-eventually-recovered-from-the-loss",
+                "text": "I eventually recovered from the loss."
+            },
+            {
+                "code": "recover_example_he-is-recovering-from-the-operation-slowly",
+                "text": "He is recovering from the operation slowly."
+            },
+            {
+                "code": "recover_example_they-never-recovered-their-stolen-items",
+                "text": "They never recovered their stolen items."
+            },
+            {
+                "code": "recover_example_she-is-recovering-from-the-accident-slowly",
+                "text": "She is recovering from the accident slowly."
+            }
+        ]
+    }
+]

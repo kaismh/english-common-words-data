@@ -1,0 +1,54 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a number of people or things in a line",
+        "examples": [
+            {
+                "code": "row_example_i-sat-in-the-back-row",
+                "text": "I sat in the back row."
+            },
+            {
+                "code": "row_example_my-daughter-is-standing-on-the-bottom-row",
+                "text": "My daughter is standing on the bottom row."
+            },
+            {
+                "code": "row_example_there-is-an-endless-row-of-trees-on-this-street",
+                "text": "There is an endless row of trees on this street."
+            },
+            {
+                "code": "row_example_they-are-sitting-in-a-row",
+                "text": "They are sitting in a row."
+            },
+            {
+                "code": "row_example_look-at-the-row-of-ducklings",
+                "text": "Look at the row of ducklings."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to paddle a boat",
+        "examples": [
+            {
+                "code": "row_example_he-rowed-the-boat-to-shore",
+                "text": "He rowed the boat to shore."
+            },
+            {
+                "code": "row_example_we-need-two-people-to-row-the-canoe",
+                "text": "We need two people to row the canoe."
+            },
+            {
+                "code": "row_example_we-rowed-the-boat-to-shore",
+                "text": "We rowed the boat to shore."
+            },
+            {
+                "code": "row_example_we-rowed-down-the-river",
+                "text": "We rowed down the river."
+            },
+            {
+                "code": "row_example_i-am-rowing-for-our-team",
+                "text": "I am rowing for our team."
+            }
+        ]
+    }
+]

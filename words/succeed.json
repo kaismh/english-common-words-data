@@ -1,0 +1,48 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to achieve what you've been wanting to do; to take over someone's position",
+        "examples": [
+            {
+                "code": "succeed_example_we-feel-that-we-have-truly-succeeded-our-goal",
+                "text": "We feel that we have truly succeeded our goal."
+            },
+            {
+                "code": "succeed_example_this-approach-has-rarely-succeeded-in-the-past",
+                "text": "This approach has rarely succeeded in the past."
+            },
+            {
+                "code": "succeed_example_their-plan-finally-succeeded-after-two-years",
+                "text": "Their plan finally succeeded after two years."
+            },
+            {
+                "code": "succeed_example_as-a-child-there-was-pressure-on-me-to-succeed-academically",
+                "text": "As a child there was pressure on me to succeed academically."
+            },
+            {
+                "code": "succeed_example_he-wants-to-succeed-in-everything-he-does",
+                "text": "He wants to succeed in everything he does."
+            },
+            {
+                "code": "succeed_example_she-was-appointed-to-succeed-him-as-the-director",
+                "text": "She was appointed to succeed him as the director."
+            },
+            {
+                "code": "succeed_example_he-succeeded-against-strong-competition",
+                "text": "He succeeded against strong competition."
+            },
+            {
+                "code": "succeed_example_how-can-i-succeed-at-my-job",
+                "text": "How can I succeed at my job?"
+            },
+            {
+                "code": "succeed_example_my-father-and-i-succeeded-in-fixing-the-car",
+                "text": "My father and I succeeded in fixing the car."
+            },
+            {
+                "code": "succeed_example_he-was-expected-to-succeed-her-as-mayor",
+                "text": "He was expected to succeed her as mayor."
+            }
+        ]
+    }
+]

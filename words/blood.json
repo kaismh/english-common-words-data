@@ -1,0 +1,92 @@
+[
+    {
+        "type": "(n)",
+        "mean": "red liquid that flows through the bodies of humans and animals; family history",
+        "examples": [
+            {
+                "code": "blood_example_her-blood-was-still-warm",
+                "text": "Her blood was still warm."
+            },
+            {
+                "code": "blood_example_his-blood-was-already-cold",
+                "text": "His blood was already cold."
+            },
+            {
+                "code": "blood_example_this-shirt-is-covered-with-fresh-blood",
+                "text": "This shirt is covered with fresh blood."
+            },
+            {
+                "code": "blood_example_i-have-scottish-blood",
+                "text": "I have Scottish blood."
+            },
+            {
+                "code": "blood_example_is-that-animal-blood",
+                "text": "Is that animal blood?"
+            },
+            {
+                "code": "blood_example_she-is-losing-too-much-blood",
+                "text": "She is losing too much blood."
+            },
+            {
+                "code": "blood_example_he-wants-to-donate-his-blood",
+                "text": "He wants to donate his blood."
+            },
+            {
+                "code": "blood_example_the-heart-pumps-blood-through-the-body",
+                "text": "The heart pumps blood through the body."
+            },
+            {
+                "code": "blood_example_doctors-collected-various-blood-samples",
+                "text": "Doctors collected various blood samples."
+            },
+            {
+                "code": "blood_example_blood-was-dripping-down-his-arm",
+                "text": "Blood was dripping down his arm."
+            },
+            {
+                "code": "blood_example_the-blood-splattered-all-over-the-walls",
+                "text": "The blood splattered all over the walls."
+            },
+            {
+                "code": "blood_example_she-wiped-the-blood-from-her-nose",
+                "text": "She wiped the blood from her nose."
+            },
+            {
+                "code": "blood_example_i-have-to-clean-up-the-pool-of-blood",
+                "text": "I have to clean up the pool of blood."
+            },
+            {
+                "code": "blood_example_she-s-looking-at-blood-cells-in-a-microscope",
+                "text": "She's looking at blood cells in a microscope."
+            },
+            {
+                "code": "blood_example_what-is-your-blood-type",
+                "text": "What is your blood type?"
+            },
+            {
+                "code": "blood_example_we-need-to-have-a-blood-test",
+                "text": "We need to have a blood test."
+            },
+            {
+                "code": "blood_example_they-re-going-to-a-blood-bank",
+                "text": "They're going to a blood bank."
+            },
+            {
+                "code": "blood_example_i-hope-she-doesn-t-have-a-blood-disease",
+                "text": "I hope she doesn't have a blood disease."
+            },
+            {
+                "code": "blood_example_he-has-blood-poisoning",
+                "text": "He has blood poisoning."
+            },
+            {
+                "code": "blood_example_the-doctor-is-going-to-check-my-blood-sugar",
+                "text": "The doctor is going to check my blood sugar."
+            },
+            {
+                "code": "blood_example_she-needs-a-blood-transfusion",
+                "text": "She needs a blood transfusion."
+            }
+        ]
+    }
+]

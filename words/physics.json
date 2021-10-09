@@ -1,0 +1,28 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the science of energy and matter",
+        "examples": [
+            {
+                "code": "physics_example_i-don-t-like-my-physics-class",
+                "text": "I don't like my physics class."
+            },
+            {
+                "code": "physics_example_the-laws-of-physics-are-unchanging",
+                "text": "The laws of physics are unchanging."
+            },
+            {
+                "code": "physics_example_he-is-studying-experimental-physics",
+                "text": "He is studying experimental physics."
+            },
+            {
+                "code": "physics_example_we-use-physics-in-our-everyday-lives",
+                "text": "We use physics in our everyday lives."
+            },
+            {
+                "code": "physics_example_i-am-studying-physics-in-college",
+                "text": "I am studying physics in college."
+            }
+        ]
+    }
+]

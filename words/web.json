@@ -1,0 +1,72 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a net made by a spider to catch insects; something put together in a complicated way; short form for World Wide Web",
+        "examples": [
+            {
+                "code": "web_example_the-fly-is-trapped-in-the-spider-web",
+                "text": "The fly is trapped in the spider web."
+            },
+            {
+                "code": "web_example_what-a-complicated-web-of-lies-he-has-created",
+                "text": "What a complicated web of lies he has created."
+            },
+            {
+                "code": "web_example_the-fly-is-trapped-in-the-spider-web",
+                "text": "The fly is trapped in the spider web."
+            },
+            {
+                "code": "web_example_the-spider-spins-its-web",
+                "text": "The spider spins its web."
+            },
+            {
+                "code": "web_example_the-city-built-a-web-of-residential-streets",
+                "text": "The city built a web of residential streets."
+            },
+            {
+                "code": "web_example_she-surfs-the-web-all-day",
+                "text": "She surfs the Web all day."
+            },
+            {
+                "code": "web_example_we-can-t-access-the-web",
+                "text": "We can't access the Web."
+            },
+            {
+                "code": "web_example_have-you-visited-her-web-page",
+                "text": "Have you visited her Web page?"
+            },
+            {
+                "code": "web_example_do-you-have-the-web-address",
+                "text": "Do you have the Web address?"
+            },
+            {
+                "code": "web_example_the-web-browser-is-slow",
+                "text": "The Web browser is slow."
+            },
+            {
+                "code": "web_example_he-works-in-web-design",
+                "text": "He works in Web design."
+            },
+            {
+                "code": "web_example_she-is-a-web-designer",
+                "text": "She is a Web designer."
+            },
+            {
+                "code": "web_example_we-don-t-have-web-access-here",
+                "text": "We don't have Web access here."
+            },
+            {
+                "code": "web_example_we-did-a-web-search-on-the-company",
+                "text": "We did a Web search on the company."
+            },
+            {
+                "code": "web_example_she-walked-into-the-spider-web",
+                "text": "She walked into the spider web."
+            },
+            {
+                "code": "web_example_i-found-this-on-the-web",
+                "text": "I found this on the Web."
+            }
+        ]
+    }
+]

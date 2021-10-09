@@ -1,0 +1,40 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to go to someone or something for information; to mention someone or something; to send someone to someone else for further information or help",
+        "examples": [
+            {
+                "code": "refer_example_he-referred-his-patient-to-a-specialist",
+                "text": "He referred his patient to a specialist."
+            },
+            {
+                "code": "refer_example_she-was-referred-to-a-specialist",
+                "text": "She was referred to a specialist."
+            },
+            {
+                "code": "refer_example_he-usually-refers-to-the-textbook-for-more-information",
+                "text": "He usually refers to the textbook for more information."
+            },
+            {
+                "code": "refer_example_he-never-refers-to-his-girlfriend-as-his-fiancee",
+                "text": "He never refers to his girlfriend as his fiancée."
+            },
+            {
+                "code": "refer_example_this-tree-is-commonly-referred-to-as-a-poplar-tree",
+                "text": "This tree is commonly referred to as a poplar tree."
+            },
+            {
+                "code": "refer_example_she-jokingly-refers-to-me-as-her-little-sister",
+                "text": "She jokingly refers to me as her little sister."
+            },
+            {
+                "code": "refer_example_he-directly-referred-to-him-as-an-awful-person",
+                "text": "He directly referred to him as an awful person."
+            },
+            {
+                "code": "refer_example_she-referred-to-him-as-the-funny-uncle",
+                "text": "She referred to him as the funny uncle."
+            }
+        ]
+    }
+]

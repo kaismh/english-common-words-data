@@ -1,0 +1,48 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the act of carrying people or things from one place to another",
+        "examples": [
+            {
+                "code": "transportation_example_there-is-public-transportation-available-throughout-the-city",
+                "text": "There is public transportation available throughout the city."
+            },
+            {
+                "code": "transportation_example_it-s-hard-to-find-reliable-transportation-these-days",
+                "text": "It's hard to find reliable transportation these days."
+            },
+            {
+                "code": "transportation_example_the-movie-star-requested-private-transportation-to-the-theater",
+                "text": "The movie star requested private transportation to the theater."
+            },
+            {
+                "code": "transportation_example_anyone-can-take-public-transportation",
+                "text": "Anyone can take public transportation."
+            },
+            {
+                "code": "transportation_example_we-will-arrange-transportation-to-the-airport",
+                "text": "We will arrange transportation to the airport."
+            },
+            {
+                "code": "transportation_example_the-travel-package-provides-transportation-too",
+                "text": "The travel package provides transportation, too."
+            },
+            {
+                "code": "transportation_example_the-transportation-department-is-planning-to-build-more-streets",
+                "text": "The transportation department is planning to build more streets."
+            },
+            {
+                "code": "transportation_example_the-transportation-system-needs-updating",
+                "text": "The transportation system needs updating."
+            },
+            {
+                "code": "transportation_example_the-city-needs-to-improve-transportation-services",
+                "text": "The city needs to improve transportation services."
+            },
+            {
+                "code": "transportation_example_without-adequate-transportation-we-would-have-to-walk-everywhere",
+                "text": "Without adequate transportation, we would have to walk everywhere."
+            }
+        ]
+    }
+]

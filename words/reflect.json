@@ -1,0 +1,64 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to show an image on a mirror, water, or shiny surface; to send back light or sound; to think about something; to show or express",
+        "examples": [
+            {
+                "code": "reflect_example_sound-reflects-off-of-surfaces",
+                "text": "Sound reflects off of surfaces."
+            },
+            {
+                "code": "reflect_example_the-sun-reflected-off-the-water",
+                "text": "The sun reflected off the water."
+            },
+            {
+                "code": "reflect_example_the-mirror-reflected-her-face",
+                "text": "The mirror reflected her face."
+            },
+            {
+                "code": "reflect_example_my-writing-reflects-my-thoughts",
+                "text": "My writing reflects my thoughts."
+            },
+            {
+                "code": "reflect_example_the-light-reflected-directly-off-the-windows",
+                "text": "The light reflected directly off the windows."
+            },
+            {
+                "code": "reflect_example_the-glass-clearly-reflected-our-faces",
+                "text": "The glass clearly reflected our faces."
+            },
+            {
+                "code": "reflect_example_i-think-this-reflected-poorly-on-me",
+                "text": "I think this reflected poorly on me."
+            },
+            {
+                "code": "reflect_example_her-comments-clearly-reflected-her-political-views",
+                "text": "Her comments clearly reflected her political views."
+            },
+            {
+                "code": "reflect_example_this-survey-accurately-reflects-people-s-views-on-the-president",
+                "text": "This survey accurately reflects people's views on the president."
+            },
+            {
+                "code": "reflect_example_his-actions-reflected-well-on-him",
+                "text": "His actions reflected well on him."
+            },
+            {
+                "code": "reflect_example_the-light-reflected-off-the-window",
+                "text": "The light reflected off the window."
+            },
+            {
+                "code": "reflect_example_the-light-was-reflected-from-the-glass",
+                "text": "The light was reflected from the glass."
+            },
+            {
+                "code": "reflect_example_her-style-is-reflected-in-her-clothes",
+                "text": "Her style is reflected in her clothes."
+            },
+            {
+                "code": "reflect_example_i-reflected-on-my-past",
+                "text": "I reflected on my past."
+            }
+        ]
+    }
+]

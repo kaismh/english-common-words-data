@@ -1,0 +1,94 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to go to see people or places",
+        "examples": [
+            {
+                "code": "visit_example_they-visit-their-parents-regularly",
+                "text": "They visit their parents regularly."
+            },
+            {
+                "code": "visit_example_we-rarely-visit-our-relatives",
+                "text": "We rarely visit our relatives."
+            },
+            {
+                "code": "visit_example_the-president-personally-visited-the-sick-child",
+                "text": "The president personally visited the sick child."
+            },
+            {
+                "code": "visit_example_i-plan-to-visit-my-sister-next-month",
+                "text": "I plan to visit my sister next month."
+            },
+            {
+                "code": "visit_example_we-want-to-visit-that-country-sometime",
+                "text": "We want to visit that country sometime."
+            },
+            {
+                "code": "visit_example_have-you-visited-the-local-library",
+                "text": "Have you visited the local library?"
+            }
+        ]
+    },
+    {
+        "type": "(n)",
+        "mean": "an occasion when someone goes to see someone or goes to a place for a period of time",
+        "examples": [
+            {
+                "code": "visit_example_we-had-a-short-visit-with-our-cousins",
+                "text": "We had a short visit with our cousins."
+            },
+            {
+                "code": "visit_example_i-am-looking-forward-to-a-long-visit-with-my-family-during-the-holidays",
+                "text": "I am looking forward to a long visit with my family during the holidays."
+            },
+            {
+                "code": "visit_example_i-received-an-unexpected-visit-from-my-in-laws",
+                "text": "I received an unexpected visit from my in-laws."
+            },
+            {
+                "code": "visit_example_my-grandfather-receives-a-weekly-visit-from-his-nurse",
+                "text": "My grandfather receives a weekly visit from his nurse."
+            },
+            {
+                "code": "visit_example_she-enjoys-regular-visits-from-her-grandchildren",
+                "text": "She enjoys regular visits from her grandchildren."
+            },
+            {
+                "code": "visit_example_we-should-make-a-visit-to-our-parents",
+                "text": "We should make a visit to our parents."
+            },
+            {
+                "code": "visit_example_i-receive-visits-from-my-children-all-the-time",
+                "text": "I receive visits from my children all the time."
+            },
+            {
+                "code": "visit_example_they-look-forward-to-visits-from-their-grandchildren",
+                "text": "They look forward to visits from their grandchildren."
+            },
+            {
+                "code": "visit_example_let-s-arrange-a-visit-to-our-home-town",
+                "text": "Let's arrange a visit to our home town."
+            },
+            {
+                "code": "visit_example_we-had-to-cancel-our-visit-to-europe",
+                "text": "We had to cancel our visit to Europe."
+            },
+            {
+                "code": "visit_example_we-received-a-visit-from-our-friends",
+                "text": "We received a visit from our friends."
+            },
+            {
+                "code": "visit_example_i-planned-a-visit-to-my-old-college",
+                "text": "I planned a visit to my old college."
+            },
+            {
+                "code": "visit_example_he-often-thinks-about-the-visits-with-his-late-grandfather",
+                "text": "He often thinks about the visits with his late grandfather."
+            },
+            {
+                "code": "visit_example_they-got-into-a-big-fight-during-the-visit",
+                "text": "They got into a big fight during the visit."
+            }
+        ]
+    }
+]

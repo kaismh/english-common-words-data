@@ -1,0 +1,250 @@
+[
+    {
+        "type": "(n)",
+        "mean": "body part on the face used for seeing; a way of seeing",
+        "examples": [
+            {
+                "code": "eye_example_he-has-a-fake-left-eye",
+                "text": "He has a fake left eye."
+            },
+            {
+                "code": "eye_example_both-girls-have-blue-eyes",
+                "text": "Both girls have blue eyes."
+            },
+            {
+                "code": "eye_example_that-fish-has-huge-eyes",
+                "text": "That fish has huge eyes."
+            },
+            {
+                "code": "eye_example_they-had-wide-eyes-from-fear",
+                "text": "They had wide eyes from fear."
+            },
+            {
+                "code": "eye_example_she-described-him-as-having-beady-eyes",
+                "text": "She described him as having beady eyes."
+            },
+            {
+                "code": "eye_example_she-had-puffy-eyes-from-crying",
+                "text": "She had puffy eyes from crying."
+            },
+            {
+                "code": "eye_example_her-warm-eyes-made-him-feel-comfortable",
+                "text": "Her warm eyes made him feel comfortable."
+            },
+            {
+                "code": "eye_example_she-looked-at-me-with-teary-eyes",
+                "text": "She looked at me with teary eyes."
+            },
+            {
+                "code": "eye_example_allergies-give-him-watery-eyes",
+                "text": "Allergies give him watery eyes."
+            },
+            {
+                "code": "eye_example_there-wasn-t-a-dry-eye-in-the-room-during-the-movie",
+                "text": "There wasn't a dry eye in the room during the movie."
+            },
+            {
+                "code": "eye_example_the-villain-has-wild-eyes",
+                "text": "The villain has wild eyes."
+            },
+            {
+                "code": "eye_example_he-looked-at-my-plate-with-hungry-eyes",
+                "text": "He looked at my plate with hungry eyes."
+            },
+            {
+                "code": "eye_example_despite-his-age-he-still-has-sharp-eyes",
+                "text": "Despite his age, he still has sharp eyes."
+            },
+            {
+                "code": "eye_example_her-sad-eyes-told-him-something-was-wrong",
+                "text": "Her sad eyes told him something was wrong."
+            },
+            {
+                "code": "eye_example_the-killer-looked-at-him-with-cold-eyes",
+                "text": "The killer looked at him with cold eyes."
+            },
+            {
+                "code": "eye_example_their-sharp-eyes-spotted-the-distress-signal",
+                "text": "Their sharp eyes spotted the distress signal."
+            },
+            {
+                "code": "eye_example_this-might-look-easy-to-the-untrained-eye",
+                "text": "This might look easy to the untrained eye."
+            },
+            {
+                "code": "eye_example_i-need-someone-with-an-artistic-eye-to-look-at-this",
+                "text": "I need someone with an artistic eye to look at this."
+            },
+            {
+                "code": "eye_example_finally-she-opened-her-eyes",
+                "text": "Finally she opened her eyes."
+            },
+            {
+                "code": "eye_example_he-blinked-his-eyes-rapidly",
+                "text": "He blinked his eyes rapidly."
+            },
+            {
+                "code": "eye_example_they-averted-their-eyes-from-the-horrible-sight",
+                "text": "They averted their eyes from the horrible sight."
+            },
+            {
+                "code": "eye_example_she-raised-her-eyes-to-meet-his-face",
+                "text": "She raised her eyes to meet his face."
+            },
+            {
+                "code": "eye_example_he-lowered-his-eyes-to-hide-the-tears",
+                "text": "He lowered his eyes to hide the tears."
+            },
+            {
+                "code": "eye_example_he-shaded-his-eyes-against-the-glare",
+                "text": "He shaded his eyes against the glare."
+            },
+            {
+                "code": "eye_example_she-rolled-her-eyes-at-his-suggestion",
+                "text": "She rolled her eyes at his suggestion."
+            },
+            {
+                "code": "eye_example_they-wore-goggles-in-the-lab-to-protect-their-eyes",
+                "text": "They wore goggles in the lab to protect their eyes."
+            },
+            {
+                "code": "eye_example_the-doctor-tested-her-eyes",
+                "text": "The doctor tested her eyes."
+            },
+            {
+                "code": "eye_example_she-woke-up-and-rubbed-her-eyes",
+                "text": "She woke up and rubbed her eyes."
+            },
+            {
+                "code": "eye_example_something-in-the-distance-caught-my-eye",
+                "text": "Something in the distance caught my eye."
+            },
+            {
+                "code": "eye_example_he-looked-into-her-eyes",
+                "text": "He looked into her eyes."
+            },
+            {
+                "code": "eye_example_her-eyes-widened-with-shock",
+                "text": "Her eyes widened with shock."
+            },
+            {
+                "code": "eye_example_my-eyes-always-water-when-i-eat-spicy-food",
+                "text": "My eyes always water when I eat spicy food."
+            },
+            {
+                "code": "eye_example_their-eyes-glowed-with-excitement",
+                "text": "Their eyes glowed with excitement."
+            },
+            {
+                "code": "eye_example_his-eyes-twinkled-in-the-nightlight",
+                "text": "His eyes twinkled in the nightlight."
+            },
+            {
+                "code": "eye_example_his-eyes-hardened-at-the-sound-of-her-voice",
+                "text": "His eyes hardened at the sound of her voice."
+            },
+            {
+                "code": "eye_example_her-eyes-burned-from-the-smoke",
+                "text": "Her eyes burned from the smoke."
+            },
+            {
+                "code": "eye_example_their-eyes-gazed-at-me-intensely",
+                "text": "Their eyes gazed at me intensely."
+            },
+            {
+                "code": "eye_example_she-fixed-her-eyes-on-the-book-and-tried-to-study",
+                "text": "She fixed her eyes on the book and tried to study."
+            },
+            {
+                "code": "eye_example_her-eyes-glanced-around-the-room-trying-to-find-someone-she-knew",
+                "text": "Her eyes glanced around the room trying to find someone she knew."
+            },
+            {
+                "code": "eye_example_her-eyes-adjusted-to-the-darkness-and-she-found-the-door",
+                "text": "Her eyes adjusted to the darkness and she found the door."
+            },
+            {
+                "code": "eye_example_his-eyes-strained-to-find-the-doorknob-in-the-darkness",
+                "text": "His eyes strained to find the doorknob in the darkness."
+            },
+            {
+                "code": "eye_example_she-squinted-her-eyes-in-the-sun",
+                "text": "She squinted her eyes in the sun."
+            },
+            {
+                "code": "eye_example_her-eyes-showed-her-true-feelings",
+                "text": "Her eyes showed her true feelings."
+            },
+            {
+                "code": "eye_example_their-eyes-examined-the-scene",
+                "text": "Their eyes examined the scene."
+            },
+            {
+                "code": "eye_example_his-eye-muscles-keep-twitching",
+                "text": "His eye muscles keep twitching."
+            },
+            {
+                "code": "eye_example_he-avoided-making-eye-contact",
+                "text": "He avoided making eye contact."
+            },
+            {
+                "code": "eye_example_she-will-see-an-eye-doctor-about-the-problem",
+                "text": "She will see an eye doctor about the problem."
+            },
+            {
+                "code": "eye_example_he-had-an-eye-exam-before-buying-new-glasses",
+                "text": "He had an eye exam before buying new glasses."
+            },
+            {
+                "code": "eye_example_he-has-a-serious-eye-injury",
+                "text": "He has a serious eye injury."
+            },
+            {
+                "code": "eye_example_she-wears-glasses-to-help-avoid-eye-strain",
+                "text": "She wears glasses to help avoid eye strain."
+            },
+            {
+                "code": "eye_example_this-task-requires-eye-protection",
+                "text": "This task requires eye protection."
+            },
+            {
+                "code": "eye_example_she-wears-a-lot-of-eye-make-up",
+                "text": "She wears a lot of eye make-up."
+            },
+            {
+                "code": "eye_example_i-put-the-note-at-eye-level-so-he-d-see-it",
+                "text": "I put the note at eye level so he'd see it."
+            },
+            {
+                "code": "eye_example_she-has-a-good-eye-for-detail",
+                "text": "She has a good eye for detail."
+            },
+            {
+                "code": "eye_example_she-tries-to-view-the-lesson-through-the-students-eyes",
+                "text": "She tries to view the lesson through the students' eyes."
+            },
+            {
+                "code": "eye_example_in-their-eyes-he-s-always-right",
+                "text": "In their eyes, he's always right."
+            },
+            {
+                "code": "eye_example_she-looked-over-the-plan-with-a-critical-eye",
+                "text": "She looked over the plan with a critical eye."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to see, view or watch",
+        "examples": [
+            {
+                "code": "eye_example_he-curiously-eyes-the-materials",
+                "text": "He curiously eyes the materials."
+            },
+            {
+                "code": "eye_example_the-policeman-carefully-eyed-the-evidence",
+                "text": "The policeman carefully eyed the evidence."
+            }
+        ]
+    }
+]

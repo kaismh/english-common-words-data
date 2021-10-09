@@ -1,0 +1,186 @@
+[
+    {
+        "type": "(n)",
+        "mean": "something that is different; coin money; the money returned when too much is paid",
+        "examples": [
+            {
+                "code": "change_example_having-a-baby-is-a-big-change-in-my-life",
+                "text": "Having a baby is a big change in my life."
+            },
+            {
+                "code": "change_example_the-company-plans-to-make-dramatic-changes",
+                "text": "The company plans to make dramatic changes."
+            },
+            {
+                "code": "change_example_her-new-hair-style-is-a-significant-change-for-her",
+                "text": "Her new hair style is a significant change for her."
+            },
+            {
+                "code": "change_example_we-made-cosmetic-changes-to-our-house",
+                "text": "We made cosmetic changes to our house."
+            },
+            {
+                "code": "change_example_the-government-is-hoping-for-lasting-changes-in-the-economy",
+                "text": "The government is hoping for lasting changes in the economy."
+            },
+            {
+                "code": "change_example_his-attitude-went-through-an-abrupt-change",
+                "text": "His attitude went through an abrupt change."
+            },
+            {
+                "code": "change_example_they-think-the-net-changes-have-been-positive",
+                "text": "They think the net changes have been positive."
+            },
+            {
+                "code": "change_example_the-office-is-hoping-for-beneficial-changes-with-the-new-manager",
+                "text": "The office is hoping for beneficial changes with the new manager."
+            },
+            {
+                "code": "change_example_my-grandfather-sees-this-as-an-unwelcome-change",
+                "text": "My grandfather sees this as an unwelcome change."
+            },
+            {
+                "code": "change_example_what-s-the-reason-for-the-unexpected-changes",
+                "text": "What's the reason for the unexpected changes?"
+            },
+            {
+                "code": "change_example_they-will-meet-to-discuss-climate-changes",
+                "text": "They will meet to discuss climate changes."
+            },
+            {
+                "code": "change_example_he-s-hoping-to-make-a-career-change",
+                "text": "He's hoping to make a career change."
+            },
+            {
+                "code": "change_example_the-man-asked-me-if-i-had-any-spare-change",
+                "text": "The man asked me if I had any spare change."
+            },
+            {
+                "code": "change_example_it-s-time-to-make-a-change",
+                "text": "It's time to make a change."
+            },
+            {
+                "code": "change_example_the-war-forced-a-change-in-policy",
+                "text": "The war forced a change in policy."
+            },
+            {
+                "code": "change_example_she-wants-to-prevent-any-changes",
+                "text": "She wants to prevent any changes."
+            },
+            {
+                "code": "change_example_has-the-city-undergone-much-change",
+                "text": "Has the city undergone much change?"
+            },
+            {
+                "code": "change_example_he-has-detected-a-change-in-his-wife-s-attitude",
+                "text": "He has detected a change in his wife's attitude."
+            },
+            {
+                "code": "change_example_changes-often-come-when-there-is-a-new-president",
+                "text": "Changes often come when there is a new president."
+            },
+            {
+                "code": "change_example_the-school-change-has-affected-her-performance",
+                "text": "The school change has affected her performance."
+            },
+            {
+                "code": "change_example_the-management-change-will-result-in-better-production",
+                "text": "The management change will result in better production."
+            },
+            {
+                "code": "change_example_you-should-always-check-your-change-before-leaving",
+                "text": "You should always check your change before leaving."
+            },
+            {
+                "code": "change_example_the-cashier-forgot-to-give-me-my-change",
+                "text": "The cashier forgot to give me my change."
+            },
+            {
+                "code": "change_example_she-let-the-waitress-keep-the-change",
+                "text": "She let the waitress keep the change."
+            },
+            {
+                "code": "change_example_i-think-this-change-is-for-the-better",
+                "text": "I think this change is for the better."
+            },
+            {
+                "code": "change_example_have-you-noticed-a-change-in-his-personality",
+                "text": "Have you noticed a change in his personality?"
+            },
+            {
+                "code": "change_example_hopefully-the-change-of-governor-will-help-the-city",
+                "text": "Hopefully, the change of governor will help the city."
+            },
+            {
+                "code": "change_example_did-you-make-a-change-to-your-appearance",
+                "text": "Did you make a change to your appearance?"
+            },
+            {
+                "code": "change_example_this-sports-car-is-a-change-from-your-regular-car",
+                "text": "This sports car is a change from your regular car."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to make something different; to become different",
+        "examples": [
+            {
+                "code": "change_example_the-weather-has-changed-dramatically",
+                "text": "The weather has changed dramatically."
+            },
+            {
+                "code": "change_example_the-law-will-drastically-change-the-way-people-do-business",
+                "text": "The law will drastically change the way people do business."
+            },
+            {
+                "code": "change_example_she-totally-changed-her-hairstyle",
+                "text": "She totally changed her hairstyle."
+            },
+            {
+                "code": "change_example_he-is-always-changing-his-mind",
+                "text": "He is always changing his mind."
+            },
+            {
+                "code": "change_example_life-has-changed-little-in-this-small-town",
+                "text": "Life has changed little in this small town."
+            },
+            {
+                "code": "change_example_he-is-gradually-changing-his-mind-about-school",
+                "text": "He is gradually changing his mind about school."
+            },
+            {
+                "code": "change_example_she-changed-from-a-singer-to-an-actress",
+                "text": "She changed from a singer to an actress."
+            },
+            {
+                "code": "change_example_would-you-like-to-change-to-that-table-by-the-window",
+                "text": "Would you like to change to that table by the window?"
+            },
+            {
+                "code": "change_example_let-me-change-out-of-this-dress",
+                "text": "Let me change out of this dress."
+            },
+            {
+                "code": "change_example_he-needs-to-change-his-attitude",
+                "text": "He needs to change his attitude."
+            },
+            {
+                "code": "change_example_it-s-time-to-change-the-battery-in-the-smoke-alarm",
+                "text": "It's time to change the battery in the smoke alarm."
+            },
+            {
+                "code": "change_example_i-m-thinking-about-changing-careers",
+                "text": "I'm thinking about changing careers."
+            },
+            {
+                "code": "change_example_she-keeps-changing-her-mind",
+                "text": "She keeps changing her mind."
+            },
+            {
+                "code": "change_example_they-keep-changing-the-date",
+                "text": "They keep changing the date."
+            }
+        ]
+    }
+]

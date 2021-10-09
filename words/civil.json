@@ -1,0 +1,56 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "in a calm and polite manner; relating to the public, not military or religion",
+        "examples": [
+            {
+                "code": "civil_example_please-remain-civil-during-the-protest",
+                "text": "Please remain civil during the protest."
+            },
+            {
+                "code": "civil_example_after-the-election-the-people-became-civil",
+                "text": "After the election, the people became civil."
+            },
+            {
+                "code": "civil_example_the-discussion-between-the-two-rivals-was-extremely-civil",
+                "text": "The discussion between the two rivals was extremely civil."
+            },
+            {
+                "code": "civil_example_they-were-perfectly-civil-to-one-another",
+                "text": "They were perfectly civil to one another."
+            },
+            {
+                "code": "civil_example_after-her-accident-she-took-civil-action",
+                "text": "After her accident, she took civil action."
+            },
+            {
+                "code": "civil_example_our-wedding-was-a-civil-ceremony",
+                "text": "Our wedding was a civil ceremony."
+            },
+            {
+                "code": "civil_example_i-m-filing-a-civil-claim",
+                "text": "I'm filing a civil claim."
+            },
+            {
+                "code": "civil_example_he-s-a-civil-servant",
+                "text": "He's a civil servant."
+            },
+            {
+                "code": "civil_example_they-want-to-protect-their-civil-liberties",
+                "text": "They want to protect their civil liberties."
+            },
+            {
+                "code": "civil_example_we-want-to-avoid-civil-war",
+                "text": "We want to avoid civil war."
+            },
+            {
+                "code": "civil_example_the-protestors-were-civil-during-the-march",
+                "text": "The protestors were civil during the march."
+            },
+            {
+                "code": "civil_example_the-rivals-were-civil-to-one-another",
+                "text": "The rivals were civil to one another."
+            }
+        ]
+    }
+]

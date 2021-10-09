@@ -1,0 +1,92 @@
+[
+    {
+        "type": "(n)",
+        "mean": "someone who pays money for products or services",
+        "examples": [
+            {
+                "code": "customer_example_she-is-a-big-customer",
+                "text": "She is a big customer."
+            },
+            {
+                "code": "customer_example_we-respect-our-long-standing-customers",
+                "text": "We respect our long-standing customers."
+            },
+            {
+                "code": "customer_example_the-restroom-is-only-for-paying-customers",
+                "text": "The restroom is only for paying customers."
+            },
+            {
+                "code": "customer_example_the-clerk-tried-to-help-the-unhappy-customer",
+                "text": "The clerk tried to help the unhappy customer."
+            },
+            {
+                "code": "customer_example_we-want-happy-customers",
+                "text": "We want happy customers."
+            },
+            {
+                "code": "customer_example_we-have-many-domestic-customers",
+                "text": "We have many domestic customers."
+            },
+            {
+                "code": "customer_example_they-have-great-customers",
+                "text": "They have great customers."
+            },
+            {
+                "code": "customer_example_the-customer-service-department-deals-with-many-customers",
+                "text": "The customer service department deals with many customers."
+            },
+            {
+                "code": "customer_example_we-hope-the-sign-will-attract-new-customers",
+                "text": "We hope the sign will attract new customers."
+            },
+            {
+                "code": "customer_example_we-can-t-afford-to-lose-a-customer",
+                "text": "We can't afford to lose a customer."
+            },
+            {
+                "code": "customer_example_the-goal-is-to-keep-customers",
+                "text": "The goal is to keep customers."
+            },
+            {
+                "code": "customer_example_this-company-has-great-customer-care",
+                "text": "This company has great customer care."
+            },
+            {
+                "code": "customer_example_the-customer-agreement-explains-the-return-policy",
+                "text": "The customer agreement explains the return policy."
+            },
+            {
+                "code": "customer_example_what-are-the-customer-demands",
+                "text": "What are the customer demands?"
+            },
+            {
+                "code": "customer_example_we-want-customer-satisfaction",
+                "text": "We want customer satisfaction."
+            },
+            {
+                "code": "customer_example_her-job-is-to-handle-customer-complaints",
+                "text": "Her job is to handle customer complaints."
+            },
+            {
+                "code": "customer_example_customer-feedback-is-very-important",
+                "text": "Customer feedback is very important."
+            },
+            {
+                "code": "customer_example_please-contact-our-customer-hotline-with-questions",
+                "text": "Please contact our customer hotline with questions."
+            },
+            {
+                "code": "customer_example_i-completed-a-customer-survey",
+                "text": "I completed a customer survey."
+            },
+            {
+                "code": "customer_example_we-lost-our-customer-information",
+                "text": "We lost our customer information."
+            },
+            {
+                "code": "customer_example_we-need-to-increase-our-customer-base",
+                "text": "We need to increase our customer base."
+            }
+        ]
+    }
+]

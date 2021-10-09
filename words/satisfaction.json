@@ -1,0 +1,44 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a happy or pleased feeling",
+        "examples": [
+            {
+                "code": "satisfaction_example_the-company-gave-an-employee-satisfaction-survey",
+                "text": "The company gave an employee satisfaction survey."
+            },
+            {
+                "code": "satisfaction_example_she-gets-complete-satisfaction-from-helping-others",
+                "text": "She gets complete satisfaction from helping others."
+            },
+            {
+                "code": "satisfaction_example_bob-got-satisfaction-knowing-he-would-be-on-vacation-next-week",
+                "text": "Bob got satisfaction knowing he would be on vacation next week."
+            },
+            {
+                "code": "satisfaction_example_she-expressed-her-satisfaction-with-the-yard-work",
+                "text": "She expressed her satisfaction with the yard work."
+            },
+            {
+                "code": "satisfaction_example_the-company-has-a-good-satisfaction-rating",
+                "text": "The company has a good satisfaction rating."
+            },
+            {
+                "code": "satisfaction_example_i-had-the-satisfaction-of-meeting-the-boss",
+                "text": "I had the satisfaction of meeting the boss."
+            },
+            {
+                "code": "satisfaction_example_he-smiled-with-satisfaction",
+                "text": "He smiled with satisfaction."
+            },
+            {
+                "code": "satisfaction_example_the-work-was-done-to-our-satisfaction",
+                "text": "The work was done to our satisfaction."
+            },
+            {
+                "code": "satisfaction_example_she-finds-satisfaction-in-helping-others",
+                "text": "She finds satisfaction in helping others."
+            }
+        ]
+    }
+]

@@ -1,0 +1,202 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a neat arrangement; a request for food at a restaurant; a request for items to be delivered; a demand from authority or a judge",
+        "examples": [
+            {
+                "code": "order_example_she-gave-him-an-order",
+                "text": "She gave him an order."
+            },
+            {
+                "code": "order_example_the-waiter-took-our-order",
+                "text": "The waiter took our order."
+            },
+            {
+                "code": "order_example_i-have-an-order-from-the-boss",
+                "text": "I have an order from the boss."
+            },
+            {
+                "code": "order_example_the-dog-follows-his-owner-s-orders-well",
+                "text": "The dog follows his owner's orders well."
+            },
+            {
+                "code": "order_example_he-disobeyed-my-orders",
+                "text": "He disobeyed my orders."
+            },
+            {
+                "code": "order_example_the-police-tried-to-maintain-order",
+                "text": "The police tried to maintain order."
+            },
+            {
+                "code": "order_example_the-judge-issued-an-order",
+                "text": "The judge issued an order."
+            },
+            {
+                "code": "order_example_i-put-in-an-order-for-pizza",
+                "text": "I put in an order for pizza."
+            },
+            {
+                "code": "order_example_the-order-was-executed-yesterday",
+                "text": "The order was executed yesterday."
+            },
+            {
+                "code": "order_example_he-completed-my-order",
+                "text": "He completed my order."
+            },
+            {
+                "code": "order_example_the-food-is-made-to-order",
+                "text": "The food is made to order."
+            },
+            {
+                "code": "order_example_they-put-everything-in-order",
+                "text": "They put everything in order."
+            },
+            {
+                "code": "order_example_the-room-was-called-to-order",
+                "text": "The room was called to order."
+            },
+            {
+                "code": "order_example_she-is-a-short-order-cook",
+                "text": "She is a short order cook."
+            },
+            {
+                "code": "order_example_she-is-a-mail-order-bride",
+                "text": "She is a mail order bride."
+            },
+            {
+                "code": "order_example_i-want-a-side-order-of-fries",
+                "text": "I want a side order of fries."
+            },
+            {
+                "code": "order_example_the-shoes-i-want-are-on-back-order",
+                "text": "The shoes I want are on back order."
+            },
+            {
+                "code": "order_example_we-got-a-bulk-order-for-t-shirts",
+                "text": "We got a bulk order for T-shirts."
+            },
+            {
+                "code": "order_example_he-has-doctor-s-orders-to-stay-in-bed",
+                "text": "He has doctor's orders to stay in bed."
+            },
+            {
+                "code": "order_example_i-had-to-arrange-the-books-in-the-right-order",
+                "text": "I had to arrange the books in the right order."
+            },
+            {
+                "code": "order_example_the-room-is-in-good-order",
+                "text": "The room is in good order."
+            },
+            {
+                "code": "order_example_we-all-stood-in-ascending-order",
+                "text": "We all stood in ascending order."
+            },
+            {
+                "code": "order_example_he-has-standing-orders-from-his-commander",
+                "text": "He has standing orders from his commander."
+            },
+            {
+                "code": "order_example_the-papers-are-in-reverse-order",
+                "text": "The papers are in reverse order."
+            },
+            {
+                "code": "order_example_i-have-a-restraining-order-against-him",
+                "text": "I have a restraining order against him."
+            },
+            {
+                "code": "order_example_please-fill-out-an-order-form-online",
+                "text": "Please fill out an order form online."
+            },
+            {
+                "code": "order_example_the-books-are-in-alphabetical-order",
+                "text": "The books are in alphabetical order."
+            },
+            {
+                "code": "order_example_the-tapes-are-out-of-order",
+                "text": "The tapes are out of order."
+            },
+            {
+                "code": "order_example_the-dishes-are-placed-in-order-by-size",
+                "text": "The dishes are placed in order by size."
+            },
+            {
+                "code": "order_example_i-did-it-on-my-commander-s-orders",
+                "text": "I did it on my commander's orders."
+            },
+            {
+                "code": "order_example_i-was-under-orders-at-the-time",
+                "text": "I was under orders at the time."
+            },
+            {
+                "code": "order_example_i-placed-an-order-for-pizza",
+                "text": "I placed an order for pizza."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to request food at a restaurant; to request items for delivery; to tell someone what to do in a commanding way; to arrange in a particular way",
+        "examples": [
+            {
+                "code": "order_example_we-haven-t-ordered-any-food-yet",
+                "text": "We haven't ordered any food yet."
+            },
+            {
+                "code": "order_example_i-ordered-a-sandwich",
+                "text": "I ordered a sandwich."
+            },
+            {
+                "code": "order_example_they-ordered-a-ceasefire",
+                "text": "They ordered a ceasefire."
+            },
+            {
+                "code": "order_example_the-court-has-ordered-a-warrant-for-his-arrest",
+                "text": "The court has ordered a warrant for his arrest."
+            },
+            {
+                "code": "order_example_we-ordered-dinner-already",
+                "text": "We ordered dinner already."
+            },
+            {
+                "code": "order_example_i-ordered-direct-from-the-factory",
+                "text": "I ordered direct from the factory."
+            },
+            {
+                "code": "order_example_the-books-are-ordered-alphabetically",
+                "text": "The books are ordered alphabetically."
+            },
+            {
+                "code": "order_example_i-ordered-the-shoes-online",
+                "text": "I ordered the shoes online."
+            },
+            {
+                "code": "order_example_i-specifically-ordered-her-not-to-do-that",
+                "text": "I specifically ordered her not to do that."
+            },
+            {
+                "code": "order_example_he-keeps-ordering-me-around",
+                "text": "He keeps ordering me around."
+            },
+            {
+                "code": "order_example_i-ordered-out-tonight",
+                "text": "I ordered out tonight."
+            },
+            {
+                "code": "order_example_i-ordered-these-shoes-off-the-internet",
+                "text": "I ordered these shoes off the internet."
+            },
+            {
+                "code": "order_example_the-books-are-ordered-according-to-title",
+                "text": "The books are ordered according to title."
+            },
+            {
+                "code": "order_example_i-ordered-pizza-for-the-class",
+                "text": "I ordered pizza for the class."
+            },
+            {
+                "code": "order_example_she-ordered-him-out-of-the-room",
+                "text": "She ordered him out of the room."
+            }
+        ]
+    }
+]

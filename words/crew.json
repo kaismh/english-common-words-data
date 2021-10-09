@@ -1,0 +1,40 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a group of people who work together usually on a ship or plane",
+        "examples": [
+            {
+                "code": "crew_example_the-boat-was-operated-by-an-experienced-crew",
+                "text": "The boat was operated by an experienced crew."
+            },
+            {
+                "code": "crew_example_the-airline-crew-is-doing-repairs",
+                "text": "The airline crew is doing repairs."
+            },
+            {
+                "code": "crew_example_the-camera-crew-was-ready-for-filming",
+                "text": "The camera crew was ready for filming."
+            },
+            {
+                "code": "crew_example_the-ambulance-crew-will-save-them",
+                "text": "The ambulance crew will save them."
+            },
+            {
+                "code": "crew_example_we-asked-the-cleaning-crew-for-help",
+                "text": "We asked the cleaning crew for help."
+            },
+            {
+                "code": "crew_example_he-will-join-the-crew",
+                "text": "He will join the crew."
+            },
+            {
+                "code": "crew_example_each-crew-member-received-a-bonus",
+                "text": "Each crew member received a bonus."
+            },
+            {
+                "code": "crew_example_all-of-the-people-in-the-crew-helped-with-the-rescue",
+                "text": "All of the people in the crew helped with the rescue."
+            }
+        ]
+    }
+]

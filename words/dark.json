@@ -1,0 +1,66 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the lack of light",
+        "examples": [
+            {
+                "code": "dark_example_we-were-camping-in-the-pitch-dark",
+                "text": "We were camping in the pitch dark."
+            },
+            {
+                "code": "dark_example_the-boys-went-out-after-dark",
+                "text": "The boys went out after dark."
+            },
+            {
+                "code": "dark_example_it-s-hard-to-see-in-the-dark",
+                "text": "It's hard to see in the dark."
+            },
+            {
+                "code": "dark_example_he-is-afraid-of-the-dark",
+                "text": "He is afraid of the dark."
+            }
+        ]
+    },
+    {
+        "type": "(adj)",
+        "mean": "without light",
+        "examples": [
+            {
+                "code": "dark_example_it-is-dark-in-the-house",
+                "text": "It is dark in the house."
+            },
+            {
+                "code": "dark_example_the-sky-will-become-dark",
+                "text": "The sky will become dark."
+            },
+            {
+                "code": "dark_example_the-campsite-remained-dark",
+                "text": "The campsite remained dark."
+            },
+            {
+                "code": "dark_example_the-sky-is-extremely-dark",
+                "text": "The sky is extremely dark."
+            },
+            {
+                "code": "dark_example_the-water-is-fairly-dark",
+                "text": "The water is fairly dark."
+            },
+            {
+                "code": "dark_example_is-it-already-dark-outside",
+                "text": "Is it already dark outside?"
+            },
+            {
+                "code": "dark_example_she-was-afraid-to-go-into-the-dark-alley",
+                "text": "She was afraid to go into the dark alley."
+            },
+            {
+                "code": "dark_example_he-saw-a-dark-shadow",
+                "text": "He saw a dark shadow."
+            },
+            {
+                "code": "dark_example_the-painting-has-a-dark-background",
+                "text": "The painting has a dark background."
+            }
+        ]
+    }
+]

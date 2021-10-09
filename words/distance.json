@@ -1,0 +1,92 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the amount of space between two places",
+        "examples": [
+            {
+                "code": "distance_example_the-drive-is-a-considerable-distance",
+                "text": "The drive is a considerable distance."
+            },
+            {
+                "code": "distance_example_we-don-t-mind-going-a-fair-distance",
+                "text": "We don't mind going a fair distance."
+            },
+            {
+                "code": "distance_example_the-runner-must-run-a-certain-distance",
+                "text": "The runner must run a certain distance."
+            },
+            {
+                "code": "distance_example_can-you-run-the-average-distance",
+                "text": "Can you run the average distance?"
+            },
+            {
+                "code": "distance_example_try-to-calculate-the-correct-distance",
+                "text": "Try to calculate the correct distance."
+            },
+            {
+                "code": "distance_example_cars-should-keep-a-safe-distance",
+                "text": "Cars should keep a safe distance."
+            },
+            {
+                "code": "distance_example_we-could-see-the-house-in-the-far-distance",
+                "text": "We could see the house in the far distance."
+            },
+            {
+                "code": "distance_example_the-birds-will-cover-a-long-distance",
+                "text": "The birds will cover a long distance."
+            },
+            {
+                "code": "distance_example_i-like-to-drive-a-short-distance",
+                "text": "I like to drive a short distance."
+            },
+            {
+                "code": "distance_example_the-bridge-spans-a-considerable-distance",
+                "text": "The bridge spans a considerable distance."
+            },
+            {
+                "code": "distance_example_keep-your-distance",
+                "text": "Keep your distance."
+            },
+            {
+                "code": "distance_example_the-students-must-calculate-the-distance",
+                "text": "The students must calculate the distance."
+            },
+            {
+                "code": "distance_example_she-looked-off-into-the-distance",
+                "text": "She looked off into the distance."
+            },
+            {
+                "code": "distance_example_she-is-a-distance-runner",
+                "text": "She is a distance runner."
+            },
+            {
+                "code": "distance_example_do-you-like-distance-running",
+                "text": "Do you like distance running?"
+            },
+            {
+                "code": "distance_example_he-looks-tall-at-a-distance",
+                "text": "He looks tall at a distance."
+            },
+            {
+                "code": "distance_example_i-bought-a-house-within-a-short-distance-of-work",
+                "text": "I bought a house within a short distance of work."
+            },
+            {
+                "code": "distance_example_the-store-is-a-huge-distance-away-from-the-university",
+                "text": "The store is a huge distance away from the university."
+            },
+            {
+                "code": "distance_example_what-s-the-distance-between-downtown-and-your-house",
+                "text": "What's the distance between downtown and your house?"
+            },
+            {
+                "code": "distance_example_she-walks-a-short-distance-to-school",
+                "text": "She walks a short distance to school."
+            },
+            {
+                "code": "distance_example_i-could-see-them-in-the-distance",
+                "text": "I could see them in the distance."
+            }
+        ]
+    }
+]

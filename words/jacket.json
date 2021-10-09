@@ -1,0 +1,36 @@
+[
+    {
+        "type": "(n)",
+        "mean": "an outer piece of clothing for the upper body",
+        "examples": [
+            {
+                "code": "jacket_example_she-was-wearing-a-heavy-jacket",
+                "text": "She was wearing a heavy jacket."
+            },
+            {
+                "code": "jacket_example_he-looked-great-in-his-tailored-jacket",
+                "text": "He looked great in his tailored jacket."
+            },
+            {
+                "code": "jacket_example_you-need-to-wear-a-life-jacket-on-a-boat",
+                "text": "You need to wear a life jacket on a boat."
+            },
+            {
+                "code": "jacket_example_she-quickly-got-her-jacket-and-ran-out",
+                "text": "She quickly got her jacket and ran out."
+            },
+            {
+                "code": "jacket_example_he-unbuttoned-his-jacket-as-he-entered-the-house",
+                "text": "He unbuttoned his jacket as he entered the house."
+            },
+            {
+                "code": "jacket_example_she-told-her-son-to-zip-up-his-jacket",
+                "text": "She told her son to zip up his jacket."
+            },
+            {
+                "code": "jacket_example_he-keeps-his-wallet-in-his-jacket-pocket",
+                "text": "He keeps his wallet in his jacket pocket."
+            }
+        ]
+    }
+]

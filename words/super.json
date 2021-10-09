@@ -1,0 +1,48 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "very good, great, excellent",
+        "examples": [
+            {
+                "code": "super_example_she-is-a-super-woman",
+                "text": "She is a super woman."
+            },
+            {
+                "code": "super_example_you-did-a-super-job",
+                "text": "You did a super job!"
+            },
+            {
+                "code": "super_example_we-watch-the-super-bowl-every-year",
+                "text": "We watch the Super Bowl every year."
+            },
+            {
+                "code": "super_example_he-has-become-a-singing-superstar",
+                "text": "He has become a singing superstar."
+            },
+            {
+                "code": "super_example_he-did-a-super-job-with-the-remodel",
+                "text": "He did a super job with the remodel."
+            },
+            {
+                "code": "super_example_she-got-a-promotion-because-she-does-super-work",
+                "text": "She got a promotion because she does super work."
+            },
+            {
+                "code": "super_example_that-was-a-super-performance",
+                "text": "That was a super performance!"
+            },
+            {
+                "code": "super_example_i-ve-been-super-busy-these-days",
+                "text": "I've been super busy these days."
+            },
+            {
+                "code": "super_example_we-had-a-super-time-at-the-concert",
+                "text": "We had a super time at the concert."
+            },
+            {
+                "code": "super_example_you-are-married-to-a-super-woman",
+                "text": "You are married to a super woman."
+            }
+        ]
+    }
+]

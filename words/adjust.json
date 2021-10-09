@@ -1,0 +1,36 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to make a small change to something; to get used to something",
+        "examples": [
+            {
+                "code": "adjust_example_i-need-to-adjust-quickly-to-my-new-job",
+                "text": "I need to adjust quickly to my new job."
+            },
+            {
+                "code": "adjust_example_he-is-adjusting-slowly-to-the-new-city",
+                "text": "He is adjusting slowly to the new city."
+            },
+            {
+                "code": "adjust_example_she-carefully-adjusted-the-painting-on-the-wall",
+                "text": "She carefully adjusted the painting on the wall."
+            },
+            {
+                "code": "adjust_example_he-never-adjusted-to-his-new-life",
+                "text": "He never adjusted to his new life."
+            },
+            {
+                "code": "adjust_example_my-pets-can-easily-adjust-to-new-surroundings",
+                "text": "My pets can easily adjust to new surroundings."
+            },
+            {
+                "code": "adjust_example_i-am-always-adjusting-my-schedule-to-his-needs",
+                "text": "I am always adjusting my schedule to his needs."
+            },
+            {
+                "code": "adjust_example_she-will-adjust-to-being-a-new-mom-soon",
+                "text": "She will adjust to being a new mom soon."
+            }
+        ]
+    }
+]

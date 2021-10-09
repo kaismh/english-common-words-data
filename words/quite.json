@@ -1,0 +1,80 @@
+[
+    {
+        "type": "(adv)",
+        "mean": "completely; really",
+        "examples": [
+            {
+                "code": "quite_example_i-don-t-quite-understand-what-you-mean",
+                "text": "I don't quite understand what you mean."
+            },
+            {
+                "code": "quite_example_i-don-t-quite-agree-with-what-she-said",
+                "text": "I don't quite agree with what she said."
+            },
+            {
+                "code": "quite_example_i-don-t-quite-enjoy-musicals",
+                "text": "I don't quite enjoy musicals."
+            },
+            {
+                "code": "quite_example_i-didn-t-quite-forget-what-happened",
+                "text": "I didn't quite forget what happened."
+            },
+            {
+                "code": "quite_example_this-food-is-quite-unacceptable",
+                "text": "This food is quite unacceptable."
+            },
+            {
+                "code": "quite_example_the-situation-is-quite-absurd",
+                "text": "The situation is quite absurd."
+            },
+            {
+                "code": "quite_example_it-is-quite-apparent-to-me-that-you-are-wrong",
+                "text": "It is quite apparent to me that you are wrong."
+            },
+            {
+                "code": "quite_example_the-view-from-here-is-quite-breathtaking",
+                "text": "The view from here is quite breathtaking."
+            },
+            {
+                "code": "quite_example_it-is-quite-possible-that-we-will-leave-late",
+                "text": "It is quite possible that we will leave late."
+            },
+            {
+                "code": "quite_example_she-is-quite-happy-with-the-move",
+                "text": "She is quite happy with the move."
+            },
+            {
+                "code": "quite_example_this-town-is-quite-unique",
+                "text": "This town is quite unique."
+            },
+            {
+                "code": "quite_example_i-am-quite-okay-with-leaving-now",
+                "text": "I am quite okay with leaving now."
+            },
+            {
+                "code": "quite_example_she-is-feeling-quite-ill-today",
+                "text": "She is feeling quite ill today."
+            },
+            {
+                "code": "quite_example_this-gift-is-quite-unexpected",
+                "text": "This gift is quite unexpected."
+            },
+            {
+                "code": "quite_example_i-am-quite-sure-about-this",
+                "text": "I am quite sure about this."
+            },
+            {
+                "code": "quite_example_he-is-quite-willing-to-move",
+                "text": "He is quite willing to move."
+            },
+            {
+                "code": "quite_example_it-is-quite-understandable-that-you-should-think-that",
+                "text": "It is quite understandable that you should think that."
+            },
+            {
+                "code": "quite_example_he-is-really-quite-harmless",
+                "text": "He is really quite harmless."
+            }
+        ]
+    }
+]

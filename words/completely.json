@@ -1,0 +1,52 @@
+[
+    {
+        "type": "(adv)",
+        "mean": "to be done fully or all the way",
+        "examples": [
+            {
+                "code": "completely_example_the-children-were-completely-alone",
+                "text": "The children were completely alone."
+            },
+            {
+                "code": "completely_example_her-actions-were-completely-acceptable",
+                "text": "Her actions were completely acceptable."
+            },
+            {
+                "code": "completely_example_she-was-completely-shocked-by-the-news",
+                "text": "She was completely shocked by the news."
+            },
+            {
+                "code": "completely_example_she-is-completely-unhappy-with-the-situation",
+                "text": "She is completely unhappy with the situation."
+            },
+            {
+                "code": "completely_example_you-were-completely-right",
+                "text": "You were completely right!"
+            },
+            {
+                "code": "completely_example_she-completely-ignored-the-plan",
+                "text": "She completely ignored the plan."
+            },
+            {
+                "code": "completely_example_he-does-not-completely-agree-with-us",
+                "text": "He does not completely agree with us."
+            },
+            {
+                "code": "completely_example_i-will-completely-forget-it-if-i-do-not-write-it-down",
+                "text": "I will completely forget it if I do not write it down."
+            },
+            {
+                "code": "completely_example_i-will-completely-fail-the-test-if-i-do-not-study",
+                "text": "I will completely fail the test if I do not study."
+            },
+            {
+                "code": "completely_example_do-you-completely-understand-the-instructions",
+                "text": "Do you completely understand the instructions?"
+            },
+            {
+                "code": "completely_example_she-completely-missed-the-turn-off-of-the-freeway",
+                "text": "She completely missed the turn off of the freeway."
+            }
+        ]
+    }
+]

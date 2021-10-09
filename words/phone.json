@@ -1,0 +1,92 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a device that sends communication by voice or sound to someone who is somewhere else; also known as a telephone",
+        "examples": [
+            {
+                "code": "phone_example_please-grab-the-phone-for-me",
+                "text": "Please grab the phone for me."
+            },
+            {
+                "code": "phone_example_her-phone-is-ringing-again",
+                "text": "Her phone is ringing again."
+            },
+            {
+                "code": "phone_example_please-put-down-your-phone",
+                "text": "Please put down your phone."
+            },
+            {
+                "code": "phone_example_i-forgot-to-charge-my-phone-last-night",
+                "text": "I forgot to charge my phone last night."
+            },
+            {
+                "code": "phone_example_they-disconnected-my-phone",
+                "text": "They disconnected my phone."
+            },
+            {
+                "code": "phone_example_she-is-on-the-phone",
+                "text": "She is on the phone."
+            },
+            {
+                "code": "phone_example_she-is-waiting-by-the-phone",
+                "text": "She is waiting by the phone."
+            },
+            {
+                "code": "phone_example_call-my-phone-if-there-is-a-problem",
+                "text": "Call my phone if there is a problem."
+            },
+            {
+                "code": "phone_example_may-i-use-your-phone",
+                "text": "May I use your phone?"
+            },
+            {
+                "code": "phone_example_i-changed-my-phone-number",
+                "text": "I changed my phone number."
+            },
+            {
+                "code": "phone_example_he-made-a-quick-phone-call",
+                "text": "He made a quick phone call."
+            },
+            {
+                "code": "phone_example_she-plugged-in-her-phone-charger",
+                "text": "She plugged in her phone charger."
+            },
+            {
+                "code": "phone_example_my-phone-bill-is-higher-than-the-usual-this-month",
+                "text": "My phone bill is higher than the usual this month."
+            },
+            {
+                "code": "phone_example_the-phone-cord-is-not-long-enough",
+                "text": "The phone cord is not long enough."
+            },
+            {
+                "code": "phone_example_he-looked-up-her-number-in-the-phone-book",
+                "text": "He looked up her number in the phone book."
+            },
+            {
+                "code": "phone_example_she-called-from-a-phone-booth",
+                "text": "She called from a phone booth."
+            },
+            {
+                "code": "phone_example_i-got-a-new-cell-phone",
+                "text": "I got a new cell phone."
+            },
+            {
+                "code": "phone_example_she-called-me-from-a-pay-phone",
+                "text": "She called me from a pay phone."
+            },
+            {
+                "code": "phone_example_is-this-the-number-for-your-home-phone",
+                "text": "Is this the number for your home phone?"
+            },
+            {
+                "code": "phone_example_we-talked-on-the-phone-last-night",
+                "text": "We talked on the phone last night."
+            },
+            {
+                "code": "phone_example_i-can-be-contacted-by-phone",
+                "text": "I can be contacted by phone."
+            }
+        ]
+    }
+]

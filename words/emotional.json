@@ -1,0 +1,56 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "related to strong feelings",
+        "examples": [
+            {
+                "code": "emotional_example_she-was-emotional-after-watching-the-movie",
+                "text": "She was emotional after watching the movie."
+            },
+            {
+                "code": "emotional_example_he-became-very-emotional-during-the-funeral",
+                "text": "He became very emotional during the funeral."
+            },
+            {
+                "code": "emotional_example_sad-movies-make-her-emotional",
+                "text": "Sad movies make her emotional."
+            },
+            {
+                "code": "emotional_example_she-felt-extremely-emotional-after-her-dog-died",
+                "text": "She felt extremely emotional after her dog died."
+            },
+            {
+                "code": "emotional_example_he-gets-overly-emotional-during-football-games",
+                "text": "He gets overly emotional during football games."
+            },
+            {
+                "code": "emotional_example_a-wedding-can-be-a-highly-emotional-event",
+                "text": "A wedding can be a highly emotional event."
+            },
+            {
+                "code": "emotional_example_she-becomes-emotional-about-many-things",
+                "text": "She becomes emotional about many things."
+            },
+            {
+                "code": "emotional_example_she-felt-an-emotional-connection-immediately",
+                "text": "She felt an emotional connection immediately."
+            },
+            {
+                "code": "emotional_example_his-emotional-response-was-unexpected",
+                "text": "His emotional response was unexpected."
+            },
+            {
+                "code": "emotional_example_the-president-gave-an-emotional-speech-during-the-crisis",
+                "text": "The president gave an emotional speech during the crisis."
+            },
+            {
+                "code": "emotional_example_this-actress-has-good-emotional-depth",
+                "text": "This actress has good emotional depth."
+            },
+            {
+                "code": "emotional_example_the-movie-ended-with-an-emotional-scene",
+                "text": "The movie ended with an emotional scene."
+            }
+        ]
+    }
+]

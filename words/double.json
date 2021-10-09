@@ -1,0 +1,60 @@
+[
+    {
+        "type": "(n)",
+        "mean": "an actor that does dangerous things in movies; someone who looks just like someone else",
+        "examples": [
+            {
+                "code": "double_example_he-is-the-stunt-double",
+                "text": "He is the stunt double."
+            },
+            {
+                "code": "double_example_she-is-her-exact-double",
+                "text": "She is her exact double."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to become twice in size or amount",
+        "examples": [
+            {
+                "code": "double_example_our-crops-will-more-than-double",
+                "text": "Our crops will more than double."
+            },
+            {
+                "code": "double_example_the-dog-will-double-in-size",
+                "text": "The dog will double in size."
+            },
+            {
+                "code": "double_example_we-think-the-amount-will-double",
+                "text": "We think the amount will double."
+            },
+            {
+                "code": "double_example_her-plan-is-to-double-her-amount",
+                "text": "Her plan is to double her amount."
+            }
+        ]
+    },
+    {
+        "type": "(adj)",
+        "mean": "twice the amount or size; being the exact same; made for two people",
+        "examples": [
+            {
+                "code": "double_example_she-is-a-double-agent",
+                "text": "She is a double agent."
+            },
+            {
+                "code": "double_example_he-is-doing-double-duty-at-work",
+                "text": "He is doing double duty at work."
+            },
+            {
+                "code": "double_example_we-would-like-a-double-bed",
+                "text": "We would like a double bed?"
+            },
+            {
+                "code": "double_example_we-are-going-on-a-double-date",
+                "text": "We are going on a double date."
+            }
+        ]
+    }
+]

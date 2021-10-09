@@ -1,0 +1,40 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "not mixed with anything else; clean; complete; natural",
+        "examples": [
+            {
+                "code": "pure_example_this-cake-is-made-with-pure-sugar",
+                "text": "This cake is made with pure sugar."
+            },
+            {
+                "code": "pure_example_he-drank-a-glass-of-pure-alcohol",
+                "text": "He drank a glass of pure alcohol."
+            },
+            {
+                "code": "pure_example_the-ring-is-pure-gold",
+                "text": "The ring is pure gold."
+            },
+            {
+                "code": "pure_example_her-dress-is-pure-silk",
+                "text": "Her dress is pure silk."
+            },
+            {
+                "code": "pure_example_she-breathed-the-pure-air-of-the-countryside",
+                "text": "She breathed the pure air of the countryside."
+            },
+            {
+                "code": "pure_example_he-drank-pure-water-from-a-river",
+                "text": "He drank pure water from a river."
+            },
+            {
+                "code": "pure_example_her-hair-is-pure-white",
+                "text": "Her hair is pure white."
+            },
+            {
+                "code": "pure_example_the-show-was-pure-agony",
+                "text": "The show was pure agony."
+            }
+        ]
+    }
+]

@@ -1,0 +1,36 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a beverage made from leaves or flowers",
+        "examples": [
+            {
+                "code": "tea_example_i-am-brewing-fresh-tea",
+                "text": "I am brewing fresh tea."
+            },
+            {
+                "code": "tea_example_they-are-serving-iced-tea",
+                "text": "They are serving iced tea."
+            },
+            {
+                "code": "tea_example_i-drink-tea-in-the-morning",
+                "text": "I drink tea in the morning."
+            },
+            {
+                "code": "tea_example_i-will-serve-tea-at-the-party",
+                "text": "I will serve tea at the party."
+            },
+            {
+                "code": "tea_example_do-you-like-my-new-tea-kettle",
+                "text": "Do you like my new tea kettle?"
+            },
+            {
+                "code": "tea_example_this-is-an-antique-tea-set",
+                "text": "This is an antique tea set."
+            },
+            {
+                "code": "tea_example_do-you-take-sugar-in-your-tea",
+                "text": "Do you take sugar in your tea?"
+            }
+        ]
+    }
+]

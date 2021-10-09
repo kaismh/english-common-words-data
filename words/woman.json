@@ -1,0 +1,64 @@
+[
+    {
+        "type": "(n)",
+        "mean": "an adult female human being",
+        "examples": [
+            {
+                "code": "woman_example_the-young-woman-got-into-a-car-accident",
+                "text": "The young woman got into a car accident."
+            },
+            {
+                "code": "woman_example_i-can-handle-it-because-i-am-a-grown-woman",
+                "text": "I can handle it because I am a grown woman."
+            },
+            {
+                "code": "woman_example_he-was-flirting-with-a-married-woman",
+                "text": "He was flirting with a married woman."
+            },
+            {
+                "code": "woman_example_she-is-a-single-woman",
+                "text": "She is a single woman."
+            },
+            {
+                "code": "woman_example_he-is-married-to-a-beautiful-woman",
+                "text": "He is married to a beautiful woman."
+            },
+            {
+                "code": "woman_example_she-is-a-smart-woman",
+                "text": "She is a smart woman."
+            },
+            {
+                "code": "woman_example_she-is-such-a-nice-woman",
+                "text": "She is such a nice woman."
+            },
+            {
+                "code": "woman_example_there-is-a-shelter-for-battered-women",
+                "text": "There is a shelter for battered women."
+            },
+            {
+                "code": "woman_example_he-married-a-beautiful-woman",
+                "text": "He married a beautiful woman."
+            },
+            {
+                "code": "woman_example_women-are-portrayed-as-the-weaker-sex",
+                "text": "Women are portrayed as the weaker sex."
+            },
+            {
+                "code": "woman_example_the-women-s-movement-has-come-a-long-way",
+                "text": "The women's movement has come a long way."
+            },
+            {
+                "code": "woman_example_that-organization-fights-for-women-s-rights",
+                "text": "That organization fights for women's rights."
+            },
+            {
+                "code": "woman_example_we-started-a-women-s-group-at-church",
+                "text": "We started a women's group at church."
+            },
+            {
+                "code": "woman_example_she-is-majoring-in-women-s-studies-in-college",
+                "text": "She is majoring in women's studies in college."
+            }
+        ]
+    }
+]

@@ -1,0 +1,76 @@
+[
+    {
+        "type": "(n)",
+        "mean": "word or words; an agreement or relationship; a length of time",
+        "examples": [
+            {
+                "code": "term_example_he-is-looking-for-a-familiar-term-for-his-speech",
+                "text": "He is looking for a familiar term for his speech."
+            },
+            {
+                "code": "term_example_that-isn-t-the-correct-term",
+                "text": "That isn't the correct term."
+            },
+            {
+                "code": "term_example_what-is-the-technical-term-for-that-condition",
+                "text": "What is the technical term for that condition?"
+            },
+            {
+                "code": "term_example_they-met-under-bad-terms",
+                "text": "They met under bad terms."
+            },
+            {
+                "code": "term_example_he-is-serving-his-second-term-in-office",
+                "text": "He is serving his second term in office."
+            },
+            {
+                "code": "term_example_this-is-a-short-term-solution",
+                "text": "This is a short term solution."
+            },
+            {
+                "code": "term_example_she-s-working-during-her-spring-term-of-college",
+                "text": "She's working during her spring term of college."
+            },
+            {
+                "code": "term_example_please-explain-the-term",
+                "text": "Please explain the term."
+            },
+            {
+                "code": "term_example_who-coined-that-term",
+                "text": "Who coined that term?"
+            },
+            {
+                "code": "term_example_he-negotiated-the-terms-of-the-contract",
+                "text": "He negotiated the terms of the contract."
+            },
+            {
+                "code": "term_example_they-agreed-to-the-terms",
+                "text": "They agreed to the terms."
+            },
+            {
+                "code": "term_example_he-was-elected-to-his-fourth-term-in-office",
+                "text": "He was elected to his fourth term in office."
+            },
+            {
+                "code": "term_example_she-completed-a-successful-term-as-mayor",
+                "text": "She completed a successful term as mayor."
+            },
+            {
+                "code": "term_example_the-medical-term-for-pink-eye-is-conjunctivitis",
+                "text": "The medical term for pink eye is conjunctivitis."
+            },
+            {
+                "code": "term_example_it-was-stated-under-the-terms-of-the-lease",
+                "text": "It was stated under the terms of the lease."
+            },
+            {
+                "code": "term_example_they-are-waiting-for-his-term-to-be-over",
+                "text": "They are waiting for his term to be over."
+            },
+            {
+                "code": "term_example_nothing-will-get-done-until-her-term-is-completed",
+                "text": "Nothing will get done until her term is completed."
+            }
+        ]
+    }
+]

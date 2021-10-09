@@ -1,0 +1,162 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the part of the body that holds the brain, eyes, nose, and mouth; the mind; one side of a coin; the person in charge of a group of people",
+        "examples": [
+            {
+                "code": "head_example_he-has-a-bald-head",
+                "text": "He has a bald head."
+            },
+            {
+                "code": "head_example_i-can-see-her-blond-head",
+                "text": "I can see her blond head."
+            },
+            {
+                "code": "head_example_i-can-t-get-anything-done-with-a-throbbing-head",
+                "text": "I can't get anything done with a throbbing head."
+            },
+            {
+                "code": "head_example_i-need-to-keep-a-level-head-today",
+                "text": "I need to keep a level head today."
+            },
+            {
+                "code": "head_example_we-have-a-meeting-tomorrow-with-the-assistant-head",
+                "text": "We have a meeting tomorrow with the assistant head."
+            },
+            {
+                "code": "head_example_he-poked-his-head-out-the-window",
+                "text": "He poked his head out the window."
+            },
+            {
+                "code": "head_example_she-lifted-her-head-to-see-better",
+                "text": "She lifted her head to see better."
+            },
+            {
+                "code": "head_example_he-hung-his-head-in-embarrassment",
+                "text": "He hung his head in embarrassment."
+            },
+            {
+                "code": "head_example_they-all-nodded-their-heads",
+                "text": "They all nodded their heads."
+            },
+            {
+                "code": "head_example_he-scratched-his-head-in-confusion",
+                "text": "He scratched his head in confusion."
+            },
+            {
+                "code": "head_example_she-hit-her-head-when-she-fell",
+                "text": "She hit her head when she fell."
+            },
+            {
+                "code": "head_example_he-patted-the-puppy-s-head",
+                "text": "He patted the puppy's head ."
+            },
+            {
+                "code": "head_example_ostriches-bury-their-heads-in-the-sand",
+                "text": "Ostriches bury their heads in the sand."
+            },
+            {
+                "code": "head_example_she-laid-her-head-on-the-arm-of-the-chair",
+                "text": "She laid her head on the arm of the chair."
+            },
+            {
+                "code": "head_example_make-sure-you-cover-your-head-when-it-is-cold",
+                "text": "Make sure you cover your head when it is cold."
+            },
+            {
+                "code": "head_example_he-always-shaves-his-head-in-the-summer",
+                "text": "He always shaves his head in the summer."
+            },
+            {
+                "code": "head_example_her-head-was-pounding-so-she-went-home-early",
+                "text": "Her head was pounding so she went home early."
+            },
+            {
+                "code": "head_example_you-need-to-use-your-head",
+                "text": "You need to use your head."
+            },
+            {
+                "code": "head_example_the-thought-never-entered-my-head",
+                "text": "The thought never entered my head."
+            },
+            {
+                "code": "head_example_i-just-need-to-clear-my-head",
+                "text": "I just need to clear my head."
+            },
+            {
+                "code": "head_example_she-called-heads-to-see-who-would-go-first",
+                "text": "She called heads to see who would go first."
+            },
+            {
+                "code": "head_example_he-has-a-head-injury",
+                "text": "He has a head injury."
+            },
+            {
+                "code": "head_example_we-have-a-new-head-coach-this-year",
+                "text": "We have a new head coach this year."
+            },
+            {
+                "code": "head_example_the-ball-went-over-his-head",
+                "text": "The ball went over his head."
+            },
+            {
+                "code": "head_example_they-watched-the-plane-circle-above-their-heads",
+                "text": "They watched the plane circle above their heads."
+            },
+            {
+                "code": "head_example_i-can-figure-out-the-math-problem-in-my-head",
+                "text": "I can figure out the math problem in my head."
+            },
+            {
+                "code": "head_example_what-is-going-on-inside-your-head",
+                "text": "What is going on inside your head?"
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to go somewhere; to lead; to be in charge of something",
+        "examples": [
+            {
+                "code": "head_example_we-need-to-head-west",
+                "text": "We need to head west."
+            },
+            {
+                "code": "head_example_they-headed-down-the-mountain",
+                "text": "They headed down the mountain."
+            },
+            {
+                "code": "head_example_i-think-it-s-time-to-head-out",
+                "text": "I think it's time to head out."
+            },
+            {
+                "code": "head_example_we-should-head-back-now",
+                "text": "We should head back now."
+            },
+            {
+                "code": "head_example_they-appointed-me-to-head-the-committee",
+                "text": "They appointed me to head the committee."
+            },
+            {
+                "code": "head_example_we-should-head-towards-home",
+                "text": "We should head towards home."
+            },
+            {
+                "code": "head_example_we-are-heading-into-traffic",
+                "text": "We are heading into traffic."
+            },
+            {
+                "code": "head_example_he-was-chosen-to-head-the-department",
+                "text": "He was chosen to head the department."
+            },
+            {
+                "code": "head_example_they-headed-that-way",
+                "text": "They headed that way."
+            },
+            {
+                "code": "head_example_he-will-head-the-government",
+                "text": "He will head the government."
+            }
+        ]
+    }
+]

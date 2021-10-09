@@ -1,0 +1,122 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a change in place or position; a particular time of work",
+        "examples": [
+            {
+                "code": "shift_example_there-has-been-a-major-shift-in-the-economy",
+                "text": "There has been a major shift in the economy."
+            },
+            {
+                "code": "shift_example_we-noticed-a-slight-shift-in-the-opinion-polls",
+                "text": "We noticed a slight shift in the opinion polls."
+            },
+            {
+                "code": "shift_example_the-military-made-a-sudden-shift-in-position",
+                "text": "The military made a sudden shift in position."
+            },
+            {
+                "code": "shift_example_she-works-a-double-shift-every-weekend",
+                "text": "She works a double shift every weekend."
+            },
+            {
+                "code": "shift_example_he-hardly-sees-his-children-because-he-works-the-early-shift",
+                "text": "He hardly sees his children because he works the early shift."
+            },
+            {
+                "code": "shift_example_i-prefer-to-work-the-evening-shift",
+                "text": "I prefer to work the evening shift."
+            },
+            {
+                "code": "shift_example_the-protest-represents-a-dramatic-shift-in-attitude-toward-the-war",
+                "text": "The protest represents a dramatic shift in attitude toward the war."
+            },
+            {
+                "code": "shift_example_the-new-president-can-bring-about-an-economic-shift",
+                "text": "The new president can bring about an economic shift."
+            },
+            {
+                "code": "shift_example_the-climate-shift-occurred-gradually",
+                "text": "The climate shift occurred gradually."
+            },
+            {
+                "code": "shift_example_she-starts-her-shift-early-in-the-morning",
+                "text": "She starts her shift early in the morning."
+            },
+            {
+                "code": "shift_example_he-works-the-night-shift",
+                "text": "He works the night shift."
+            },
+            {
+                "code": "shift_example_she-made-arrangements-with-the-shift-supervisor",
+                "text": "She made arrangements with the shift supervisor."
+            },
+            {
+                "code": "shift_example_he-asked-for-a-shift-change",
+                "text": "He asked for a shift change."
+            },
+            {
+                "code": "shift_example_there-was-a-shift-in-direction",
+                "text": "There was a shift in direction."
+            },
+            {
+                "code": "shift_example_i-noticed-a-gradual-shift-toward-hiring-part-time-employees",
+                "text": "I noticed a gradual shift toward hiring part-time employees."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to move to a different place or position",
+        "examples": [
+            {
+                "code": "shift_example_the-two-boys-tried-to-shift-the-blame-onto-someone-else",
+                "text": "The two boys tried to shift the blame onto someone else."
+            },
+            {
+                "code": "shift_example_music-tends-to-shift-with-a-new-generation",
+                "text": "Music tends to shift with a new generation."
+            },
+            {
+                "code": "shift_example_the-students-attitudes-began-to-shift-after-tuition-prices-increased",
+                "text": "The students' attitudes began to shift after tuition prices increased."
+            },
+            {
+                "code": "shift_example_julie-shifted-uncomfortably-in-her-seat",
+                "text": "Julie shifted uncomfortably in her seat."
+            },
+            {
+                "code": "shift_example_he-gradually-shifted-the-responsibility-onto-other-people",
+                "text": "He gradually shifted the responsibility onto other people."
+            },
+            {
+                "code": "shift_example_the-public-attitude-has-shifted-away-from-raising-taxes",
+                "text": "The public attitude has shifted away from raising taxes."
+            },
+            {
+                "code": "shift_example_they-shifted-the-blame-onto-someone-else",
+                "text": "They shifted the blame onto someone else."
+            },
+            {
+                "code": "shift_example_my-attention-shifted-to-the-next-table",
+                "text": "My attention shifted to the next table."
+            },
+            {
+                "code": "shift_example_the-car-shifted-into-second-gear",
+                "text": "The car shifted into second gear."
+            },
+            {
+                "code": "shift_example_i-shifted-my-attention-to-the-other-table",
+                "text": "I shifted my attention to the other table."
+            },
+            {
+                "code": "shift_example_he-tried-to-shift-his-responsibility-onto-others",
+                "text": "He tried to shift his responsibility onto others."
+            },
+            {
+                "code": "shift_example_she-started-to-shift-her-balance-between-her-feet",
+                "text": "She started to shift her balance between her feet."
+            }
+        ]
+    }
+]

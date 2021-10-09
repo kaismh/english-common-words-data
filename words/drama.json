@@ -1,0 +1,60 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a serious performance on stage or on television; a serious event",
+        "examples": [
+            {
+                "code": "drama_example_we-saw-a-powerful-drama",
+                "text": "We saw a powerful drama."
+            },
+            {
+                "code": "drama_example_she-is-an-actress-on-a-television-drama",
+                "text": "She is an actress on a television drama."
+            },
+            {
+                "code": "drama_example_her-sister-watches-courtroom-drama-on-television",
+                "text": "Her sister watches courtroom drama on television."
+            },
+            {
+                "code": "drama_example_she-is-always-surrounded-by-high-drama",
+                "text": "She is always surrounded by high drama."
+            },
+            {
+                "code": "drama_example_they-write-dramas-for-television-and-theater",
+                "text": "They write dramas for television and theater."
+            },
+            {
+                "code": "drama_example_do-you-watch-dramas",
+                "text": "Do you watch dramas?"
+            },
+            {
+                "code": "drama_example_we-ll-see-how-this-drama-plays-out",
+                "text": "We'll see how this drama plays out."
+            },
+            {
+                "code": "drama_example_her-life-is-full-of-drama",
+                "text": "Her life is full of drama."
+            },
+            {
+                "code": "drama_example_there-was-drama-surrounding-the-president",
+                "text": "There was drama surrounding the president."
+            },
+            {
+                "code": "drama_example_he-went-to-the-drama-class",
+                "text": "He went to the drama class."
+            },
+            {
+                "code": "drama_example_he-is-a-drama-critic",
+                "text": "He is a drama critic."
+            },
+            {
+                "code": "drama_example_his-friend-is-a-drama-queen",
+                "text": "His friend is a drama queen."
+            },
+            {
+                "code": "drama_example_this-is-a-drama-about-doctors",
+                "text": "This is a drama about doctors."
+            }
+        ]
+    }
+]

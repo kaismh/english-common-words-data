@@ -1,0 +1,44 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to hear; to pay attention to",
+        "examples": [
+            {
+                "code": "listen_example_she-listens-attentively-to-the-teacher",
+                "text": "She listens attentively to the teacher."
+            },
+            {
+                "code": "listen_example_he-was-hardly-listening-to-his-wife",
+                "text": "He was hardly listening to his wife."
+            },
+            {
+                "code": "listen_example_everyone-listened-respectfully-to-his-words",
+                "text": "Everyone listened respectfully to his words."
+            },
+            {
+                "code": "listen_example_you-need-to-listen-to-her",
+                "text": "You need to listen to her."
+            },
+            {
+                "code": "listen_example_nobody-will-listen-to-the-teacher",
+                "text": "Nobody will listen to the teacher."
+            },
+            {
+                "code": "listen_example_we-are-prepared-to-listen-to-his-argument",
+                "text": "We are prepared to listen to his argument."
+            },
+            {
+                "code": "listen_example_she-refused-to-listen-to-my-explanation",
+                "text": "She refused to listen to my explanation."
+            },
+            {
+                "code": "listen_example_we-listened-anxiously-for-the-news",
+                "text": "We listened anxiously for the news."
+            },
+            {
+                "code": "listen_example_i-was-listening-to-the-radio",
+                "text": "I was listening to the radio."
+            }
+        ]
+    }
+]

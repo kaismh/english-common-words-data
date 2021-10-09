@@ -1,0 +1,48 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a box in a piece of furniture that slides out and can be used for storage",
+        "examples": [
+            {
+                "code": "drawer_example_i-found-the-pictures-in-the-bottom-drawer",
+                "text": "I found the pictures in the bottom drawer."
+            },
+            {
+                "code": "drawer_example_this-desk-has-deep-drawers",
+                "text": "This desk has deep drawers."
+            },
+            {
+                "code": "drawer_example_the-checkbook-is-kept-in-an-open-drawer",
+                "text": "The checkbook is kept in an open drawer."
+            },
+            {
+                "code": "drawer_example_the-extra-key-is-in-the-kitchen-drawer",
+                "text": "The extra key is in the kitchen drawer."
+            },
+            {
+                "code": "drawer_example_we-hid-it-in-the-sock-drawer",
+                "text": "We hid it in the sock drawer."
+            },
+            {
+                "code": "drawer_example_open-the-drawer",
+                "text": "Open the drawer."
+            },
+            {
+                "code": "drawer_example_she-reached-into-the-drawer",
+                "text": "She reached into the drawer."
+            },
+            {
+                "code": "drawer_example_he-needs-to-empty-that-drawer",
+                "text": "He needs to empty that drawer."
+            },
+            {
+                "code": "drawer_example_we-put-the-money-in-the-drawer",
+                "text": "We put the money in the drawer."
+            },
+            {
+                "code": "drawer_example_she-grabbed-the-keys-from-the-drawer",
+                "text": "She grabbed the keys from the drawer."
+            }
+        ]
+    }
+]

@@ -1,0 +1,114 @@
+[
+    {
+        "type": "(n)",
+        "mean": "power over a person or situation; the act of managing a situation",
+        "examples": [
+            {
+                "code": "control_example_the-dictator-maintains-absolute-control",
+                "text": "The dictator maintains absolute control."
+            },
+            {
+                "code": "control_example_taxes-are-under-government-control",
+                "text": "Taxes are under government control."
+            },
+            {
+                "code": "control_example_children-should-be-under-parental-control",
+                "text": "Children should be under parental control."
+            },
+            {
+                "code": "control_example_there-is-much-debate-over-gun-control",
+                "text": "There is much debate over gun control."
+            },
+            {
+                "code": "control_example_there-are-departments-that-specialize-in-quality-control",
+                "text": "There are departments that specialize in quality control."
+            },
+            {
+                "code": "control_example_police-were-dispatched-for-crowd-control",
+                "text": "Police were dispatched for crowd control."
+            },
+            {
+                "code": "control_example_you-have-control-of-your-actions",
+                "text": "You have control of your actions."
+            },
+            {
+                "code": "control_example_who-will-gain-control-of-the-business",
+                "text": "Who will gain control of the business?"
+            },
+            {
+                "code": "control_example_the-government-will-seize-control-of-the-website",
+                "text": "The government will seize control of the website."
+            },
+            {
+                "code": "control_example_the-police-couldn-t-keep-control-of-the-crowd",
+                "text": "The police couldn't keep control of the crowd."
+            },
+            {
+                "code": "control_example_do-not-lose-control-of-the-car",
+                "text": "Do not lose control of the car."
+            },
+            {
+                "code": "control_example_the-boss-will-hand-over-control-to-her-son",
+                "text": "The boss will hand over control to her son."
+            },
+            {
+                "code": "control_example_the-problem-is-beyond-your-control",
+                "text": "The problem is beyond your control."
+            },
+            {
+                "code": "control_example_everything-is-under-control",
+                "text": "Everything is under control."
+            },
+            {
+                "code": "control_example_things-are-getting-out-of-control",
+                "text": "Things are getting out of control."
+            },
+            {
+                "code": "control_example_she-is-back-in-control-of-the-situation",
+                "text": "She is back in control of the situation."
+            },
+            {
+                "code": "control_example_he-has-very-little-control-over-the-situation",
+                "text": "He has very little control over the situation."
+            },
+            {
+                "code": "control_example_she-is-major-control-freak",
+                "text": "She is major control freak."
+            },
+            {
+                "code": "control_example_everything-is-handled-from-the-control-room",
+                "text": "Everything is handled from the control room."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to have the power to make someone do what you want; to manage something",
+        "examples": [
+            {
+                "code": "control_example_the-crowd-was-carefully-controlled-by-the-police",
+                "text": "The crowd was carefully controlled by the police."
+            },
+            {
+                "code": "control_example_the-situation-was-poorly-controlled",
+                "text": "The situation was poorly controlled."
+            },
+            {
+                "code": "control_example_the-computer-controls-the-clock-electronically",
+                "text": "The computer controls the clock electronically."
+            },
+            {
+                "code": "control_example_the-machine-has-to-be-manually-controlled",
+                "text": "The machine has to be manually controlled."
+            },
+            {
+                "code": "control_example_please-control-your-anger",
+                "text": "Please control your anger."
+            },
+            {
+                "code": "control_example_she-will-control-the-budget",
+                "text": "She will control the budget."
+            }
+        ]
+    }
+]

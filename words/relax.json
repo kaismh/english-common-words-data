@@ -1,0 +1,44 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to rest; to make less tense",
+        "examples": [
+            {
+                "code": "relax_example_try-to-relax",
+                "text": "Try to relax."
+            },
+            {
+                "code": "relax_example_relax-your-grip",
+                "text": "Relax your grip."
+            },
+            {
+                "code": "relax_example_the-school-has-relaxed-some-of-their-rules",
+                "text": "The school has relaxed some of their rules."
+            },
+            {
+                "code": "relax_example_you-need-to-relax-your-mind",
+                "text": "You need to relax your mind."
+            },
+            {
+                "code": "relax_example_you-should-just-relax",
+                "text": "You should just relax."
+            },
+            {
+                "code": "relax_example_he-was-able-to-relax-a-little",
+                "text": "He was able to relax a little."
+            },
+            {
+                "code": "relax_example_she-gradually-relaxed-and-had-some-fun",
+                "text": "She gradually relaxed and had some fun."
+            },
+            {
+                "code": "relax_example_i-cannot-completely-relax-on-vacation",
+                "text": "I cannot completely relax on vacation."
+            },
+            {
+                "code": "relax_example_she-relaxed-her-head-against-the-back-of-the-chair",
+                "text": "She relaxed her head against the back of the chair."
+            }
+        ]
+    }
+]

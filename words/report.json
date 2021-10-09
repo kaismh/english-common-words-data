@@ -1,0 +1,166 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to tell about something you have seen or done",
+        "examples": [
+            {
+                "code": "report_example_the-newspaper-reported-the-story",
+                "text": "The newspaper reported the story."
+            },
+            {
+                "code": "report_example_she-did-not-report-her-earnings",
+                "text": "She did not report her earnings."
+            },
+            {
+                "code": "report_example_he-reported-the-incident-to-me",
+                "text": "He reported the incident to me."
+            },
+            {
+                "code": "report_example_he-refused-to-report-the-crime",
+                "text": "He refused to report the crime."
+            },
+            {
+                "code": "report_example_they-never-reported-the-discovery",
+                "text": "They never reported the discovery."
+            },
+            {
+                "code": "report_example_the-paper-falsely-reported-the-story",
+                "text": "The paper falsely reported the story."
+            },
+            {
+                "code": "report_example_he-reports-back-to-his-commander",
+                "text": "He reports back to his commander."
+            },
+            {
+                "code": "report_example_it-was-widely-reported-in-the-news",
+                "text": "It was widely reported in the news."
+            },
+            {
+                "code": "report_example_i-reported-the-incident-to-my-boss",
+                "text": "I reported the incident to my boss."
+            },
+            {
+                "code": "report_example_she-reported-on-the-earthquake",
+                "text": "She reported on the earthquake."
+            },
+            {
+                "code": "report_example_she-is-reporting-from-asia",
+                "text": "She is reporting from Asia."
+            }
+        ]
+    },
+    {
+        "type": "(n)",
+        "mean": "a written or spoken description of what happened",
+        "examples": [
+            {
+                "code": "report_example_he-denied-their-reports",
+                "text": "He denied their reports."
+            },
+            {
+                "code": "report_example_we-have-a-police-report",
+                "text": "We have a police report."
+            },
+            {
+                "code": "report_example_our-report-deals-with-new-immigrants",
+                "text": "Our report deals with new immigrants."
+            },
+            {
+                "code": "report_example_the-report-looks-at-endangered-animals",
+                "text": "The report looks at endangered animals."
+            },
+            {
+                "code": "report_example_he-wrote-a-long-report",
+                "text": "He wrote a long report."
+            },
+            {
+                "code": "report_example_the-report-advises-a-new-arrangement",
+                "text": "The report advises a new arrangement."
+            },
+            {
+                "code": "report_example_his-report-indicates-that-the-medicine-is-effective",
+                "text": "His report indicates that the medicine is effective."
+            },
+            {
+                "code": "report_example_he-got-my-report-that-night",
+                "text": "He got my report that night."
+            },
+            {
+                "code": "report_example_the-newspaper-published-my-report",
+                "text": "The newspaper published my report."
+            },
+            {
+                "code": "report_example_i-heard-the-report-on-the-radio",
+                "text": "I heard the report on the radio."
+            },
+            {
+                "code": "report_example_the-report-appeared-in-the-evening-news",
+                "text": "The report appeared in the evening news."
+            },
+            {
+                "code": "report_example_i-read-the-weekly-report",
+                "text": "I read the weekly report."
+            },
+            {
+                "code": "report_example_she-wrote-a-false-report",
+                "text": "She wrote a false report."
+            },
+            {
+                "code": "report_example_he-saw-a-preliminary-report",
+                "text": "He saw a preliminary report."
+            },
+            {
+                "code": "report_example_they-received-a-classified-report",
+                "text": "They received a classified report."
+            },
+            {
+                "code": "report_example_she-confirmed-the-recent-reports",
+                "text": "She confirmed the recent reports."
+            },
+            {
+                "code": "report_example_did-you-see-the-latest-traffic-report",
+                "text": "Did you see the latest traffic report?"
+            },
+            {
+                "code": "report_example_i-just-read-the-newspaper-report",
+                "text": "I just read the newspaper report."
+            },
+            {
+                "code": "report_example_this-report-is-confidential",
+                "text": "This report is confidential."
+            },
+            {
+                "code": "report_example_did-you-get-your-progress-report",
+                "text": "Did you get your progress report?"
+            },
+            {
+                "code": "report_example_the-first-report-was-written-yesterday",
+                "text": "The first report was written yesterday."
+            },
+            {
+                "code": "report_example_she-wrote-a-school-report",
+                "text": "She wrote a school report."
+            },
+            {
+                "code": "report_example_according-to-the-police-report-he-confessed-to-the-crime",
+                "text": "According to the police report, he confessed to the crime."
+            },
+            {
+                "code": "report_example_they-are-fleeing-amid-reports-of-war",
+                "text": "They are fleeing amid reports of war."
+            },
+            {
+                "code": "report_example_there-is-a-new-report-about-kangaroos",
+                "text": "There is a new report about kangaroos."
+            },
+            {
+                "code": "report_example_there-s-a-report-from-the-police",
+                "text": "There's a report from the police."
+            },
+            {
+                "code": "report_example_this-is-a-report-by-my-friend",
+                "text": "This is a report by my friend."
+            }
+        ]
+    }
+]

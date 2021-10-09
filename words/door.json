@@ -1,0 +1,80 @@
+[
+    {
+        "type": "(n)",
+        "mean": "an entrance that can open and close",
+        "examples": [
+            {
+                "code": "door_example_the-door-is-open",
+                "text": "The door is open."
+            },
+            {
+                "code": "door_example_enter-through-the-back-door",
+                "text": "Enter through the back door."
+            },
+            {
+                "code": "door_example_it-was-hard-to-open-the-big-door",
+                "text": "It was hard to open the big door."
+            },
+            {
+                "code": "door_example_our-front-door-is-narrow",
+                "text": "Our front door is narrow."
+            },
+            {
+                "code": "door_example_we-installed-an-iron-door",
+                "text": "We installed an iron door."
+            },
+            {
+                "code": "door_example_the-automatic-door-is-easy-to-use",
+                "text": "The automatic door is easy to use."
+            },
+            {
+                "code": "door_example_her-apartment-door-was-left-open",
+                "text": "Her apartment door was left open."
+            },
+            {
+                "code": "door_example_wait-for-the-elevator-door-to-open",
+                "text": "Wait for the elevator door to open."
+            },
+            {
+                "code": "door_example_open-the-door",
+                "text": "Open the door."
+            },
+            {
+                "code": "door_example_she-slammed-the-door",
+                "text": "She slammed the door."
+            },
+            {
+                "code": "door_example_did-you-try-the-back-door",
+                "text": "Did you try the back door?"
+            },
+            {
+                "code": "door_example_you-should-lock-the-door",
+                "text": "You should lock the door."
+            },
+            {
+                "code": "door_example_please-answer-the-door",
+                "text": "Please answer the door."
+            },
+            {
+                "code": "door_example_we-need-a-new-door-handle",
+                "text": "We need a new door handle."
+            },
+            {
+                "code": "door_example_the-doorknob-needs-to-be-replaced",
+                "text": "The doorknob needs to be replaced."
+            },
+            {
+                "code": "door_example_we-are-finally-getting-a-garage-door-opener",
+                "text": "We are finally getting a garage door opener."
+            },
+            {
+                "code": "door_example_he-is-at-the-door",
+                "text": "He is at the door."
+            },
+            {
+                "code": "door_example_the-door-into-the-garage-is-locked",
+                "text": "The door into the garage is locked."
+            }
+        ]
+    }
+]

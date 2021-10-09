@@ -1,0 +1,88 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "polite; good",
+        "examples": [
+            {
+                "code": "nice_example_the-food-smells-nice",
+                "text": "The food smells nice."
+            },
+            {
+                "code": "nice_example_the-air-feels-nice",
+                "text": "The air feels nice."
+            },
+            {
+                "code": "nice_example_he-seems-nice",
+                "text": "He seems nice."
+            },
+            {
+                "code": "nice_example_they-had-a-nice-chat",
+                "text": "They had a nice chat."
+            },
+            {
+                "code": "nice_example_he-s-a-really-nice-guy",
+                "text": "He's a really nice guy."
+            },
+            {
+                "code": "nice_example_nice-catch",
+                "text": "Nice catch!"
+            },
+            {
+                "code": "nice_example_he-wrote-a-nice-letter-to-his-mom",
+                "text": "He wrote a nice letter to his mom."
+            },
+            {
+                "code": "nice_example_what-a-nice-lady",
+                "text": "What a nice lady."
+            },
+            {
+                "code": "nice_example_they-have-nice-clothes-there",
+                "text": "They have nice clothes there."
+            },
+            {
+                "code": "nice_example_i-had-a-nice-breakfast",
+                "text": "I had a nice breakfast."
+            },
+            {
+                "code": "nice_example_i-took-a-nice-bath",
+                "text": "I took a nice bath."
+            },
+            {
+                "code": "nice_example_it-s-been-a-nice-evening",
+                "text": "It's been a nice evening."
+            },
+            {
+                "code": "nice_example_they-have-a-nice-house",
+                "text": "They have a nice house."
+            },
+            {
+                "code": "nice_example_this-is-a-nice-neighborhood",
+                "text": "This is a nice neighborhood."
+            },
+            {
+                "code": "nice_example_we-had-a-nice-time",
+                "text": "We had a nice time."
+            },
+            {
+                "code": "nice_example_she-is-a-very-nice-person",
+                "text": "She is a very nice person."
+            },
+            {
+                "code": "nice_example_the-hotel-was-nice-enough",
+                "text": "The hotel was nice enough."
+            },
+            {
+                "code": "nice_example_that-must-be-nice-for-you",
+                "text": "That must be nice for you."
+            },
+            {
+                "code": "nice_example_i-was-nice-to-him",
+                "text": "I was nice to him."
+            },
+            {
+                "code": "nice_example_she-was-nice-about-the-mistake",
+                "text": "She was nice about the mistake."
+            }
+        ]
+    }
+]

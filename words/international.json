@@ -1,0 +1,24 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "involving two or more countries",
+        "examples": [
+            {
+                "code": "international_example_she-makes-many-international-calls-to-her-family",
+                "text": "She makes many international calls to her family."
+            },
+            {
+                "code": "international_example_his-music-made-him-an-international-celebrity",
+                "text": "His music made him an international celebrity."
+            },
+            {
+                "code": "international_example_we-are-housing-an-international-student",
+                "text": "We are housing an international student."
+            },
+            {
+                "code": "international_example_the-government-is-encouraging-international-trade",
+                "text": "The government is encouraging international trade."
+            }
+        ]
+    }
+]

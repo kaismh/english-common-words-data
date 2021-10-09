@@ -1,0 +1,110 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the value of something; the quality of someone",
+        "examples": [
+            {
+                "code": "worth_example_the-old-television-is-of-little-worth-now",
+                "text": "The old television is of little worth now."
+            },
+            {
+                "code": "worth_example_do-you-know-the-estimated-worth-of-the-house",
+                "text": "Do you know the estimated worth of the house?"
+            },
+            {
+                "code": "worth_example_there-is-no-price-on-self-worth",
+                "text": "There is no price on self worth."
+            },
+            {
+                "code": "worth_example_what-is-the-company-s-market-worth",
+                "text": "What is the company's market worth?"
+            },
+            {
+                "code": "worth_example_you-need-to-prove-your-worth-to-the-team",
+                "text": "You need to prove your worth to the team."
+            },
+            {
+                "code": "worth_example_no-one-should-judge-somebody-else-s-self-worth",
+                "text": "No one should judge somebody else's self worth."
+            },
+            {
+                "code": "worth_example_i-discovered-the-diamond-s-real-worth",
+                "text": "I discovered the diamond's real worth."
+            },
+            {
+                "code": "worth_example_the-appraiser-estimated-the-land-s-worth",
+                "text": "The appraiser estimated the land's worth."
+            },
+            {
+                "code": "worth_example_how-can-we-increase-the-worth-of-our-house",
+                "text": "How can we increase the worth of our house?"
+            },
+            {
+                "code": "worth_example_we-doubt-its-true-worth",
+                "text": "We doubt its true worth."
+            },
+            {
+                "code": "worth_example_she-gave-her-grandchild-something-of-great-worth",
+                "text": "She gave her grandchild something of great worth."
+            },
+            {
+                "code": "worth_example_he-proved-his-worth-to-the-team",
+                "text": "He proved his worth to the team."
+            }
+        ]
+    },
+    {
+        "type": "(adj)",
+        "mean": "having value in money; being good enough",
+        "examples": [
+            {
+                "code": "worth_example_the-movie-is-really-worth-watching",
+                "text": "The movie is really worth watching."
+            },
+            {
+                "code": "worth_example_his-new-book-is-definitely-worth-reading",
+                "text": "His new book is definitely worth reading."
+            },
+            {
+                "code": "worth_example_the-old-computer-is-hardly-worth-anything",
+                "text": "The old computer is hardly worth anything."
+            },
+            {
+                "code": "worth_example_it-s-almost-worth-nothing",
+                "text": "It's almost worth nothing."
+            },
+            {
+                "code": "worth_example_our-land-is-potentially-worth-a-lot-of-money",
+                "text": "Our land is potentially worth a lot of money."
+            },
+            {
+                "code": "worth_example_her-shoes-are-probably-worth-more-than-her-car",
+                "text": "Her shoes are probably worth more than her car."
+            },
+            {
+                "code": "worth_example_it-s-always-worth-trying",
+                "text": "It's always worth trying."
+            },
+            {
+                "code": "worth_example_the-result-is-worth-the-risk",
+                "text": "The result is worth the risk."
+            },
+            {
+                "code": "worth_example_his-old-baseball-card-has-become-worth-a-lot-of-money",
+                "text": "His old baseball card has become worth a lot of money."
+            },
+            {
+                "code": "worth_example_we-didn-t-find-the-movie-worth-the-money",
+                "text": "We didn't find the movie worth the money."
+            },
+            {
+                "code": "worth_example_the-chef-made-it-worth-the-wait",
+                "text": "The chef made it worth the wait."
+            },
+            {
+                "code": "worth_example_this-property-is-worth-millions-of-dollars-to-the-family",
+                "text": "This property is worth millions of dollars to the family."
+            }
+        ]
+    }
+]

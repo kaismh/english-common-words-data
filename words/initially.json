@@ -1,0 +1,36 @@
+[
+    {
+        "type": "(adv)",
+        "mean": "at the beginning",
+        "examples": [
+            {
+                "code": "initially_example_she-was-initially-reluctant-to-help",
+                "text": "She was initially reluctant to help."
+            },
+            {
+                "code": "initially_example_he-was-initially-skeptical-about-her-idea",
+                "text": "He was initially skeptical about her idea."
+            },
+            {
+                "code": "initially_example_she-initially-appeared-confused",
+                "text": "She initially appeared confused."
+            },
+            {
+                "code": "initially_example_we-initially-opposed-the-idea",
+                "text": "We initially opposed the idea."
+            },
+            {
+                "code": "initially_example_they-initially-estimated-a-lower-cost-for-repairs",
+                "text": "They initially estimated a lower cost for repairs."
+            },
+            {
+                "code": "initially_example_we-initially-promised-to-take-them-to-disneyland",
+                "text": "We initially promised to take them to Disneyland."
+            },
+            {
+                "code": "initially_example_the-weatherman-initially-predicted-snow",
+                "text": "The weatherman initially predicted snow."
+            }
+        ]
+    }
+]

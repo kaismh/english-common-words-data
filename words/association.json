@@ -1,0 +1,52 @@
+[
+    {
+        "type": "(n)",
+        "mean": "organized group of people who have joined together for a specific purpose; a connection or relationship between people or things",
+        "examples": [
+            {
+                "code": "association_example_they-formed-an-international-association",
+                "text": "They formed an international association."
+            },
+            {
+                "code": "association_example_we-re-helping-out-our-neighborhood-association",
+                "text": "We're helping out our neighborhood association."
+            },
+            {
+                "code": "association_example_the-business-partners-have-had-a-close-association",
+                "text": "The business partners have had a close association."
+            },
+            {
+                "code": "association_example_there-is-a-direct-association-between-the-two-parties",
+                "text": "There is a direct association between the two parties."
+            },
+            {
+                "code": "association_example_they-formed-a-student-association-on-campus",
+                "text": "They formed a student association on campus."
+            },
+            {
+                "code": "association_example_they-have-maintained-a-professional-association-for-many-years",
+                "text": "They have maintained a professional association for many years."
+            },
+            {
+                "code": "association_example_studies-have-shown-a-direct-association-between-stress-and-health",
+                "text": "Studies have shown a direct association between stress and health."
+            },
+            {
+                "code": "association_example_the-community-association-meets-once-a-month",
+                "text": "The community association meets once a month."
+            },
+            {
+                "code": "association_example_there-is-a-clear-association-between-diet-and-exercise",
+                "text": "There is a clear association between diet and exercise."
+            },
+            {
+                "code": "association_example_his-political-associations-with-the-mayor-benefits-his-business",
+                "text": "His political associations with the mayor benefits his business."
+            },
+            {
+                "code": "association_example_he-is-guilty-by-association",
+                "text": "He is guilty by association."
+            }
+        ]
+    }
+]

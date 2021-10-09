@@ -1,0 +1,28 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "related to a form of energy supplied through wires to operate machines or things run on power",
+        "examples": [
+            {
+                "code": "electrical_example_we-must-replace-the-old-electrical-system",
+                "text": "We must replace the old electrical system."
+            },
+            {
+                "code": "electrical_example_that-electrical-cord-is-broken",
+                "text": "That electrical cord is broken."
+            },
+            {
+                "code": "electrical_example_he-fixed-the-cord-with-electrical-tape",
+                "text": "He fixed the cord with electrical tape."
+            },
+            {
+                "code": "electrical_example_i-need-to-plug-in-this-electrical-device",
+                "text": "I need to plug in this electrical device."
+            },
+            {
+                "code": "electrical_example_he-studied-electrical-engineering",
+                "text": "He studied electrical engineering."
+            }
+        ]
+    }
+]

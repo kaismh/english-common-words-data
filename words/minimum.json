@@ -1,0 +1,74 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the smallest amount possible",
+        "examples": [
+            {
+                "code": "minimum_example_he-s-so-cheap-he-pays-the-minimum-possible",
+                "text": "He's so cheap, he pays the minimum possible."
+            },
+            {
+                "code": "minimum_example_let-s-try-to-keep-the-noise-to-a-minimum",
+                "text": "Let's try to keep the noise to a minimum."
+            },
+            {
+                "code": "minimum_example_he-reached-the-minimum-allowed",
+                "text": "He reached the minimum allowed."
+            },
+            {
+                "code": "minimum_example_the-minimum-age-is-eighteen-to-vote",
+                "text": "The minimum age is eighteen to vote."
+            },
+            {
+                "code": "minimum_example_he-served-the-mandatory-minimum",
+                "text": "He served the mandatory minimum."
+            },
+            {
+                "code": "minimum_example_she-pays-the-absolute-minimum-to-her-employees",
+                "text": "She pays the absolute minimum to her employees."
+            },
+            {
+                "code": "minimum_example_the-doctor-said-not-to-exceed-the-recommended-minimum",
+                "text": "The doctor said not to exceed the recommended minimum."
+            },
+            {
+                "code": "minimum_example_we-need-a-minimum-of-ten-volunteers",
+                "text": "We need a minimum of ten volunteers."
+            },
+            {
+                "code": "minimum_example_we-need-three-meals-a-day-at-a-minimum",
+                "text": "We need three meals a day at a minimum."
+            },
+            {
+                "code": "minimum_example_he-pays-above-the-minimum-required",
+                "text": "He pays above the minimum required."
+            }
+        ]
+    },
+    {
+        "type": "(adj)",
+        "mean": "having the smallest amount possible",
+        "examples": [
+            {
+                "code": "minimum_example_he-got-the-minimum-sentence",
+                "text": "He got the minimum sentence."
+            },
+            {
+                "code": "minimum_example_what-is-the-minimum-amount",
+                "text": "What is the minimum amount?"
+            },
+            {
+                "code": "minimum_example_it-reached-the-minimum-limit",
+                "text": "It reached the minimum limit."
+            },
+            {
+                "code": "minimum_example_she-makes-minimum-payments",
+                "text": "She makes minimum payments."
+            },
+            {
+                "code": "minimum_example_he-received-minimum-training",
+                "text": "He received minimum training."
+            }
+        ]
+    }
+]

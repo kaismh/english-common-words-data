@@ -1,0 +1,72 @@
+[
+    {
+        "type": "(n)",
+        "mean": "hard covering at the tips of fingers; thin pointed piece of metal",
+        "examples": [
+            {
+                "code": "nail_example_we-removed-the-old-nails-from-the-board",
+                "text": "We removed the old nails from the board."
+            },
+            {
+                "code": "nail_example_i-broke-my-nail-again",
+                "text": "I broke my nail again."
+            },
+            {
+                "code": "nail_example_he-hammered-the-nail-into-the-wall",
+                "text": "He hammered the nail into the wall."
+            },
+            {
+                "code": "nail_example_she-painted-her-nails-red",
+                "text": "She painted her nails red."
+            },
+            {
+                "code": "nail_example_she-is-filing-her-nails",
+                "text": "She is filing her nails."
+            },
+            {
+                "code": "nail_example_stop-biting-your-nails",
+                "text": "Stop biting your nails."
+            },
+            {
+                "code": "nail_example_i-used-her-nail-clippers",
+                "text": "I used her nail clippers."
+            },
+            {
+                "code": "nail_example_he-hammered-the-nail-head",
+                "text": "He hammered the nail head."
+            },
+            {
+                "code": "nail_example_i-bought-a-bottle-of-nail-polish",
+                "text": "I bought a bottle of nail polish."
+            },
+            {
+                "code": "nail_example_we-went-to-a-nail-salon",
+                "text": "We went to a nail salon."
+            },
+            {
+                "code": "nail_example_we-need-to-get-a-nail-gun",
+                "text": "We need to get a nail gun."
+            },
+            {
+                "code": "nail_example_throw-away-the-nail-clippings",
+                "text": "Throw away the nail clippings."
+            },
+            {
+                "code": "nail_example_watch-out-for-rusty-nails",
+                "text": "Watch out for rusty nails."
+            },
+            {
+                "code": "nail_example_i-got-a-broken-nail-while-i-was-fixing-my-bike",
+                "text": "I got a broken nail while I was fixing my bike."
+            },
+            {
+                "code": "nail_example_she-has-long-nails",
+                "text": "She has long nails."
+            },
+            {
+                "code": "nail_example_she-takes-care-of-her-manicured-nails",
+                "text": "She takes care of her manicured nails."
+            }
+        ]
+    }
+]

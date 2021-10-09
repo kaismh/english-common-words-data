@@ -1,0 +1,72 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a large group of military soldiers who are trained to fight on land",
+        "examples": [
+            {
+                "code": "army_example_the-empire-has-a-great-army",
+                "text": "The empire has a great army."
+            },
+            {
+                "code": "army_example_the-army-was-too-small-to-defend-the-town",
+                "text": "The army was too small to defend the town."
+            },
+            {
+                "code": "army_example_they-fled-from-the-approaching-army",
+                "text": "They fled from the approaching army."
+            },
+            {
+                "code": "army_example_she-wanted-to-join-the-army",
+                "text": "She wanted to join the army."
+            },
+            {
+                "code": "army_example_the-army-assembled-outside-the-battle-line",
+                "text": "The army assembled outside the battle line."
+            },
+            {
+                "code": "army_example_they-supply-the-army-with-basic-artillery",
+                "text": "They supply the army with basic artillery."
+            },
+            {
+                "code": "army_example_we-will-crush-their-army",
+                "text": "We will crush their army."
+            },
+            {
+                "code": "army_example_the-army-advanced-on-the-city",
+                "text": "The army advanced on the city."
+            },
+            {
+                "code": "army_example_the-army-attacked-the-enemy",
+                "text": "The army attacked the enemy."
+            },
+            {
+                "code": "army_example_the-army-withdrew-from-the-enemy-line",
+                "text": "The army withdrew from the enemy line."
+            },
+            {
+                "code": "army_example_their-army-surrendered-after-being-outnumbered",
+                "text": "Their army surrendered after being outnumbered."
+            },
+            {
+                "code": "army_example_she-is-an-army-general",
+                "text": "She is an army general."
+            },
+            {
+                "code": "army_example_we-drove-through-the-army-checkpoint",
+                "text": "We drove through the army checkpoint."
+            },
+            {
+                "code": "army_example_i-work-at-the-army-headquarters",
+                "text": "I work at the army headquarters."
+            },
+            {
+                "code": "army_example_they-were-wearing-army-boots",
+                "text": "They were wearing army boots."
+            },
+            {
+                "code": "army_example_i-drive-an-army-tank",
+                "text": "I drive an army tank."
+            }
+        ]
+    }
+]

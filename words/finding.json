@@ -1,0 +1,72 @@
+[
+    {
+        "type": "(n)",
+        "mean": "information that is discovered as a result of research",
+        "examples": [
+            {
+                "code": "finding_example_we-re-learning-about-the-important-findings-of-the-study",
+                "text": "We're learning about the important findings of the study."
+            },
+            {
+                "code": "finding_example_his-findings-were-very-interesting",
+                "text": "His findings were very interesting."
+            },
+            {
+                "code": "finding_example_the-early-findings-weren-t-very-useful",
+                "text": "The early findings weren't very useful."
+            },
+            {
+                "code": "finding_example_he-disagrees-with-the-new-findings",
+                "text": "He disagrees with the new findings."
+            },
+            {
+                "code": "finding_example_this-report-presents-his-scientific-findings",
+                "text": "This report presents his scientific findings."
+            },
+            {
+                "code": "finding_example_we-re-supposed-to-record-our-findings",
+                "text": "We're supposed to record our findings."
+            },
+            {
+                "code": "finding_example_he-will-announce-his-findings-at-the-meeting",
+                "text": "He will announce his findings at the meeting."
+            },
+            {
+                "code": "finding_example_they-published-the-findings-of-the-study",
+                "text": "They published the findings of the study."
+            },
+            {
+                "code": "finding_example_i-need-to-explain-his-findings",
+                "text": "I need to explain his findings."
+            },
+            {
+                "code": "finding_example_they-won-t-comment-on-the-new-findings",
+                "text": "They won't comment on the new findings."
+            },
+            {
+                "code": "finding_example_other-studies-have-confirmed-the-findings",
+                "text": "Other studies have confirmed the findings."
+            },
+            {
+                "code": "finding_example_the-findings-were-based-on-many-factors",
+                "text": "The findings were based on many factors."
+            },
+            {
+                "code": "finding_example_his-findings-suggest-the-need-for-more-research",
+                "text": "His findings suggest the need for more research."
+            },
+            {
+                "code": "finding_example_the-findings-will-lead-to-changes-in-the-process",
+                "text": "The findings will lead to changes in the process."
+            },
+            {
+                "code": "finding_example_we-are-reading-new-findings-about-global-warming",
+                "text": "We are reading new findings about global warming."
+            },
+            {
+                "code": "finding_example_he-questioned-the-findings-from-the-recent-study",
+                "text": "He questioned the findings from the recent study."
+            }
+        ]
+    }
+]

@@ -1,0 +1,56 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the end of something; a decision made after looking at all of the information",
+        "examples": [
+            {
+                "code": "conclusion_example_the-students-reached-the-correct-conclusion",
+                "text": "The students reached the correct conclusion."
+            },
+            {
+                "code": "conclusion_example_after-much-discussion-the-students-reached-a-final-conclusion",
+                "text": "After much discussion, the students reached a final conclusion."
+            },
+            {
+                "code": "conclusion_example_they-came-to-the-wrong-conclusion",
+                "text": "They came to the wrong conclusion."
+            },
+            {
+                "code": "conclusion_example_she-realized-the-obvious-conclusion",
+                "text": "She realized the obvious conclusion."
+            },
+            {
+                "code": "conclusion_example_they-came-to-a-startling-conclusion",
+                "text": "They came to a startling conclusion."
+            },
+            {
+                "code": "conclusion_example_the-scientists-were-unable-to-reach-a-firm-conclusion",
+                "text": "The scientists were unable to reach a firm conclusion."
+            },
+            {
+                "code": "conclusion_example_a-preliminary-conclusion-was-made",
+                "text": "A preliminary conclusion was made."
+            },
+            {
+                "code": "conclusion_example_how-did-you-come-to-this-conclusion",
+                "text": "How did you come to this conclusion?"
+            },
+            {
+                "code": "conclusion_example_don-t-jump-to-any-conclusions",
+                "text": "Don't jump to any conclusions."
+            },
+            {
+                "code": "conclusion_example_what-led-to-that-conclusion",
+                "text": "What led to that conclusion?"
+            },
+            {
+                "code": "conclusion_example_her-argument-confirms-her-conclusion",
+                "text": "Her argument confirms her conclusion."
+            },
+            {
+                "code": "conclusion_example_my-conclusions-are-based-on-facts",
+                "text": "My conclusions are based on facts."
+            }
+        ]
+    }
+]

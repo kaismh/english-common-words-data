@@ -1,0 +1,88 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a place for growing plants and flowers",
+        "examples": [
+            {
+                "code": "garden_example_their-house-is-surrounded-by-beautiful-gardens",
+                "text": "Their house is surrounded by beautiful gardens."
+            },
+            {
+                "code": "garden_example_she-has-a-big-garden-behind-the-house",
+                "text": "She has a big garden behind the house."
+            },
+            {
+                "code": "garden_example_they-re-working-in-the-backyard-garden",
+                "text": "They're working in the backyard garden."
+            },
+            {
+                "code": "garden_example_she-s-trying-to-keep-the-birds-out-of-the-vegetable-garden",
+                "text": "She's trying to keep the birds out of the vegetable garden."
+            },
+            {
+                "code": "garden_example_these-came-from-the-rose-garden",
+                "text": "These came from the rose garden."
+            },
+            {
+                "code": "garden_example_they-toured-the-community-gardens",
+                "text": "They toured the community gardens."
+            },
+            {
+                "code": "garden_example_there-is-an-art-show-at-the-botanical-garden",
+                "text": "There is an art show at the botanical garden."
+            },
+            {
+                "code": "garden_example_they-are-planning-a-new-community-garden",
+                "text": "They are planning a new community garden."
+            },
+            {
+                "code": "garden_example_she-planted-the-garden-yesterday",
+                "text": "She planted the garden yesterday."
+            },
+            {
+                "code": "garden_example_she-tends-her-garden-on-the-weekend",
+                "text": "She tends her garden on the weekend."
+            },
+            {
+                "code": "garden_example_they-maintain-the-old-gardens-by-the-school",
+                "text": "They maintain the old gardens by the school."
+            },
+            {
+                "code": "garden_example_i-need-to-water-the-garden-before-i-leave",
+                "text": "I need to water the garden before I leave."
+            },
+            {
+                "code": "garden_example_the-room-overlooks-the-garden",
+                "text": "The room overlooks the garden."
+            },
+            {
+                "code": "garden_example_we-need-to-get-more-garden-plants",
+                "text": "We need to get more garden plants."
+            },
+            {
+                "code": "garden_example_she-tries-to-deal-with-garden-pests-without-chemicals",
+                "text": "She tries to deal with garden pests without chemicals."
+            },
+            {
+                "code": "garden_example_i-bought-a-new-garden-hose",
+                "text": "I bought a new garden hose."
+            },
+            {
+                "code": "garden_example_i-ll-wait-by-the-garden-gate",
+                "text": "I'll wait by the garden gate."
+            },
+            {
+                "code": "garden_example_we-re-going-to-the-garden-store-tomorrow",
+                "text": "We're going to the garden store tomorrow."
+            },
+            {
+                "code": "garden_example_she-is-out-in-the-garden",
+                "text": "She is out in the garden."
+            },
+            {
+                "code": "garden_example_i-want-to-turn-this-part-of-the-yard-into-a-garden",
+                "text": "I want to turn this part of the yard into a garden."
+            }
+        ]
+    }
+]

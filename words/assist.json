@@ -1,0 +1,44 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to help make things easier for someone",
+        "examples": [
+            {
+                "code": "assist_example_she-greatly-assisted-her-mother-after-the-surgery",
+                "text": "She greatly assisted her mother after the surgery."
+            },
+            {
+                "code": "assist_example_he-actively-assisted-in-the-search-of-the-missing-dog",
+                "text": "He actively assisted in the search of the missing dog."
+            },
+            {
+                "code": "assist_example_grab-bars-are-designed-to-assist-elderly-people",
+                "text": "Grab bars are designed to assist elderly people."
+            },
+            {
+                "code": "assist_example_she-assisted-in-walking-the-dogs-daily",
+                "text": "She assisted in walking the dogs daily."
+            },
+            {
+                "code": "assist_example_nurses-assisted-the-doctor-in-the-operating-room",
+                "text": "Nurses assisted the doctor in the operating room."
+            },
+            {
+                "code": "assist_example_the-accomplice-assisted-in-the-robbery-by-driving-the-getaway-car",
+                "text": "The accomplice assisted in the robbery by driving the getaway car."
+            },
+            {
+                "code": "assist_example_the-witness-is-assisting-in-the-investigation",
+                "text": "The witness is assisting in the investigation."
+            },
+            {
+                "code": "assist_example_can-you-please-assist-with-the-clean-up",
+                "text": "Can you please assist with the clean-up?"
+            },
+            {
+                "code": "assist_example_the-electric-wheelchairs-assist-many-people-with-mobility-problems",
+                "text": "The electric wheelchairs assist many people with mobility problems."
+            }
+        ]
+    }
+]

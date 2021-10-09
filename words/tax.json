@@ -1,0 +1,54 @@
+[
+    {
+        "type": "(n)",
+        "mean": "amount of money paid to the government so it can pay for public services",
+        "examples": [
+            {
+                "code": "tax_example_we-seem-to-be-paying-higher-taxes-this-year",
+                "text": "We seem to be paying higher taxes this year."
+            },
+            {
+                "code": "tax_example_it-s-time-to-pay-our-annual-taxes",
+                "text": "It's time to pay our annual taxes."
+            },
+            {
+                "code": "tax_example_the-government-collects-taxes-every-year",
+                "text": "The government collects taxes every year."
+            },
+            {
+                "code": "tax_example_your-employer-deducts-taxes-on-weekly-paychecks",
+                "text": "Your employer deducts taxes on weekly paychecks."
+            },
+            {
+                "code": "tax_example_april-is-tax-season",
+                "text": "April is tax season."
+            },
+            {
+                "code": "tax_example_he-is-in-the-highest-tax-bracket",
+                "text": "He is in the highest tax bracket."
+            },
+            {
+                "code": "tax_example_the-amount-after-taxes-is-much-lower-than-expected",
+                "text": "The amount after taxes is much lower than expected."
+            },
+            {
+                "code": "tax_example_they-are-trying-to-introduce-a-tax-increase-on-alcohol",
+                "text": "They are trying to introduce a tax increase on alcohol."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to charge an amount of money for the use of governmental expenses",
+        "examples": [
+            {
+                "code": "tax_example_many-imported-goods-are-heavily-taxed",
+                "text": "Many imported goods are heavily taxed."
+            },
+            {
+                "code": "tax_example_you-will-be-taxed-on-all-of-your-income",
+                "text": "You will be taxed on all of your income."
+            }
+        ]
+    }
+]

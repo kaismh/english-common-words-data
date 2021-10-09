@@ -1,0 +1,90 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a situation that makes something happen later than it should",
+        "examples": [
+            {
+                "code": "delay_example_the-traffic-accident-caused-a-considerable-delay",
+                "text": "The traffic accident caused a considerable delay."
+            },
+            {
+                "code": "delay_example_the-delay-was-unnecessary",
+                "text": "The delay was unnecessary."
+            },
+            {
+                "code": "delay_example_there-will-be-a-brief-delay-before-the-show-starts",
+                "text": "There will be a brief delay before the show starts."
+            },
+            {
+                "code": "delay_example_the-unexpected-delay-made-everyone-upset",
+                "text": "The unexpected delay made everyone upset."
+            },
+            {
+                "code": "delay_example_airport-delays-can-ruin-a-trip",
+                "text": "Airport delays can ruin a trip."
+            },
+            {
+                "code": "delay_example_flights-are-subject-to-delay",
+                "text": "Flights are subject to delay."
+            },
+            {
+                "code": "delay_example_the-airline-passengers-encountered-major-delays",
+                "text": "The airline passengers encountered major delays."
+            },
+            {
+                "code": "delay_example_car-accidents-cause-delays",
+                "text": "Car accidents cause delays."
+            },
+            {
+                "code": "delay_example_she-apologized-for-the-delay-in-responding-to-his-email",
+                "text": "She apologized for the delay in responding to his email."
+            },
+            {
+                "code": "delay_example_how-can-we-prevent-traffic-delays",
+                "text": "How can we prevent traffic delays?"
+            },
+            {
+                "code": "delay_example_tell-them-without-delay",
+                "text": "Tell them without delay."
+            },
+            {
+                "code": "delay_example_the-delivery-had-a-delay-of-three-weeks",
+                "text": "The delivery had a delay of three weeks."
+            },
+            {
+                "code": "delay_example_the-car-accident-caused-major-delays-to-traffic",
+                "text": "The car accident caused major delays to traffic."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to make someone late; to make something happen later than expected",
+        "examples": [
+            {
+                "code": "delay_example_the-car-accident-seriously-delayed-traffic",
+                "text": "The car accident seriously delayed traffic."
+            },
+            {
+                "code": "delay_example_the-judge-temporarily-delayed-the-hearing",
+                "text": "The judge temporarily delayed the hearing."
+            },
+            {
+                "code": "delay_example_they-deliberately-delayed-the-wedding-ceremony",
+                "text": "They deliberately delayed the wedding ceremony."
+            },
+            {
+                "code": "delay_example_the-weather-will-delay-their-arrival",
+                "text": "The weather will delay their arrival."
+            },
+            {
+                "code": "delay_example_a-sudden-problem-delayed-their-decision",
+                "text": "A sudden problem delayed their decision."
+            },
+            {
+                "code": "delay_example_the-snowstorm-delayed-their-payment",
+                "text": "The snowstorm delayed their payment."
+            }
+        ]
+    }
+]

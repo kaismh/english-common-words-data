@@ -1,0 +1,32 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to do something fun and enjoyable on a special occasion",
+        "examples": [
+            {
+                "code": "celebrate_example_we-celebrated-her-birthday-with-a-big-party",
+                "text": "We celebrated her birthday with a big party."
+            },
+            {
+                "code": "celebrate_example_we-celebrated-the-birth-of-their-first-baby",
+                "text": "We celebrated the birth of their first baby."
+            },
+            {
+                "code": "celebrate_example_the-couple-celebrated-their-50th-anniversary",
+                "text": "The couple celebrated their 50th anniversary."
+            },
+            {
+                "code": "celebrate_example_she-celebrated-her-graduation-at-disneyland",
+                "text": "She celebrated her graduation at Disneyland."
+            },
+            {
+                "code": "celebrate_example_the-city-celebrated-the-team-s-championship-with-a-parade",
+                "text": "The city celebrated the team's championship with a parade."
+            },
+            {
+                "code": "celebrate_example_we-celebrate-the-holidays-with-our-family",
+                "text": "We celebrate the holidays with our family."
+            }
+        ]
+    }
+]

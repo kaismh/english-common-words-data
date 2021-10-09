@@ -1,0 +1,32 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to pull with effort; to waste time by not moving quickly",
+        "examples": [
+            {
+                "code": "drag_example_he-is-dragging-his-feet-on-the-ground",
+                "text": "He is dragging his feet on the ground."
+            },
+            {
+                "code": "drag_example_i-hate-to-drag-you-away-from-your-work-but-can-you-help-me",
+                "text": "I hate to drag you away from your work, but can you help me?"
+            },
+            {
+                "code": "drag_example_stop-dragging-your-feet-and-help-us",
+                "text": "Stop dragging your feet and help us."
+            },
+            {
+                "code": "drag_example_his-jacket-is-always-dragging-on-the-floor",
+                "text": "His jacket is always dragging on the floor."
+            },
+            {
+                "code": "drag_example_people-helped-drag-the-man-out-of-his-burning-car",
+                "text": "People helped drag the man out of his burning car."
+            },
+            {
+                "code": "drag_example_she-dragged-herself-to-bed",
+                "text": "She dragged herself to bed."
+            }
+        ]
+    }
+]

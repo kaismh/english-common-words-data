@@ -1,0 +1,72 @@
+[
+    {
+        "type": "(n)",
+        "mean": "something that happens to a person by chance and not by effort",
+        "examples": [
+            {
+                "code": "luck_example_i-hope-you-have-better-luck-next-time",
+                "text": "I hope you have better luck next time."
+            },
+            {
+                "code": "luck_example_i-wish-you-good-luck",
+                "text": "I wish you good luck!"
+            },
+            {
+                "code": "luck_example_they-won-by-pure-luck",
+                "text": "They won by pure luck."
+            },
+            {
+                "code": "luck_example_it-was-terrible-luck-to-be-sick-during-vacation",
+                "text": "It was terrible luck to be sick during vacation."
+            },
+            {
+                "code": "luck_example_it-would-take-amazing-luck-to-win-the-lottery",
+                "text": "It would take amazing luck to win the lottery."
+            },
+            {
+                "code": "luck_example_she-has-not-had-much-luck-lately",
+                "text": "She has not had much luck lately."
+            },
+            {
+                "code": "luck_example_this-necklace-has-always-brought-me-good-luck",
+                "text": "This necklace has always brought me good luck."
+            },
+            {
+                "code": "luck_example_i-decided-to-try-my-luck-at-gambling",
+                "text": "I decided to try my luck at gambling."
+            },
+            {
+                "code": "luck_example_i-wish-you-better-luck-next-time",
+                "text": "I wish you better luck next time."
+            },
+            {
+                "code": "luck_example_if-our-luck-holds-we-should-win-the-game",
+                "text": "If our luck holds, we should win the game."
+            },
+            {
+                "code": "luck_example_he-was-sure-his-luck-was-about-to-change",
+                "text": "He was sure his luck was about to change."
+            },
+            {
+                "code": "luck_example_don-t-push-your-luck",
+                "text": "Don't push your luck."
+            },
+            {
+                "code": "luck_example_we-won-the-drawing-by-sheer-luck",
+                "text": "We won the drawing by sheer luck."
+            },
+            {
+                "code": "luck_example_i-always-carry-this-charm-for-good-luck",
+                "text": "I always carry this charm for good luck."
+            },
+            {
+                "code": "luck_example_i-wanted-to-buy-a-ticket-to-the-sold-out-show-but-i-was-out-of-luck",
+                "text": "I wanted to buy a ticket to the sold-out show, but I was out of luck."
+            },
+            {
+                "code": "luck_example_with-luck-we-will-make-it-on-time",
+                "text": "With luck, we will make it on time."
+            }
+        ]
+    }
+]

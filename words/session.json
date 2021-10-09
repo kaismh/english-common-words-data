@@ -1,0 +1,44 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a period of time for a particular activity",
+        "examples": [
+            {
+                "code": "session_example_we-had-a-long-session-at-band-practice",
+                "text": "We had a long session at band practice."
+            },
+            {
+                "code": "session_example_we-will-have-another-practice-session-tomorrow",
+                "text": "We will have another practice session tomorrow."
+            },
+            {
+                "code": "session_example_i-have-a-workout-session-in-the-morning",
+                "text": "I have a workout session in the morning."
+            },
+            {
+                "code": "session_example_the-community-college-offers-training-sessions-every-monday",
+                "text": "The community college offers training sessions every Monday."
+            },
+            {
+                "code": "session_example_the-session-is-scheduled-for-the-afternoon",
+                "text": "The session is scheduled for the afternoon."
+            },
+            {
+                "code": "session_example_i-attended-the-last-session",
+                "text": "I attended the last session."
+            },
+            {
+                "code": "session_example_the-session-will-begin-at-ten-o-clock",
+                "text": "The session will begin at ten o'clock."
+            },
+            {
+                "code": "session_example_we-will-have-a-session-on-learning-english-next-week",
+                "text": "We will have a session on learning English next week."
+            },
+            {
+                "code": "session_example_class-is-currently-in-session",
+                "text": "Class is currently in session."
+            }
+        ]
+    }
+]

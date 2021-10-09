@@ -1,0 +1,64 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "difficult, strong",
+        "examples": [
+            {
+                "code": "tough_example_he-is-very-tough-on-his-athletes",
+                "text": "He is very tough on his athletes."
+            },
+            {
+                "code": "tough_example_he-made-a-painfully-tough-decision",
+                "text": "He made a painfully tough decision."
+            },
+            {
+                "code": "tough_example_she-is-an-incredibly-tough-woman",
+                "text": "She is an incredibly tough woman."
+            },
+            {
+                "code": "tough_example_you-have-to-be-mentally-tough-to-handle-it",
+                "text": "You have to be mentally tough to handle it."
+            },
+            {
+                "code": "tough_example_are-you-tough-enough-to-handle-it",
+                "text": "Are you tough enough to handle it?"
+            },
+            {
+                "code": "tough_example_she-s-had-a-tough-life",
+                "text": "She's had a tough life."
+            },
+            {
+                "code": "tough_example_she-is-tough",
+                "text": "She is tough."
+            },
+            {
+                "code": "tough_example_he-appears-tough-but-he-s-not",
+                "text": "He appears tough, but he's not."
+            },
+            {
+                "code": "tough_example_he-is-acting-tough-around-you",
+                "text": "He is acting tough around you."
+            },
+            {
+                "code": "tough_example_she-remained-tough-during-her-treatment",
+                "text": "She remained tough during her treatment."
+            },
+            {
+                "code": "tough_example_he-is-tough-on-his-students",
+                "text": "He is tough on his students."
+            },
+            {
+                "code": "tough_example_they-are-going-through-tough-times",
+                "text": "They are going through tough times."
+            },
+            {
+                "code": "tough_example_don-t-act-tough-with-me",
+                "text": "Don't act tough with me."
+            },
+            {
+                "code": "tough_example_that-was-a-tough-assignment",
+                "text": "That was a tough assignment."
+            }
+        ]
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a piece of furniture with a flat top and legs",
+        "examples": [
+            {
+                "code": "table_example_that-is-a-big-table",
+                "text": "That is a big table."
+            },
+            {
+                "code": "table_example_i-want-to-buy-a-glass-table",
+                "text": "I want to buy a glass table."
+            },
+            {
+                "code": "table_example_we-need-a-dining-table",
+                "text": "We need a dining table."
+            },
+            {
+                "code": "table_example_he-has-a-ping-pong-table-at-his-house",
+                "text": "He has a ping pong table at his house."
+            },
+            {
+                "code": "table_example_let-s-sit-around-the-table",
+                "text": "Let's sit around the table."
+            },
+            {
+                "code": "table_example_please-set-the-table",
+                "text": "Please set the table."
+            },
+            {
+                "code": "table_example_he-is-hiding-under-the-table",
+                "text": "He is hiding under the table."
+            },
+            {
+                "code": "table_example_she-put-the-food-on-the-table",
+                "text": "She put the food on the table."
+            }
+        ]
+    }
+]

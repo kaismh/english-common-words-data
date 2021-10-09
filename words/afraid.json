@@ -1,0 +1,40 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "feeling fear; scared",
+        "examples": [
+            {
+                "code": "afraid_example_he-is-afraid-of-dogs",
+                "text": "He is afraid of dogs."
+            },
+            {
+                "code": "afraid_example_i-am-afraid-most-of-the-time",
+                "text": "I am afraid most of the time."
+            },
+            {
+                "code": "afraid_example_as-a-child-i-became-afraid-of-ghosts",
+                "text": "As a child, I became afraid of ghosts."
+            },
+            {
+                "code": "afraid_example_clowns-make-me-afraid",
+                "text": "Clowns make me afraid."
+            },
+            {
+                "code": "afraid_example_she-is-extremely-afraid-of-public-speaking",
+                "text": "She is extremely afraid of public speaking."
+            },
+            {
+                "code": "afraid_example_the-child-was-suddenly-afraid-of-the-water",
+                "text": "The child was suddenly afraid of the water."
+            },
+            {
+                "code": "afraid_example_i-am-afraid-for-you-when-you-swim-alone",
+                "text": "I am afraid for you when you swim alone."
+            },
+            {
+                "code": "afraid_example_i-am-deeply-afraid-of-death",
+                "text": "I am deeply afraid of death."
+            }
+        ]
+    }
+]

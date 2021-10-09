@@ -1,0 +1,182 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to store information; to make a copy of music or shows for the purpose of watching again",
+        "examples": [
+            {
+                "code": "record_example_i-recorded-all-of-his-information",
+                "text": "I recorded all of his information."
+            },
+            {
+                "code": "record_example_the-event-was-recorded-with-a-video-camera",
+                "text": "The event was recorded with a video camera."
+            },
+            {
+                "code": "record_example_the-camera-recorded-his-performance",
+                "text": "The camera recorded his performance."
+            },
+            {
+                "code": "record_example_i-recorded-their-music",
+                "text": "I recorded their music."
+            },
+            {
+                "code": "record_example_his-death-was-recorded-at-2-31",
+                "text": "His death was recorded at 2:31."
+            },
+            {
+                "code": "record_example_the-police-recorded-his-confession",
+                "text": "The police recorded his confession."
+            },
+            {
+                "code": "record_example_the-scientists-recorded-the-earthquake",
+                "text": "The scientists recorded the earthquake."
+            },
+            {
+                "code": "record_example_i-recorded-every-detail",
+                "text": "I recorded every detail."
+            },
+            {
+                "code": "record_example_we-recorded-the-album-in-just-five-days",
+                "text": "We recorded the album in just five days."
+            },
+            {
+                "code": "record_example_she-accurately-recorded-the-conversation",
+                "text": "She accurately recorded the conversation."
+            },
+            {
+                "code": "record_example_make-sure-you-correctly-record-the-data",
+                "text": "Make sure you correctly record the data."
+            },
+            {
+                "code": "record_example_the-time-is-automatically-recorded-in-the-computer",
+                "text": "The time is automatically recorded in the computer."
+            },
+            {
+                "code": "record_example_the-song-was-originally-recorded-twenty-years-ago",
+                "text": "The song was originally recorded twenty years ago."
+            },
+            {
+                "code": "record_example_the-time-was-recorded-as-3-35",
+                "text": "The time was recorded as 3:35."
+            },
+            {
+                "code": "record_example_the-music-was-recorded-on-cassette",
+                "text": "The music was recorded on cassette."
+            },
+            {
+                "code": "record_example_this-video-was-recorded-with-a-cell-phone",
+                "text": "This video was recorded with a cell phone."
+            }
+        ]
+    },
+    {
+        "type": "(n)",
+        "mean": "stored information; past performance; music",
+        "examples": [
+            {
+                "code": "record_example_he-created-a-record-of-his-monthly-spending",
+                "text": "He created a record of his monthly spending."
+            },
+            {
+                "code": "record_example_he-destroyed-all-of-the-medical-records",
+                "text": "He destroyed all of the medical records."
+            },
+            {
+                "code": "record_example_the-lawyers-checked-the-phone-records",
+                "text": "The lawyers checked the phone records."
+            },
+            {
+                "code": "record_example_the-records-contain-damaging-information",
+                "text": "The records contain damaging information."
+            },
+            {
+                "code": "record_example_he-broke-the-olympic-record",
+                "text": "He broke the Olympic record."
+            },
+            {
+                "code": "record_example_the-company-has-a-clean-record",
+                "text": "The company has a clean record."
+            },
+            {
+                "code": "record_example_the-rock-band-made-a-good-record",
+                "text": "The rock band made a good record."
+            },
+            {
+                "code": "record_example_she-played-a-new-record",
+                "text": "She played a new record."
+            },
+            {
+                "code": "record_example_the-record-industry-is-in-trouble",
+                "text": "The record industry is in trouble."
+            },
+            {
+                "code": "record_example_look-at-this-record-sleeve",
+                "text": "Look at this record sleeve."
+            },
+            {
+                "code": "record_example_we-got-a-record-deal",
+                "text": "We got a record deal."
+            },
+            {
+                "code": "record_example_record-sales-are-down",
+                "text": "Record sales are down."
+            },
+            {
+                "code": "record_example_we-ve-had-record-attendance-this-year",
+                "text": "We've had record attendance this year."
+            },
+            {
+                "code": "record_example_he-has-an-excellent-record-here",
+                "text": "He has an excellent record here."
+            },
+            {
+                "code": "record_example_did-you-see-her-military-record",
+                "text": "Did you see her military record?"
+            },
+            {
+                "code": "record_example_he-has-a-very-solid-record",
+                "text": "He has a very solid record."
+            },
+            {
+                "code": "record_example_this-is-going-to-be-on-your-permanent-record",
+                "text": "This is going to be on your permanent record."
+            },
+            {
+                "code": "record_example_this-is-his-solo-record",
+                "text": "This is his solo record."
+            },
+            {
+                "code": "record_example_we-looked-at-the-patient-records",
+                "text": "We looked at the patient records."
+            },
+            {
+                "code": "record_example_he-produced-ten-platinum-records",
+                "text": "He produced ten platinum records."
+            },
+            {
+                "code": "record_example_his-voting-record-is-consistent",
+                "text": "His voting record is consistent."
+            },
+            {
+                "code": "record_example_she-holds-the-olympic-record",
+                "text": "She holds the Olympic record."
+            },
+            {
+                "code": "record_example_his-school-record-is-good",
+                "text": "His school record is good."
+            },
+            {
+                "code": "record_example_her-allergies-are-kept-in-her-medical-records",
+                "text": "Her allergies are kept in her medical records."
+            },
+            {
+                "code": "record_example_this-was-the-worst-performance-on-record",
+                "text": "This was the worst performance on record."
+            },
+            {
+                "code": "record_example_he-holds-the-record-for-long-jump",
+                "text": "He holds the record for long jump."
+            }
+        ]
+    }
+]

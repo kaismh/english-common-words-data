@@ -1,0 +1,90 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to cause something to be seen",
+        "examples": [
+            {
+                "code": "show_example_the-records-clearly-show-that-business-is-doing-well",
+                "text": "The records clearly show that business is doing well."
+            },
+            {
+                "code": "show_example_the-stain-hardly-shows",
+                "text": "The stain hardly shows."
+            },
+            {
+                "code": "show_example_the-results-seem-to-show-a-connection",
+                "text": "The results seem to show a connection."
+            },
+            {
+                "code": "show_example_the-teacher-attempted-to-show-how-to-solve-the-problem",
+                "text": "The teacher attempted to show how to solve the problem."
+            },
+            {
+                "code": "show_example_he-refused-to-show-his-anger",
+                "text": "He refused to show his anger."
+            },
+            {
+                "code": "show_example_let-me-show-you-how-to-do-it",
+                "text": "Let me show you how to do it."
+            },
+            {
+                "code": "show_example_she-showed-her-answers-to-her-classmate",
+                "text": "She showed her answers to her classmate."
+            }
+        ]
+    },
+    {
+        "type": "(n)",
+        "mean": "a television or radio program; a performance",
+        "examples": [
+            {
+                "code": "show_example_we-watched-the-live-show",
+                "text": "We watched the live show."
+            },
+            {
+                "code": "show_example_jim-loves-to-watch-cooking-shows",
+                "text": "Jim loves to watch cooking shows."
+            },
+            {
+                "code": "show_example_the-comedy-show-was-amazing",
+                "text": "The comedy show was amazing."
+            },
+            {
+                "code": "show_example_that-is-such-a-funny-show",
+                "text": "That is such a funny show."
+            },
+            {
+                "code": "show_example_we-have-tickets-to-the-popular-show",
+                "text": "We have tickets to the popular show."
+            },
+            {
+                "code": "show_example_did-you-see-the-show-last-night",
+                "text": "Did you see the show last night?"
+            },
+            {
+                "code": "show_example_jimmy-kimmel-hosts-his-own-show",
+                "text": "Jimmy Kimmel hosts his own show."
+            },
+            {
+                "code": "show_example_we-watched-the-new-show-featuring-famous-movie-stars",
+                "text": "We watched the new show featuring famous movie stars."
+            },
+            {
+                "code": "show_example_we-are-organizing-a-big-talent-show-at-school",
+                "text": "We are organizing a big talent show at school."
+            },
+            {
+                "code": "show_example_she-is-a-character-from-the-show",
+                "text": "She is a character from the show."
+            },
+            {
+                "code": "show_example_i-saw-him-on-the-show-yesterday",
+                "text": "I saw him on the show yesterday."
+            },
+            {
+                "code": "show_example_my-sister-is-in-show-business",
+                "text": "My sister is in show business."
+            }
+        ]
+    }
+]

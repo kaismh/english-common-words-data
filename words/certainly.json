@@ -1,0 +1,52 @@
+[
+    {
+        "type": "(adv)",
+        "mean": "without a doubt; without question",
+        "examples": [
+            {
+                "code": "certainly_example_he-is-certainly-guilty-of-the-crime",
+                "text": "He is certainly guilty of the crime."
+            },
+            {
+                "code": "certainly_example_the-rumors-are-certainly-true-about-her",
+                "text": "The rumors are certainly true about her."
+            },
+            {
+                "code": "certainly_example_his-anger-is-certainly-understandable",
+                "text": "His anger is certainly understandable."
+            },
+            {
+                "code": "certainly_example_the-tools-were-certainly-useful",
+                "text": "The tools were certainly useful."
+            },
+            {
+                "code": "certainly_example_the-concert-was-certainly-worth-the-money",
+                "text": "The concert was certainly worth the money."
+            },
+            {
+                "code": "certainly_example_she-certainly-deserved-the-award",
+                "text": "She certainly deserved the award."
+            },
+            {
+                "code": "certainly_example_we-certainly-hope-that-things-get-better",
+                "text": "We certainly hope that things get better."
+            },
+            {
+                "code": "certainly_example_he-certainly-improved-his-writing-skills",
+                "text": "He certainly improved his writing skills."
+            },
+            {
+                "code": "certainly_example_she-certainly-needs-some-help",
+                "text": "She certainly needs some help."
+            },
+            {
+                "code": "certainly_example_i-certainly-recommend-him-for-the-job",
+                "text": "I certainly recommend him for the job."
+            },
+            {
+                "code": "certainly_example_i-certainly-remember-our-first-date",
+                "text": "I certainly remember our first date."
+            }
+        ]
+    }
+]

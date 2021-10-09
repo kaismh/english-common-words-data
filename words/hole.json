@@ -1,0 +1,64 @@
+[
+    {
+        "type": "(n)",
+        "mean": "an opening that goes all the way through; a hollow place",
+        "examples": [
+            {
+                "code": "hole_example_there-is-a-huge-hole-in-the-side-of-the-building",
+                "text": "There is a huge hole in the side of the building."
+            },
+            {
+                "code": "hole_example_they-dug-a-deep-hole-for-the-foundation",
+                "text": "They dug a deep hole for the foundation."
+            },
+            {
+                "code": "hole_example_there-is-a-tiny-hole-in-her-sock",
+                "text": "There is a tiny hole in her sock."
+            },
+            {
+                "code": "hole_example_the-door-is-full-of-drill-holes",
+                "text": "The door is full of drill holes."
+            },
+            {
+                "code": "hole_example_there-is-a-drainage-hole-under-the-washing-machine",
+                "text": "There is a drainage hole under the washing machine."
+            },
+            {
+                "code": "hole_example_they-dug-a-hole-to-bury-the-treasure",
+                "text": "They dug a hole to bury the treasure."
+            },
+            {
+                "code": "hole_example_she-drilled-holes-in-the-wall",
+                "text": "She drilled holes in the wall."
+            },
+            {
+                "code": "hole_example_he-wore-a-hole-in-his-shoe",
+                "text": "He wore a hole in his shoe."
+            },
+            {
+                "code": "hole_example_the-missile-blasted-a-hole-in-the-building",
+                "text": "The missile blasted a hole in the building."
+            },
+            {
+                "code": "hole_example_the-sparks-burned-a-hole-through-my-sleeve",
+                "text": "The sparks burned a hole through my sleeve."
+            },
+            {
+                "code": "hole_example_we-need-to-fill-in-this-hole-before-someone-gets-hurt",
+                "text": "We need to fill in this hole before someone gets hurt."
+            },
+            {
+                "code": "hole_example_the-dog-went-down-a-hole",
+                "text": "The dog went down a hole."
+            },
+            {
+                "code": "hole_example_there-s-a-huge-hole-in-my-favorite-shirt",
+                "text": "There's a huge hole in my favorite shirt."
+            },
+            {
+                "code": "hole_example_i-can-see-light-through-a-hole-in-the-roof",
+                "text": "I can see light through a hole in the roof."
+            }
+        ]
+    }
+]

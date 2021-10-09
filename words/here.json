@@ -1,0 +1,58 @@
+[
+    {
+        "type": "(adv)",
+        "mean": "at this place or location",
+        "examples": [
+            {
+                "code": "here_example_the-requirements-are-outlined-here",
+                "text": "The requirements are outlined here."
+            },
+            {
+                "code": "here_example_please-stay-here",
+                "text": "Please stay here."
+            },
+            {
+                "code": "here_example_i-saw-them-here",
+                "text": "I saw them here."
+            },
+            {
+                "code": "here_example_put-the-items-here",
+                "text": "Put the items here."
+            },
+            {
+                "code": "here_example_the-evidence-was-found-here",
+                "text": "The evidence was found here."
+            },
+            {
+                "code": "here_example_don-t-come-here",
+                "text": "Don't come here."
+            },
+            {
+                "code": "here_example_we-live-here",
+                "text": "We live here."
+            }
+        ]
+    },
+    {
+        "type": "(n)",
+        "mean": "this place",
+        "examples": [
+            {
+                "code": "here_example_here-is-my-home",
+                "text": "Here is my home."
+            },
+            {
+                "code": "here_example_here-is-my-wallet",
+                "text": "Here is my wallet."
+            },
+            {
+                "code": "here_example_i-measured-the-distance-from-here-to-the-wall",
+                "text": "I measured the distance from here to the wall."
+            },
+            {
+                "code": "here_example_we-are-leaving-from-here",
+                "text": "We are leaving from here."
+            }
+        ]
+    }
+]

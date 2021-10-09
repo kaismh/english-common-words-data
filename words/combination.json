@@ -1,0 +1,36 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a mixture of two or more things; a specific order of numbers or letters",
+        "examples": [
+            {
+                "code": "combination_example_this-food-has-the-right-combination-of-sweet-and-salty",
+                "text": "This food has the right combination of sweet and salty."
+            },
+            {
+                "code": "combination_example_the-lock-won-t-open-without-the-correct-combination",
+                "text": "The lock won't open without the correct combination."
+            },
+            {
+                "code": "combination_example_their-personalities-form-a-good-combination",
+                "text": "Their personalities form a good combination."
+            },
+            {
+                "code": "combination_example_alcohol-and-drugs-are-a-dangerous-combination",
+                "text": "Alcohol and drugs are a dangerous combination."
+            },
+            {
+                "code": "combination_example_i-like-this-color-combination",
+                "text": "I like this color combination."
+            },
+            {
+                "code": "combination_example_he-is-a-rare-combination-of-handsome-and-kind",
+                "text": "He is a rare combination of handsome and kind."
+            },
+            {
+                "code": "combination_example_the-book-is-a-great-combination-of-comedy-and-sadness",
+                "text": "The book is a great combination of comedy and sadness."
+            }
+        ]
+    }
+]

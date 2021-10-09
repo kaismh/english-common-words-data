@@ -1,0 +1,56 @@
+[
+    {
+        "type": "(n)",
+        "mean": "A group of people who live in the same area and share common characteristics or goals",
+        "examples": [
+            {
+                "code": "community_example_we-live-a-large-community",
+                "text": "We live a large community."
+            },
+            {
+                "code": "community_example_they-grew-up-in-a-low-income-community",
+                "text": "They grew up in a low-income community."
+            },
+            {
+                "code": "community_example_i-love-the-diverse-community-of-different-cultures",
+                "text": "I love the diverse community of different cultures."
+            },
+            {
+                "code": "community_example_the-local-community-is-very-close",
+                "text": "The local community is very close."
+            },
+            {
+                "code": "community_example_my-parents-live-in-a-gated-community",
+                "text": "My parents live in a gated community."
+            },
+            {
+                "code": "community_example_we-encourage-our-children-to-do-community-service",
+                "text": "We encourage our children to do community service."
+            },
+            {
+                "code": "community_example_she-works-at-the-community-college",
+                "text": "She works at the community college."
+            },
+            {
+                "code": "community_example_our-children-play-at-the-community-park",
+                "text": "Our children play at the community park."
+            },
+            {
+                "code": "community_example_martin-luther-king-was-a-powerful-community-leader",
+                "text": "Martin Luther King was a powerful community leader."
+            },
+            {
+                "code": "community_example_the-community-group-promotes-many-events",
+                "text": "The community group promotes many events."
+            },
+            {
+                "code": "community_example_we-need-more-community-involvement",
+                "text": "We need more community involvement."
+            },
+            {
+                "code": "community_example_we-have-many-cultures-in-our-community",
+                "text": "We have many cultures in our community."
+            }
+        ]
+    }
+]

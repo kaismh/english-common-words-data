@@ -1,0 +1,104 @@
+[
+    {
+        "type": "(n)",
+        "mean": "rented set of rooms in a building for people to live in",
+        "examples": [
+            {
+                "code": "flat_example_we-live-in-a-large-flat",
+                "text": "We live in a large flat."
+            },
+            {
+                "code": "flat_example_our-home-is-the-upstairs-flat",
+                "text": "Our home is the upstairs flat."
+            },
+            {
+                "code": "flat_example_you-should-clean-the-flat",
+                "text": "You should clean the flat."
+            },
+            {
+                "code": "flat_example_i-m-trying-to-find-a-flat",
+                "text": "I'm trying to find a flat."
+            },
+            {
+                "code": "flat_example_i-am-looking-for-a-new-flat",
+                "text": "I am looking for a new flat."
+            },
+            {
+                "code": "flat_example_i-live-in-a-downtown-flat",
+                "text": "I live in a downtown flat."
+            }
+        ]
+    },
+    {
+        "type": "(adj)",
+        "mean": "level, smooth or even; not able to be changed",
+        "examples": [
+            {
+                "code": "flat_example_the-board-is-flat",
+                "text": "The board is flat."
+            },
+            {
+                "code": "flat_example_he-lay-flat-on-the-ground-until-the-tornado-passed",
+                "text": "He lay flat on the ground until the tornado passed."
+            },
+            {
+                "code": "flat_example_i-can-t-seem-to-make-this-flat",
+                "text": "I can't seem to make this flat."
+            },
+            {
+                "code": "flat_example_this-area-is-very-flat",
+                "text": "This area is very flat."
+            },
+            {
+                "code": "flat_example_she-tried-to-make-the-papers-completely-flat",
+                "text": "She tried to make the papers completely flat."
+            },
+            {
+                "code": "flat_example_their-yard-is-nearly-flat",
+                "text": "Their yard is nearly flat."
+            },
+            {
+                "code": "flat_example_he-stared-out-at-the-flat-desert",
+                "text": "He stared out at the flat desert."
+            },
+            {
+                "code": "flat_example_she-used-a-flat-iron-to-do-her-hair",
+                "text": "She used a flat iron to do her hair."
+            },
+            {
+                "code": "flat_example_put-the-books-on-a-flat-surface",
+                "text": "Put the books on a flat surface."
+            },
+            {
+                "code": "flat_example_he-stood-on-a-flat-rock",
+                "text": "He stood on a flat rock."
+            },
+            {
+                "code": "flat_example_she-always-wears-flat-shoes",
+                "text": "She always wears flat shoes."
+            },
+            {
+                "code": "flat_example_he-has-a-flat-tire-on-his-car",
+                "text": "He has a flat tire on his car."
+            },
+            {
+                "code": "flat_example_the-bike-ride-stays-on-flat-roads",
+                "text": "The bike ride stays on flat roads."
+            },
+            {
+                "code": "flat_example_he-paid-a-flat-rate",
+                "text": "He paid a flat rate."
+            }
+        ]
+    },
+    {
+        "type": "(adv)",
+        "mean": "completely",
+        "examples": [
+            {
+                "code": "flat_example_he-is-flat-broke",
+                "text": "He is flat broke."
+            }
+        ]
+    }
+]

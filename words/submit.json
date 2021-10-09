@@ -1,0 +1,52 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to give something to someone for review or approval; to accept or agree to something",
+        "examples": [
+            {
+                "code": "submit_example_he-formally-submitted-his-resignation",
+                "text": "He formally submitted his resignation."
+            },
+            {
+                "code": "submit_example_i-submitted-my-vote-electronically-for-the-first-time",
+                "text": "I submitted my vote electronically for the first time."
+            },
+            {
+                "code": "submit_example_they-lost-the-documents-i-originally-submitted",
+                "text": "They lost the documents I originally submitted."
+            },
+            {
+                "code": "submit_example_he-voluntarily-submitted-to-the-new-leadership",
+                "text": "He voluntarily submitted to the new leadership."
+            },
+            {
+                "code": "submit_example_i-was-required-to-submit-an-application",
+                "text": "I was required to submit an application."
+            },
+            {
+                "code": "submit_example_he-had-planned-to-submit-the-proposal-tomorrow",
+                "text": "He had planned to submit the proposal tomorrow."
+            },
+            {
+                "code": "submit_example_she-refused-to-submit-to-his-authority",
+                "text": "She refused to submit to his authority."
+            },
+            {
+                "code": "submit_example_i-submitted-my-registration-for-enrollment",
+                "text": "I submitted my registration for enrollment."
+            },
+            {
+                "code": "submit_example_she-submitted-her-application-to-the-front-office",
+                "text": "She submitted her application to the front office."
+            },
+            {
+                "code": "submit_example_she-refused-to-submit-to-their-threats",
+                "text": "She refused to submit to their threats."
+            },
+            {
+                "code": "submit_example_please-submit-your-application-by-the-due-date",
+                "text": "Please submit your application by the due date."
+            }
+        ]
+    }
+]

@@ -1,0 +1,190 @@
+[
+    {
+        "type": "(n)",
+        "mean": "assistance or aid",
+        "examples": [
+            {
+                "code": "help_example_he-has-been-a-big-help-this-week",
+                "text": "He has been a big help this week."
+            },
+            {
+                "code": "help_example_the-agency-provides-valuable-help-to-those-in-need",
+                "text": "The agency provides valuable help to those in need."
+            },
+            {
+                "code": "help_example_she-offered-much-needed-help",
+                "text": "She offered much-needed help."
+            },
+            {
+                "code": "help_example_they-operate-with-volunteer-help",
+                "text": "They operate with volunteer help."
+            },
+            {
+                "code": "help_example_there-is-federal-help-available-for-those-affected-by-the-tragedy",
+                "text": "There is federal help available for those affected by the tragedy."
+            },
+            {
+                "code": "help_example_i-might-need-some-expert-help-to-figure-this-out",
+                "text": "I might need some expert help to figure this out."
+            },
+            {
+                "code": "help_example_he-is-seeking-medical-help-for-the-problem",
+                "text": "He is seeking medical help for the problem."
+            },
+            {
+                "code": "help_example_she-tries-to-give-each-student-individual-help",
+                "text": "She tries to give each student individual help."
+            },
+            {
+                "code": "help_example_she-gets-a-lot-of-help-from-her-family",
+                "text": "She gets a lot of help from her family."
+            },
+            {
+                "code": "help_example_they-are-asking-for-help-with-the-clean-up",
+                "text": "They are asking for help with the clean-up."
+            },
+            {
+                "code": "help_example_he-heard-someone-calling-for-help",
+                "text": "He heard someone calling for help."
+            },
+            {
+                "code": "help_example_they-sent-for-help",
+                "text": "They sent for help."
+            },
+            {
+                "code": "help_example_do-you-need-any-help",
+                "text": "Do you need any help?"
+            },
+            {
+                "code": "help_example_he-won-t-accept-any-help",
+                "text": "He won't accept any help."
+            },
+            {
+                "code": "help_example_they-refused-our-help",
+                "text": "They refused our help."
+            },
+            {
+                "code": "help_example_a-lot-of-people-offered-to-help-with-the-bills",
+                "text": "A lot of people offered to help with the bills."
+            },
+            {
+                "code": "help_example_we-really-appreciate-all-of-the-help",
+                "text": "We really appreciate all of the help."
+            },
+            {
+                "code": "help_example_he-never-acknowledged-my-help",
+                "text": "He never acknowledged my help."
+            },
+            {
+                "code": "help_example_we-re-waiting-for-help-to-arrive",
+                "text": "We're waiting for help to arrive."
+            },
+            {
+                "code": "help_example_have-you-looked-at-the-help-menu",
+                "text": "Have you looked at the help menu?"
+            },
+            {
+                "code": "help_example_i-think-this-situation-is-beyond-help",
+                "text": "I think this situation is beyond help."
+            },
+            {
+                "code": "help_example_the-instructions-are-too-complicated-to-be-of-help",
+                "text": "The instructions are too complicated to be of help."
+            },
+            {
+                "code": "help_example_i-think-i-can-do-it-with-a-little-help",
+                "text": "I think I can do it with a little help."
+            },
+            {
+                "code": "help_example_i-got-a-lot-of-help-from-my-classmates",
+                "text": "I got a lot of help from my classmates."
+            },
+            {
+                "code": "help_example_there-is-help-available-for-those-affected-by-the-storm",
+                "text": "There is help available for those affected by the storm."
+            },
+            {
+                "code": "help_example_he-s-been-a-big-help-to-everyone-this-week",
+                "text": "He's been a big help to everyone this week."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to assist or aid; make something easier or better",
+        "examples": [
+            {
+                "code": "help_example_she-helps-a-lot-with-household-chores",
+                "text": "She helps a lot with household chores."
+            },
+            {
+                "code": "help_example_he-actively-helps-with-his-daughter-s-soccer-team",
+                "text": "He actively helps with his daughter's soccer team."
+            },
+            {
+                "code": "help_example_his-good-explanation-really-helped-them-understand",
+                "text": "His good explanation really helped them understand."
+            },
+            {
+                "code": "help_example_her-recovery-was-helped-considerably-by-not-having-to-work",
+                "text": "Her recovery was helped considerably by not having to work."
+            },
+            {
+                "code": "help_example_it-definitely-helps-that-he-s-rich",
+                "text": "It definitely helps that he's rich."
+            },
+            {
+                "code": "help_example_this-medicine-will-supposedly-help-you-feel-better",
+                "text": "This medicine will supposedly help you feel better."
+            },
+            {
+                "code": "help_example_she-was-able-to-help-financially",
+                "text": "She was able to help financially."
+            },
+            {
+                "code": "help_example_i-can-t-help-directly",
+                "text": "I can't help directly."
+            },
+            {
+                "code": "help_example_i-can-help-tomorrow",
+                "text": "I can help tomorrow."
+            },
+            {
+                "code": "help_example_i-know-she-was-only-trying-to-help",
+                "text": "I know she was only trying to help."
+            },
+            {
+                "code": "help_example_he-helped-her-into-the-car",
+                "text": "He helped her into the car."
+            },
+            {
+                "code": "help_example_she-helped-me-with-my-homework",
+                "text": "She helped me with my homework."
+            },
+            {
+                "code": "help_example_this-drug-might-help-you-feel-better",
+                "text": "This drug might help you feel better."
+            },
+            {
+                "code": "help_example_she-tries-hard-to-help-her-customers",
+                "text": "She tries hard to help her customers."
+            },
+            {
+                "code": "help_example_this-might-help-the-pain",
+                "text": "This might help the pain."
+            },
+            {
+                "code": "help_example_they-are-helping-the-survivors-of-the-storm",
+                "text": "They are helping the survivors of the storm."
+            },
+            {
+                "code": "help_example_i-don-t-know-if-it-will-help-the-situation",
+                "text": "I don't know if it will help the situation."
+            },
+            {
+                "code": "help_example_the-new-policy-should-help-the-economy",
+                "text": "The new policy should help the economy."
+            }
+        ]
+    }
+]

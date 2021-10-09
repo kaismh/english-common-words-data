@@ -1,0 +1,78 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to fix something; to make something right or accurate",
+        "examples": [
+            {
+                "code": "correct_example_please-correct-the-spelling",
+                "text": "Please correct the spelling."
+            },
+            {
+                "code": "correct_example_we-need-to-correct-the-misunderstanding",
+                "text": "We need to correct the misunderstanding."
+            },
+            {
+                "code": "correct_example_the-teacher-is-correcting-the-homework",
+                "text": "The teacher is correcting the homework."
+            },
+            {
+                "code": "correct_example_please-correct-your-work-and-return-it-tomorrow",
+                "text": "Please correct your work and return it tomorrow."
+            },
+            {
+                "code": "correct_example_she-is-always-correcting-my-grammar",
+                "text": "She is always correcting my grammar."
+            },
+            {
+                "code": "correct_example_he-never-corrects-his-mistakes",
+                "text": "He never corrects his mistakes."
+            },
+            {
+                "code": "correct_example_i-m-simply-correcting-your-mistakes-again",
+                "text": "I'm simply correcting your mistakes again."
+            },
+            {
+                "code": "correct_example_stop-correcting-me",
+                "text": "Stop correcting me!"
+            },
+            {
+                "code": "correct_example_he-keeps-correcting-my-grammar-in-public",
+                "text": "He keeps correcting my grammar in public."
+            },
+            {
+                "code": "correct_example_i-need-to-correct-my-errors",
+                "text": "I need to correct my errors."
+            },
+            {
+                "code": "correct_example_she-likes-correcting-me-when-i-m-wrong",
+                "text": "She likes correcting me when I'm wrong."
+            }
+        ]
+    },
+    {
+        "type": "(adj)",
+        "mean": "right or accurate",
+        "examples": [
+            {
+                "code": "correct_example_your-answer-is-correct",
+                "text": "Your answer is correct."
+            },
+            {
+                "code": "correct_example_what-you-said-is-technically-correct",
+                "text": "What you said is technically correct."
+            },
+            {
+                "code": "correct_example_you-are-absolutely-correct",
+                "text": "You are absolutely correct."
+            },
+            {
+                "code": "correct_example_your-statement-is-grammatically-correct",
+                "text": "Your statement is grammatically correct."
+            },
+            {
+                "code": "correct_example_do-you-have-the-correct-address",
+                "text": "Do you have the correct address?"
+            }
+        ]
+    }
+]

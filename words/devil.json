@@ -1,0 +1,28 @@
+[
+    {
+        "type": "(n)",
+        "mean": "an evil spirit; a troublemaker",
+        "examples": [
+            {
+                "code": "devil_example_she-believes-in-the-devil",
+                "text": "She believes in the devil."
+            },
+            {
+                "code": "devil_example_he-s-acting-like-a-little-devil",
+                "text": "He's acting like a little devil."
+            },
+            {
+                "code": "devil_example_this-is-devil-worship",
+                "text": "This is devil worship."
+            },
+            {
+                "code": "devil_example_the-boy-is-a-devil-worshipper",
+                "text": "The boy is a devil worshipper."
+            },
+            {
+                "code": "devil_example_what-a-little-devil",
+                "text": "What a little devil."
+            }
+        ]
+    }
+]

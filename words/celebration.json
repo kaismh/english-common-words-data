@@ -1,0 +1,48 @@
+[
+    {
+        "type": "(n)",
+        "mean": "an event to express joy and happiness about something",
+        "examples": [
+            {
+                "code": "celebration_example_our-neighbors-are-having-a-loud-celebration",
+                "text": "Our neighbors are having a loud celebration."
+            },
+            {
+                "code": "celebration_example_we-re-having-a-big-celebration",
+                "text": "We're having a big celebration."
+            },
+            {
+                "code": "celebration_example_our-wedding-was-a-joyous-celebration",
+                "text": "Our wedding was a joyous celebration."
+            },
+            {
+                "code": "celebration_example_the-olympic-victory-led-to-a-national-celebration",
+                "text": "The Olympic victory led to a national celebration."
+            },
+            {
+                "code": "celebration_example_are-you-going-to-the-birthday-celebration",
+                "text": "Are you going to the birthday celebration?"
+            },
+            {
+                "code": "celebration_example_easter-is-a-religious-celebration",
+                "text": "Easter is a religious celebration."
+            },
+            {
+                "code": "celebration_example_she-is-having-a-birthday-celebration-at-her-house",
+                "text": "She is having a birthday celebration at her house."
+            },
+            {
+                "code": "celebration_example_you-should-join-the-celebration",
+                "text": "You should join the celebration."
+            },
+            {
+                "code": "celebration_example_they-are-having-a-celebration-dinner-for-their-son",
+                "text": "They are having a celebration dinner for their son."
+            },
+            {
+                "code": "celebration_example_we-are-gathering-in-celebration-of-the-new-year",
+                "text": "We are gathering in celebration of the New Year."
+            }
+        ]
+    }
+]

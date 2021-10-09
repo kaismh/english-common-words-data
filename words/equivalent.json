@@ -1,0 +1,106 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "the same in size, amount, or value; equal",
+        "examples": [
+            {
+                "code": "equivalent_example_the-assignments-are-equivalent-in-difficulty",
+                "text": "The assignments are equivalent in difficulty."
+            },
+            {
+                "code": "equivalent_example_the-air-pressure-will-become-equivalent-over-time",
+                "text": "The air pressure will become equivalent over time."
+            },
+            {
+                "code": "equivalent_example_the-two-boxes-have-exactly-equivalent-dimensions",
+                "text": "The two boxes have exactly equivalent dimensions."
+            },
+            {
+                "code": "equivalent_example_these-two-classes-are-roughly-equivalent",
+                "text": "These two classes are roughly equivalent."
+            },
+            {
+                "code": "equivalent_example_the-two-equations-are-mathematically-equivalent",
+                "text": "The two equations are mathematically equivalent."
+            },
+            {
+                "code": "equivalent_example_the-tests-are-equivalent-in-difficulty",
+                "text": "The tests are equivalent in difficulty."
+            },
+            {
+                "code": "equivalent_example_the-value-of-the-test-is-equivalent-to-three-assignments",
+                "text": "The value of the test is equivalent to three assignments."
+            },
+            {
+                "code": "equivalent_example_i-gave-each-student-an-equivalent-amount",
+                "text": "I gave each student an equivalent amount."
+            },
+            {
+                "code": "equivalent_example_the-pieces-are-of-equivalent-size",
+                "text": "The pieces are of equivalent size."
+            },
+            {
+                "code": "equivalent_example_the-tests-have-equivalent-value",
+                "text": "The tests have equivalent value."
+            }
+        ]
+    },
+    {
+        "type": "(n)",
+        "mean": "something that is the same in size, amount, or value",
+        "examples": [
+            {
+                "code": "equivalent_example_he-offered-to-replace-the-broken-vase-with-an-exact-equivalent",
+                "text": "He offered to replace the broken vase with an exact equivalent."
+            },
+            {
+                "code": "equivalent_example_some-argue-that-a-text-message-is-the-modern-equivalent-of-a-telegram",
+                "text": "Some argue that a text message is the modern equivalent of a telegram."
+            },
+            {
+                "code": "equivalent_example_this-holiday-is-the-closest-equivalent-to-thanksgiving",
+                "text": "This holiday is the closest equivalent to Thanksgiving."
+            },
+            {
+                "code": "equivalent_example_that-painting-is-a-rough-equivalent-to-the-original",
+                "text": "That painting is a rough equivalent to the original."
+            },
+            {
+                "code": "equivalent_example_the-online-equivalent-of-that-book-is-available",
+                "text": "The online equivalent of that book is available."
+            },
+            {
+                "code": "equivalent_example_this-assignment-is-considered-the-equivalent-of-a-final-exam",
+                "text": "This assignment is considered the equivalent of a final exam."
+            },
+            {
+                "code": "equivalent_example_they-want-their-product-to-become-the-equivalent-of-the-original",
+                "text": "They want their product to become the equivalent of the original."
+            },
+            {
+                "code": "equivalent_example_if-you-can-produce-an-equivalent-product-we-will-consider-it",
+                "text": "If you can produce an equivalent product, we will consider it."
+            },
+            {
+                "code": "equivalent_example_he-earned-the-equivalent-of-one-million-dollars",
+                "text": "He earned the equivalent of one million dollars."
+            },
+            {
+                "code": "equivalent_example_he-had-to-pay-the-equivalent-of-her-loss",
+                "text": "He had to pay the equivalent of her loss."
+            },
+            {
+                "code": "equivalent_example_there-is-no-equivalent-for-homemade-food",
+                "text": "There is no equivalent for homemade food."
+            },
+            {
+                "code": "equivalent_example_this-box-is-the-equivalent-of-that-one",
+                "text": "This box is the equivalent of that one."
+            },
+            {
+                "code": "equivalent_example_this-is-the-closest-equivalent-to-chinese-food-i-can-make",
+                "text": "This is the closest equivalent to Chinese food I can make."
+            }
+        ]
+    }
+]

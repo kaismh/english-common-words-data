@@ -1,0 +1,154 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a place; an opinion or point of view; a situation; the way someone is sitting or standing; a particular job",
+        "examples": [
+            {
+                "code": "position_example_take-your-position",
+                "text": "Take your position."
+            },
+            {
+                "code": "position_example_i-applied-for-a-position-at-the-bank",
+                "text": "I applied for a position at the bank."
+            },
+            {
+                "code": "position_example_i-offered-him-a-position-in-my-company",
+                "text": "I offered him a position in my company."
+            },
+            {
+                "code": "position_example_she-supports-his-position-on-the-issue",
+                "text": "She supports his position on the issue."
+            },
+            {
+                "code": "position_example_i-resigned-from-my-position-at-the-company",
+                "text": "I resigned from my position at the company."
+            },
+            {
+                "code": "position_example_they-finally-filled-the-managerial-position",
+                "text": "They finally filled the managerial position."
+            },
+            {
+                "code": "position_example_he-put-me-in-a-difficult-position",
+                "text": "He put me in a difficult position."
+            },
+            {
+                "code": "position_example_she-tried-to-defend-her-position",
+                "text": "She tried to defend her position."
+            },
+            {
+                "code": "position_example_please-take-your-original-positions",
+                "text": "Please take your original positions."
+            },
+            {
+                "code": "position_example_i-have-a-part-time-position-at-the-company",
+                "text": "I have a part-time position at the company."
+            },
+            {
+                "code": "position_example_you-have-put-me-in-an-awkward-position",
+                "text": "You have put me in an awkward position."
+            },
+            {
+                "code": "position_example_he-is-in-a-strong-position-to-help-us",
+                "text": "He is in a strong position to help us."
+            },
+            {
+                "code": "position_example_we-re-in-the-same-position",
+                "text": "We're in the same position."
+            },
+            {
+                "code": "position_example_the-dancer-was-in-a-kneeling-position",
+                "text": "The dancer was in a kneeling position."
+            },
+            {
+                "code": "position_example_she-was-in-a-sitting-position-on-the-floor",
+                "text": "She was in a sitting position on the floor."
+            },
+            {
+                "code": "position_example_he-has-a-comfortable-position-in-the-government",
+                "text": "He has a comfortable position in the government."
+            },
+            {
+                "code": "position_example_he-holds-an-unpopular-position-on-that-topic",
+                "text": "He holds an unpopular position on that topic."
+            },
+            {
+                "code": "position_example_my-current-position-is-well-paid",
+                "text": "My current position is well paid."
+            },
+            {
+                "code": "position_example_my-official-position-has-changed",
+                "text": "My official position has changed."
+            },
+            {
+                "code": "position_example_the-board-is-in-a-horizontal-position",
+                "text": "The board is in a horizontal position."
+            },
+            {
+                "code": "position_example_i-am-in-a-difficult-position",
+                "text": "I am in a difficult position."
+            },
+            {
+                "code": "position_example_she-is-in-a-seated-position",
+                "text": "She is in a seated position."
+            },
+            {
+                "code": "position_example_he-has-an-important-position-in-the-government",
+                "text": "He has an important position in the government."
+            },
+            {
+                "code": "position_example_she-was-put-into-an-awkward-position",
+                "text": "She was put into an awkward position."
+            },
+            {
+                "code": "position_example_she-got-into-a-standing-position",
+                "text": "She got into a standing position."
+            },
+            {
+                "code": "position_example_i-assumed-the-position-of-manager",
+                "text": "I assumed the position of manager."
+            },
+            {
+                "code": "position_example_my-position-on-this-issue-is-firm",
+                "text": "My position on this issue is firm."
+            },
+            {
+                "code": "position_example_i-just-got-a-position-at-the-flower-store",
+                "text": "I just got a position at the flower store."
+            },
+            {
+                "code": "position_example_his-position-within-the-company-is-safe",
+                "text": "His position within the company is safe."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to put something in a particular place",
+        "examples": [
+            {
+                "code": "position_example_the-army-is-well-positioned",
+                "text": "The army is well positioned."
+            },
+            {
+                "code": "position_example_the-gallery-worker-properly-positioned-the-paintings",
+                "text": "The gallery worker properly positioned the paintings."
+            },
+            {
+                "code": "position_example_he-positioned-the-painting-on-the-wall",
+                "text": "He positioned the painting on the wall."
+            },
+            {
+                "code": "position_example_she-positioned-herself-in-front-of-the-door",
+                "text": "She positioned herself in front of the door."
+            },
+            {
+                "code": "position_example_he-positioned-himself-between-the-two-cars",
+                "text": "He positioned himself between the two cars."
+            },
+            {
+                "code": "position_example_cameras-were-positioned-at-the-back-of-the-room",
+                "text": "Cameras were positioned at the back of the room."
+            }
+        ]
+    }
+]

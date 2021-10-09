@@ -1,0 +1,44 @@
+[
+    {
+        "type": "(adv)",
+        "mean": "completely or totally",
+        "examples": [
+            {
+                "code": "absolutely_example_that-is-absolutely-amazing",
+                "text": "That is absolutely amazing."
+            },
+            {
+                "code": "absolutely_example_that-picture-is-absolutely-gorgeous",
+                "text": "That picture is absolutely gorgeous."
+            },
+            {
+                "code": "absolutely_example_the-little-puppy-is-absolutely-adorable",
+                "text": "The little puppy is absolutely adorable."
+            },
+            {
+                "code": "absolutely_example_your-dress-is-absolutely-beautiful",
+                "text": "Your dress is absolutely beautiful."
+            },
+            {
+                "code": "absolutely_example_the-trash-was-absolutely-disgusting",
+                "text": "The trash was absolutely disgusting."
+            },
+            {
+                "code": "absolutely_example_his-performance-was-absolutely-marvelous",
+                "text": "His performance was absolutely marvelous."
+            },
+            {
+                "code": "absolutely_example_i-absolutely-love-your-outfit",
+                "text": "I absolutely love your outfit."
+            },
+            {
+                "code": "absolutely_example_i-absolutely-agree-with-you",
+                "text": "I absolutely agree with you."
+            },
+            {
+                "code": "absolutely_example_i-absolutely-guarantee-it",
+                "text": "I absolutely guarantee it."
+            }
+        ]
+    }
+]

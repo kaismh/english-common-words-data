@@ -1,0 +1,68 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the state of being male or female; sexual intercourse",
+        "examples": [
+            {
+                "code": "sex_example_he-is-at-the-age-where-he-is-beginning-to-notice-the-opposite-sex",
+                "text": "He is at the age where he is beginning to notice the opposite sex."
+            },
+            {
+                "code": "sex_example_in-some-states-same-sex-marriage-is-legal",
+                "text": "In some states, same-sex marriage is legal."
+            },
+            {
+                "code": "sex_example_they-practice-safe-sex",
+                "text": "They practice safe sex."
+            },
+            {
+                "code": "sex_example_she-had-an-ultrasound-to-determine-the-baby-s-sex",
+                "text": "She had an ultrasound to determine the baby's sex."
+            },
+            {
+                "code": "sex_example_i-am-attracted-to-the-opposite-sex",
+                "text": "I am attracted to the opposite sex."
+            },
+            {
+                "code": "sex_example_she-has-never-had-sex-before",
+                "text": "She has never had sex before."
+            },
+            {
+                "code": "sex_example_bobby-refused-to-have-sex-before-marriage",
+                "text": "Bobby refused to have sex before marriage."
+            },
+            {
+                "code": "sex_example_we-discussed-issues-of-sex-equality",
+                "text": "We discussed issues of sex equality."
+            },
+            {
+                "code": "sex_example_i-witnessed-sex-discrimination-at-my-old-school",
+                "text": "I witnessed sex discrimination at my old school."
+            },
+            {
+                "code": "sex_example_he-would-like-to-have-a-sex-change",
+                "text": "He would like to have a sex change."
+            },
+            {
+                "code": "sex_example_she-has-no-sex-life",
+                "text": "She has no sex life."
+            },
+            {
+                "code": "sex_example_he-was-involved-in-a-sex-scandal",
+                "text": "He was involved in a sex scandal."
+            },
+            {
+                "code": "sex_example_the-movie-star-is-known-as-a-sex-symbol",
+                "text": "The movie star is known as a sex symbol."
+            },
+            {
+                "code": "sex_example_there-are-huge-differences-between-the-sexes",
+                "text": "There are huge differences between the sexes."
+            },
+            {
+                "code": "sex_example_she-had-sex-with-her-husband",
+                "text": "She had sex with her husband."
+            }
+        ]
+    }
+]

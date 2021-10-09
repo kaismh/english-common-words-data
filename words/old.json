@@ -1,0 +1,92 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "not young; having lived a long time; not new; of a certain age",
+        "examples": [
+            {
+                "code": "old_example_she-seems-very-old-for-her-age",
+                "text": "She seems very old for her age."
+            },
+            {
+                "code": "old_example_she-s-getting-wiser-as-she-grows-older",
+                "text": "She's getting wiser as she grows older."
+            },
+            {
+                "code": "old_example_this-jacket-is-really-old",
+                "text": "This jacket is really old."
+            },
+            {
+                "code": "old_example_i-saw-an-old-girlfriend-today",
+                "text": "I saw an old girlfriend today."
+            },
+            {
+                "code": "old_example_that-is-old-news-to-us",
+                "text": "That is old news to us."
+            },
+            {
+                "code": "old_example_we-should-respect-old-people",
+                "text": "We should respect old people."
+            },
+            {
+                "code": "old_example_that-is-the-old-way-of-doing-things",
+                "text": "That is the old way of doing things."
+            },
+            {
+                "code": "old_example_they-lived-to-a-very-old-age",
+                "text": "They lived to a very old age."
+            },
+            {
+                "code": "old_example_an-old-lady-lives-next-door",
+                "text": "An old lady lives next door."
+            },
+            {
+                "code": "old_example_we-saw-an-old-movie",
+                "text": "We saw an old movie."
+            },
+            {
+                "code": "old_example_this-song-is-an-old-favorite",
+                "text": "This song is an old favorite."
+            },
+            {
+                "code": "old_example_they-came-from-the-old-country",
+                "text": "They came from the old country."
+            },
+            {
+                "code": "old_example_i-told-her-an-old-story",
+                "text": "I told her an old story."
+            },
+            {
+                "code": "old_example_we-are-trying-to-get-rid-of-old-clothes",
+                "text": "We are trying to get rid of old clothes."
+            },
+            {
+                "code": "old_example_they-live-in-an-old-building",
+                "text": "They live in an old building."
+            },
+            {
+                "code": "old_example_i-know-many-old-songs",
+                "text": "I know many old songs."
+            },
+            {
+                "code": "old_example_have-a-look-at-these-old-photographs",
+                "text": "Have a look at these old photographs."
+            },
+            {
+                "code": "old_example_her-clothes-are-of-old-fashion",
+                "text": "Her clothes are of old fashion."
+            },
+            {
+                "code": "old_example_he-is-too-old-to-be-playing-on-the-swings",
+                "text": "He is too old to be playing on the swings."
+            },
+            {
+                "code": "old_example_she-is-old-enough-to-drive",
+                "text": "She is old enough to drive."
+            },
+            {
+                "code": "old_example_they-are-tearing-down-a-very-old-house",
+                "text": "They are tearing down a very old house."
+            }
+        ]
+    }
+]

@@ -1,0 +1,64 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a plastic or glass container often used for holding liquid",
+        "examples": [
+            {
+                "code": "bottle_example_she-has-a-full-bottle-of-water",
+                "text": "She has a full bottle of water."
+            },
+            {
+                "code": "bottle_example_you-should-recycle-glass-bottles",
+                "text": "You should recycle glass bottles."
+            },
+            {
+                "code": "bottle_example_he-collects-beer-bottles",
+                "text": "He collects beer bottles."
+            },
+            {
+                "code": "bottle_example_don-t-step-on-that-broken-bottle",
+                "text": "Don't step on that broken bottle."
+            },
+            {
+                "code": "bottle_example_fill-this-bottle-with-milk",
+                "text": "Fill this bottle with milk."
+            },
+            {
+                "code": "bottle_example_she-will-empty-the-bottle-before-she-recycles-it",
+                "text": "She will empty the bottle before she recycles it."
+            },
+            {
+                "code": "bottle_example_the-bottle-broke",
+                "text": "The bottle broke."
+            },
+            {
+                "code": "bottle_example_let-s-have-another-bottle-of-beer",
+                "text": "Let's have another bottle of beer."
+            },
+            {
+                "code": "bottle_example_the-crowd-began-throwing-bottles-at-the-singer",
+                "text": "The crowd began throwing bottles at the singer."
+            },
+            {
+                "code": "bottle_example_our-baby-has-started-bottle-feeding",
+                "text": "Our baby has started bottle feeding."
+            },
+            {
+                "code": "bottle_example_i-need-a-bottle-opener",
+                "text": "I need a bottle opener."
+            },
+            {
+                "code": "bottle_example_i-m-collecting-bottle-caps",
+                "text": "I'm collecting bottle caps."
+            },
+            {
+                "code": "bottle_example_let-s-celebrate-over-a-bottle-of-champagne",
+                "text": "Let's celebrate over a bottle of champagne."
+            },
+            {
+                "code": "bottle_example_he-brought-a-bottle-of-wine-to-the-party",
+                "text": "He brought a bottle of wine to the party."
+            }
+        ]
+    }
+]

@@ -1,0 +1,56 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the season between autumn/fall and spring",
+        "examples": [
+            {
+                "code": "winter_example_it-was-very-cold-last-winter",
+                "text": "It was very cold last winter."
+            },
+            {
+                "code": "winter_example_more-snow-is-expected-next-winter",
+                "text": "More snow is expected next winter."
+            },
+            {
+                "code": "winter_example_it-was-a-long-winter",
+                "text": "It was a long winter."
+            },
+            {
+                "code": "winter_example_we-had-a-bad-winter",
+                "text": "We had a bad winter."
+            },
+            {
+                "code": "winter_example_i-am-looking-forward-to-a-mild-winter",
+                "text": "I am looking forward to a mild winter."
+            },
+            {
+                "code": "winter_example_we-can-expect-snow-in-late-winter",
+                "text": "We can expect snow in late winter."
+            },
+            {
+                "code": "winter_example_i-don-t-enjoy-winter-conditions",
+                "text": "I don't enjoy winter conditions."
+            },
+            {
+                "code": "winter_example_students-can-t-wait-until-winter-break",
+                "text": "Students can't wait until winter break."
+            },
+            {
+                "code": "winter_example_my-garden-does-not-do-well-in-winter-snow",
+                "text": "My garden does not do well in winter snow."
+            },
+            {
+                "code": "winter_example_i-need-to-get-out-my-winter-coat",
+                "text": "I need to get out my winter coat."
+            },
+            {
+                "code": "winter_example_i-look-forward-to-watching-winter-sports-on-television",
+                "text": "I look forward to watching winter sports on television."
+            },
+            {
+                "code": "winter_example_we-go-somewhere-warm-for-the-winter",
+                "text": "We go somewhere warm for the winter."
+            }
+        ]
+    }
+]

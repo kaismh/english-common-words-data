@@ -1,0 +1,52 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a big, heavy vehicle used for carrying things",
+        "examples": [
+            {
+                "code": "truck_example_we-need-a-moving-truck",
+                "text": "We need a moving truck."
+            },
+            {
+                "code": "truck_example_i-have-a-pickup-truck-you-can-use",
+                "text": "I have a pickup truck you can use."
+            },
+            {
+                "code": "truck_example_the-fire-trucks-are-on-their-way",
+                "text": "The fire trucks are on their way."
+            },
+            {
+                "code": "truck_example_i-had-to-call-a-tow-truck-because-my-car-wouldn-t-start",
+                "text": "I had to call a tow truck because my car wouldn't start."
+            },
+            {
+                "code": "truck_example_the-little-boy-likes-to-play-with-his-toy-truck",
+                "text": "The little boy likes to play with his toy truck."
+            },
+            {
+                "code": "truck_example_we-loaded-the-moving-truck",
+                "text": "We loaded the moving truck."
+            },
+            {
+                "code": "truck_example_she-has-a-hard-time-driving-a-big-truck",
+                "text": "She has a hard time driving a big truck."
+            },
+            {
+                "code": "truck_example_the-truck-is-carrying-fuel",
+                "text": "The truck is carrying fuel."
+            },
+            {
+                "code": "truck_example_the-truck-driver-has-been-on-the-road-all-night-long",
+                "text": "The truck driver has been on the road all night long."
+            },
+            {
+                "code": "truck_example_he-rested-at-the-truck-stop",
+                "text": "He rested at the truck stop."
+            },
+            {
+                "code": "truck_example_the-truckload-was-too-heavy-for-the-road",
+                "text": "The truckload was too heavy for the road."
+            }
+        ]
+    }
+]

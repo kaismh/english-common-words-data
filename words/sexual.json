@@ -1,0 +1,40 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "involving sex",
+        "examples": [
+            {
+                "code": "sexual_example_we-will-not-allow-sexual-activity-on-campus",
+                "text": "We will not allow sexual activity on campus."
+            },
+            {
+                "code": "sexual_example_he-was-accused-of-sexual-abuse",
+                "text": "He was accused of sexual abuse."
+            },
+            {
+                "code": "sexual_example_the-latest-generation-is-experimenting-with-sexual-freedom",
+                "text": "The latest generation is experimenting with sexual freedom."
+            },
+            {
+                "code": "sexual_example_he-had-a-sexual-affair-with-his-secretary",
+                "text": "He had a sexual affair with his secretary."
+            },
+            {
+                "code": "sexual_example_they-have-a-lot-of-sexual-chemistry-between-them",
+                "text": "They have a lot of sexual chemistry between them."
+            },
+            {
+                "code": "sexual_example_the-movie-has-some-sexual-situations",
+                "text": "The movie has some sexual situations."
+            },
+            {
+                "code": "sexual_example_a-person-s-sexual-orientation-is-a-private-matter",
+                "text": "A person's sexual orientation is a private matter."
+            },
+            {
+                "code": "sexual_example_we-are-learning-sexual-reproduction-in-biology-class",
+                "text": "We are learning sexual reproduction in biology class."
+            }
+        ]
+    }
+]

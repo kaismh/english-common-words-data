@@ -1,0 +1,84 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the measurement of how heavy someone or something is; a heavy object",
+        "examples": [
+            {
+                "code": "weight_example_he-has-lost-an-incredible-amount-of-weight",
+                "text": "He has lost an incredible amount of weight."
+            },
+            {
+                "code": "weight_example_what-is-the-average-weight-of-wrestlers",
+                "text": "What is the average weight of wrestlers?"
+            },
+            {
+                "code": "weight_example_what-is-her-total-weight",
+                "text": "What is her total weight?"
+            },
+            {
+                "code": "weight_example_he-is-at-a-healthy-weight",
+                "text": "He is at a healthy weight."
+            },
+            {
+                "code": "weight_example_she-reached-her-target-weight",
+                "text": "She reached her target weight."
+            },
+            {
+                "code": "weight_example_he-uses-heavy-weights-for-exercise",
+                "text": "He uses heavy weights for exercise."
+            },
+            {
+                "code": "weight_example_she-is-watching-her-weight",
+                "text": "She is watching her weight."
+            },
+            {
+                "code": "weight_example_she-gained-a-lot-of-weight-during-her-pregnancy",
+                "text": "She gained a lot of weight during her pregnancy."
+            },
+            {
+                "code": "weight_example_he-needs-to-lose-some-weight-for-health-reasons",
+                "text": "He needs to lose some weight for health reasons."
+            },
+            {
+                "code": "weight_example_she-supports-the-baby-s-weight-on-her-back",
+                "text": "She supports the baby's weight on her back."
+            },
+            {
+                "code": "weight_example_the-roof-collapsed-from-the-weight-of-the-snow",
+                "text": "The roof collapsed from the weight of the snow."
+            },
+            {
+                "code": "weight_example_try-to-shift-the-weight-from-side-to-side",
+                "text": "Try to shift the weight from side to side."
+            },
+            {
+                "code": "weight_example_he-lifts-weights",
+                "text": "He lifts weights."
+            },
+            {
+                "code": "weight_example_he-has-been-struggling-with-weight-problems-for-years",
+                "text": "He has been struggling with weight problems for years."
+            },
+            {
+                "code": "weight_example_her-medication-causes-weight-gain",
+                "text": "Her medication causes weight gain."
+            },
+            {
+                "code": "weight_example_he-is-doing-weight-lifting",
+                "text": "He is doing weight lifting."
+            },
+            {
+                "code": "weight_example_she-is-exercising-in-the-weight-room",
+                "text": "She is exercising in the weight room."
+            },
+            {
+                "code": "weight_example_the-doctor-told-him-to-keep-his-weight-under-170-pounds",
+                "text": "The doctor told him to keep his weight under 170 pounds."
+            },
+            {
+                "code": "weight_example_she-gained-weight-during-her-pregnancy",
+                "text": "She gained weight during her pregnancy."
+            }
+        ]
+    }
+]

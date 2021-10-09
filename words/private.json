@@ -1,0 +1,48 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "belonging to or meant only for a particular person or group and not to be shared with others; not public",
+        "examples": [
+            {
+                "code": "private_example_we-requested-private-accommodations-during-our-trip",
+                "text": "We requested private accommodations during our trip."
+            },
+            {
+                "code": "private_example_please-send-it-to-my-private-address",
+                "text": "Please send it to my private address."
+            },
+            {
+                "code": "private_example_please-call-me-on-my-private-telephone-line",
+                "text": "Please call me on my private telephone line."
+            },
+            {
+                "code": "private_example_they-hired-a-private-investigator-to-find-their-son",
+                "text": "They hired a private investigator to find their son."
+            },
+            {
+                "code": "private_example_he-has-a-private-airplane",
+                "text": "He has a private airplane."
+            },
+            {
+                "code": "private_example_she-performed-for-a-private-audience",
+                "text": "She performed for a private audience."
+            },
+            {
+                "code": "private_example_he-showed-us-his-private-collection-of-artwork",
+                "text": "He showed us his private collection of artwork."
+            },
+            {
+                "code": "private_example_i-did-not-want-to-interrupt-their-private-conversation",
+                "text": "I did not want to interrupt their private conversation."
+            },
+            {
+                "code": "private_example_they-believe-private-school-is-the-best",
+                "text": "They believe private school is the best."
+            },
+            {
+                "code": "private_example_my-doctor-opened-a-private-practice",
+                "text": "My doctor opened a private practice."
+            }
+        ]
+    }
+]

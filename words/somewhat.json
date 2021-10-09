@@ -1,0 +1,36 @@
+[
+    {
+        "type": "(adv)",
+        "mean": "to some degree; a little bit",
+        "examples": [
+            {
+                "code": "somewhat_example_he-felt-somewhat-awkward-at-the-party",
+                "text": "He felt somewhat awkward at the party."
+            },
+            {
+                "code": "somewhat_example_she-is-somewhat-ashamed-of-her-behavior",
+                "text": "She is somewhat ashamed of her behavior."
+            },
+            {
+                "code": "somewhat_example_the-heat-is-somewhat-bearable",
+                "text": "The heat is somewhat bearable."
+            },
+            {
+                "code": "somewhat_example_he-is-somewhat-confused-as-to-what-happened",
+                "text": "He is somewhat confused as to what happened."
+            },
+            {
+                "code": "somewhat_example_she-is-somewhat-responsible-for-the-lost-money",
+                "text": "She is somewhat responsible for the lost money."
+            },
+            {
+                "code": "somewhat_example_his-behavior-confused-his-students-somewhat",
+                "text": "His behavior confused his students somewhat."
+            },
+            {
+                "code": "somewhat_example_she-resembles-her-mother-somewhat",
+                "text": "She resembles her mother somewhat."
+            }
+        ]
+    }
+]

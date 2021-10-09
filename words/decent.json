@@ -1,0 +1,32 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "good; respectable; thoughtful",
+        "examples": [
+            {
+                "code": "decent_example_the-man-is-decent",
+                "text": "The man is decent."
+            },
+            {
+                "code": "decent_example_he-s-a-really-decent-guy",
+                "text": "He's a really decent guy."
+            },
+            {
+                "code": "decent_example_the-prices-are-fairly-decent",
+                "text": "The prices are fairly decent."
+            },
+            {
+                "code": "decent_example_he-is-always-decent-to-her",
+                "text": "He is always decent to her."
+            },
+            {
+                "code": "decent_example_they-have-decent-accommodations",
+                "text": "They have decent accommodations."
+            },
+            {
+                "code": "decent_example_i-m-looking-for-a-decent-fellow",
+                "text": "I'm looking for a decent fellow."
+            }
+        ]
+    }
+]

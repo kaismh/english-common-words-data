@@ -1,0 +1,52 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "deserving admiration or respect",
+        "examples": [
+            {
+                "code": "impressive_example_his-pictures-are-impressive",
+                "text": "His pictures are impressive."
+            },
+            {
+                "code": "impressive_example_her-grandfather-s-stories-sound-impressive",
+                "text": "Her grandfather's stories sound impressive."
+            },
+            {
+                "code": "impressive_example_his-loud-voice-sounded-impressive",
+                "text": "His loud voice sounded impressive."
+            },
+            {
+                "code": "impressive_example_her-writing-became-more-impressive",
+                "text": "Her writing became more impressive."
+            },
+            {
+                "code": "impressive_example_i-find-her-artwork-very-impressive",
+                "text": "I find her artwork very impressive."
+            },
+            {
+                "code": "impressive_example_his-accomplishments-are-extremely-impressive",
+                "text": "His accomplishments are extremely impressive."
+            },
+            {
+                "code": "impressive_example_her-singing-was-far-from-impressive-tonight",
+                "text": "Her singing was far from impressive tonight."
+            },
+            {
+                "code": "impressive_example_both-paintings-are-equally-impressive",
+                "text": "Both paintings are equally impressive."
+            },
+            {
+                "code": "impressive_example_her-acting-is-consistently-impressive-in-her-movies",
+                "text": "Her acting is consistently impressive in her movies."
+            },
+            {
+                "code": "impressive_example_the-rescue-scene-was-visually-impressive",
+                "text": "The rescue scene was visually impressive."
+            },
+            {
+                "code": "impressive_example_what-an-impressive-accomplishment",
+                "text": "What an impressive accomplishment!"
+            }
+        ]
+    }
+]

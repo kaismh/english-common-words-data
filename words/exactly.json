@@ -1,0 +1,40 @@
+[
+    {
+        "type": "(adv)",
+        "mean": "in a perfectly correct and accurate way",
+        "examples": [
+            {
+                "code": "exactly_example_these-two-items-are-exactly-alike",
+                "text": "These two items are exactly alike."
+            },
+            {
+                "code": "exactly_example_draw-two-lines-that-are-exactly-parallel",
+                "text": "Draw two lines that are exactly parallel."
+            },
+            {
+                "code": "exactly_example_i-m-not-sure-that-s-exactly-right",
+                "text": "I'm not sure that's exactly right."
+            },
+            {
+                "code": "exactly_example_i-need-to-exactly-duplicate-the-original",
+                "text": "I need to exactly duplicate the original."
+            },
+            {
+                "code": "exactly_example_she-couldn-t-exactly-explain-what-she-meant",
+                "text": "She couldn't exactly explain what she meant."
+            },
+            {
+                "code": "exactly_example_how-do-you-exactly-spell-that",
+                "text": "How do you exactly spell that?"
+            },
+            {
+                "code": "exactly_example_she-has-to-exactly-calculate-the-results",
+                "text": "She has to exactly calculate the results."
+            },
+            {
+                "code": "exactly_example_i-can-t-exactly-remember-its-location",
+                "text": "I can't exactly remember its location."
+            }
+        ]
+    }
+]

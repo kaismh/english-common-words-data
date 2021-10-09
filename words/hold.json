@@ -1,0 +1,146 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a grip on something; influence or control",
+        "examples": [
+            {
+                "code": "hold_example_he-had-a-firm-hold-on-her-arm",
+                "text": "He had a firm hold on her arm."
+            },
+            {
+                "code": "hold_example_he-still-has-a-powerful-hold-over-her",
+                "text": "He still has a powerful hold over her."
+            },
+            {
+                "code": "hold_example_her-fragile-hold-on-reality-was-slipping-away",
+                "text": "Her fragile hold on reality was slipping away."
+            },
+            {
+                "code": "hold_example_she-grabbed-hold-of-the-rope",
+                "text": "She grabbed hold of the rope."
+            },
+            {
+                "code": "hold_example_he-has-a-tight-hold-on-the-railing",
+                "text": "He has a tight hold on the railing."
+            },
+            {
+                "code": "hold_example_she-lost-her-hold-on-the-rope-and-fell-to-the-ground",
+                "text": "She lost her hold on the rope and fell to the ground."
+            },
+            {
+                "code": "hold_example_he-tightened-his-hold-so-she-wouldn-t-fall",
+                "text": "He tightened his hold so she wouldn't fall."
+            },
+            {
+                "code": "hold_example_he-finally-released-his-hold-on-the-handle",
+                "text": "He finally released his hold on the handle."
+            },
+            {
+                "code": "hold_example_the-government-is-trying-to-maintain-their-hold-on-the-city",
+                "text": "The government is trying to maintain their hold on the city."
+            },
+            {
+                "code": "hold_example_they-are-trying-to-break-his-hold-over-her",
+                "text": "They are trying to break his hold over her."
+            },
+            {
+                "code": "hold_example_i-kept-a-tight-hold-on-her-arm",
+                "text": "I kept a tight hold on her arm."
+            },
+            {
+                "code": "hold_example_the-cult-has-a-strong-hold-over-her",
+                "text": "The cult has a strong hold over her."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to carry something in your hands or arms; to contain something; to keep; to maintain a position",
+        "examples": [
+            {
+                "code": "hold_example_he-securely-held-her-arm-to-keep-her-from-falling",
+                "text": "He securely held her arm to keep her from falling."
+            },
+            {
+                "code": "hold_example_he-loosely-held-her-injured-arm",
+                "text": "He loosely held her injured arm."
+            },
+            {
+                "code": "hold_example_his-beliefs-are-widely-held-by-the-rest-of-the-group",
+                "text": "His beliefs are widely held by the rest of the group."
+            },
+            {
+                "code": "hold_example_she-won-t-change-her-deeply-held-views",
+                "text": "She won't change her deeply held views."
+            },
+            {
+                "code": "hold_example_i-don-t-understand-his-publicly-held-opinion",
+                "text": "I don't understand his publicly held opinion."
+            },
+            {
+                "code": "hold_example_the-room-holds-two-hundred-people",
+                "text": "The room holds two hundred people."
+            },
+            {
+                "code": "hold_example_this-container-holds-a-lot",
+                "text": "This container holds a lot."
+            },
+            {
+                "code": "hold_example_i-really-hope-the-weather-holds",
+                "text": "I really hope the weather holds."
+            },
+            {
+                "code": "hold_example_his-theory-doesn-t-hold-up-to-the-investigation",
+                "text": "His theory doesn't hold up to the investigation."
+            },
+            {
+                "code": "hold_example_the-library-holds-his-personal-collection",
+                "text": "The library holds his personal collection."
+            },
+            {
+                "code": "hold_example_the-computer-holds-all-the-data",
+                "text": "The computer holds all the data."
+            },
+            {
+                "code": "hold_example_she-held-onto-his-arm",
+                "text": "She held onto his arm."
+            },
+            {
+                "code": "hold_example_he-holds-some-strange-opinions",
+                "text": "He holds some strange opinions."
+            },
+            {
+                "code": "hold_example_they-will-hold-a-special-election-in-the-spring",
+                "text": "They will hold a special election in the spring."
+            },
+            {
+                "code": "hold_example_he-held-the-rope-tightly",
+                "text": "He held the rope tightly."
+            },
+            {
+                "code": "hold_example_she-holds-a-doctorate-from-harvard",
+                "text": "She holds a doctorate from Harvard."
+            },
+            {
+                "code": "hold_example_he-held-her-attention",
+                "text": "He held her attention."
+            },
+            {
+                "code": "hold_example_they-held-a-banquet-for-new-members",
+                "text": "They held a banquet for new members."
+            },
+            {
+                "code": "hold_example_he-holds-the-title-of-dean",
+                "text": "He holds the title of dean."
+            },
+            {
+                "code": "hold_example_they-are-holding-the-championship-in-los-angeles",
+                "text": "They are holding the championship in Los Angeles."
+            },
+            {
+                "code": "hold_example_they-will-hold-a-press-conference-in-the-morning",
+                "text": "They will hold a press conference in the morning."
+            }
+        ]
+    }
+]

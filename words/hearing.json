@@ -1,0 +1,88 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the ability to be aware of sounds; a meeting where complaints or legal issues are presented and a decision is made on what should be done",
+        "examples": [
+            {
+                "code": "hearing_example_he-has-excellent-hearing",
+                "text": "He has excellent hearing."
+            },
+            {
+                "code": "hearing_example_the-final-hearing-will-be-next-month",
+                "text": "The final hearing will be next month."
+            },
+            {
+                "code": "hearing_example_he-doesn-t-think-he-received-a-fair-hearing",
+                "text": "He doesn't think he received a fair hearing."
+            },
+            {
+                "code": "hearing_example_we-are-scheduling-a-full-hearing",
+                "text": "We are scheduling a full hearing."
+            },
+            {
+                "code": "hearing_example_there-will-be-an-open-hearing",
+                "text": "There will be an open hearing."
+            },
+            {
+                "code": "hearing_example_they-are-holding-a-committee-hearing",
+                "text": "They are holding a committee hearing."
+            },
+            {
+                "code": "hearing_example_many-animals-have-excellent-hearing",
+                "text": "Many animals have excellent hearing."
+            },
+            {
+                "code": "hearing_example_he-is-losing-his-hearing",
+                "text": "He is losing his hearing."
+            },
+            {
+                "code": "hearing_example_i-don-t-know-if-he-will-regain-his-hearing",
+                "text": "I don't know if he will regain his hearing."
+            },
+            {
+                "code": "hearing_example_loud-music-can-affect-your-hearing",
+                "text": "Loud music can affect your hearing."
+            },
+            {
+                "code": "hearing_example_his-hearing-is-going-fast",
+                "text": "His hearing is going fast."
+            },
+            {
+                "code": "hearing_example_they-are-having-public-hearings",
+                "text": "They are having public hearings."
+            },
+            {
+                "code": "hearing_example_they-scheduled-the-hearing-for-next-month",
+                "text": "They scheduled the hearing for next month."
+            },
+            {
+                "code": "hearing_example_they-demanded-an-open-hearing",
+                "text": "They demanded an open hearing."
+            },
+            {
+                "code": "hearing_example_she-got-a-fair-hearing",
+                "text": "She got a fair hearing."
+            },
+            {
+                "code": "hearing_example_the-hearing-will-take-place-tomorrow",
+                "text": "The hearing will take place tomorrow."
+            },
+            {
+                "code": "hearing_example_this-doctor-deals-with-hearing-loss",
+                "text": "This doctor deals with hearing loss."
+            },
+            {
+                "code": "hearing_example_she-has-to-get-a-hearing-aid",
+                "text": "She has to get a hearing aid."
+            },
+            {
+                "code": "hearing_example_they-set-a-trial-date-at-today-s-hearing",
+                "text": "They set a trial date at today's hearing."
+            },
+            {
+                "code": "hearing_example_the-case-was-dismissed-without-a-hearing",
+                "text": "The case was dismissed without a hearing."
+            }
+        ]
+    }
+]

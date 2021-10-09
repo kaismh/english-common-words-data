@@ -1,0 +1,90 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the cause of something; an explanation",
+        "examples": [
+            {
+                "code": "reason_example_i-can-t-find-a-good-reason-to-go",
+                "text": "I can't find a good reason to go."
+            },
+            {
+                "code": "reason_example_i-don-t-understand-your-reasons",
+                "text": "I don't understand your reasons."
+            },
+            {
+                "code": "reason_example_she-doesn-t-have-any-good-reasons",
+                "text": "She doesn't have any good reasons."
+            },
+            {
+                "code": "reason_example_can-you-explain-your-reasons",
+                "text": "Can you explain your reasons?"
+            },
+            {
+                "code": "reason_example_he-didn-t-provide-any-reasons",
+                "text": "He didn't provide any reasons."
+            },
+            {
+                "code": "reason_example_let-s-discuss-the-reasons-why-you-won-t-do-it",
+                "text": "Let's discuss the reasons why you won't do it."
+            },
+            {
+                "code": "reason_example_we-discovered-the-reason-behind-the-move",
+                "text": "We discovered the reason behind the move."
+            },
+            {
+                "code": "reason_example_he-dislikes-her-for-no-good-reason",
+                "text": "He dislikes her for no good reason."
+            },
+            {
+                "code": "reason_example_she-has-clear-reasons-for-her-decision",
+                "text": "She has clear reasons for her decision."
+            },
+            {
+                "code": "reason_example_i-am-doing-this-for-several-reasons",
+                "text": "I am doing this for several reasons."
+            },
+            {
+                "code": "reason_example_i-can-t-attend-for-health-reasons",
+                "text": "I can't attend for health reasons."
+            },
+            {
+                "code": "reason_example_i-can-t-give-you-an-exact-reason",
+                "text": "I can't give you an exact reason."
+            },
+            {
+                "code": "reason_example_fame-is-the-only-reason-i-became-an-actor",
+                "text": "Fame is the only reason I became an actor."
+            },
+            {
+                "code": "reason_example_that-is-a-bad-reason-for-getting-married",
+                "text": "That is a bad reason for getting married."
+            },
+            {
+                "code": "reason_example_she-is-doing-this-for-the-wrong-reasons",
+                "text": "She is doing this for the wrong reasons."
+            },
+            {
+                "code": "reason_example_she-is-angry-and-without-good-reason",
+                "text": "She is angry and without good reason."
+            },
+            {
+                "code": "reason_example_there-is-a-reason-behind-what-i-did",
+                "text": "There is a reason behind what I did."
+            },
+            {
+                "code": "reason_example_there-are-obvious-reasons-against-using-illegal-drugs",
+                "text": "There are obvious reasons against using illegal drugs."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to try to make someone think or do something",
+        "examples": [
+            {
+                "code": "reason_example_can-you-reason-with-him",
+                "text": "Can you reason with him?"
+            }
+        ]
+    }
+]

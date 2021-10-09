@@ -1,0 +1,44 @@
+[
+    {
+        "type": "(n)",
+        "mean": "an award for winning a game or contest",
+        "examples": [
+            {
+                "code": "prize_example_she-received-the-grand-prize-for-her-delicious-chili",
+                "text": "She received the grand prize for her delicious chili."
+            },
+            {
+                "code": "prize_example_children-enter-contests-for-the-big-prizes",
+                "text": "Children enter contests for the big prizes."
+            },
+            {
+                "code": "prize_example_there-will-be-a-special-prize-for-the-first-person-in-line",
+                "text": "There will be a special prize for the first person in line."
+            },
+            {
+                "code": "prize_example_the-losing-team-went-home-with-a-consolation-prize",
+                "text": "The losing team went home with a consolation prize."
+            },
+            {
+                "code": "prize_example_she-was-awarded-the-top-prize",
+                "text": "She was awarded the top prize."
+            },
+            {
+                "code": "prize_example_the-store-offered-a-prize-for-the-first-ten-customers",
+                "text": "The store offered a prize for the first ten customers."
+            },
+            {
+                "code": "prize_example_do-not-forget-to-claim-your-prize",
+                "text": "Do not forget to claim your prize."
+            },
+            {
+                "code": "prize_example_she-won-the-prize-for-best-drawing",
+                "text": "She won the prize for best drawing."
+            },
+            {
+                "code": "prize_example_the-prize-money-was-shared-between-two-winners",
+                "text": "The prize money was shared between two winners."
+            }
+        ]
+    }
+]

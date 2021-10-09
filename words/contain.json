@@ -1,0 +1,28 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to hold or have something inside of it; to keep something from spreading",
+        "examples": [
+            {
+                "code": "contain_example_the-bag-contains-fruit",
+                "text": "The bag contains fruit."
+            },
+            {
+                "code": "contain_example_the-envelope-contains-documents",
+                "text": "The envelope contains documents."
+            },
+            {
+                "code": "contain_example_the-documents-contain-information",
+                "text": "The documents contain information."
+            },
+            {
+                "code": "contain_example_the-meat-contains-protein",
+                "text": "The meat contains protein."
+            },
+            {
+                "code": "contain_example_doctors-were-able-to-contain-the-virus",
+                "text": "Doctors were able to contain the virus."
+            }
+        ]
+    }
+]

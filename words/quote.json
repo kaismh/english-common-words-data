@@ -1,0 +1,86 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to repeat the words that were spoken or written by someone else; to give an estimated cost of something",
+        "examples": [
+            {
+                "code": "quote_example_you-quoted-the-wrong-source",
+                "text": "You quoted the wrong source."
+            },
+            {
+                "code": "quote_example_she-quotes-scripture-all-the-time",
+                "text": "She quotes scripture all the time."
+            },
+            {
+                "code": "quote_example_the-author-quoted-the-source-directly",
+                "text": "The author quoted the source directly."
+            },
+            {
+                "code": "quote_example_he-quoted-us-a-fair-price",
+                "text": "He quoted us a fair price."
+            },
+            {
+                "code": "quote_example_the-author-quoted-her-directly",
+                "text": "The author quoted her directly."
+            },
+            {
+                "code": "quote_example_she-often-quotes-scripture",
+                "text": "She often quotes scripture."
+            },
+            {
+                "code": "quote_example_he-is-quoted-below",
+                "text": "He is quoted below."
+            },
+            {
+                "code": "quote_example_she-was-accurately-quoted-as-saying-that",
+                "text": "She was accurately quoted as saying that."
+            },
+            {
+                "code": "quote_example_he-often-quotes-from-the-bible",
+                "text": "He often quotes from the Bible."
+            },
+            {
+                "code": "quote_example_he-was-quoted-as-saying-that",
+                "text": "He was quoted as saying that."
+            }
+        ]
+    },
+    {
+        "type": "(n)",
+        "mean": "spoken or written words; an estimated price, a punctuation mark for spoken words",
+        "examples": [
+            {
+                "code": "quote_example_that-quote-is-from-shakespeare",
+                "text": "That quote is from Shakespeare."
+            },
+            {
+                "code": "quote_example_the-plumber-gave-us-a-quote",
+                "text": "The plumber gave us a quote."
+            },
+            {
+                "code": "quote_example_we-got-a-quote-from-the-contractor",
+                "text": "We got a quote from the contractor."
+            },
+            {
+                "code": "quote_example_that-was-a-direct-quote-from-the-author",
+                "text": "That was a direct quote from the author."
+            },
+            {
+                "code": "quote_example_it-s-an-anonymous-quote",
+                "text": "It's an anonymous quote."
+            },
+            {
+                "code": "quote_example_the-salesman-gave-us-a-free-quote",
+                "text": "The salesman gave us a free quote."
+            },
+            {
+                "code": "quote_example_this-quote-is-from-the-story",
+                "text": "This quote is from the story."
+            },
+            {
+                "code": "quote_example_we-received-a-quote-for-the-repairs",
+                "text": "We received a quote for the repairs."
+            }
+        ]
+    }
+]

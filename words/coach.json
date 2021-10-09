@@ -1,0 +1,46 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a person who trains a person or team on a particular activity or sport",
+        "examples": [
+            {
+                "code": "coach_example_this-team-needs-a-good-coach",
+                "text": "This team needs a good coach."
+            },
+            {
+                "code": "coach_example_she-s-a-successful-coach",
+                "text": "She's a successful coach."
+            },
+            {
+                "code": "coach_example_the-school-will-hire-a-new-basketball-coach",
+                "text": "The school will hire a new basketball coach."
+            },
+            {
+                "code": "coach_example_who-is-the-batting-coach",
+                "text": "Who is the batting coach?"
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to train a person or team in a particular activity or sport",
+        "examples": [
+            {
+                "code": "coach_example_you-ve-coached-the-team-well",
+                "text": "You've coached the team well."
+            },
+            {
+                "code": "coach_example_she-has-successfully-coached-the-team-to-the-finals",
+                "text": "She has successfully coached the team to the finals."
+            },
+            {
+                "code": "coach_example_i-coach-baseball",
+                "text": "I coach baseball."
+            },
+            {
+                "code": "coach_example_i-ve-coached-many-teams-in-my-sports-career",
+                "text": "I've coached many teams in my sports career."
+            }
+        ]
+    }
+]

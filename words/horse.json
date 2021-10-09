@@ -1,0 +1,88 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a large animal with four legs and a tail that people use for riding or pulling carriages",
+        "examples": [
+            {
+                "code": "horse_example_they-bought-a-beautiful-horse",
+                "text": "They bought a beautiful horse."
+            },
+            {
+                "code": "horse_example_she-wants-a-black-horse",
+                "text": "She wants a black horse."
+            },
+            {
+                "code": "horse_example_he-s-trying-to-tame-a-wild-horse",
+                "text": "He's trying to tame a wild horse."
+            },
+            {
+                "code": "horse_example_she-s-a-very-fast-horse",
+                "text": "She's a very fast horse."
+            },
+            {
+                "code": "horse_example_they-re-training-new-cavalry-horses",
+                "text": "They're training new cavalry horses."
+            },
+            {
+                "code": "horse_example_he-trained-many-championship-horses",
+                "text": "He trained many championship horses."
+            },
+            {
+                "code": "horse_example_my-dad-built-a-rocking-horse-for-my-daughter",
+                "text": "My dad built a rocking horse for my daughter."
+            },
+            {
+                "code": "horse_example_they-breed-thoroughbred-horses",
+                "text": "They breed thoroughbred horses."
+            },
+            {
+                "code": "horse_example_they-saddled-the-horses-and-went-riding",
+                "text": "They saddled the horses and went riding."
+            },
+            {
+                "code": "horse_example_she-fell-while-trying-to-mount-her-horse",
+                "text": "She fell while trying to mount her horse."
+            },
+            {
+                "code": "horse_example_she-wants-to-ride-a-horse",
+                "text": "She wants to ride a horse."
+            },
+            {
+                "code": "horse_example_he-groomed-his-horse-after-the-ride",
+                "text": "He groomed his horse after the ride."
+            },
+            {
+                "code": "horse_example_her-horse-pranced-around-the-ring",
+                "text": "Her horse pranced around the ring."
+            },
+            {
+                "code": "horse_example_this-horse-keeps-throwing-me",
+                "text": "This horse keeps throwing me."
+            },
+            {
+                "code": "horse_example_the-horse-pulled-a-cart-up-the-hill",
+                "text": "The horse pulled a cart up the hill."
+            },
+            {
+                "code": "horse_example_ten-horses-grazed-in-the-field",
+                "text": "Ten horses grazed in the field."
+            },
+            {
+                "code": "horse_example_he-s-a-horse-breeder",
+                "text": "He's a horse breeder."
+            },
+            {
+                "code": "horse_example_watch-out-for-the-horse-droppings",
+                "text": "Watch out for the horse droppings."
+            },
+            {
+                "code": "horse_example_there-s-a-big-horse-race-this-weekend",
+                "text": "There's a big horse race this weekend."
+            },
+            {
+                "code": "horse_example_it-s-strange-seeing-her-on-a-horse",
+                "text": "It's strange seeing her on a horse."
+            }
+        ]
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to use your voice to make music",
+        "examples": [
+            {
+                "code": "sing_example_she-sang-loudly-in-the-shower",
+                "text": "She sang loudly in the shower."
+            },
+            {
+                "code": "sing_example_that-woman-can-sing-beautifully",
+                "text": "That woman can sing beautifully."
+            },
+            {
+                "code": "sing_example_he-doesn-t-realize-he-sings-badly",
+                "text": "He doesn't realize he sings badly."
+            },
+            {
+                "code": "sing_example_he-sings-professionally",
+                "text": "He sings professionally."
+            },
+            {
+                "code": "sing_example_the-children-sang-together-in-the-christmas-pageant",
+                "text": "The children sang together in the Christmas pageant."
+            },
+            {
+                "code": "sing_example_most-singers-sing-about-love",
+                "text": "Most singers sing about love."
+            },
+            {
+                "code": "sing_example_he-sang-to-his-girlfriend",
+                "text": "He sang to his girlfriend."
+            },
+            {
+                "code": "sing_example_please-sing-this-piece",
+                "text": "Please sing this piece."
+            },
+            {
+                "code": "sing_example_you-will-sing-tenor",
+                "text": "You will sing tenor."
+            }
+        ]
+    }
+]

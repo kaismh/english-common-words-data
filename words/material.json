@@ -1,0 +1,82 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a substance; cloth; something used to do a particular activity",
+        "examples": [
+            {
+                "code": "material_example_we-collected-a-few-materials-for-the-science-project",
+                "text": "We collected a few materials for the science project."
+            },
+            {
+                "code": "material_example_we-published-additional-research-materials",
+                "text": "We published additional research materials."
+            },
+            {
+                "code": "material_example_the-report-contains-useful-materials",
+                "text": "The report contains useful materials."
+            },
+            {
+                "code": "material_example_the-factory-uses-raw-materials",
+                "text": "The factory uses raw materials."
+            },
+            {
+                "code": "material_example_i-found-some-great-new-teaching-materials",
+                "text": "I found some great new teaching materials."
+            },
+            {
+                "code": "material_example_i-need-supplemental-materials",
+                "text": "I need supplemental materials."
+            },
+            {
+                "code": "material_example_we-were-not-allowed-to-see-the-sensitive-material",
+                "text": "We were not allowed to see the sensitive material."
+            },
+            {
+                "code": "material_example_this-shirt-is-made-of-synthetic-material",
+                "text": "This shirt is made of synthetic material."
+            },
+            {
+                "code": "material_example_we-bought-some-construction-materials",
+                "text": "We bought some construction materials."
+            },
+            {
+                "code": "material_example_i-bought-my-daughter-some-art-material",
+                "text": "I bought my daughter some art material."
+            }
+        ]
+    },
+    {
+        "type": "(adj)",
+        "mean": "important; relating to money or worldly possessions",
+        "examples": [
+            {
+                "code": "material_example_he-is-a-material-witness",
+                "text": "He is a material witness."
+            },
+            {
+                "code": "material_example_i-have-no-chance-of-material-gain",
+                "text": "I have no chance of material gain."
+            },
+            {
+                "code": "material_example_she-has-many-material-needs",
+                "text": "She has many material needs."
+            },
+            {
+                "code": "material_example_he-has-too-many-material-possessions",
+                "text": "He has too many material possessions."
+            },
+            {
+                "code": "material_example_we-live-in-a-material-world",
+                "text": "We live in a material world."
+            },
+            {
+                "code": "material_example_i-don-t-have-a-lot-of-material-wealth",
+                "text": "I don't have a lot of material wealth."
+            },
+            {
+                "code": "material_example_she-has-had-a-lot-of-material-success",
+                "text": "She has had a lot of material success."
+            }
+        ]
+    }
+]

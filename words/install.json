@@ -1,0 +1,44 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to fix something; to place in a certain position; to put a new program into a computer",
+        "examples": [
+            {
+                "code": "install_example_make-sure-the-equipment-is-installed-correctly",
+                "text": "Make sure the equipment is installed correctly."
+            },
+            {
+                "code": "install_example_he-installed-the-cabinets-incorrectly",
+                "text": "He installed the cabinets incorrectly."
+            },
+            {
+                "code": "install_example_a-professionally-installed-alarm-system-is-expensive",
+                "text": "A professionally installed alarm system is expensive."
+            },
+            {
+                "code": "install_example_the-software-was-easily-installed",
+                "text": "The software was easily installed."
+            },
+            {
+                "code": "install_example_smoke-alarms-were-installed-in-the-rooms",
+                "text": "Smoke alarms were installed in the rooms."
+            },
+            {
+                "code": "install_example_a-security-camera-was-installed-on-the-roof",
+                "text": "A security camera was installed on the roof."
+            },
+            {
+                "code": "install_example_we-have-decided-to-install-an-alarm-in-the-store",
+                "text": "We have decided to install an alarm in the store."
+            },
+            {
+                "code": "install_example_they-are-installing-cable-at-the-house-right-now",
+                "text": "They are installing cable at the house right now."
+            },
+            {
+                "code": "install_example_he-installed-a-new-program-onto-his-computer",
+                "text": "He installed a new program onto his computer."
+            }
+        ]
+    }
+]

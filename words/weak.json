@@ -1,0 +1,60 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "not strong; having little strength or power",
+        "examples": [
+            {
+                "code": "weak_example_she-is-very-weak",
+                "text": "She is very weak."
+            },
+            {
+                "code": "weak_example_he-was-a-little-weak-after-the-surgery",
+                "text": "He was a little weak after the surgery."
+            },
+            {
+                "code": "weak_example_she-felt-suddenly-weak",
+                "text": "She felt suddenly weak."
+            },
+            {
+                "code": "weak_example_he-is-very-weak",
+                "text": "He is very weak."
+            },
+            {
+                "code": "weak_example_she-became-weak-after-the-surgery",
+                "text": "She became weak after the surgery."
+            },
+            {
+                "code": "weak_example_the-infection-left-him-too-weak-to-play-sports",
+                "text": "The infection left him too weak to play sports."
+            },
+            {
+                "code": "weak_example_she-remained-weak-for-many-months",
+                "text": "She remained weak for many months."
+            },
+            {
+                "code": "weak_example_he-felt-weak-in-his-legs",
+                "text": "He felt weak in his legs."
+            },
+            {
+                "code": "weak_example_she-became-weak-from-her-illness",
+                "text": "She became weak from her illness."
+            },
+            {
+                "code": "weak_example_he-is-weak-at-sports",
+                "text": "He is weak at sports."
+            },
+            {
+                "code": "weak_example_that-is-a-weak-argument",
+                "text": "That is a weak argument."
+            },
+            {
+                "code": "weak_example_she-has-a-weak-heart",
+                "text": "She has a weak heart."
+            },
+            {
+                "code": "weak_example_we-heard-a-weak-signal",
+                "text": "We heard a weak signal."
+            }
+        ]
+    }
+]

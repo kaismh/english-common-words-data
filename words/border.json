@@ -1,0 +1,110 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the line that separates countries from one another; the outside edge of something",
+        "examples": [
+            {
+                "code": "border_example_this-country-has-closed-borders",
+                "text": "This country has closed borders."
+            },
+            {
+                "code": "border_example_the-two-counties-have-a-disputed-border",
+                "text": "The two counties have a disputed border."
+            },
+            {
+                "code": "border_example_there-are-beaches-along-the-southern-border",
+                "text": "There are beaches along the southern border."
+            },
+            {
+                "code": "border_example_they-have-guards-that-protect-their-international-borders",
+                "text": "They have guards that protect their international borders."
+            },
+            {
+                "code": "border_example_this-quilt-has-a-wide-border",
+                "text": "This quilt has a wide border."
+            },
+            {
+                "code": "border_example_we-will-need-our-passports-when-we-arrive-at-the-border",
+                "text": "We will need our passports when we arrive at the border."
+            },
+            {
+                "code": "border_example_the-criminal-tried-to-escape-across-the-border",
+                "text": "The criminal tried to escape across the border."
+            },
+            {
+                "code": "border_example_this-river-forms-the-eastern-border-of-the-state",
+                "text": "This river forms the eastern border of the state."
+            },
+            {
+                "code": "border_example_the-army-is-patrolling-the-border",
+                "text": "The army is patrolling the border."
+            },
+            {
+                "code": "border_example_we-share-a-border-with-mexico",
+                "text": "We share a border with Mexico."
+            },
+            {
+                "code": "border_example_some-people-want-to-permanently-open-the-borders",
+                "text": "Some people want to permanently open the borders."
+            },
+            {
+                "code": "border_example_we-arrived-at-the-border-crossing",
+                "text": "We arrived at the border crossing."
+            },
+            {
+                "code": "border_example_border-guards-would-not-let-us-through",
+                "text": "Border guards would not let us through."
+            },
+            {
+                "code": "border_example_the-border-town-gets-many-visitors",
+                "text": "The border town gets many visitors."
+            },
+            {
+                "code": "border_example_the-border-dispute-between-the-two-countries-has-been-going-on-for-many-years",
+                "text": "The border dispute between the two countries has been going on for many years."
+            },
+            {
+                "code": "border_example_they-made-it-across-the-border-illegally",
+                "text": "They made it across the border illegally."
+            },
+            {
+                "code": "border_example_there-are-guards-all-along-the-border",
+                "text": "There are guards all along the border."
+            },
+            {
+                "code": "border_example_they-stopped-us-at-the-border",
+                "text": "They stopped us at the border."
+            },
+            {
+                "code": "border_example_we-live-on-the-border-of-the-united-states-and-canada",
+                "text": "We live on the border of the United States and Canada."
+            },
+            {
+                "code": "border_example_the-border-between-the-two-countries-is-in-dispute",
+                "text": "The border between the two countries is in dispute."
+            },
+            {
+                "code": "border_example_it-is-located-on-the-border-with-canada",
+                "text": "It is located on the border with Canada."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to be next to something; to be very close to",
+        "examples": [
+            {
+                "code": "border_example_the-country-borders-an-ocean",
+                "text": "The country borders an ocean."
+            },
+            {
+                "code": "border_example_flowers-border-the-sidewalk",
+                "text": "Flowers border the sidewalk."
+            },
+            {
+                "code": "border_example_his-behavior-borders-on-abuse",
+                "text": "His behavior borders on abuse."
+            }
+        ]
+    }
+]

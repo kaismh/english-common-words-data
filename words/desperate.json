@@ -1,0 +1,44 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "willing to do anything because of not much hope",
+        "examples": [
+            {
+                "code": "desperate_example_she-is-desperate-to-get-some-help",
+                "text": "She is desperate to get some help."
+            },
+            {
+                "code": "desperate_example_he-is-becoming-desperate-to-find-a-job",
+                "text": "He is becoming desperate to find a job."
+            },
+            {
+                "code": "desperate_example_the-boy-felt-extremely-desperate-alone-in-the-dark",
+                "text": "The boy felt extremely desperate alone in the dark."
+            },
+            {
+                "code": "desperate_example_he-acts-almost-desperate-around-his-ex-wife",
+                "text": "He acts almost desperate around his ex-wife."
+            },
+            {
+                "code": "desperate_example_he-was-desperate-about-his-future",
+                "text": "He was desperate about his future."
+            },
+            {
+                "code": "desperate_example_she-seems-desperate-for-attention",
+                "text": "She seems desperate for attention."
+            },
+            {
+                "code": "desperate_example_i-made-a-desperate-attempt-to-help",
+                "text": "I made a desperate attempt to help."
+            },
+            {
+                "code": "desperate_example_she-made-a-desperate-cry-for-help",
+                "text": "She made a desperate cry for help."
+            },
+            {
+                "code": "desperate_example_it-was-a-desperate-situation",
+                "text": "It was a desperate situation."
+            }
+        ]
+    }
+]

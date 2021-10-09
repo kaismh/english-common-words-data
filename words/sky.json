@@ -1,0 +1,56 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the area above the earth where you can see the sun, moon, and clouds",
+        "examples": [
+            {
+                "code": "sky_example_we-looked-up-at-the-big-sky",
+                "text": "We looked up at the big sky."
+            },
+            {
+                "code": "sky_example_the-sky-is-clear-today",
+                "text": "The sky is clear today."
+            },
+            {
+                "code": "sky_example_i-love-camping-under-the-starry-sky",
+                "text": "I love camping under the starry sky."
+            },
+            {
+                "code": "sky_example_he-s-photographing-the-morning-sky",
+                "text": "He's photographing the morning sky."
+            },
+            {
+                "code": "sky_example_stars-illuminated-the-sky",
+                "text": "Stars illuminated the sky."
+            },
+            {
+                "code": "sky_example_the-military-scanned-the-sky",
+                "text": "The military scanned the sky."
+            },
+            {
+                "code": "sky_example_hopefully-the-sky-will-clear-up",
+                "text": "Hopefully, the sky will clear up."
+            },
+            {
+                "code": "sky_example_the-sky-darkened-before-the-storm",
+                "text": "The sky darkened before the storm."
+            },
+            {
+                "code": "sky_example_we-could-see-fireworks-across-the-sky",
+                "text": "We could see fireworks across the sky."
+            },
+            {
+                "code": "sky_example_they-slept-under-the-sky",
+                "text": "They slept under the sky."
+            },
+            {
+                "code": "sky_example_a-spaceship-fell-out-of-the-sky",
+                "text": "A spaceship fell out of the sky."
+            },
+            {
+                "code": "sky_example_the-bird-flew-through-the-sky",
+                "text": "The bird flew through the sky."
+            }
+        ]
+    }
+]

@@ -1,0 +1,36 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a male in a romantic relationship",
+        "examples": [
+            {
+                "code": "boyfriend_example_who-is-her-current-boyfriend",
+                "text": "Who is her current boyfriend?"
+            },
+            {
+                "code": "boyfriend_example_my-former-boyfriend-was-a-firefighter",
+                "text": "My former boyfriend was a firefighter."
+            },
+            {
+                "code": "boyfriend_example_he-was-my-first-boyfriend",
+                "text": "He was my first boyfriend."
+            },
+            {
+                "code": "boyfriend_example_she-has-a-serious-boyfriend",
+                "text": "She has a serious boyfriend."
+            },
+            {
+                "code": "boyfriend_example_does-she-have-a-boyfriend",
+                "text": "Does she have a boyfriend?"
+            },
+            {
+                "code": "boyfriend_example_she-wants-to-marry-her-boyfriend",
+                "text": "She wants to marry her boyfriend."
+            },
+            {
+                "code": "boyfriend_example_i-can-t-wait-to-meet-her-boyfriend",
+                "text": "I can't wait to meet her boyfriend."
+            }
+        ]
+    }
+]

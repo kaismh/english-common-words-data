@@ -1,0 +1,40 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "achieving an aim or purpose",
+        "examples": [
+            {
+                "code": "successful_example_he-is-very-successful-in-the-business-world",
+                "text": "He is very successful in the business world."
+            },
+            {
+                "code": "successful_example_she-became-successful-at-a-young-age",
+                "text": "She became successful at a young age."
+            },
+            {
+                "code": "successful_example_i-feel-successful-in-this-sports-car",
+                "text": "I feel successful in this sports car."
+            },
+            {
+                "code": "successful_example_the-event-was-surprisingly-successful",
+                "text": "The event was surprisingly successful."
+            },
+            {
+                "code": "successful_example_our-projects-have-not-been-entirely-successful",
+                "text": "Our projects have not been entirely successful."
+            },
+            {
+                "code": "successful_example_his-plan-was-only-partially-successful",
+                "text": "His plan was only partially successful."
+            },
+            {
+                "code": "successful_example_he-has-been-incredibly-successful-at-building-his-career",
+                "text": "He has been incredibly successful at building his career."
+            },
+            {
+                "code": "successful_example_he-has-been-very-successful-with-his-investments",
+                "text": "He has been very successful with his investments."
+            }
+        ]
+    }
+]

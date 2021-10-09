@@ -1,0 +1,36 @@
+[
+    {
+        "type": "(adv)",
+        "mean": "at any time; all the time",
+        "examples": [
+            {
+                "code": "ever_example_the-army-is-ever-ready",
+                "text": "The army is ever ready."
+            },
+            {
+                "code": "ever_example_i-swear-my-mom-is-ever-present",
+                "text": "I swear my mom is ever present."
+            },
+            {
+                "code": "ever_example_we-are-visiting-the-ever-popular-rome",
+                "text": "We are visiting the ever popular Rome."
+            },
+            {
+                "code": "ever_example_i-don-t-know-if-i-can-ever-forgive-him",
+                "text": "I don't know if I can ever forgive him."
+            },
+            {
+                "code": "ever_example_how-will-i-ever-learn-this",
+                "text": "How will I ever learn this?"
+            },
+            {
+                "code": "ever_example_i-don-t-think-this-plan-will-ever-succeed",
+                "text": "I don't think this plan will ever succeed."
+            },
+            {
+                "code": "ever_example_that-worked-better-than-i-ever-imagined",
+                "text": "That worked better than I ever imagined."
+            }
+        ]
+    }
+]

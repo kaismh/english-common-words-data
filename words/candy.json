@@ -1,0 +1,48 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a sweet food made from sugar or chocolate",
+        "examples": [
+            {
+                "code": "candy_example_she-loves-chocolate-candy",
+                "text": "She loves chocolate candy."
+            },
+            {
+                "code": "candy_example_is-this-sugar-free-candy",
+                "text": "Is this sugar-free candy?"
+            },
+            {
+                "code": "candy_example_my-son-received-a-lot-of-halloween-candy",
+                "text": "My son received a lot of Halloween candy."
+            },
+            {
+                "code": "candy_example_don-t-eat-too-much-candy",
+                "text": "Don't eat too much candy!"
+            },
+            {
+                "code": "candy_example_i-can-t-unwrap-this-candy",
+                "text": "I can't unwrap this candy."
+            },
+            {
+                "code": "candy_example_for-halloween-we-handed-out-candy",
+                "text": "For Halloween, we handed out candy."
+            },
+            {
+                "code": "candy_example_throw-away-your-candy-wrapper",
+                "text": "Throw away your candy wrapper."
+            },
+            {
+                "code": "candy_example_would-you-like-a-candy-bar",
+                "text": "Would you like a candy bar?"
+            },
+            {
+                "code": "candy_example_my-daughter-loves-going-to-the-candy-store",
+                "text": "My daughter loves going to the candy store."
+            },
+            {
+                "code": "candy_example_we-have-to-hide-the-candy-jar",
+                "text": "We have to hide the candy jar."
+            }
+        ]
+    }
+]

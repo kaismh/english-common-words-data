@@ -1,0 +1,70 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the act of giving something to someone and getting something else in return; a conversation or argument",
+        "examples": [
+            {
+                "code": "exchange_example_the-countries-made-a-fair-exchange-of-goods",
+                "text": "The countries made a fair exchange of goods."
+            },
+            {
+                "code": "exchange_example_he-had-a-brief-exchange-with-his-boss",
+                "text": "He had a brief exchange with his boss."
+            },
+            {
+                "code": "exchange_example_she-considered-dinner-a-fair-exchange-for-her-help",
+                "text": "She considered dinner a fair exchange for her help."
+            },
+            {
+                "code": "exchange_example_he-sent-some-wheat-in-exchange-for-eggs",
+                "text": "He sent some wheat in exchange for eggs."
+            },
+            {
+                "code": "exchange_example_the-two-men-had-an-angry-exchange-about-the-rent",
+                "text": "The two men had an angry exchange about the rent."
+            },
+            {
+                "code": "exchange_example_he-got-into-a-verbal-exchange-with-his-boss",
+                "text": "He got into a verbal exchange with his boss."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to give something to someone for something of equal value; to trade or swap",
+        "examples": [
+            {
+                "code": "exchange_example_they-exchanged-stories-about-their-trips",
+                "text": "They exchanged stories about their trips."
+            },
+            {
+                "code": "exchange_example_she-will-exchange-currency-at-the-airport",
+                "text": "She will exchange currency at the airport."
+            },
+            {
+                "code": "exchange_example_he-exchanged-fire-with-the-enemy",
+                "text": "He exchanged fire with the enemy."
+            },
+            {
+                "code": "exchange_example_the-candidates-exchanged-views-in-the-debate",
+                "text": "The candidates exchanged views in the debate."
+            },
+            {
+                "code": "exchange_example_they-exchanged-vows-at-their-wedding",
+                "text": "They exchanged vows at their wedding."
+            },
+            {
+                "code": "exchange_example_they-exchanged-greetings",
+                "text": "They exchanged greetings."
+            },
+            {
+                "code": "exchange_example_our-family-exchanges-gifts-during-the-holidays",
+                "text": "Our family exchanges gifts during the holidays."
+            },
+            {
+                "code": "exchange_example_we-had-a-meeting-to-exchange-information",
+                "text": "We had a meeting to exchange information."
+            }
+        ]
+    }
+]

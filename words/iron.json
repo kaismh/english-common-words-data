@@ -1,0 +1,84 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a type of hard metal; a device used to remove wrinkles from clothing; a golf club",
+        "examples": [
+            {
+                "code": "iron_example_he-could-not-use-his-rusty-iron",
+                "text": "He could not use his rusty iron."
+            },
+            {
+                "code": "iron_example_he-gathered-all-the-scrap-iron",
+                "text": "He gathered all the scrap iron."
+            },
+            {
+                "code": "iron_example_she-uses-an-electric-iron-on-her-dress-shirts",
+                "text": "She uses an electric iron on her dress shirts."
+            },
+            {
+                "code": "iron_example_she-uses-a-curling-iron-on-her-hair-every-morning",
+                "text": "She uses a curling iron on her hair every morning."
+            },
+            {
+                "code": "iron_example_be-careful-of-the-hot-iron",
+                "text": "Be careful of the hot iron."
+            },
+            {
+                "code": "iron_example_germany-is-known-to-produce-lots-of-iron",
+                "text": "Germany is known to produce lots of iron."
+            },
+            {
+                "code": "iron_example_our-outdoor-furniture-is-made-out-of-iron",
+                "text": "Our outdoor furniture is made out of iron."
+            },
+            {
+                "code": "iron_example_she-needs-foods-that-contain-iron",
+                "text": "She needs foods that contain iron."
+            },
+            {
+                "code": "iron_example_she-uses-an-iron-on-her-dress-pants",
+                "text": "She uses an iron on her dress pants."
+            },
+            {
+                "code": "iron_example_he-tripped-over-an-iron-bar",
+                "text": "He tripped over an iron bar."
+            },
+            {
+                "code": "iron_example_they-had-to-walk-through-an-iron-gate",
+                "text": "They had to walk through an iron gate."
+            },
+            {
+                "code": "iron_example_she-began-to-take-iron-pills",
+                "text": "She began to take iron pills."
+            },
+            {
+                "code": "iron_example_she-has-an-iron-deficiency",
+                "text": "She has an iron deficiency."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to remove wrinkles from fabric with an iron",
+        "examples": [
+            {
+                "code": "iron_example_i-need-to-iron-my-clothes",
+                "text": "I need to iron my clothes."
+            }
+        ]
+    },
+    {
+        "type": "(adj)",
+        "mean": "very strong",
+        "examples": [
+            {
+                "code": "iron_example_he-has-an-iron-will-to-survive",
+                "text": "He has an iron will to survive."
+            },
+            {
+                "code": "iron_example_she-promised-not-to-let-go-of-her-iron-grip",
+                "text": "She promised not to let go of her iron grip."
+            }
+        ]
+    }
+]

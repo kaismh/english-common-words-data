@@ -1,0 +1,114 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a place where you can buy or sell products; a business demand",
+        "examples": [
+            {
+                "code": "market_example_let-s-go-to-the-market",
+                "text": "Let's go to the market."
+            },
+            {
+                "code": "market_example_the-new-phone-just-came-onto-the-market",
+                "text": "The new phone just came onto the market."
+            },
+            {
+                "code": "market_example_the-stock-market-has-crashed",
+                "text": "The stock market has crashed."
+            },
+            {
+                "code": "market_example_the-housing-market-is-booming",
+                "text": "The housing market is booming."
+            },
+            {
+                "code": "market_example_this-company-dominates-the-market-on-cell-phones",
+                "text": "This company dominates the market on cell phones."
+            },
+            {
+                "code": "market_example_she-invested-in-the-stock-market",
+                "text": "She invested in the stock market."
+            },
+            {
+                "code": "market_example_how-are-market-conditions",
+                "text": "How are market conditions?"
+            },
+            {
+                "code": "market_example_the-car-is-sold-at-market-price",
+                "text": "The car is sold at market price."
+            },
+            {
+                "code": "market_example_what-is-the-market-demand-for-hybrid-cars",
+                "text": "What is the market demand for hybrid cars?"
+            },
+            {
+                "code": "market_example_they-are-conducting-market-research-on-electric-cars",
+                "text": "They are conducting market research on electric cars."
+            },
+            {
+                "code": "market_example_the-global-market-is-suffering",
+                "text": "The global market is suffering."
+            },
+            {
+                "code": "market_example_she-likes-to-shop-at-flea-markets",
+                "text": "She likes to shop at flea markets."
+            },
+            {
+                "code": "market_example_we-sold-it-on-the-black-market",
+                "text": "We sold it on the black market."
+            },
+            {
+                "code": "market_example_he-invested-in-the-commodities-market",
+                "text": "He invested in the commodities market."
+            },
+            {
+                "code": "market_example_how-s-the-real-estate-market",
+                "text": "How's the real estate market?"
+            },
+            {
+                "code": "market_example_this-is-a-buyer-s-market",
+                "text": "This is a buyer's market."
+            },
+            {
+                "code": "market_example_i-bought-fruit-at-the-market",
+                "text": "I bought fruit at the market."
+            },
+            {
+                "code": "market_example_he-is-in-the-market-for-a-new-car",
+                "text": "He is in the market for a new car."
+            },
+            {
+                "code": "market_example_i-invested-in-the-stock-market",
+                "text": "I invested in the stock market."
+            },
+            {
+                "code": "market_example_i-am-in-the-market-for-a-new-home",
+                "text": "I am in the market for a new home."
+            },
+            {
+                "code": "market_example_we-walked-into-the-market",
+                "text": "We walked into the market."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to advertise a product for sale",
+        "examples": [
+            {
+                "code": "market_example_the-company-is-trying-to-market-a-new-product",
+                "text": "The company is trying to market a new product."
+            },
+            {
+                "code": "market_example_they-successfully-marketed-the-drug-toward-senior-citizens",
+                "text": "They successfully marketed the drug toward senior citizens."
+            },
+            {
+                "code": "market_example_they-are-marketing-the-product-to-young-people",
+                "text": "They are marketing the product to young people."
+            },
+            {
+                "code": "market_example_the-car-is-being-marketed-as-a-sports-utility-vehicle",
+                "text": "The car is being marketed as a sports utility vehicle."
+            }
+        ]
+    }
+]

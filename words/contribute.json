@@ -1,0 +1,36 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to give or offer something; to cause something",
+        "examples": [
+            {
+                "code": "contribute_example_they-contribute-generously-to-local-schools",
+                "text": "They contribute generously to local schools."
+            },
+            {
+                "code": "contribute_example_our-company-financially-contributes-to-charities",
+                "text": "Our company financially contributes to charities."
+            },
+            {
+                "code": "contribute_example_my-roommate-and-i-contribute-equally-to-the-household-budget",
+                "text": "My roommate and I contribute equally to the household budget."
+            },
+            {
+                "code": "contribute_example_some-foods-directly-contribute-to-weight-gain",
+                "text": "Some foods directly contribute to weight gain."
+            },
+            {
+                "code": "contribute_example_his-research-largely-contributed-to-the-success-of-the-project",
+                "text": "His research largely contributed to the success of the project."
+            },
+            {
+                "code": "contribute_example_do-you-contribute-to-charity",
+                "text": "Do you contribute to charity?"
+            },
+            {
+                "code": "contribute_example_she-contributes-half-of-her-paycheck-towards-homeless-charities",
+                "text": "She contributes half of her paycheck towards homeless charities."
+            }
+        ]
+    }
+]

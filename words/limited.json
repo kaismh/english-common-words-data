@@ -1,0 +1,52 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "not very much; not being able to go beyond a certain point",
+        "examples": [
+            {
+                "code": "limited_example_the-colors-we-can-choose-from-are-very-limited",
+                "text": "The colors we can choose from are very limited."
+            },
+            {
+                "code": "limited_example_the-items-on-the-menu-are-becoming-limited-each-time-we-visit-the-restaurant",
+                "text": "The items on the menu are becoming limited each time we visit the restaurant."
+            },
+            {
+                "code": "limited_example_the-color-choices-are-very-limited",
+                "text": "The color choices are very limited."
+            },
+            {
+                "code": "limited_example_space-is-severely-limited-so-try-to-come-early",
+                "text": "Space is severely limited so try to come early."
+            },
+            {
+                "code": "limited_example_our-school-is-limited-in-what-can-be-taught",
+                "text": "Our school is limited in what can be taught."
+            },
+            {
+                "code": "limited_example_the-number-of-guests-is-limited-to-thirty-people",
+                "text": "The number of guests is limited to thirty people."
+            },
+            {
+                "code": "limited_example_he-s-concerned-because-he-has-limited-experience-with-this-software",
+                "text": "He's concerned because he has limited experience with this software."
+            },
+            {
+                "code": "limited_example_she-is-not-sure-if-she-can-finish-her-job-with-such-limited-assistance",
+                "text": "She is not sure if she can finish her job with such limited assistance."
+            },
+            {
+                "code": "limited_example_there-are-only-limited-amounts-available",
+                "text": "There are only limited amounts available."
+            },
+            {
+                "code": "limited_example_she-is-working-with-a-limited-budget",
+                "text": "She is working with a limited budget."
+            },
+            {
+                "code": "limited_example_he-felt-he-had-limited-importance-to-the-project",
+                "text": "He felt he had limited importance to the project."
+            }
+        ]
+    }
+]

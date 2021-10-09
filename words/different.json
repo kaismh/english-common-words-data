@@ -1,0 +1,44 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "not the same",
+        "examples": [
+            {
+                "code": "different_example_our-friendship-is-different-now",
+                "text": "Our friendship is different now."
+            },
+            {
+                "code": "different_example_her-voice-sounds-different",
+                "text": "Her voice sounds different."
+            },
+            {
+                "code": "different_example_the-apples-taste-different",
+                "text": "The apples taste different."
+            },
+            {
+                "code": "different_example_the-two-brothers-are-very-different",
+                "text": "The two brothers are very different."
+            },
+            {
+                "code": "different_example_our-views-are-rather-different",
+                "text": "Our views are rather different."
+            },
+            {
+                "code": "different_example_animals-are-different-from-humans",
+                "text": "Animals are different from humans."
+            },
+            {
+                "code": "different_example_those-clothes-are-from-a-different-age",
+                "text": "Those clothes are from a different age."
+            },
+            {
+                "code": "different_example_he-follows-a-different-method",
+                "text": "He follows a different method."
+            },
+            {
+                "code": "different_example_look-at-the-situation-from-a-different-outlook",
+                "text": "Look at the situation from a different outlook."
+            }
+        ]
+    }
+]

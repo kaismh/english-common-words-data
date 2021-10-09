@@ -1,0 +1,32 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the maker of a product that will be sold",
+        "examples": [
+            {
+                "code": "manufacturer_example_he-works-for-a-chemical-manufacturer",
+                "text": "He works for a chemical manufacturer."
+            },
+            {
+                "code": "manufacturer_example_a-big-manufacturer-was-sued-for-selling-dangerous-products",
+                "text": "A big manufacturer was sued for selling dangerous products."
+            },
+            {
+                "code": "manufacturer_example_they-are-a-large-manufacturer-of-train-parts",
+                "text": "They are a large manufacturer of train parts."
+            },
+            {
+                "code": "manufacturer_example_follow-the-washing-directions-recommended-by-the-manufacturer",
+                "text": "Follow the washing directions recommended by the manufacturer."
+            },
+            {
+                "code": "manufacturer_example_parents-sued-the-manufacturer-for-selling-defective-toys",
+                "text": "Parents sued the manufacturer for selling defective toys."
+            },
+            {
+                "code": "manufacturer_example_some-toy-manufacturers-are-producing-hi-tech-products",
+                "text": "Some toy manufacturers are producing hi-tech products."
+            }
+        ]
+    }
+]

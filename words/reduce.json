@@ -1,0 +1,76 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to make smaller or less",
+        "examples": [
+            {
+                "code": "reduce_example_i-want-to-reduce-my-cholesterol",
+                "text": "I want to reduce my cholesterol."
+            },
+            {
+                "code": "reduce_example_we-need-to-reduce-the-amount-of-waste-produced-here",
+                "text": "We need to reduce the amount of waste produced here."
+            },
+            {
+                "code": "reduce_example_we-have-to-reduce-our-spending",
+                "text": "We have to reduce our spending."
+            },
+            {
+                "code": "reduce_example_we-need-to-reduce-clutter-in-our-house",
+                "text": "We need to reduce clutter in our house."
+            },
+            {
+                "code": "reduce_example_how-can-we-reduce-crime",
+                "text": "How can we reduce crime?"
+            },
+            {
+                "code": "reduce_example_the-judge-reduced-my-sentence",
+                "text": "The judge reduced my sentence."
+            },
+            {
+                "code": "reduce_example_the-medication-should-reduce-the-symptoms",
+                "text": "The medication should reduce the symptoms."
+            },
+            {
+                "code": "reduce_example_due-to-the-slow-economy-revenue-has-been-reduced",
+                "text": "Due to the slow economy, revenue has been reduced."
+            },
+            {
+                "code": "reduce_example_the-size-has-been-reduced",
+                "text": "The size has been reduced."
+            },
+            {
+                "code": "reduce_example_wearing-a-seat-belt-reduces-your-risk-of-injury",
+                "text": "Wearing a seat belt reduces your risk of injury."
+            },
+            {
+                "code": "reduce_example_she-has-significantly-reduced-her-cholesterol",
+                "text": "She has significantly reduced her cholesterol."
+            },
+            {
+                "code": "reduce_example_i-need-to-further-reduce-my-blood-pressure",
+                "text": "I need to further reduce my blood pressure."
+            },
+            {
+                "code": "reduce_example_the-medicine-is-gradually-reducing-the-pain",
+                "text": "The medicine is gradually reducing the pain."
+            },
+            {
+                "code": "reduce_example_i-want-to-quickly-reduce-my-pregnancy-weight-before-our-trip-to-hawaii",
+                "text": "I want to quickly reduce my pregnancy weight before our trip to Hawaii."
+            },
+            {
+                "code": "reduce_example_the-amount-was-reduced-from-ten-to-seven",
+                "text": "The amount was reduced from ten to seven."
+            },
+            {
+                "code": "reduce_example_her-body-has-reduced-in-size",
+                "text": "Her body has reduced in size."
+            },
+            {
+                "code": "reduce_example_the-liquid-was-reduced-by-half",
+                "text": "The liquid was reduced by half."
+            }
+        ]
+    }
+]

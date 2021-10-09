@@ -1,0 +1,82 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a reason someone gives to explain his or her actions or behavior; a bad example of something",
+        "examples": [
+            {
+                "code": "excuse_example_this-is-a-perfect-excuse-to-get-out-of-town",
+                "text": "This is a perfect excuse to get out of town."
+            },
+            {
+                "code": "excuse_example_she-had-a-legitimate-excuse-for-missing-class",
+                "text": "She had a legitimate excuse for missing class."
+            },
+            {
+                "code": "excuse_example_he-gave-a-bad-excuse-for-missing-work",
+                "text": "He gave a bad excuse for missing work."
+            },
+            {
+                "code": "excuse_example_my-students-give-a-lot-of-stupid-excuses-for-not-doing-their-work",
+                "text": "My students give a lot of stupid excuses for not doing their work."
+            },
+            {
+                "code": "excuse_example_homework-was-a-convenient-excuse-for-not-going-to-the-party",
+                "text": "Homework was a convenient excuse for not going to the party."
+            },
+            {
+                "code": "excuse_example_there-is-no-possible-excuse-for-his-behavior",
+                "text": "There is no possible excuse for his behavior."
+            },
+            {
+                "code": "excuse_example_he-made-every-excuse-to-not-help-with-the-move",
+                "text": "He made every excuse to not help with the move."
+            },
+            {
+                "code": "excuse_example_that-musician-is-a-terrible-excuse-of-a-role-model",
+                "text": "That musician is a terrible excuse of a role-model."
+            },
+            {
+                "code": "excuse_example_he-had-a-valid-excuse-for-being-late",
+                "text": "He had a valid excuse for being late."
+            },
+            {
+                "code": "excuse_example_she-makes-all-sorts-of-excuses-for-not-getting-her-work-done",
+                "text": "She makes all sorts of excuses for not getting her work done."
+            },
+            {
+                "code": "excuse_example_i-need-a-good-excuse-for-not-going-to-the-party",
+                "text": "I need a good excuse for not going to the party."
+            },
+            {
+                "code": "excuse_example_i-have-to-think-of-a-better-excuse-for-being-late",
+                "text": "I have to think of a better excuse for being late."
+            },
+            {
+                "code": "excuse_example_they-accepted-my-excuse-for-not-being-there",
+                "text": "They accepted my excuse for not being there."
+            },
+            {
+                "code": "excuse_example_i-don-t-want-to-hear-any-more-excuses-from-my-students",
+                "text": "I don't want to hear any more excuses from my students."
+            },
+            {
+                "code": "excuse_example_he-is-a-sorry-excuse-of-a-human-being",
+                "text": "He is a sorry excuse of a human being."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to forgive and understand someone's behavior or actions",
+        "examples": [
+            {
+                "code": "excuse_example_i-don-t-think-it-s-possible-to-excuse-his-behavior",
+                "text": "I don't think it's possible to excuse his behavior."
+            },
+            {
+                "code": "excuse_example_the-school-will-excuse-her-absence",
+                "text": "The school will excuse her absence."
+            }
+        ]
+    }
+]

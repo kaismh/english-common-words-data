@@ -1,0 +1,64 @@
+[
+    {
+        "type": "(n)",
+        "mean": "the way someone notices or understands things",
+        "examples": [
+            {
+                "code": "perception_example_it-is-a-common-perception-that-smoking-is-bad-for-you",
+                "text": "It is a common perception that smoking is bad for you."
+            },
+            {
+                "code": "perception_example_you-have-the-wrong-perception-of-her",
+                "text": "You have the wrong perception of her."
+            },
+            {
+                "code": "perception_example_the-growing-perception-of-the-company-is-not-good",
+                "text": "The growing perception of the company is not good."
+            },
+            {
+                "code": "perception_example_elderly-people-have-poor-depth-perception",
+                "text": "Elderly people have poor depth perception."
+            },
+            {
+                "code": "perception_example_parents-have-a-positive-perception-of-the-school",
+                "text": "Parents have a positive perception of the school."
+            },
+            {
+                "code": "perception_example_the-overall-perception-of-the-teacher-was-good",
+                "text": "The overall perception of the teacher was good."
+            },
+            {
+                "code": "perception_example_they-have-a-bad-perception-of-you",
+                "text": "They have a bad perception of you."
+            },
+            {
+                "code": "perception_example_the-mayor-tried-to-improve-the-perception-of-his-city",
+                "text": "The mayor tried to improve the perception of his city."
+            },
+            {
+                "code": "perception_example_your-behavior-shapes-people-s-perception-of-you",
+                "text": "Your behavior shapes people's perception of you."
+            },
+            {
+                "code": "perception_example_furniture-rearrangement-can-alter-the-perception-of-a-room",
+                "text": "Furniture rearrangement can alter the perception of a room."
+            },
+            {
+                "code": "perception_example_how-can-i-correct-people-s-perception-of-me",
+                "text": "How can I correct people's perception of me?"
+            },
+            {
+                "code": "perception_example_rumors-skewed-my-perception-of-him",
+                "text": "Rumors skewed my perception of him."
+            },
+            {
+                "code": "perception_example_let-s-examine-the-perception-of-homeless-people",
+                "text": "Let's examine the perception of homeless people."
+            },
+            {
+                "code": "perception_example_his-sudden-anger-only-confirmed-people-s-perception-of-him",
+                "text": "His sudden anger only confirmed people's perception of him."
+            }
+        ]
+    }
+]

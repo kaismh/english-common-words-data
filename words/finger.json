@@ -1,0 +1,76 @@
+[
+    {
+        "type": "(n)",
+        "mean": "one of the long flexible parts of the hand",
+        "examples": [
+            {
+                "code": "finger_example_he-broke-his-index-finger",
+                "text": "He broke his index finger."
+            },
+            {
+                "code": "finger_example_she-has-a-broken-finger",
+                "text": "She has a broken finger."
+            },
+            {
+                "code": "finger_example_she-has-delicate-fingers",
+                "text": "She has delicate fingers."
+            },
+            {
+                "code": "finger_example_the-baby-has-chubby-fingers",
+                "text": "The baby has chubby fingers."
+            },
+            {
+                "code": "finger_example_he-played-the-piano-with-nervous-fingers",
+                "text": "He played the piano with nervous fingers."
+            },
+            {
+                "code": "finger_example_she-warmed-her-cold-fingers-by-the-fire",
+                "text": "She warmed her cold fingers by the fire."
+            },
+            {
+                "code": "finger_example_she-pointed-a-finger-at-him",
+                "text": "She pointed a finger at him."
+            },
+            {
+                "code": "finger_example_she-stuck-her-fingers-in-her-ears-to-block-the-noise",
+                "text": "She stuck her fingers in her ears to block the noise."
+            },
+            {
+                "code": "finger_example_he-poked-a-finger-into-her-side-to-tell-her-to-be-quiet",
+                "text": "He poked a finger into her side to tell her to be quiet."
+            },
+            {
+                "code": "finger_example_she-hooked-a-finger-through-the-loop",
+                "text": "She hooked a finger through the loop."
+            },
+            {
+                "code": "finger_example_the-teacher-held-up-a-finger-as-a-warning",
+                "text": "The teacher held up a finger as a warning."
+            },
+            {
+                "code": "finger_example_he-licked-his-fingers-after-dinner",
+                "text": "He licked his fingers after dinner."
+            },
+            {
+                "code": "finger_example_she-broke-her-finger-trying-to-catch-something",
+                "text": "She broke her finger trying to catch something."
+            },
+            {
+                "code": "finger_example_he-cut-his-finger-while-chopping-onions",
+                "text": "He cut his finger while chopping onions."
+            },
+            {
+                "code": "finger_example_he-was-treated-for-a-finger-injury",
+                "text": "He was treated for a finger injury."
+            },
+            {
+                "code": "finger_example_she-used-finger-puppets-to-tell-the-story",
+                "text": "She used finger puppets to tell the story."
+            },
+            {
+                "code": "finger_example_you-can-eat-that-with-your-fingers",
+                "text": "You can eat that with your fingers."
+            }
+        ]
+    }
+]

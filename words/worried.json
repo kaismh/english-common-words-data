@@ -1,0 +1,36 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "thinking about bad things that have happened or may happen and feeling unhappy or afraid about them",
+        "examples": [
+            {
+                "code": "worried_example_she-is-worried-about-her-mother",
+                "text": "She is worried about her mother."
+            },
+            {
+                "code": "worried_example_i-became-worried-when-they-didn-t-arrive-on-time",
+                "text": "I became worried when they didn't arrive on time."
+            },
+            {
+                "code": "worried_example_he-is-very-worried-about-his-future",
+                "text": "He is very worried about his future."
+            },
+            {
+                "code": "worried_example_she-became-increasingly-worried-with-every-hour-that-passed-by",
+                "text": "She became increasingly worried with every hour that passed by."
+            },
+            {
+                "code": "worried_example_he-was-a-little-worried-that-he-may-be-late-for-the-interview",
+                "text": "He was a little worried that he may be late for the interview."
+            },
+            {
+                "code": "worried_example_he-was-clearly-worried-when-the-bride-did-not-show-up",
+                "text": "He was clearly worried when the bride did not show up."
+            },
+            {
+                "code": "worried_example_i-am-worried-about-you",
+                "text": "I am worried about you."
+            }
+        ]
+    }
+]

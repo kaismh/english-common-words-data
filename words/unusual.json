@@ -1,0 +1,44 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "not normal",
+        "examples": [
+            {
+                "code": "unusual_example_she-is-a-very-unusual-person",
+                "text": "She is a very unusual person."
+            },
+            {
+                "code": "unusual_example_his-personality-is-slightly-unusual",
+                "text": "His personality is slightly unusual."
+            },
+            {
+                "code": "unusual_example_it-is-hardly-unusual-to-live-at-home-after-college-anymore",
+                "text": "It is hardly unusual to live at home after college anymore."
+            },
+            {
+                "code": "unusual_example_she-is-unusual",
+                "text": "She is unusual."
+            },
+            {
+                "code": "unusual_example_i-consider-his-behavior-unusual",
+                "text": "I consider his behavior unusual."
+            },
+            {
+                "code": "unusual_example_his-behavior-has-become-unusual-after-the-accident",
+                "text": "His behavior has become unusual after the accident."
+            },
+            {
+                "code": "unusual_example_it-s-unusual-for-her-to-be-home-so-soon",
+                "text": "It's unusual for her to be home so soon."
+            },
+            {
+                "code": "unusual_example_he-is-unusual-in-his-way-of-thinking",
+                "text": "He is unusual in his way of thinking."
+            },
+            {
+                "code": "unusual_example_what-an-unusual-arrangement",
+                "text": "What an unusual arrangement."
+            }
+        ]
+    }
+]

@@ -1,0 +1,64 @@
+[
+    {
+        "type": "(n)",
+        "mean": "clothing worn on the head",
+        "examples": [
+            {
+                "code": "hat_example_the-broad-brimmed-hat-keeps-the-sun-out-of-her-eyes",
+                "text": "The broad-brimmed hat keeps the sun out of her eyes."
+            },
+            {
+                "code": "hat_example_she-wears-a-wool-hat-when-it-s-cold",
+                "text": "She wears a wool hat when it's cold."
+            },
+            {
+                "code": "hat_example_he-likes-to-wear-a-bowler-hat",
+                "text": "He likes to wear a bowler hat."
+            },
+            {
+                "code": "hat_example_why-is-he-wearing-that-silly-hat",
+                "text": "Why is he wearing that silly hat?"
+            },
+            {
+                "code": "hat_example_he-wore-a-top-hat-with-his-tuxedo",
+                "text": "He wore a top hat with his tuxedo."
+            },
+            {
+                "code": "hat_example_the-kids-were-given-party-hats-and-balloons",
+                "text": "The kids were given party hats and balloons."
+            },
+            {
+                "code": "hat_example_he-must-wear-a-hard-hat-at-the-construction-site",
+                "text": "He must wear a hard hat at the construction site."
+            },
+            {
+                "code": "hat_example_he-pulled-down-his-baseball-hat-to-cover-his-eyes",
+                "text": "He pulled down his baseball hat to cover his eyes."
+            },
+            {
+                "code": "hat_example_they-placed-a-silly-hat-on-my-head-and-took-a-picture",
+                "text": "They placed a silly hat on my head and took a picture."
+            },
+            {
+                "code": "hat_example_he-removed-his-hat-when-he-entered-the-building",
+                "text": "He removed his hat when he entered the building."
+            },
+            {
+                "code": "hat_example_he-tipped-his-hat-as-a-greeting",
+                "text": "He tipped his hat as a greeting."
+            },
+            {
+                "code": "hat_example_he-put-on-a-fur-hat-to-keep-his-head-warm",
+                "text": "He put on a fur hat to keep his head warm."
+            },
+            {
+                "code": "hat_example_her-hat-was-trimmed-with-peacock-feathers",
+                "text": "Her hat was trimmed with peacock feathers."
+            },
+            {
+                "code": "hat_example_he-runs-a-hat-shop",
+                "text": "He runs a hat shop."
+            }
+        ]
+    }
+]

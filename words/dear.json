@@ -1,0 +1,54 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "valuable, loved",
+        "examples": [
+            {
+                "code": "dear_example_i-love-my-dear-father",
+                "text": "I love my dear father."
+            },
+            {
+                "code": "dear_example_what-a-dear-child",
+                "text": "What a dear child."
+            },
+            {
+                "code": "dear_example_she-has-been-a-dear-colleague",
+                "text": "She has been a dear colleague."
+            },
+            {
+                "code": "dear_example_she-is-absolutely-dear-to-me",
+                "text": "She is absolutely dear to me."
+            }
+        ]
+    },
+    {
+        "type": "(n)",
+        "mean": "term of affection",
+        "examples": [
+            {
+                "code": "dear_example_would-you-be-a-dear-and-help-me",
+                "text": "Would you be a dear and help me?"
+            },
+            {
+                "code": "dear_example_she-is-such-a-dear",
+                "text": "She is such a dear."
+            },
+            {
+                "code": "dear_example_what-a-dear-you-have-been",
+                "text": "What a dear you have been."
+            },
+            {
+                "code": "dear_example_you-are-right-my-dear",
+                "text": "You are right, my dear."
+            },
+            {
+                "code": "dear_example_how-have-you-been-dear",
+                "text": "How have you been, dear?"
+            },
+            {
+                "code": "dear_example_yes-dear",
+                "text": "Yes, dear."
+            }
+        ]
+    }
+]

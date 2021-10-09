@@ -1,0 +1,96 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "the same in size, amount, value, or rights",
+        "examples": [
+            {
+                "code": "equal_example_their-test-scores-are-equal",
+                "text": "Their test scores are equal."
+            },
+            {
+                "code": "equal_example_we-need-to-make-the-groups-equal",
+                "text": "We need to make the groups equal."
+            },
+            {
+                "code": "equal_example_we-hope-their-abilities-will-become-equal-by-the-end-of-the-year",
+                "text": "We hope their abilities will become equal by the end of the year."
+            },
+            {
+                "code": "equal_example_the-two-sides-should-be-exactly-equal",
+                "text": "The two sides should be exactly equal."
+            },
+            {
+                "code": "equal_example_the-two-candidates-are-almost-equal",
+                "text": "The two candidates are almost equal."
+            },
+            {
+                "code": "equal_example_when-will-things-be-truly-equal-between-men-and-women",
+                "text": "When will things be truly equal between men and women?"
+            },
+            {
+                "code": "equal_example_the-canadian-dollar-is-roughly-equal-to-the-u-s-dollar",
+                "text": "The Canadian dollar is roughly equal to the U.S. dollar."
+            },
+            {
+                "code": "equal_example_the-pieces-are-nearly-equal-in-size",
+                "text": "The pieces are nearly equal in size."
+            },
+            {
+                "code": "equal_example_they-are-working-for-equal-rights",
+                "text": "They are working for equal rights."
+            },
+            {
+                "code": "equal_example_they-each-received-an-equal-share-of-the-prize",
+                "text": "They each received an equal share of the prize."
+            },
+            {
+                "code": "equal_example_he-should-receive-equal-recognition-for-his-work",
+                "text": "He should receive equal recognition for his work."
+            },
+            {
+                "code": "equal_example_there-is-an-equal-chance-of-this-project-succeeding-or-failing",
+                "text": "There is an equal chance of this project succeeding or failing."
+            },
+            {
+                "code": "equal_example_creativity-and-speed-are-of-equal-importance-on-this-project",
+                "text": "Creativity and speed are of equal importance on this project."
+            }
+        ]
+    },
+    {
+        "type": "(n)",
+        "mean": "someone or something that is the same in size, amount, value, or rights",
+        "examples": [
+            {
+                "code": "equal_example_the-two-candidates-are-intellectual-equals",
+                "text": "The two candidates are intellectual equals."
+            },
+            {
+                "code": "equal_example_he-considers-her-as-an-equal",
+                "text": "He considers her as an equal."
+            },
+            {
+                "code": "equal_example_the-two-enemies-met-as-equals",
+                "text": "The two enemies met as equals."
+            },
+            {
+                "code": "equal_example_the-debate-between-intellectual-equals-was-intense",
+                "text": "The debate between intellectual equals was intense."
+            },
+            {
+                "code": "equal_example_his-athletic-ability-is-without-equal",
+                "text": "His athletic ability is without equal."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to make the same in size, amount, or value",
+        "examples": [
+            {
+                "code": "equal_example_she-tried-to-equal-his-record",
+                "text": "She tried to equal his record."
+            }
+        ]
+    }
+]

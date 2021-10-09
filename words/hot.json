@@ -1,0 +1,108 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "having a high temperature; not cold; spicy",
+        "examples": [
+            {
+                "code": "hot_example_the-weather-is-so-hot",
+                "text": "The weather is so hot."
+            },
+            {
+                "code": "hot_example_the-day-suddenly-became-hot",
+                "text": "The day suddenly became hot."
+            },
+            {
+                "code": "hot_example_she-feels-hot-sitting-by-the-fire",
+                "text": "She feels hot sitting by the fire."
+            },
+            {
+                "code": "hot_example_i-hope-the-food-stays-hot",
+                "text": "I hope the food stays hot."
+            },
+            {
+                "code": "hot_example_this-should-be-eaten-hot",
+                "text": "This should be eaten hot."
+            },
+            {
+                "code": "hot_example_the-container-should-keep-the-food-hot",
+                "text": "The container should keep the food hot."
+            },
+            {
+                "code": "hot_example_this-tastes-too-hot",
+                "text": "This tastes too hot."
+            },
+            {
+                "code": "hot_example_it-s-extremely-hot",
+                "text": "It's extremely hot."
+            },
+            {
+                "code": "hot_example_summers-are-really-hot-here",
+                "text": "Summers are really hot here."
+            },
+            {
+                "code": "hot_example_it-s-a-little-hot-today",
+                "text": "It's a little hot today."
+            },
+            {
+                "code": "hot_example_the-soup-was-scalding-hot",
+                "text": "The soup was scalding hot."
+            },
+            {
+                "code": "hot_example_is-that-hot-enough",
+                "text": "Is that hot enough?"
+            },
+            {
+                "code": "hot_example_her-food-is-extremely-hot",
+                "text": "Her food is extremely hot."
+            },
+            {
+                "code": "hot_example_the-coffee-is-slightly-hot",
+                "text": "The coffee is slightly hot."
+            },
+            {
+                "code": "hot_example_this-is-a-really-hot-day",
+                "text": "This is a really hot day."
+            },
+            {
+                "code": "hot_example_would-you-like-some-hot-coffee",
+                "text": "Would you like some hot coffee?"
+            },
+            {
+                "code": "hot_example_she-felt-a-blast-of-hot-air-when-she-opened-the-door",
+                "text": "She felt a blast of hot air when she opened the door."
+            },
+            {
+                "code": "hot_example_make-sure-the-oven-is-hot",
+                "text": "Make sure the oven is hot."
+            },
+            {
+                "code": "hot_example_they-live-in-a-hot-climate",
+                "text": "They live in a hot climate."
+            },
+            {
+                "code": "hot_example_she-made-him-a-hot-meal",
+                "text": "She made him a hot meal."
+            },
+            {
+                "code": "hot_example_i-can-t-eat-this-hot-pepper",
+                "text": "I can't eat this hot pepper."
+            },
+            {
+                "code": "hot_example_i-m-going-to-take-a-hot-shower",
+                "text": "I'm going to take a hot shower."
+            },
+            {
+                "code": "hot_example_be-careful-with-the-hot-coals",
+                "text": "Be careful with the hot coals."
+            },
+            {
+                "code": "hot_example_the-hot-sand-hurt-her-feet",
+                "text": "The hot sand hurt her feet."
+            },
+            {
+                "code": "hot_example_they-relaxed-in-the-hot-tub",
+                "text": "They relaxed in the hot tub."
+            }
+        ]
+    }
+]

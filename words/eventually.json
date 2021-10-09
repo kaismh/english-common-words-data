@@ -1,0 +1,44 @@
+[
+    {
+        "type": "(adv)",
+        "mean": "at the end; finally",
+        "examples": [
+            {
+                "code": "eventually_example_i-hope-our-efforts-will-eventually-be-successful",
+                "text": "I hope our efforts will eventually be successful."
+            },
+            {
+                "code": "eventually_example_they-eventually-decided-on-a-new-club-president",
+                "text": "They eventually decided on a new club president."
+            },
+            {
+                "code": "eventually_example_i-will-eventually-finish-this-project",
+                "text": "I will eventually finish this project."
+            },
+            {
+                "code": "eventually_example_we-eventually-arrived-at-our-destination",
+                "text": "We eventually arrived at our destination."
+            },
+            {
+                "code": "eventually_example_after-a-long-race-he-eventually-won",
+                "text": "After a long race, he eventually won."
+            },
+            {
+                "code": "eventually_example_they-may-eventually-release-the-prisoner",
+                "text": "They may eventually release the prisoner."
+            },
+            {
+                "code": "eventually_example_i-will-eventually-return-to-vietnam",
+                "text": "I will eventually return to Vietnam."
+            },
+            {
+                "code": "eventually_example_the-army-eventually-defeated-the-enemy",
+                "text": "The army eventually defeated the enemy."
+            },
+            {
+                "code": "eventually_example_he-will-eventually-discover-his-error",
+                "text": "He will eventually discover his error."
+            }
+        ]
+    }
+]

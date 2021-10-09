@@ -1,0 +1,78 @@
+[
+    {
+        "type": "(n)",
+        "mean": "clothes; damage from continuous use",
+        "examples": [
+            {
+                "code": "wear_example_we-went-shopping-for-school-wear",
+                "text": "We went shopping for school wear."
+            },
+            {
+                "code": "wear_example_those-shoes-are-comfortable-for-daily-wear",
+                "text": "Those shoes are comfortable for daily wear."
+            },
+            {
+                "code": "wear_example_we-put-away-our-summer-wear",
+                "text": "We put away our summer wear."
+            },
+            {
+                "code": "wear_example_she-is-always-dressed-in-designer-wear",
+                "text": "She is always dressed in designer wear."
+            },
+            {
+                "code": "wear_example_the-ladies-were-excited-to-go-shopping-for-maternity-wear",
+                "text": "The ladies were excited to go shopping for maternity wear."
+            },
+            {
+                "code": "wear_example_his-shoes-have-holes-because-of-excessive-wear",
+                "text": "His shoes have holes because of excessive wear."
+            },
+            {
+                "code": "wear_example_the-fashion-show-displayed-a-new-line-of-evening-wear",
+                "text": "The fashion show displayed a new line of evening wear."
+            },
+            {
+                "code": "wear_example_the-floors-are-showing-signs-of-wear",
+                "text": "The floors are showing signs of wear."
+            },
+            {
+                "code": "wear_example_the-auto-shop-checked-our-tires-for-wear",
+                "text": "The auto shop checked our tires for wear."
+            },
+            {
+                "code": "wear_example_reduce-carpet-wear-by-not-wearing-shoes-inside-the-house",
+                "text": "Reduce carpet wear by not wearing shoes inside the house."
+            },
+            {
+                "code": "wear_example_driving-too-fast-causes-wear-on-the-tires",
+                "text": "Driving too fast causes wear on the tires."
+            },
+            {
+                "code": "wear_example_the-carpet-has-become-old-with-wear",
+                "text": "The carpet has become old with wear."
+            },
+            {
+                "code": "wear_example_driving-too-fast-causes-wear-on-the-tires",
+                "text": "Driving too fast causes wear on the tires."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to put on clothes",
+        "examples": [
+            {
+                "code": "wear_example_she-proudly-wears-her-military-uniform",
+                "text": "She proudly wears her military uniform."
+            },
+            {
+                "code": "wear_example_her-son-refuses-to-wear-his-jacket-to-school",
+                "text": "Her son refuses to wear his jacket to school."
+            },
+            {
+                "code": "wear_example_she-tends-to-wear-baggy-clothes",
+                "text": "She tends to wear baggy clothes."
+            }
+        ]
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "type": "(v)",
+        "mean": "to make money or time available for someone; to save something or someone from experience pain, injury, or death",
+        "examples": [
+            {
+                "code": "spare_example_she-hardly-spared-him-any-time",
+                "text": "She hardly spared him any time."
+            },
+            {
+                "code": "spare_example_the-tornado-mercifully-spared-our-city",
+                "text": "The tornado mercifully spared our city."
+            },
+            {
+                "code": "spare_example_can-you-spare-a-moment",
+                "text": "Can you spare a moment?"
+            },
+            {
+                "code": "spare_example_you-need-to-spare-some-time-for-your-children",
+                "text": "You need to spare some time for your children."
+            },
+            {
+                "code": "spare_example_he-doesn-t-know-why-he-was-spared-from-being-killed",
+                "text": "He doesn't know why he was spared from being killed."
+            },
+            {
+                "code": "spare_example_spare-me-the-details",
+                "text": "Spare me the details."
+            },
+            {
+                "code": "spare_example_can-you-spare-a-moment",
+                "text": "Can you spare a moment?"
+            },
+            {
+                "code": "spare_example_the-gunman-spared-his-life",
+                "text": "The gunman spared his life."
+            }
+        ]
+    },
+    {
+        "type": "(adj)",
+        "mean": "extra",
+        "examples": [
+            {
+                "code": "spare_example_you-can-stay-in-the-spare-bedroom",
+                "text": "You can stay in the spare bedroom."
+            },
+            {
+                "code": "spare_example_do-you-have-any-spare-cash",
+                "text": "Do you have any spare cash?"
+            },
+            {
+                "code": "spare_example_do-you-have-a-spare-moment",
+                "text": "Do you have a spare moment?"
+            },
+            {
+                "code": "spare_example_i-need-to-buy-some-spare-parts",
+                "text": "I need to buy some spare parts."
+            }
+        ]
+    }
+]

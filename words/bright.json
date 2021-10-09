@@ -1,0 +1,56 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "having a lot of light; having a strong color; smart",
+        "examples": [
+            {
+                "code": "bright_example_her-daughter-is-very-bright",
+                "text": "Her daughter is very bright."
+            },
+            {
+                "code": "bright_example_the-lights-in-the-room-became-too-bright",
+                "text": "The lights in the room became too bright."
+            },
+            {
+                "code": "bright_example_the-sun-shines-bright",
+                "text": "The sun shines bright."
+            },
+            {
+                "code": "bright_example_the-candle-burns-bright",
+                "text": "The candle burns bright."
+            },
+            {
+                "code": "bright_example_the-light-is-extremely-bright",
+                "text": "The light is extremely bright."
+            },
+            {
+                "code": "bright_example_the-lamps-in-the-house-are-surprisingly-bright",
+                "text": "The lamps in the house are surprisingly bright."
+            },
+            {
+                "code": "bright_example_the-sky-is-still-bright",
+                "text": "The sky is still bright."
+            },
+            {
+                "code": "bright_example_she-is-an-exceptionally-bright-child",
+                "text": "She is an exceptionally bright child."
+            },
+            {
+                "code": "bright_example_he-s-a-bright-boy",
+                "text": "He's a bright boy."
+            },
+            {
+                "code": "bright_example_he-uses-bright-colors-in-his-artwork",
+                "text": "He uses bright colors in his artwork."
+            },
+            {
+                "code": "bright_example_there-was-a-bright-flash-in-the-sky",
+                "text": "There was a bright flash in the sky."
+            },
+            {
+                "code": "bright_example_the-bright-sky-shined-through-the-window",
+                "text": "The bright sky shined through the window."
+            }
+        ]
+    }
+]

@@ -1,0 +1,94 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a place where products and services are sold",
+        "examples": [
+            {
+                "code": "shop_example_i-went-to-the-local-shop-yesterday",
+                "text": "I went to the local shop yesterday."
+            },
+            {
+                "code": "shop_example_i-try-to-avoid-busy-shops",
+                "text": "I try to avoid busy shops."
+            },
+            {
+                "code": "shop_example_the-couple-opened-a-wonderful-shop-downtown",
+                "text": "The couple opened a wonderful shop downtown."
+            },
+            {
+                "code": "shop_example_this-shop-is-expensive",
+                "text": "This shop is expensive."
+            },
+            {
+                "code": "shop_example_he-visited-the-book-shop",
+                "text": "He visited the book shop."
+            },
+            {
+                "code": "shop_example_they-have-a-flower-shop-in-town",
+                "text": "They have a flower shop in town."
+            },
+            {
+                "code": "shop_example_she-opened-a-coffee-shop-near-the-school",
+                "text": "She opened a coffee shop near the school."
+            },
+            {
+                "code": "shop_example_we-are-waiting-for-the-shop-to-close",
+                "text": "We are waiting for the shop to close."
+            },
+            {
+                "code": "shop_example_this-shop-offers-a-great-selection-of-shoes",
+                "text": "This shop offers a great selection of shoes."
+            },
+            {
+                "code": "shop_example_they-are-hiring-a-new-shop-manager",
+                "text": "They are hiring a new shop manager."
+            },
+            {
+                "code": "shop_example_they-need-to-replace-the-old-shop-counter",
+                "text": "They need to replace the old shop counter."
+            },
+            {
+                "code": "shop_example_she-works-in-a-flower-shop",
+                "text": "She works in a flower shop."
+            },
+            {
+                "code": "shop_example_there-s-a-big-sale-at-the-shop",
+                "text": "There's a big sale at the shop."
+            }
+        ]
+    },
+    {
+        "type": "(v)",
+        "mean": "to go to a store and look for items to buy",
+        "examples": [
+            {
+                "code": "shop_example_i-am-shopping-for-christmas",
+                "text": "I am shopping for Christmas."
+            },
+            {
+                "code": "shop_example_i-shop-at-thrift-stores",
+                "text": "I shop at thrift stores."
+            },
+            {
+                "code": "shop_example_i-usually-shop-on-the-weekends",
+                "text": "I usually shop on the weekends."
+            },
+            {
+                "code": "shop_example_my-husband-hates-to-shop",
+                "text": "My husband hates to shop."
+            },
+            {
+                "code": "shop_example_do-you-shop-in-stores-or-online",
+                "text": "Do you shop in stores or online?"
+            },
+            {
+                "code": "shop_example_i-love-to-shop",
+                "text": "I love to shop."
+            },
+            {
+                "code": "shop_example_i-need-to-shop-for-groceries",
+                "text": "I need to shop for groceries."
+            }
+        ]
+    }
+]

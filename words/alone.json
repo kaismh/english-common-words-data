@@ -1,0 +1,32 @@
+[
+    {
+        "type": "(adj)",
+        "mean": "without anyone else",
+        "examples": [
+            {
+                "code": "alone_example_please-leave-me-alone",
+                "text": "Please leave me alone."
+            },
+            {
+                "code": "alone_example_she-feels-alone-at-school",
+                "text": "She feels alone at school."
+            },
+            {
+                "code": "alone_example_i-like-to-sit-alone",
+                "text": "I like to sit alone."
+            },
+            {
+                "code": "alone_example_i-feel-completely-alone",
+                "text": "I feel completely alone."
+            },
+            {
+                "code": "alone_example_i-would-like-to-be-alone-with-my-family",
+                "text": "I would like to be alone with my family."
+            },
+            {
+                "code": "alone_example_she-will-be-all-alone-for-her-birthday",
+                "text": "She will be all alone for her birthday."
+            }
+        ]
+    }
+]

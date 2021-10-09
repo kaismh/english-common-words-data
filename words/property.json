@@ -1,0 +1,76 @@
+[
+    {
+        "type": "(n)",
+        "mean": "personal items that are owned by someone; a building or land that is owned by someone",
+        "examples": [
+            {
+                "code": "property_example_the-tornado-damaged-his-property",
+                "text": "The tornado damaged his property."
+            },
+            {
+                "code": "property_example_we-have-the-right-to-protect-our-property-from-trespassers",
+                "text": "We have the right to protect our property from trespassers."
+            },
+            {
+                "code": "property_example_she-inherited-this-property-from-her-grandfather",
+                "text": "She inherited this property from her grandfather."
+            },
+            {
+                "code": "property_example_we-invest-in-property",
+                "text": "We invest in property."
+            },
+            {
+                "code": "property_example_can-we-view-the-property",
+                "text": "Can we view the property?"
+            },
+            {
+                "code": "property_example_who-is-the-property-owner",
+                "text": "Who is the property owner?"
+            },
+            {
+                "code": "property_example_what-are-the-property-laws-in-this-state",
+                "text": "What are the property laws in this state?"
+            },
+            {
+                "code": "property_example_who-owns-the-property-rights-to-this-land",
+                "text": "Who owns the property rights to this land?"
+            },
+            {
+                "code": "property_example_what-is-the-property-value",
+                "text": "What is the property value?"
+            },
+            {
+                "code": "property_example_where-is-the-property-line",
+                "text": "Where is the property line?"
+            },
+            {
+                "code": "property_example_who-is-going-to-pay-for-the-property-damage",
+                "text": "Who is going to pay for the property damage?"
+            },
+            {
+                "code": "property_example_the-police-found-a-garage-full-of-stolen-property",
+                "text": "The police found a garage full of stolen property."
+            },
+            {
+                "code": "property_example_he-owns-the-adjacent-property",
+                "text": "He owns the adjacent property."
+            },
+            {
+                "code": "property_example_this-is-public-property",
+                "text": "This is public property."
+            },
+            {
+                "code": "property_example_people-are-not-allowed-on-school-property-after-normal-hours",
+                "text": "People are not allowed on school property after normal hours."
+            },
+            {
+                "code": "property_example_he-owns-commercial-property",
+                "text": "He owns commercial property."
+            },
+            {
+                "code": "property_example_this-land-is-the-property-of-the-state",
+                "text": "This land is the property of the state."
+            }
+        ]
+    }
+]

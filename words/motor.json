@@ -1,0 +1,52 @@
+[
+    {
+        "type": "(n)",
+        "mean": "a machine that runs on power",
+        "examples": [
+            {
+                "code": "motor_example_i-turned-on-the-motor",
+                "text": "I turned on the motor."
+            },
+            {
+                "code": "motor_example_the-motor-is-still-running",
+                "text": "The motor is still running."
+            },
+            {
+                "code": "motor_example_the-motor-is-powered-by-sunlight",
+                "text": "The motor is powered by sunlight."
+            },
+            {
+                "code": "motor_example_we-installed-an-electric-motor",
+                "text": "We installed an electric motor."
+            },
+            {
+                "code": "motor_example_he-is-a-motor-mouth",
+                "text": "He is a motor mouth."
+            },
+            {
+                "code": "motor_example_i-need-more-motor-oil-for-my-car",
+                "text": "I need more motor oil for my car."
+            },
+            {
+                "code": "motor_example_their-son-is-behind-in-motor-development",
+                "text": "Their son is behind in motor development."
+            },
+            {
+                "code": "motor_example_you-need-fine-motor-skills-for-the-job",
+                "text": "You need fine motor skills for the job."
+            },
+            {
+                "code": "motor_example_his-favorite-hobby-is-motor-racing",
+                "text": "His favorite hobby is motor racing."
+            },
+            {
+                "code": "motor_example_he-drives-motor-trucks",
+                "text": "He drives motor trucks."
+            },
+            {
+                "code": "motor_example_she-doesn-t-have-license-to-drive-a-motor-vehicle-yet",
+                "text": "She doesn't have license to drive a motor vehicle yet."
+            }
+        ]
+    }
+]
